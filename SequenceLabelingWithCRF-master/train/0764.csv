@@ -1,0 +1,130 @@
+act_tag,speaker,pos,text
+qw,A,"Well/UH ,/, uh/UH ,/, what/WP is/VBZ your/PRP$ favorite/JJ kind/NN of/IN music/NN ?/.","{D Well, } {F uh, } what is your favorite kind of music? /"
+sd,B,"Well/UH ,/, I/PRP have/VBP to/TO say/VB my/PRP$ favorite/JJ type/NN of/IN music/NN would/MD probably/RB be/VB ,/, uh/UH ,/, classical/JJ music/NN ./.","{D Well, } I have to say my favorite type of music would probably be, {F uh, } classical music. /"
+aa,A,"Oh/UH ,/, same/JJ here/RB ./.","{F Oh, } same here. /"
+bh,B,"Oh/UH ,/, really/UH ./.","{F Oh, } really. /"
+ny,A,Yeah/UH ./.,Yeah. /
+qw,B,"What/WP type/NN of/IN music/NN do/VBP you/PRP like/VB in/IN the/DT classical/JJ area/NN ,/,","What type of music do you like in the classical area, /"
+qw,B,"or/CC what/WP era/NN do/VBP you/PRP ,/, era/NN do/VBP you/PRP like/VB the/DT most/JJS ?/.","{C or } what [ era <<mispronounced>> do you, + era do you ] like the most? /"
+sd,A,"Oh/UH ,/, well/UH ,/, I/PRP guess/VBP I/PRP like/VBP a/DT wide/JJ range/NN ./. Uh/UH ,/, everything/NN from/IN ,/, uh/UH ,/, from/IN Baroque/NNP through/IN at/IN least/JJS some/DT modern/JJ music/NN ./.","{F Oh, } {D well, } I guess I like a wide range. {F Uh, } everything [ from, + {F uh, } from ] Baroque through at least some modern music. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC my/PRP$ wife/NN and/CC I/PRP these/DT days/NNS are/VBP especially/RB into/IN opera/NN ./.,{C And } my wife and I these days are especially into opera. /
+sd,A,We/PRP 've/VBP been/VBN sort/RB of/RB opera/NN fans/NNS for/IN a/DT few/JJ years/NNS now/RB ./.,We've been sort of opera fans for a few years now. /
+qy,B,"Um/UH ,/, do/VBP you/PRP go/VB to/IN the/DT operas/NNS that/WDT they/PRP sing/VBP English/NNP or/CC go/VB to/IN the/DT ones/NNS that/WDT they/PRP sing/VBP other/JJ languages/NNS ?/.","{F Um, } do you go to the operas that they sing English or go to the ones that they sing other languages? /"
+%,A,"Well/UH ,/, we/PRP ,/, uh/UH ,/, generally/RB ,/,","{D Well, } we, {F uh, } generally, - /"
+sd,A,the/DT places/NNS we/PRP 've/VBP gone/VBN they/PRP sing/VBP in/IN the/DT original/JJ languages/NNS ./.,the places we've gone they sing in the original languages. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Like/IN the/DT Dallas/NNP opera/NN here/RB normally/RB does/VBZ ,/, I/PRP guess/VBP ./.","Like the Dallas opera here normally does, I guess. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP ,/, I/PRP have/VBP n't/RB gotten/VBN into/IN that/DT too/RB much/RB because/IN ,/, I/PRP ,/, uh/UH ,/, if/IN I/PRP do/VBP n't/RB know/VB the/DT story/NN line/NN and/CC ,/, um/UH ,/, I/PRP do/VBP n't/RB speak/VB the/DT language/NN ,/, then/RB I/PRP have/VBP difficult/JJ time/NN ,/, comprehending/VBG what/WP 's/BES going/VBG on/RP ./.","[ I, + I ] haven't gotten into that too much because, [ I, + {F uh, } if I ] don't know the story line and, {F um, } I don't speak the language, then I have difficult time, comprehending what's going on. /"
+sd,A,"Well/UH ,/, one/CD thing/NN that/WDT 's/HVS helped/VBN us/PRP a/DT lot/NN is/VBZ that/IN ,/, uh/UH ,/, you/PRP ,/, you/PRP know/VBP ,/, you/PRP can/MD buy/VB a/DT lot/NN of/IN these/DT operas/NNS now/RB on/IN video/NN casse-/NN ,/, uh/UH ,/, video/NN tape/NN --/:","{D Well, } one thing that's helped us a lot is that, {F uh, } [ you, + {D you know, } you ] can buy a lot of these operas now on [ video casse-, + {F uh, } video tape -- ] /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC so/RB we/PRP have/VBP quite/RB a/DT collection/NN of/IN those/DT ,/,","-- {C and so } we have quite a collection of those, /"
+sd,A,"and/CC you/PRP watch/VBP them/PRP at/IN home/NN ,/,","{C and } you watch them at home, /"
+sd,A,"and/CC they/PRP have/VBP subtitles/NNS ,/,","{C and } they have subtitles, /"
+sd,A,"so/RB you/PRP ,/, you/PRP figure/VBP out/RP what/WP 's/BES going/VBG on/RP after/IN a/DT while/NN ,/,","{C so } [ you, + you ] figure out what's going on after a while, /"
+sd,A,"and/CC then/RB you/PRP can/MD enjoy/VB it/PRP in/IN the/DT ,/, uh/UH ,/, theater/NN ./.","{C and then } you can enjoy it in the, {F uh, } theater. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"But/CC ,/, you/PRP know/VBP ,/, the/DT ,/, uh/UH ,/, Dallas/NNP opera/NN now/RB has/VBZ ,/, uh/UH ,/, super/JJ titles/NNS on/IN ,/, on/IN all/DT their/PRP$ performances/NNS I/PRP think/VBP ./.","{C But, } {D you know, } the, {F uh, } Dallas opera now has, {F uh, } super titles [ on, + on ] all their performances I think. /"
+qw,B,What/WP is/VBZ that/DT ?/.,What is that? /
+sd,A,"Well/UH ,/, they/PRP ,/, they/PRP give/VBP an/DT ,/, uh/UH ,/, an/DT English/NNP translation/NN on/IN a/DT ,/, on/IN a/DT screen/NN up/IN above/IN the/DT stage/NN ./.","{D Well, } [ they, + they ] give [ an, + {F uh, } an ] English translation [ on a, + on a ] screen up above the stage. /"
+sd,B,"Oh/UH ,/, I/PRP did/VBD n't/RB know/VB that/DT ./.","{F Oh, } I didn't know that. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,That/DT can/MD help/VB people/NNS like/IN me/PRP ./.,That can help people like me. /
+sd,A,"In/IN fact/NN ,/, they/PRP even/RB do/VBP that/DT for/IN operas/NNS sung/VBN ,/, sung/VBN in/IN English/NNP ,/, because/IN it/PRP is/VBZ hard/JJ to/TO understand/VB the/DT words/NNS sometimes/RB ./.","<Throat_clearing> In fact, they even do that for operas [ sung, + sung ] in English, because it is hard to understand the words sometimes. /"
+ba,B,"Well/UH ,/, I/PRP can/MD understand/VB that/DT ./.","<Laughter> {D Well, } I can understand that. /"
+sd,B,"So/RB ,/, I/PRP 'd/MD say/VB ,/,","{C So, } I'd say,"
+x,A,./.,<Throat_clearing>.
++,B,"Vivaldi/NNP is/VBZ probably/RB my/PRP$ favorite/NN ,/, uh/UH ,/, composer/NN ./.","Vivaldi is probably my favorite, {F uh, } composer. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"well/UH ,/, I/PRP really/RB like/VBP Vivaldi/NNP ./.","{D well, } I really like Vivaldi. /"
+sv,A,"Uh/UH ,/, he/PRP 's/BES ,/, uh/UH ,/, definitely/RB one/CD of/IN the/DT ,/, one/CD of/IN the/DT top/JJ of/IN that/DT era/NN ./.","{F Uh, } he's, {F uh, } definitely [ one of the, + one of the ] top of that era. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP like/VBP Baroque/NNP music/NN ,/,","I like Baroque music, /"
+x,A,./.,<Throat_clearing>.
+sd,B,"I/PRP like/VBP full/JJ body/NN music/NN ,/, uh/UH ,/, with/IN the/DT ,/, um/UH ,/, um/UH ,/, with/IN brass/NN and/CC winds/NNS ,/, woodwinds/NNS ,/, instruments/NNS ,/, you/PRP know/VBP ./.","I like full body music, {F uh, } [ with the, + {F um, } {F um, } with ] brass and winds, woodwinds, instruments, {D you know. } /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Course/NN I/PRP like/VBP ,/, uh/UH ,/, also/RB string/NN instruments/NNS ,/,","Course I like, {F uh, } also string instruments, /"
+sd,B,"and/CC I/PRP have/VBP two/CD string/NN instruments/NNS in/IN my/PRP$ house/NN ./. Uh/UH ,/, instrument/NN players/NNS ,/,","{C and } I have two string instruments in my house. {F Uh, } instrument players, /"
+sd,B,both/DT my/PRP$ sons/NNS play/VBP string/NN instruments/NNS ./.,both my sons play string instruments. /
+sd,B,One/CD plays/VBZ the/DT cello/NN,One plays the cello /
+sd,B,and/CC the/DT other/JJ one/CD plays/NNS the/DT viola/NN ./.,{C and } the other one plays the viola. /
+b,A,Oh/UH ./.,Oh <throat_clearing>. /
+sd,B,"So/RB ,/, I/PRP get/VBP to/TO go/VB to/IN at/IN least/JJS four/CD or/CC five/CD concerts/NNS a/DT year/NN ./.","{C So, } I get to go to at least four or five concerts a year <laughter>. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qw,A,"How/WRB ,/, how/WRB old/JJ are/VBP they/PRP ?/.","[ How, + how ] old are they? /"
+sd,B,One/CD is/VBZ thirteen/CD and/CC one/CD is/VBZ eleven/CD ./.,One is thirteen and one is eleven. /
+qy,A,"So/UH they/PRP 're/VBP doing/VBG this/DT in/IN school/NN ,/, or/CC what/WP ?/.","{C So } they're doing this in school, or what? /"
+ny,B,Yes/UH ./.,Yes. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,Yes/UH MUMBLEx/XX ./.,Yes (( )) . /
+sv,A,"Well/UH ,/, you/PRP 've/VBP got/VBN half/PDT a/DT string/NN quartet/NN there/RB ./.","{D Well, } you've got half a string quartet there. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,We/PRP 're/VBP on/IN our/PRP$ way/NN ./.,We're on our way. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"So/UH ,/, uh/UH ,/, um/UH ,/, I/PRP try/VBP to/TO enjoy/VB all/DT of/IN it/PRP ./.","{C So, } {F uh, } {F um, } I try to enjoy all of it. /"
+qy,A,"Well/UH ,/, since/IN you/PRP seem/VBP to/TO like/VB ,/, uh/UH ,/, Italian/JJ music/NN ,/, have/VBP you/PRP ever/RB ,/, uh/UH ,/, gotten/VBN into/IN Gabrielli/NNP or/CC anybody/NN there/RB in/IN that/DT era/NN ,/, the/DT ,/, uh/UH ,/, period/NN right/NN before/IN ,/, actually/RB before/IN Vivaldi/NNP ,/, I/PRP guess/VBP ?/.","{D Well, } since you seem to like, {F uh, } Italian music, have you ever, {F uh, } gotten into Gabrielli or anybody there in that era, the, {F uh, } period right before, actually before Vivaldi, I guess? /"
+na,B,"Um/UH ,/, a/DT little/JJ bit/NN ,/,","{F Um, } a little bit, /"
+sd,B,"but/CC ,/, um/UH ,/, a/DT lot/NN of/IN the/DT ,/, um/UH ,/, music/NN I/PRP do/VBP n't/RB know/VB about/IN ,/, uh/UH ,/, as/RB far/RB as/IN the/DT titles/NNS ,/,","{C but, } {F um, } a lot of the, {F um, } music I don't know about, {F uh, } as far as the titles, /"
+sd,B,"and/CC I/PRP have/VBP to/TO listen/VB to/IN it/PRP ,/, and/CC --/:","{C and } I have to listen to it, [ and -- +"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC figure/VB out/RP ,/,","-- and ] figure out,"
+x,A,./.,<Throat_clearing>.
++,B,what/WP I/PRP 'm/VBP listening/VBG to/IN ./.,what I'm listening to. - /
+sd,B,"Um/UH ,/, I/PRP do/VBP belong/VB to/IN a/DT Musical/NNP Heritage/NNP Society/NNP ./.","{F Um, } I do belong to a Musical Heritage Society. /"
+ba,A,"Oh/UH ,/, yes/UH ,/,","{F Oh, } yes, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+qy,B,Do/VBP you/PRP belong/VB to/IN that/DT ?/.,Do you belong to that? /
+nn,A,"No/UH ,/,","No, /"
+sd,A,"I/PRP do/VBP n't/RB ,/,","I don't, /"
+sd,A,but/CC I/PRP think/VBP I/PRP know/VBP what/WP it/PRP is/VBZ ./.,{C but } I think I know what it is. /
+qy,A,"Is/VBZ n't/RB that/DT a/DT ,/, uh/UH ,/, uh/UH ,/, see/UH ,/,","Isn't that a, {F uh, } {F uh, } {D see, } - /"
+qy,A,"ca/MD n't/RB you/PRP get/VB records/NNS through/IN that/DT or/CC something/NN ,/, recordings/NNS ?/.","can't you get records through that or something, recordings? /"
+na,B,You/PRP can/MD get/VB recordings/NNS ./.,You can get recordings. /
+sd,B,"Uh/UH ,/, they/PRP know/^RB have/VBP them/PRP on/IN compact/JJ disc/NN or/CC --/:","{F Uh, } they know have them on compact disc [ [ or -- +"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: or/CC ,/, uh/UH ,/, or/CC cassettes/NNS or/CC L/NN P/NN -s/NNS ,/,","-- or, ] + {F uh, } or ] cassettes or L P -s, /"
+sd,B,"and/CC ,/, uh/UH ,/, they/PRP do/VBP their/PRP$ ,/, they/PRP do/VBP a/DT lot/NN of/IN original/JJ recordings/NNS themselves/PRP ./.","{C and, } {F uh, } [ they do their, + they do ] a lot of original recordings themselves. /"
+b,A,"Yes/UH ,/,","Yes, /"
+b,A,"yeah/UH ,/,","yeah, /"
+%,A,"I/PRP think/VBP ,/, uh/UH ./.","I think, {F uh. } /"
+sd,B,"But/CC they/PRP also/RB ,/, uh/UH ,/, they/PRP also/RB ,/, uh/UH ,/, go/VBP to/IN the/DT different/JJ composers/NNS ,/, or/CC the/DT different/JJ ,/, I/PRP guess/VBP ,/,","{C But } [ they also, + {F uh, } they also, ] {F uh, } go to the different composers, or the different, I guess, - /"
+t1,B,what/WP do/VBP you/PRP call/VB them/PRP the/DT guys/NNS that/WDT orchestrate/VBP --/:,what do you call them <inhaling> the guys that orchestrate --
+%,A,Uh/UH ./.,{F Uh. } /
++,B,"--/: the/DT con-/NNS ,/, the/DT conductors/NNS ./.","-- [ the con-, + the conductors. ] /"
+aa,A,"Uh/UH ,/, yes/UH ,/,","{F Uh, } yes, /"
+aa,A,right/UH ./.,right <laughter>. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"They/PRP go/VBP to/IN conductors/NNS ,/, uh/UH ,/,","They go to conductors, {F uh, } /"
+sd,B,"and/CC ,/, and/CC they/PRP actually/RB have/VBP them/PRP perform/VB the/DT music/NN ,/,","[ {C and, } + {C and } ] they actually have them perform the music, /"
+sd,B,and/CC they/PRP record/VBP it/PRP ./.,{C and } they record it. /
+bf,A,"So/UH ,/, they/PRP 're/VBP actually/RB commissioned/JJ performances/NNS ./.","{C So, } they're actually commissioned performances. /"
+aa,B,Sure/UH ./.,Sure. /
+sd,B,A/DT lot/NN of/IN them/PRP are/VBP ./.,A lot of them are. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Or/CC they/PRP will/MD kno/VB ,/,","{C Or } they will [ kno-, +"
+x,A,./.,<Throat_clearing>.
++,B,"find/VB out/RP when/WRB they/PRP 're/VBP performing/VBG ,/,","find ] out when they're performing, /"
+sd,B,"and/CC they/PRP will/MD ,/, uh/UH ,/, record/VB the/DT music/NN at/IN that/DT time/NN ./.","{C and } they will, {F uh, } record the music at that time. /"
+sd,B,"And/CC so/RB ,/, uh/UH ,/, it/PRP is/VBZ ,/, uh/UH ,/, uh/UH ,/, high/JJ quality/NN grade/NN music/NN ,/,","{C And so, } {F uh, } it is, {F uh, } {F uh, } high quality grade music, /"
+sd,B,"and/CC ,/, of/IN course/NN ,/, now/RB they/PRP 're/VBP getting/VBG ,/, they/PRP also/RB have/VBP a/DT jazz/NN section/NN ,/,","{C and, } of course, now [ they're getting, + they also have ] a jazz section, /"
+sd,B,"and/CC they/PRP also/RB have/VBP a/DT ,/, uh/UH ,/, more/RBR contemporary/JJ and/CC American/JJ --/:","{C and } they also have a, {F uh, } more contemporary and American --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: uh/UH ,/, composer/NN section/NN ./.","-- {F uh, } composer section. /"
+sd,A,"Well/UH ,/, I/PRP had/VBD go/JJ ,/, heard/VBN good/JJ things/NNS about/IN the/DT ,/, uh/UH ,/, Music/NNP Heritage/NNP Society/NNP ,/,","{D Well, } I had [ go-, + heard good ] things about the, {F uh, } Music Heritage Society, /"
+sd,A,"but/CC if/IN I/PRP get/VBP involved/VBN in/IN one/CD of/IN those/DT things/NNS ,/, I/PRP end/VBP up/RP spending/VBG all/DT my/PRP$ money/NN on/IN --/:","{C but } if I get involved in one of those things, I end up spending all my money [ on -- +"
+b,B,Yeah/UH ./.,<Laughter> Yeah. /
++,A,--/: on/IN music/NN ./.,-- on ] music. /
+sv,B,"Well/UH ,/, you/PRP can/MD control/VB it/PRP ./.","{D Well, } you can control it. /"
+sd,A,"I/PRP almost/RB ,/, uh/UH ,/, almost/RB ,/, uh/UH ,/, bankrupted/VBD myself/PRP out/IN of/IN college/NN as/IN a/DT freshman/NN when/WRB I/PRP got/VBD into/IN the/DT Columbia/NNP Record/NNP Club/NNP many/JJ years/NNS ago/RB ./.","I [ almost, + {F uh, } almost, ] {F uh, } bankrupted myself out of college as a freshman when I got into the Columbia Record Club many years ago. /"
+bh,B,"Oh/UH ,/, really/UH ./.","{F Oh, } really. /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,my/PRP$ roommate/NN signed/VBD me/PRP up/RP ./.,my roommate signed me up. /
+sd,A,"He/PRP got/VBD a/DT bonus/NN record/NN ,/,","He got a bonus record, /"
+sd,A,and/CC I/PRP got/VBD a/DT lot/NN of/IN bills/NNS ./.,{C and } I got a lot of bills <laughter>. /
+bk,B,I/PRP see/VBP ./.,I see. /
+sd,A,So/UH we/PRP have/VBP to/TO watch/VB that/DT ./.,{C So } we have to watch that. /
+ba,B,"Well/UH ,/, that/DT 's/BES good/JJ ./.","{D Well, } that's good. /"
+qy,A,"Uh/UH ,/, do/VBP you/PRP play/VB any/DT instrument/NN yourself/PRP ?/.","{F Uh, } do you play any instrument yourself? /"
+ny,B,"Yes/UH ,/,","Yes, /"
+sd,B,"I/PRP ,/, I/PRP play/VBP guitar/NN and/CC ,/, and/CC early/JJ years/NNS played/VBD saxophone/NN ./.","[ I, + I ] play guitar [ and, + and ] early years played saxophone. /"

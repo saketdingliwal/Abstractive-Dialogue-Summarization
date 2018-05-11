@@ -1,0 +1,119 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",B,Okay/UH ./.,Okay. /
+qw,A,"So/UH what/WP do/VBP you/PRP ,/, uh/UH ,/, think/VB is/VBZ the/DT ,/, uh/UH ,/, the/DT worst/JJS culprit/NN for/IN air/NN pollution/NN ?/.","{D So } what do you, {F uh, } think is [ the, + {F uh, } the ] worst culprit for air pollution? /"
+sv,B,"Well/UH ,/, I/PRP think/VBP it/PRP 's/BES ,/, it/PRP 's/BES probably/RB a/DT combination/NN of/IN things/NNS ./.","{D Well, } I think [ it's, + it's ] probably a combination of things. /"
+sv,B,"Um/UH ,/, factories/NNS that/WDT ,/, that/WDT burn/VBP coal/NN as/IN a/DT ,/, an/DT energy/NN source/NN with/IN sulfur/NN and/CC nitrogen/NN contaminants/NNS ,/, you/PRP know/VBP ,/,","{F Um, } factories [ that, + that ] burn coal as [ a, + an ] energy source with sulfur and nitrogen contaminants, {D you know, } /"
+sv,B,and/CC you/PRP get/VBP sulfur/NN oxides/NNS and/CC nitrogen/NN oxides/NNS ./.,{C and } you get sulfur oxides and nitrogen oxides. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Uh/UH ,/, those/DT are/VBP the/DT ones/NNS I/PRP think/VBP primarily/RB contribute/VBP to/IN acid/NN rain/NN ,/,","{F Uh, } those are the ones I think primarily contribute to acid rain, /"
+sv,B,"and/CC I/PRP think/VBP that/DT 's/BES ,/, that/DT 's/BES probably/RB hurting/VBG us/PRP a/DT little/JJ bit/NN ./.","{C and } I think [ that's, + that's ] probably hurting us a little bit. /"
+sv,B,"It/PRP 's/BES hurting/VBG ,/, you/PRP know/VBP ,/, it/PRP 's/BES hurting/VBG Germany/NNP ,/, for/IN example/NN ,/, too/RB ,/, and/CC some/DT other/JJ parts/NNS of/IN Europe/NNP where/WRB they/PRP ,/, where/WRB they/PRP have/VBP high/JJ industry/NN ./.","[ It's hurting, + {D you know, } it's hurting ] Germany, for example, too, and some other parts of Europe [ where they, + where they ] have high industry. /"
+sv,B,So/RB we/PRP 're/VBP not/RB the/DT lone/JJ ranger/NN here/RB ./.,{C So } we're not the lone ranger here. /
+b,A,Yeah/UH ./.,Yeah. /
+%,A,"I/PRP ,/, uh/UH ,/, I/PRP ,/,","[ I, + {F uh, } I, ] - /"
+sv,A,"it/PRP 's/BES hard/JJ to/TO put/VB the/DT finger/NN on/IN ,/, uh/UH ,/, what/WP 's/BES worse/JJR ,/, you/PRP know/VBP ,/, the/DT acid/JJ rain/NN situation/NN or/CC the/DT ozone/NN depletion/NN ,/, um/UH ,/, with/IN ,/, uh/UH ,/, your/PRP$ hydrocarbons/NNS ,/, uh/UH --/:","it's hard to put the finger on, {F uh, } what's worse, [ you + know, ] the acid rain situation or the ozone depletion, {F um, } with, {F uh, } your hydrocarbons, {F uh } --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: causing/VBG the/DT damage/NN in/IN which/WDT ,/,","-- causing the damage in which, -/"
+sv,B,"Hopefully/RB we/PRP 're/VBP backing/VBG off/RP from/IN that/IN a/DT little/JJ bit/NN ,/,","Hopefully we're backing off from that a little bit, /"
+sv,B,but/CC I/PRP know/VBP we/PRP have/VBP n't/RB cured/VBN it/PRP yet/RB by/IN a/DT long/JJ shot/NN ./.,{C but } I know we haven't cured it yet by a long shot. /
+sd,A,"Well/UH ,/, I/PRP notice/VBP on/IN one/NN of/IN these/DT ,/, uh/UH ,/, home/NN shopping/NN networks/NNS they/PRP were/VBD selling/VBG these/DT ,/, uh/UH ,/, halogen/NN ,/, uh/UH ,/, fire/NN extinguishers/NNS --/:","{D Well, } I notice on one of these, {F uh, } home shopping networks they were selling these, {F uh, } halogen, {F uh, } fire extinguishers -- /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: and/CC the/DT halogen/NN is/VBZ ,/, uh/UH ,/, an/DT ozone/NN depleter/NN ,/,","-- {C and } the halogen is, {F uh, } an ozone depleter, /"
+sd,A,and/CC it/PRP got/VBD hydrocarbons/NNS in/IN there/RB ./.,{C and } it got hydrocarbons in there. /
+sd,A,"It/PRP 's/BES a/DT very/RB clean/JJ ,/, uh/UH ,/, fire/NN extinguisher/NN ,/,","It's a very clean, {F uh, } fire extinguisher, /"
+sd,A,"but/CC it/PRP 's/BES ,/, you/PRP know/VBP ,/, really/RB bad/JJ on/IN the/DT environment/NN ./.","{C but } it's, {D you know, } really bad on the environment. /"
+b,B,Yeah/UH ./.,Yeah. /
+b,B,Huh/UH ./.,{F Huh. } /
+b,B,"Yeah/UH ,/,","Yeah, /"
+ba,B,I/PRP guess/VBP I/PRP missed/VBD that/DT one/NN ./.,I guess I missed that one. /
+%,B,Uh/UH ./.,{F Uh. } /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Automobiles/NNS of/IN course/NN are/VBP contributing/VBG ,/, too/RB ,/,","Automobiles of course are contributing, too, /"
+sv,B,"and/CC ,/, you/PRP know/VBP ,/, how/WRB ,/, how/WRB we/PRP are/VBP with/IN our/PRP$ love/NN affair/NN with/IN the/DT auto/NN --/:","{C and, } you know, [ how, + how ] we are with our love affair with the auto -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"--/: kind/RB of/RB hard/JJ to/TO do/VB anything/NN about/IN that/DT ,/, I/PRP guess/VBP ./.","-- kind of hard to do anything about that, I guess. /"
+aa,A,"I/PRP know/VBP ,/,","I know, /"
+%,A,"uh/UH ,/, in/IN the/DT Twin/NNP Cities/NNP area/NN ,/,","{F uh, } in the Twin Cities area, - /"
+sd,A,"I/PRP just/RB moved/VBD out/IN of/IN there/RB and/CC was/VBD kind/RB of/RB happy/JJ I/PRP timed/VBD it/PRP just/RB right/JJ ,/,","I just moved out of there and was kind of happy I timed it just right, /"
+sd,A,"but/CC they/PRP had/VBD a/DT new/JJ policy/NN where/WRB in/IN order/NN to/TO get/VB your/PRP$ ,/, uh/UH ,/, your/PRP$ license/NN ,/, uh/UH ,/, your/PRP$ car/NN license/NN ,/, uh/UH ,/, renewed/VBN ,/, you/PRP had/VBD to/TO meet/VB the/DT pollution/NN standards/NNS --/:","{C but } they had a new policy where in order to get [ your, + {F uh, } your ] [ license, + {F uh, } your car license, ] {F uh, } renewed, you had to meet the pollution standards -- /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"--/: and/CC ,/, uh/UH ./.","-- {C and, } {F uh. } -/"
+sd,B,"We/PRP have/VBP that/DT here/RB ,/, too/RB ,/,","We have that here, too, /"
+sd,B,"but/CC it/PRP 's/BES part/NN of/IN the/DT inspection/NN sticker/NN ,/, you/PRP know/VBP ,/,","{C but } it's part of the inspection sticker, {D you know, } /"
+sd,B,they/PRP put/VBP a/DT probe/NN in/IN your/PRP$ exhaust/NN pipe/NN,they put a probe in your exhaust pipe /
+sd,B,"and/CC ,/, and/CC the/DT computer/NN reads/VBZ whatever/WDT the/DT ionization/NN is/VBZ coming/VBG out/RB ,/,","[ {C and, } + {C and } ] the computer reads whatever the ionization is coming out, /"
+sd,B,and/CC --/:,{C and --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: so/RB that/DT 's/BES ,/, you/PRP know/VBP ,/, that/DT 's/BES the/DT way/NN they/PRP 're/VBP dealing/VBG with/IN it/PRP here/RB ./.","-- so } [ that's, + {D you know, } that's ] the way they're dealing with it here. /"
+b,A,"Yeah/UH ,/, uh/UH ,/,","Yeah, {F uh, } /"
+b,A,yeah/UH,yeah /
+sd,A,"I/PRP guess/VBP that/DT was/VBD just/RB mainly/RB in/IN the/DT cities/NNS there/RB ,/,","I guess that was just mainly in the cities there, /"
+sd,A,"and/CC as/RB far/RB as/IN where/WRB I/PRP live/VBP ,/, I/PRP do/VBP n't/RB have/VB to/TO do/VB that/DT ,/,","{C and } as far as where I live, I don't have to do that, /"
+sd,A,but/CC --/:,{C but } --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: I/PRP have/VBP an/DT old/JJ car/NN which/WDT I/PRP doubt/VBP would/MD ,/, uh/UH ,/, would/MD ,/, uh/UH ,/, pass/VB the/DT inspection/NN ,/, a/DT seventy-six/CD ,/,","-- I have an old car which I doubt [ would, + {F uh, } would, ] {F uh, } pass the inspection, a seventy-six, /"
+sd,A,"and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, there/EX 's/BES no/DT way/NN I/PRP would/MD put/VB in/RB a/DT lot/NN of/IN money/NN to/TO ,/, to/TO repair/VB it/PRP --/:","{C and, } {F uh, } {D you know, } there's no way I would put in a lot of money [ to, + to ] repair it --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: to/TO meet/VB standards/NNS ./.,-- to meet standards. /
+sv,B,It/PRP 'd/MD probably/RB be/VB difficult/JJ anyway/RB ./.,It'd probably be difficult anyway. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"So/RB ,/, although/IN I/PRP do/VBP what/WP I/PRP can/MD to/TO ,/, to/TO cut/VB down/RP pollution/NN ,/,","{C So, } although I do what I can [ to, + to ] cut down pollution, /"
+%,A,"but/CC ,/, uh/UH ./.","{C but, } {F uh. } -/"
+sd,B,"I/PRP was/VBD just/RB reading/VBG an/DT article/NN in/IN ,/, uh/UH ,/, MOTHER/NNP EARTH/NNP NEWS/NNP ,/, MOTHER/NNP EARTH/NNP NEWS/NNP magazine/NN --/:","I was just reading an article in, {F uh, } [ MOTHER EARTH NEWS, + MOTHER EARTH NEWS ] magazine -- /"
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"--/: and/CC ,/, uh/UH ,/, they/PRP 've/VBP got/VBD a/DT new/JJ ,/, uh/UH ,/,","-- {C and, } {F uh, } they've got a new, {F uh, } - /"
+sd,B,you/PRP know/VBP a/DT lot/NN of/IN places/NNS are/VBP burning/VBG wood/NN --/:,{D you know } a lot of places are burning wood -- /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"--/: a/DT lot/NN ,/, a/DT lot/NN of/IN people/NNS are/VBP burning/VBG wood/NN ,/,","-- [ a lot, + a lot ] of people are burning wood, /"
+%,B,"those/DT of/IN us/PRP who/WP have/VBP ,/,","those of us who have, - /"
+sd,B,"I/PRP 've/VBP got/VBN a/DT place/NN in/IN the/DT country/NN ,/, you/PRP know/VBP --/:","I've got a place in the country, {D you know } -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC ,/, uh/UH ,/, they/PRP 've/VBP had/VBN catalytic/JJ con/JJ ,/, you/PRP know/VBP ,/, catalytic/JJ converters/NNS on/IN those/DT ,/, on/IN ,/,","-- {C and, } {F uh, } they've had [ catalytic con-, + {D you know, } catalytic converters ] on those, on, - /"
+sd,B,"uh/UH ,/, I/PRP think/VBP they/PRP 're/VBP required/VBN in/IN California/NNP and/CC Oregon/NNP and/CC ,/, and/CC Washington/NNP ,/,","{F uh, } I think they're required in California and Oregon [ and, + and ] Washington, /"
+sd,B,"but/CC they/PRP 've/VBP had/VBN up/RB those/DT for/IN quite/RB a/DT while/NN ,/,","{C but } they've had up those for quite a while, /"
+sd,B,"and/CC somebody/NN 's/HVS come/VBN up/RP with/IN a/DT new/JJ one/NN that/WDT ,/, uh/UH ,/, sort/RB of/RB ,/,","{C and } somebody's come up with a new one that, {F uh, } sort of, - /"
+sd,B,"it/PRP 's/BES a/DT ,/, it/PRP 's/BES a/DT catalytic/JJ converter/NN ,/,","[ it's a, + it's a ] catalytic converter, /"
+sd,B,"it/PRP 's/BES ,/, it/PRP 's/BES a/DT plate/NN that/WDT fits/VBZ in/IN ,/, you/PRP know/VBP ,/, into/IN the/DT smoke/NN pipe/NN --/:","[ it's, + it's ] a plate that fits [ in, + {D you know, } into ] the smoke pipe -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"--/: and/CC ,/, uh/UH ,/, apparently/RB it/PRP sort/RB of/RB feeds/VBZ itself/PRP ./.","-- {C and, } {F uh, } apparently it sort of feeds itself. /"
+sd,B,"The/DT more/JJR smoke/NN is/VBZ produced/VBN ,/, you/PRP know/VBP ,/,","The more smoke is produced, {D you know, } - /"
+sd,B,"after/IN you/PRP get/VBP to/TO like/UH five/CD hundred/CD degrees/NNS ,/, the/DT higher/JJR it/PRP gets/VBZ the/DT more/RBR complete/JJ the/DT combustion/NN is/VBZ ./.","after you get to like five hundred degrees, the higher it gets the more complete the combustion is. /"
+sd,B,And/CC it/PRP sounds/VBZ real/RB neat/JJ ./.,{C And } it sounds real neat. /
+sd,B,"I/PRP have/VBP n't/RB seen/VBN them/PRP priced/VBN anywhere/RB yet/RB ,/,","I haven't seen them priced anywhere yet, /"
+sd,B,"but/CC that/DT ,/, that/DT sounds/VBZ like/IN that/DT might/MD help/VB solve/VB that/DT problem/NN even/RB on/IN --/:","{C but } [ that, + that ] sounds like that might help solve that problem even on --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: you/PRP know/VBP ,/, old/JJ ,/, old/JJ ,/, uh/UH ,/, older/JJR stoves/NNS that/WDT do/VBP n't/RB have/VB any/DT kind/NN of/IN E/NNP P/NNP A/DT requirements/NNS on/IN them/PRP ./.","-- {D you know, } [ [ old, + old, ] + {F uh, } older ] stoves that don't have any kind of E P A requirements on them. /"
+sv,B,"That/DT might/MD help/VB a/DT little/JJ bit/NN ,/, especially/RB in/IN some/DT places/NNS ./.","That might help a little bit, especially in some places. /"
+sd,B,We/PRP 're/VBP really/RB lucky/JJ here/RB ./.,We're really lucky here. /
+sd,B,We/PRP have/VBP a/DT prevailing/JJ southerly/JJ wind/NN that/WDT blows/VBZ just/RB about/IN everything/NN out/RB ./.,We have a prevailing southerly wind that blows just about everything out. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Now/UH sometimes/RB we/PRP get/VBP a/DT kind/NN of/IN a/DT ,/,","{D Now } sometimes we get a kind of a, - /"
+sd,B,"especially/RB in/IN ,/, in/IN ,/, uh/UH ,/, autumn/NN it/PRP seem/VBZ like/IN we/PRP get/VBP kind/RB of/RB a/DT brown/JJ haze/NN sitting/VBG on/IN us/PRP ,/,","especially [ in, + in, ] {F uh, } autumn it seem like we get kind of a brown haze sitting on us, /"
+sd,B,but/CC most/RBS of/IN the/DT time/NN it/PRP 's/BES blowing/VBG out/RB pretty/RB well/RB ./.,{C but } most of the time it's blowing out pretty well. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,Probably/RB blowing/VBG up/IN there/RB to/IN you/PRP guys/NNS ./.,Probably blowing up there to you guys <laughter>. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"well/UH ,/, well/UH around/IN here/RB I/PRP ,/, we/PRP get/VBP ,/, uh/UH ,/,","{D well, } {D well } around here [ I, + we ] get, {F uh, } - /"
+sd,A,"well/UH it/PRP depends/VBZ ,/, you/PRP know/VBP ,/,","{D well } it depends, {D you know, } /"
+sd,A,"either/CC in/IN the/DT ,/, in/IN the/DT winter/NN time/NN it/PRP ,/, it/PRP blows/VBZ it/PRP your/PRP$ way/NN ,/,","{C either } [ in the, + in the ] winter time [ it, + it ] blows it your way, /"
+sd,A,and/CC in/IN the/DT --/:,{C and } in the --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: summer/NN time/NN --/:,-- summer time <laughter> --
+^2,B,It/PRP comes/VBZ back/RB ./.,It comes back. /
++,A,--/: we/PRP probably/RB get/VBP yours/PRP ./.,-- we probably get yours. /
+b,B,Yeah/UH ./.,<Laughter> Yeah. /
+sv,B,"I/PRP really/RB think/VBP ,/, uh/UH ,/, you/PRP know/VBP ,/, we/PRP 're/VBP doing/VBG some/DT ,/, some/DT important/JJ things/NNS ./.","I really think, {F uh, } {D you know, } we're doing [ some, + some ] important things. /"
+sv,B,"Education/NN ,/, raising/VBG consciousness/NN awareness/NN ,/,","Education, raising consciousness awareness, - /"
+%,B,"uh/UH ,/, I/PRP know/VBP school/NN kids/NNS ,/,","{F uh, } I know school kids, - /"
+sd,B,"I/PRP work/VBP for/IN the/DT school/NN district/NN here/RB ,/,","I work for the school district here, /"
+sd,B,"and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, this/DT is/VBZ one/CD of/IN the/DT big/JJ things/NNS with/IN kids/NNS ./.","{C and, } {F uh, } {D you know, } this is one of the big things with kids. /"
+sd,B,"Kids/NNS are/VBP writing/VBG letters/NNS to/IN the/DT newspapers/NNS about/IN ,/, you/PRP know/VBP ,/, telling/VBG adults/NNS to/TO --/:","Kids are writing letters to the newspapers [ about, + ] {D you know, } telling adults to --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: clean/VB up/RP their/PRP$ act/NN,-- clean up their act /
+%,B,"and/CC ,/, it/PRP 's/BES uh/UH ,/, you/PRP know/VBP ,/,","{C and, } it's {F uh, } {D you know, } - /"
+sv,B,I/PRP hope/VBP we/PRP 're/VBP not/RB too/RB late/JJ with/IN it/PRP ./.,I hope we're not too late with it. /
+sd,B,"We/PRP 're/VBP ,/, we/PRP 're/VBP ,/, uh/UH ,/, we/PRP 're/VBP having/VBG all/DT kinds/NNS of/IN recycling/NN ./.","[ [ We're, + we're, ] + {F uh, } we're ] having all kinds of recycling. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"well/UH ,/, it/PRP ,/, uh/UH ,/, th-/DT ,/, that/DT 's/BES a/DT big/JJ thing/NN ,/, too/RB ./.","{D well, } it, {F uh, } [ th-, + that's ] a big thing, too. /"
+sd,A,"I/PRP know/VBP it/PRP has/VBZ nothing/NN to/TO do/VB with/IN air/NN pollution/NN ,/,","I know it has nothing to do with air pollution, /"
+%,A,"but/CC I/PRP kind/RB of/RB look/VBP at/IN the/DT way/NN people/NNS treat/VBP our/PRP$ ,/,","{C but } I kind of look at the way people treat our, -/"

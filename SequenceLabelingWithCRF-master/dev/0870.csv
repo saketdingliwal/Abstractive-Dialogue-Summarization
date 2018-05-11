@@ -1,0 +1,362 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+fa,A,sorry/UH ./.,sorry. /
+ba,B,"Wow/UH ,/,","Wow, /"
+bd,B,that/DT 's/BES okay/JJ,that's okay /
+ad,B,"So/RB ,/, tell/VB me/PRP about/IN your/PRP$ home/NN ./.","<breathing> <laughter>. {D So, } tell me about your home. /"
+sd,A,"Oh/UH ,/, it/PRP 's/BES ,/, uh/UH ,/, it/PRP looks/VBZ like/IN a/DT little/JJ shot/NN gun/NN house/NN ,/, almost/RB ./.","{F Oh, } [ it's, + {F uh, } it ] looks like a little shot gun house, almost. /"
+sd,A,It/PRP 's/HVS got/VBN three/CD bedrooms/NNS going/VBG along/IN one/CD side/NN and/CC the/DT living/NN room/NN and/CC kitchen/NN on/IN the/DT other/JJ ./.,It's got three bedrooms going along one side and the living room and kitchen on the other. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"It/PRP 's/BES ,/, uh/UH ,/, an/DT older/JJR home/NN ,/,","It's, {F uh, } an older home, /"
+sd,A,"it/PRP 's/BES not/RB new/JJ ,/,","it's not new, /"
+sd,A,"I/PRP like/VBP it/PRP though/RB ,/,","I like it though, /"
+sd,A,it/PRP 's/BES big/JJ ./.,it's big. /
+b,B,"Oh/UH really/UH ,/,","{F Oh } really, /"
+qw,B,what/WDT kind/NN of/IN square/NN footage/NN ?/.,what kind of square footage? /
+h,A,"Oh/UH ,/, I/PRP would/MD n't/RB know/VB ,/,","{F Oh, } I wouldn't know, /"
+sd,A,"I/PRP measured/VBD it/PRP one/CD time/NN ,/,","I measured it one time,"
+%,B,Uh/UH ./.,{F Uh. } /
++,A,"because/IN I/PRP was/VBD ,/, uh/UH ,/, we/PRP had/VBD saw/VBN some/DT termites/NNS","because [ I was, + ] {F uh, } we had saw some termites /"
+sd,A,and/CC we/PRP thought/VBD about/IN getting/VBG it/PRP sprayed/VBN ./.,{C and } we thought about getting it sprayed. /
+sd,A,"I/PRP think/VBP it/PRP was/VBD like/IN ,/,","I think it was like, - /"
+sd,A,"I/PRP ca/MD n't/RB remember/VB ,/,","I can't remember, /"
+fa,A,I/PRP 'm/VBP sorry/JJ,I'm sorry /
+x,A,./.,<laughter>.
+bd,B,"That/DT 's/BES okay/JJ ,/,","That's okay, /"
+bd,B,that/DT 's/BES okay/JJ ./.,that's okay. /
+sd,A,"It/PRP 's/BES big/JJ enough/RB for/IN us/PRP ,/, though/RB ./.","It's big enough for us, though. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,We/PRP kind/RB of/RB need/VBP maybe/RB one/CD more/JJR room/NN ./.,We kind of need maybe one more room. /
+sd,A,We/PRP 've/VBP got/VBN two/CD children/NNS ./.,We've got two children. /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,okay/UH ./.,okay. /
+qw,B,"So/RB where/WRB do/VBP you/PRP live/VB at/IN ,/,","{C So } where do you live at, - /"
+qw^d,B,"I/PRP mean/VBP wha/WDT ,/, what/WDT part/NN of/IN town/NN ./. In/IN here/RB in/IN Denison/NNP ./.","{E I mean } [ wha-, + what ] part of town. [ In + here in ] Denison. /"
+b,A,"Okay/UH ,/,","Okay, /"
+%,A,"we-/UH ,/,","we-, - /"
+sd,A,"see/UH ,/, that/DT 's/BES north/RB ./.","{D see, } that's north. /"
+qrr,B,"Or/CC down/IN here/RB in/IN Denison/NNP ,/,","{C Or } down here in Denison, - /"
+b,B,yeah/UH ./.,yeah. /
+b,A,"Okay/UH ,/,","Okay, /"
+sd,A,"I/PRP live/VBP ,/, I/PRP live/VBP in/IN Plano/NNP ,/,","[ I live, + I live ] in Plano, /"
+sd,A,so/RB it/PRP 's/BES north/RB to/IN me/PRP ./.,{C so } it's north to me <laughter>. /
+b,B,"Okay/UH ,/,","Okay, /"
+sd,B,up/IN here/RB then/RB ./.,up here then <laughter>. /
+sd,A,"I/PRP say/VBP down/IN ,/,","I say down, /"
+sd,A,I/PRP 'm/VBP really/RB from/IN Kentucky/NNP ./.,I'm really from Kentucky. /
+sd,B,"I/PRP was/VBD going/VBG to/TO say/VB you/PRP did/VBD n't/RB have/VB the/DT typical/JJ ,/,","I was going to say you didn't have the typical, - /"
+sv,B,"you/PRP have/VBP a/DT southern/JJ accent/NN ,/,","you have a southern accent, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,but/CC you/PRP do/VBP n't/RB have/VB a/DT Texas/NNP accent/NN ./.,{C but } you don't have a Texas accent. /
+b,A,Right/UH ./.,Right. /
+sd,B,"Well/UH I/PRP 'm/VBP originally/RB from/IN ,/, uh/UH ,/, Ohio/NNP ,/, Cincinnati/NNP ,/,","{D Well } I'm originally from, {F uh, } Ohio, Cincinnati, /"
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,B,"so/RB I/PRP 'm/VBP famili/JJ ,/, uh/UH ,/, familiar/JJ with/IN ,/, uh/UH ,/,","{C so } I'm [ famili-, + {F uh, } familiar ] with, {F uh, } -/"
+^2,A,"That/DT area/NN ,/,","That area, - /"
+^2,A,that/DT dialect/NN ./.,that dialect. -/
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,right/UH,right /
+sd,B,"Also/RB I/PRP lived/VBD in/IN Georgia/NNP for/IN about/RB four/CD years/NNS ,/,","<laughter>. Also I lived in Georgia for about four years, /"
+%,B,"so/IN the/DT ,/, uh/UH ,/,","{C so } the, {F uh, } - /"
+sd,B,"there/EX 's/BES a/DT difference/NN too/RB ,/, between/IN east/NN and/CC west/NN ,/, in/IN the/DT south/NN ./.","there's a difference too, between east and west, in the south."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"And/CC ,/, uh/UH ,/, the/DT way/NN in/IN which/WDT people/NNS speak/VBP ./.","{C And, } {F uh, } the way in which people speak. /"
+sd,B,"Anyway/UH ,/, my/PRP$ home/NN is/VBZ ,/, um/UH ,/, I/PRP guess/VBP it/PRP 's/BES about/RB twenty-five/CD hundred/CD square/NN foot/NN","{D Anyway, } my home [ is, + {F um, } I guess it's ] about twenty-five hundred square foot /"
+sd,B,"and/CC I/PRP have/VBP ,/, uh/UH ,/, four/CD bedrooms/NNS at/IN the/DT present/NN ./.","{C and } I have, {F uh, } four bedrooms at the present. /"
+sd,B,We/PRP 're/VBP busting/VBG out/RP walls/NNS and/CC things/NNS like/IN that/DT ./.,We're busting out walls and things like that. /
+sd,A,That/DT 's/BES what/WP I/PRP want/VBP to/TO do/VB ./.,That's what I want to do. /
+qw,A,How/WRB many/JJ kids/NNS do/VBP you/PRP have/VB ?/.,How many kids do you have? /
+sd,B,"We/PRP have/VBP two/CD ,/,","We have two, /"
+sd,B,we/PRP have/VBP two/CD ./.,we have two. /
+qy,A,"Do/VBP you/PRP have/VB enough/JJ bedroom/NN space/NN ,/, then/RB ?/.","Do you have enough bedroom space, then? /"
+ny,B,"Yeah/UH ,/,","<Music> Yeah, /"
+sd,B,"we/PRP 'll/MD have/VB enough/JJ bedroom/NN space/NN ,/,","we'll have enough bedroom space, /"
+%,B,"it/PRP 's/BES ,/,","it's, - /"
+sd,B,we/PRP 're/VBP rearranging/VBG our/PRP$ house/NN because/IN the/DT bedrooms/NNS are/VBP kind/RB of/RB small/JJ ./.,we're rearranging our house because the bedrooms are kind of small. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC so/RB ,/, we/PRP 're/VBP going/VBG to/TO enlarge/VB our/PRP$ master/NN bedroom/NN and/CC take/VB out/RB a/DT couple/NN of/IN walls/NNS and/CC enlarge/VB it/PRP ./. And/CC then/RB shuffle/VB the/DT rooms/NNS around/IN a/DT little/JJ bit/NN ./.","{C And so, } we're going to enlarge our master bedroom and take out a couple of walls and enlarge it. And then shuffle the rooms around a little bit. /"
+sd,A,That/DT 's/BES kind/RB of/RB like/IN what/WP we/PRP 'd/MD like/VB to/TO do/VB ./.,That's kind of like what we'd like to do. /
+sd,A,We/PRP just/RB had/VBD a/DT baby/NN a/DT couple/NN months/NNS ago/RB,We just had a baby a couple months ago /
+sd,A,"and/CC we/PRP 've/VBP got/VBN a/DT den/NN ,/,","{C and } we've got a den, /"
+sd,A,it/PRP 's/BES more/RBR or/CC less/RBR a/DT spare/JJ room/NN ./.,it's more or less a spare room. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"We/PRP rarely/RB go/VBP in/IN there/RB ,/, except/IN for/IN to/TO play/VB chess/NNP ./.","We rarely go in there, except for to play chess. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,We/PRP want/VBP to/TO make/VB that/DT a/DT bedroom/NN for/IN my/PRP$ stepdaughter/NN and/CC my/PRP$ daughter/NN,We want to make that a bedroom for my stepdaughter and my daughter /
+sd,A,"and/CC ,/, uh/UH ,/, we/PRP need/VBP the/DT one/CD extra/JJ room/NN ./.","{C and, } {F uh, } we need the one extra room. /"
+sd,A,"Like/IN ,/, like/IN you/PRP said/VBD ,/, our/PRP$ rooms/NNS are/VBP too/RB s-/XX ,/, the/DT bedrooms/NNS are/VBP too/RB small/JJ ,/,","[ Like, + like ] you said, [ our rooms are too s-, + the bedrooms are too small, ] /"
+sd,A,"the/DT living/NN room/NN and/CC kitchen/NN are/VBP huge/JJ ,/,","the living room and kitchen are huge, /"
+b,B,Right/UH ./.,Right. /
+sd,A,but/CC the/DT bedrooms/NNS are/VBP too/RB small/JJ ./.,{C but } the bedrooms are too small. /
+sd,A,"Where/WRB you/PRP 've/VBP got/VBN to/TO leave/VB the/DT furniture/NN just/RB one/CD certain/JJ way/NN ,/, you/PRP ca/MD n't/RB rearrange/VB it/PRP at/IN all/DT ./.","Where you've got to leave the furniture just one certain way, you can't rearrange it at all. /"
+b,B,"Right/UH ,/,","Right, /"
+%,B,"there/EX 's/BES they/PRP ,/, uh/UH ,/,","there's they, {F uh, } - /"
+sd,B,"I/PRP know/VBP what/WP you/PRP 're/VBP saying/VBG there/RB ,/,","I know what you're saying there, /"
+sd,B,ours/PRP is/VBZ the/DT same/JJ,ours is the same /
+sd,B,and/CC they/PRP tend/VBP to/TO put/VB windows/NNS in/IN the/DT strangest/JJS places/NNS ./.,{C and } they tend to put windows in the strangest places. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"You/PRP know/VBP we/PRP have/VBP windows/NNS in/IN our/PRP$ bathrooms/NNS which/WDT really/RB makes/VBZ it/PRP difficult/JJ for/IN ,/,","{D You know } we have windows in our bathrooms which really makes it difficult for, -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,we/PRP 've/VBP got/VBN two/CD great/JJ big/JJ windows/NNS in/IN our/PRP$ back/NN bathroom/NN ./.,we've got two great big windows in our back bathroom. /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,B,"yo-/PRP ,/, you/PRP 're/VBP kind/RB of/RB limited/JJ in/IN what/WP you/PRP can/MD do/VB there/RB and/CC everything/NN ,/,","[ yo-, + you're ] kind of limited in what you can do there and everything, /"
+%,B,so/RB ./.,{C so. } -/
+sd,A,No/DT privacy/NN ./.,No privacy. /
+aa,B,"No/UH ,/,","No, /"
+sd,B,"we/PRP do/VBP n't/RB have/VB a/DT lot/NN of/IN that/DT ,/,","we don't have a lot of that, /"
+%,B,yeah/UH ./.,yeah. /
+sd,A,"Well/UH ,/, we/PRP 've/VBP got/VBN at/IN least/JJS two/CD windows/NNS on/IN every/DT wall/NN in/IN the/DT house/NN ./.","{D Well, } we've got at least two windows on every wall in the house. /"
+%,A,"It/PRP ,/,","It, -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP 'd/MD hate/VB to/TO clean/VB these/DT windows/NNS ,/,","I'd hate to clean these windows, /"
+sd,A,I/PRP really/RB would/MD ./.,I really would. /
+sd,B,I/PRP figured/VBD I/PRP 'm/VBP going/VBG to/TO have/VB to/TO hire/VB somebody/NN to/TO remove/VB our/PRP$ windows/NNS and/CC put/VB new/JJ ones/NNS in/IN that/WDT are/VBP easier/JJR to/TO clean/VB ./.,<Cough> I figured I'm going to have to hire somebody to remove our windows and put new ones in that are easier to clean. /
+sd,B,Ours/PRP are/VBP the/DT double/JJ pane/NN,Ours are the double pane /
+sd,B,"and/CC you/PRP ca/MD n't/RB really/RB clean/VB them/PRP on/IN the/DT inside/NN ,/, you/PRP know/VBP ./.","{C and } you can't really clean them on the inside, {D you know. } /"
+sd,A,"Ours/PRP are/VBP those/DT too/RB ,/,","Ours are those too, /"
+b,A,yeah/UH ./.,yeah. /
+sd,A,You/PRP must/MD live/VB in/IN an/DT older/JJR home/NN too/RB then/RB ./.,You must live in an older home too then. /
+aa,B,"Right/UH ,/,","Right, /"
+sd,B,"I/PRP do/VBP ,/,","I do, /"
+sd,B,"the/DT house/NN is/VBZ about/RB ,/, um/UH ,/, I/PRP 'd/MD say/VB almost/RB thirty/CD years/NNS old/JJ ./.","the house is about, {F um, } I'd say almost thirty years old. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"So/RB it/PRP 's/BES not/RB a/DT new/JJ home/NN ,/,","{C So } it's not a new home, /"
+sd,B,"it/PRP 's/HVS ,/, it/PRP 's/HVS seen/VBN some/DT wear/NN and/CC tear/NN ./.","[ it's, + it's ] seen some wear and tear."
+sd,A,Ours/PRP has/VBZ too/RB ./.,Ours has too. /
++,B,You/PRP know/VBP ./.,{D You know. } /
+sd,A,"When/WRB we/PRP moved/VBD in/IN the/DT man/NN that/WDT sold/VBD it/PRP to/IN us/PRP had/VBD said/VBN that/IN he/PRP remodeled/VBD it/PRP ,/,","When we moved in the man that sold it to us had said that he remodeled it, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"and/CC he/PRP did/VBD it/PRP hisself/PRP ,/,","{C and } he did it hisself, /"
+sd,A,"so/RB most/JJS of/IN that/DT ,/, by/IN now/RB ,/, is/VBZ falling/VBG apart/RP ./.","{C so } most of that, by now, is falling apart. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"You/PRP know/VBP ,/, well/UH I/PRP mean/VBP ,/, it/PRP 's/BES not/RB just/RB horrible/JJ ,/,","{D You know, } {D well } {E I mean, } it's not just horrible, /"
+sd,A,"but/CC like/IN this/DT tile/NN 's/HVS come/VBN loose/JJ off/IN the/DT wall/NN ,/,","{C but } {D like } this tile's come loose off the wall, /"
+sd,A,the/DT whole/JJ bathroom/NN is/VBZ covered/VBN from/IN ceiling/NN to/IN foot/NN in/IN tile/NN,the whole bathroom is covered from ceiling to foot in tile /
+sd,A,and/CC I/PRP do/VBP n't/RB like/VB that/DT at/IN all/DT ./.,{C and } I don't like that at all. /
+ba,B,"Um/UH ,/, that/DT is/VBZ awful/JJ ./.","{F Um, } that is awful. /"
+sd,A,"With/IN that/DT ,/, uh/UH ,/, the/DT great/RB big/JJ tiles/NNS ,/, square/JJ tiles/NNS like/IN ,/, that/WDT you/PRP put/VBP on/IN the/DT floor/NN ,/,","With that, {F uh, } the great big [ tiles, + square tiles ] {D like, } that you put on the floor,"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+qy,B,he/PRP did/VBD it/PRP in/IN that/DT ?/.,he did it in that? /
++,A,"the/DT ,/, the/DT huge/JJ one/NN ./.","[ the, + the ] huge one. /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,instead/IN of/IN wallpaper/NN ./.,instead of wallpaper. /
+sd,A,"I/PRP would/MD n't/RB mind/VB it/PRP if/IN it/PRP was/VBD like/IN short/JJ tiles/NNS ,/,","I wouldn't mind it if it was {D like } short tiles, /"
+sd,A,"for/IN that/DT you/PRP put/VBP ,/,","for that you put, -/"
+^2,B,"The/DT normal/JJ tiles/NNS ,/,","The normal tiles, /"
+b,B,right/UH ./.,right. /
+aa,A,right/UH,right /
+sd,A,"that/WDT you/PRP put/VBP around/IN a/DT bathtub/NN ,/,","that you put around a bathtub, /"
+sd,A,that/DT would/MD be/VB prettier/JJR ./.,that would be prettier. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,But/CC this/DT looks/VBZ like/IN floor/NN covering/NN on/IN the/DT wall/NN ./.,{C But } this looks like floor covering on the wall. /
+sd,A,It/PRP just/RB does/VBZ n't/RB look/VB good/JJ ./.,It just doesn't look good. /
+sd,B,"Oh/UH ,/, and/CC also/RB they/PRP 're/VBP very/RB heavy/JJ","{F Oh, } {C and } also they're very heavy /"
+sd,B,and/CC so/RB they/PRP tend/VBP to/TO come/VB off/RP a/DT whole/JJ lot/NN easier/JJR ./.,{C and so } they tend to come off a whole lot easier. /
+b,A,"Right/UH ,/,","Right, /"
+sd,A,there/EX 's/BES one/CD big/JJ one/NN that/WDT has/VBZ come/VBN off/RP,there's one big one that has come off /
+sd,A,"and/CC short/JJ of/IN putting/VBG nails/NNS through/IN it/PRP ,/, we/PRP ca/MD n't/RB get/VB it/PRP back/RB on/RP ,/,","{C and } short of putting nails through it, we can't get it back on, /"
+%,A,so/RB ./.,{C so. } -/
+b,B,Um/UH ./.,{F Um. } /
+sd,A,And/CC he/PRP rewired/VBD the/DT house/NN,{C And } he rewired the house /
+sd,A,"and/CC it/PRP 's/BES shorting/VBG out/RP here/RB and/CC there/RB ,/,","{C and } it's shorting out here and there, /"
+%,A,and/CC,{C and } - /
+x,A,./.,<laughter>.
+ba,B,"Oh/UH ,/, wow/UH ,/,","{F Oh, } wow, /"
+%,B,"I/PRP ,/,","I, - /"
+sd,B,"that/DT 's/BES one/CD of/IN the/DT things/NNS we/PRP 've/VBP been/VBN fortunate/JJ with/IN ,/, is/VBZ our/PRP$ ,/, uh/UH ,/, wiring/NN is/VBZ okay/JJ ./.","that's one of the things we've been fortunate with, is our, {F uh, } wiring is okay. /"
+sd,B,"We/PRP do/VBP n't/RB have/VB a/DT ,/, we/PRP do/VBP n't/RB have/VB enough/JJ power/NN ,/,","[ We don't have a, + we don't have ] enough power, /"
+sd,B,"um/UH ,/, or/CC our/PRP$ breakers/NNS are/VBP n't/RB ,/, are/VBP n't/RB powerful/JJ enough/RB to/TO take/VB ,/, to/TO ,/, to/TO really/RB help/VB with/IN the/DT load/NN in/IN the/DT house/NN ./.","{F um, } {C or } our breakers [ aren't, + aren't ] powerful enough [ [ to take, + to, ] + to ] really help with the load in the house. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP mean/VBP we/PRP need/VBP to/TO redo/VB some/DT ,/, rewiring/NN ourselves/PRP","{E I mean } we need to redo some, rewiring ourselves /"
+sd,B,but/CC our/PRP$ plumbing/NN is/VBZ awful/JJ ./.,{C but } our plumbing is awful. /
+sd,B,"There/EX is/VBZ n-/XX ,/, there/EX is/VBZ a/DT shut/VB off/RP valve/NN that/WDT 's/BES outside/IN that/WDT does/VBZ n't/RB work/VB ,/,","[ There is n-, + there is ] a shut off valve that's outside that doesn't work, /"
+b,A,Um/UH ./.,{F Um. } /
+sd,B,"and/CC there/EX 's/BES no/DT other/JJ real/JJ shut/VB off/RP valves/NNS inside/IN the/DT house/NN ,/,","{C and } there's no other real shut off valves inside the house, /"
+sd,B,"so/IN if/IN something/NN breaks/VBZ ,/, we/PRP have/VBP to/TO shut/VB it/PRP off/RP from/IN the/DT main/NN ,/, in/IN the/DT street/NN ,/,","{C so } if something breaks, we have to shut it off from the main, in the street,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"you/PRP know/VBP ,/,","{D you know, } /"
+sd,B,"and/CC ,/, oh/UH ,/, it/PRP 's/BES ,/, it/PRP can/MD be/VB really/RB bizarre/JJ ./.","{C and, } {F oh, } [ it's, + it ] can be really bizarre. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,And/CC we/PRP never/RB know/VBP where/WRB it/PRP 's/BES going/VBG to/TO flood/VB ./.,{C And } we never know where it's going to flood. /
+sd,A,We/PRP 've/VBP got/VBN power/NN surges/NNS on/IN the/DT west/JJ side/NN of/IN our/PRP$ house/NN ./.,We've got power surges on the west side of our house. /
+sd,A,We/PRP 've/VBP got/VBN our/PRP$ stereo/NN hooked/JJ up/RP ./.,We've got our stereo hooked up. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Well/UH that/DT ,/,","{D Well } that, - /"
+sd,A,the/DT power/NN makes/VBZ it/PRP run/VB ./.,the power makes it run. /
+sd,A,"It/PRP 's/HVS never/RB ran/VBN ,/,","It's never ran, /"
+sd,A,"it/PRP 's/HVS always/RB ran/VBD just/RB fine/JJ ,/, the/DT clock/NN and/CC stuff/NN ./.","it's always ran just fine, the clock and stuff. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"But/CC it/PRP runs/VBZ about/RB ten/CD minutes/NNS fast/RB ,/, except/IN for/IN about/RB a/DT month/NN ,/, for/IN about/RB a/DT month/NN the/DT ,/, the/DT clock/NN ran/VBD normal/RB ./.","{C But } it runs about ten minutes fast, except [ for about a month, + for about a month ] [ the, + the ] clock ran normal. /"
+b,B,Um/UH ./.,{F Um. } /
+sd,A,"And/CC then/RB the/DT power/NN went/VBD off/RP again/RB ,/,","{C And then } the power went off again, /"
+sd,A,lightning/NN or/CC something/NN knocked/VBD it/PRP out/RP,lightning or something knocked it out /
+sd,A,and/CC we/PRP hooked/VBD it/PRP back/RB up/RP,{C and } we hooked it back up /
+sd,A,and/CC now/RB it/PRP 's/BES running/VBG ten/CD or/CC fifteen/CD minutes/NNS fast/RB again/RB ./.,{C and } now it's running ten or fifteen minutes fast again. /
+b,B,Um/UH ./.,{F Um. } /
+sd,A,But/CC on/IN the/DT east/JJ side/NN of/IN the/DT house/NN it/PRP runs/VBZ fine/RB ./.,{C But } on the east side of the house it runs fine. /
+ba,B,"Oh/UH boy/UH ,/, you/PRP do/VBP have/VB a/DT strange/JJ wiring/NN problem/NN there/RB ./.","{F Oh } boy, you do have a strange wiring problem there. /"
+sd,A,"He/PRP put/VBD new/JJ wiring/NN in/RB ,/,","<Laughter> He put new wiring in, /"
+sd,A,"it/PRP 's/BES all/RB new/JJ wiring/NN up/IN in/IN the/DT attic/NN ,/,","it's all new wiring up in the attic,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"or/CC I/PRP guess/VBP crawl/NN space/NN ,/,","or I guess crawl space, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+"fo_o_fw_""_by_bc",A,"but/CC ,/, uh/UH ,/, oh/UH ,/, no/UH ,/,","{C but, } {F uh, } {F oh, } no, /"
+sd,A,"he/PRP did/VBD n't/RB know/VB what/WP he/PRP was/VBD doing/VBG ,/,","he didn't know what he was doing, /"
+sd,A,he/PRP really/RB should/MD have/VB hired/VBN people/NNS ./.,he really should have hired people. /
+ba,B,"Well/UH that/DT 's/BES something/NN ,/,","{D Well } that's something, - /"
+sd,B,my/PRP$ husband/NN 's/BES in/IN construction/NN,my husband's in construction /
+sd,B,and/CC he/PRP wo/MD n't/RB even/RB touch/VB electrical/JJ stuff/NN ./.,{C and } he won't even touch electrical stuff. /
+%,B,"He/PRP ,/, i-/XX ,/,","He, i-, - /"
+sd,B,"I/PRP mean/VBP ,/, he/PRP 'll/MD do/VB a/DT little/JJ MUMBLEx/XX things/NNS","{E I mean, } he'll do a little (( )) things /"
+sd,B,but/CC he/PRP wo/MD n't/RB do/VB any/DT major/JJ rewiring/NN ./.,{C but } he won't do any major rewiring. /
+x,A,./.,<Cough>.
+sd,B,He/PRP says/VBZ he/PRP 'd/MD rather/RB pay/VB the/DT electrician/NN to/TO handle/VB it/PRP ./.,He says he'd rather pay the electrician to handle it. /
+b,A,"Right/UH ,/,","Right, /"
+sv,A,he/PRP 'll/MD end/VB up/RP killing/VBG himself/PRP ./.,he'll end up killing himself. /
+br,B,Pardon/UH ./.,Pardon. /
+sv,A,End/VBP up/RP killing/VBG theirselves/NNS ./.,End up killing theirselves. /
+ba,B,That/DT 's/BES right/JJ ./.,That's right. /
+sd,A,"My/PRP$ husband/NN ,/, he/PRP 'll/MD change/VB out/RP a/DT light/NN switch/NN ,/,","My husband, he'll change out a light switch, /"
+sd,A,but/CC that/DT 's/BES about/RB as/RB far/RB as/IN he/PRP 'll/MD go/VB ./.,{C but } that's about as far as he'll go. /
+sd,B,"Well/UH that/DT 's/BES the/DT way/NN mine/PRP is/VBZ ,/, you/PRP know/VBP ,/,","{D Well } that's the way mine is, {D you know, } /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP mean/VBP ,/, he/PRP ,/, he/PRP well/UH he/PRP said/VBD he/PRP went/VBD up/RP in/IN the/DT attic/NN and/CC looked/VBD around/IN","{E I mean, } [ [ he, + he ] + {D well } he ] said he went up in the attic and looked around /"
+sd,B,"and/CC he/PRP was/VBD like/IN ,/, oh/UH my/PRP$ God/UH ,/,","{C and } he was like, {F oh } my God, /"
+sd,B,"he/PRP says/VBZ ,/, looks/VBZ like/IN a/DT bunch/NN of/IN spaghetti/NNS up/IN there/RB ./.","he says, looks like a bunch of spaghetti up there. /"
+sd,B,"And/CC we/PRP had/VBD squirrels/NNS in/IN our/PRP$ attic/NN when/WRB we/PRP first/RB moved/VBD in/RB because/IN the/DT roof/NN was/VBD so/RB sorry/JJ ,/,","{C And } we had squirrels in our attic when we first moved in because the roof was so sorry, /"
+%,A,"Uh/UH ,/, was/VBD a/DT what/WP ,/,","<Laughter> <throat_clearing>. {F Uh, } was a what, -/"
+sd,B,The/DT roof/NN was/VBD really/RB sorry/JJ ./.,The roof was really sorry. /
+sd,B,"I/PRP mean/VBP when/WRB we/PRP moved/VBD in/RB ,/,","{E I mean } when we moved in,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,we/PRP had/VBD no/DT idea/NN how/WRB bad/JJ it/PRP was/VBD ./.,we had no idea how bad it was. /
+sd,B,"It/PRP was/VBD a/DT wood/NN shingle/NN roof/NN ,/,","It was a wood shingle roof, /"
+%,B,"and/CC we/PRP ,/,","{C and } we, - /"
+sd,B,"the/DT first/JJ year/NN we/PRP were/VBD living/VBG there/RB ,/, we/PRP had/VBD to/TO replace/VB the/DT roof/NN ./.","the first year we were living there, we had to replace the roof. /"
+sd,A,"Well/UH he/PRP put/VBD ,/,","{D Well } he put, - /"
+%,A,which/WDT,which - /
+sd,A,I/PRP heard/VBD it/PRP 's/BES a/DT law/NN that/WDT you/PRP 're/VBP only/RB allowed/JJ to/TO have/VB three/CD layers/NNS of/IN shingles/NNS ./.,I heard it's a law that you're only allowed to have three layers of shingles. /
+sd,A,"Is/VBZ it/PRP three/CD or/CC five/CD ,/,","Is it three or five, /"
+sv,A,your/PRP$ husband/NN probably/RB knows/VBZ ./.,[ your + ] husband probably knows. /
+aa,B,"He/PRP probably/RB knows/VBZ ,/,","He probably knows, /"
+sd,B,I/PRP do/VBP n't/RB know/VB what/WP it/PRP is/VBZ off/IN hand/NN ./.,I don't know what it is off hand. /
+sd,A,"Well/UH ,/, he/PRP 's/HVS got/VBN seven/CD layers/NNS of/IN shingles/NNS up/IN there/RB ,/,","{D Well, } he's got seven layers of shingles up there, /"
+sd,A,and/CC he/PRP told/VBD us/PRP it/PRP was/VBD a/DT completely/RB new/JJ roof/NN ./.,{C and } he told us it was a completely new roof. /
+sd,A,"Like/IN I/PRP said/VBD ,/, he/PRP did/VBD n't/RB know/VB what/WP he/PRP was/VBD doing/VBG ./.","Like I said, he didn't know what he was doing. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,he/PRP must/MD not/RB of/^VB ./.,he must not of. /
+sd,B,"We/PRP stripped/VBD ours/PRP ,/, we/PRP stripped/VBD ours/PRP off/RB ./.","[ We stripped ours, + we stripped ours ] off. /"
+sd,B,"We/PRP did/VBD n't/RB put/VB it/PRP over/IN ,/, 'cause/IN we/PRP put/VBP composition/NN roof/NN on/IN ./.","We didn't put it over, 'cause we put composition roof on. /"
+sd,B,"And/CC we/PRP completely/RB s/VBD ,/, completely/RB stripped/VBD all/PDT the/DT old/JJ wood/NN shingles/NNS off/RB ,/, put/VB decking/NN up/RP ,/, put/VBD the/DT paper/NN down/RB ,/, and/CC I/PRP mean/VBP just/RB started/VBD from/IN scratch/NN ./.","{C And } we [ completely s-, + completely stripped ] all the old wood shingles off, put decking up, put the paper down, and {E I mean } just started from scratch. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,Unfortunately/RB when/WRB we/PRP were/VBD doing/VBG that/DT it/PRP decided/VBD it/PRP wanted/VBD to/TO snow/VB and/CC hail/VB and/CC rain/VB ./.,Unfortunately when we were doing that it decided it wanted to snow and hail and rain. /
+ba,A,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
+sd,B,"And/CC we/PRP ,/, and/CC we/PRP had/VBD ,/, we/PRP had/VBD almost/RB ,/, I/PRP 'd/MD say/VB about/RB half/NN of/IN the/DT roof/NN off/RP ,/,","[ [ {C And } we, + {C and } we had, ] + we had ] almost, I'd say about half of the roof off, /"
+sd,B,and/CC it/PRP did/VBD this/DT ./.,{C and } it did this. /
+^2,A,"And/CC ,/, uh/UH ,/, uh/UH ,/, a/DT house/NN full/JJ of/IN snow/NN ./.","{C And, } {F uh, } {F uh, } a house full of snow. /"
+sd,B,"And/CC a/DT house/NN full/JJ of/IN snow/NN ,/, and/CC rain/NN ,/,","{C And } a house full of snow, and rain, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"and/CC it/PRP came/VBD down/RP ,/,","{C and } it came down, /"
+sd,B,it/PRP did/VBD this/DT in/IN the/DT middle/NN of/IN the/DT night/NN ./.,it did this in the middle of the night. /
+sd,B,"We/PRP have/VBP plastic/NN ,/, you/PRP know/VBP ,/, just/RB tied/VBD down/RP on/IN everything/NN ,/, you/PRP know/VBP ,/, as/IN best/JJS we/PRP could/MD ,/,","We have plastic, {D you know, } just tied down on everything, {D you know, } as best we could,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"real/RB thick/JJ edge/NN stuff/NN ,/, I/PRP mean/VBP ,/,","real thick (( edge )) stuff, {E I mean, } /"
+sd,B,and/CC the/DT wind/NN came/VBD in/RB from/IN the/DT north/NN,{C and } the wind came in from the north /
+sd,B,and/CC it/PRP just/RB blew/VBD everything/NN off/RP in/IN the/DT middle/NN of/IN the/DT night/NN,{C and } it just blew everything off in the middle of the night /
+sd,B,and/CC we/PRP were/VBD asleep/RB,{C and } we were asleep /
+sd,B,"and/CC ,/, and/CC I/PRP woke/VBD up/RP","[ {C and, } + {C and } ] I woke up /"
+sd,B,and/CC I/PRP got/VBD up/RB,{C and } I got up /
+sd,B,and/CC it/PRP was/VBD about/RB four/CD o'clock/RB in/IN the/DT morning/NN,{C and } it was about four o'clock in the morning /
+sd,B,"and/CC I/PRP heard/VBD all/PDT these/DT ,/, these/DT drips/NNS ,/, drip/NN ,/, drip/NN ,/, drip/NN ,/, drip/NN ,/, drip/NN ,/, drip/NN ./.","{C and } I heard all [ these, + these ] drips, drip, drip, drip, drip, drip, drip. /"
+ba,A,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
+sd,B,I/PRP had/VBD water/NN coming/VBG in/RB every/DT light/NN fixture/NN ./.,I had water coming in every light fixture. /
+%,A,"That/DT ,/,","That, - /"
+b,A,yeah/UH ./.,yeah. /
+sd,B,"I/PRP had/VBD water/NN coming/VBG in/RB everything/NN that/WDT was/VBD in/IN the/DT ceiling/NN ,/, everywhere/RB ./.","I had water coming in everything that was in the ceiling, everywhere. /"
+sd,B,"And/CC I/PRP mean/VBP it/PRP filled/VBD up/RP my/PRP$ light/NN fixtures/NNS ,/, because/IN they/PRP 're/VBP the/DT old/JJ kind/NN ./.","{C And } {E I mean } it filled up my light fixtures, because they're the old kind. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC I/PRP would/MD go/VB in/RB ,/,","{C And } I would go in, /"
+sd,B,"and/CC I/PRP 'd/MD turn/VB on/RP a/DT light/NN in/IN the/DT room/NN ,/, you/PRP know/VBP","{C and } I'd turn on a light in the room, {D you know } /"
+sd,B,and/CC the/DT light/NN would/MD come/VB on/RP,{C and } the light would come on /
+sd,B,and/CC the/DT whole/JJ thing/NN would/MD be/VB full/JJ of/IN water/NN ./.,{C and } the whole thing would be full of water. /
+sd,B,And/CC I/PRP mean/VBP the/DT light/NN would/MD still/RB come/VB on/RP ./.,{C And } {E I mean } the light would still come on. /
+sd,B,It/PRP did/VBD n't/RB blow/VB up/RP or/CC anything/NN ./.,It didn't blow up or anything <laughter>. /
+sd,A,"My/PRP$ neighbor/NN ,/, or/CC a/DT friend/NN of/IN mine/PRP when/WRB I/PRP lived/VBD in/IN Louisiana/NNP ,/, her/PRP$ ,/,","<Throat_clearing> [ My neighbor, + {E or } a friend ] of mine when I lived in Louisiana, her, - /"
+sd,A,"we/PRP all/DT lived/VBD on/IN base/NN ,/,","we all lived on base, /"
+sd,A,my/PRP$ husband/NN was/VBD in/IN the/DT Army/NNP ./.,my husband was in the Army. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"She/PRP woke/VBD up/RP about/RB three/CD or/CC four/CD o'clock/RB in/IN the/DT morning/NN ,/, water/NN dripping/VBG from/IN hers/PRP$ ./.","She woke up about three or four o'clock in the morning, water dripping from hers. /"
+sd,A,"The/DT neighbor/NN 's/POS la-/XX ,/, uh/UH ,/, washing/NN machine/NN had/VBD uh/UH ,/, over/GW done/^VBN something/NN ,/,","The neighbor's [ la-, + ] {F uh, } washing machine had {F uh, } over done something, /"
+h,A,I/PRP do/VBP n't/RB know/VB,I don't know /
+sd,A,"but/CC it/PRP was/VBD leaking/VBG ,/, just/RB pouring/VBG water/NN in/RB","{C but } it was leaking, just pouring water in /"
+sd,A,and/CC it/PRP all/DT went/VBD through/IN to/IN her/PRP$ roof/NN,{C and } it all went through to her roof /
+sd,A,"and/CC it/PRP was/VBD coming/VBG out/IN of/IN the/DT lights/NNS ,/, fixtures/NNS ./.","{C and } it was coming out of the lights, fixtures. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,The/DT fire/NN alarm/NN went/VBD off/RP for/IN some/DT reason/NN ./.,The fire alarm went off for some reason. /
+sd,A,"It/PRP shorted/VBD it/PRP out/RP ,/, or/CC something/NN ./.","It shorted it out, or something. /"
+ba,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+ba,B,that/DT will/MD happen/VB ./.,that will happen. /
+sd,A,So/RB she/PRP woke/VBD up/RP with/IN about/RB six/CD feet/NNS of/IN water/NN in/IN her/PRP$ house/NN ./.,{C So } she woke up with about six feet of water in her house. /
+ba,B,"Oh/UH ,/, my/PRP$ lord/UH ./.","{F Oh, } my lord. /"
+ar,A,"No/UH ,/,","No, /"
+sd,A,not/RB six/CD feet/NNS,not six feet /
+%,A,"but/CC ,/,","{C but, } -/"
+^2,B,"But/CC it/PRP 's/BES quite/PDT a/DT bit/NN ,/, quite/PDT a/DT bit/NN ,/,","{C But } it's quite a bit, quite a bit, /"
+sv,B,"you/PRP know/VBP that/DT ,/,","you know that, /"
+aa,A,Yeah/UH,Yeah /
+%,A,you/PRP might/MD as/RB well/RB,you might as well /
+qy,A,so/RB ./. Did/VBD you/PRP have/VB carpets/NNS and/CC stuff/NN ?/.,{C so. } Did you have carpets and stuff? /
+no,B,"Oh/UH ,/, several/JJ of/IN our/PRP$ rooms/NNS got/VBD ruined/VBN ,/,","{F Oh, } several of our rooms got ruined, /"
+sd,B,"we/PRP have/VBP ,/, um/UH ,/,","we have, {F um, } - /"
+sd,B,"we/PRP h/VBP ,/, are/VBP on/IN pier/NN and/CC beam/NN ,/,","we [ h-, + ] are on pier and beam, /"
+sd,B,"we/PRP do/VBP n't/RB have/VB concrete/NN slab/NN underneath/IN our/PRP$ house/NN ,/,","we don't have concrete slab underneath our house, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"so/RB it/PRP ,/, it/PRP got/VBD into/IN the/DT carpeting/NN ,/, got/VBD into/IN the/DT floor/NN ./.","{C so } [ it, + it ] got into the carpeting, got into the floor. /"
+sd,B,"The/DT carpeting/NN was/VBD already/RB awful/JJ anyway/RB ,/,","The carpeting was already awful anyway, /"
+sd,B,but/CC it/PRP got/VBD into/IN the/DT floor/NN and/CC rotted/VBD the/DT floor/NN and/CC made/VBD it/PRP stink/VB,{C but } it got into the floor and rotted the floor and made it stink /
+%,B,"s-/XX ,/,","s-, -/"
+sd,A,Your/PRP$ house/NN sounds/VBZ like/IN mine/PRP because/IN mine/PRP 's/BES pier/NN and/CC beam/NN too/RB ./.,Your house sounds like mine because mine's pier and beam too. /
+b,B,Oh/UH really/UH ./.,{F Oh } really. /
+ny,A,Yeah/UH ./.,Yeah. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,they/PRP came/VBD in/RB,they came in /
+sd,B,"and/CC they/PRP had/VBD it/PRP ,/,","{C and } they had it, - /"
+sd,B,one/CD room/NN they/PRP completely/RB cut/VBD up/RP the/DT floor/NN in/IN and/CC removed/VBD it/PRP ./.,one room they completely cut up the floor in and removed it. /
+sd,B,We/PRP had/VBD to/TO call/VB the/DT insurance/NN company/NN ./.,We had to call the insurance company. /
+sd,B,I/PRP mean/VBP the/DT insurance/NN company/NN was/VBD paying/VBG for/IN the/DT new/JJ roof/NN,{E I mean } the insurance company was paying for the new roof /
+sd,B,"but/CC they/PRP also/RB ended/VBD up/RP having/VBG to/TO pay/VB for/IN the/DT damage/NN when/WRB the/DT re-/XX ,/, roof/NN was/VBD being/VBG repaired/VBN ./.","{C but } they also ended up having to pay for the damage when the [ re-, + ] roof was being repaired."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"You/PRP know/VBP ,/, which/WDT really/RB was/VBD n't/RB our/PRP$ fault/NN ./.","{D You know, } which really wasn't our fault. /"
+x,A,./.,<Wheezing> <throat_clearing>.
+sd,B,I/PRP mean/VBP we/PRP 'd/VBD done/VBN everything/NN we/PRP could/MD to/TO keep/VB out/IN the/DT weather/NN ./.,{E I mean } we'd done everything we could to keep out the weather.
+ba,A,That/DT 's/BES right/JJ ./.,That's right. /
+ba,A,That/DT 's/BES right/JJ ./.,That's right. /
++,B,"You/PRP know/VBP ,/, and/CC stuff/NN","{D You know, } and stuff /"
+%,B,"and/CC ,/,","{C and, } -/"
+sv,A,Well/UH you/PRP got/VBD to/TO redo/VB it/PRP the/DT way/NN you/PRP wanted/VBD it/PRP in/IN the/DT end/NN ./.,{D Well } you got to redo it the way you wanted it in the end. /
+ba,B,Oh/UH yeah/UH,{F Oh } yeah /
+%,B,"it/PRP ,/,","it, -/"
+qy,A,Are/VBP you/PRP finished/JJ with/IN it/PRP now/RB ?/.,Are you finished with it now? /
+qy^d,B,"Uh/UH ,/, the/DT roof/NN ?/.","{F Uh, } the roof? /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+ny,B,"Oh/UH yeah/UH ,/,","{F Oh } yeah, /"
+ny,B,"yeah/UH ,/,","yeah, /"
+sd,B,"it/PRP 's/HVS ,/, it/PRP 's/HVS been/VBN done/VBN for/IN quite/PDT some/DT time/NN ./.","[ it's, + it's ] been done for quite some time. /"
+sd,B,We/PRP 're/VBP really/RB glad/JJ with/IN all/PDT the/DT rain/NN we/PRP 've/VBP had/VBN in/IN the/DT last/JJ couple/NN of/IN years/NNS that/WDT we/PRP have/VBP a/DT really/RB good/JJ roof/NN ./.,We're really glad with all the rain we've had in the last couple of years that we have a really good roof. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+qw,A,how/WRB long/RB have/VBP you/PRP lived/VBN there/RB ?/.,how long have you lived there? /
+sd,B,"Uh/UH ,/, see/UH ,/, it/PRP 's/BES three/CD ,/,","{F Uh, } {D see, } it's three, - /"
+sd,B,"it/PRP 's/HVS just/RB been/VBN a-/IN ,/, at/IN three/CD years/NNS ./.","it's just been [ a-, + at ] three years. /"
+sd,B,We/PRP 've/VBP been/VBN in/IN the/DT house/NN just/RB the/DT three/CD years/NNS ./.,We've been in the house just the three years. /
+sd,B,We/PRP 've/VBP been/VBN doing/VBG a/DT lot/NN of/IN remodeling/NN ./.,We've been doing a lot of remodeling. /
+sd,B,"I/PRP mean/VBP ,/, it/PRP 's/BES ,/, it/PRP had/VBD detached/JJ ,/, it/PRP had/VBD a/DT dir-/XX ,/, detached/JJ garage/NN","{E I mean, } [ [ it's, + it had detached, ] + it had a [ dir-, + ] detached ] garage /"
+sd,B,and/CC my/PRP$ husband/NN 's/HVS built/VBN a/DT walkway/NN across/IN,{C and } my husband's built a walkway across /
+sd,B,and/CC we/PRP 're/VBP going/VBG to/TO brick/VB up/RP the/DT garage/NN to/TO match/VB the/DT house/NN and/CC things/NNS like/IN that/DT,{C and } we're going to brick up the garage to match the house and things like that /
+%,B,"so/IN we/PRP ,/,","{C so } we, -/"
+qy,A,You/PRP all/DT did/VBD it/PRP yourselves/PRP ?/.,You all did it yourselves? /
+qy^d,B,"What/WP ,/, uh/UH ,/, the/DT walk/NN ?/.","What, {F uh, } the walk? /"
+no,A,The/DT home/NN improvements/NNS ./.,The home improvements. /
+ny,B,"Oh/UH yeah/UH ,/,","{F Oh } yeah, /"
+ny,B,"yeah/UH ,/,","yeah, /"
+sd,B,"he/PRP see/UH he/PRP does/VBZ this/DT for/IN a/DT living/NN ,/,","he see he does this for a living, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP mean/VBP this/DT is/VBZ what/WP ,/,","{E I mean } this is what, -/"

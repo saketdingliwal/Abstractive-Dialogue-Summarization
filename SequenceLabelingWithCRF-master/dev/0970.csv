@@ -1,0 +1,143 @@
+act_tag,speaker,pos,text
+qy,A,"Do/VBP you/PRP think/VB that/IN there/EX 's/BES any/DT way/NN that/WDT ,/, uh/UH ,/,","Do you think that there's any way that, {F uh, } - /"
+qy,A,or/CC do/VBP you/PRP think/VB there/EX 's/BES too/RB much/JJ crime/NN now/RB ?/.,{C or } do you think there's too much crime now? /
+sv,A,"I/PRP mean/VBP ,/, I/PRP guess/VBP ,/,","{E I mean, } I guess,"
+x,B,./.,<Laughter>.
++,A,any/DT crime/NN is/VBZ too/RB much/JJ,any crime is too much /
+sv,A,"but/CC ,/,","{C but, }"
+aa,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+aa,B,yeah/UH ./.,yeah. /
++,A,It/PRP 's/BES out/IN of/IN control/NN ./.,It's out of control. /
+ar,B,"Uh/UH ,/, well/UH ,/, uh/UH ,/, out/RP of/IN control/NN ,/, I/PRP do/VBP n't/RB know/VB ./.","{F Uh, } {D well, } {F uh, } out of control, I don't know. /"
+sv,B,I/PRP guess/VBP it/PRP could/MD be/VB worse/JJR ./.,I guess it could be worse. /
+sd,B,"Uh/UH ,/, we/PRP 've/VBP ,/, uh/UH ,/, we/PRP 've/VBP ,/, we/PRP 've/VBP got/VBN quite/RB a/DT bit/NN of/IN crime/NN in/IN our/PRP$ neighborhood/NN ./.","{F Uh, } <lipsmack> [ [ we've, + {F uh, } we've, ] + we've ] got quite a bit of crime in our neighborhood. /"
+sd,B,"Uh/UH ,/, I/PRP live/VBP in/IN the/DT university/NN district/NN in/IN Seattle/NNP near/RB the/DT University/NNP of/NNP Washington/NNP ./.","{F Uh, } I live in the university district in Seattle near the University of Washington. /"
+sd,B,"Uh/UH ,/, there/EX 's/BES ,/, uh/UH ,/, there/EX 's/BES a/DT lot/NN of/IN problems/NNS ./.","{F Uh, } [ there's, + {F uh, } there's ] a lot of problems. /"
+sd,B,"I/PRP mean/VBP ,/, there/EX 's/BES like/IN a/DT big/JJ rise/NN in/IN homelessness/NN and/CC more/JJR street/NN people/NNS","{E I mean, } there's {D like } a big rise in homelessness and more street people /"
+sd,B,"and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, we/PRP get/VBP c-/NNS ,/, cars/NNS on/IN our/PRP$ block/NN ,/, uh/UH ,/, regularly/RB ,/, uh/UH ,/, uh/UH ,/, g/VBN ,/, uh/UH ,/, gone/VBN through/IN ,/, rifled/VBN through/IN and/CC stuff/NN ./.","{C and, } {F uh, } {D you know, } we get [ c-, + cars ] on our block, {F uh, } regularly, {F uh, } {F uh, } [ g-, + {F uh, } gone ] through, rifled through and stuff. /"
+bh,A,Really/UH ?/.,Really? /
+ny,B,Yeah/UH ./.,Yeah. /
+sv,A,"I/PRP would/MD not/RB of/^VB ,/, okay/UH ,/, I/PRP would/MD not/RB have/VB guessed/VBN that/DT in/IN Seattle/NNP ./.","[ I would not of, + {D okay, } I would not have ] guessed that in Seattle. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+qy,B,"you/PRP figured/VBD it/PRP was/VBD like/IN Omaha/NNP ,/, right/UH ?/.","you figured it was like Omaha, {D right? } /"
+ny,A,Yeah/UH ./.,Yeah. /
+x,B,./.,<Laughter>.
+%,A,You/PRP know/VBP ./.,{D You know. } /
+ar,B,"No/UH ,/,","No, /"
+sv,B,"it/PRP 's/BES ,/, uh/UH ,/, it/PRP 's/BES not/RB Newark/NNP ,/,","[ it's, + {F uh, } it's ] not Newark, /"
+sv,B,"but/CC ,/, uh/UH ,/, yeah/UH","{C but, } {F uh, } yeah /"
+"fo_o_fw_""_by_bc",B,it/PRP 's/HVS got/VBN problems/NNS ./.,it's got problems. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP wonder/VBP ,/, I/PRP mean/VBP ,/, I/PRP wonder/VBP what/WP ,/, what/WP really/RB is/VBZ the/DT answer/NN ./.","[ I wonder, + {E I mean, } I wonder ] [ what, + what ] really is the answer. /"
+sv,A,"I/PRP mean/VBP ,/, it/PRP seems/VBZ like/IN our/PRP$ ,/, our/PRP$ ,/, the/DT prison/NN systems/NNS ,/, we/PRP ca/MD n't/RB seem/VB to/TO decide/VB whether/IN or/CC not/RB it/PRP 's/BES a/DT reform/NN system/NN or/CC penal/JJ system/NN ./.","{E I mean, } it seems like [ [ our, + our, ] + the ] prison systems, we can't seem to decide whether or not it's a reform system or penal system. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,I/PRP think/VBP most/JJS people/NNS regard/VBP it/PRP as/IN a/DT warehouse/NN ./.,I think most people regard it as a warehouse.
+b,A,Yeah/UH ./.,Yeah. /
++,B,"Where/WRB you/PRP put/VBP away/RB the/DT people/NNS that/WDT are/VBP so/RB bad/JJ that/IN ,/, uh/UH ,/, you/PRP do/VBP n't/RB want/VB them/PRP out/IN in/IN circulation/NN ./.","Where you put away the people that are so bad that, {F uh, } you don't want them out in circulation. /"
+sv,A,"But/CC ,/, but/CC the/DT problem/NN is/VBZ ,/, is/VBZ that/IN we/PRP ,/, we/PRP only/RB have/VBP but/CC so/RB much/JJ room/NN","[ {C But, } + {C but } ] the problem [ is, + is ] that [ we, + we ] only have but so much room /"
+sd,A,"and/CC we/PRP ,/, we/PRP try/VBP to/TO put/VB aside/RB in/IN the/DT warehouse/NN ,/,","{C and } [ we, + we ] try to put aside in the warehouse, /"
+sv,A,and/CC all/DT we/PRP do/VBP is/VBZ just/RB displace/VB other/JJ people/NNS which/WDT come/VBP back/RB into/IN society/NN and/CC --/:,{C and } all we do is just displace other people which come back into society and --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: commit/VBP crimes/NNS,-- commit crimes /
+%,A,"and/CC ,/,","{C and, } -/"
+aa,B,That/DT 's/BES what/WP I/PRP hear/VBP ./.,That's what I hear. /
+%,A,"So/RB it/PRP 's/BES ,/, uh/UH ,/,","{C So } it's, {F uh, } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"I/PRP ,/, I/PRP think/VBP ,/, you/PRP know/VBP ,/,","[ I, + I ] think, {D you know, } - /"
+qy,B,do/VBP n't/RB you/PRP feel/VB like/IN most/JJS people/NNS have/VBP given/VBN up/RP on/IN the/DT rehabilitation/NN idea/NN ?/.,don't you feel like most people have given up on the rehabilitation idea? /
+na,A,I/PRP get/VBP the/DT feeling/NN that/IN a/DT lot/NN of/IN people/NNS have/VBP ./.,I get the feeling that a lot of people have. /
+sv,A,I/PRP 'm/VBP not/RB convinced/JJ that/IN I/PRP have/VBP ./.,I'm not convinced that I have. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Uh/UH ,/, see/UH ,/, I/PRP mean/VBP ,/, my/PRP$ mom/NN taught/VBD English/NNP as/IN a/DT second/JJ language/NN","{F Uh, } {D see, } {E I mean, } my mom taught English as a second language /"
+sd,A,"and/CC ,/, and/CC she/PRP was/VBD dealing/VBG mostly/RB with/IN people/NNS that/WDT were/VBD ,/, were/VBD in/IN on/IN drug/NN crimes/NNS","[ {C and, } + {C and } ] she was dealing mostly with people that [ were, + were ] in on drug crimes /"
+%,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+qy,B,"Oh/UH ,/, you/PRP mean/VBP she/PRP taught/VBD in/IN a/DT prison/NN ?/.","{F Oh, } you mean she taught in a prison? /"
+ny,A,Yes/UH ./.,Yes. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,In/IN a/DT --/:,[ In a + --
+b,B,I/PRP see/VBP ./.,I see. /
++,A,--/: in/IN a/DT maximum/JJ security/NN prison/NN down/IN in/IN central/JJ Virginia/NNP ./.,-- in a ] maximum security prison down in central Virginia. /
+%,B,uh/UH ./.,{F uh. } /
+sd,A,"And/CC ,/, the/DT problem/NN she/PRP had/VBD was/VBD not/RB with/IN the/DT inmates/NNS at/IN all/DT ./.","{C And, } the problem she had was not with the inmates at all. /"
+sd,A,"The/DT ,/, the/DT people/NNS that/WDT she/PRP had/VBD the/DT most/JJS problems/NNS with/IN were/VBD the/DT people/NNS that/WDT ran/VBD the/DT prison/NN ./.","[ The, + the ] people that she had the most problems with were the people that ran the prison. /"
+x,B,./.,<Laughter>.
+%,A,"I/PRP mean/VBP ,/,","{E I mean, }"
+b,B,"Yeah/UH ,/,","Yeah, /"
+bf,B,"the/DT b-/NN ,/, the/DT bureaucracy/NN ./.","[ the b-, + the bureaucracy. ] /"
++,A,"It/PRP was/VBD ,/, it/PRP was/VBD ,/, I/PRP mean/VBP ,/,","[ It was, + it was, ] {E I mean, } - /"
+sd,A,"they/PRP ,/, they/PRP put/VBD her/PRP ,/, I/PRP mean/VBP ,/,","[ they, + they ] put her, {E I mean, } - /"
+sd,A,"I/PRP did/VBD n't/RB ,/, obviously/RB I/PRP did/VBD n't/RB see/VB the/DT classroom/NN ,/, uh/UH ,/, and/CC ,/, hopefully/RB never/RB will/MD ,/,","[ I didn't, + obviously I didn't ] see the classroom, {F uh, } and, <laughter> hopefully never will, /"
+sd,A,"but/CC ,/, uh/UH --/:","{C but, } {F uh } --"
+x,B,./.,<Laughter>.
++,A,"--/: they/PRP ,/, they/PRP put/VBD her/PRP at/IN the/DT end/NN of/IN a/DT hallway/NN ,/,","-- [ they, + they ] put her at the end of a hallway, /"
+sd,A,there/EX were/VBD no/DT other/JJ classes/NNS going/VBG on/RP at/IN the/DT time/NN,there were no other classes going on at the time /
+sd,A,"and/CC they/PRP refused/VBD to/TO let/VB her/PRP wear/VB a/DT body/NN al-/NN ,/, a/DT body/NN alarm/NN ./.","{C and } they refused to let her wear [ a body al-, + a body alarm. ]"
+%,B,Uh/UH ./.,{F Uh. } /
++,A,"Which/WDT ,/,","Which, - /"
+%,A,and/CC,{C and } - /
+sd,A,"I/PRP do/VBP n't/RB know/VB exactly/RB what/WP that/DT is/VBZ ,/,","I don't know exactly what that is, /"
+sd,A,"but/CC I/PRP just/RB assume/VBP it/PRP was/VBD something/NN that/WDT she/PRP could/MD hit/VB immediately/RB and/CC ,/, and/CC really/RB annoy/VB a/DT lot/NN of/IN people/NNS ./.","{C but } I just assume it was something that she could hit immediately [ and, + and ] really annoy a lot of people. /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"But/CC ,/, uh/UH ,/, you/PRP know/VBP MUMBLEx/XX ,/,","{C But, } {F uh, } {D you know } (( )), -/"
+qy^d,B,So/RB she/PRP did/VBD n't/RB feel/VB safe/RB ./.,{C So } she didn't feel safe. /
+nn,A,"No/UH ,/,","No, /"
+sd,A,she/PRP did/VBD n't/RB ./.,she didn't. /
+sd,A,"She/PRP did/VBD n't/RB ,/,","She didn't, /"
+sd,A,"she/PRP ,/, she/PRP felt/VBD fine/RB for/IN the/DT first/JJ year/NN when/WRB she/PRP had/VBD her/PRP$ first/JJ set/NN of/IN inmates/NNS ,/,","[ she, + she ] felt fine for the first year when she had her first set of inmates, /"
+sd,A,"and/CC then/RB later/RB on/IN the/DT ,/, uh/UH ,/, the/DT administration/NN kept/VBD getting/VBG worse/RBR ,/,","{C and then } later on [ the, + {F uh, } the ] administration kept getting worse, /"
+sd,A,"and/CC ,/, uh/UH ,/, she/PRP got/VBD a/DT couple/NN of/IN inmates/NNS that/WDT she/PRP was/VBD n't/RB ,/, she/PRP did/VBD n't/RB feel/VB quite/RB as/IN comfortable/RB around/IN ./.","{C and, } {F uh, } she got a couple of inmates that [ she wasn't, + she didn't ] feel quite as comfortable around. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"But/CC ,/, well/UH ,/, she/PRP had/VBD decided/VBN that/IN it/PRP was/VBD ,/, when/WRB we/PRP came/VBD back/RB to/IN the/DT States/NNPS ,/, she/PRP decided/VBD that/IN it/PRP was/VBD too/RB ,/,","{C But, } {D well, } [ she had decided that it was, + {A when we came back to the States, } she decided that it was ] too, - /"
+sd,A,"she/PRP did/VBD n't/RB feel/VB that/IN public/JJ schools/NNS were/VBD s/JJ ,/, were/VBD safe/JJ ,/,","she didn't feel that public schools [ were s-, + were safe, ] /"
+sd,A,so/RB next/JJ thing/NN you/PRP know/VBP she/PRP 's/BES teaching/VBG in/IN a/DT maximum/JJ security/NN prison/NN ./.,{C so } next thing you know she's teaching in a maximum security prison. /
+b,B,"Yeah/UH ,/,","<Laughter> Yeah, /"
+b,B,right/UH ./.,right. /
+%,A,"But/CC ,/, uh/UH ,/,","{C But, } {F uh, } -/"
+sd,B,"Well/UH ,/, at/IN least/JJS it/PRP 's/BES maximum/JJ security/NN ,/, right/UH ./.","{D Well, } at least it's maximum security, {D right } <laughter>. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"But/CC ,/, but/CC the/DT point/NN that/WDT was/VBD ,/, that/WDT it/PRP ,/, you/PRP know/VBP ,/,","[ {C But, } + {C but } ] the point [ that + ] was, that it, {D you know, } - /"
+sd,A,"you/PRP said/VBD that/IN perhaps/RB ,/, uh/UH ,/, people/NNS have/VBP given/VBN up/RP the/DT thought/NN that/DT rehabilitation/NN 's/BES possible/JJ","you said that perhaps, {F uh, } people have given up the thought that rehabilitation's possible /"
+sv,A,"and/CC ,/, and/CC I/PRP 'm/VBP ,/, I/PRP 'm/VBP thinking/VBG that/IN it/PRP 's/BES even/RB to/IN the/DT point/NN that/IN the/DT people/NNS in/IN ,/, that/WDT run/VBP the/DT system/NN have/VBP given/VBN up/RP on/IN it/PRP ./.","[ {C and, } + {C and } ] [ I'm, + I'm ] thinking that it's even to the point that the people [ in, + ] that run the system have given up on it. /"
+sv,B,"Uh/UH ,/, well/UH ,/, I/PRP ,/, I/PRP think/VBP the/DT people/NNS that/WDT run/VBP ,/, yeah/UH ,/, that/WDT run/VBP the/DT system/NN are/VBP the/DT most/RBS hardened/JJ and/CC probably/RB the/DT most/RBS cynical/JJ ,/, you/PRP know/VBP ./.","{F Uh, } {D well, } [ I, + I ] think the people [ that run, + {D yeah, } that run ] the system are the most hardened and probably the most cynical, {D you know. } /"
+%,A,Uh/UH ./.,{F Uh. } /
+sd,B,"I/PRP mean/VBP ,/, I/PRP ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP ,/, I/PRP talked/VBD to/IN a/DT few/JJ people/NNS who/WP worked/VBD in/IN prisons/NNS and/CC stuff/NN","{E I mean, } [ [ I, + {F uh, } {D you know, } I, ] + I ] talked to a few people who worked in prisons and stuff /"
+%,B,"and/CC it/PRP 's/BES ,/, uh/UH ,/,","{C and } it's, {F uh, } - /"
+sv,B,"you/PRP can/MD get/VB pretty/RB hardened/JJ ,/, I/PRP 'm/VBP sure/JJ ./.","you can get pretty hardened, I'm sure. /"
+%,A,"But/CC getting/VBG ,/, I/PRP mean/VBP ,/, well/UH ,/, see/UH ,/,","{C But } getting, {E I mean, } {D well, } {D see, } - /"
+sd,A,"I/PRP always/RB have/VBP problems/NNS because/IN ,/, because/IN I/PRP can/MD never/RB decide/VB whether/IN or/CC not/RB I/PRP 'm/VBP ,/, I/PRP 'm/VBP supposed/VBN to/TO be/VB a/DT conservative/NN or/CC ,/, or/CC a/DT liberal/NN","I always have problems [ because, + because ] I can never decide whether or not [ I'm, + I'm ] supposed to be a conservative [ or, + or ] a liberal /"
+%,A,"but/CC ,/,","{C but, } -/"
+b,B,"Yeah/UH ,/,","<Laughter> Yeah, /"
+b,B,right/UH ./.,right. /
+sv,A,"But/CC I/PRP keep/VBP ,/,","{C But } [ I keep, +"
+sv,B,"Those/DT are/VBP funny/JJ labels/NNS ,/, see/UH ./.","Those are funny ((labels, {D see } )). /"
++,A,"I/PRP keep/VBP thinking/VBG that/IN there/EX 's/HVS got/VBN to/TO be/VB some/DT way/NN ,/, that/IN ,/, that/IN a/DT lot/NN of/IN this/DT is/VBZ circumstances/NNS ./.","I keep ] thinking that there's got to be some way, [ that, + that ] a lot of this is circumstances. /"
+sv,A,"I/PRP mean/VBP ,/, I/PRP ca/MD n't/RB help/VB but/CC wonder/VB if/IN ,/, if/IN I/PRP grew/VBD up/RP without/IN a/DT father/NN ,/, on/IN the/DT streets/NNS ,/, and/CC --/:","{E I mean, } I can't help but wonder [ if, + if ] I grew up without a father, on the streets, and --"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,"--/: with/IN like/IN little/JJ or/CC no/DT money/NN ,/, would/MD n't/RB --/:","-- with {D like } little or no money, [ wouldn't -- +"
+aa,B,"Oh/UH ,/,","{F Oh, }"
++,A,--/: would/MD n't/RB I/PRP be/VB in/IN prison/NN at/IN this/DT point/NN ?/.,-- wouldn't ] I be in prison ((at this point))? /
++,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+aa,B,absolutely/UH ./.,absolutely. /
+sv,B,"I/PRP think/VBP ,/, uh/UH ,/, yeah/UH ,/, I/PRP think/VBP you/PRP can/MD blame/VB it/PRP on/IN social/JJ problems/NNS ./.","[ I think, + {F uh, } {D yeah, } I think ] you can blame it on social problems. /"
+aa,B,Sure/UH ./.,Sure. /
+h,A,"I/PRP mean/VBP ,/, I/PRP do/VBP n't/RB know/VB ./.","{E I mean, } I don't know. /"
+sv,B,"I/PRP mean/VBP ,/, as/IN ,/, as/IN ,/, you/PRP know/VBP ,/, as/IN poverty/NN has/VBZ gotten/VBN worse/JJR ,/, as/IN ,/, you/PRP know/VBP ,/, education/NN has/VBZ gotten/VBN worse/JJR ,/, as/IN there/EX 's/HVS been/VBN more/RBR single/JJ parent/NN families/NNS ,/, as/IN there/EX 's/HVS been/VBN more/JJR homelessness/NN ,/, there/EX 's/HVS m-/XX ,/, been/VBN more/JJR crime/NN ./.","{E I mean, } [ [ as, + as, ] + {D you know, } as ] poverty has gotten worse, as, {D you know, } education has gotten worse, as there's been more single parent families, as there's been more homelessness, there's [ m-, + been more ] crime. /"
+sv,A,We/PRP 've/VBP got/VBN methadone/NN programs/NNS where/WRB people/NNS who/WP desperately/RB want/VBP to/TO get/VB off/RP drugs/NNS ca/MD n't/RB --/:,We've got methadone programs where people who desperately want to get off drugs can't --
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,there/EX 's/BES not/RB enough/RB --/:,there's not enough --
++,A,--/: get/VB onto/IN the/DT program/NN ./.,-- get onto the program. /
++,B,"--/: beds/NNS and/CC treatment/NN programs/NNS ,/, rising/VBG drug/NN abuse/NN ,/,","-- beds and treatment programs, rising drug abuse, /"
+aa,B,"and/CC ,/, yep/UH ,/,","{C and, } yep, /"
+sv,B,it/PRP 's/BES a/DT mess/NN ./.,it's a mess. /
+sd,A,"I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB remember/VB the/DT ,/, the/DT gentleman/NN 's/POS name/NN ,/,","[ I don't, + I don't ] remember [ the, + the ] gentleman's name, /"
+sd,A,"but/CC the/DT ,/, the/DT ,/, uh/UH ,/, the/DT mayor/NN of/IN Baltimore/NNP is/VBZ a/DT ,/, is/VBZ a/DT Rhodes/NNP Scholar/NNP","{C but } [ [ the, + the, ] + {F uh, } the ] mayor of Baltimore [ is a, + is a ] Rhodes Scholar /"
+sd,A,"and/CC what/WP he/PRP ,/,","{C and } what he, -/"
+qy,B,"Is/VBZ he/PRP the/DT guy/NN wants/VBZ to/TO ,/, like/UH ,/, deregulate/VB heroin/NN ,/, or/CC something/NN ?/.","Is he the guy wants to, {D like, } deregulate heroin, or something? /"
+sd,A,"Well/UH ,/, what/WP he/PRP wants/VBZ to/TO do/VB is/VBZ take/VB all/PDT the/DT money/NN that/WDT ,/, uh/UH ,/, he/PRP gets/VBZ for/IN drug/NN enforcement/NN and/CC use/VB it/PRP for/IN ,/, uh/UH ,/, drug/NN education/NN ./.","{D Well, } what he wants to do is take all the money that, {F uh, } he gets for drug enforcement and use it for, {F uh, } drug education. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC basically/RB ,/, just/RB ,/, just/RB attack/VB the/DT problem/NN at/IN the/DT demand/NN side/NN ./.","{C And } basically, [ just, + just ] attack the problem at the demand side. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Stop/VB trying/VBG to/TO attack/VB supply/NN because/IN ,/, which/WDT ,/, which/WDT to/IN some/DT extent/NN makes/VBZ sense/NN and/CC to/IN some/DT extent/NN does/VBZ n't/RB ./.","Stop trying to attack supply [ because, + ] [ which, + which ] to some extent makes sense and to some extent doesn't. /"
+sd,A,"I/PRP mean/VBP ,/, Switzerland/NNP tried/VBD the/DT ,/, the/DT grand/JJ experiment/NN","{E I mean, } Switzerland tried [ the, + the ] grand experiment /"
+sd,A,"and/CC ,/, you/PRP know/VBP ,/, they/PRP had/VBD this/DT park/NN where/WRB they/PRP were/VBD letting/VBG anybody/NN use/VB drugs/NNS as/RB long/RB as/IN they/PRP stayed/VBD in/IN the/DT park/NN","{C and, } {D you know, } they had this park where they were letting anybody use drugs as long as they stayed in the park /"
+%,A,"and/CC ,/,","{C and, } -/"

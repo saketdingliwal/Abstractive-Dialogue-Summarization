@@ -1,0 +1,177 @@
+act_tag,speaker,pos,text
+qw,A,"So/UH ,/, who/WP 's/BES your/PRP$ favorite/JJ team/NN ?/.","{D So, } who's your favorite team? /"
+sd,B,My/PRP$ favorite/JJ team/NN is/VBZ the/DT Pittsburgh/NNP Steelers/NNPS ./.,My favorite team is the Pittsburgh Steelers. /
+br,A,Pittsburgh/NNP ?/.,Pittsburgh? /
+na,B,You/PRP bet/VBP ./.,You bet. /
+sd,A,I/PRP used/VBD to/TO be/VB a/DT big/JJ Pittsburgh/NNP fan/NN when/WRB I/PRP was/VBD little/JJ ./.,I used to be a big Pittsburgh fan when I was little. /
+%,B,"Well/UH ,/, I/PRP ,/, uh/UH ,/,","{D Well, } I, {F uh, } - /"
+sd,B,"when/WRB John/NNP Stallworth/NNP played/VBD he/PRP was/VBD from/IN my/PRP$ hometown/NN in/IN Alabama/NNP ,/,","when ((John)) ((Stallworth)) played he was from my hometown in Alabama, /"
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+sd,B,"so/RB I/PRP kind/RB of/RB grabbed/VBD on/IN to/IN that/DT team/NN ,/,","{C so } I kind of grabbed on to that team,"
+%,A,Huh/UH ./.,{F Huh. } /
+ba,A,That/DT 's/BES pretty/RB nice/JJ ./.,((That's pretty nice)). /
++,B,way/RB back/RB when/WRB ./.,way back when. /
+b,A,"Yeah/UH ,/,","((Yeah,)) /"
+ba,A,that/DT 's/BES good/JJ ./.,that's good. /
+sd,A,"I/PRP ,/, I/PRP used/VBD to/TO watch/VB them/PRP a/DT lot/NN when/WRB they/PRP were/VBD playing/VBG the/DT big/JJ iron/NN curtain/NN ,/,","[ I, + I ] used to watch them a lot when they were playing the big [ iron curtain, +"
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
++,A,or/CC steel/NN curtain/NN ./.,{E or } steel curtain. ] /
+qw,B,How/WRB about/IN your/PRP$ favorite/JJ team/NN ?/.,How about your favorite team? /
+%,A,Huh/UH ./.,{F Huh. } /
+sd,A,"Well/UH ,/, last/JJ year/NN it/PRP was/VBD Buffalo/NNP","{D Well, } last year it was Buffalo /"
+sd,A,"and/CC I/PRP ,/, I/PRP still/RB try/VBP to/TO keep/VB up/RP with/IN Buffalo/NNP because/IN they/PRP just/RB ,/, they/PRP just/RB impressed/VBD me/PRP as/IN being/VBG so/RB efficient/JJ","{C and } [ I, + I ] still try to keep up with Buffalo because [ they just, + they just ] impressed me as being so efficient /"
+sd,A,and/CC they/PRP never/RB score/VBP ./.,{C and } they never score. /
+sd,A,They/PRP never/RB blow/VBP out/RP their/PRP$ opponents/NNS ./.,They never blow out their opponents. /
+sd,A,"They/PRP just/RB score/VBP just/RB enough/JJ points/NNS ,/,","They just score just enough points, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,and/CC that/DT really/RB impressed/VBD me/PRP ./.,{C and } that really impressed me. /
+%,A,"But/CC then/RB down/IN here/RB I/PRP li-/XX ,/,","{C But } then down here I li-, - /"
+sd,A,MUMBLEx/XX is/VBZ pretty/RB close/RB to/IN New/NNP Orleans/NNP,(( )) is pretty close to New Orleans /
+sd,A,and/CC I/PRP 've/VBP been/VBN keeping/VBG up/RP with/IN the/DT Saints/NNPS a/DT lot/NN ./.,{C and } I've been keeping up with the Saints a lot. /
+qy,B,"Well/UH ,/, they/PRP are/VBP exciting/JJ ,/, are/VBP n't/RB they/PRP ?/.","{D Well, } they are exciting, aren't they? /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"the/DT Saints/NNPS are/VBP starting/VBG to/TO impress/VB me/PRP this/DT year/NN ,/, you/PRP know/VBP ,/, a/DT lot/NN ./.","the Saints are starting to impress me this year, {D you know, } a lot. /"
+ba,B,"Boy/UH ,/,","{F Boy, } /"
+sv,B,"they/PRP are/VBP ,/, they/PRP are/VBP just/RB a/DT fun/JJ team/NN to/TO watch/VB ./.","[ they are, + they are ] just a fun team to watch. /"
+aa,A,"This/DT ,/, it/PRP ,/, they/PRP are/VBP really/RB ./.","[ [ This, + it, ] + they ] are really. /"
+qy,A,"Did/VBD you/PRP see/VB the/DT game/NN Sunday/NNP night/NN or/CC ,/,","Did you see the game [ Sunday night + {E or, }"
+nn,B,"Uh/UH ,/,","{F Uh, }"
++,A,Sunday/NNP afternoon/NN ?/.,Sunday afternoon? ] /
++,B,"no/UH ,/,","no, /"
+sd,B,I/PRP did/VBD n't/RB ./.,I didn't. /
+sv,A,It/PRP was/VBD funny/JJ ./.,It was funny. /
+sd,A,"There/EX were/VBD ,/, they/PRP ha/VBD ,/, uh/UH ,/, a/DT fireworks/NNS display/NN at/IN halftime/NN ./.","[ There were, + they ha-, ] {F uh, } a fireworks display at halftime. /"
+bh,B,"Oh/UH ,/, yeah/UH ?/.","<Laughter> {F Oh, } yeah? /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,and/CC some/DT paper/NN or/CC something/NN in/IN the/DT Super/NNP Dome/NNP up/IN in/IN the/DT roof/NN caught/VBD on/IN fire/NN ./.,{C and } some paper or something in the Super Dome up in the roof caught <laughter> on fire. /
+ba,B,"Oh/UH ,/, you/PRP 're/VBP kidding/VBG ./.","{F Oh, } you're kidding <laughter>. /"
+sd,A,"So/UH ,/, they/PRP had/VBD to/TO stop/VB the/DT game/NN in/IN lieu/NN of/IN the/DT third/JJ quarter/NN --/:","{C So, } they had to stop the game ((in lieu of)) the third quarter --"
+ba,B,"Oh/UH ,/, my/PRP$ gos-/UH ,/,","<Laughter> {F Oh, } my gos-, -/"
++,A,--/: and/CC put/VB out/RP this/DT fire/NN ./.,-- and put out this fire. /
+sd,A,"Those/DT big/JJ piece/NN of/IN something/NN came/VBD flaming/VBG ,/, falling/VBG out/IN of/IN the/DT roof/NN and/CC landed/VBD on/IN the/DT field/NN","Those big piece of something came [ flaming, + falling ] out of the roof and landed on the field /"
+sd,A,so/RB there/EX 's/BES this/DT big/JJ fire/NN on/IN the/DT field/NN,{C so } there's this big fire on the field /
+sd,A,and/CC they/PRP were/VBD dumping/VBG the/DT Gatorade/NNP bucket/NN and/CC everything/NN ./.,{C and } they were dumping the ((Gatorade)) bucket and everything. /
+ba,B,"Oh/UH ,/, I/PRP ca/MD n't/RB believe/VB that/DT ./.","{F Oh, } I can't believe that. /"
+sv,A,"It/PRP was/VBD funn/JJ ,/,","It was funn-, /"
+sv,A,"I/PRP mean/VBP ,/, you/PRP just/RB really/RB ca/MD n't/RB tell/VB what/WP 's/BES going/VBG to/TO happen/VB ./.","{E I mean, } you just really can't tell what's going to happen. /"
+ba,B,That/DT 's/BES hilarious/JJ ./.,That's hilarious. /
+b,A,I/PRP know/VBP ./.,I know. /
+sd,A,It/PRP 's/BES like/IN about/RB two/CD weeks/NNS ago/RB I/PRP was/VBD watching/VBG the/DT Saints/NNPS ./.,It's like about two weeks ago I was watching the Saints. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC Morton/NNP Anderson/NNP kicked/VBD a/DT sixty/CD yard/NN field/NN goal/NN ./.,{C And } ((Morton)) Anderson kicked a sixty yard field goal. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,"And/CC it/PRP ,/, it/PRP was/VBD beautiful/JJ ,/, right/RB down/IN the/DT middle/NN ./.","{C And } [ it, + it ] was beautiful, right down the middle. /"
+ba,B,"Oh/UH ,/, boy/UH ./.","{F Oh, } boy. /"
+sv,B,"He/PRP is/VBZ tough/JJ ,/,","He is tough, /"
+sv,B,he/PRP has/VBZ --/:,he has --
+aa,A,He/PRP is/VBZ ./.,He is. /
++,B,--/: an/DT incredible/JJ leg/NN ./.,-- an incredible leg. /
+aa,A,Yes/UH ./.,Yes. /
+qy,B,"Well/UH ,/, do/VBP you/PRP think/VB they/PRP 're/VBP ,/, they/PRP 're/VBP going/VBG to/TO be/VB able/JJ to/TO make/VB it/PRP this/DT year/NN ,/,","{D Well, } do you think [ they're, + they're ] going to be able to make it this year,"
+sd,A,"Uh/UH I/PRP s-/XX ,/,","{F Uh } [ I s-, +"
++,B,past/IN the/DT first/JJ playoff/NN game/NN ?/.,past the first playoff game? /
++,A,I/PRP sure/RB hope/VBP so/RB ./.,I sure ] hope so. /
+sd,A,"I/PRP 'm/VBP not/RB sure/JJ ,/, I/PRP 'm/VBP not/RB sure/JJ who/WP they/PRP play/VBP ./.","[ I'm not sure, + I'm not sure ] who they play. /"
+sd,A,Right/RB now/RB I/PRP 've/VBP got/VBN it/PRP narrowed/VBN down/RP to/IN the/DT top/JJ four/CD teams/NNS ./.,Right now I've got it narrowed down to the top four teams. /
+qw,B,Who/WP 's/BES that/DT ?/.,Who's that? /
+sd,A,It/PRP 's/BES pretty/RB much/JJ going/VBG between/IN Washington/NNP ./. They/PRP are/VBP undefeated/JJ ./.,It's pretty much going between Washington. {A They are undefeated. }
+b,B,Right/UH ./.,Right. /
++,A,"And/CC ,/, uh/UH ,/, Buffalo/NNP ,/, New/NNP Orleans/NNP ,/, and/CC Chicago/NNP because/IN Chicago/NNP has/VBZ only/RB lost/VBN twice/RB","And, {F uh, } Buffalo, New Orleans, and Chicago because Chicago has only lost twice /"
+sd,A,and/CC one/CD of/IN those/DT was/VBD to/IN Buffalo/NNP ./.,{C and } one of those was to Buffalo. /
+sd,A,And/CC they/PRP beat/VBD the/DT Saints/NNS ./.,{C And } they beat the Saints. /
+sd,A,Their/PRP$ only/JJ time/NN they/PRP lost/VBD ./.,Their only time they lost. /
+qo,B,"What/WP do/VBP you/PRP think/VB about/IN ,/, uh/UH ,/, Houston/NNP ?/.","What do you think about, {F uh, } Houston? /"
+b^m,A,Houston/NNP ./.,Houston. /
+^h,A,I/PRP saw/VBD Houston/NNP play/VB this/DT summer/NN in/IN Memphis/NNP ./.,I saw Houston play this summer in Memphis. /
+bh,B,"Oh/UH ,/, yeah/UH ?/.","{F Oh, } yeah? /"
+ny,A,Yeah/UH ./.,Yeah. /
+sv,A,"Uh/UH ,/, from/IN what/WP I/PRP saw/VBD they/PRP were/VBD playing/VBG ,/,","{F Uh, } from what I saw they were playing, - /"
+sd,A,"when/WRB I/PRP was/VBD at/IN the/DT game/NN we/PRP sat/VBD right/RB on/IN the/DT front/JJ row/NN ,/,","when I was at the game we sat right on the front row,"
+%,B,Huh/UH ./.,{F Huh. } /
++,A,"right/RB behind/IN the/DT Houston/NNP Oilers/NNPS ,/,","right behind the Houston Oilers, /"
+sd,A,"and/CC from/IN what/WP I/PRP saw/VBD the/DT game/NN Houston/NNP ,/, Houston/NNP impressed/VBD me/PRP a/DT lot/NN ./.","{C and } from what I saw the game [ Houston, + Houston ] impressed me a lot. /"
+b,B,Huh/UH ./.,Huh. /
+sd,A,"But/CC my/PRP$ brother/NN watched/VBD it/PRP on/IN T/NN V/NN and/CC said/VBD that/IN Warren/NNP Moon/NNP was/VBD just/RB having/VBG an/DT off/JJ night/NN ,/,","{C But } my brother watched it on T V and said that Warren Moon was just having an off night, /"
+sv,A,and/CC if/IN that/DT was/VBD an/DT off/JJ night/NN I/PRP 'd/MD hate/VB to/TO see/VB when/WRB he/PRP 's/BES on/IN a/DT good/JJ night/NN ./.,{C and } if that was an off night I'd hate to see when he's on a good night. /
+b,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sv,B,he/PRP 's/BES --/:,[ he's -- +
+%,A,"He/PRP 's/BES ,/,","He's, -/"
++,B,"--/: he/PRP definitely/RB ,/, uh/UH ,/, is/VBZ one/CD of/IN the/DT best/JJS I/PRP think/VBP ./.","-- he definitely, {F uh, } is ] one of the best I think. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"the/DT ,/, their/PRP$ ,/, their/PRP$ backfield/NN is/VBZ really/RB impressive/JJ ./.","[ [ the, + their, ] + their ] backfield is really impressive. /"
+sd,A,Haywood/NNP Jeffreys/NNP and/CC Drew/NNP Hill/NNP --/:,Haywood ((Jeffreys)) and Drew Hill --
+b,B,Right/UH ./.,Right. /
++,A,"--/: and/CC Allen/NNP MUMBLEx/XX ,/,","-- and ((Allen)) (( )), /"
+sd,A,they/PRP really/RB impress/VBP me/PRP ./.,they really impress me. /
+sd,B,"Well/UH ,/, they/PRP squeaked/VBD out/RP a/DT game/NN on/IN Sunday/NNP ./.","{D Well, } they squeaked out a game on Sunday. /"
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+qw,A,"Who/WP ,/, who/WP did/VBD they/PRP play/VB ?/.","[ Who, + who ] did they play? /"
+sd,B,They/PRP played/VBD Dallas/NNP ./.,They played Dallas. /
+b^m,A,"Dallas/NNP ,/,","Dallas, /"
+aa,A,"that/DT 's/BES right/JJ ,/,","that's right, /"
+sd,B,"They/PRP won/VBD ,/,","They won,"
+%,A,"all/RB because/IN ,/,","all because, -/"
++,B,in/IN overtime/NN ./.,in overtime. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+sd,A,I/PRP remember/VBP that/DT now/RB ./.,I remember that now. /
+%,B,"So/RB that/DT was/VBD ,/,","{C So } that was, - /"
+sd,B,"I/PRP ,/, I/PRP watched/VBD that/DT game/NN","[ I, + I ] watched that game /"
+%,B,"and/CC ,/, uh/UH ,/, that/DT was/VBD ,/, uh/UH ,/,","{C and, } {F uh, } that was, {F uh, } -/"
+qy,A,Do/VBP you/PRP have/VB a/DT favorite/JJ between/IN those/DT two/CD ?/.,Do you have a favorite between those two? /
+na,B,"Well/UH ,/, because/IN I/PRP 'm/VBP right/RB here/RB in/IN Dallas/NNP I/PRP ,/, I/PRP kind/RB of/RB pull/VBP for/IN Dallas/NNP ./.","{D Well, } because I'm right here in Dallas [ I, + I ] kind of pull for Dallas. /"
+bh,A,Really/UH ?/. ./.,Really? <Laughter>. /
+ny,B,Yeah/UH ./.,Yeah. /
+sd,B,"Well/UH ,/, also/RB Houston/NNP is/VBZ ,/, uh/UH ,/, in/IN Pittsburgh/NNP 's/POS division/NN","{D Well, } also Houston is, {F uh, } in Pittsburgh's division /"
+sd,B,"so/RB ,/,","{C so, }"
+aa,A,"Well/UH ,/, that/DT 's/BES true/JJ ./.","{D Well, } that's true. /"
++,B,I/PRP 'll/MD almost/RB always/RB root/VB against/IN them/PRP ./.,I'll almost always root against them. /
+x,A,MUMBLEx/XX ./.,<Laughter> (( )).
+x,B,./.,<Laughter>.
+h,A,I/PRP hate/VBP to/TO say/VB it/PRP,I hate to say it /
+sd,A,but/CC I/PRP hate/VBP Dallas/NNP ./.,{C but } I hate Dallas <laughter>. /
+sv,B,That/DT 's/BES okay/JJ ./.,That's okay <laughter>. /
+sd,B,"Well/UH I/PRP ,/, you/PRP know/VBP ,/, I/PRP ,/, I/PRP was/VBD never/RB really/RB a/DT big/JJ Dallas/NNP fan/NN --/:","{D Well } [ [ I, + {D you know, } I, ] + I ] was never really a big Dallas fan --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: until/IN we/PRP moved/VBD here/RB,-- until we moved here /
+sd,B,and/CC they/PRP just/RB kind/RB of/RB grew/VBD on/IN me/PRP ./.,{C and } they just kind of grew on me. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,I/PRP imagine/VBP ./.,I imagine. /
+%,A,"That/DT 's/BES the/DT way/NN ,/,","That's the way, /"
+sd,A,I/PRP 've/VBP never/RB been/VBN a/DT big/JJ Saints/NNPS fan/NN until/IN the/DT last/JJ year/NN or/CC two/CD,I've never been a big Saints fan until the last year or two /
+sd,A,"and/CC they/PRP ,/, they/PRP 've/VBP actually/RB started/VBN doing/VBG something/NN ./.","{C and } [ they, + they've ] actually started doing something. /"
+b,B,Yeah/UH ./.,Yeah. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"So/RB ,/, I/PRP 've/VBP actually/RB pl-/XX ,/, paid/VBN attention/NN to/IN them/PRP ./.","{C So, } I've actually [ pl-, + paid ] attention to them. /"
+%,B,"Well/UH ,/,","<Laughter> {D Well } <breathing>, -/"
+qy,A,"Well/UH ,/, do/VBP you/PRP know/VB anything/NN about/IN the/DT expansion/NN teams/NNS they/PRP 're/VBP thinking/VBG about/IN bringing/VBG in/RB ?/.","{D Well, } do you know anything about the expansion teams they're thinking about bringing in? /"
+^h,B,To/TO tell/VB you/PRP the/DT truth/NN I/PRP have/VBP n't/RB paid/VBN too/RB much/JJ attention/NN to/IN that/DT ./.,To tell you the truth I haven't paid too much attention to that. /
+bh,A,Really/UH ?/.,Really? /
+qw,B,"Um/UH ,/, what/WP cities/NNS are/VBP they/PRP looking/VBG at/IN ?/.","{F Um, } what cities are they looking at? /"
+sd,A,"Uh/UH ,/, right/RB now/RB I/PRP think/VBP this/DT Memphis/NNP ,/, they/PRP 're/VBP ,/, they/PRP 're/VBP trying/VBG to/TO get/VB the/DT teams/NNS ./.","{F Uh, } right now I think this Memphis, [ they're, + they're ] trying to get the teams. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC that/DT 's/BES ,/, that/DT 's/BES where/WRB I/PRP was/VBD when/WRB I/PRP saw/VBD ,/, uh/UH ,/,","{C And } [ that's, + that's ] where I was when I saw, {F uh, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,Houston/NNP play/VB ./.,Houston play. /
+sd,A,Saint/NNP Louis/NNP is/VBZ trying/VBG to/TO get/VB a/DT team/NN ./.,Saint Louis is trying to get a team. /
+sd,A,"Uh/UH ,/, Baltimore/NNP is/VBZ trying/VBG to/TO get/VB a/DT team/NN ,/,","{F Uh, } Baltimore is trying to get a team, /"
+sd,A,and/CC there/EX 's/BES some/DT other/JJ city/NN ./.,{C and } there's some other city. /
+sv,A,I/PRP 'm/VBP wanting/VBG to/TO say/VB Raleigh/NNP Durham/NNP,I'm wanting to say Raleigh ((Durham)) /
+h,A,but/CC I/PRP 'm/VBP not/RB sure/JJ ./.,{C but } I'm not sure. /
+aa,B,"You/PRP know/VBP ,/, I/PRP think/VBP you/PRP are/VBP right/JJ ./.","{D You know, } I think you are right. /"
+sv,B,I/PRP think/VBP it/PRP is/VBZ Raleigh/NNP ./.,I think it is Raleigh. /
+bh,A,Think/VBP so/RB ?/.,Think so? /
+sv,B,I/PRP think/VBP I/PRP remember/VBP hearing/VBG that/DT ./.,I think I remember hearing that. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,Because/IN I/PRP know/VBP they/PRP 've/VBP got/VBN a/DT MUMBLEx/XX football/NN team/NN,{C Because } I know they've got a (( )) football team /
+sv,A,but/CC I/PRP think/VBP it/PRP might/MD be/VB them/PRP ./.,{C but } I think it might be them. /
+sv,B,That/DT would/MD be/VB fun/JJ ./.,That would be fun. /
+sd,B,I/PRP 'd/MD like/VB to/TO see/VB some/DT more/JJR teams/NNS get/VB in/RB ./.,I'd like to see some more teams get in. /
+aa,A,"I/PRP would/MD ,/, definitely/UH ./.","I would, definitely. /"
+sd,A,I/PRP think/VBP they/PRP are/VBP supposed/VBN to/TO put/VB two/CD in/RB by/IN either/CC next/JJ year/NN or/CC the/DT year/NN after/IN ./.,I think they are supposed to put two in by either next year or the year after. /
+sv,A,"And/CC right/RB now/RB I/PRP think/VBP Memphis/NNP and/CC ,/, it/PRP 's/BES Memphis/NNP and/CC I/PRP think/VBP Baltimore/NNP have/VBP a/DT really/RB good/JJ shot/NN at/IN it/PRP ./.","{C And } right now I think [ Memphis and, + it's Memphis and ] I think Baltimore have a really good shot at it. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,Because/IN I/PRP know/VBP Saint/NNP Louis/NNP is/VBZ much/RB bigger/JJR than/IN Memphis/NNP,{C Because } I know Saint Louis is much bigger than Memphis /
+sd,A,and/CC when/WRB I/PRP went/VBD up/IN there/RB they/PRP were/VBD saying/VBG that/IN Memphis/NNP sold/VBD more/JJR tickets/NNS than/IN Saint/NNP Louis/NNP did/VBD ./.,{C and } when I went up there they were saying that Memphis sold more tickets than Saint Louis did. /
+bh,B,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+ny,A,Yeah/UH ./.,Yeah. /
+sd,A,"It/PRP 's/BES like/IN the/DT Liberty/NNP Bowl/NNP or/CC Liberty/NNP Stadium/NNP in/IN Memphis/NNP holds/VBZ about/RB sixty-two/CD ,/,","It's like the [ Liberty Bowl + {E or } Liberty Stadium ] in Memphis holds about sixty-two, -/"

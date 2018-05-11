@@ -1,0 +1,198 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Well/UH ,/, I/PRP know/VBP that/IN ,/, uh/UH ,/,","{D Well, } I know that, {F uh, } - /"
+sd,A,I/PRP have/VBP only/RB like/IN two/CD or/CC three/CD favorite/JJ television/NN shows/NNS ./.,I have only {D like } two or three favorite television shows. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP think/VBP one/CD of/IN my/PRP$ favorite/JJ then/RB is/VBZ from/IN the/DT guy/NN Stephen/NNP ,/, is/VBZ it/PRP Brochco/NNP ,/, who/WP does/VBZ like/UH L/NNP A/NNP LAW/NN --/:","I think one of my favorite then is from the guy Stephen, is it Brochco, who does {D like } L A LAW -- /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b^m,A,"--/: uh-huh/UH ,/,","-- uh-huh, /"
+sd,A,"and/CC ,/, uh/UH ,/, he/PRP also/RB did/VBD HILLSTREET/NNP BLUES/NNS ./.","{C and, } {F uh, } he also did HILLSTREET BLUES. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP like/VBP those/DT type/NN of/IN shows/VBZ ./.,I like those type of shows. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,we/PRP really/RB enjoy/VBP that/DT too/RB ./.,we really enjoy that too. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Uh/UH ,/, I/PRP do/VBP n't/RB get/VB a/DT lot/NN ,/, to/TO watch/VB a/DT whole/JJ lot/NN of/IN T/NN V/NN ./.","{F Uh, } I don't get [ a lot, + to watch a whole lot ] of T V. /"
+sd,B,"We/PRP have/VBP a/DT couple/NN of/IN young/JJ children/NNS ,/,","We have a couple of young children, /"
+sd,B,and/CC so/RB --/:,{C and so } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: we/PRP 're/VBP usually/RB outside/RB ,/,","-- we're usually outside, /"
+sd,B,"and/CC so/RB it/PRP 's/BES usually/RB the/DT nine/CD o'clock/RB shows/NNS that/WDT if/IN we/PRP get/VBP them/PRP in/IN bed/NN ,/, we/PRP usually/RB watch/VBP that/DT ,/,","{C and so } it's usually the nine o'clock shows that if we get them in bed, we usually watch that, /"
+sd,B,and/CC L/NNP A/NNP LAW/NN is/VBZ one/CD of/IN my/PRP$ favorites/NNS ./.,{C and } L A LAW is one of my favorites. /
+b,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,A,"me/PRP ,/, too/RB ./.","me, too. /"
+%,A,"I/PRP know/VBP ,/,","I know, /"
+sv,A,"they/PRP ,/, uh/UH ,/, I/PRP think/VBP they/PRP 're/VBP different/JJ than/IN a/DT lot/NN of/IN other/JJ shows/NNS of/IN which/WDT they/PRP have/VBP like/UH the/DT re/GW runs/^NNS in/IN the/DT middle/NN of/IN the/DT season/NN --/:","[ they, + {F uh, } I think they're ] different than a lot of other shows of which they have {D like } the re runs in the middle of the season -- /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: and/CC then/RB towards/IN the/DT end/NN when/WRB everybody/NN else/RB is/VBZ showing/VBG reruns/NNS ,/, they/PRP start/VBP showing/VBG some/DT of/IN their/PRP$ newer/JJR stuff/NN ./.","-- {C and then } towards the end when everybody else is showing reruns, they start showing some of their newer stuff. /"
+b,B,Yeah/UH,Yeah /
+x,B,./.,<laughter>.
+sv,A,So/RB I/PRP thought/VBD that/DT was/VBD really/RB interesting/JJ the/DT way/NN that/WDT they/PRP did/VBD that/DT ./.,<Laughter> {C So } I thought that was really interesting the way that they did that. /
+qy^d,A,"Oh/UH ,/, and/CC so/RB you/PRP must/MD watch/VB a/DT lot/NN of/IN ,/, uh/UH ,/, Disney/NNP or/CC cartoons/NNS then/RB ?/.","{F Oh, } {C and so } you must watch a lot of, {F uh, } Disney or cartoons then? /"
+no,B,"Well/UH ,/, we/PRP have/VBP on/IN SESAME/NNP STREET/NNP and/CC MISTER/NNP ROGERS/NNP ,/, that/DT kind/NN of/IN stuff/NN ,/,","{D Well, } we have on SESAME STREET and MISTER ROGERS, that kind of stuff, /"
+sv,B,and/CC I/PRP think/VBP those/DT programs/NNS are/VBP really/RB good/JJ for/IN children/NNS ./.,{C and } I think those programs are really good for children. /
+sv,B,I/PRP know/VBP that/IN both/DT of/IN mine/PRP have/VBP probably/RB learned/VBN quite/PDT a/DT bit/NN from/IN there/RB ./.,I know that both of mine have probably learned quite a bit from there. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"It/PRP 's/BES kind/RB of/RB nice/JJ to/TO know/VB that/IN they/PRP 're/VBP just/RB going/VBG to/TO be/VB seeing/VBG ,/, you/PRP know/VBP ,/, not/RB a/DT lot/NN of/IN violence/NN and/CC that/DT kind/NN of/IN stuff/NN --/:","It's kind of nice to know that they're just going to be seeing, {D you know, } not a lot of violence and that kind of stuff -- /"
+b,A,Right/UH ./.,Right. /
+sv,B,"--/: and/CC they/PRP usually/RB ,/, uh/UH ,/, show/VBP a/DT lot/NN of/IN things/NNS that/WDT really/RB teach/VBP them/PRP different/JJ things/NNS about/IN the/DT world/NN ./.","-- {C and } they usually, {F uh, } show a lot of things that really teach them different things about the world. /"
+%,B,So/RB ./.,{C So. } -/
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,"My/PRP$ so-/NN ,/, older/JJR son/NN ,/, he/PRP 's/BES going/VBG to/TO be/VB five/CD ,/,","My [ so-, + older son, ] he's going to be five, /"
+sd,B,and/CC he/PRP 's/BES more/JJR into/IN watching/VBG the/DT cartoons/NNS and/CC that/DT kind/NN of/IN stuff/NN now/RB ./.,{C and } he's more into watching the cartoons and that kind of stuff now. /
+aa,A,"Oh/UH ,/, that/DT 's/BES true/JJ ,/,","{F Oh, } that's true, /"
+aa,A,that/DT 's/BES true/JJ ./.,that's true. /
+sd,A,"Well/UH ,/, I/PRP noticed/VBD that/IN ,/, my/PRP$ kids/NNS are/VBP ,/, uh/UH ,/, older/JJR now/RB ,/,","{D Well, } I noticed that, my kids are, {F uh, } older now, /"
+sd,A,they/PRP 're/VBP --/:,they're --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: uh/UH ,/, getting/VBG close/RB to/IN the/DT teenage/JJ years/NNS ./.","-- {F uh, } getting close to the teenage years. /"
+sd,A,"But/CC they/PRP did/VBD ,/,","{C But } they did, - /"
+sd,A,"we/PRP watched/VBD all/DT of/IN MISTER/NNP ROGERS/NNP and/CC everything/NN ,/,","we watched all of MISTER ROGERS and everything, /"
+sv,A,"but/CC even/RB some/DT of/IN your/PRP$ ,/, uh/UH ,/, cartoons/NNS can/MD be/VB very/RB violent/JJ --/:","{C but } even some of your, {F uh, } cartoons can be very violent -- /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: and/CC ,/, you/PRP know/VBP ,/, they/PRP talk/VBP about/IN death/NN ,/,","-- {C and, } {D you know, } they talk about death, /"
+sd,A,"and/CC ,/, we/PRP were/VBD watching/VBG ,/, uh/UH ,/, oh/UH gosh/UH ,/, BUGS/NNP BUNNY/NN just/RB last/JJ night/NN --/:","{C and, } we were watching, {F uh, } {F oh } gosh, BUGS BUNNY just last night -- /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,"--/: and/CC ,/, um/UH ,/, I/PRP think/VBP it/PRP was/VBD on/IN ,/, I/PRP have/VBP to/TO remember/VB which/WDT channel/NN ,/,","-- {C and, } {F um, } I think it was on, I have to remember which channel, /"
+sd,A,"but/CC anyway/UH ,/, uh/UH ,/, we/PRP were/VBD watching/VBG that/DT","{C but } anyway, {F uh, } we were watching that /"
+sd,A,"and/CC it/PRP was/VBD talking/VBG about/IN opera/NN ,/,","{C and } it was talking about opera, /"
+sd,A,"and/CC they/PRP showed/VBD like/UH what/WP they/PRP thought/VBD an/DT opera/NN would/MD be/VB ,/,","{C and } they showed {D like } what they thought an opera would be, /"
+sd,A,"and/CC one/CD of/IN the/DT things/NNS was/VBD to/TO kill/VB the/DT rabbit/NN ,/, kill/VB the/DT rabbit/NN --/:","{C and } one of the things was to [ kill the rabbit, + kill the rabbit -- ] /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"--/: and/CC I/PRP thought/VBD ,/, Oh/UH ,/, how/WRB violent/JJ ,/, you/PRP know/VBP ,/, to/TO kill/VB the/DT rabbit/NN ./.","-- {C and } I thought, {F Oh, } how violent, {D you know, } to kill the rabbit. /"
+sd,A,"So/RB he/PRP ended/VBD up/RP killing/VBG the/DT rabbit/NN in/IN the/DT end/NN ,/, uh/UH ,/,","{C So } he ended up killing the rabbit in the end, <laughter> {F uh, } /"
+sd,A,"but/CC then/RB of/IN course/NN ,/, the/DT rabbit/NN comes/VBZ back/RB to/IN life/NN and/CC says/VBZ ,/, well/UH ,/, see/UH this/DT is/VBZ how/WRB an/DT opera/NN is/VBZ supposed/VBN to/TO be/VB ./.","{C but } then of course, the rabbit comes back to life and says, {D well, } see this is how an opera is supposed to be. /"
+sv,A,"And/CC I/PRP thought/VBD ,/, gee/UH whiz/UH ,/, if/IN a/DT little/JJ kid/NN was/VBD watching/VBG this/DT ,/, you/PRP know/VBP ,/, that/DT would/MD be/VB pretty/RB violent/JJ even/RB for/IN a/DT small/JJ child/NN ./.","{C And } I thought, gee whiz, if a little kid was watching this, {D you know, } that would be pretty violent even for a small child. /"
+b,B,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+sv,B,"and/CC you/PRP know/VBP ,/, they/PRP ,/, especially/RB boys/NNS ,/, I/PRP mean/VBP ,/, they/PRP 're/VBP always/RB talking/VBG about/IN shooting/NN and/CC killing/NN and/CC all/PDT that/DT kind/NN of/IN stuff/NN --/:","{C and } {D you know, } [ they, + especially boys, {E I mean, } they're ] always talking about shooting and killing and all that kind of stuff -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"--/: and/CC I/PRP do/VBP n't/RB think/VB that/IN they/PRP really/RB realize/VBP that/IN death/NN is/VBZ forever/RB ,/, you/PRP know/VBP ./.","-- {C and } I don't think that they really realize that death is forever, {D you know. } /"
+b,A,Right/UH ./.,Right. /
+sv,B,And/CC showing/VBG them/PRP something/NN like/IN that/DT really/RB does/VBZ n't/RB --/:,{C And } showing them something like that really doesn't --
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
++,B,--/: teach/VB them/PRP that/IN it/PRP is/VBZ ./.,-- teach them that it is. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+sv,A,"Well/UH ,/, I/PRP do/VBP n't/RB think/VB cartoons/NNS portray/VBP that/DT","{D Well, } I don't think cartoons portray that /"
+%,A,"but/CC like/UH ,/,","{C but } {D like, } -/"
+aa,B,"No/UH ,/,","No, /"
+sv,B,"and/CC to/TO get/VB them/PRP to/TO feel/VB like/UH that/IN that/DT 's/BES just/RB pretend/JJ ,/, I/PRP think/VBP --/:","{C and } to get them to feel like that that's just pretend, I think --"
+b,A,"Yeah/UH ,/,","Yeah, /"
++,B,"--/: is/VBZ the/DT hardest/JJS part/NN ,/, you/PRP know/VBP ./.","-- is the hardest part, {D you know. } /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,A/DT cat/NN has/VBZ nine/CD lives/NNS --/:,A cat has nine lives -- /
+b,B,Yeah/UH ./.,Yeah. /
+ar,A,"--/: but/CC they/PRP do/VBP n't/RB ,/,","-- {C but } they don't, /"
+sd,A,they/PRP just/RB have/VBP one/CD like/IN we/PRP do/VBP ./.,they just have one like we do <laughter>. /
+x,B,,<Laughter>.
+sv,A,"Oh/UH ,/, so/RB that/DT 's/BES really/RB funny/JJ","<Laughter> {F Oh, } {C so } that's really funny /"
+sd,A,"but/CC ,/, uh/UH --/:","{C but, } {F uh } --"
+b,B,"Uh-/XX ,/,","Uh-, -/"
++,A,"--/: we/PRP 've/VBP gotten/VBN ,/,","-- we've gotten, - /"
+%,A,"uh-huh/UH ,/,","uh-huh, /"
+ad,A,go/VB ahead/RB ./.,go ahead. /
+sd,B,"I/PRP was/VBD just/RB going/VBG to/TO say/VB ,/, I/PRP know/VBP that/IN ,/, at/IN least/JJS before/IN our/PRP$ kids/NNS were/VBD born/VBN ,/, we/PRP used/VBD to/TO always/RB enjoy/VB watching/VBG the/DT COSBY/NNP SHOW/NN ,/,","I was just going to say, I know that, at least before our kids were born, we used to always enjoy watching the COSBY SHOW, /"
+sv,B,"Thursday/NNP nights/NNS usually/RB had/VBD pretty/RB good/JJ ,/, with/IN that/DT ,/, and/CC as/RB far/RB as/IN very/RB good/JJ comedy/NN ./.","Thursday nights usually had pretty good, [ with that, + ] and as far as very good comedy. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,I/PRP like/VBP to/TO watch/VB DESIGNING/VBG WOMEN/NNS if/IN the/DT kids/NNS --/:,I like to watch DESIGNING WOMEN if the kids --
+aa,A,"Yes/UH ,/,","Yes, /"
++,B,--/: are/VBP in/IN bed/NN by/IN then/RB ./.,-- are in bed by then. /
+aa,A,"Yes/UH ,/,","Yes, /"
+aa,A,"yeah/UH ,/,","yeah, /"
+sv,A,"that/DT 's/BES true/JJ ,/,","that's true, /"
+sv,A,that/DT 's/BES a/DT good/JJ show/NN ./.,that's a good show. /
+sd,A,"I/PRP used/VBD to/TO watch/VB ,/, uh/UH ,/, DALLAS/NNP ./.","I used to watch, {F uh, } DALLAS. /"
+sd,B,"We/PRP 're/VBP ,/, we/PRP 're/VBP in/IN Dallas/NNP ./.","[ We're, + we're ] in Dallas. /"
+bk,A,yeah/UH ./.,yeah. /
+sd,A,"I/PRP used/VBD to/TO watch/VB DALLAS/NNP ,/, years/NNS ago/RB ./.","I used to watch DALLAS, years ago. /"
+sd,A,"And/CC somewhere/RB in/IN the/DT middle/NN I/PRP got/VBD ,/, uh/UH ,/, bored/JJ ,/,","{C And } somewhere in the middle I got, {F uh, } bored, /"
+sd,A,"and/CC ,/, uh/UH ,/, so/RB I/PRP ,/, in/IN fact/NN ,/, I/PRP did/VBD n't/RB even/RB watch/VB the/DT finale/NN ./.","[ {C and, } + {F uh, } {C so ] } [ I, + in fact, I ] didn't even watch the finale. /"
+sd,A,"Uh/UH ,/, you/PRP know/VBP ,/, that/DT 's/BES about/RB how/WRB disinterested/JJ I/PRP had/VBD become/VBN ./.","{F Uh, } {D you know, } that's about how disinterested I had become. /"
+b,B,Yes/UH ./.,Yes. /
+x,A,,<Laughter>.
+sd,B,"Well/UH ,/, I/PRP did/VBD watch/VB it/PRP just/RB to/TO see/VB what/WP it/PRP was/VBD --/:","<Laughter> {D Well, } I did watch it just to see what it was -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,--/: and/CC it/PRP was/VBD n't/RB really/RB that/RB great/JJ ./.,-- {C and } it wasn't really that great. /
+%,B,So/RB ./.,{C So. } -/
+%,A,"Well/UH ,/, actual-/RB ,/,","{D Well, } actual-, -/"
+sv,B,"I/PRP think/VBP ,/,","I think,"
+b,A,uh-huh/UH ./.,uh-huh. /
++,B,"after/IN a/DT while/NN ,/, they/PRP just/RB kind/RB of/RB ,/, you/PRP know/VBP ,/, there/EX 's/BES no/DT new/JJ stuff/NN they/PRP can/MD do/VB ,/,","after a while, [ they just kind of, + {D you know, } there's ] no new stuff they can do, /"
+sv,B,they/PRP 've/VBP done/VBN everything/NN dirty/JJ in/IN the/DT book/NN --/:,they've done everything dirty in the book --
+b,A,Yep/UH ./.,Yep. /
++,B,"--/: you/PRP know/VBP ,/,","-- {D you know, } /"
+%,B,"so/RB ,/,","{C so, } -/"
+aa,A,"Yep/UH ,/,","Yep, /"
+sv,A,"I/PRP know/VBP ,/,","I know, /"
+sv,A,I/PRP know/VBP ./.,I know. /
+qy,A,Was/VBD it/PRP actually/RB based/VBN on/IN a/DT book/NN ?/.,Was it actually based on a book? /
+nn,B,"Well/UH ,/, no/UH ,/,","{D Well, } no, /"
+%,B,"I/PRP imagine/VBP ,/,","I imagine, -/"
+sd,A,"Oh/UH ,/, but/CC you/PRP were/VBD just/RB talking/VBG about/IN ,/,","{F Oh, } {C but } you were just talking about, - /"
+"fo_o_fw_""_by_bc",A,"okay/UH ,/,","okay, /"
+"fo_o_fw_""_by_bc",A,"okay/UH ,/,","okay, /"
+sd,B,"Everything/NN you/PRP could/MD think/VB of/IN ,/, you/PRP know/VBP --/:","Everything you could think of, {D you know } --"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,right/UH ./.,right. /
++,B,"--/: had/VBD a/DT hard/JJ time/NN ,/,","-- had a hard time, /"
+sv,B,"and/CC I/PRP think/VBP maybe/RB with/IN DALLAS/NNP ,/, as/RB far/RB as/IN ,/, they/PRP lost/VBD a/DT lot/NN of/IN characters/NNS that/WDT had/VBD been/VBN around/RB at/IN the/DT first/JJ ./.","{C and } I think maybe with DALLAS, as far as, they lost a lot of characters that had been around at the first. /"
+aa,A,"That/DT 's/BES true/JJ ,/,","That's true, /"
+aa,A,that/DT 's/BES true/JJ ./.,that's true. /
+%,B,"Where/WRB ,/,","Where, - /"
+h,B,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,B,"I/PRP never/RB watched/VBD KNOTS/NNP LANDING/NN ,/,","I never watched KNOTS LANDING, /"
+sv,B,but/CC I/PRP think/VBP they/PRP 've/VBP had/VBN a/DT lot/NN of/IN their/PRP$ characters/NNS stay/VB around/RP ./.,{C but } I think they've had a lot of their characters stay around. /
+b^m,A,Stay/VB ./.,Stay. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+qy^d,A,"You/PRP know/VBP ,/, and/CC if/IN you/PRP notice/VBP on/IN DALLAS/NNP ,/, they/PRP lost/VBD all/PDT the/DT women/NNS ./.","{D You know, } {C and } if you notice on DALLAS, they lost all the women. /"
+ny,B,Yeah/UH ./.,Yeah. /
+b,A,Yes/UH ./.,Yes. /
+sd,A,So/RB the/DT men/NNS mainly/RB stayed/VBD,{C So } the men mainly stayed /
+sd,A,"but/CC the/DT women/NNS were/VBD the/DT ones/NNS who/WP left/VBD ,/,","{C but } the women were the ones who left, /"
+sv,A,"and/CC I/PRP thought/VBD that/DT was/VBD very/RB interesting/JJ and/CC wondered/VBD ,/, kind/RB of/RB wondered/VBD about/IN that/DT ./.","{C and } I thought that was very interesting and [ wondered, + kind of wondered ] about that. /"
+sv,A,"Uh/UH ,/, well/UH ,/, anyway/UH that/DT 's/BES a/DT whole/JJ new/JJ issue/NN ./.","{F Uh, } {D well, } anyway that's a whole new issue <laughter>. /"
+aa,B,Yeah/UH,Yeah /
+b,B,./. Oh/UH ./.,<laughter>. Oh. /
+ba,A,"Oh/UH ,/, goodness/UH","<Laughter> {F Oh, } goodness /"
+sd,A,so/RB ./. Anyway/UH ./. I/PRP do/VBP n't/RB know/VB if/IN our/PRP$ five/CD minutes/NNS are/VBP over/RP yet/RB ./.,{C so. } Anyway. I don't know if our five minutes are over yet <laughter>. /
+sd,A,"But/CC we/PRP ,/, uh/UH ,/, we/PRP also/RB have/VBP the/DT paid/JJ ,/, uh/UH ,/, television/NN channels/NNS ./.","{C But } [ we, + {F uh, } we ] also have the paid, {F uh, } television channels. /"
+sd,A,"Uh/UH ,/, the/DT only/JJ thing/NN I/PRP do/VBP n't/RB like/VB about/IN it/PRP ,/, especially/RB with/IN teenagers/NNS ,/, is/VBZ that/IN all/PDT the/DT violence/NN ,/, the/DT sex/NN ,/, the/DT nudity/NN and/CC the/DT curse/NN words/NNS --/:","{F Uh, } the only thing I don't like about it, especially with teenagers, is [ that + all the ] violence, the sex, the nudity and the curse words --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: you/PRP know/VBP ./.,-- {D you } know. /
+sd,A,"And/CC so/RB ,/, I/PRP know/VBP they/PRP did/VBD n't/RB pick/VB up/RP these/DT curse/NN words/NNS from/IN me/PRP ./.","{C And so, } I know they didn't pick up these curse words from me. /"
+sv,A,"So/RB ,/, uh/UH ,/, they/PRP had/VBD to/TO have/VB picked/VBN them/PRP up/RP from/IN ,/, uh/UH ,/, the/DT T/NN V/NN ./.","{C So, } {F uh, } they had to have picked them up from, {F uh, } the T V. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"One/CD nice/JJ thing/NN though/RB about/IN the/DT cable/NN company/NN we/PRP use/VBP ,/, they/PRP have/VBP ,/, uh/UH ,/, they/PRP have/VBP that/DT little/JJ parental/JJ ,/, uh/UH ,/, uh/UH ,/, key/NN ,/,","One nice thing though about the cable company we use, [ they have, + {F uh, } they have ] that little parental, {F uh, } {F uh, } key, /"
+br,B,"Where/WRB you/PRP can/MD lock/VB up/RP ,/,","Where you can lock up,"
+ny,A,Yeah/UH ./.,Yeah. /
++,B,the/DT channel/NN or/CC whatever/WP ?/.,the channel or whatever? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+ny,A,uh-huh/UH ./.,uh-huh. /
+sd,A,"So/RB ,/, I/PRP ,/, I/PRP have/VBP that/DT at/IN home/NN ,/,","{C So, } [ I, + I ] have that at home, /"
+sd,A,and/CC I/PRP keep/VBP the/DT keys/NNS with/IN me/PRP ./.,{C and } I keep the keys with me. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC that/DT 's/BES about/IN the/DT only/JJ way/NN that/WDT I/PRP can/MD ,/, that/WDT I/PRP can/MD do/VB it/PRP ./.","{C And } that's about the only way [ that I can, + that I can ] do it. /"
+sv,A,"Because/IN their/PRP$ natural/JJ curiosity/NN ,/, you/PRP know/VBP ,/, to/TO go/VB towards/IN that/DT way/NN and/CC want/VB --/:","{C Because } their natural curiosity, {D you know, } to go towards that way and want -- -/"
+b,B,Yeah/UH ./.,Yeah. /
+b^m,A,--/: yeah/UH ./.,-- yeah. /
+sv,B,"And/CC I/PRP do/VBP n't/RB know/VB the/DT way/NN the/DT generations/NNS are/VBP growing/VBG up/RP now/RB ,/,","{C And } I don't know the way the generations are growing up now, /"
+sv,B,I/PRP mean/VBP I/PRP just/RB think/VBP they/PRP watch/VBP so/RB much/RB more/JJR T/NN V/NN ./.,{E I mean } I just think they watch so much more T V. /
+sd,B,I/PRP try/VBP to/TO limit/VB what/WP they/PRP watch/VBP ./.,I try to limit what they watch. /
+sv,B,They/PRP are/VBP n't/RB sitting/VBG in/IN the/DT house/NN watching/VBG T/NN V/NN all/DT day/NN --/:,They aren't sitting in the house watching T V all day --
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
++,B,"--/: because/IN I/PRP think/VBP it/PRP 's/BES good/JJ for/IN them/PRP to/TO have/VB physical/JJ activity/NN and/CC that/DT kind/NN of/IN stuff/NN ,/, too/RB ./.","-- because I think it's good for them [ to + ] have physical activity and that kind of stuff, too. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,And/CC especially/RB in/IN the/DT summer/NN time/NN we/PRP are/VBP n't/RB in/IN the/DT house/NN very/RB much/RB in/IN the/DT evenings/NNS ./.,{C And } especially in the summer time we aren't in the house very much in the evenings. /
+sd,B,It/PRP 's/BES the/DT only/RB cool/JJ time/NN to/TO be/VB outside/RB ./.,It's the only cool time to be outside <laughter>. /
+aa,A,"That/DT 's/BES true/JJ ,/,","That's true, /"
+sv,A,"well/UH ,/, and/CC here/RB lately/RB it/PRP has/VBZ n't/RB been/VBN that/RB cool/JJ anyway/RB with/IN the/DT humidity/NN being/VBG so/RB high/JJ ./.","{D well, } {C and } here lately it hasn't been that cool anyway with the humidity being so high. /"
+aa,B,"Well/UH ,/, true/UH ,/,","{D Well, } true, /"
+fc,A,"Well/UH ,/, it/PRP was/VBD nice/JJ talking/VBG to/IN you/PRP ./.","<Laughter> {D Well, } it was nice talking to you. /"
+fc,B,"Well/UH ,/, it/PRP was/VBD nice/JJ talking/VBG to/IN you/PRP ,/, too/RB ./.","{D Well, } it was nice talking to you, too. /"
+fc,A,"Okay/UH ,/,","Okay, /"
+fc,A,talk/VB with/IN you/PRP later/RB ./.,talk with you later. /
+fc,B,Okay/UH ./.,Okay. /
+fc,B,Good-bye/UH ./.,Good-bye. /
+fc,A,Good-bye/UH ./.,Good-bye. /

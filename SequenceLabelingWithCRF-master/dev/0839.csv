@@ -1,0 +1,98 @@
+act_tag,speaker,pos,text
+^h,A,"Uh/UH ,/, let/VB 's/PRP see/VB ./.","<Clicking> <talking> <breathing> {F Uh, } <lipsmack> let's see. /"
+%,A,"How/WRB about/IN ,/, uh/UH ,/, let/VB 's/PRP see/VB ,/, about/RB ten/CD years/NNS ago/RB ,/,","How [ about, + {F uh, } let's see, about ] ten years ago, /"
+qo,A,"uh/UH ,/, what/WP do/VBP you/PRP think/VB was/VBD different/JJ ten/CD years/NNS ago/RB from/IN now/RB ?/.","{F uh, } what do you think was different ten years ago from now? /"
+sv,B,"Well/UH ,/, I/PRP would/MD say/VB as/RB ,/, far/RB as/IN social/JJ changes/NNS go/VBP ,/, uh/UH ,/, I/PRP think/VBP families/NNS were/VBD more/RBR together/RB ./.","<Static> {D Well, } I would say as, far as social changes go, {F uh, } I think families were more together. /"
+sv,B,"They/PRP ,/, they/PRP did/VBD more/JJR things/NNS together/RB ./.","[ They, + they ] did more things together. /"
+b,A,Uh-huh/UH ./.,Uh-huh <<very faint>>. /
+sv,B,"Uh/UH ,/, they/PRP ate/VBD dinner/NN at/IN the/DT table/NN together/RB ./.","{F Uh, } they ate dinner at the table together. /"
+sv,B,"Uh/UH ,/, the/DT parents/NNS usually/RB took/VBD out/RP time/NN ,/, uh/UH ,/, you/PRP know/VBP ,/, more/JJR time/NN than/IN they/PRP do/VBP now/RB to/TO come/VB with/IN the/DT children/NNS and/CC just/RB spend/VB the/DT day/NN doing/VBG a/DT family/NN activity/NN ./.","{F Uh, } the parents usually took out [ time, + {F uh, } {D you know, } more time ] than they do now to come with the children and just spend the day doing a family activity. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Uh/UH ,/, although/IN I/PRP 'm/VBP not/RB a/DT mother/NN ,/, I/PRP ,/, I/PRP still/RB think/VBP that/IN ,/, uh/UH ,/, a/DT lot/NN has/VBZ changed/VBN since/IN ten/CD years/NNS ago/RB ./.","{F Uh, } although I'm not a mother, [ I, + I ] still think that, {F uh, } a lot has changed since ten years ago. /"
+qo,B,"Uh/UH ,/, what/WP do/VBP you/PRP --/:","{F Uh, } what do you --"
+%,A,"We/PRP ,/,","We, -/"
++,B,--/: think/VB about/IN that/DT ?/.,-- think about that? /
+sv,A,"Well/UH ,/, uh/UH ,/, actually/RB ten/CD years/NNS from/IN today/NN seems/VBZ rather/RB short/JJ ./.","{D Well, } {F uh, } {D actually } ten years from today seems rather short. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"Uh/UH ,/, but/CC I/PRP do/VBP agree/VB that/IN ,/, uh/UH ,/, generally/RB it/PRP 's/HVS ,/, society/NN has/VBZ sort/RB of/RB ,/, uh/UH ,/, let/VB 's/PRP see/VB ,/, rushed/VBN everything/NN ahead/RB ./.","{F Uh, } <lipsmack> {C but } I do agree that, {F uh, } generally [ it's, + society ] has sort of, {F uh, } let's see, rushed everything ahead. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+h,A,"And/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","{C And, } {F uh, } I don't know, /"
+sv,A,"it/PRP leaves/VBZ ,/, leaves/VBZ a/DT lot/NN of/IN time/NN out/RP for/IN family/NN and/CC things/NNS like/IN that/DT ./.","it [ leaves, + leaves ] a lot of time out for family and things like that. /"
+sv,A,"In/IN other/JJ words/NNS ,/, they/PRP just/RB prioritize/VBP their/PRP$ lives/NNS differently/RB ./.","In other words, they just prioritize their lives differently. /"
+sv,A,But/CC I/PRP think/VBP that/DT has/VBZ a/DT lot/NN to/TO do/VB with/IN economic/JJ situation/NN ./.,{C But } I think that has a lot to do with economic situation. /
+aa,B,Yes/UH ./.,Yes. /
+qo,B,"What/WP about/IN like/IN as/RB far/RB as/IN ,/, uh/UH ,/, social/JJ changes/NNS in/IN the/DT individual/NN ?/.","What about {D like } as far as, {F uh, } social changes in the individual? /"
+qy,B,Do/VBP --/:,Do --
+%,A,"Uh/UH ,/,","{F Uh, } /"
++,B,"--/: you/PRP think/VB that/IN the/DT individual/NN has/VBZ as/RB much/JJ time/NN as/IN they/PRP did/VBD ,/, let/VB 's/PRP say/VB ,/, ten/CD ,/, twenty/CD years/NNS ago/RB ?/.","-- you think that the individual has as much time as they did, let's say, ten, twenty years ago? /"
+h,A,Um/UH ./. It/PRP depends/VBZ ./.,{F Um. } It depends. /
+sv,A,"Uh/UH ,/, it/PRP 's/BES hard/JJ to/TO say/VB because/IN I/PRP think/VBP people/NNS were/VBD busy/JJ ten/CD twenty/CD years/NNS ago/RB too/RB ./.","{F Uh, } it's hard to say because I think people were busy ten twenty <laughter> years ago too. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Uh/UH ,/, I/PRP just/RB ,/,","{F Uh, } <lipsmack> I just <sigh>, -/"
+qw,B,"Well/UH ,/, how/WRB ,/, how/WRB old/JJ are/VBP you/PRP ?/.","{D Well, } [ how, + how ] old are you? /"
+sd,A,I/PRP 'm/VBP twenty-eight/CD ./.,I'm twenty-eight. /
+b^m,B,Twenty-eight/CD ./.,Twenty-eight. /
+bk,B,"Okay/UH ,/,","Okay, /"
+sd,B,I/PRP 'm/VBP twenty-three/CD ./.,I'm twenty-three. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,So/RB there/EX 's/BES maybe/RB a/DT five/CD year/NN gap/NN between/IN us/PRP ./.,{C So } there's maybe a five year gap between us. /
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"So/UH ,/, uh/UH ./.","{D So, } {F uh. } -/"
+sv,A,"I/PRP just/RB ,/, I/PRP think/VBP that/IN things/NNS were/VBD a/DT bit/NN ,/, were/VBD ,/, have/VBP been/VBN busy/JJ all/DT along/RB ./.","[ I just, + I ] think that things [ [ were a bit, + were, ] + have been ] busy all along. /"
+sv,A,It/PRP 's/BES just/RB --/:,It's just --
+%,B,Huh/UH ./.,{F Huh } <<Very faint>>. /
++,A,"--/: a/DT matter/NN where/WRB priorities/NNS are/VBP ,/, at/IN placed/VBN ./.","-- a matter where priorities are, [ at + ] placed."
+aa,B,Yes/UH ./.,Yes. /
++,A,"And/CC that/DT ,/, uh/UH ,/, usually/RB as/RB far/RB as/IN families/NNS are/VBP concerned/JJ ,/, there/EX used/VBD to/TO be/VB just/RB one/CD person/NN working/VBG and/CC usually/RB the/DT other/JJ parent/NN was/VBD home/RB ./.","And that, {F uh, } usually as far as families are concerned, there used to be just one person working and usually the other parent was home. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC now/RB ,/, uh/UH ,/, it/PRP 's/BES pretty/RB much/JJ an/DT economic/JJ necessity/NN of/IN ,/, for/IN most/JJS ,/, in/IN most/JJS places/NNS for/IN both/DT parents/NNS to/TO work/VB ./.","{C And } now, {F uh, } it's pretty much an economic necessity [ [ of, + for most, ] + in most ] places for both parents to work. /"
+qy,B,"Do/VBP you/PRP think/VB it/PRP 's/BES an/DT economic/JJ c-/XX ,/, necessity/NN","Do you think it's an economic [ c-, + necessity ] /"
+qrr,B,"or/CC do/VBP you/PRP think/VB that/IN we/PRP 're/VBP ,/, we/PRP 're/VBP ,/, uh/UH ,/, all/DT trying/VBG to/TO keep/VB up/RP with/IN a/DT certain/JJ standard/NN of/IN living/NN ?/.","{C or } do you think that [ we're, + we're, ] {F uh, } all trying to keep up with a certain standard of living? /"
+sv,A,I/PRP think/VBP that/DT 's/BES part/NN of/IN it/PRP too/RB ./.,I think that's part of it too. /
+sv,A,"But/CC I/PRP do/VBP think/VB ,/,","{C But } I do think, -/"
+qy,B,"I/PRP mean/VBP do/VBP you/PRP think/VB ,/,","{E I mean } do you think,"
+x,A,./.,<Sigh>.
++,B,people/NNS really/RB need/VBP two/CD cars/NNS and/CC --/:,people really need two cars and --
+nn,A,"No/UH ,/,","No, /"
+nn,A,no/UH ./.,no. /
+sd,A,I/PRP do/VBP n't/RB ./.,I don't. /
++,B,"--/: a/DT house/NN in/IN the/DT suburbs/NNS or/CC ,/,","-- a house in the suburbs {C or, } -/"
+nn,A,"No/UH ,/,","No, /"
+sd,A,I/PRP do/VBP n't/RB think/VB that/DT ./.,I don't think that. /
+sv,A,"But/CC then/RB there/EX are/VBP a/DT lot/NN of/IN people/NNS that/WDT ,/, that/WDT do/VBP n't/RB have/VB that/DT ./.","{C But then } there are a lot of people [ that, + that ] don't have that."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"But/CC ,/, that/WDT really/RB do/VBP need/VB to/TO work/VB ./.","But, that really do need to work. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"I/PRP think/VBP maybe/RB those/DT people/NNS that/WDT really/RB do/VBP need/VB to/TO work/VB ,/, both/DT parents/NNS ,/, just/RB to/TO survive/VB ./.","I think maybe those people that really do need to work, both parents, just to <sigh> survive. - /"
+sv,A,And/CC --/:,{C And --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: then/RB there/EX ,/, th-/EX ,/, is/VBZ ,/, is/VBZ that/DT other/JJ group/NN that/WDT is/VBZ --/:","-- then } there, [ th-, + ] [ is, + is ] that other group that is --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: working/VBG to/TO maintain/VB a/DT standard/NN of/IN living/NN --/:,-- working to maintain a standard of living --
+bk,B,Okay/UH ./.,Okay. /
++,A,"--/: that/WDT ,/, uh/UH ,/, they/PRP think/VBP is/VBZ ,/, is/VBZ surviving/VBG which/WDT is/VBZ really/RB more/JJR luxuries/NNS ./.","-- that, {F uh, } they think [ is, + is ] surviving <laughter> which is really more luxuries. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Uh/UH ,/, but/CC I/PRP I/PRP tend/VBP to/TO think/VB that/IN it/PRP 's/BES less/JJS those/DT people/NNS that/WDT have/VBP the/DT two/CD cars/NNS and/CC everything/NN than/IN it/PRP is/VBZ the/DT group/NN that/WDT is/VBZ just/RB trying/VBG to/TO survive/VB ./.","{F Uh, } {C but } [ I + <sigh> I ] tend to think that it's less those people that have the two cars and everything than it is the group that is just trying to survive. /"
+qy^d,B,"Yo-/PRP ,/, so/RB you/PRP think/VBP it/PRP 's/BES ,/,","[ Yo-, + {C so } you ] think it's, - /"
+qw,B,which/WDT group/NN are/VBP you/PRP saying/VBG is/VBZ the/DT one/CD trying/VBG ?/.,which group are you saying is the one trying? /
+sv,A,"I/PRP 'm/VBP saying/VBG that/IN the/DT ,/, uh/UH ,/, the/DT group/NN that/WDT is/VBZ just/RB trying/VBG to/TO survive/VB from/IN day/NN to/IN day/NN ,/, where/WRB both/DT parents/NNS are/VBP working/VBG --/:","I'm saying that [ the, + {F uh, } the ] group that is just trying to survive from day to day, where both parents are working --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: is/VBZ more/JJR of/IN the/DT majority/NN than/IN the/DT ,/, than/IN the/DT people/NNS that/WDT have/VBP the/DT higher/JJR standard/NN of/IN living/NN ./.","-- is more of the majority [ than the, + than the ] people that have the higher standard of living. /"
+sv,A,"Because/IN if/IN you/PRP look/VBP at/IN economics/NN across/IN this/DT country/NN and/CC statistics/NNS on/IN who/WP has/VBZ the/DT money/NN and/CC who/WP the/DT decreasing/VBG ,/, uh/UH ,/, middle/JJ class/NN in/IN this/DT country/NN --/:","{C Because } if you look at economics across this country and statistics on who has the money and who the decreasing, {F uh, } middle class in this country --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: I/PRP think/VBP that/IN that/DT 's/BES ,/, in/IN my/PRP$ opinion/NN ,/, the/DT case/NN ./.","-- I think that that's, in my opinion, the case. /"
+bk,B,Okay/UH ./.,Okay. /
+%,A,So/RB ./.,{D So. } - /
+sd,A,"I/PRP mean/VBP I/PRP have/VBP met/VBN people/NNS that/WDT ,/, uh/UH ,/, both/DT that/WDT ,/, that/WDT just/RB want/VBP to/TO maintain/VB a/DT ,/, the/DT standard/NN of/IN living/NN and/CC those/DT that/WDT ,/, that/WDT really/RB need/VBP the/DT job/NN ./.","{E I mean } I have met people [ [ that, + {F uh, } both that, ] + <sigh> that ] just want to maintain [ a, + the ] standard of living and those [ that, + that ] really need the job. /"
+b,B,Okay/UH ./.,Okay. /
+sd,B,"And/CC then/RB ,/, sometimes/RB I/PRP ,/, I/PRP often/RB ,/, uh/UH ,/, find/VBP that/IN maybe/RB there/EX 's/BES so/RB many/JJ different/JJ things/NNS available/JJ to/IN us/PRP ./. Yo-/PRP ,/, a/DT microwave/NN ,/, a/DT V/NN C/NN R/NN ,/, a/DT answering/NN machine/NN --/:","{C And then, } sometimes [ I, + I ] often, {F uh, } find that maybe there's so many different things available to us. [ Yo-, + ] a microwave, a V C R, a answering machine --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: a/DT ,/, you/PRP know/VBP ,/, a/DT special/JJ ,/, a/DT dishwasher/NN ,/, uh/UH ,/, a/DT refrigerator/NN and/CC some/DT of/IN those/DT items/NNS ,/, um/UH ,/, for/IN the/DT ,/, for/IN the/DT ,/, uh/UH ,/,","-- [ [ a, + {D you know, } a special, ] + a ] dishwasher, {F uh, } a refrigerator and some of those items, {F um, } [ for the, + for the, ] {F uh, } - /"
+sv,B,well/UH I/PRP guess/VBP we/PRP 're/VBP sticking/VBG more/RBR to/IN social/JJ changes/NNS,{D well } I guess we're sticking more to social changes /
+sv,B,"but/CC ,/, uh/UH --/:","{C but, } {F uh } --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: people/NNS want/VBP all/DT of/IN that/DT,-- people want all of that /
+sv,B,and/CC not/RB all/DT of/IN those/DT are/VBP necessities/NNS ./.,{C and } not all of those are necessities. /
+b,A,Right/UH ./.,Right </breathing> </talking>. /
+sv,B,"So/RB they/PRP 're/VBP trying/VBG to/TO ,/,","{C So } they're trying to, - /"
+sv,B,it/PRP has/VBZ become/VBN a/DT necessity/NN ./.,it has become a necessity </static>. /

@@ -1,0 +1,307 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+qw,A,"so/UH which/WDT ,/, uh/UH ,/, what/WP basketball/NN teams/NNS are/VBP you/PRP interested/JJ in/IN ?/.","{D so } [ which, + {F uh, } what ] basketball teams are you interested in? /"
+sd,B,"Well/UH ,/, I/PRP guess/VBP I/PRP 'm/VBP a/DT big/JJ Laker/NNP ,/, L/NNP A/NNP Laker/NNP fan/NN ,/,","{D Well, } I guess I'm a big [ Laker, + L A Laker ] fan,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,when/WRB it/PRP comes/VBZ to/IN pros/NNS ./.,when it comes to pros. /
+sd,B,"Uh/UH ,/, the/DT college/NN ranks/VBZ ,/, um/UH ,/, I/PRP guess/VBP I/PRP really/RB ,/,","{F Uh, } the college ranks, {F um, } I guess I really, - /"
+sd,B,"of/IN course/NN I/PRP try/VBP to/TO follow/VB my/PRP$ alma/FW mater/FW ,/,","of course I try to follow my alma mater, /"
+sd,B,"that/DT 's/BES ,/, uh/UH ,/, B/NNP Y/NNP U/NNP ,/,","that's, {F uh, } B Y U,"
+b,A,Uh-huh/UH,Uh-huh /
++,B,in/IN Utah/NNP ./.,in Utah. /
+sv,B,But/CC they/PRP do/VBP n't/RB have/VB much/RB of/IN a/DT team/NN usually/RB ./.,{C But } they don't have much of a team usually. /
+aa,A,"No/UH ,/,","No, /"
+sv,A,they/PRP 're/VBP more/RBR of/IN a/DT football/NN team/NN than/IN they/PRP are/VBP basketball/NN team/NN ./.,they're more of a football team than they are basketball team. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,yeah/UH ./.,yeah. /
+sd,B,You/PRP see/VBP them/PRP in/IN football/NN on/IN T/NN V/NN once/RB in/IN awhile/NN ./.,You see them in football on T V once in awhile. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"You/PRP never/RB see/VBP them/PRP on/IN a/DT ,/, on/IN nationally/RB basketball/NN ./.","You never see them [ on a, + on ] nationally basketball. /"
+aa,A,"You/PRP know/VBP ,/, that/DT 's/BES true/JJ ./.","{D You know, } that's true. /"
+sd,A,I/PRP do/VBP n't/RB think/VB I/PRP 've/VBP ever/RB seen/VBN them/PRP nationally/RB on/IN basketball/NN ./.,I don't think I've ever seen them nationally on basketball. /
+sv,B,"They/PRP ,/, uh/UH ,/, last/JJ year/NN they/PRP had/VBD a/DT really/RB good/JJ team/NN ,/,","[ They, + {F uh, } last year they ] had a really good team, /"
+sd,B,MUMBLEx/XX the/DT year/NN that/IN Danny/NNP Aines/NNP was/VBD there/RB ./.,(( )) the year that Danny Aines was there. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"That/DT was/VBD about/RB five/CD ,/, six/CD years/NNS ago/RB by/IN now/RB ./.","That was about five, six years ago by now. /"
+%,A,Huh/UH ./.,{F Huh. } /
+sd,B,"So/UH ,/, they/PRP made/VBD it/PRP to/IN the/DT sweet/JJ sixteen/CD ,/,","{C So, } they made it to the <noise> sweet sixteen,"
+%,A,Um/UH ./.,{F Um. } /
++,B,"once/RB or/CC twice/RB ,/,","once or twice,"
+sv,A,That/DT 's/BES not/RB too/RB bad/JJ ./.,That's not too bad. /
++,B,"in/IN their/PRP$ history/NN ,/,","in their history, /"
+%,B,"and/CC that/DT 's/BES ,/,","{C and } that's, - /"
+sd,B,and/CC they/PRP usually/RB lose/VBP in/IN the/DT first/JJ round/NN ./.,{C and } they usually lose in the first round. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+x,B,MUMBLEx/XX ./.,(( )) <laughter>. /
+x,A,./.,<Laughter>.
+qo,B,How/WRB about/IN you/PRP ?/.,How about you? /
+sd,A,"Well/UH ,/, I/PRP 'm/VBP ,/, uh/UH ,/, originally/RB from/IN the/DT Saint/NNP Louis/NNP area/NN ,/,","{D Well, } I'm, {F uh, } originally from the Saint Louis area, /"
+sd,A,"so/RB the/DT only/JJ basketball/NN team/NN ,/, pro/IN anyway/RB ,/, in/IN that/DT part/NN of/IN the/DT country/NN is/VBZ Chicago/NNP ./.","{C so } the only basketball team, pro anyway, in that part of the country is Chicago. /"
+sd,A,"So/RB ,/, I/PRP ,/, I/PRP do/VBP pull/VB for/IN Chicago/NNP ./.","{C So, } [ I, + I ] do pull for Chicago. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"I/PRP mean/VBP ,/, of/IN course/NN ,/, this/DT year/NN is/VBZ a/DT good/JJ year/NN to/TO be/VB a/DT ,/, a/DT Chicago/NNP B-/XX ,/, fan/NN ,/, I/PRP guess/VBP ,/, because/IN they/PRP 're/VBP doing/VBG pretty/RB good/JJ ./.","{E I mean, } of course, this year is a good year to be [ a, + a ] Chicago [ B-, + ] fan, I guess, because they're doing pretty good. /"
+qy,B,Is/VBZ it/PRP the/DT Bulls/NNPS you/PRP 're/VBP talking/VBG about/IN ?/.,Is it the Bulls you're talking about? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+ny,A,yeah/UH ./.,yeah. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+bf,B,"the/DT pro/NN ,/,","the pro, -/"
+sd,A,"Um/UH ,/, as/RB far/RB as/IN college/NN teams/NNS ,/, uh/UH ,/, I/PRP know/VBP it/PRP 's/BES really/RB easy/JJ to/TO say/VB ,/,","{F Um, } as far as college teams, {F uh, } I know it's really easy to say, /"
+sd,A,"but/CC I/PRP 've/VBP been/VBN pulling/VBG for/IN ,/, uh/UH ,/, Duke/VBP for/IN about/RB four/CD years/NNS now/RB","{C but } I've been pulling for, {F uh, } Duke for about four years now /"
+sd,A,"so/RB ,/, uh/UH ,/,","[ {C so, } + {F uh, }"
+bh,B,Is/VBZ that/DT right/JJ ?/.,Is that right? /
++,A,"so/RB ,/, I/PRP finally/RB am/VBP feeling/VBG better/RB about/IN myself/PRP as/RB far/RB as/IN college/NN teams/NNS ./. Although/IN ,/, I/PRP 've/VBP ,/, I/PRP 've/VBP really/RB ,/, you/PRP know/VBP ,/,","{C so, } ] I finally am feeling better about <laughter> myself as far as college teams. Although, [ I've, + I've ] really, {D you know, } - /"
+sd,A,"again/RB being/VBG from/IN Saint/NNP Louis/NNP ,/, I/PRP pull/VBP for/IN Missouri/NNP ./.","again being from Saint Louis, I pull for Missouri. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, but/CC they/PRP 're/VBP on/IN ,/, uh/UH ,/, probation/NN this/DT year/NN","{F Uh, } {C but } they're on, {F uh, } probation this year /"
+sv,A,so/RB you/PRP ca/MD n't/RB do/VB much/RB about/IN that/DT ./.,{C so } you can't do much about that. /
+aa,B,"No/UH ,/,","No, /"
+aa,B,no/UH ./.,no. /
+%,A,"But/CC ,/, uh/UH ,/,","{C But, } {F uh, } -/"
+qy,B,"So/UH ,/, did/VBD you/PRP watch/VB the/DT ,/, uh/UH ,/, final/JJ four/CD this/DT year/NN ?/.","{D So, } did you watch the, {F uh, } final four this year? /"
+ny,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,"I/PRP watched/VBD every/DT ,/, uh/UH ,/,","[ I watched every, + {F uh, }"
+^2,B,Every/DT game/NN ?/.,Every game? /
++,A,I/PRP watched/VBD all/DT three/CD games/NNS of/IN that/DT ./.,I watched all ] three games of that. /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP was/VBD very/RB pleased/JJ with/IN all/DT three/CD games/NNS ,/, because/IN Kansas/NNP ,/, uh/UH ,/,","{C And, } {F uh, } I was very pleased with all three games, because Kansas, {F uh, } - /"
+sd,A,"you/PRP know/VBP ,/, I/PRP was/VBD pulling/VBG for/IN Kansas/NNP on/IN the/DT other/JJ side/NN ,/,","{D you know, } I was pulling for Kansas on the other side, /"
+sd,A,"so/RB it/PRP was/VBD real/RB nice/JJ to/TO have/VB the/DT ,/, the/DT teams/NNS that/WDT were/VBD there/RB ./.","{C so } it was real nice to have [ the, + the ] teams that were there. /"
+b,B,"Right/UH ,/,","Right, /"
+b,B,right/UH ./.,right. /
+sd,A,"Of/IN course/NN ,/, I/PRP was/VBD n't/RB really/RB ,/,","Of course, I wasn't really, - /"
+%,A,"I/PRP mean/VBP ,/, I/PRP ,/, I/PRP ,/,","{E I mean, } [ I, + I, ] - /"
+sd,A,"U/NNP N/NNP L/NNP V/NNP kind/NN of/IN gave/VBD me/PRP the/DT impression/NN of/IN being/VBG a/DT ,/, uh/UH ,/, uh/UH ,/, oh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/, a/DT macho/NN team/NN ,/, you/PRP know/VBP ,/,","U N L V kind of gave me the impression of being [ a, + {F uh, } {F uh, } {A oh, I don't know, } a ] macho team, {D you know, } /"
+sv,A,"they/PRP just/RB did/VBD n't/RB seem/VB ,/, they/PRP seemed/VBD to/TO think/VB they/PRP were/VBD better/JJR than/IN everybody/NN else/RB","[ they just didn't seem, + they seemed ] to think they were better than everybody else /"
+sv,A,"and/CC ,/, and/CC maybe/RB they/PRP were/VBD ,/,","[ {C and, } + {C and } ] maybe they were, /"
+sd,A,"but/CC ,/, um/UH ,/, I/PRP was/VBD real/RB happy/JJ to/TO see/VB them/PRP get/VB knocked/JJ off/IN ./.","{C but, } {F um, } I was real happy to see them get knocked off. /"
+%,A,"So/UH ,/,","{C So, } -/"
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP ,/, I/PRP watched/VBD that/DT game/NN ./.","[ I, + I ] watched that game. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"and/CC ,/, uh/UH ,/, it/PRP was/VBD a/DT good/JJ game/NN ./.","{C and, } {F uh, } it was a good game. /"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,"It/PRP was/VBD a/DT very/RB close/JJ game/NN ,/, and/CC hard/RB fought/JJ game/NN ./.","It was a very close game, and hard fought game. /"
+%,B,"And/CC it/PRP just/RB ,/,","{C And } it just, - /"
+h,B,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sv,B,"it/PRP looked/VBD like/IN U/NNP N/NNP L/NNP V/NNP may/MD have/VB had/VBN more/JJR ,/, uh/UH ,/, talent/NN ,/,","it looked like U N L V may have had more, {F uh, } talent, /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"but/CC ,/, as/RB far/RB as/IN playing/VBG together/RB as/IN a/DT team/NN that/DT day/NN ,/, it/PRP did/VBD n't/RB ,/, Duke/NNP seemed/VBD to/TO have/VB them/PRP off/IN balance/NN ./.","{C but, } as far as playing together as a team that day, [ it didn't, + ] Duke seemed to have them off balance. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC that/DT ,/, uh/UH ,/, they/PRP did/VBD n't/RB ,/, could/MD n't/RB ,/,","{C And } that, {F uh, } they [ didn't, + couldn't, ] - /"
+qy,B,are/VBP n't/RB they/PRP more/JJR of/IN a/DT running/NN gun/NN team/NN MUMBLEx/XX ?/.,aren't they more of a running gun team (( )) ? /
+b^m,A,"U/NNP N/NNP L/NNP V/NNP ,/,","U N L V, /"
+ny,A,"yeah/UH ,/,","yeah, /"
+sd,A,"they/PRP ,/, they/PRP play/VBP the/DT pro/NN style/NN ,/, is/VBZ ,/,","[ they, + they ] play the pro style, is,"
+b,B,Right/UH ./.,Right. /
++,A,what/WP I/PRP 've/VBP always/RB called/VBN it/PRP ./.,what I've always called it. /
+%,A,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, } -/"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"fast/RB breaks/NNS and/CC things/NNS and/CC ,/,","fast breaks and things and, -/"
+aa,A,"yeah/UH ,/,","yeah, /"
+b^m,A,"the/DT fast/JJ breaks/NNS and/CC ,/, and/CC ,/,","the fast breaks [ and, + and, ] -/"
+sv,B,They/PRP shut/VB all/PDT that/DT down/RP and/CC made/VBD them/PRP play/VB half/JJ court/NN it/PRP seemed/VBD,They shut all that down and made them play half court it seemed /
+%,B,"and/CC ,/,","{C and, } -/"
+aa,A,Right/UH ./.,Right. /
+sd,A,"And/CC ,/, uh/UH ,/, U/NNP N/NNP L/NNP V/NNP was/VBD n't/RB used/VBN to/IN that/DT ./.","{C And, } {F uh, } U N L V wasn't used to that. /"
+sd,A,"Of/IN course/NN ,/, I/PRP 've/VBP ,/, I/PRP knew/VBD whenever/WRB U/NNP N/NNP L/NNP V/NNP went/VBD in/IN at/IN half/JJ time/NN ,/, MUMBLEx/XX","Of course, [ I've, + I knew ] whenever U N L V went in at half time, (( )) - /"
+sd,A,"see/VB I/PRP do/VBP n't/RB know/VB if/IN they/PRP were/VBD necessarily/RB behind/RB ,/,","{D see } I don't know if they were necessarily behind, /"
+sd,A,but/CC they/PRP were/VBD n't/RB ahead/RB as/RB much/RB as/IN they/PRP normally/RB are/VBP ./.,{C but } they weren't ahead as much as they normally are. /
+b,B,Right/UH ./.,Right. /
+sd,A,"Uh/UH ,/, and/CC ,/, you/PRP know/VBP ,/, that/WDT meant/VBD that/IN they/PRP had/VBD to/TO play/VB a/DT second/JJ half/NN","{F Uh, } {C and, } {D you know, } that meant that they had to play a second half /"
+sd,A,"and/CC they/PRP ,/, they/PRP 've/VBP not/RB had/VBN to/TO do/VB that/DT all/DT year/NN","{C and } [ they, + they've ] not had to do that all year /"
+%,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+aa,B,"Right/UH ,/,","<Noise> Right, /"
+aa,B,right/UH ./.,right. /
+sd,B,"They/PRP did/VBD n't/RB have/VB ,/, they/PRP did/VBD n't/RB have/VB to/TO go/VB through/IN some/DT tough/JJ games/NNS during/IN the/DT year/NN","[ They didn't have, + they didn't have ] to go through some tough games during the year /"
+sv,B,"and/CC that/DT ,/, and/CC that/DT ,/, so/RB that/DT 's/BES a/DT terrible/JJ time/NN to/TO have/VB to/TO deal/VB with/IN that/DT ,/, right/RB in/IN ,/, when/WRB it/PRP ,/, when/WRB it/PRP counts/VBZ so/RB much/JJ ./.","[ [ {C and } that, + {C and } that, ] + {C so } that's ] a terrible time to have to deal with that, [ right in, + ] [ when it, + when it ] counts so much. /"
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+sv,A,"I/PRP mean/VBP Duke/NNP 's/POS schedule/NN was/VBD ,/, was/VBD so/RB much/RB harder/JJR than/IN U/NNP N/NNP L/NNP V/NNP 's/BES that/IN it/PRP ,/, uh/UH ,/, it/PRP just/RB made/VBD them/PRP a/DT much/RB tougher/JJR team/NN overall/RB ,/,","{E I mean } Duke's schedule [ was, + was ] so much harder than U N L V's that [ it, + {F uh, } it ] just made them a much tougher team overall, /"
+b,B,Right/UH ./.,Right. /
+sv,A,"and/CC ,/, uh/UH ,/, that/WDT had/VBD to/TO help/VB them/PRP a/DT lot/NN ./.","{C and, } {F uh, } that had to help them a lot. /"
+sv,B,"I/PRP think/VBP ,/, I/PRP think/VBP that/IN ,/, that/DT probably/RB was/VBD the/DT difference/NN in/IN that/DT game/NN ./.","[ I think, + I think ] [ that, + that ] probably was the difference in that game. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Because/IN it/PRP really/RB could/MD have/VB gone/VBN an-/XX ,/, either/CC way/NN ./. Down/IN to/IN the/DT end/NN ,/, you/PRP know/VBP ./.","{C Because } it really could have gone [ an-, + either ] way. Down to the end, {D you know. } /"
+qy,A,"So/UH do/VBP I/PRP take/VB it/PRP that/IN you/PRP think/VBP though/IN that/IN the/DT Lakers/NNPS will/MD ,/, uh/UH ,/,","{D So } do I take it that you think though that the Lakers [ will, + {F uh, }"
+%,B,"Well/UH ,/,","{D Well, } -/"
++,A,will/MD win/VB,will ] win /
+%,A,"or/CC ,/,","{C or, } -/"
+no,B,I/PRP do/VBP n't/RB know/VB ./.,<Noise> <<pause>> I don't know. /
+nn,B,Probably/RB not/RB ./.,Probably not. /
+sv,A,"I/PRP mean/VBP ,/, Portland/NNP 's/BES pretty/RB good/JJ ./. Um/UH ,/,","{E I mean, } Portland's pretty good. {F Um, } /"
+sd,B,"Since/IN Kareem/NNP 's/HVS retired/VBN ,/,","Since Kareem's retired,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,they/PRP have/VBP n't/RB had/VBN a/DT center/NN ./.,they haven't had a center. /
+sv,B,"And/CC ,/, uh/UH ,/, they/PRP 've/VBP got/VBN Perkins/NNP ,/,","{C And, } {F uh, } they've got Perkins, /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,but/CC I/PRP do/VBP n't/RB think/VB he/PRP 's/HVS really/RB been/VBN a/DT super/JJ star/NN for/IN them/PRP ./.,{C but } I don't think he's really been a super star for them. /
+aa,A,No/UH ./.,No. /
+%,A,"Well/UH ,/, he/PRP 's/BES ,/, uh/UH ,/,","{D Well, } he's, {F uh, } - /"
+%,A,"I/PRP do/VBP n't/RB ,/,","I don't, - /"
+%,A,"I/PRP ,/,","I, - /"
+sv,A,"he/PRP ,/, he/PRP to/IN me/PRP is/VBZ not/RB a/DT center/NN ,/,","[ he, + he ] to me is not a center, /"
+sv,A,"he/PRP 's/BES more/JJR of/IN a/DT ,/,","he's more of [ a, +"
+b,B,Yeah/UH ./.,Yeah. /
++,A,a/DT real/RB tall/JJ forward/RB ./.,a ] real tall forward <laughter>. /
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,right/UH ./.,right. /
+%,A,"Uh/UH ,/,","{F Uh, } /"
+%,B,"So/UH ,/,","{D So, } -/"
+sv,A,"I/PRP think/VBP Magic/NNP does/VBZ a/DT ,/,","I think Magic does a, -/"
+sv,B,"They/PRP 'll/MD make/VB it/PRP ,/, you/PRP know/VBP ,/,","They'll make it, {D you know, } - /"
+sv,B,"i-/PRP ,/, i-/PRP ,/, it/PRP ,/, it/PRP 's/BES going/VBG to/TO be/VB a/DT war/NN between/IN ,/, uh/UH ,/, between/IN Chicago/NNP and/CC ,/, uh/UH ,/, and/CC ,/, uh/UH ,/, uh/UH ,/, Boston/NNP Celtics/NNP ./.","[ [ [ i-, + i-, ] + it, ] + it's ] going to be a war [ between, + {F uh, } between ] Chicago [ and, + {F uh, } and, ] {F uh, } {F uh, } Boston Celtics. /"
+aa,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,B,That/DT 's/BES going/VBG to/TO be/VB a/DT war/NN ./.,That's going to be a war. /
+aa,A,That/DT sure/RB is/VBZ ./.,That sure is. /
+%,A,"It/PRP ,/,","It, -/"
+sv,B,It/PRP 's/BES going/VBG to/TO be/VB a/DT great/JJ series/NN ./.,It's going to be a great series. /
+sv,A,"I/PRP think/VBP that/DT 's/BES going/VBG to/TO be/VB one/CD of/IN those/DT that/WDT 's/HVS ,/, uh/UH ,/, that/WDT 's/HVS won/VBN by/IN the/DT home/NN team/NN ,/, you/PRP know/VBP ,/,","I think that's going to be one of those [ that's, + {F uh, } that's ] won by the home team, {D you know, } /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,whoever/WP has/VBZ home/NN court/NN advantage/NN is/VBZ going/VBG to/TO win/VB that/DT one/NN I/PRP think/VBP ./.,whoever has home court advantage is going to win that one I think. /
+sv,B,"One/CD of/IN those/DT two/CD will/MD probably/RB be/VB ,/, um/UH ,/, in/IN there/RB ,/,","One of those two will probably be, {F um, } in there, /"
+^h,B,"um/UH ,/, let/VB me/PRP see/VB ,/,","{F um, } let me see, /"
+qw,B,where/WRB does/VBZ Detroit/NNP fit/VB in/IN ?/.,where does Detroit fit in? /
+sd,A,"Detroit/NNP 's/BES in/IN that/DT same/JJ ,/, uh/UH ,/, that/DT ,/, that/DT same/JJ ,/, uh/UH ,/, division/NN ./.","Detroit's in [ that same, + {F uh, } [ that, + that ] same, ] {F uh, } division. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+h,B,"So/RB ,/, I/PRP do/VBP n't/RB know/VB ,/,","{C So, } I don't know, /"
+sd,B,"those/DT three/CD ,/,","those three, - /"
+sv,B,"uh/UH ,/, Detroit/NNP has/VBZ n't/RB been/VBN having/VBG that/RB great/JJ a/DT year/NN this/DT year/NN ./.","{F uh, } Detroit hasn't been having that great a year this year. /"
+aa,A,"No/UH ,/,","No, /"
+sd,A,"but/CC as/IN I/PRP heard/VBD ,/, Isaiah/NNP came/VBD back/RB this/DT week/NN ./.","{C but } as I heard, Isaiah came back this week. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"So/RB ,/, uh/UH ,/, that/WDT might/MD help/VB them/PRP ./.","{C So, } {F uh, } that might help them. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,"They/PRP have/VBP the/DT ,/, they/PRP have/VBP the/DT play-off/JJ experience/NN ,/,","[ They have the, + they have the ] play-off experience, /"
+%,B,"but/CC ,/,","{C but, } -/"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,"so/UH does/VBZ Detroit/NNP ,/, I/PRP mean/VBP ,/, so/UH does/VBZ Chicago/NNP ./. So/UH do/VB ,/, all/DT three/CD of/IN them/PRP do/VB ,/,","[ [ {C so } does Detroit, + {E I mean, } {C so } does Chicago. ] + {D So } do-, all three of them ] do,"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,B,"with/IN Larry/NNP Bird/NNP back/NN ,/, uh/UH ,/,","with Larry Bird back, {F uh, } /"
+sv,B,"you/PRP can/MD never/RB count/VB the/DT Celtics/NNP out/RP when/WRB Larry/NNP Bird/NNP 's/BES ,/,","you can never count the Celtics out when Larry Bird's,"
+aa,A,That/DT 's/BES true/JJ ./.,That's true. /
++,B,starting/VBG to/TO click/NN on/IN all/DT cylinders/NNS ./.,starting to click on all cylinders. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"They/PRP say/VBP he/PRP 's/BES starting/VBG to/TO do/VB ,/, starting/VBG to/TO play/VB ,/,","They say he's [ starting to do, + starting to play, ] /"
+sv,A,"He/PRP 's/HVS ,/, yeah/UH but/CC he/PRP 's/HVS been/VBN ,/, yeah/UH ,/, but/CC he/PRP 's/HVS been/VBN kind/RB of/RB up/RP and/CC down/RP all/DT year/NN ./.","[ [ He's, + yeah {C but } he's been, ] + yeah, {C but } he's been ] kind of up and down all year. /"
+b,B,Right/UH ./.,Right. /
+sv,A,"uh/UH ,/, one/CD game/NN and/CC he/PRP 'll/MD be/VB playing/VBG to/TO where/WRB everything/NN he/PRP throws/VBZ up/RP goes/VBZ in/IN","{F uh, } one game and he'll be playing to where everything he throws up goes in /"
+sv,A,"and/CC then/RB the/DT next/JJ time/NN he/PRP 'll/MD ,/,","{C and then } the next time [ he'll, +"
+b,B,Right/UH ./.,Right. /
++,A,"you/PRP know/VBP ,/, he/PRP ca/MD n't/RB seem/VB to/TO hit/VB the/DT side/NN of/IN a/DT barn/NN ./.","{D you know, } he can't ] seem to hit the side of a barn. /"
+h,A,"So/RB ,/, I/PRP do/VBP n't/RB know/VB ,/,","{C So, } I don't know, /"
+b,B,Right/UH ./.,Right. /
+sd,A,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP kind/RB of/RB ,/, I/PRP 'm/VBP not/RB sure/JJ about/IN him/PRP this/DT year/NN ./.","[ [ I'm, + I'm kind of, ] + I'm ] not sure about him this year. /"
+sd,B,Last/RB I/PRP 've/VBP heard/VBN is/VBZ that/IN he/PRP 's/BES starting/VBG to/TO peak/VB right/RB now/RB ./.,Last I've heard is that he's starting to peak right now. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Well/UH that/DT 's/BES when/WRB ,/,","{D Well } that's when,"
+sd,B,"He/PRP 's/BES ,/,","He's,"
++,A,you/PRP do/VBP it/PRP ./.,you do it. /
++,B,"starting/VBG to/TO be/VB more/RBR consistent/JJ ,/, you/PRP know/VBP ,/, right/RB at/IN the/DT right/JJ time/NN of/IN the/DT year/NN ./.","starting to be more consistent, {D you know, } [ right + at the right ] time of the year. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Oh/UH ,/, any/DT dark/JJ horses/NNS I/PRP ,/, uh/UH ,/, you/PRP know/VBP ,/,","{F Oh, } any dark horses I, {F uh, } {D you know, } -/"
+b^m,A,"Well/UH ,/, the/DT dark/JJ horses/NNS ,/,","{D Well, } the dark horses, -/"
+sv,B,"San/NNP Antonio/NNP ,/,","[ San Antonio, +"
+b,A,Yeah/UH,Yeah /
+%,A,"that/DT 's/BES ,/,","that's, -/"
++,B,"San/NNP Antonio/NNP is/VBZ the/DT dark/JJ horse/NN that/WDT could/MD ,/, could/MD really/RB flip/VB in/IN there/RB ,/, I/PRP think/VBP ./.","San Antonio ] is the dark horse that [ could, + could ] really flip in there, I think. /"
+aa,A,Yeah/UH ./.,Yeah. /
+sv,A,"Well/UH ,/, anybody/NN who/WP has/VBZ David/NNP Robinson/NNP ,/,","{D Well, } anybody who has David Robinson,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,has/VBZ got/VBN to/TO have/VB a/DT chance/NN anyway/RB ./.,has got to have a chance anyway. /
+sv,B,"He/PRP 's/HVS got/VBN to/TO be/VB pretty/RB much/JJ ,/, you/PRP know/VBP ,/,","He's got to be pretty much, {D you know, } - /"
+sd,B,"I/PRP use/VBP to/TO say/VB Akimo/NNP Lija/NNP was/VBD the/DT dominant/JJ player/NN ,/, you/PRP know/VBP ,/, when/WRB he/PRP ,/,","I use to say (( Akimo Lija )) was the dominant player, {D you know, } when he, -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"against/IN any/DT team/NN he/PRP would/MD dominate/VB ,/,","against any team he would dominate, /"
+sv,B,"but/CC Robinson/NNP 's/BES getting/VBG up/RP there/EX where/WRB ,/,","{C but } Robinson's getting up there (( where )) ,"
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
++,B,"every/DT game/NN ,/, he/PRP 's/BES just/RB ,/,","every game, he's just, - /"
+sd,B,"I/PRP mean/VBP ,/, it/PRP looks/VBZ like/IN he/PRP 's/BES going/VBG in/IN for/IN a/DT dunk/NN","{E I mean, } it looks like he's going in for a dunk /"
+sd,B,"and/CC they/PRP kind/RB of/RB just/JJ scoot/VBP out/IN of/IN his/PRP$ way/NN or/CC take/VBP a/DT step/NN back/RB ,/, you/PRP know/VBP ,/,","{C and } they kind of just scoot out of his way or take a step back, {D you know, } /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"nobody/NN 's/HVS got/VBN enough/RB beef/NN ,/, I/PRP guess/VBP ,/, to/TO challenge/VB him/PRP when/WRB he/PRP 's/BES ,/, when/WRB he/PRP 's/BES driving/VBG hard/RB to/IN the/DT hoop/NN ./.","nobody's got enough beef, I guess, to challenge him [ when he's, + when he's ] driving hard to the hoop. /"
+%,A,Huh/UH ./.,{F Huh. } /
+%,B,"He/PRP 's/BES ,/, uh/UH ,/, he/PRP 's/BES ,/,","[ He's, + {F uh, } he's, ] - /"
+sv,B,too/RB bad/JJ the/DT Mavericks/NNPS could/MD n't/RB get/VB him/PRP ./.,too bad the Mavericks couldn't get him. /
+aa,A,That/DT 's/BES true/JJ ./.,<Laughter> That's true. /
+sv,B,With/IN Roy/NNP Tarpley/NNP they/PRP 're/VBP in/IN big/JJ trouble/NN ./.,With Roy Tarpley they're in big trouble. /
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,"Well/UH then/RB ,/, he/PRP 's/BES gone/VBN now/RB","{D Well } then, he's gone now /"
+sv,A,"so/RB ,/,","{C so, }"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,for/IN awhile/RB anyway/RB ./.,for awhile anyway. /
++,A,they/PRP do/VBP n't/RB have/VB to/TO worry/VB about/IN that/DT ./.,they don't have to worry about that. /
+sd,A,"Well/UH ,/, I/PRP thought/VBD he/PRP was/VBD gone/VBN period/NN ./.","{D Well, } I thought he was gone period. /"
+sd,A,"I/PRP ,/, I/PRP did/VBD n't/RB read/VB the/DT story/NN ,/,","[ I, + I ] didn't read the story, /"
+sd,A,"but/CC I/PRP ,/, I/PRP ,/, read/VBD that/IN ,/, uh/UH ,/,","{C but } [ I, + I, ] read that, {F uh, } -/"
+sd,B,I/PRP heard/VBD he/PRP was/VBD suspended/VBN ./.,I heard he was suspended.
+sd,A,"Well/UH ,/, that/DT might/MD have/VB been/VBN what/WP it/PRP was/VBD ,/,","{D Well, } that might have been what it was, /"
++,B,"Because/IN of/IN his/PRP$ ,/,","Because of his, -/"
+sd,A,"but/CC I/PRP ,/, I/PRP guess/VBP the/DT headlines/NNS said/VBD something/NN about/IN him/PRP ,/, you/PRP know/VBP ,/, that/IN the/DT Mavericks/NNPS released/VBD him/PRP or/CC something/NN ,/,","{C but } [ I, + I ] guess the headlines said something about him, {D you know, } that the Mavericks released him or something, /"
+sd,A,"I/PRP ,/, maybe/RB I/PRP misunderstood/VBD what/WP they/PRP meant/VBD ./.","[ I, + maybe I ] misunderstood what they meant. /"
+sd,B,"Um/UH ./. If/IN they/PRP did/VBD ,/, they/PRP 'd/MD still/RB have/VB to/TO pay/VB his/PRP$ contract/NN ./.","{F Um. } If they did, they'd still have to pay his contract <laughter>. /"
+b,A,"Well/UH ,/, yeah/UH --/:","{D Well, } yeah -- /"
+sd,B,They/PRP may/MD have/VB done/VBN it/PRP ./.,They may have done it. /
+sv,A,--/: you/PRP never/RB know/VBP ./.,-- you never know. /
+sd,B,It/PRP was/VBD a/DT lot/NN of/IN money/NN ./.,It was a lot of money. /
+sd,B,"He/PRP was/VBD making/VBG like/IN ,/,","He was making {D like, } -/"
+b,A,Yeah/UH,Yeah /
+%,A,"but/CC ,/,","{C but, } -/"
+sd,B,I/PRP heard/VBD on/IN the/DT radio/NN it/PRP was/VBD sixty-three/CD thousand/CD and/CC change/NN a/DT month/NN ./.,I heard on the radio it was sixty-three thousand and change a month. /
+sd,B,"That/DT 's/BES what/WP he/PRP was/VBD being/VBG paid/VBD ,/, you/PRP know/VBP ,/,","That's what he was being paid, {D you know, } /"
+sd,B,he/PRP was/VBD n't/RB even/RB playing/VBG ./.,he wasn't even playing. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Oh/UH ,/, boy/NN ,/, what/WP a/DT good/JJ job/NN he/PRP had/VBD ./.","{F Oh, } boy, what a good job he had <laughter>. /"
+aa,A,That/DT 's/BES what/WP I/PRP think/VBP ./.,<Laughter> That's what I think. /
+sv,B,He/PRP ruined/VBD his/PRP$ sweet/JJ position/NN ./.,He ruined his sweet position <laughter>. /
+b,A,Yeah/UH ./.,Yeah <laughter>. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP 'm/VBP looking/VBG forward/RB to/IN the/DT ,/, the/DT pro/NN play-off/NN ,/, uh/UH ,/,","I'm looking forward to [ the, + the ] pro play-off, {F uh, } /"
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"It/PRP 's/BES coming/VBG up/RP ,/, is/VBZ n't/RB it/PRP ./.","It's coming up, isn't it. /"
+sd,B,"L/NNP A/NNP ,/,","L A, /"
+ny,B,"yeah/UH ,/,","yeah, /"
+sd,B,"San/NNP Antonio/NNP ,/,","San Antonio, /"
+qw,B,"who/WP 's/BES the/DT other/JJ one/NN that/WDT 's/BES doing/VBG so/RB well/RB this/DT year/NN ,/,","who's the other one that's doing so well this year, /"
+qy,B,"Port-/NNP ,/, is/VBZ that/DT Portland/NNP ?/.","[ Port-, + is that Portland? ] /"
+na,A,Portland/NNP ./.,Portland. /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+na,A,Portland/NNP ./.,Portland. /
+b^m,B,Portland/NNP ./.,Portland. /
+sd,B,"I/PRP have/VBP n't/RB seen/VBN them/PRP on/IN much/JJ T/NNP V/NNP that/WRB much/JJ at/IN all/DT ,/,","I haven't seen them on much T V that much at all, /"
+sd,B,"but/CC all/DT I/PRP can/MD do/VB is/VBZ hear/VB about/IN ,/,","{C but } all I can do is hear about, - /"
+sv,B,boy/UH they/PRP have/VBP the/DT seeing/VBG eye/NN ./.,boy they have the seeing eye. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qw,B,What/WP do/VBP they/PRP have/VB,What do they have /
+sd,B,"Walter/NNP Davis/NNP and/CC ,/,","Walter Davis and, -/"
+sd,A,"They/PRP 've/VBP got/VBN two/CD ,/, the/DT two/CD Johnson/NNP brothers/NNS","They've got [ two, + the two ] Johnson brothers /"
+sd,A,"or/CC they/PRP 're/VBP not/RB brothers/NNS ,/,","{C or } they're not brothers, /"
+sd,A,"but/CC I/PRP mean/VBP there/EX 's/BES two/CD guys/NNS named/VBN Johnson/NNP on/IN their/PRP$ team/NN that/WDT are/VBP really/RB good/JJ or/CC doing/VBG good/JJ or/CC something/NN ,/,","{C but } I mean there's two guys named Johnson on their team that are really good or doing good or something, /"
+sd,A,I/PRP forget/VBP how/WRB that/WDT works/VBZ ./.,I forget how that works. /
+sv,A,"But/CC ,/,","{C But, }"
+%,B,Um/UH ./.,{F Um. } /
++,A,"um/UH ,/, like/IN I/PRP said/VBD they/PRP 're/VBP doing/VBG extremely/RB good/RB right/RB now/RB ./.","{F um, } like I said they're doing extremely good right now. /"
+sv,A,Phoenix/NNP is/VBZ n't/RB doing/VBG too/RB bad/RB ./.,Phoenix isn't doing too bad. /
+sv,A,"So/RB ,/,","{C So, }"
+aa,B,Right/UH ./.,Right. /
+aa,B,Right/UH ./.,Right. /
++,A,"It/PRP ,/, it/PRP ought/MD to/TO be/VB a/DT real/JJ interesting/JJ play-off/NN ./.","[ It, + it ] ought to be a real interesting play-off. /"
+b,B,Yeah/UH ./.,Yeah. /
+b,B,Yeah/UH ./.,Yeah. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"I/PRP do/VBP n't/RB think/VB there/EX 's/BES any/DT clear/JJ pick/NN ,/, you/PRP know/VBP ./.","I don't think there's any clear pick, {D you know. } /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"I/PRP guess/VBP the/DT two/CD teams/NNS that/WDT you/PRP ca/MD n't/RB count/VB out/RP are/VBP the/DT Celtics/NNPS because/IN of/IN Bird/NNP ,/, and/CC the/DT Lakers/NNPS because/IN of/IN Magic/NNP Johnson/NNP ./.","I guess the two teams that you can't count out are the Celtics because of Bird, and the Lakers because of Magic Johnson. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"They/PRP are/VBP two/CD guys/NNS that/WDT seem/VBP to/TO find/VB a/DT way/NN when/WRB they/PRP ,/,","They are two guys that seem to find a way when they, -/"
+^2,A,When/WRB it/PRP 's/BES on/IN the/DT line/NN ./.,When it's on the line. /
+sv,B,"When/WRB it/PRP 's/BES on/IN the/DT line/NN ,/, they/PRP seem/VBP to/TO find/VB a/DT way/NN ./.","When it's on the line, they seem to find a way."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"You/PRP know/VBP ,/,","{D You know, } /"
+sv,B,"uh/UH ,/, so/RB ,/, those/DT are/VBP what/WP makes/VBZ a/DT champion/NN I/PRP guess/VBP ./.","{F uh, } {C so, } those are what makes a champion I guess. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,that/DT 's/BES true/JJ ./.,that's true. /
+b,B,Yeah/UH ./.,Yeah. /
+fc,A,"Well/UH ,/, it/PRP 's/HVS been/VBN nice/JJ talking/VBG to/IN you/PRP ./.","{D Well, } it's been nice talking to you. /"
+fc,B,Nice/JJ talking/VBG to/IN you/PRP ./.,Nice talking to you. /
+fc,A,All/DT right/JJ ./.,All right. /
+fc,A,Take/VB care/NN ./.,Take care. /
+fc,B,Take/VB care/NN ./.,Take care. /
+fc,B,Bye/UH ./.,Bye. /

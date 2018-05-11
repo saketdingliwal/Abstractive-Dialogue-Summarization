@@ -1,0 +1,130 @@
+act_tag,speaker,pos,text
+qw,A,"So/UH ,/, uh/UH ,/, what/WDT kind/NN of/IN home/NN repair/NN work/NN have/VBP you/PRP done/VBN ?/.","{C So, } {F uh, } what kind of home repair work have you done? /"
+sd,B,"Well/UH ,/, um/UH ,/, done/VBN a/DT little/JJ ,/, uh/UH ,/, repair/NN on/IN the/DT ,/, uh/UH ,/, shingles/NNS on/IN the/DT roof/NN recently/RB ./.","{D Well, } {F um, } done a little, {F uh, } repair on the, {F uh, } shingles on the roof recently. /"
+sd,B,We/PRP 've/VBP had/VBN a/DT lot/NN of/IN wind/NN around/IN here/RB ./.,We've had a lot of wind around here. /
+qrr,A,"Been/VBN pulling/VBG them/PRP up/RP ,/, huh/UH ,/, or/CC just/RB loosening/VBG them/PRP until/IN the/DT rain/NN came/VBD in/RB ?/.","Been pulling them up, {F huh, } or just loosening them until the rain came in? /"
+ny,B,Yes/UH ./.,Yes. /
+sd,B,"It/PRP looks/VBZ like/IN I/PRP 'm/VBP going/VBG to/TO have/VB to/TO get/VB up/IN there/RB again/RB ,/, because/IN we/PRP may/MD have/VB a/DT leak/NN ./.","It looks like I'm going to have to get up there again, because we may have a leak. /"
+qy,A,Are/VBP you/PRP in/IN the/DT section/NN of/IN Texas/NNP that/WDT 's/HVS been/VBN getting/VBG so/RB much/JJ rain/NN ?/.,Are you in the section of Texas that's been getting so much rain? /
+arp_nd,B,"We/PRP 've/VBP been/VBN getting/VBG quite/PDT a/DT bit/NN ,/, maybe/RB not/RB quite/RB as/RB bad/JJ as/IN some/DT of/IN the/DT folks/NNS down/IN around/IN San/NNP Antonio/NNP ,/,","We've been getting quite a bit, maybe not quite as bad as some of the folks down around San Antonio, /"
+%,B,"but/CC ,/, uh/UH ,/, well/UH ,/, I/PRP 'm/VBP right/RB ,/,","{C but, } {F uh, } {D well, } I'm right, - /"
+sd,B,Plano/NNP 's/BES just/RB north/JJ of/IN Dallas/NNP --/:,Plano's just north of Dallas -- /
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,B,"--/: and/CC there/EX are/VBP parts/NNS of/IN downtown/NN or/CC near/JJ downtown/NN Dallas/NNP that/WDT are/VBP under/IN water/NN right/RB now/RB ,/, I/PRP guess/VBP ,/,","-- {C and } there are parts of downtown or near downtown Dallas that are under water right now, I guess, /"
+sd,B,I/PRP saw/VBD on/IN the/DT news/NN ./.,I saw on the news. /
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"But/CC you/PRP 're/VBP probably/RB ,/, what/WP ,/, about/IN halfway/RB across/IN the/DT state/NN from/IN San/NNP Antonio/NNP ,/, though/RB ,/, are/VBP n't/RB you/PRP ?/.","{C But } you're probably, [ what, + ] about halfway across the state from San Antonio, though, aren't you? /"
+arp_nd,B,"Well/UH ,/, we/PRP 're/VBP up/IN ,/, uh/UH ,/, we/PRP 're/VBP north/JJ --/:","{D Well, } [ we're up, + {F uh, } we're north ] --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: and/CC ,/, uh/UH ,/, oh/UH ,/, about/RB ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/, uh/UH ,/, eighty/CD to/IN a/DT hundred/CD miles/NNS south/RB of/IN the/DT Oklahoma/NNP line/NN ,/, I/PRP guess/VBP ./.","-- and, {F uh, } {F oh, } about, {F uh, } {A I don't know, } {F uh, } eighty to a hundred miles south of the Oklahoma line, I guess. /"
+bk,A,"Yeah/UH ,/,","Yeah, /"
+bk,A,okay/UH ./.,okay. /
+qy^d,A,"But/CC you/PRP 're/VBP still/RB getting/VBG a/DT good/JJ bit/NN of/IN the/DT rain/NN ,/, though/RB ./.","{C But } you're still getting a good bit of the rain, though. /"
+ng,B,"Uh/UH ,/, we/PRP did/VBD have/VB a/DT little/JJ bit/NN of/IN rain/NN yesterday/NN ./.","{F Uh, } we did have a little bit of rain yesterday. /"
+ng,B,So/RB far/RB we/PRP have/VBP n't/RB had/VBN any/DT today/NN ./.,So far we haven't had any today. /
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP suppose/VBP that/DT means/VBZ I/PRP should/MD be/VB ,/, uh/UH ,/, getting/VBG up/IN there/RB to/TO look/VB at/IN that/DT ,/, uh/UH ,/, shingle/NN ,/,","{C And, } {F uh, } I suppose that means I should be, {F uh, } getting up there to look at that, {F uh, } shingle, /"
+sd,B,"but/CC ,/, uh/UH --/:","{C but, } {F uh } --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: I/PRP had/VBD something/NN else/RB planned/VBN today/NN ,/,","-- I had something else planned today, /"
+sd,B,so/RB I/PRP guess/VBP I/PRP 'll/MD let/VB it/PRP go/VB awhile/RB ./.,{C so } I guess I'll let it go awhile. /
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"Is/VBZ it/PRP asphalt/NN shingles/NNS ,/,","Is it asphalt shingles, /"
+%,A,"or/CC ,/, or/CC MUMBLEx/XX ./.","[ {C or, } + {C or } ] (( )) . -/"
+%,B,"They/PRP 're/VBP ,/, uh/UH ,/,","They're, {F uh, } - /"
+nn,B,"no/UH ,/,","no, /"
+sd,B,"they/PRP 're/VBP ,/, uh/UH ,/, wood/NN shake/NN ./.","they're, {F uh, } wood shake. /"
+bk,A,"Ooh/UH ,/,","Ooh, /"
+sv,A,that/DT should/MD be/VB a/DT lot/NN of/IN fun/NN ./.,that should be a lot of fun. /
+b,B,Yeah/UH ./.,Yeah <laughter>. /
+qy,A,Did/VBD you/PRP put/VB them/PRP up/RP originally/RB or/CC just/RB going/VBG up/RB and/CC stopping/VBG leaks/NNS in/IN them/PRP ?/.,Did you put them up originally or just going up and stopping leaks in them? /
+nn,B,"No/UH ,/,","No, /"
+%,B,"I/PRP ,/,","I, - /"
+sd,B,"uh/UH ,/, as/IN a/DT matter/NN of/IN fact/NN ,/, we/PRP 've/VBP never/RB had/VBN a/DT leak/NN actually/RB yet/RB ./.","{F uh, } as a matter of fact, we've never had a leak actually yet. /"
+%,B,"Now/RB this/DT ,/,","Now this, - /"
+sd,B,"we/PRP just/RB bought/VBD the/DT house/NN last/JJ year/NN ,/,","we just bought the house last year, /"
+sd,B,"and/CC ,/, uh/UH ,/, uh/UH ,/, just/RB before/IN we/PRP took/VBD possession/NN of/IN it/PRP we/PRP had/VBD a/DT fellow/NN go/VB up/IN there/RB and/CC do/VB whatever/WDT needed/VBN to/TO be/VB done/VBN on/IN the/DT shingles/NNS ./.","{C and, } {F uh, } {F uh, } just before we took possession of it we had a fellow go up there and do whatever needed to be done on the shingles. /"
+sd,B,"So/RB ,/, I/PRP 've/VBP just/RB recently/RB had/VBN to/TO start/VB looking/VBG at/IN it/PRP myself/PRP ./.","{C So, } I've just recently had to start looking at it myself. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"So/RB ,/, it/PRP 's/BES a/DT small/JJ problem/NN so/RB far/RB ,/,","{C So, } it's a small problem so far, /"
+sd,B,but/CC I/PRP guess/VBP you/PRP just/RB have/VBP to/TO keep/VB on/IN top/NN of/IN it/PRP ./.,{C but } I guess you just have to keep on top of it. /
+qw,B,What/WDT kind/NN of/IN roof/NN do/VBP you/PRP have/VB ?/.,What kind of roof do you have? /
+sd,A,"Uh/UH ,/, we/PRP 're/VBP in/IN ,/, uh/UH ,/, campus/NN apartment/NN buildings/NNS with/IN flat/JJ top/NN ,/, uh/UH ./.","{F Uh, } we're in, {F uh, } campus apartment buildings with flat top, {F uh. } /"
+qy^d,B,"Oh/UH ,/, then/RB you/PRP do/VBP n't/RB have/VB to/TO do/VB too/RB much/JJ with/IN it/PRP ./.","{F Oh, } then you don't have to do too much with it <laughter>. /"
+ng,A,Not/RB too/RB much/JJ ./.,Not too much. /
+sd,A,They/PRP 're/VBP just/RB tar/NN and/CC gravel/NN --/:,They're just tar and gravel --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: treated/JJ flat/JJ top/NN roofs/NNS ./.,-- treated flat top roofs. /
+qy,A,"Have/VBP you/PRP got/VBN pretty/RB well/RB pitch/NN on/IN that/DT roof/NN ,/, or/CC is/VBZ it/PRP pretty/RB steep/JJ ?/.","Have you got pretty well pitch on that roof, or is it pretty steep? /"
+sd,B,"Oh/UH ,/, it/PRP 's/BES pretty/RB steep/JJ ./.","{F Oh, } it's pretty steep. /"
+sd,B,"Uh/UH ,/, parts/NNS of/IN it/PRP are/VBP steeper/JJR than/IN others/NNS ./.","{F Uh, } parts of it are steeper than others. /"
+qw,A,What/WP do/VBP you/PRP use/VB to/TO keep/VB from/IN sliding/VBG off/IN that/DT rascal/NN ?/.,What do you use to keep from sliding off that rascal? /
+sd,B,"Well/UH ,/, uh/UH ,/, you/PRP wear/VBP ,/, uh/UH ,/, shoes/NNS with/IN good/JJ traction/NN ,/, and/CC ,/, and/CC ,/, and/CC try/VB to/TO remember/VB where/WRB you/PRP are/VBP at/IN all/DT times/NNS ./.","{D Well, } {F uh, } <laughter> you wear, {F uh, } shoes with good traction, [ [ and, + and, ] + and ] try to remember where you are at all times <laughter>. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+ba,A,"I/PRP imagine/VBP ,/, I/PRP imagine/VBP ./.","[ I imagine, + I imagine. ] /"
+sd,B,"And/CC remember/VBP to/TO yell/VB Geronimo/NNP ,/,","{C And } remember to yell Geronimo,"
+x,A,./.,<Laughter>.
++,B,if/IN all/DT else/NN fails/VBZ ./.,if all else fails. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,"yeah/UH ,/,","yeah, /"
+sd,A,that/DT would/MD be/VB just/RB too/RB much/JJ of/IN a/DT fall/NN for/IN me/PRP ./.,that would be just too much of a fall for me. /
+%,A,"Um/UH ,/, have/VBP you/PRP been/VBN ,/, uh/UH ,/,","{F Um, } have you been, {F uh, } - /"
+qy,A,"was/VBD ,/, was/VBD the/DT house/NN reasonably/RB new/JJ ,/,","[ was, + was ] the house reasonably new, /"
+qrr,A,or/CC you/PRP been/VBN doing/VBG some/DT remodeling/NN work/NN on/IN it/PRP ./.,{C or } you been doing some remodeling work on it. /
+sd,B,"It/PRP 's/BES actually/RB just/RB twelve/CD years/NNS old/JJ ,/, now/RB ./.","It's actually just twelve years old, now. /"
+sv,A,That/DT 's/BES pretty/RB new/JJ house/NN yet/RB ./.,That's pretty new house yet. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"it/PRP ,/, uh/UH ,/,","it, {F uh, } - /"
+%,B,"this/DT part/NN of/IN the/DT country/NN ,/,","this part of the country, - /"
+sd,B,"actually/RB ,/, they/PRP say/VBP that/IN when/WRB the/DT house/NN is/VBZ ,/, uh/UH ,/, fifteen/CD ,/, it/PRP 's/BES already/RB old/JJ ,/,","{D actually, } they say that when the house is, {F uh, } fifteen, it's already old, /"
+sv,B,but/CC just/RB take/VB good/JJ care/NN of/IN it/PRP ./.,{C but } just take good care of it. /
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"Thing/NN is/VBZ ,/,","Thing is, - /"
+sd,B,"we/PRP 've/VBP ,/, uh/UH ,/, the/DT main/JJ thing/NN that/WDT we/PRP 've/VBP had/VBN with/IN this/DT house/NN recently/RB has/VBZ been/VBN some/DT ,/, uh/UH ,/, squirming/NN ,/, I/PRP call/VBP it/PRP ,/, of/IN the/DT foundation/NN ./.","[ we've, + {F uh, } the main thing that we've ] had with this house recently has been some, {F uh, } squirming, I call it, of the foundation. /"
+sd,B,"We/PRP 're/VBP just/RB on/IN a/DT concrete/NN slab/NN ,/, you/PRP know/VBP --/:","We're just on a concrete slab, {D you know } -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"--/: but/CC ,/, uh/UH ,/, the/DT soil/NN right/RB under/IN this/DT is/VBZ a/DT clay/NN ,/,","-- {C but, } {F uh, } the soil right under this is a clay, /"
+%,B,"and/CC it/PRP ,/, uh/UH ,/,","{C and } it, {F uh, } -/"
+qy,A,It/PRP 's/BES settling/VBG unevenly/RB ?/.,It's settling unevenly? /
+arp_nd,B,"Well/UH ,/, it/PRP ,/, uh/UH ,/, depending/VBG on/IN its/PRP$ moisture/NN content/NN ,/, it/PRP either/CC swells/VBZ up/RP or/CC shrinks/VBZ ,/,","{D Well, } [ it, + {F uh, } depending on its ] moisture content, it either swells up or shrinks, /"
+sd,B,"and/CC ,/, uh/UH --/:","{C and, } {F uh } --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: of/IN course/NN the/DT soil/NN right/RB under/IN the/DT slab/NN retains/VBZ its/PRP$ moisture/NN a/DT lot/NN longer/RBR --/:,-- of course the soil right under the slab retains its moisture a lot longer -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC so/RB during/IN the/DT dry/JJ season/NN you/PRP have/VBP to/TO water/VB the/DT foundation/NN to/TO keep/VB your/PRP$ foundation/NN from/IN ,/, uh/UH ,/, from/IN ,/, uh/UH ,/, drooping/VBG --/:","-- {C and so } during the dry season you have to water the foundation to keep your foundation [ from, + {F uh, } from, ] {F uh, } drooping -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC ,/, uh/UH ,/, but/CC anytime/RB there/EX 's/BES a/DT change/NN in/IN the/DT weather/NN ,/, like/IN the/DT temperature/NN ,/, drastic/JJ changes/NNS in/IN temperature/NN or/CC in/IN ,/, uh/UH ,/, moisture/NN ,/, uh/UH ,/, you/PRP get/VBP little/JJ spider/NN web/NN cracks/NNS all/RB around/IN ,/, uh/UH ,/, windows/NNS and/CC doors/NNS ./.","-- [ {C and, } + {F uh, } {C but } ] anytime there's a change in the weather, like the temperature, drastic changes in temperature or in, {F uh, } moisture, {F uh, } you get little spider web cracks all around, {F uh, } windows and doors. /"
+sv,A,"Well/UH ,/, that/DT sounds/VBZ like/IN a/DT lot/NN of/IN fun/NN ./.","{D Well, } that sounds like a lot of fun. /"
+sd,B,"Well/UH ,/, usually/RB what/WP you/PRP do/VBP is/VBZ just/RB wait/VB until/IN you/PRP think/VBP it/PRP 's/HVS stopped/VBN ,/,","{D Well, } usually what you do is just wait until you think it's stopped, /"
+sd,B,and/CC then/RB you/PRP patch/VBP them/PRP up/RP ./.,{C and then } you patch them up <laughter>. /
+qy,A,"Um/UH ./. What/WP is/VBZ it/PRP like/IN ,/, uh/UH ,/, stucco/NN walls/NNS or/CC ,/,","{F Um. } What is it {D like, } {F uh, } stucco walls or, -/"
+arp_nd,B,"Uh/UH ,/, well/UH ,/, this/DT is/VBZ all/DT ,/, uh/UH ,/, it/PRP 's/BES all/DT drywall/NN --/:","{F Uh, } {D well, } [ this is all, + {F uh, } it's all ] drywall -- /"
+bk,A,"Oh/UH ,/, drywall/NN ./.","{F Oh, } drywall. /"
+sd,B,"--/: uh/UH ,/, I/PRP think/VBP ,/, with/IN ,/, uh/UH --/:","-- {F uh, } I think, with, {F uh } -- -/"
+qy,A,Wood/NN framing/NN ?/.,Wood framing? /
+ny,B,"--/: yeah/UH ,/,","-- yeah, /"
+na,B,right/UH ./.,right. /
+bk,A,Okay/UH ./.,Okay. /
+sd,B,"But/CC ,/, uh/UH ,/, somehow/RB or/CC other/JJ that/DT does/VBZ manage/VB to/TO ,/, uh/UH ,/, show/VB these/DT little/JJ cracks/NNS ./.","{C But, } {F uh, } somehow or other that does manage to, {F uh, } show these little cracks. /"
+sd,B,I/PRP do/VBP n't/RB know/VB quite/RB how/WRB that/DT works/VBZ ./.,I don't know quite how that works. /
+sd,B,Maybe/RB it/PRP is/VBZ n't/RB drywall/NN ./.,Maybe it isn't drywall. /
+h,B,I/PRP do/VBP n't/RB really/RB know/VB ./.,I don't really know. /
+qy^d,A,MUMBLEx/XX they/PRP plastered/VBD over/IN drywall/NN ./.,(( )) they plastered over drywall. /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP think/VBP it/PRP is/VBZ ./.,I think it is. /
+sd,A,"I/PRP remember/VBP my/PRP$ parents/NNS home/NN is/VBZ drywalled/VBN and/CC then/RB they/PRP ,/, uh/UH ,/, almost/RB like/IN a/DT small/JJ grade/NN stucco/NN type/NN plastering/NN over/IN the/DT drywall/NN --/:","I remember my parents home is drywalled {A and then they, } {F uh, } almost like a small grade stucco type plastering over the drywall --"
+sd,B,"I/PRP expect/VBP that/DT 's/BES what/WP it/PRP is/VBZ ,/,","I expect that's what it is, /"
+%,B,yeah/UH ./.,yeah. /
++,A,"--/: to/TO give/VB it/PRP a/DT textured/JJ sort/NN of/IN a/DT look/NN ,/,","-- to give it a textured sort of a look, /"
+sd,A,"and/CC made/VBD for/IN kind/RB of/RB a/DT hard/JJ shell/NN on/IN the/DT ,/, on/IN the/DT drywall/NN ./.","{C and } made for kind of a hard shell [ on the, + on the ] drywall. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP think/VBP that/DT 's/BES the/DT way/NN this/DT is/VBZ done/VBN ./.,I think that's the way this is done. /
+sd,B,Fortunately/RB we/PRP have/VBP n't/RB had/VBN any/DT real/RB big/JJ holes/NNS in/IN it/PRP yet/RB,Fortunately we haven't had any real big holes in it yet /
+%,B,"so/RB I/PRP ,/,","{C so } I, -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+ba,A,that/WDT 's/BES good/JJ ./.,that's good. /
+b,A,Yeah/UH ./.,Yeah. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"that/DT would/MD ,/, that/DT would/MD be/VB in/IN terribly/RB ,/, terribly/RB exasperating/JJ to/TO have/VB the/DT ,/, the/DT slab/NN floor/NN like/IN that/IN swelling/VBG and/CC giving/VBG like/IN that/DT ./.","[ that would, + that would ] be [ in + ] [ terribly, + terribly ] exasperating to have [ the, + the ] slab floor like that swelling and giving like that. /"
+aa,B,"Yes/UH ,/,","Yes, /"
+sd,B,"well/UH ,/, the/DT previous/JJ owner/NN had/VBD a/DT major/JJ problem/NN with/IN it/PRP ,/, because/IN ,/, uh/UH ,/, oh/UH probably/RB a/DT variety/NN of/IN things/NNS ./.","{D well, } the previous owner had a major problem with it, because, {F uh, } {F oh } probably a variety of things. /"
+sd,B,"His/PRP$ neighbor/NN used/VBD ,/,","His neighbor used, -/"

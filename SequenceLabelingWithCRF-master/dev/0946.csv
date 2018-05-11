@@ -1,0 +1,151 @@
+act_tag,speaker,pos,text
+qo,A,What/WP vacations/NNS have/VBP you/PRP been/VBN on/IN that/WDT you/PRP like/VBP ?/.,What vacations have you been on that you like? /
+sd,B,"Um/UH ,/, well/UH I/PRP really/RB enjoyed/VBD ,/, um/UH ,/,","{F Um, } {D well } I really enjoyed, {F um, } - /"
+sd,B,I/PRP went/VBD to/TO Mackinaw/NNP Island/NNP --/:,I went to Mackinaw Island --
+b,A,Right/UH ./.,<Child_crying> Right. /
++,B,--/: a/DT few/JJ years/NNS back/RB ./.,-- a few years back. /
+sd,B,It/PRP 's/BES in/IN the/DT middle/NN of/IN Michigan/NNP,It's in the middle of Michigan /
+sv,B,and/CC --/:,[ {C and } + --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: so/IN that/DT was/VBD nice/JJ ./.,-- {C so } ] that was nice. /
+sd,B,"I/PRP like/VBP ,/, um/UH ,/, driving/VBG to/TO different/JJ cities/NNS because/IN of/IN the/DT scenery/NN ,/,","I like, {F um, } driving to different cities because of the scenery, /"
+sv,B,so/IN that/DT was/VBD nice/JJ ./.,{C so } that was nice. /
+%,A,"So/RB you/PRP ,/,","{C So } you, - /"
+bf,A,most/RBS of/IN yours/JJ is/VBZ kind/RB of/RB driving/VBG,most of yours is kind of driving /
+%,A,"and/CC ,/,","{C and, } -/"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"we/PRP 've/VBP ,/, I/PRP 've/VBP been/VBN all/RB over/IN the/DT states/NNS except/IN for/IN pretty/RB much/RB east/JJ ./.","[ we've, + I've ] been all over the states except for pretty much east. /"
+sd,B,"Um/UH ,/, it/PRP 's/BES very/RB pretty/JJ driving/NN like/IN ,/, um/UH ,/, up/IN north/NN in/IN Wisconsin/NNP too/RB ./.","{F Um, } it's very pretty driving {D like, } {F um, } up north in Wisconsin too. /"
+qw,A,"Um/UH ,/, how/WRB ,/, how/WRB far/RB do/VBP you/PRP usually/RB end/VB ,/, end/VB up/RP driving/VBG just/RB ,/,","{F Um, } [ how, + how ] far do you usually [ end, + end ] up driving [ just, + ] /"
+sd,B,"Um/UH ,/, the/DT furthest/RBS I/PRP drove/VBD was/VBD probably/RB Texas/NNP ,/,","{F Um, } the furthest I drove was probably Texas, /"
+sd,B,and/CC then/RB I/PRP 've/VBP taken/VBN a/DT train/NN before/RB to/IN California/NNP ./.,{C and then } I've taken a train before to California. /
+qw,A,"Now/RB where/WRB ,/, you/PRP 're/VBP from/IN where/WRB ?/.","{D Now } [ where, + you're from where? ] *[[slash error]]"
+sd,B,"Kenosha/NNP ,/, Wisconsin/NNP ./.","Kenosha, Wisconsin. /"
++,A,"Oh/UH ,/, Wisconsin/NNP ./.","{F Oh, } Wisconsin. /"
+aa,B,Uh-huh/UH ./.,Uh-huh. /
+bk,A,Okay/UH ./.,Okay. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP have/VBP a/DT brother/NN in/IN Minnesota/NNP that/WDT used/VBD to/TO live/VB in/IN Wisconsin/NNP ./.,I have a brother in Minnesota that used to live in Wisconsin. /
+b,B,Oh/UH ./.,Oh. /
+b,A,"So/UH ,/, yeah/UH ,/,","{C So, } yeah, /"
+bf,A,that/DT 's/BES quite/RB a/DT ways/NNS ./.,that's quite a ways. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,it/PRP is/VBZ ./.,it is <laughter>. /
+%,A,"I/PRP 've/VBP ,/, uh/UH ,/,","I've, {F uh, } - /"
+sd,A,we/PRP went/VBD to/TO California/NNP this/DT last/JJ year/NN --/:,we went to California this last year --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC ,/, uh/UH ,/, liked/VBD it/PRP ,/,","-- and, {F uh, } liked it, /"
+sv,A,but/CC it/PRP was/VBD too/RB crowded/JJ --/:,{C but } it was too crowded -- /
+b,B,Um/UH ./.,{F Um. } /
+sv,A,"--/: Walt/NNP Disney/NNP World/NNP ,/, and/CC other/JJ places/NNS ,/, it/PRP 's/BES just/RB the/DT wrong/JJ time/NN of/IN the/DT year/NN to/TO go/VB ./.","-- Walt Disney World, and other places, it's just the wrong time of the year to go. /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,A,"And/CC ,/, uh/UH ,/, course/NN ,/, uh/UH ,/, you/PRP get/VBP in/IN any/DT of/IN those/DT tourist/NN traps/NNS --/:","{C And, } {F uh, } course, {F uh, } you get in any of those tourist traps --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC everything/NN 's/BES ,/, uh/UH ,/, outrageously/RB priced/VBN ,/,","-- and everything's, {F uh, } outrageously priced, /"
+%,A,"and/CC ,/, uh/UH ,/, kind/RB of/RB ,/,","{C and, } {F uh, } kind of, - /"
+sv,A,"you/PRP wonder/VBP if/IN they/PRP 're/VBP ,/, it/PRP 's/BES really/RB worth/JJ it/PRP to/TO pay/VB ,/, uh/UH ,/, thirty-five/CD dollars/NNS or/CC forty/CD dollars/NNS just/RB to/TO get/VB in/RP ./.","you wonder if [ they're, + it's ] really worth it to pay, {F uh, } thirty-five dollars or forty dollars just to get in. /"
+aa,B,Yeah/UH --/:,Yeah -- /
+sd,A,"But/CC ,/,","{C But, }"
+aa,B,--/: that/DT 's/BES true/JJ ./.,-- that's true. /
++,A,"There/EX 's/BES lots/NNS of/IN fun/JJ places/NNS to/TO see/VB ./. Um/UH ,/,","There's lots of fun places to see. {F Um, } /"
+sv,A,"I/PRP think/VBP the/DT scenery/NN kind/RB of/RB ,/,","I think the scenery kind of, - /"
+qy,A,"that/DT 's/BES something/NN do/VB to/TO ,/, you/PRP like/VBP to/TO get/VB up/RB in/IN mountains/NNS","that's something do to, [ you + ] {D like } to get up in mountains / *[[two utts]]"
+%,A,"or/CC ,/,","{C or, } -/"
+ny,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+ny,B,uh-huh/UH ./.,uh-huh. /
+qy,A,Do/VBP you/PRP have/VB any/DT mountains/NNS nearby/RB ?/.,Do you have any mountains nearby? /
+nn,B,No/UH ./.,No <laughter>. /
+qy,A,"Pretty/RB flat/JJ ,/, is/VBZ n't/RB it/PRP ?/.","Pretty flat, isn't it? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+ny,B,yeah/UH ./.,yeah. /
+sv,A,"Um/UH ,/, I/PRP think/VBP ,/, uh/UH ,/, the/DT biggest/JJS limitation/NN is/VBZ a/DT lot/NN ,/, just/RB time/NN and/CC money/NN ,/, is/VBZ n't/RB it/PRP ./.","{F Um, } I think, {F uh, } the biggest limitation is a lot, just time and money, isn't it. /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+x,A,./.,<Laughter>.
+b,B,Yeah/UH ./.,Yeah. /
+qw,A,What/WP vacation/NN have/VBP you/PRP enjoyed/VBN the/DT most/RBS ?/.,What vacation have you enjoyed the most? /
+sd,B,"Uh/UH ,/, um/UH ./. Probably/RB ,/, uh/UH ,/, when/WRB we/PRP go/VBP to/IN Wisconsin/NNP MUMBLEx/XX ./.","{F Uh, } {F um. } Probably, {F uh, } when we go to Wisconsin (( )) . /"
+sd,B,"Um/UH ,/, it/PRP 's/BES pretty/RB fun/JJ ./.","{F Um, } it's pretty fun. /"
+sd,B,There/EX 's/BES a/DT lot/NN to/TO do/VB up/IN there/RB ./.,There's a lot to do up there. /
+sd,B,"It/PRP 's/BES pretty/RB busy/JJ ,/, though/RB ,/,","It's pretty busy, though, /"
+sv,B,"you/PRP have/VBP to/TO like/VB crowds/NNS ,/, you/PRP know/VBP ./.","you have to like crowds, {D you know. } /"
+qw,A,What/WP is/VBZ it/PRP ?/.,What is it? /
+sd,B,"Um/UH ,/, oh/UH ,/, it/PRP 's/BES a/DT ,/, like/UH a/DT huge/JJ amusement/NN park/NN --/:","{F Um, } {F oh, } it's [ a, + {D like } a ] huge amusement park --"
+bk,A,Okay/UH ./.,Okay. /
++,B,"--/: um/UH ,/, they/PRP have/VBP water/NN slides/NNS --/:","-- {F um, } they have water slides -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC it/PRP 's/BES just/RB a/DT big/JJ ,/, big/JJ tourist/NN attraction/NN ./.","-- {C and } it's just a big, big tourist attraction. /"
+sd,B,The/DT downtown/NN is/VBZ all/DT like/UH little/JJ shops/NNS and/CC candy/NN shops/NNS,The downtown is all {D like } little shops and candy shops /
+sv,B,"and/CC ,/, it/PRP 's/BES ,/, it/PRP 's/BES really/RB neat/JJ ./.","{C and, } [ it's, + it's ] really neat. /"
+sd,B,"I/PRP do/VBP n't/RB think/VB ,/, uh/UH ,/, hardly/RB anybody/NN lives/VBZ there/RB ,/,","I don't think, {F uh, } hardly anybody lives there, /"
+sd,B,"because/IN it/PRP 's/BES just/RB kind/RB of/RB like/IN ,/, you/PRP know/VBP ,/, tourists/NNS ./.","{C because } it's just kind of {D like, } {D you know, } tourists. /"
+qy,A,"Probably/RB a/DT city/NN in/IN itself/PRP ,/, kind/RB of/RB like/IN ,/, huh/UH ?/.","Probably a city in itself, kind of like, huh? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"it/PRP 's/BES mostly/RB a/DT ,/, a/DT summer/NN ,/, summer/NN place/NN ./.","it's mostly [ a, + a ] [ summer, + summer ] place. /"
+b^m,A,Summer/NN place/NN ./.,Summer place. /
+qw,A,How/WRB far/RB away/RB is/VBZ it/PRP ?/.,How far away is it? /
+sd,B,"Um/UH ,/, from/IN Kenosha/NNP ,/, it/PRP 's/BES about/IN three/CD hours/NNS ./.","{F Um, } from Kenosha, it's about three hours. /"
+b,A,Huh/UH ./.,{F Huh. } /
+sd,B,It/PRP 's/BES about/IN a/DT hour/NN away/RB from/IN Madison/NNP ./.,It's about a hour away from Madison. /
+bk,A,"Okay/UH ,/,","Okay, /"
+ba,A,sure/UH ./.,sure. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,so/UH --/:,{C so } --
+ba,A,Sure/UH ./.,Sure. /
++,B,--/: that/DT 's/BES nice/JJ ./.,-- that's nice. /
+sd,B,"It/PRP 's/BES ,/, it/PRP 's/BES a/DT pretty/JJ ride/NN up/IN there/RB ,/, too/RB ./.","[ It's, + it's ] a pretty ride up there, too. /"
+sd,B,I/PRP really/RB like/VBP the/DT city/NN Wausau/NNP in/IN Wisconsin/NNP ./.,I really like the city Wausau in Wisconsin. /
+sd,B,It/PRP 's/BES really/RB pretty/JJ ./.,It's really pretty. /
+sd,B,It/PRP 's/BES nice/JJ out/IN there/RB ./.,It's nice out there. /
+sd,B,"Oh/UH ,/, I/PRP like/VBP all/PDT the/DT nature/NN things/NNS there/RB are/VBP to/TO look/VB at/IN ,/, you/PRP know/VBP ./.","{F Oh, } I like all the nature things there are to look at, {D you know. } /"
+b,A,"Right/UH ,/,","Right, /"
+%,A,"well/UH ,/, and/CC you/PRP can/MD probably/RB ,/,","{D well, } {C and } you can probably, - /"
+sd,A,"you/PRP 're/VBP in/IN a/DT climate/NN that/WDT 's/BES kind/RB of/RB humid/JJ ,/,","you're in a climate that's kind of humid, /"
+sv,A,"so/RB you/PRP have/VBP probably/RB a/DT lot/NN of/IN green/NN ,/, and/CC lot/NN of/IN real/RB pretty/JJ things/NNS ./.","{C so } you have probably a lot of green, and lot of real pretty things. /"
+sd,A,"Our/PRP$ ,/, our/PRP$ climate/NN 's/BES real/RB dry/NN --/:","[ Our, + our ] climate's real dry -- /"
+qw,B,Where/WRB is/VBZ that/DT ?/.,Where is that? /
+sd,A,--/: and/CC you/PRP have/VBP to/TO kind/RB of/RB get/VB up/IN into/IN the/DT mountains/NNS to/TO get/VB much/JJ of/IN the/DT greenery/NN ./.,-- {C and } you have to kind of get up into the mountains to get much of the greenery. /
+sd,A,"Most/JJS of/IN ,/, most/JJS ,/, most/JJS of/IN the/DT land/NN 's/BES pretty/RB brown/JJ ./.","[ Most of, + [ most, + most ] of ] the land's pretty brown. /"
+sv,A,You/PRP do/VBP n't/RB have/VB as/RB much/JJ of/IN the/DT greenery/NN like/IN you/PRP have/VBP ./.,You don't have as much of the greenery like you have. /
+b,B,"Oh/UH ,/,","Oh, /"
+qw,B,where/WRB 's/BES that/DT ?/.,where's that? /
+sd,A,"Uh/UH ,/, Idaho/NNP ,/, is/VBZ where/WRB I/PRP live/VBP ,/,","{F Uh, } Idaho, is where I live, /"
+%,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh } <baby_crying>, -/"
+x,B,MUMBLEx/XX ./.,(( )) .
+ny,A,Yes/UH ./.,Yes. /
+bk,B,Okay/UH ./.,Okay <child_crying>. /
+sd,A,"It/PRP 's/BES by/IN ,/, uh/UH ,/,","It's by, {F uh, } - /"
+sd,A,I/PRP have/VBP a/DT little/JJ baby/NN thinks/VBZ he/PRP needs/VBZ to/TO cry/VB now/RB that/IN I/PRP 'm/VBP on/IN the/DT phone/NN ./.,I have a little baby thinks he needs to cry now that I'm on the phone. /
+x,B,./.,<Laughter>.
+sd,A,"It/PRP 's/BES by/IN ,/, um/UH ,/, Boise/NNP ./.","<Baby_crying> It's by, {F um, } Boise. /"
+qy,A,You/PRP ever/RB heard/VBN of/IN Boise/NNP ?/.,You ever heard of Boise? /
+ny,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+ny,B,yeah/UH ./.,yeah. /
+sd,A,"And/CC ,/, uh/UH ,/, it/PRP 's/BES fine/JJ ,/,","{C And, } {F uh, } <throat_clearing> it's fine, /"
+sd,A,it/PRP 's/BES nice/JJ ./.,it's nice. /
+sv,A,"It/PRP 's/BES ,/, uh/^DT ,/, lot/NN different/JJ kind/NN of/IN ./.","It's, {F uh, } lot different kind of. /"
+sd,A,"I/PRP lived/VBD in/IN Indiana/NNP for/IN a/DT while/NN ,/,","I lived in Indiana for a while, /"
+sd,A,"and/CC it/PRP 's/BES a/DT real/RB different/JJ ,/, uh/UH ,/, land/NN and/CC scenery/NN than/IN there/RB ./.","{C and } it's a real different, {F uh, } land and scenery than there. /"
+sv,A,"It/PRP 's/BES kind/RB of/RB fun/JJ to/TO have/VB a/DT little/JJ bit/NN diversity/NN ,/, and/CC --/:","It's kind of fun to have a little bit diversity, and --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: things/NNS like/IN that/DT ./.,-- things like that. /
+sd,A,"I/PRP think/VBP ,/, uh/UH ,/, there/EX 's/BES a/DT lot/NN of/IN places/NNS uh/UH ,/, oh/UH ,/, down/RB ,/, even/RB in/IN southern/JJ Utah/NNP ,/, the/DT canyons/NNS ,/, canyon/NN lands/NNS and/CC Bryce/NNP Canyon/NNP","I think, {F uh, } there's a lot of places {F uh, } {F oh, } down, even in southern Utah, the [ canyons, + canyon lands ] <child_yelling> and Bryce Canyon /"
+sv,A,"and/CC ,/, oh/UH ,/, boy/UH ,/, they/PRP 're/VBP gorgeous/JJ --/:","{C and, } {F oh, } boy, they're gorgeous <throat_clearing> -- /"
+x,B,MUMBLEx/XX --/:,(( )) --
+x,A,--/: MUMBLEx/XX ./.,-- (( )) .
+b,B,--/: yeah/UH ./.,-- yeah. /
+sd,A,Those/DT are/VBP kind/RB of/RB fun/JJ places/NNS ./.,Those are kind of fun places. /
+sd,A,"We/PRP usually/RB go/VBP over/IN to/IN Bear/NNP Lake/NNP in/IN the/DT summer/NN ,/, which/WDT is/VBZ kind/RB of/RB on/IN the/DT border/NN of/IN Idaho/NNP and/CC Utah/NNP ,/,","We usually go over to Bear Lake in the summer, which is kind of on the border of Idaho and Utah, /"
+sd,A,"and/CC the/DT lake/NN goes/VBZ on/RP forever/RB ,/,","{C and } <throat_clearing> the lake goes on forever, /"
+sd,A,and/CC that/DT 's/BES real/RB pretty/JJ over/IN there/RB too/RB ./.,{C and } that's real pretty over there too. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,But/CC I/PRP think/VBP I/PRP 'm/VBP kind/RB of/RB a/DT summer/NN vacationer/NN ./.,{C But } I think I'm kind of a summer vacationer. /
+aa,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,B,"me/PRP too/RB ,/, uh/UH ,/,","me too, {F uh, } /"
+sd,B,me/PRP too/RB ./.,me too. /
+sd,B,Unless/IN I/PRP 'm/VBP going/VBG somewhere/RB warm/JJ --/:,Unless I'm going somewhere warm <laughter> --
+b,A,Right/UH ./.,Right. /
++,B,--/: for/IN the/DT winter/NN ./.,-- for the winter <laughter>. /
+b,A,Right/UH ./.,Right. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,that/IN 'd/MD be/VB nice/JJ ./.,that'd be nice. /
+qw,A,"Where/WRB 'd/MD you/PRP ,/,","Where'd you, -/"

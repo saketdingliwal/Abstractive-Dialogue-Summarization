@@ -1,0 +1,84 @@
+act_tag,speaker,pos,text
+ad,A,tell/VB me/PRP what/WP you/PRP think/VB about/IN the/DT Vietnam/NNP war/NN ./.,tell me what you think about the Vietnam war. /
+aa,B,Okay/UH ./.,Okay. /
+sd,B,"Well/RB ,/, I/PRP 'm/VBP a/DT Vietnam/NNP era/NN veteran/NN ,/,","{D Well, } I'm a Vietnam era veteran, /"
+sd,B,"and/CC ,/, uh/UH ,/, I/PRP was/VBD ,/, uh/UH ,/, fortunate/JJ not/RB to/TO have/VB to/TO serve/VB in/IN the/DT theater/NN ,/,","{C and, } {F uh, } I was, {F uh, } fortunate not to have to serve in the theater, /"
+sd,B,"however/RB ,/, my/PRP$ support/NN roll/^NN in/IN the/DT service/NN was/VBD to/TO support/VB those/DT in/IN the/DT theater/NN of/IN operation/NN ./. Uh/UH ,/,","however, my support roll in the service was to support those in the theater of operation. {F Uh, } /"
+sd,B,"I/PRP 'm/VBP of/IN the/DT old/JJ school/NN that/WDT believes/VBZ that/DT ,/, uh/UH ,/, the/DT ,/, uh/UH ,/, uh/UH ,/, contracts/VBZ that/IN we/PRP made/VBD back/RB years/NNS ago/RB needed/VBN to/TO be/VB honored/VBN ./.","I'm of the old school that believes that, {F uh, } the, {F uh, } {F uh, } contracts that we made back years ago needed to be honored. /"
+sv,B,"However/RB ,/, uh/UH ,/, I/PRP think/VB we/PRP could/MD have/VB executed/VBN the/DT war/NN and/CC gotten/VBN it/PRP over/IN a/DT whole/JJ lot/NN quicker/RB ./. Uh/UH ,/,","However, {F uh, } I think we could have executed the war {C and } gotten it over a whole lot quicker. {F Uh, } /"
+sd,B,"but/CC those/DT are/VBP my/PRP$ personal/NN thoughts/NNS ,/,","{C but } those are my personal thoughts, /"
+sv,B,and/CC I/PRP think/VB that/IN if/IN we/PRP 'd/MD let/VB the/DT generals/NNS run/VB the/DT war/NN like/IN we/PRP let/VB the/DT generals/NNS run/VB World/NNP War/NNP Two/CD we/PRP 'd/MD had/VBD got/VBD it/PRP over/IN a/DT whole/JJ lot/NN quicker/RB and/CC lost/VBD a/DT lot/NN fewer/JJR people/NNS ./.,{C and } I think that if we'd let the generals run the war like we let the generals run World War Two we'd had got it over a whole lot quicker and lost a lot fewer people. /
+sv,B,"But/CC as/IN it/PRP was/VBD ,/, the/DT politicians/NNS ran/VBD the/DT ,/, the/DT Korean/NNP conflict/NN and/CC ultimately/RB the/DT Vietnam/NNP thing/NN ,/,","{C But } as it was, the politicians ran [ the, + the ] Korean conflict and ultimately the Vietnam thing, /"
+sv,B,"and/CC we/PRP managed/VBD to/TO come/VB out/IN ,/, uh/UH ,/, losers/NNS all/DT the/DT way/NN around/IN ./.","{C and } we managed to come out, {F uh, } losers all the way around. /"
+sv,B,"And/CC so/IN this/DT is/VBZ what/WP trigger-/XX ,/, ultimately/RB triggered/VBN us/PRP ,/, uh/UH ,/, United/NNP States/NNP ,/, uh/UH ,/, per/IN se/PRP ,/, being/VBG ,/, uh/UH ,/, deciding/VBG to/TO get/VB out/IN of/IN the/DT role/NN of/IN world/NN policeman/NN ./.","{C And } {C so } this is what [ trigger-, + ultimately triggered ] us, {F uh, } United States, {F uh, } per se, [ being, + {F uh, } deciding ] to get out of the role of world policeman. /"
+ad,B,"Your/PRP$ views/NNS ,/,","Your views, -/"
+sv,A,"Uh/UH ,/, as/IN I/PRP understand/VB it/PRP ,/, and/CC I/PRP ,/, uh/UH ,/, do/VBP n't/RB know/VB a/DT lot/NN about/IN it/PRP ,/, uh/UH ,/, we/PRP got/VBD in/IN there/RB because/IN of/IN France/NNP --/:","{F Uh, } as I understand it, {A {C and } I, {F uh, } <barking> don't know a lot about it, } {F uh, } we got in there because of <barking> France -- /"
+%,B,Well/RB ./.,{D Well. } /
+sd,A,"--/: uh/UH ,/, France/NNP was/VBD there/RB first/JJ ./.","-- {F uh, } France was there first. /"
+%,A,"They/PRP had/VBD ,/,","They had, -/"
+sd,B,"We/PRP got/VBD into/IN it/PRP because/RB of/IN SEATO/NNP agreement/NN ,/, back/RB just/RB right/JJ after/IN World/NNP War/NNP Two/CD that/DT ,/, uh/UH ,/, we/PRP pledged/VBD a/DT mutual/JJ ,/, uh/UH ,/, uh/UH ,/, defense/NN of/IN ,/, of/IN the/DT South/NNP Vietnamese/NNP ,/,","We got into it because of SEATO agreement, back just right after World War Two that, <noise> {F uh, } we pledged a mutual, {F uh, } {F uh, } defense [ of, + of ] the South Vietnamese, /"
+sd,B,"and/CC as/IN it/PRP turned/VBD out/IN they/PRP were/VBD in/IN a/DT civil/JJ war/NN one/CD with/IN another/DT ,/,","{C and } as it turned out they were in a civil war one with another, /"
+%,B,and/CC really/RB we/PRP,{C and } really we <laughter> <noise> - /
+sd,B,"I/PRP ,/, I/PRP question/VB us/PRP ,/, you/PRP know/VBP ,/, now/RB ,/,","[ I, + I ] question us, {D you know, } now, /"
+sd,B,of/IN course/NN hindsight/NN is/VBZ all/RB too/RB clear/JJ ./.,of course hindsight is all too clear. /
+b,A,Sure/JJ ./.,Sure. /
+sv,B,"Uh/UH ,/, so/RB ,/, we/PRP 're/VBP ,/, we/PRP ,/, we/PRP have/VB to/TO ,/, have/VB to/TO deal/VB with/IN ,/, with/IN the/DT ,/, uh/UH ,/, situation/NN as/IN ,/, as/IN we/PRP played/VBD it/PRP ./.","{F Uh, } {C so, } [ we're, + [ we, + we ] ] [ have to, + have to ] deal [ with, + with ] the, {F uh, } situation [ as, + as ] we played it. /"
+qw,A,"Jerry/NNP ,/, what/WP did/VBD you/PRP think/VB of/IN people/NNS like/JJ ,/, uh/UH ,/, Jane/NNP Fonda/NNP ,/, another/DT war/NN an-/XX ,/, anti-war/JJ activist/NN ./.","Jerry, what did you think of people like, {F uh, } Jane Fonda, another [ war an-, + anti-war ] activist. /"
+%,B,"I/PRP ,/,","I, <laughter> - /"
+sv,B,do/VBP n't/RB get/VB me/PRP started/VBN on/IN those/DT people/NNS ./.,don't get me started on those people. /
+sv,B,"You/PRP know/VBP ,/, before/IN she/PRP ,/, before/IN Jane/NNP Fonda/NNP did/VBD ,/, did/VBD what/WP she/PRP did/VBD ,/, I/PRP thought/VBD she/PRP was/VBD a/DT wonderful/JJ person/NN ,/,","{D You know, } [ before she, + before Jane Fonda ] [ did, + did ] what she did, I thought she was a wonderful person, /"
+%,B,"but/CC after/IN ,/, uh/UH ,/, uh/UH ,/, well/RB ,/,","{C but } after, {F uh, } {F uh, } {D well, } - /"
+sd,B,"I/PRP ,/, I/PRP just/RB do/VBP n't/RB have/VB anything/NN ,/, want/VB anything/NN to/TO do/VB with/IN her/PRP any/DT more/JJR ,/,","[ I, + I ] just don't [ have anything, + want anything ] to do with her any more, /"
+sv,B,"because/IN you/PRP support/VB ,/, uh/UH ,/, you/PRP support/VB your/PRP$ government/NN ./.","{C because } [ you support, + {F uh, } you support ] your government. /"
+qy,A,Right/JJ or/CC wrong/JJ ?/.,Right or wrong? /
+na,B,"Uh/UH ,/, okay/JJ ,/,","{F Uh, } okay, /"
+sd,B,"right/JJ or/CC wrong/JJ ,/,","right or wrong, /"
+sv,B,"I/PRP do/VBP n't/RB think/VB is/VBZ ,/, is/VBZ ,/, we/PRP can/MD determine/VB whether/IN we/PRP were/VBD right/JJ or/CC wrong/JJ ,/,","I don't think [ [ is, + is, ] + ] we can determine whether we were right or wrong, /"
+sv,B,"because/RB ,/, you/PRP 're/VBP ,/, you/PRP 're/VBP having/VBG to/TO deal/VB with/IN ,/, again/RB ,/, uh/UH ,/,","{C because, } [ you're, + you're ] having to deal with, again, {F uh, } - /"
+sv,B,I/PRP think/VB we/PRP could/MD have/VB made/VBN a/DT different/JJ agreement/NN --/:,I think we could have made a different agreement --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: back/RB in/IN for-/XX ,/, the/DT for-/XX ,/, the/DT late/JJ forties/NNS era/NN that/WDT would/MD have/VB kept/VBD MUMBLEx/XX of/IN there/RB ./.","-- back in [ [ for-, + the for-, ] + the late forties ] era that would have kept (( )) of there. /"
+sd,A,"Uh/UH ,/, you/PRP know/VBP ,/, I/PRP ,/, I/PRP did/VBD n't/RB realize/VB that/IN we/PRP 'd/MD signed/VBN some/DT type/NN of/IN deal/NN like/IN that/DT ./.","{F Uh, } {D you know, } [ I, + I ] didn't realize that we'd signed some type of deal like that. /"
+sd,A,"I/PRP thought/VBD we/PRP came/VBD in/IN as/IN first/JJ advisors/NNS to/TO the/DT French/NNP ,/, and/CC then/RB they/PRP decided/VBD to/TO pull/VB out/IN","I thought we came in as first advisors to the French, and then they decided to pull out /"
+%,A,"and/CC ,/,","{C and, } -/"
+ad,B,"Can/MD you/PRP hold/VB just/RB a/DT second/NN ,/, Terry/NNP ?/.","Can you hold just a second, Terry? /"
+aa,A,Sure/JJ ./.,Sure. /
+ad,B,One/CD moment/NN please/VB ./.,One moment please. /
+aa,A,Sure/JJ ./.,Sure <clicking> <beep>. <<Talking to someone else or himself.>> /
+t1,A,Wonder/VB what/WP happens/VBZ to/TO this/DT little/JJ beastie/NN on/IN call/NN waiting/VBG or/CC something/NN ./.,Wonder what happens to this little beastie on call waiting or something. /
+t1,A,"Huh/UH ,/, fascinating/JJ ./.","{F Huh, } fascinating. /"
+t1,A,"Well/RB that/DT 's/BES not/RB ,/,","Well that's not, -/"
+fa,B,Sorry/JJ for/IN the/DT delay/NN ./.,Sorry for the delay. /
+bd,A,That/DT 's/BES okay/JJ ./.,That's okay. /
+%,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+%,B,"this/DT is/VBZ ,/,","this is, - /"
+sd,B,"the/DT ,/, uh/UH ,/, the/DT ,/, the/DT ,/, uh/UH ,/, mutual/JJ defense/NN thing/NN was/VBD ,/, uh/UH ,/,","[ [ the, + {F uh, } the, ] + the, ] {F uh, } mutual defense thing was, {F uh, } - /"
+%,B,"we/PRP ,/, we/PRP ,/,","[ we, + we, ] - /"
+sv,B,"it/PRP was/VBD complicated/VBN ,/,","it was complicated, /"
+sv,B,and/CC I/PRP do/VBP n't/RB think/VB everybody/NN knows/VBZ the/DT whole/JJ situation/NN ./.,{C and } I don't think everybody knows the whole situation. /
+sd,B,I/PRP do/VBP n't/RB ./.,I don't. /
+sd,B,"But/CC from/IN what/WP I/PRP can/MD gather/VB ,/, is/VBZ we/PRP went/VBD and/CC said/VBD yeah/UH ,/, we/PRP will/MD help/VB the/DT South/NNP Vietnamese/NNP ,/, uh/UH ,/, should/MD they/PRP ask/VB ./.","{C But } from what I can gather, is we went and said yeah, we will help the South Vietnamese, {F uh, } should they ask. /"
+sd,B,"Well/RB ,/, the/DT French/NNP went/VBD in/IN and/CC tried/VBD their/PRP$ old/JJ style/NN warfare/NN ,/, and/CC ,/, uh/UH ,/, got/VBD soundly/RB thrashed/VBN ./.","{D Well, } the French went in and tried their old style warfare, and, {F uh, } got soundly thrashed. /"
+sd,B,And/CC we/PRP did/VBD n't/RB do/VB a/DT whole/JJ lot/NN better/RB ./.,{C And } we didn't do a whole lot better. /
+aa,A,"Um/UH ./. No/RB ,/,","{F Um. } No, /"
+qy^d,A,"I/PRP had/VBD thought/VBN that/IN they/PRP had/VBD ,/, uh/UH ,/, colonies/NNS there/EX ,/, or/CC something/NN ./.","[ I + ] had thought that they had, {F uh, } colonies there, or something. /"
+ny,B,"Well/RB ,/, yeah/UH ,/,","{D Well, } yeah, /"
+sd,B,"that/DT was/VBD the/DT old/JJ French/NNP colony/NN ,/, but/CC see/VB ,/, the/DT French/NNP ,/, the/DT French/NNP were/VBD our/PRP$ ,/, uh/UH ,/, allies/NNS in/IN NATO/NNP --/:","that was the old French colony, but see, [ the French, + the French ] were our, {F uh, } allies in NATO -- /"
+bk,A,Right/JJ ./.,Right. /
+sd,B,"--/: and/CC they/PRP 're/VBP also/RB our/PRP$ allies/NNS in/IN SEATO/NNP ,/, which/WDT was/VBD the/DT Southeast/NNP Asia/NNP Treaty/NNP Organization/NNP ,/, which/WDT has/VBZ since/IN been/VBN ,/, uh/UH ,/, disbanded/VBD as/RB far/RB as/IN I/PRP know/VBP ,/,","-- {C and } they're also our allies in SEATO, which was the Southeast Asia Treaty Organization, which has since been, {F uh, } disbanded as far as I know, /"
+sd,B,"you/PRP know/VBP ,/, NATO/NNP is/VBZ ,/, is/VBZ on/IN the/DT way/NN of/IN being/VBG disbanded/VBN ./. Uh/UH ,/,","{D you know, } NATO [ is, + is ] on the way of being disbanded. {F Uh, } /"
+%,B,"but/CC ,/, uh/UH ,/, the/DT ,/, you/PRP know/VBP ,/, the/DT French/NNP ,/, yeah/UH","{C but, } {F uh, } [ the, + {D you know, } the ] French, {D yeah } /"
+sd,B,"we/PRP go/VB in/IN as/IN an/DT ally/NN to/TO the/DT French/NNP and/CC says/VBZ yeah/UH ,/, we/PRP 'll/MD ,/, we/PRP 'll/MD help/VB you/PRP out/IN ,/, if/IN you/PRP get/VB in/IN a/DT bind/NN ./.","we go in as an ally to the French and says yeah, [ we'll, + we'll ] help you out, if you get in a bind. /"
+sd,B,"Well/RB ,/, they/PRP got/VBD in/IN a/DT bind/NN and/CC says/VBZ we/PRP do/VBP n't/RB want/VB to/TO ,/, you/PRP know/VBP ,/, play/VB any/DT more/RBR --/:","{D Well, } they got in a bind and says we don't want to, {D you know, } play any more -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: so/RB ,/, uh/UH ,/, we/PRP ,/, we/PRP kind/NN of/IN ,/, we/PRP kind/NN of/IN got/VBD ,/, got/VBD the/DT ball/NN rolling/VBG ourselves/PRP versus/IN a/DT bunch/NN of/IN top/JJ secret/JJ silly/NN organi-/XX ,/, uh/UH ,/, um/UH ,/, oh/UH ,/, operations/NNS and/CC then/RB the/DT full/JJ scale/NN ,/, you/PRP know/VBP ,/, full/JJ scale/NN troops/NNS ,/, et/CC cetera/NN ,/, et/CC cetera/NN ,/, et/CC cetera/NN ./.","-- {C so, } {F uh, } [ [ we, + we ] kind of, + we kind of ] [ got, + got ] the ball rolling ourselves versus a bunch of top secret silly [ organi-, + {F uh, } {F um, } {F oh, } operations ] and then the [ full scale, + {D you know, } full scale ] troops, et cetera, et cetera, et cetera. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP 'm/VBP thirty-two/JJ ,/,","I'm thirty-two, /"
+%,A,"so/RB ,/, uh/UH ,/, I/PRP bar-/XX ,/,","{C so, } {F uh, } I bar-, - /"
+sd,A,"well/RB ,/, I/PRP missed/VBD it/PRP ./.","{D well, } I missed it. /"
+sd,A,Seventy-four/NN is/VBZ when/WRB they/PRP quit/VB sending/VBG troops/NNS ./.,Seventy-four is when they quit sending troops. /
+aa,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+aa,B,yeah/UH,yeah /
+aap_am,B,roughly/RB ./.,roughly. /
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP was/VBD just/RB probably/RB three/CD or/CC four/CD years/NNS ,/,","I was just probably three or four years, /"

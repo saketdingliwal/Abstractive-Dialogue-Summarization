@@ -1,0 +1,85 @@
+speaker,pos
+Marjolein,do/VB not/RB know/VB how/WRB long/JJ this/DT meeting/NN is/VBZ going/VBG to/TO take/VB but/CC with/IN a/DT joint/JJ meeting/NN seems/VBZ more/RBR likely/JJ than/IN
+Marjolein,So/RB just/RB in/IN case:/NN
+Marjolein,"I/PRP have/VBP another/DT meeting/NN coming/VBG up/RB at/IN 3:30/CD Boston/NNP time/NN (1/NNP hour/NN after/IN this/DT one)/NN so/RB if/IN we/PRP have/VBP not/RB finished/VBN by/IN then/RB ,/, I/PRP shall/MD have/VB leave/VBN early/RB ./."
+Marjolein,Tried/VBN to/TO move/VB it/PRP but/CC that/DT was/VBD just/RB not/RB possible/JJ ./.
+Marjolein,"Cheers/NNS ,/,"
+Marjolein,Marjolein/NN
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Marjolein,
+Jan,"Hi/NNP all/DT ,/,"
+Jan,"Sorry/NN about/IN the/DT delay/NN ,/, but/CC this/DT is/VBZ the/DT Techniques/NNP draft/NN that/IN I/PRP said/VBD I/PRP would/MD do/VB at/IN the/DT"
+Jan,It/PRP is/VBZ not/RB done/VBN but/CC you/PRP will/MD get/VB the/DT idea/NN ./.
+Jan,Language/NNP specific/JJ things/NNS have/VBP generally/RB been/VBN removed/VBN (to/RB be/VB put/VBN in/IN the/DT separate/JJ
+Jan,"Cheers/NNS ,/,"
+Jan,Jan/NN
+Jan,"Hi/NNP all/DT ,/,"
+Jan,Sorry/NNP I/PRP forgot/VBD to/TO attach/VB the/DT file/NN ./.
+Jan,"Cheers/NNS ,/,"
+Jan,Jan/NN
+Jan,attachment:/NN Techniques_for_Authoring_Tool_Accessibility_Guidelines_1_01.htm/NNP
+Charles,"Jan/NNP ,/,"
+Charles,thanks/NNS for/IN this/DT
+Charles,-/: it/PRP is/VBZ a/DT good/JJ piece/NN of/IN work/NN ./.
+Charles,How/WRB about/IN we/PRP have/VBP the/DT following/JJ categories:/NN
+Charles,+/JJ Things/NNP you/PRP need/VBP to/TO do/VB to/TO meet/VB the/DT checkpoint/NN (these/JJ can/MD be/VB fairly/RB general)/JJ
+Charles,+/NN Techniques/NNS to/TO do/VB this/DT (which/NN should/MD say/VB how/WRB much/JJ of/IN it/PRP they/PRP do)/VBD
+Charles,+/NN Things/NNS which/WDT are/VBP good/JJ to/TO do/VB although/IN they/PRP go/VBP beyond/IN the/DT requirements/NNS of/IN the/DT checkpoint/NN ./.
+Charles,+/NN References/NNS
+Charles,These/DT probably/RB need/NN to/TO be/VB sorted/VBN (where/RB applicable)/VBN by/IN tool/NN type/NN and/CC priority/NN ./.
+Charles,"For/IN example/NN to/TO meet/VB checkpoint/JJ 1.1/CD in/IN a/DT level-A/JJ tool/NN ,/, all/DT that/WDT needs/VBZ to/TO be/VB done/VBN is/VBZ to/TO provide/VB source/NN editing/VBG (and/NNP meet/NN checkpoint/NN 1.2/CD Preserve/NNP all/DT accessibiltiy/JJ information/NN ,/, which/WDT can/MD be/VB done/VBN by/IN not/RB messing/VBG up/RP the/DT"
+Charles,But/CC for/IN a/DT WYSIWYG/NNP tool/NN this/DT will/MD not/RB conform/VB to/TO 5.1/CD and/CC so/RB the/DT tool/NN cannot/NN get/VB to/TO
+Charles,A/DT source/NN editing/VBG tool/NN can/MD use/VB this/DT technique/NN to/TO any/DT level/NN ./.
+Charles,Cheers/NNS
+Charles,Charles/NNP
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,Charles/NNP McCathieNevile/NNP phone:/NN +61/VBD 409/CD 134/CD 136/CD
+Charles,W3C/NNP Web/NNP Accessibility/NNP Initiative/NNP
+Charles,"Location:/NNP 110/CD Victoria/NNP Street/NNP ,/, Carlton/NNP VIC/NNP 3053/CD ,/, Australia/NNP"
+Charles,September/NNP -/: November/NNP 2000:/CD
+Charles,"W3C/NNP INRIA/NNP ,/, 2004/CD Route/NNP des/FW Lucioles/NNP ,/, BP/NNP 93/CD ,/, 06902/CD Sophia/NNP Antipolis/NNP Cedex/NNP ,/, France/NNP"
+Jan,I/PRP agree/VBP ./.
+Jan,I/PRP would/MD really/RB like/VB to/TO work/VB on/IN emphasizing/VBG cross-over/JJ situations/NNS in/IN which/WDT doing/VBG one/CD thing/NN contributes/VBZ to/TO meeting/VB several/JJ guidelines/NNS ./.
+Jan,In/IN the/DT end/NN this/DT could/MD be/VB pulled/VBN out/RP into/IN a/DT separate/JJ list/NN of/IN techniques/NNS that/WDT need/VBP to/TO be/VB implemented/VBN as/IN opposed/VBN to/TO checkpoints/NNS that/WDT need/VBP to/TO be/VB met/VBN ./.
+Jan,-/: Jan/NN
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,
+Jan,

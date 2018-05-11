@@ -1,0 +1,164 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,Okay/UH ./.,Okay. /
+"fo_o_fw_""_by_bc",B,All/RB right/JJ ./.,All right. /
+qo,B,"What/WDT ,/, uh/UH ,/, what/WDT kind/NN of/IN camping/NN is/VBZ there/RB in/IN Texas/NNP ?/.","[ What, + {F uh, } what ] kind of camping is there in Texas? /"
+sd,A,"Well/UH ,/, there/EX ,/, there/EX are/VBP quite/PDT a/DT few/JJ ,/, um/UH ,/, parks/NNS ,/, I/PRP guess/VBP ,/, state/NN parks/NNS ,/,","{D Well, } [ there, + there ] are quite a few, {F um, } [ parks, + I guess, state parks, ] /"
+sd,A,"and/CC there/EX 's/BES a/DT couple/NN of/IN national/JJ parks/NNS ,/, I/PRP guess/VBP ,/, that/WDT you/PRP can/MD camp/VB at/IN ./.","{C and } there's a couple of national parks, I guess, that you can camp at. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Um/UH ,/, most/JJS of/IN them/PRP have/VBP pretty/RB good/JJ facilities/NNS ./.","{F Um, } most of them have pretty good facilities. /"
+sd,A,"I/PRP do/VBP n't/RB know/VB if/IN the/DT camping/NN that/WDT I/PRP 've/VBP done/VBN is/VBZ really/RB roughing/VBG it/PRP without/IN a/DT ,/, a/DT whole/JJ lot/NN of/IN stuff/NN ./.","I don't know if the camping that I've done is really roughing it without [ a, + a ] whole lot of stuff. /"
+b,B,Yeah/UH ./.,Yeah. /
+bf,B,"So/RB ,/, you/PRP do/VBP ,/, uh/UH ,/, like/VB backpacking/NN and/CC the/DT like/JJ ?/.","{D So, } you do, {F uh, } {D like } backpacking and the like? /"
+na,A,"Uh/UH ,/, done/VBN a/DT little/JJ bit/NN of/IN that/DT ,/, mainly/RB just/RB ,/, um/UH ,/, like/UH camping/NN out/IN at/IN the/DT state/NN parks/NNS ,/,","{F Uh, } done a little bit of that, mainly just, {F um, } {D like } camping out at the state parks, /"
+sd,A,I/PRP 've/VBP been/VBN to/IN a/DT couple/NN in/IN Texas/NNP,I've been to a couple in Texas /
+sd,A,and/CC there/EX 's/BES some/DT real/RB nice/JJ ones/NNS in/IN Arkansas/NNP ./.,{C and } there's some real nice ones in Arkansas. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Um/UH ,/, I/PRP think/VBP Arkansas/NNP has/VBZ one/CD of/IN the/DT best/JJS parks/NNS departments/NNS around/IN ./.","{F Um, } I think Arkansas has one of the best parks departments around. /"
+b,B,Huh/UH ./.,Huh. /
+qy,B,Is/VBZ the/DT Ozarks/NNPS in/IN Arkansas/NNP ?/.,Is the Ozarks in Arkansas? /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,part/NN of/IN them/PRP are/VBP ./.,part of them are. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+qy^d,B,"so/RB ,/, that/DT 's/BES probably/RB a/DT pretty/RB nice/JJ place/NN to/TO go/VB ./.","{C so, } that's probably a pretty nice place to go <<pause>>. /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"they/PRP 've/VBP got/VBN ,/, uh/UH ,/, real/RB nice/JJ lake/NN system/NN ,/, and/CC ,/, around/IN their/PRP$ parks/NNS ./.","they've got, {F uh, } real nice lake system, [ and, + ] around their parks. /"
+sd,A,"One/CD of/IN them/PRP ,/, uh/UH ,/, the/DT gray/JJ ,/, I/PRP think/VBP that/DT 's/BES one/CD of/IN the/DT ones/NNS we/PRP 've/VBP been/VBN to/IN ,/, it/PRP 's/BES real/RB nice/JJ there/RB ,/, a/DT bunch/NN of/IN lakes/NNS around/IN it/PRP ,/,","One of them, {F uh, } (( the gray )) , {A I think that's one of the ones we've been to, } it's real nice there, a bunch of lakes around it, /"
+sd,A,"there/EX 's/BES a/DT golf/NN course/NN and/CC ,/, um/UH ,/, just/RB a/DT whole/JJ bunch/NN of/IN camping/NN sites/NNS ./.","there's a golf course and, {F um, } just a whole bunch of camping sites. /"
+b,B,Yeah/UH ./.,Yeah. /
+qo,A,"What/WP about/IN you/PRP ,/,","What about you, /"
+qw,A,"where/WRB have/VBP you/PRP ,/, uh/UH ,/,","where have you, {F uh, } -/"
+sd,B,"Oh/UH ,/, I/PRP 've/VBP been/VBN camping/VBG for/IN years/NNS ,/, not/RB on/IN a/DT regular/JJ basis/NN","{F Oh, } I've been camping for years, not on a regular basis /"
+sd,B,"but/CC ,/, uh/UH ,/, I/PRP first/RB started/VBD camping/VBG out/IN in/IN the/DT desert/NN in/IN California/NNP ./.","{C but, } {F uh, } I first started camping out in the desert in California."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,And/CC then/RB sometimes/RB in/IN the/DT mountains/NNS also/RB in/IN California/NNP,And then sometimes in the mountains also in California /
+sd,B,"and/CC ,/, uh/UH ,/, then/RB I/PRP moved/VBD to/IN North/NNP Carolina/NNP","{C and, } {F uh, } then I moved to North Carolina /"
+sd,B,"and/CC I/PRP ,/, I/PRP did/VBD n't/RB camp/VB for/IN a/DT long/JJ time/NN ,/,","{C and } [ I, + I ] didn't camp for a long time, /"
+sd,B,"and/CC then/RB I/PRP started/VBD to/TO ,/, uh/UH ,/, go/VB camping/VBG again/RB kind/RB of/RB in/IN conjunction/NN with/IN white/JJ water/NN rafting/NN ,/,","{C and then } I started to, {F uh, } go camping again kind of in conjunction with white water rafting, /"
+sd,B,"so/RB ,/, I/PRP 'd/MD go/VB up/RB somewhere/RB and/CC camp/VB overnight/RB and/CC then/RB do/VB some/DT rafting/NN ./.","{C so, } I'd go up somewhere and camp overnight and then do some rafting. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC then/RB maybe/RB camp/VB another/DT night/NN and/CC drive/VB home/NN ./.,{C And then } maybe camp another night and drive home. /
+sd,B,"And/CC that/DT was/VBD ,/, uh/UH ,/, that/DT was/VBD pretty/RB good/JJ","{C And } [ that was, + {F uh, } that was ] pretty good /"
+sd,B,"so/RB ,/, I/PRP went/VBD out/RB and/CC bought/VBD a/DT whole/JJ bunch/NN of/IN camping/NN gear/NN","{C so, } I went out and bought a whole bunch of camping gear /"
+sd,B,"and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP still/RB do/VBP it/PRP once/RB in/IN a/DT while/NN ./.","{C and, } {F uh, } {D you know, } I still do it once in a while. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP think/VBP we/PRP 've/VBP collected/VBN stuff/NN off/RB and/CC on/RB over/IN the/DT years/NNS ./.,I think we've collected stuff off and on over the years. /
+sd,A,"The/DT more/JJR times/NNS we/PRP did/VBD it/PRP ,/, the/DT more/RBR serious/JJ we/PRP get/VBP about/IN it/PRP ./.","The more times we did it, the more serious we get about it. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,B,Yeah/UH ./.,Yeah. /
+qw,A,"Where/WRB ,/, where/WRB is/VBZ Raleigh/NNP ,/, in/IN North/NNP Carolina/NNP ?/.","[ Where, + where ] is Raleigh, in North Carolina? /"
+sd,B,"Uh/UH ,/, well/UH ,/, it/PRP 's/BES ,/, it/PRP 's/BES ,/, uh/UH ,/, in/IN terms/NNS of/IN north/NN ,/, south/NN I/PRP would/MD say/VB it/PRP 's/BES ,/, uh/UH ,/, a/DT little/RB ,/, a/DT little/RB more/JJR towards/IN the/DT northern/JJ border/NN of/IN the/DT state/NN and/CC pretty/RB much/RB in/IN the/DT eastern/JJ half/NN of/IN it/PRP ./.","{F Uh, } {D well, } [ [ it's, + it's, ] + {F uh, } in terms of north, south I would say it's, ] {F uh, } [ a little, + a little ] more towards the northern border of the state and pretty much in the eastern half of it. /"
+bk,A,Okay/UH ./.,Okay. /
+%,B,"So/RB what/WP i-/XX ,/,","{C So } what i-, -/"
+qy,A,"Are/VBP you/PRP kind/RB of/RB away/RB from/IN the/DT Blue/NNP Ridge/NNP Mountains/NNPS ,/,","(( Are )) you kind of away from the Blue Ridge Mountains, /"
+no,B,"Well/UH ,/, it/PRP ,/,","{D Well, } [ it, +"
+%,A,an/DT area/NN ./.,an area. -/
++,B,"it/PRP 's/BES ,/, uh/UH ,/,","it's, ] {F uh, } - /"
+sd,B,"actually/UH the/DT ,/, the/DT Blue/NNP Ridge/NNP in/IN Virginia/NNP are/VBP closer/RBR to/IN Raleigh/NNP ./.","actually [ the, + the ] Blue Ridge in Virginia are closer to Raleigh. /"
+sd,B,They/PRP 're/VBP about/RB three/CD hours/NNS away/RB if/IN you/PRP go/VBP due/RB north/RB ./.,They're about three hours away if you go due north. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"Um/UH ,/, of/IN","{F Um, } (( of )) - /"
+sd,B,the/DT Blue/NNP Ridge/NNP in/IN North/NNP Carolina/NNP I/PRP think/VBP are/VBP much/RB nicer/JJR,the Blue Ridge in North Carolina I think are much nicer /
+sd,B,"and/CC you/PRP can/MD pick/VB those/DT up/RP going/VBG west/RB ,/,","{C and } you can pick those up going west, /"
+sd,B,but/CC then/RB you/PRP 're/VBP talking/VBG about/IN six/CD to/IN eight/CD hours/NNS ./.,{C but } then you're talking about six to eight hours. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,The/DT way/NN it/PRP works/VBZ ./.,The way it works. /
+sd,B,"But/CC ,/, um/UH ,/, it/PRP 's/BES a/DT real/RB ,/, it/PRP 's/BES a/DT real/RB nice/JJ place/NN to/TO go/VB and/CC camp/VB ,/,","{C But, } {F um, } [ it's a real, + it's a real ] nice place to go and camp, /"
+sd,B,"and/CC there/EX 's/BES some/DT pretty/RB decent/JJ campgrounds/NNS although/IN ,/, I/PRP do/VBP n't/RB think/VB Raleigh/NNP ,/, I/PRP do/VBP n't/RB think/VB the/DT state/NN of/IN North/NNP Carolina/NNP takes/VBZ ,/,","{C and } there's some pretty decent campgrounds (( although )) , [ I don't think Raleigh, + I don't think the state ] of North Carolina takes, - /"
+sv,B,they/PRP probably/RB just/RB do/VBP n't/RB spend/VB as/IN much/JJ money/NN as/IN a/DT lot/NN of/IN other/JJ states/NNS might/MD ./.,they probably just don't spend as much money as a lot of other states might. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"my/PRP$ wife/NN 's/BES from/IN the/DT western/JJ part/NN of/IN Virginia/NNP ,/,","my wife's from the western part of Virginia, /"
+sd,A,"we/PRP 've/VBP been/VBN down/IN the/DT parkway/NN a/DT lot/NN ,/,","we've been down the parkway a lot, /"
+sd,A,"but/CC I/PRP did/VBD n't/RB know/VB how/WRB much/RB ,/, how/WRB much/JJ camping/NN areas/NNS there/EX were/VBD along/IN there/RB ./.","{C but } I didn't know [ how much, + how much ] camping areas there were along there. /"
+sd,B,I/PRP think/VBP there/EX 's/BES quite/PDT a/DT few/JJ ./.,I think there's quite a few. /
+sd,B,I/PRP ca/MD n't/RB say/VB I/PRP 've/VBP checked/VBN them/PRP all/DT out/RP though/RB ./.,I can't say I've checked them all out though. /
+qo,A,"What/WP ,/, what/WP 's/BES it/PRP like/IN camping/VBG in/IN the/DT desert/NN and/CC California/NNP ,/,","[ What, + what's ] it like camping in the desert and California, /"
+sv,A,"that/DT seems/VBZ ,/,","that seems,"
+sd,B,"It/PRP 's/BES ,/, uh/UH ,/,","[ It's, + {F uh, }"
++,A,like/IN a/DT challenge/NN ./.,like a challenge. /
++,B,"it/PRP 's/BES actually/RB kind/RB of/RB incredible/JJ ,/,","it's ] {D actually } kind of incredible, /"
+sd,B,"it/PRP 's/BES really/RB ,/, really/RB nice/JJ ./.","it's really, really nice. /"
+sd,B,"Um/UH ,/, I/PRP like/VBP it/PRP better/RBR than/IN almost/RB anything/NN I/PRP 've/VBP ever/RB done/VBN ./.","{F Um, } I like it better than almost anything I've ever done. /"
+sd,B,Just/RB the/DT sky/NN is/VBZ so/RB amazing/JJ ./.,Just the sky is so amazing. /
+sd,B,"You/PRP know/VBP ,/, you/PRP really/RB can/MD probably/RB count/VB thousands/NNS of/IN stars/NNS ,/,","{D You know, } you really can probably count thousands of stars, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"and/CC ,/, uh/UH ,/, it/PRP 's/BES ,/, it/PRP 's/BES just/RB kind/RB of/RB nice/JJ ./.","{C and, } {F uh, } [ it's, + it's ] just kind of nice. /"
+sd,B,"I/PRP like/VBP the/DT ,/, uh/UH ,/,","I like the, {F uh, } - /"
+sd,B,"I/PRP think/VBP the/DT desert/NN has/VBZ a/DT rare/JJ kind/NN of/IN beauty/NN which/WDT ,/, uh/UH ,/, a/DT lot/NN of/IN people/NNS do/VBP n't/RB realize/VB ,/,","I think the desert has a rare kind of beauty which, {F uh, } a lot of people don't realize, /"
+sd,B,"you/PRP know/VBP ,/, they/PRP hear/VBP desert/NN","{D you know, } they hear desert /"
+sd,B,"and/CC they/PRP think/VBP of/IN scorpions/NNS and/CC snakes/NNS and/CC sand/NN and/CC being/VBG real/RB dry/JJ ,/, and/CC lack/NN of/IN water/NN ,/,","{C and } they think of scorpions and snakes and sand and being real dry, and lack of water, /"
+sd,B,"course/NN it/PRP ,/, it/PRP has/VBZ all/DT of/IN those/DT qualities/NNS","course it, it has all of those qualities /"
+sd,B,but/CC it/PRP also/RB has/VBZ a/DT certain/JJ quality/NN of/IN beauty/NN that/WDT you/PRP just/RB do/VBP n't/RB find/VB anyway/RB else/RB except/IN in/IN a/DT desert/NN ./.,{C but } it also has a certain quality of beauty that you just don't find anyway else except in a desert. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"So/RB ,/, it/PRP 's/BES pretty/RB nice/JJ ./.","{C So, } it's pretty nice. /"
+sd,B,"The/DT ,/, uh/UH ,/, the/DT movie/NN ,/, THE/DT DOORS/NNP ,/, has/VBZ so-/DT ,/, some/DT nice/JJ desert/NN scenes/NNS ,/,","[ The, + {F uh, } the ] movie, THE DOORS, has [ so-, + some ] nice desert scenes, /"
+sd,B,those/DT guys/NNS all/DT go/VBP camping/VBG out/IN in/IN the/DT desert/NN ./.,those guys all go camping out in the desert. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Of/IN course/NN ,/, they/PRP drag/VBP a/DT lot/NN of/IN drugs/NNS with/IN them/PRP","Of course, they drag a lot of drugs with them /"
+sd,B,"but/CC ,/, um/UH ,/, the/DT ,/, uh/UH ,/, the/DT shots/NNS are/VBP ,/, are/VBP pretty/RB nice/JJ","{C but, } {F um, } [ the, + {F uh, } the ] shots [ are, + are ] pretty nice /"
+sd,B,"and/CC it/PRP 's/BES sort/RB of/RB like/IN that/DT ,/,","{C and } it's sort of like that, - /"
+sd,B,"I/PRP mean/VBP ,/, it/PRP 's/BES just/RB almost/RB surreal/JJ ,/, in/IN some/DT places/NNS ./.","{E I mean, } it's just almost surreal, in some places. /"
+b,A,Huh/UH ./.,{F Huh. } /
+sd,B,It/PRP 's/BES very/RB pleasant/JJ ./.,It's very pleasant. /
+qy^d,A,Are/VBP the/DT temperatures/NNS real/RB extreme/JJ there/RB,Are the temperatures real extreme there /
+%,A,"or/CC the/DT ,/, the/DT ,/,","{C or } [ the, + the, ] -/"
+na,B,"They/PRP can/MD be/VB ,/,","They can be, /"
+ny,B,yeah/UH ./.,yeah. /
+sd,B,"I/PRP mean/VBP ,/, you/PRP got/VBN to/TO ,/, you/PRP sort/RB of/RB have/VBP to/TO choose/VB your/PRP$ season/NN carefully/RB and/CC know/VB what/WP 's/BES going/VBG to/TO happen/VB ./.","{E I mean, } [ you got to, + you sort of have to ] choose your season carefully and know what's going to happen. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP 've/VBP been/VBN camping/VBG in/IN Death/NNP Valley/NNP ,/,","(( I've been )) camping in Death Valley, /"
+sd,B,one/NN does/VBZ n't/RB go/VB in/IN July/NNP ./.,one doesn't go in July <laughter>. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+ba,A,true/UH ./.,<laughter> true. /
+sd,B,But/CC it/PRP 's/BES beautiful/JJ in/IN February/NNP ./.,{C But } it's beautiful in February. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP mean/VBP ,/, it/PRP 's/BES just/RB beautiful/JJ ./.","{E I mean, } it's just beautiful. /"
+sd,B,"The/DT days/NNS ,/, get/VBP up/IN into/IN the/DT high/JJ eighties/NNS ,/, uh/UH ,/, maybe/RB the/DT nineties/NNS","The days, get up into the high eighties, {F uh, } maybe the nineties /"
+sd,B,"but/CC it/PRP 's/BES ,/, it/PRP 's/BES quite/RB bearable/JJ","{C but } [ it's, + it's ] quite bearable /"
+sd,B,"and/CC then/RB the/DT nights/NNS are/VBP reasonably/RB warm/JJ ,/, you/PRP know/VBP ,/, sixties/NNS or/CC seventies/NNS ./.","{C and then } the nights are reasonably warm, {D you know, } sixties or seventies. /"
+sd,B,It/PRP 's/BES just/RB great/JJ ./.,It's just great. /
+sd,B,It/PRP 's/BES really/RB very/RB nice/JJ ./.,It's really very nice. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"we/PRP 've/VBP talked/VBN about/IN planning/VBG a/DT trip/NN up/IN through/IN ,/, um/UH ,/,","we've talked about planning a trip up through, {F um, } - /"
+sd,A,"I/PRP have/VBP a/DT sister-in-law/NN that/WDT lives/VBZ in/IN New/NNP Mexico/NNP ,/, up/IN through/IN New/NNP Mexico/NNP and/CC into/IN Colorado/NNP and/CC the/DT Grand/NNP Canyon/NNP area/NN ./.","I have a sister-in-law that lives [ in New Mexico, + up through New Mexico ] and into Colorado and the Grand Canyon area. /"
+sd,A,"I/PRP do/VBP n't/RB know/VB ,/, do/VBP n't/RB know/VB when/WRB I/PRP 'm/VBP going/VBG to/TO get/VB a/DT chance/NN to/TO do/VB that/DT","<<Very faint>> I [ don't know, + don't know ] when I'm going to get a chance to do that /"
+%,A,"but/CC ,/,","{C but, } -/"
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"Well/UH ,/, that/DT would/MD be/VB ,/, that/DT would/MD be/VB pretty/RB nice/JJ ./.","{D Well, } [ that would be, + that would be ] pretty nice. /"
+sd,B,"I/PRP 've/VBP been/VBN ,/, I/PRP have/VB been/VBN camping/VBG on/IN the/DT south/JJ rim/NN the/DT Grand/NNP Canyon/NNP ./.","[ I've been, + I have been ] camping on the south rim the Grand Canyon. /"
+sd,B,That/DT 's/BES okay/JJ ./.,That's okay. /
+sd,B,"A/DT lot/NN of/IN people/NNS like/VB to/TO go/VB down/RB and/CC camp/VB down/IN inside/NN ,/,","A lot of people like to go down and camp down inside, /"
+sd,B,"I/PRP was/VBD just/RB too/RB lazy/JJ that/DT trip/NN to/TO do/VB all/PDT that/DT walking/NN ,/,","I was just too lazy that trip to do all that walking,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,especially/RB with/IN my/PRP$ gear/NN ./.,especially with my gear. /
+ba,A,I/PRP 'll/MD bet/VB ./.,(( I'll bet )) . /
+sd,A,"That/DT one/CD ,/, one/CD thing/NN you/PRP said/VBD about/IN the/DT stars/NNS is/VBZ really/RB true/JJ","(( That )) [ one, + one ] thing you said about the stars is really true /"
+%,A,"it/PRP 's/BES ,/,","it's, - /"
+sd,A,"when/WRB you/PRP 're/VBP close/RB to/IN a/DT big/JJ city/NN like/IN Dallas/NNP ,/, the/DT ,/, the/DT lights/NNS kind/RB of/RB wash/VBP ,/,","when you're close to a big city like Dallas, [ the, + the ] lights kind of [ wash, +"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,wash/VBP off/IN the/DT star/NN,wash ] off the star /
+sd,A,"so/RB it/PRP 's/BES nice/JJ to/TO ,/, to/TO get/VB away/RB ./.","{C so } it's nice [ to, + to ] get away. /"
+sd,A,"It/PRP 's/BES just/RB amazing/JJ ,/,","It's just amazing,"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"it/PRP ,/,","it, -/"
++,A,"how/WRB ,/, how/WRB much/RB you/PRP miss/VBP ./.","[ how, + how ] much you miss. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"it/PRP ,/,","it, - /"
+b,B,"yeah/UH ,/,","yeah, /"
+sd,B,it/PRP really/RB is/VBZ ./.,it really is. /
+sd,B,"I/PRP mean/VBP ,/, I/PRP do/VBP n't/RB think/VB I/PRP ever/RB see/VBP the/DT Little/NNP Dipper/NNP ,/,","{E I mean, } I don't think I ever see the Little Dipper, /"
+sd,B,you/PRP hear/VBP people/NNS talk/VB about/IN the/DT Little/NNP Dipper/NNP ./.,you hear people talk about the Little Dipper. /
+b,A,Huh/UH ./. Uh-huh/UH ./.,{F Huh } <<very faint>>. Uh-huh. /
+sd,B,"But/CC I/PRP do/VBP n't/RB think/VB I/PRP ever/RB see/VBP it/PRP except/IN when/WRB I/PRP go/VBP get/VB out/IN of/IN the/DT city/NN and/CC go/VB camping/VBG in/IN the/DT desert/NN or/CC in/IN ,/, in/IN the/DT mountains/NNS ./.","{C But } I don't think I ever see it except when I go get out of the city and go camping in the desert or [ in, + in ] the mountains. /"
+sd,B,Otherwise/RB it/PRP 's/BES just/RB too/RB faint/JJ ./.,Otherwise it's just too faint <<pause>>. /
+sv,A,"Well/UH ,/, I/PRP guess/VBP we/PRP 've/VBP talked/VBN as/RB much/RB as/IN we/PRP need/VBP to/TO on/IN the/DT subject/NN ./.","{D Well, } I guess we've talked as much as we need to on the subject. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,I/PRP think/VBP we/PRP fulfilled/VBD our/PRP$ obligation/NN ./.,I think we fulfilled our obligation. /
+fc,B,"Well/UH ,/, thanks/NNS for/IN calling/VBG ,/,","{D Well, } thanks for calling, /"
+fc,B,nice/JJ talking/VBG to/IN you/PRP ./.,nice talking to you. /
+fc,A,"Yeah/UH ,/,","Yeah, /"
+fc,A,it/PRP was/VBD good/RB talking/VBG to/IN you/PRP Robert/NNP ./.,it was good talking to you (( Robert )) . /
+fc,B,"Okay/UH ,/,","Okay, /"
+fc,B,bye-bye/UH ./.,bye-bye. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /

@@ -1,0 +1,105 @@
+act_tag,speaker,pos,text
+x,B,MUMBLEx/XX ./.,<sneezing> <sniffing> (( )).
+sd,A,"Well/UH ,/, here/RB in/IN Logan/NNP ,/, Utah/NNP ,/, we/PRP 've/VBP got/VBN a/DT nice/JJ little/JJ valley/NN here/RB","<clicking> <sigh> {D Well, } here in Logan, Utah, <sniffing> we've got a nice little valley here /"
+sd,A,and/CC it/PRP 's/BES like/IN crystal/NN clear/JJ all/PDT the/DT time/NN except/IN for/IN during/IN the/DT winter/NN when/WRB the/DT inversion/NN sets/VBZ in/RB,{C and } it's {D like } crystal clear all the time except for during the winter <<pause>> when the inversion sets in /
+sd,A,and/CC then/RB we/PRP get/VBP a/DT little/JJ bit/NN of/IN pollution/NN in/IN the/DT valley/NN ./.,{C and then } we get a little bit of pollution in the valley. /
+%,B,Huh/UH ./.,<breathing> {F Huh. } /
+sd,B,"Well/UH ,/, here/RB in/IN Seattle/NNP ,/, uh/UH ,/, it/PRP 's/BES g/VBG ,/, the/DT air/NN 's/BES getting/VBG more/RBR and/CC more/RBR polluted/JJ ./.","<Lipsmack> {D Well, } here in Seattle, {F uh, } [ it's g-, + the air's getting ] more and more polluted. /"
+sd,B,"We/PRP 're/VBP ,/, uh/UH ,/, we/PRP 're/VBP in/IN kind/RB of/RB a/DT basin/NN ./.","[ We're, + {F uh, } we're ] in kind of a basin <inhaling>. /"
+sd,B,"And/CC ,/, uh/UH ,/, Seattle/NNP is/VBZ on/IN Puget/NNP Sound/NNP which/WDT is/VBZ a/DT inland/JJ waterway/NN between/IN two/CD mountains/NNS ./.","{C And, } {F uh, } <sigh> <lipsmack> Seattle is on Puget Sound which is a inland waterway between two mountains. /"
+sd,B,"And/CC ,/, uh/UH ,/, there/EX 's/HVS been/VBN a/DT lot/NN ,/, a/DT lot/NN of/IN growth/NN ,/, population/NN growth/NN around/IN here/RB ./.","{C And, } {F uh, } there's been [ a lot, + a lot ] of [ growth, + population growth ] around here <inhaling>. /"
+sv,B,"And/CC ,/, uh/UH ,/, it/PRP 's/BES ,/, uh/UH ,/, it/PRP 's/BES getting/VBG worse/JJR ./.","{C And, } {F uh, } <sigh> [ it's, + {F uh, } it's ] getting worse <laughter>. /"
+sv,B,I/PRP think/VBP --/:,I think --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: most/JJS of/IN it/PRP is/VBZ from/IN cars/NNS ./.,-- most of it is from cars. /
+aa,A,Yeah/UH ./.,Yeah. /
+aa,A,Definitely/UH ./.,Definitely. /
+sd,A,"Here/RB in/IN Utah/NNP up/IN along/IN the/DT Wasatch/NNP MUMBLEx/XX along/IN the/DT western/JJ side/NN of/IN the/DT ,/, of/IN these/DT Rocky/NNP Mountains/NNPS here/RB ,/, where/WRB a/DT lot/NN of/IN the/DT big/JJ cities/NNS are/VBP Salt/NNP Lake/NNP and/CC Ogden/NNP and/CC Provo/NNP","Here in Utah up along the Wasatch (( )) along the western side [ of the, + of these ] Rocky Mountains here, where a lot of the big cities are Salt Lake and Ogden and Provo /"
+sd,A,"and/CC Logan/NNP 's/BES up/IN in/IN the/DT valley/NN a/DT little/JJ bit/NN further/RBR north/RB ,/,","{C and } Logan's up in the valley a little bit further north, /"
+sd,A,we/PRP get/VBP a/DT lot/NN of/IN pollution/NN,we get a lot of pollution /
+sd,A,and/CC it/PRP 's/BES like/IN seventy/CD percent/NN of/IN it/PRP is/VBZ from/IN cars/NNS ./.,{C and } it's like seventy percent of it is from cars. /
+b,B,Uh-huh/UH ./.,Uh-huh <music>. /
+sd,A,"And/CC ,/, uh/UH ,/, it/PRP always/RB really/RB hits/VBZ hard/RB during/IN the/DT winter/NN when/WRB we/PRP get/VBP the/DT inversion/NN ./.","{C And, } {F uh, } it always really hits hard during the winter when we get the inversion <clicking>. /"
+sd,A,"And/CC when/WRB we/PRP get/VBP ,/,","{C And } when we [ get, +"
+x,B,./.,<noise>.
++,A,get/VBP cold/JJ air/NN down/IN in/IN the/DT valleys/NNS and/CC warm/JJ air/NN up/IN above/RB,get ] cold air down in the valleys and warm air up above /
+sd,A,and/CC it/PRP just/RB sits/VBZ and/CC sits/VBZ and/CC sits/VBZ,{C and } it just sits and sits and sits /
+sd,A,and/CC we/PRP 're/VBP starting/VBG to/TO hit/VB pollution/NN levels/NNS now/RB on/IN the/DT Wasatch/NNP front/NN which/WDT match/VBP that/DT of/IN L/NNP A/NNP a/DT few/JJ years/NNS ago/RB ./.,{C and } we're starting to hit pollution levels now on the Wasatch front which match that of L A a few years ago. /
+b,B,Oh/UH ./.,Oh. /
+sv,A,"It/PRP 's/BES not/RB ,/, it/PRP 's/BES almost/RB sad/JJ ./.","[ It's not, + it's ] almost sad. /"
+sd,A,"Because/IN when/WRB I/PRP grew/VBD up/RP here/RB ,/, it/PRP was/VBD just/RB always/RB the/DT crisp/JJ air/NN up/IN in/IN the/DT mountain/NN valleys/NNS","{C Because } when I grew up here, it was just always the crisp air up in the mountain valleys /"
+sd,A,and/CC now/RB it/PRP 's/BES not/RB in/IN the/DT mountain/NN valleys/NNS ./.,{C and } now it's not in the mountain valleys. /
+b,B,Yeah/UH ./.,Yeah. /
+b,B,"Yeah/UH ,/,","<inhaling> Yeah, /"
+sd,B,"I/PRP live/VBP in/IN the/DT ,/,","I live in the,"
+x,A,./.,<sniffing>.
++,B,university/NN district/NN,university district /
+sv,B,"and/CC ,/, uh/UH ,/, uh/UH ,/, it/PRP 's/BES supposed/VBN to/TO have/VB about/RB the/DT worst/JJS air/NN pollution/NN ./.","{C and, } {F uh, } {F uh, } it's supposed to have about the worst air pollution <laughter>. /"
+sv,B,"I/PRP think/VBP probably/RB due/IN to/IN ,/, uh/UH ,/, a/DT lot/NN of/IN students/NNS going/VBG back/RB and/CC forth/RB to/IN school/NN ./.","I think probably due to, {F uh, } a lot of students going back and forth to school. /"
+%,A,Huh/UH ./.,<talking> {F Huh. } /
+sd,B,And/CC then/RB we/PRP 're/VBP right/RB next/RB to/IN Interstate/NNP Five/CD also/RB ./.,{C And then } we're right next to Interstate Five also. /
+sd,A,"They/PRP 're/VBP getting/VBG serious/JJ about/IN things/NNS like/IN ,/, uh/UH ,/, mandatory/JJ ,/,","They're getting serious about things like, {F uh, } mandatory, - /"
+sd,A,"well/UH they/PRP 've/VBP already/RB passed/VBN laws/NNS where/WRB you/PRP have/VBP to/TO get/VB your/PRP$ cars/NNS checked/VBN for/IN pollution/NN if/IN you/PRP 're/VBP in/IN certain/JJ counties/NNS ,/,","{D well } they've already passed laws where you have to get your cars checked for pollution if you're in certain counties, /"
+sd,A,emissions/NNS ./.,emissions. -/
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+qy,B,MUMBLEx/XX have/VBP they/PRP started/VBN doing/VBG that/DT yet/RB ?/.,(( )) have they started doing that yet? /
+ny,A,Yeah/UH ./.,Yeah. /
+sd,A,"They/PRP 've/VBP actually/RB started/VBN doing/VBG it/PRP down/IN along/IN the/DT ,/,","They've actually started doing it down along the, - /"
+sd,A,not/RB in/IN Logan/NNP up/IN here/RB cause/IN we/PRP 're/VBP doing/VBG a/DT lot/NN better/RB ./.,not in Logan up here cause we're doing a lot better. /
+sd,A,"We/PRP have/VBP a/DT lot/NN ,/, population/NN is/VBZ a/DT lot/NN lighter/JJR up/IN here/RB ./.","[ We have a lot, + population is a lot ] lighter up here. /"
+sd,B,We/PRP have/VBP that/DT here/RB,<inhaling> We have that here /
+sd,B,"and/CC ,/, uh/UH ,/, they/PRP 're/VBP ,/, they/PRP 're/VBP expanding/VBG it/PRP to/IN ,/, uh/UH ,/, more/JJR counties/NNS here/RB ./. Uh/UH ,/, as/IN the/DT population/NN spreads/VBZ out/RB","{C and, } {F uh, } [ they're, + they're ] expanding it to, {F uh, } more counties here. {F Uh, } as the population spreads out <sigh> /"
+sv,B,"and/CC I/PRP think/VBP they/PRP 're/VBP also/RB going/VBG to/TO be/VB making/VBG it/PRP ,/, uh/UH ,/, mandatory/JJ for/IN more/JJR cars/NNS ./.","{C and } I think they're also going to be making it, {F uh, } <lipsmack> mandatory for more cars. /"
+sd,B,"Th-/EX ,/, th-/EX ,/, there/EX was/VBD ,/, uh/UH ,/, something/NN in/IN the/DT law/NN about/IN if/IN your/PRP$ car/NN was/VBD over/IN a/DT certain/JJ age/NN ,/, like/IN over/IN twenty/CD years/NNS old/JJ ,/, you/PRP did/VBD n't/RB have/VB to/TO get/VB it/PRP done/VBN anymore/RB ./.","[ [ Th-, + th-, ] + there ] was, {F uh, } something in the law about if your car was over a certain age, like over twenty years old, you didn't have to get it done anymore. /"
+sv,B,And/CC --/:,{C And } --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: I/PRP think/VBP they/PRP 're/VBP eliminating/VBG that/DT ,/, uh/UH --/:","-- I think they're eliminating [ that, + {F uh } --"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"They/PRP 're/VBP ge-/XX ,/, eliminating/VBG that/DT out/IN here/RB ./.","They're [ ge-, + eliminating ] that out here. /"
++,B,--/: that/DT loophole/NN ./.,-- that ] loophole. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"They/PRP 're/VBP also/RB talking/VBG very/RB seriously/RB about/IN the/DT thing/NN called/VBN a/DT dirt/NN gun/NN ./. Where/WRB they/PRP 're/VBP ,/, uh/UH ,/, looking/VBG at/IN the/DT emissions/NNS from/IN the/DT car/NN using/VBG basically/RB a/DT spectrometer/NN and/CC looking/VBG at/IN the/DT ,/, basically/RB how/WRB much/RB of/IN what/WP is/VBZ coming/VBG out/IN of/IN the/DT exhaust/NN ./.","They're also talking very seriously about the thing called a dirt gun. Where they're, {F uh, } looking at the emissions from the car using basically a spectrometer and looking at [ the, + ] basically how much of what is coming out of the exhaust. /"
+sd,A,Kind/RB of/RB like/IN a/DT radar/NN gun/NN ./.,Kind of like a radar gun. /
+%,A,And/CC .../:,{C And } ... -/
+b,B,"Oh/UH ,/, really/UH ,/,","{F Oh, } really, /"
+qy,B,You/PRP mean/VBP they/PRP could/MD --/:,You mean they could --
+ny,A,Yes/UH ./.,Yes. /
++,B,--/: do/VB that/DT remotely/RB ?/.,-- do that remotely? /
+ny,A,Yeah/UH ./.,Yeah. /
+sd,A,"Do/VBP it/PRP remotely/RB just/RB looking/VBG at/IN the/DT ,/, what/WP they/PRP do/VBP ,/,","Do it remotely just looking at [ the, + ] what they do, /"
+sd,A,they/PRP do/VBP several/JJ different/JJ types/NNS of/IN things/NNS ./.,they do several different types of things. /
+sd,A,Sometimes/RB they/PRP put/VBP a/DT source/NN light/NN,Sometimes they put a source light /
+sd,A,and/CC they/PRP look/VBP at/IN the/DT source/NN light/NN,{C and } they look at the source light /
+sd,A,"and/CC then/RB as/IN the/DT car/NN goes/VBZ by/RB ,/, you/PRP can/MD see/VB the/DT exhaust/NN pipe/NN and/CC the/DT source/NN light/NN behind/IN it/PRP","{C and then } as the car goes by, you can see the exhaust pipe and the source light behind it /"
+sd,A,and/CC you/PRP can/MD look/VB at/IN the/DT emissions/NNS actually/RB ./.,{C and } you can look at the emissions actually. /
+%,B,Huh/UH ./.,{F Huh. } /
+%,A,And/CC .../:,{C And } ... -/
+qw,B,Now/UH where/WRB does/VBZ the/DT source/NN light/NN go/VB ?/.,{D Now } where does the source light go? /
+sd,A,Like/UH across/IN the/DT street/NN ./.,{D Like } across the street. /
+sd,A,They/PRP 'll/MD set/VB up/RB --/:,They'll set up --
+bk,B,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
++,A,--/: like/IN a/DT trap/NN or/CC something/NN like/IN that/DT in/IN some/DT sense/NN ./.,-- {D like } a trap or something like that in some sense. /
+sd,A,"And/CC they/PRP 're/VBP also/RB looking/VBG at/IN ,/, uh/UH ,/, other/JJ ,/, you/PRP know/VBP ,/, ways/NNS of/IN monitoring/VBG this/DT and/CC ,/, cause/IN they/PRP 've/VBP found/VBN out/RP something/NN basically/RB that/WDT ,/, uh/UH ,/,","{C And } they're also looking at, {F uh, } other, {D you know, } ways of monitoring this [ and, + ] cause they've found out something basically that, {F uh, } - /"
+sd,A,"and/CC a/DT poorly/RB tuned/JJ car/NN can/MD emit/VB something/NN ,/,","{C and } a poorly tuned car can emit something, /"
+sd,A,it/PRP 's/HVS an/DT incredible/JJ amount/NN ./.,it's an incredible amount. /
+sd,A,It/PRP was/VBD like/IN four/CD hundred/CD times/NNS as/RB much/RB --/:,It was {D like } four hundred times as much --
+ba,B,Jeez/UH ./.,Jeez. /
++,A,"--/: uh/UH ,/, of/IN certain/JJ pollutants/NNS ,/, and/CC it/PRP was/VBD like/IN unburned/JJ hydrocarbons/NNS ,/, then/RB a/DT properly/RB tuned/JJ car/NN ./.","-- {F uh, } of certain pollutants, {A and it was like unburned hydrocarbons, } then a properly tuned car. /"
+sd,A,"And/CC ,/, and/CC the/DT idea/NN being/VBG that/IN if/IN you/PRP just/RB tuned/VBD up/RP all/PDT the/DT cars/NNS ,/, well/UH if/IN you/PRP tuned/VBD up/RP this/DT ten/CD percent/NN of/IN the/DT cars/NNS that/WDT were/VBD producing/VBG like/IN fifty/CD percent/NN of/IN the/DT ,/, the/DT pollution/NN then/RB ,/, you/PRP know/VBP ,/, you/PRP ,/, it/PRP 'd/MD be/VB one/CD way/NN to/TO cut/VB the/DT pollution/NN in/IN half/JJ ./.","[ {C And, } + {C and } ] the idea being that [ if you just tuned up all the cars, + {D well } if you tuned up this ten percent of the cars ] that were producing like fifty percent of [ the, + the ] pollution then, {D you know, } [ you, + it'd ] be one way to cut the pollution in half. /"
+b,B,Yeah/UH ./.,Yeah. /
+ba,B,That/DT 's/BES neat/JJ ./.,That's neat <inhaling> <sniffing>. /
+x,A,./.,<sniffing> <sniffing>.
+%,B,"But/CC it/PRP 's/HVS also/RB been/VBN ,/, uh/UH ,/, oh/UH ,/, you/PRP know/VBP ,/,","{C But } it's also been, {F uh, } {F oh, } {D you know, } - /"
+sd,B,everybody/NN is/VBZ talking/VBG about/IN using/VBG more/JJR mass/NN transient/^NN here/RB,everybody <sigh> is talking about using more mass transient here /
+sv,B,"but/CC it/PRP ,/, uh/UH ,/, it/PRP 's/BES tough/JJ ,/, you/PRP know/VBP ./.","{C but } [ it, + {F uh, } it's ] tough, {D you know. } /"
+sd,B,"Like/IN I/PRP 've/VBP ,/, I/PRP 've/VBP looked/VBN into/IN riding/VBG the/DT bus/NN to/IN work/NN","{D Like } [ I've, + I've ] looked into riding the bus to work /"
+sd,B,"and/CC I/PRP can/MD drive/VB to/IN work/NN in/IN ,/, uh/UH ,/, and/CC get/VB there/RB in/IN twenty/CD to/IN twenty-five/CD minutes/NNS over/IN a/DT very/RB congested/JJ corridor/NN ./. Which/WDT goes/VBZ over/IN Lake/NNP Washington/NNP on/IN one/CD of/IN the/DT floating/JJ bridges/NNS ./.","{C and } I can drive to work [ in, + ] {F uh, } and get there in twenty to twenty-five minutes over a very congested corridor. Which goes over Lake Washington on one of the floating bridges. /"
+b,A,Uh-huh/UH ./.,<clicking> Uh-huh. /
+sd,B,"But/CC if/IN I/PRP ,/, uh/UH ,/, if/IN I/PRP take/VBP the/DT bus/NN ,/, it/PRP requires/VBZ several/JJ transfers/NNS","{C But } [ if I, + {F uh, } <lipsmack> if I ] take the bus, it requires several transfers /"
+sd,B,and/CC it/PRP takes/VBZ over/IN an/DT hour/NN ./.,{C and } it takes over an hour. /
+%,A,Huh/UH ./.,<noise> {F Huh. } /
+sv,B,So/RB so/RB it/PRP --/:,<laughter> [ {C So } + <laughter> {C so } ] [ [ it -- +
+b,A,Yeah/UH ./.,Yeah. /
+%,A,And/CC they/PRP 're/VBP .../:,{C And } they're ... -/
++,B,"--/: it/PRP 's/BES ,/, it/PRP 's/BES not/RB hard/JJ to/TO see/VB why/WRB ,/, why/WRB I/PRP keep/VBP driving/VBG ./.","-- it's, ] + it's ] not hard to see <laughter> [ why, + why ] I keep driving. /"
+sd,B,"And/CC you/PRP know/VBP ,/, I/PRP feel/VBP guilty/JJ cause/IN I/PRP 'm/VBP driving/VBG a/DT ,/,","{C And } {D you know, } I feel guilty cause I'm driving a </music> </breathing>, -/"

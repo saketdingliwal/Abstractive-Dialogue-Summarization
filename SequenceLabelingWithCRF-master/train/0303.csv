@@ -1,0 +1,155 @@
+act_tag,speaker,pos,text
+qy,A,"Well/UH ,/, do/VBP you/PRP have/VB any/DT pets/NNS ?/.","{D Well, } do you have any pets? /"
+ny,B,Yes/UH,Yes /
+sd,B,I/PRP do/VBP ./.,I do. /
+sd,B,"I/PRP have/VBP a/DT dog/NN named/VBN Grisly/NNP ,/, who/WP 's/BES a/DT ten/CD year/NN old/JJ ,/, uh/UH ,/, mixed/JJ breed/NN between/IN Golden/NNP Retriever/NNP ,/, Afghan/NNP Hound/NNP and/CC Chow/NNP ./.","I have a dog named Grisly, who's a ten year old, {F uh, } mixed breed between Golden Retriever, Afghan Hound and Chow. /"
+bk,A,Oh/UH ./.,Oh. /
+sd,B,And/CC I/PRP have/VBP a/DT pair/NN of/IN box/NN turtles/NNS ./.,{C And } I have a pair of box turtles. /
+bk,A,"Oh/UH ,/,","{F Oh, } /"
+x,B,./.,<Laughter>.
+sd,A,"I/PRP used/VBD to/TO have/VB box/NN turtles/NNS ,/, um/UH ,/, well/UH ,/, years/NNS ago/RB ,/, when/WRB I/PRP was/VBD growing/VBG up/RP --/:","I used to have box turtles, {F um, } {D well, } years ago, when I was growing up -- /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,A,"--/: I/PRP ,/, I/PRP really/RB like/VBP them/PRP ./.","-- [ I, + I ] really like them. /"
+b,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,B,"I/PRP do/VBP ,/, too/RB ./.","I do, too. /"
+sd,B,"Lucky/NNP and/CC Spot/NNP ,/, that/DT 's/BES their/PRP$ names/NNS --/:","Lucky and Spot, that's their names -- /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,"--/: and/CC they/PRP live/VBP in/IN an/DT aquarium/NN without/IN water/NN in/IN my/PRP$ family/NN room/NN ,/,","-- {C and } they live in an aquarium without water in my family room, /"
+sd,B,"and/CC my/PRP$ dog/NN thinks/VBZ he/PRP 's/BES a/DT mother/NN turtle/NN ,/,","{C and } my dog thinks he's a mother turtle,"
+x,A,./.,<Laughter>.
++,B,"and/CC always/RB has/VBZ his/PRP$ nose/NN all/RB around/IN my/PRP$ turtle/NN box/NN ,/,","and always has his nose all around my turtle box, /"
+qy,B,so/RB do/VBP you/PRP have/VB any/DT pets/NNS now/RB ?/.,{C so } do you have any pets now? /
+ny,A,"Yes/UH ,/,","Yes, /"
+sd,A,"um/UH ,/, we/PRP have/VBP one/CD dog/NN ,/, a/DT Bichon/NNP Frise/NNP ./.","{F um, } we have one dog, a Bichon Frise. /"
+sd,A,"Um/UH ,/, our/PRP$ friends/NNS in/IN Houston/NNP bred/VBD the/DT dogs/NNS ./.","{F Um, } our friends in Houston bred the dogs. /"
+sd,A,I/PRP had/VBD never/RB heard/VBN of/IN them/PRP --/:,I had never heard of them -- /
+nn,B,"No/UH ,/,","No, /"
+sd,B,I/PRP have/VBP n't/RB either/RB ./.,I haven't either. /
+sd,A,"--/: they/PRP 're/VBP ,/, um/UH ,/, they/PRP 're/VBP all/RB white/JJ","-- [ they're, + {F um, } they're ] all white /"
+sd,A,"and/CC they/PRP 're/VBP small/JJ ,/, and/CC ,/, um/UH ,/, and/CC fluffy/JJ ,/,","{C and } they're small, [ and, + {F um, } and ] fluffy, /"
+sd,A,they/PRP do/VBP n't/RB shed/VB ./.,they don't shed. /
+sd,A,"I/PRP guess/VBP they/PRP 're/VBP distantly/RB related/VBN to/IN a/DT poodle/NN ,/,","I guess they're distantly related to a poodle, /"
+sd,A,"but/CC they/PRP 're/VBP not/RB very/RB well/RB known/VBN in/IN this/DT country/NN ,/,","{C but } they're not very well known in this country, /"
+sd,A,"and/CC they/PRP 're/VBP not/RB ,/, um/UH ,/, high/JJ strung/JJ or/CC over/RB bred/VBN --/:","{C and } they're not, {F um, } high strung or over bred --"
+b,B,Oh/UH ./.,Oh. /
++,A,--/: um/UH ./.,-- {F um. } /
+qw,B,And/CC how/WRB big/JJ do/VBP they/PRP get/VB ./.,{C And } how big do they get. /
+sd,A,"Ours/PRP is/VBZ ,/, uh/UH ,/, on/IN the/DT small/JJ end/NN ,/,","Ours is, {F uh, } on the small end, /"
+sd,A,"and/CC she/PRP 's/BES about/RB ten/CD pounds/NNS ,/,","{C and } she's about ten pounds, /"
+sd,A,and/CC they/PRP range/VBP from/IN probably/RB ten/CD to/IN sixteen/CD pounds/NNS --/:,{C and } they range from probably ten to sixteen pounds -- /
+ba,B,"Oh/UH ,/, that/DT 's/BES interesting/JJ ./.","{F Oh, } that's interesting. /"
+sd,A,"--/: and/CC they/PRP love/VBP people/NNS ,/, um/UH ,/, and/CC kids/NNS","-- {C and } they love people, {F um, } and kids /"
+sd,A,"and/CC that/DT was/VBD something/NN we/PRP were/VBD looking/VBG for/IN ,/, um/UH ,/,","{C and } that was something we were looking for, {F um, } /"
+sd,A,"our/PRP$ ,/, our/PRP$ love/NN is/VBZ Golden/NNP Retrievers/NNPS ,/,","[ our, + our ] love is Golden Retrievers, /"
+sd,A,"and/CC that/DT 's/BES what/WP we/PRP had/VBD intended/VBN to/TO get/VB in/IN Houston/NNP ,/,","{C and } that's what we had intended to get in Houston, /"
+sd,A,but/CC we/PRP had/VBD a/DT small/JJ yard/NN and/CC a/DT pool/NN,{C but } we had a small yard and a pool /
+sd,A,and/CC knowing/VBG how/WRB they/PRP love/VBP to/TO dig/VB --/:,{C and } knowing how they love to dig --
+%,B,"Ye-/UH ,/,","Ye-, - /"
+sv,B,"the/DT water/NN ,/,","the water, /"
+%,B,yes/UH ./.,yes. /
++,A,"--/: and/CC love/VBP the/DT water/NN ,/, um/UH ,/, and/CC we/PRP thought/VBD that/DT was/VBD kind/RB of/RB a/DT tough/JJ climate/NN --/:","-- and love the water, {F um, } [ and + ] we thought that was kind of a tough climate -- /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: so/RB ,/, uh/UH ,/, we/PRP ended/VBD up/RP getting/VBG this/DT ,/,","-- {C so, } {F uh, } we ended up getting this, /"
+sd,A,"and/CC ,/, uh/UH ,/, my/PRP$ son/NN would/MD rather/RB have/VB a/DT Golden/NNP Retriever/NNP ,/, though/RB ,/, I/PRP think/VBP --/:","{C and, } {F uh, } my son would rather have a Golden Retriever, though, I think <laughter> -- /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"--/: now/RB he/PRP wants/VBZ a/DT ,/, a/DT good/JJ size/NN dog/NN ./.","-- now he wants [ a, + a ] good size dog <laughter>. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,B,"well/UH ,/, we/PRP 've/VBP got/VBN a/DT good/JJ size/NN dog/NN ,/,","{D well, } we've got a good size dog, /"
+sd,B,"and/CC we/PRP were/VBD considering/VBG getting/VBG a/DT puppy/NN ,/, a/DT small/JJ house/NN ,/, lap/NN top/NN dog/NN for/IN him/PRP ,/, because/IN he/PRP likes/VBZ other/JJ animals/NNS and/CC for/IN me/PRP ,/, because/IN we/PRP used/VBD to/TO have/VB a/DT miniature/JJ Dachshund/NNP ,/,","{C and } we were considering getting a puppy, a small house, lap top dog for him, because he likes other animals and [ for me, + ] because we used to have a miniature Dachshund, /"
+sd,B,and/CC I/PRP miss/VBP --/:,{C and } I miss --
+b,A,Oh/UH ./.,Oh. /
++,B,--/: having/VBG a/DT little/JJ one/CD --/:,-- having a little one --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: you/PRP know/VBP ,/, around/RB ./.","-- {D you know, } around. /"
+ba,B,"The/DT kind/NN you/PRP have/VBP sounds/VBZ very/RB interesting/JJ ,/, though/RB ./.","The kind you have sounds very interesting, though. /"
+sd,A,"Well/UH ,/, they/PRP really/RB are/VBP ,/, um/UH ,/, they/PRP 're/VBP really/RB sweet/JJ dogs/NNS ./.","{D Well, } [ they really are, + {F um, } they're really ] sweet dogs. /"
+sd,A,"We/PRP 've/VBP ,/, uh/UH ,/, we/PRP thought/VBD probably/RB our/PRP$ neighborhood/NN in/IN Houston/NNP had/VBD more/RBR of/IN this/DT breed/NN than/IN any/DT other/JJ place/NN just/RB because/IN of/IN ,/, um/UH ,/, the/DT family/NN that/WDT had/VBD them/PRP and/CC ,/, and/CC bred/VBD them/PRP ./.","[ We've, + {F uh, } we ] thought probably our neighborhood in Houston had more of this breed than any other place just because of, {F um, } the family that had them [ and, + and ] bred them. /"
+sd,A,"They/PRP had/VBD five/CD litters/NNS of/IN puppies/NNS ,/,","They had five litters of puppies, /"
+sd,A,and/CC --/:,[ {C and } + --
+b,B,Oh/UH ./.,Oh. /
++,A,--/: and/CC a/DT lot/NN of/IN them/PRP stayed/VBD in/IN the/DT neighborhood/NN --/:,-- {C and } ] a lot of them stayed in the neighborhood -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"--/: because/IN ,/, um/UH ,/,","-- {C because, } {F um, } -/"
+qw,B,And/CC how/WRB do/VBP you/PRP spell/VB that/DT breed/NN ?/.,{C And } how do you spell that breed? /
+sd,A,It/PRP 's/BES B/SYM I/SYM C/SYM H/SYM O/SYM N/SYM F/SYM R/SYM I/SYM S/SYM E/SYM ./.,It's B I C H O N F R I S E. /
+b^m,B,F/SYM R/SYM I/SYM S/SYM E/SYM ./.,F R I S E. /
+qw,B,And/CC how/WRB do/VBP you/PRP pronounce/VB that/DT ?/.,{C And } how do you pronounce that? /
+sd,A,Bichon/NNP Frise/NNP ./.,Bichon Frise. /
+bk,B,Okay/UH ./.,Okay. /
+sd,B,"I/PRP 'm/VBP writing/VBG it/PRP out/RP phonetically/RB ,/,","I'm writing it out phonetically, /"
+b,A,Yeah/UH ./.,Yeah. /
+%,A,"They/PRP 're/VBP ,/, uh/UH ,/,","They're, {F uh, } - /"
+sd,A,and/CC they/PRP do/VBP n't/RB shed/VB,{C and } they don't shed /
+sv,A,"so/RB they/PRP 're/VBP ,/, they/PRP 're/VBP good/JJ dogs/NNS for/IN people/NNS with/IN ,/, with/IN --/:","{C so } [ they're, + they're ] good dogs for people [ with, + with ] --"
+b,B,"Yes/UH ,/,","Yes, /"
++,A,"--/: allergies/NNS ,/,","-- allergies, /"
+sd,A,"and/CC they/PRP love/VBP people/NNS ,/,","{C and } they love people, /"
+%,A,"and/CC they/PRP 're/VBP ,/,","{C and } they're, -/"
+qy,B,Do/VBP they/PRP bark/VB a/DT lot/NN ?/.,Do they bark a lot? /
+nn,A,"Um/UH ,/, no/UH ,/,","{F Um, } no, /"
+sd,A,not/RB really/RB ./.,not really. /
+sd,A,"Ours/PRP ,/, um/UH ,/, ours/PRP barks/VBP more/JJR than/IN ,/, um/UH ,/, than/IN some/DT ,/, because/IN she/PRP spent/VBD a/DT lot/NN of/IN time/NN at/IN our/PRP$ friends/NNS '/POS house/NN ./.","[ Ours, + {F um, } ours ] barks more [ than, + {F um, } than ] some, because she spent a lot of time at our friends' house. /"
+sd,A,We/PRP used/VBD to/TO swap/VB back/RB and/CC forth/RB dogs/NNS ./.,We used to swap back and forth dogs. /
+sd,A,MUMBLEx/XX they/PRP have/VBP three/CD dogs/NNS ./.,(( )) they have three dogs. /
+sd,A,"They/PRP had/VBD a/DT Cockapoo/NNP ,/, and/CC ,/, and/CC two/CD Bichons/NNPS --/:","They had a Cockapoo, [ and, + and ] two Bichons --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: um/UH ,/,","-- {F um, } /"
+sd,A,and/CC she/PRP did/VBD n't/RB bark/VB at/IN all/DT until/IN she/PRP spent/VBD time/NN there/RB --/:,{C and } she didn't bark at all until she spent time there -- /
+bk,B,Oh/UH ./.,Oh. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, now/RB it/PRP 's/BES funny/JJ ./.","-- {C and, } {F uh, } now it's funny. /"
+sd,A,"She/PRP 's/BES ,/, she/PRP 's/BES a/DT good/JJ watch/NN dog/NN --/:","[ She's, + she's ] a good watch dog -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC if/IN there/EX 's/BES ,/, she/PRP 'll/MD bark/VB that/DT way/NN ,/,","-- {C and } if there's, she'll bark that way, /"
+sd,A,"but/CC she/PRP also/RB talks/VBZ a/DT lot/NN ,/,","{C but } she also talks a lot, /"
+sd,A,she/PRP --/:,she --
+b,B,Yes/UH ./.,Yes. /
++,A,"--/: um/UH ,/, has/VBZ a/DT definite/JJ personality/NN","-- {F um, } has a definite personality /"
+sd,A,"and/CC so/RB ,/, if/IN we/PRP 're/VBP leaving/VBG her/PRP ,/, she/PRP barks/VBZ at/IN us/PRP ,/, because/IN --/:","{C and so, } if we're leaving her, she barks at us, because --"
+b,B,Oh/UH ./.,Oh. /
++,A,--/: she/PRP does/VBZ n't/RB want/VB to/TO be/VB left/VBN ./. Um/UH ./.,-- she doesn't want to be left. {F Um. } /
+qy,B,Does/VBZ she/PRP ever/RB mess/VB in/IN the/DT house/NN ?/.,Does she ever mess in the house? /
+nn,A,"No/UH ,/,","No, /"
+nn,A,"no/UH ,/,","no, /"
+sd,A,"and/CC they/PRP 're/VBP ,/, um/UH ,/, they/PRP 're/VBP very/RB smart/JJ dogs/NNS ./.","{C and } [ they're, + {F um, } they're ] very smart dogs. /"
+sd,A,The/DT circuses/NNS in/IN Europe/NNP used/VBD to/TO use/VB them/PRP --/:,The circuses in Europe used to use them --
+b,B,Oh/UH ./.,Oh. /
++,A,"--/: um/UH ,/, for/IN the/DT acts/NNS ./.","-- {F um, } for the acts. /"
+sd,A,"They/PRP ,/, uh/UH ,/, oh/UH ,/, they/PRP 'll/MD dance/VB --/:","[ They, + {F uh, } {F oh, } they'll ] dance --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: on/IN their/PRP$ hind/JJ legs/NNS each/DT --/:,-- on their hind legs each -- /
+ba,B,"Oh/UH ,/, gee/UH ./.","{F Oh, } gee. /"
+sd,A,"--/: um/UH ,/, but/CC they/PRP 're/VBP very/RB easy/JJ to/TO train/VB --/:","-- {F um, } {C but } they're very easy to train -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"--/: and/CC ,/,","-- {C and, } -/"
+qw,B,And/CC about/RB how/WRB much/JJ are/VBP they/PRP ?/.,{C And } about how much are they? /
+%,A,"Well/UH ,/, they/PRP range/VBP ,/,","{D Well, } they range, - /"
+^h,A,I/PRP 'd/VBD noticed/VBN up/IN here/RB they/PRP 're/VBP a/DT lot/NN more/RBR expensive/JJ it/PRP seemed/VBD to/IN me/PRP from/IN the/DT ads/NNS in/IN the/DT paper/NN ./.,I'd noticed up here they're a lot more expensive it seemed to me from the ads in the paper. /
+sd,A,"They/PRP run/VBP anywhere/RB from/IN two/CD hundred/CD to/IN four/CD hundred/CD dollars/NNS ,/, I/PRP think/VBP --/:","They run anywhere from two hundred to four hundred dollars, I think --"
+qw,B,"And/CC how/WRB about/IN the/DT ,/,","[ {C And } how about the, +"
++,A,--/: which/WDT I/PRP thought/VBD was/VBD a/DT lot/NN ./.,-- which I thought was a lot. /
++,B,"And/CC how/WRB about/IN the/DT person/NN in/IN ,/, uh/UH ,/, Houston/NNP ?/.","{C And } how about the ] person in, {F uh, } Houston? /"
+arp_nd,A,"Well/UH ,/, she/PRP 's/BES no/DT longer/RB breeding/VBG them/PRP --/:","{D Well, } she's no longer breeding them -- /"
+bk,B,Oh/UH ./.,Oh. /
+sd,A,"--/: but/CC ,/, um/UH ,/, because/IN her/PRP$ dogs/NNS ,/, um/UH ,/, the/DT ,/, the/DT second/JJ one/CD that/WDT she/PRP has/VBZ was/VBD one/CD of/IN the/DT puppies/NNS from/IN the/DT litter/NN ,/,","-- {C but, } {F um, } {C because } her dogs, {F um, } [ the, + the ] second one that she has was one of the puppies from the litter, /"
+sd,A,"and/CC ,/, uh/UH ,/, the/DT one/CD male/NN that/WDT she/PRP used/VBD had/VBD a/DT tooth/NN problem/NN --/:","{C and, } {F uh, } the one male that she used had a tooth problem -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC so/RB she/PRP only/RB bred/VBD that/DT dog/NN once/RB because/IN it/PRP had/VBD --/:,-- {C and so } she only bred that dog once because it had --
+b,B,"Oh/UH ,/, yes/UH ./.","{F Oh, } yes. /"
++,A,"--/: the/DT tooth/NN problem/NN ,/, and/CC did/VBD them/PRP strictly/RB as/IN ,/, um/UH ,/, pets/NNS ,/, you/PRP know/VBP --/:","-- the tooth problem, and did them strictly as, {F um, } pets, {D you know } --"
+b,B,"Just/RB pets/NNS ,/,","Just pets, /"
++,A,"--/: they/PRP were/VBD n't/RB ,/, were/VBD n't/RB show/NN quality/NN ./.","-- they [ weren't, + weren't ] show quality. /"
+b,B,"Yes/UH ,/,","Yes, /"
+sd,B,"that/DT 's/BES what/WP we/PRP 'd/MD rather/RB have/VB is/VBZ just/RB a/DT pet/NN ,/, instead/IN of/IN --/:","that's what we'd rather have is just a pet, instead of -- -/"
+b,A,"Ri-/UH ,/,","Ri-, -/"
+sd,B,--/: we/PRP used/VBD to/TO show/VB Saint/NNP Bernards/NNPS when/WRB I/PRP was/VBD a/DT little/JJ girl/NN ./.,-- we used to show Saint Bernards when I was a little girl. /
+sd,B,"We/PRP did/VBD that/PDT every/DT weekend/NN ,/,","We did that every weekend, /"
+sv,A,"Oh/UH ,/, but/CC ,/, yeah/UH ,/, takes/VBZ a/DT lot/NN of/IN time/NN ./.","{F Oh, } {C but, } {D yeah, } takes a lot of time. /"
+aa,B,"Yes/UH ,/,","Yes, /"
+sv,B,and/CC it/PRP 's/BES very/RB expensive/JJ ./.,{C and } it's very expensive. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"um/UH ,/, but/CC she/PRP might/MD have/VB some/DT contacts/NNS here/RB ,/,","{F um, } {C but } she might have some contacts here, /"
+sd,A,"I/PRP know/VBP origina-/XX ,/, I/PRP know/VBP that/IN the/DT dog/NN 's/POS grandmother/NN ,/, um/UH ,/, was/VBD from/IN Plano/NNP ,/,","[ I know origina-, + I know ] that the dog's grandmother, {F um, } was from Plano, /"
+sd,B,"Oh/UH ,/, that/DT 's/BES where/WRB I/PRP live/VBP ,/,","{F Oh, } that's where I live, /"
+sd,A,"Oh/UH ,/, that/DT 's/BES where/WRB I/PRP live/VBP ,/, too/RB ./.","{F Oh, } that's where I live, too. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP 'm/VBP at/IN Coit/NNP and/CC Legacy/NNP .../:,I'm at Coit and Legacy ... -/

@@ -1,0 +1,159 @@
+act_tag,speaker,pos,text
+fp,B,"Hi/UH ,/,","Hi, /"
+fp,B,this/DT is/VBZ Donna/NNP Donahue/NNP ./.,this is Donna Donahue. /
+fp,A,"Hi/NNP ,/, Donna/NNP ./.","Hi, Donna. /"
+fp,B,Hi/NN ./.,Hi. /
+qy,A,Ready/JJ to/TO get/VB started/VBN ?/.,Ready to get started? /
+ny,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,B,I/PRP think/VBP so/RB ./.,I think so. /
+"fo_o_fw_""_by_bc",A,Okay/UH ./.,Okay. <beep> /
+sd,A,Sort/RB of/RB an/DT interesting/JJ topic/NN since/IN I/PRP just/RB got/VBD back/RB from/IN lunch/NN here/RB ./.,Sort of an interesting topic since I just got back from lunch here <laughter>. /
+b,B,Okay/UH ./.,Okay. /
+qw,B,"Well/UH ,/, what/WP did/VBD you/PRP have/VB for/IN lunch/NN ?/.","{D Well, } what did you have for lunch? /"
+%,A,"Oh/UH ,/, it/PRP was/VBD ,/, uh/UH ,/, it/PRP was/VBD ,/,","{F Oh, } [ it was, + {F uh, } <laughter> it was, ] - /"
+sd,A,"I/PRP 'm/VBP an/DT officer/NN in/IN the/DT Air/NNP Force/NNP ,/,","I'm an officer in the Air Force, /"
+b,B,Oh/UH ./.,Oh. /
+b,B,Oh/UH ./.,Oh. /
+ba,B,"Well/UH ,/, that/DT 's/BES interesting/JJ ./.","{D Well, } that's interesting. /"
++,A,Yeah/UH ./.,Yeah. /
+b,B,Okay/UH ./.,Okay. /
+sd,B,"So/UH our/PRP$ topic/NN is/VBZ ,/, is/VBZ food/NN today/RB ,/,","{C So } our topic [ is, + is ] food today, /"
+%,B,"is/VBZ that/DT ,/,","is that, -/"
+b,A,Yeah/UH ./.,Yeah. /
+b,B,Okay/UH ./.,Okay. /
+qw,A,"If/IN you/PRP 're/VBP having/VBG a/DT dinner/NN party/NN ,/, what/WP ,/, what/WP would/MD you/PRP serve/VB ?/.","If you're having a dinner party, [ what, + what ] would you serve? /"
+^h,B,"Okay/UH ,/, uh/UH ,/,","Okay, <lipsmack> {F uh, } /"
+qy,B,do/VBP you/PRP want/VB me/PRP to/TO go/VB first/RB ?/.,do you want me to go first? /
+na,A,Sure/UH ./.,Sure. /
+^h,B,Okay/UH ./.,Okay. /
+sd,B,"If/IN I/PRP was/VBD having/VBG a/DT dinner/NN party/NN I/PRP would/MD probably/RB ,/, um/UH ,/, have/VB some/DT ,/, um/UH ,/, some/RB ,/, uh/UH ,/, um/UH ,/, some/DT fruit/NN to/TO start/VB with/IN with/IN some/DT apples/NNS sliced/VBD up/RP and/CC maybe/RB some/DT cheddar/NN cheese/NN and/CC crackers/NNS and/CC grapes/NNS and/CC ,/, um/UH ,/, probably/RB serve/VB maybe/RB some/DT wine/NN and/CC beer/NN and/CC maybe/RB have/VB some/DT ,/, uh/UH ,/, uh/UH ,/, salsa/NN and/CC chips/VBZ around/RB and/CC peanuts/NNS ./.","If I was having a dinner party I would probably, {F um, } have [ [ some, + {F um, } some, ] + {F uh, } {F um, } some ] fruit to start with with some apples sliced up and maybe some cheddar cheese and crackers and grapes and, {F um, } probably serve maybe some wine and beer and maybe have some, {F uh, } {F uh, } salsa and chips around and peanuts. /"
+sd,B,"And/CC then/RB I/PRP would/MD have/VB ,/, um/UH ,/, let/VB 's/PRP see/VB ./. I/PRP usually/RB have/VBP like/UH a/DT little/JJ theme/NN when/WRB I/PRP have/VBP a/DT dinner/NN party/NN","{C And then } [ I would have, + {F um, } let's see. I usually have ] {D like } a little theme when I have a dinner party /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"Um/UH ,/, I/PRP would/MD have/VB maybe/RB ,/, um/UH ,/, say/VB if/IN it/PRP was/VBD like/UH Greek/JJ night/NN or/CC something/NN --/:","{F Um, } I would have maybe, {F um, } say if it was {D like } Greek night or something -- *[[sd]]"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: um/UH ,/, maybe/RB ,/, um/UH ,/, on/IN the/DT barbecue/NN we/PRP 'd/MD put/VB ,/, uh/UH ,/, cubes/NNS of/IN lamb/NN or/CC I/PRP guess/VBP lamb/NN used/VBN for/IN Greek/JJ ./. And/CC ,/, um/UH ,/, like/IN a/DT shish/FW kabob/FW ,/,","-- {F um, } maybe, {F um, } <lipsmack> on the barbecue we'd put, {F uh, } cubes of lamb or I guess lamb used for Greek. And, {F um, } {D like } a shish kabob,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"and/CC ,/, um/UH ,/, mushrooms/NNS and/CC tomatoes/NNS and/CC onions/NNS","and, {F um, } mushrooms and tomatoes and onions /"
+sd,B,"and/CC then/RB we/PRP 'd/MD have/VB ,/, um/UH ,/, like/IN a/DT big/JJ Greek/NN tossed/VBN salad/NN kind/RB of/RB like/IN a/DT Caesar/NNP salad/NN ./.","{C and then } we'd have, {F um, } <lipsmack> {D like } a big Greek tossed salad kind of like a Caesar salad. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+t1,B,"And/CC ,/, um/UH ,/, let/VB 's/PRP see/VB what/WP else/RB ./.","{C And, } {F um, } let's see what else. /"
+sd,B,"Um/UH ,/, maybe/RB some/DT rolls/NNS and/CC ,/, um/UH ,/, I/PRP guess/VBP some/DT ,/, uh/UH ,/, some/DT rice/NN or/CC something/NN like/IN that/DT ./.","{F Um, } maybe some rolls and, {F um, } I guess some, {F uh, } some rice or something like that. /"
+qw,B,How/WRB does/VBZ that/DT sound/NN ?/. ./.,How does that sound? <laughter>. /
+ba,A,"Jeez/UH ,/,","Jeez, /"
+qh,A,"well/UH ,/, well/UH ,/, when/WRB is/VBZ the/DT party/NN here/RB ?/. ./.","[ {D well, } + {D well, } ] when is the party here? <laughter>. /"
+b,B,Yeah/UH ./.,Yeah. /
+%,B,"Um/UH ,/, yeah/UH ,/,","<laughter> {F Um, } yeah, /"
+sd,B,that/DT would/MD take/VB some/DT planning/NN,that would take some planning /
+%,B,"but/CC ,/,","{C but, } -/"
+h,A,I/PRP do/VBP n't/RB know/VB,I don't know /
+sd,A,"being/VBG a/DT ,/, being/VBG the/DT bachelor/NN here/RB that/IN I/PRP am/VBP ,/, I/PRP ,/, I/PRP do/VBP n't/RB think/VB I/PRP 'd/MD ,/, I/PRP 'd/MD be/VB a-/XX ,/, b-/XX ,/,","[ being a, + being ] the bachelor here that I am, [ I, + I ] don't think [ I'd, + I'd ] [ be a-, + b-, ] - /"
+sd,A,"I/PRP mean/VBP it/PRP ,/, it/PRP 's/BES not/RB a/DT question/NN of/IN capability/NN here/RB to/TO do/VB something/NN like/IN that/DT ./.","{E I mean } [ it, + it's ] not a question of capability here to do something like that. /"
+sd,A,"It/PRP 's/BES just/RB there/EX 's/BES ,/, there/EX 's/BES no/DT motivation/NN ./.","It's just [ there's, + there's ] no motivation. /"
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
+sd,A,"You/PRP know/VBP ,/, I/PRP want/VBP to/TO ,/, I/PRP want/VBP to/TO throw/VB some/DT charcoal/NN on/IN the/DT grill/NN and/CC ,/, and/CC throw/VB a/DT steak/NN on/IN there/RB and/CC some/DT baked/VBN potatoes/NNS and/CC stuff/NN like/IN that/DT","{D You know, } [ I want to, + I want to ] throw some charcoal on the grill [ and, + and ] throw a steak on there and some baked potatoes and stuff like that /"
+%,A,"but/CC ,/, um/UH ,/,","{C but, } {F um, } -/"
+ba,B,"Well/UH ,/, that/WDT sounds/VBZ good/JJ too/RB ./.","{D Well, } that sounds good too. /"
+sd,B,"I/PRP have/VBP ,/, um/UH ,/, I/PRP have/VBP three/CD kids/NNS --/:","[ I have, + {F um, } I have ] three kids -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: so/UH ,/, um/UH ,/, when/WRB we/PRP have/VBP friends/NNS over/RB I/PRP have/VBP my/PRP$ oldest/JJS kind/NN of/IN baby-sit/NN for/IN the/DT little/JJ two/CD younger/JJR ones/NNS upstairs/NN","-- {C so, } {F um, } when we have friends over I have my oldest kind of baby-sit for the little two younger ones upstairs /"
+sd,B,"and/CC ,/, um/UH ,/, usually/RB we/PRP just/RB have/VBP very/RB plain/JJ kind/RB of/RB ,/, you/PRP know/VBP ,/, interesting/JJ ,/, not/RB very/RB interesting/JJ meals/NNS ./.","{C and, } {F um, } usually we just have very plain kind of, {D you know, } [ interesting, + not very interesting ] meals."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,Pizza/NN and/CC that/IN all/DT,Pizza and that (( all /
+sd,B,"so/RB once/RB in/IN a/DT while/NN when/WRB we/PRP do/VBP something/NN like/IN that/IN it/PRP 's/BES kind/RB of/RB fun/JJ ,/,","{C so } )) once in a while when we do something like that it's kind of fun, /"
+sd,B,"but/CC it/PRP 's/BES not/RB a/DT ,/,","{C but } it's [ not a, +"
+b,A,Yeah/UH ./.,Yeah. /
++,B,not/RB a/DT regular/JJ thing/NN ./.,not a ] regular thing. <laughter> /
+b,A,Yeah/UH ./.,Yeah. /
++,B,"Now/RB are/VBP we/PRP supposed/VBN to/TO talk/VB for/IN about/IN five/CD minutes/NNS ,/,","{D Now } are we supposed to talk for about five minutes, /"
+qy,B,it/PRP ?/.,it?
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"that/DT 's/BES what/WP they/PRP ,/,","that's what [ they, +"
++,A,they/PRP are/VBP shooting/VBG for/IN here/RB ./.,they ] are shooting for here. /
+bk,B,Okay/UH ./.,Okay. /
+^h,B,"Um/UH ,/, let/VB 's/PRP see/VB now/RB","{F Um, } let's see now /"
+%,B,"wh-/XX ,/,","wh-, - /"
+%,B,"okay/JJ ,/,","okay, /"
+qy,B,"so/RB you/PRP would/MD have/VB a/DT barbecue/NN wouldn-/XX ,/,","{D so } you would have a barbecue wouldn-, -/"
+no,A,"Well/UH ,/, I/PRP live/VBP on/IN a/DT ,/, I/PRP live/VBP on/IN a/DT lake/NN here/RB ,/,","{D Well, } [ I live on a, + I live on a ] lake here, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"and/CC ,/, uh/UH ,/, so/RB it/PRP ,/,","[ {C and, } + {F uh, } {C so } ] it, - /"
+sd,A,"and/CC then/RB during/IN the/DT summertime/NN it/PRP 's/BES real/RB nice/JJ to/TO be/VB able/JJ to/TO entertain/VB outdoors/RB ,/,","{C and then } during the summertime it's real nice to be able to entertain outdoors, /"
+ba,B,"Oh/UH ,/, sure/UH ./.","{F Oh, } sure. /"
+sd,A,like/IN that/DT 's/BES a/DT little/RB more/RBR a/DT casual/JJ thing/NN ./.,{D like } that's a little more a casual thing. /
+sd,A,"But/CC in/IN mine/NN the/DT wintertime/NN it/PRP 's/BES not/RB bad/JJ too/RB because/IN then/RB I/PRP 've/VBP got/VBN a/DT ,/, a/DT fireplace/NN and/CC a/DT nice/JJ ,/, nice/JJ house/NN and/CC all/PDT that/DT","{C But } in [ (( mine )) + ] the wintertime it's not bad too because then I've got [ a, + a ] fireplace and a nice, nice house and all that /"
+sd,A,"so/RB we/PRP ,/,","{C so } we,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ba,B,"Oh/UH ,/, that/WDT sounds/VBZ wonderful/JJ ./.","{F Oh, } that sounds wonderful. /"
++,A,really/RB good/JJ place/NN to/TO do/VB entertaining/JJ like/IN that/DT ./.,really good place to do entertaining like that. - /
+sd,A,"I/PRP just/RB have/VBP n't/RB ,/, uh/UH ,/, really/RB tried/VBN a/DT whole/JJ lot/NN","I just haven't, {F uh, } really tried a whole lot /"
+h,A,"but/CC ,/, uh/UH --/:","{C but, } {F uh } --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: I/PRP do/VBP n't/RB know/VB ,/,","-- I don't know, /"
+^h,A,let/VB 's/PRP see/VB ./.,let's see. /
+sd,A,"I/PRP have/VBP had/VBN ,/, well/UH ,/, one/CD time/NN I/PRP did/VBD have/VB a/DT dinner/NN party/NN ./.","[ I have had, + {D well, } one time I did have ] a dinner party. /"
+%,A,"I/PRP served/VBD a/DT ,/, uh/UH ,/, uh/UH ,/,","I served a, {F uh, } {F uh, } - /"
+sd,A,"I/PRP had/VBD a/DT gang/NN of/IN people/NNS over/RB and/CC kind/RB of/RB made/VBD a/DT fried/JJ chicken/NN thing/NN and/CC biscuits/NNS ,/,","I had a gang of people over and kind of made a fried chicken thing and biscuits,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"and/CC kind/RB of/RB southern/JJ ,/, uh/UH ,/, southern/JJ food/NN even/RB though/IN I/PRP 'm/VBP up/IN here/RB in/IN New/NNP York/NNP ,/,","and kind of [ southern, + {F uh, } southern ] food even though I'm up here in New York, /"
+%,A,so/RB ./.,{C so } <laughter>. -/
+qy^d,B,"Oh/UH ,/, you/PRP are/VBP in/IN New/NNP York/NNP right/RB now/RB ?/.","{F Oh, } you are in New York right now? /"
+ny,A,Yeah/UH ./.,Yeah. /
+b,B,Oh/UH ./.,Oh. /
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP in/IN Texas/NNP ./.","[ I'm, + I'm ] in Texas. /"
+sd,B,"I/PRP did/VBD n't/RB know/VB this/DT was/VBD all/DT ,/, from/IN all/DT over/IN the/DT whole/JJ country/NN ./.","I didn't know this was [ all, + from all ] over the whole country. /"
+aa,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+bk,B,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+sd,A,it/PRP is/VBZ ./.,it is. /
+%,A,"It/PRP 's/BES ,/,","It's, -/"
+sd,B,"And/CC I/PRP 'm/VBP fr-/IN ,/, originally/RB from/IN Long/NNP Island/NNP ./.","{C And } I'm [ fr-, + originally from ] Long Island. /"
+qy,A,"Oh/UH ,/, no/DT kidding/NN ?/.","{F Oh, } no kidding? /"
+ny,B,"Yes/UH ,/,","Yes, /"
+qw,B,and/CC now/RB where/WRB are/VBP you/PRP in/IN New/NNP York/NNP ?/.,{C and } {D now } where are you in New York? /
+sd,A,Upstate/RB ./.,Upstate. /
+b^m,B,"Oh/UH ,/, upstate/RB ./.","{F Oh, } upstate. /"
+sd,A,Rome/NNP ./.,Rome. /
+sd,A,"In/IN ,/, uh/UH ,/,","In, {F uh, }"
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
++,A,Griffins/NNP Air/NNP Force/NNP Base/NNP ./.,(( Griffins )) Air Force Base. /
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+qy,B,"Is/VBZ that/DT where/WRB you/PRP ,/, you/PRP are/VBP originally/RB from/IN around/IN there/RB ?/.","Is that where [ you, + you ] are originally from around there? /"
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,A,"and/CC ,/, uh/UH ,/, been/VBN all/DT over/IN the/DT place/NN ./.","{C and, } {F uh, } been all over the place. /"
+ba,B,"Oh/UH ,/, wow/UH ./.","{F Oh, } wow. /"
+ba,B,That/DT 's/BES interesting/JJ ./.,That's interesting. /
+^h,B,"Okay/UH ,/,","Okay, /"
+^h,B,let/VB 's/PRP see/VB ./.,let's see. /
+sd,B,"Um/UH ,/, well/UH ,/, I/PRP like/VBP to/TO have/VB ,/, um/UH ,/, sometimes/RB when/WRB I/PRP have/VBP a/DT dinner/NN party/NN I/PRP 'll/MD have/VBP ,/, um/UH ,/, everybody/NN bring/VB something/NN ,/,","{F Um, } {D well, } [ I like to have, + {F um, } sometimes when I have a dinner party I'll have, ] {F um, } everybody bring something, /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"and/CC that/DT 's/BES real/RB interesting/JJ because/IN then/RB you/PRP get/VBP different/JJ ,/, um/UH ,/, different/JJ kinds/NNS of/IN foods/NNS and/CC new/JJ recipes/NNS","{C and } that's real interesting because then you get [ different, + {F um, } different ] kinds of foods and new recipes /"
+sd,B,"and/CC ,/, um/UH ,/, uh/UH ,/, sometimes/RB somebody/NN will/MD be/VB bring/VB something/NN that/IN you/PRP really/RB like/VBP ,/,","{C and, } {F um, } {F uh, } sometimes somebody will be bring something that you really like, /"
+b,A,Right/UH ./.,Right. /
+sd,B,and/CC get/VB the/DT recipe/NN from/IN them/PRP or/CC whatever/WDT ./.,{C and } get the recipe from them or whatever. /
+sd,B,"And/CC we/PRP are/VBP just/RB getting/VBG interested/JJ in/IN ,/, in/IN Mexican/JJ food/NN","{C And } we are just getting interested [ in, + in ] Mexican food /"
+sd,B,"because/IN here/RB in/IN Texas/NNP they/PRP have/VBP lots/NNS of/IN ,/,","{C because } here in Texas they have lots of,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,really/RB good/JJ Mexican/JJ restaurants/NNS,really good Mexican restaurants /
+sd,B,"and/CC ,/,","{C and, }"
+ba,A,Sure/UH ./.,Sure. /
++,B,"um/UH ,/, we/PRP 're/VBP ,/, we/PRP 're/VBP just/RB getting/VBG into/IN the/DT fajitas/NNS and/CC all/PDT that/DT stuff/NN that/WDT you/PRP could/MD ,/,","{F um, } [ we're, + we're ] just getting into the fajitas and all that stuff that you could, - /"
+qy,B,do/VB you/PRP know/VBP what/WP a/DT fajita/NN is/VBZ ?/.,do you know what a fajita is? /
+ny,A,Yeah/UH ./.,Yeah. /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP 've/VBP been/VBN down/RB to/IN Texas/NNP a/DT few/JJ times/NNS ,/,","I've been down to Texas a few times,"
+bk,B,Okay/UH ./.,Okay. /
++,A,"and/CC ,/, uh/UH ,/, had/VBD ,/, uh/UH ,/, the/DT pleasure/NN of/IN their/PRP$ good/JJ Mexican/JJ ,/,","and, {F uh, } had, {F uh, } the pleasure of their good Mexican,"
+b,B,Yes/UH ./.,Yes. /
++,A,cuisine/NN down/IN there/RB ./.,cuisine down there. /
+sv,B,"They/PRP have/VBP some/DT delicious/JJ ,/, delicious/JJ things/NNS ,/,","They have some delicious, delicious things, /"
+%,B,"and/CC I/PRP ,/, um/UH ,/,","{C and } I, {F um, } - /"
+sd,B,since/IN I/PRP always/RB make/VB chicken/NN burritos/NNS and/CC just/RB --/:,since I always make chicken burritos and just --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: take/VB chicken/NN breasts/NNS,-- take chicken breasts /
+sd,B,"and/CC you/PRP boil/VBP them/PRP ,/, maybe/RB like/IN four/CD chicken/NN breasts/NNS ,/,","{C and } you boil them, maybe like four chicken breasts, /"
+sd,B,and/CC you/PRP boil/VBP them/PRP until/IN they/PRP are/VBP cooked/VBN ./.,{C and } you boil them until they are cooked.
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,Maybe/RB like/IN thirty/CD minutes/NNS,Maybe like thirty minutes /
+sd,B,"and/CC then/RB you/PRP debone/NN them/PRP and/CC ,/, and/CC kind/RB of/RB shred/VB them/PRP up/RP into/IN the/DT meat/NN that/WDT has/VBZ gotten/VBN cooled/VBN","{C and } then you debone them [ and, + and ] kind of shred them up into the meat (( that has gotten )) cooled /"
+sd,B,"and/CC you/PRP take/VBP ,/, um/UH ,/, s-/XX ,/, little/JJ bit/NN ,/, maybe/RB two/CD tablespoons/NNS of/IN butter/NN and/CC a/DT fr/JJ ,/, in/IN a/DT big/JJ frying/JJ pan/NN ./. And/CC chop/VB up/RP some/DT onion/NN and/CC put/VBD in/IN oregano/NN and/CC salt/NN ,/,","{C and } you take, {F um, } [ s-, + ] little bit, maybe two tablespoons of butter [ and a fr-, + ] in a big frying pan. And chop up some onion and put in oregano and salt, /"

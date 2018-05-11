@@ -1,0 +1,100 @@
+act_tag,speaker,pos,text
+sv,B,"Well/UH ,/, uh/UH ,/, I/PRP myself/PRP am/VBP not/RB in/IN favor/NN of/IN drug/NN testing/NN in/IN the/DT work/NN place/NN except/IN in/IN ,/, in/IN specific/NN ,/, uh/UH ,/, very/JJ specific/NN in/IN this/DT ,/, uh/UH ,/, very/JJ specific/NN examples/NNS such/IN as/IN ,/, uh/UH ,/, transportation/NN workers/NNS ,/, as/IN in/IN ,/, uh/UH ,/, air/NN traffic/NN controllers/NNS ,/, bus/NN drivers/NNS and/CC that/DT kind/NN of/IN thing/NN ./.","{D Well, } {F uh, } I myself am not in favor of drug testing in the work place except [ [ in, + in [ specific, + {F uh, } very specific ] ] + in this, {F uh, } very specific ] examples such as, {F uh, } transportation workers, as in, {F uh, } air traffic controllers, bus drivers and that kind of thing. /"
+arp_nd,A,Well/UH ./.,{D Well. } -/
+sv,B,"Um/UH ,/, I/PRP do/VBP n't/RB really/RB think/VB that/IN it/PRP 's/BES ,/, uh/UH ,/, too/RB many/JJ ,/,","{F Um, } I don't really <breathing> think that it's, {F uh, } too many, /"
+sv,B,"I/PRP think/VBP it/PRP 's/BES a/DT severe/JJ invasion/NN of/IN somebody/NN 's/POS privacy/NN to/TO say/VB ,/, well/UH ,/, we/PRP 're/VBP going/VBG to/TO look/VB at/IN your/PRP$ urine/NN and/CC then/RB decide/VB whether/IN you/PRP 're/VBP ,/, uh/UH ,/, you/PRP know/VBP ,/, worthy/JJ of/IN working/VBG for/IN us/PRP ./.","I think it's a severe invasion of somebody's privacy to say, {D well, } we're going to look at your urine and then decide whether you're, {F uh, } {D you know, } worthy of working for us. /"
+sv,B,"I/PRP really/RB do/VBP n't/RB see/VB that/IN that/DT 's/BES a/DT very/RB ,/, very/RB valid/JJ ,/, uh/UH ,/, thing/NN for/IN a/DT company/NN to/TO say/VB ,/,","I really don't see that that's a [ very, + very ] valid, {F uh, } thing for a company to say, /"
+sv,B,"and/CC I/PRP ,/, personally/RB ,/, I/PRP do/VBP n't/RB think/VB I/PRP would/MD work/VB for/IN somebody/NN if/IN they/PRP were/VBD going/VBG to/TO reject/VB me/PRP on/IN the/DT basis/NN of/IN what/WP 's/BES inside/IN my/PRP$ body/NN ./.","{C and } [ I, + personally, I ] don't think I would work for somebody if they were going to reject me on the basis of what's inside my body. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"uh/UH ,/, I/PRP guess/VBP I/PRP basically/RB agree/VBP that/IN ,/, uh/UH ,/,","{F uh, } I guess I basically agree that, {F uh, } - /"
+qy,A,do/VBP you/PRP think/VB it/PRP 's/BES okay/JJ for/IN a/DT company/NN to/TO reject/VB somebody/NN knowing/VBG that/IN they/PRP 'll/MD take/VB drugs/NNS ?/.,do you think it's okay for a company to reject somebody knowing that they'll take drugs? /
+qy^d,A,I/PRP mean/VBP suppose/VB they/PRP found/VBD out/RP some/DT other/JJ way/NN ?/.,{E I mean } suppose they found out some other way? /
+sv,B,"Well/UH ,/, I/PRP think/VBP ,/, I/PRP think/VBP we/PRP ,/, I/PRP think/VBP the/DT problem/NN here/RB is/VBZ ,/, is/VBZ that/IN a/DT ,/, a/DT drug/NN test/NN does/VBZ not/RB necessarily/RB imply/VB that/IN someone/NN is/VBZ taking/VBG drugs/NNS or/CC not/RB taking/VBG drugs/NNS ./.","{D Well, } [ [ I think, + I think ] + [ we, + I ] think ] the problem here [ is, + is ] that [ a, + a ] drug test does not necessarily imply that someone is taking drugs or not taking drugs. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"There/EX 's/BES too/RB many/JJ cases/NNS where/WRB it/PRP can/MD ,/, you/PRP know/VBP ,/,","There's too many cases where it can, {D you know, } - /"
+sv,B,"there/EX can/MD be/VB false/JJ positive/JJ results/NNS ,/, and/CC that/DT ,/, that/DT sort/NN of/IN thing/NN ./.","there can be false positive results, and [ that, + that ] sort of thing. /"
+sv,B,"I/PRP do/VBP n't/RB think/VB there/EX 's/BES any/DT definitive/JJ ,/, you/PRP know/VBP ,/,","I don't think there's any definitive, {D you know, } - /"
+^q,B,"okay/UH this/DT person/NN is/VBZ taking/VBG drugs/NNS ,/,","okay this person is taking drugs, /"
+^q,B,so/RB we/PRP do/VBP n't/RB want/VB him/PRP here/RB ./.,{C so } we don't want him here. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Uh/UH ,/, like/IN I/PRP said/VBD ,/, some/DT industries/NNS ,/, though/RB ,/, I/PRP think/VBP it/PRP 'd/MD be/VB very/RB necessary/JJ ,/,","{F Uh, } like I said, some industries, though, I think it'd be very necessary, /"
+sd,B,I/PRP would/MD n't/RB want/VB any/DT air/NN traffic/NN controllers/NNS high/JJ or/CC anything/NN like/IN that/DT when/WRB I/PRP 'm/VBP flying/VBG in/IN an/DT airplane/NN ./.,I wouldn't want any air traffic controllers high or anything like that when I'm flying in an airplane. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"But/CC ,/, uh/UH ,/, I/PRP ,/, I/PRP just/RB ,/, I/PRP find/VBP it/PRP to/TO be/VB pretty/RB offensive/JJ that/IN ,/, that/IN it/PRP 's/BES such/PDT a/DT ,/, a/DT big/JJ deal/NN ./.","{C But, } {F uh, } [ [ I, + I just, ] + I ] find it to be pretty offensive [ that, + that ] it's such [ a, + a ] big deal. /"
+sd,B,"I/PRP mean/VBP ,/, if/IN your/PRP$ employer/NN 's/BES not/RB going/VBG to/TO trust/VB you/PRP","{E I mean, } if your employer's not going to trust you /"
+%,B,"or/CC ,/, you/PRP know/VBP ,/, it/PRP ,/,","{C or, } {D you know, } it, - /"
+sv,B,"I/PRP just/RB ,/, I/PRP think/VBP it/PRP 's/BES a/DT whole/JJ trust/NN issue/NN ./.","[ I just, + I ] think it's a whole trust issue. /"
+sv,B,I/PRP just/RB ca/MD n't/RB see/VB it/PRP ./.,I just can't see it. /
+qy,A,"But/CC ,/, have/VBP you/PRP ever/RB been/VBN in/IN a/DT situation/NN where/WRB you/PRP ,/, you/PRP were/VBD drug/NN tested/VBN","{C But, } have you ever been in a situation where [ you, + you ] were drug tested /"
+%,A,"or/CC ,/,","{C or, } -/"
+ny,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,B,I/PRP have/VBP been/VBN ./.,I have been. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP ./.,[ I. +
+sd,A,"I/PRP once/RB too/RB ,/,","I once too, /"
+%,A,so/RB ./.,{D so. } -/
++,B,"I/PRP mean/VBP ,/, I/PRP was/VBD very/RB offended/JJ by/IN ,/, by/IN the/DT whole/JJ process/NN ./.","{E I mean, } I ] was very offended [ by, + by ] the whole process. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"I/PRP mean/VBP it/PRP 's/BES very/RB humiliating/JJ ,/,","{E I mean } it's very humiliating, /"
+sd,B,"and/CC ,/, I/PRP mean/VBP ,/, I/PRP 'm/VBP not/RB speaking/VBG in/IN favor/NN of/IN drugs/NNS or/CC against/IN drugs/NNS ,/,","{C and, } {E I mean, } I'm not speaking in favor of drugs or against drugs, /"
+sv,B,"but/CC I/PRP ,/, uh/UH ,/, I/PRP am/VBP totally/RB against/IN that/DT sort/NN of/IN a/DT ,/, uh/UH ,/,","{C but } [ I, + {F uh, } I ] am totally against that sort of a, {F uh, } <noise> - /"
+sv,B,"I/PRP mean/VBP it/PRP 's/BES ,/, it/PRP 's/BES a/DT pretty/RB personal/JJ thing/NN when/WRB somebody/NN says/VBZ I/PRP want/VBP to/TO look/VB at/IN your/PRP$ urine/NN before/IN I/PRP 'm/VBP going/VBG to/TO talk/VB to/IN you/PRP ./.","{E I mean } [ it's, + it's ] a pretty personal thing when somebody says I want to look at your urine before I'm going to talk to you. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP had/VBD it/PRP during/IN a/DT job/NN interview/NN ,/,","I had it during a job interview, /"
+sv,A,"and/CC I/PRP just/RB thought/VBD it/PRP was/VBD dumb/JJ of/IN the/DT company/NN ,/, at/IN a/DT point/NN where/WRB they/PRP were/VBD trying/VBG to/TO convince/VB me/PRP to/TO ,/, to/TO want/VB to/TO work/VB for/IN them/PRP --/:","{C and } I just thought it was dumb of the company, at a point where they were trying to convince me [ to, + to ] want to work for them --"
+b,B,Right/UH ./.,Right. /
++,A,"--/: to/TO do/VB this/DT ,/,","-- to do this, /"
+sd,A,"and/CC I/PRP 'm/VBP just/RB like/IN ,/, well/UH ,/, uh/UH ,/, I/PRP 'm/VBP not/RB even/RB going/VBG to/TO think/VB much/RB about/IN it/PRP --/:","{C and } I'm just like, {D well, } {F uh, } <laughter> I'm not even going to think much about it --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: if/IN you/PRP 're/VBP going/VBG to/TO treat/VB me/PRP with/IN this/DT much/JJ respect/NN even/RB before/IN --/:,-- if you're going to treat me with this much respect even before --
+b,B,Right/UH ./.,Right. /
++,A,--/: you/PRP 've/VBP gotten/VBN to/TO know/VB me/PRP ./.,-- you've gotten to know me. /
+b,B,Right/UH ./.,Right. /
+sd,B,"That/DT 's/BES ,/, that/DT 's/BES basically/RB my/PRP$ opinion/NN on/IN it/PRP ,/, right/RB there/RB ,/, is/VBZ that/IN it/PRP 's/BES just/RB ,/, you/PRP know/VBP ,/,","[ That's, + that's ] basically my opinion on it, right there, is that it's just, {D you know, } - /"
+sd,B,"I/PRP did/VBD ,/, I/PRP ,/, I/PRP was/VBD in/IN the/DT same/JJ sort/NN of/IN situation/NN as/IN ,/,","[ I did, + [ I, + I ] was ] in the same sort of situation as, - /"
+sd,B,it/PRP was/VBD a/DT job/NN interview/NN,it was a job interview /
+sd,B,"and/CC then/RB you/PRP had/VBD a/DT physical/NN ,/, where/WRB you/PRP were/VBD drug/NN tested/VBN ,/,","{C and then } you had a physical, where you were drug tested, /"
+%,B,"and/CC it/PRP 's/BES ,/,","{C and } it's, - /"
+%,B,"I/PRP just/RB ,/,","I just, - /"
+sd,B,"and/CC I/PRP know/VBP people/NNS who/WP have/VB been/VBN drug/NN tested/VBN and/CC who/WP have/VBP not/RB ,/, you/PRP know/VBP ,/, been/VBN hired/VBN by/IN a/DT corporation/NN which/WDT ,/, uh/UH ,/, you/PRP know/VBP ,/,","{C and } I know people who have been drug tested and who have not, {D you know, } been hired by a corporation which, {F uh, } {D you know, } - /"
+%,B,I/PRP really/RB ./.,I really. - /
+sv,B,"The/DT other/JJ side/NN of/IN it/PRP is/VBZ ,/, is/VBZ ,/, besides/IN its/PRP$ being/VBG an/DT invasion/NN of/IN personal/NN privacy/NN ,/, as/IN in/IN my/PRP$ ,/, it/PRP 's/BES my/PRP$ bodily/JJ fluid/NN","The other side of it [ is, + is, ] besides its being an invasion of personal privacy, [ as in my, + ] it's my bodily fluid /"
+sd,B,"and/CC I/PRP do/VBP n't/RB really/RB want/VB you/PRP to/TO look/VB at/IN it/PRP ,/, or/CC --/:","{C and } I don't really want you to look at it, [ or -- +"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: or/CC something/NN pretty/RB basic/JJ like/IN that/DT ,/,","-- or ] something pretty basic like that, /"
+sv,B,just/RB to/IN the/DT fact/NN that/IN I/PRP do/VBP n't/RB know/VB that/IN it/PRP is/VBZ a/DT company/NN 's/POS business/NN to/TO regulate/VB what/WP its/PRP$ employees/NNS are/VBP doing/VBG when/WRB they/PRP 're/VBP not/RB at/IN work/NN ./.,just to the fact that I don't know that it is a company's business to regulate what its employees are doing when they're not at work. /
+sv,B,"I/PRP mean/VBP ,/, during/IN the/DT eight/CD hours/NNS ,/, during/IN the/DT day/NN ,/, when/WRB they/PRP 're/VBP supposed/VBN to/TO be/VB there/RB ,/, I/PRP think/VBP they/PRP have/VBP every/DT right/NN to/TO say/VB this/DT is/VBZ ,/, these/DT behaviors/NNS are/VBP acceptable/JJ and/CC these/DT are/VBP not/RB ,/,","I mean, during the eight hours, during the day, when they're supposed to be there, I think they have every right to say [ this is, + these behaviors ] are acceptable and these are not, /"
+sv,B,"but/CC when/WRB it/PRP enters/VBZ into/IN what/WP they/PRP 're/VBP doing/VBG when/WRB they/PRP 're/VBP not/RB at/IN work/NN ,/, I/PRP find/VBP that/DT to/TO be/VB fairly/RB offensive/JJ also/RB ./.","{C but } when it enters into what they're doing when they're not at work, I find that to be fairly offensive also. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"well/UH like/IN you/PRP say/VBP ,/, I/PRP mean/VBP ,/, if/IN it/PRP 's/BES not/RB a/DT critical/JJ kind/NN of/IN job/NN where/WRB someone/NN could/MD get/VB hurt/JJ ,/, then/RB really/RB what/WP people/NNS ought/MD to/TO be/VB doing/VBG ,/, I/PRP mean/VBP ,/, the/DT ,/, the/DT employer/NN ought/MD to/TO be/VB judging/VBG you/PRP on/IN how/WRB well/RB you/PRP do/VBP your/PRP$ work/NN --/:","{D well } like you say, {E I mean, } if it's not a critical kind of job where someone could get hurt, then really [ what people ought to be doing, + {E I mean, } [ the, + the ] employer ought to be judging ] you on how well you do your work --"
+b,B,Right/UH ./.,Right. /
++,A,--/: rather/IN than/IN on/IN these/DT other/JJ factors/NNS ./.,-- rather than on these other factors. /
+b,B,Right/UH ./.,Right. /
+sv,A,"And/CC ,/, I/PRP mean/VBP ,/, if/IN you/PRP are/VBP doing/VBG drugs/NNS and/CC it/PRP 's/BES causing/VBG a/DT problem/NN ,/, then/RB they/PRP 'll/MD notice/VB it/PRP for/IN other/JJ reasons/NNS ./.","{C And, } {E I mean, } if you are doing drugs and it's causing a problem, then they'll notice it for other reasons. /"
+aa,B,That/DT 's/BES exactly/RB right/JJ ./.,That's exactly right. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"And/CC also/RB I/PRP just/RB think/VBP it/PRP ,/, it/PRP gets/VBZ a/DT lot/NN ,/,","{C And } also I just think [ it, + it ] gets a lot, - /"
+sd,B,"I/PRP 'm/VBP a/DT big/JJ ,/, uh/UH ,/, supporter/NN of/IN personal/JJ freedoms/NNS and/CC personal/JJ privacies/NNS ,/,","I'm a big, {F uh, } supporter of personal freedoms and personal privacies, /"
+sv,B,"and/CC I/PRP think/VBP that/IN it/PRP just/RB moves/VBZ down/IN along/IN a/DT line/NN that/WDT ,/, that/WDT I/PRP really/RB would/MD find/VB bad/JJ if/IN ,/, if/IN most/JJS people/NNS went/VBD down/IN that/DT line/NN into/IN regulating/VBG employees/NNS '/POS lives/NNS outside/IN of/IN work/NN ,/, you/PRP know/VBP ,/,","{C and } I think that it just moves down along a line [ that, + that ] I really would find bad [ if, + if ] most people went down that line into regulating employees' lives outside of work, {D you know, } /"
+sd,B,"there/EX 's/BES already/RB talk/NN of/IN people/NNS ,/,","there's already talk of people, - /"
+^q,B,"well/UH ,/, we/PRP 're/VBP not/RB going/VBG to/TO hire/VB you/PRP if/IN you/PRP smoke/VBP ./.","{D well, } we're not going to hire you if you smoke. /"
+x,A,MUMBLEx/XX ./.,(( )).
+sd,B,"Well/UH ,/, you/PRP know/VBP ,/, I/PRP ,/, I/PRP can/MD see/VB how/WRB they/PRP can/MD say/VB in/IN the/DT work/NN place/NN we/PRP ,/, you/PRP do/VBP n't/RB want/VB them/PRP to/TO smoke/VB ,/,","{D Well, } {D you know, } [ I, + I ] can see how they can say in the work place [ we, + you ] don't want them to smoke, /"
+sv,B,"but/CC when/WRB somebody/NN leaves/VBZ work/NN ,/, I/PRP do/VBP n't/RB think/VB that/IN it/PRP 's/BES the/DT employer/NN 's/POS right/NN to/TO regulate/VB their/PRP$ life/NN style/NN at/IN all/DT ./.","{C but } when somebody leaves work, I don't think that it's the employer's right to regulate their life style at all. /"
+qy,A,"Well/UH ,/, do/VBP you/PRP think/VB it/PRP 's/BES ,/, should/MD be/VB illegal/JJ for/IN an/DT employer/NN to/TO do/VB this/DT","{D Well, } do you think it's, should be illegal for an employer to do this /"
+%,A,"or/CC ,/,","{C or, } -/"
+na,B,"Uh/UH ,/, I/PRP really/RB think/VBP it/PRP should/MD be/VB ,/, except/IN as/IN I/PRP 've/VBP mentioned/VBN twice/RB now/RB ,/, in/IN the/DT specified/JJ industries/NNS --/:","{F Uh, } I really think it should be, except as I've mentioned twice now, in the specified industries --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: or/CC ,/, or/CC jobs/NNS ,/, because/IN there/EX are/VBP certain/JJ things/NNS where/WRB it/PRP 's/BES just/RB vital/JJ that/IN a/DT person/NN is/VBZ clear/JJ minded/JJ at/IN all/DT times/NNS ./.","-- [ or, + or ] jobs, because there are certain things where it's just vital that a person is clear minded at all times. /"
+sv,B,"And/CC other/JJ than/IN that/DT I/PRP think/VBP ,/, I/PRP do/VBP not/RB think/VB it/PRP should/MD be/VB allowable/JJ ./.","{C And } other than that [ I think, + I do not think ] it should be allowable. /"
+sv,B,"I/PRP think/VBP it/PRP should/MD be/VB illegal/JJ for/IN them/PRP to/TO ,/, to/TO want/VB to/TO do/VB that/DT ./.","I think it should be illegal for them [ to, + to ] want to do that. /"
+sv,B,"It/PRP should/MD ,/, it/PRP 's/BES kind/RB of/RB the/DT big/JJ brother/NN syndrome/NN ,/,","[ It should, + it's ] kind of the big brother syndrome, <laughter> /"
+%,B,"I/PRP mean/VBP ,/, I/PRP just/RB ,/,","{E I mean, } I just, - /"
+sd,B,anything/NN like/IN that/DT just/JJ kind/RB of/RB scares/VBZ me/PRP ./.,anything like that just kind of scares me. /
+sd,A,"I/PRP tend/VBP to/TO ,/, to/TO view/VB it/PRP ,/,","I tend [ to, + to ] view it, - /"
+sv,A,"even/RB though/IN I/PRP do/VBP n't/RB think/VB I/PRP 'd/MD work/VB for/IN a/DT company/NN that/WDT did/VBD that/DT ,/, I/PRP sort/RB of/RB want/VBP to/TO defend/VB an/DT employer/NN 's/POS rights/NNS as/IN opposed/VBN to/IN an/^CC in-/IN ,/, uh/UH ,/, in/IN addition/NN to/IN an/DT individual/NN 's/POS rights/NNS ,/,","even though I don't think I'd work for a company that did that, I sort of want to defend an employer's rights [ as opposed to an in-, + {F uh, } in addition to an individual's ] rights, /"
+sv,A,"but/CC an/DT employer/NN ,/, really/RB ,/, I/PRP think/VBP ,/, has/VBZ the/DT right/NN to/TO hire/VB someone/NN on/IN any/DT basis/NN they/PRP want/VBP to/TO --/:","{C but } an employer, really, I think, has the right to hire someone on any basis they want to -- /"
+b,B,Right/UH ./.,Right. /
+sv,A,"--/: and/CC if/IN they/PRP say/VBP they/PRP do/VBP n't/RB want/VB smokers/NNS ,/, I/PRP sort/RB of/RB feel/VBP like/IN an/DT employer/NN should/MD have/VB the/DT right/NN to/TO decide/VB whether/IN they/PRP want/VBP to/TO allow/VB that/DT ./.","-- {C and } if they say they don't want smokers, I sort of feel like an employer should have the right to decide whether they want to allow that. /"
+b,B,Right/UH ./.,Right. /
+%,A,"Uh/UH ,/, and/CC I/PRP do/VBP n't/RB really/RB ,/,","{F Uh, } {C and } I don't really, -/"

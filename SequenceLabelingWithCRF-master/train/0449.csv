@@ -1,0 +1,127 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+sd,A,"I/PRP guess/VBP tonight/NN 's/POS subject/NN is/VBZ ,/, uh/UH ,/, woodworking/NN ./.","I guess tonight's subject is, {F uh, } woodworking. /"
+qw,B,What/WP --/:,What --
+qy,A,"Do/VBP you/PRP ,/, uh/UH ,/,","Do you, {F uh, } -/"
++,B,--/: kind/RB of/RB woodworking/NN do/VBP you/PRP do/VB ?/.,-- kind of woodworking do you do? /
+sd,A,"Well/UH ,/, k-/RB ,/, kind/RB of/RB ,/, mainly/RB the/DT woodworking/NN I/PRP 've/VBP done/VBN lately/RB is/VBZ ,/, uh/UH ,/, made/VBN like/UH ,/, uh/UH ,/, for/IN example/NN a/DT little/JJ nativity/NN scene/NN ./.","{D Well, } [ k-, + kind ] of, mainly the woodworking I've done lately is, {F uh, } made {D like, } {F uh, } for example a little nativity scene."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"Uh/UH ,/, not/RB the/DT ,/, uh/UH ,/, the/DT whole/JJ figurines/NNS and/CC so/RB forth/RB ,/, but/CC mainly/RB the/DT stable/NN ,/, put/VBD some/DT shelves/NNS in/RB and/CC ,/, and/CC some/DT odd/JJ stuff/NN around/IN the/DT house/NN","{F Uh, } not [ the, + {F uh, } the ] whole figurines and so forth, but mainly the stable, put some shelves in [ and, + and ] some odd stuff around the house /"
+sd,A,"and/CC so/RB I/PRP ,/, I/PRP enjoy/VBP doing/VBG a/DT little/JJ bit/NN of/IN woodworking/NN","{C and so } [ I, + I ] enjoy doing a little bit of woodworking /"
+sd,A,"and/CC I/PRP do/VBP it/PRP out/IN of/IN hobby/NN more/JJR than/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, something/NN I/PRP have/VBP to/TO do/VB ./.","{C and } I do it out of hobby more than, {F uh, } {D you know, } something I have to do. /"
+qo,A,How/WRB about/IN yourself/PRP ?/.,How about yourself? /
+sd,B,"Uh/UH ,/, well/UH ,/, I/PRP like/VBP to/TO think/VB of/IN it/PRP as/IN a/DT hobby/NN ,/, but/CC I/PRP ,/, I/PRP guess/VBP also/RB ,/, partly/RB out/IN of/IN necessity/NN ./. Just/RB repairing/VBG things/NNS around/IN the/DT house/NN ./.","{F Uh, } {D well, } I like to think of it as a hobby, but [ I, + I ] guess also, partly out of necessity. Just repairing things around the house. /"
+x,A,,<Laughter>.
+sd,B,"Uh/UH ,/, a/DT few/JJ years/NNS ago/RB ,/, uh/UH ,/, we/PRP needed/VBD ,/, uh/UH ,/, they/PRP needed/VBD some/DT book/NN shelves/NNS","{F Uh, } a few years ago, {F uh, } [ we needed, + {F uh, } they needed ] some book shelves /"
+sd,B,and/CC I/PRP kind/RB of/RB drew/VBD up/RP some/DT simple/JJ plans/NNS to/TO make/VB some/DT book/NN shelves/NNS,{C and } I kind of drew up some simple plans to make some book shelves /
+sv,B,"and/CC ,/, uh/UH ,/, it/PRP actually/RB worked/VBD pretty/RB well/RB","{C and, } {F uh, } it actually worked pretty well /"
+sd,B,"and/CC over/IN the/DT years/NNS I/PRP 've/VBP ,/, I/PRP 've/VBP refined/VBN those/DT plans/NNS ./.","{C and } over the years [ I've, + I've ] refined those plans. /"
+sd,B,I/PRP got/VBD myself/PRP a/DT router/NN,I got myself a router /
+sd,B,"and/CC I/PRP 'm/VBP ,/, I/PRP 'm/VBP very/RB good/JJ at/IN making/VBG book/NN shelves/NNS ./.","{C and } [ I'm, + I'm ] very good at making book shelves. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"It/PRP 's/BES ,/, it/PRP 's/BES also/RB a/DT way/NN of/IN relieving/VBG stress/NN ./.","[ It's, + it's ] also a way of relieving stress. /"
+sd,B,"My/PRP$ wife/NN kind/RB of/RB laughs/VBZ ,/,","My wife kind of laughs,"
+x,A,,<Laughter>.
++,B,at/IN me/PRP that/IN anytime/RB I/PRP get/VBP stressed/JJ out/RP I/PRP just/RB go/VBP out/IN in/IN the/DT garage/NN and/CC we/PRP 've/VBP got/VBN more/JJR book/NN shelves/NNS ./.,at me that anytime I get stressed out I just go out in the garage and we've got more book shelves. /
+oo_co_cc,A,"Well/UH ,/, I/PRP 'll/MD have/VB to/TO come/VB and/CC see/VB them/PRP ./.","{D Well, } I'll have to come and see them <laughter>. /"
+sv,A,That/DT sounds/VBZ like/IN a/DT good/JJ idea/NN ./.,That sounds like a good idea. /
+%,A,"I/PRP ,/, you/PRP know/VBP ,/,","I, {D you know, } - /"
+sv,A,"and/CC that/DT 's/BES ,/, that/DT is/VBZ right/JJ ,/,","{C and } [ that's, + that is ] right, /"
+sv,A,it/PRP is/VBZ out/IN of/IN necessity/NN,it is out of necessity /
+sd,A,"because/IN lot/NN of/IN the/DT things/NNS that/WDT ,/, uh/UH ,/, well/UH ,/, we/PRP ca/MD n't/RB be/VB able/JJ to/TO afford/VB ,/,","{C because } lot of the things [ that, + ] {F uh, } {D well, } we can't be able to afford, /"
+sd,A,"but/CC also/RB I/PRP ,/, I/PRP sometimes/RB think/VBP that/IN ,/, uh/UH ,/, I/PRP enjoy/VBP doing/VBG that/DT","{C but } also [ I, + I ] sometimes think that, {F uh, } I enjoy doing that /"
+sd,A,"and/CC I/PRP like/VBP to/TO get/VB out/RB and/CC ,/, and/CC ,/, uh/UH ,/, to/TO work/VB with/IN my/PRP$ hands/NNS","{C and } I like to get out [ and, + and, ] {F uh, } to work with my hands /"
+qy^d,A,"and/CC ,/, uh/UH ,/, sounds/VBZ like/IN you/PRP got/VBD some/DT real/RB nice/JJ tools/NNS ,/, too/RB ./.","{C and, } {F uh, } sounds like you got some real nice tools, too. /"
+qy,A,Do/VBP you/PRP think/VBP you/PRP would/MD be/VB able/JJ to/TO do/VB some/DT more/JJR if/IN you/PRP had/VBD more/JJR tools/NNS and/CC different/JJ tools/NNS ?/.,Do you think you would be able to do some more if you had more tools and different tools? /
+ny,B,"Uh/UH ,/, well/UH ,/, yeah/UH ,/,","{F Uh, } {D well, } yeah, /"
+sd,B,"I/PRP mean/VBP ,/, little/JJ by/IN little/JJ ,/, I/PRP ,/, I/PRP started/VBD out/RP with/IN just/RB basic/JJ hand/NN tools/NNS and/CC kind/RB of/RB added/VBD on/IN to/IN things/NNS ./.","{E I mean, } little by little, [ I, + I ] started out <laughter> with just basic hand tools and kind of added on to things. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Uh/UH ,/, gotten/VBN a/DT ,/, a/DT good/JJ belt/NN sander/NN","{F Uh, } gotten [ a, + a ] good belt sander /"
+sd,B,"and/CC ,/, and/CC ,/, the/DT router/NN ,/, uh/UH ,/, helps/VBZ a/DT lot/NN because/IN you/PRP can/MD make/VB better/JJR joints/NNS with/IN a/DT router/NN ./.","[ {C and, } + {C and, } ] the router, {F uh, } helps a lot because you can make better joints with a router. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"The/DT latest/JJS project/NN that/WDT I/PRP 've/VBP been/VBN working/VBG on/IN and/CC this/DT has/VBZ been/VBN kind/RB of/RB sitting/VBG here/RB for/IN a/DT few/JJ months/NNS is/VBZ a/DT ,/, a/DT cabinet/NN to/TO ,/, to/TO put/VB a/DT T/NN V/NN in/IN ./.","The latest project that I've been working on {A {C and } this has been kind of sitting here for a few months } is [ a, + a ] cabinet [ to, + to ] put a T V in. /"
+bf,A,"Oh/UH ,/, a/DT entertainment/NN type/NN center/NN ?/.","{F Oh, } a entertainment type center? /"
+aa,B,Right/UH ./.,Right. /
+b,A,Oh/UH ./.,Oh. /
+sv,B,"And/CC it/PRP ,/, that/DT 's/BES works/VBZ well/RB because/IN you/PRP can/MD design/VB it/PRP to/TO ,/, to/TO suit/VB whatever/WP equipment/NN you/PRP have/VBP","{C And } it, [ that's + ] works well because you can design it [ to, + to ] suit whatever equipment you have /"
+sd,B,so/RB I/PRP --/:,{C so } I --
+b,A,Right/UH ./.,Right. /
++,B,"--/: designed/VBD a/DT space/NN just/RB the/DT right/JJ size/NN for/IN the/DT T/NN V/NN and/CC then/RB the/DT ,/, the/DT V/NN C/NN R/NN and/CC shelves/NNS on/IN the/DT side/NN for/IN my/PRP$ stereo/NN equipment/NN ./.","-- designed a space just the right size for the T V and then [ the, + the ] V C R and shelves on the side for my stereo equipment. /"
+b,A,"Right/UH ,/,","Right, /"
+b,A,right/UH ./.,right. /
+sd,B,"And/CC ,/, uh/UH ,/, that/DT 's/HVS worked/VBN pretty/RB well/RB ./.","{C And, } {F uh, } that's worked pretty well. /"
+sd,B,"Uh/UH ,/, with/IN ,/, uh/UH ,/, with/IN the/DT router/NN you/PRP can/MD make/VB nice/JJ ,/, uh/UH ,/,","{F Uh, } [ with, + {F uh, } with ] the router you can make nice, {F uh, } <lipsmack> - /"
+sv,B,I/PRP guess/VBP dado/NN joints/NNS is/VBZ what/WP it/PRP 's/BES called/VBN ./.,I guess dado joints is what it's called. /
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,"or/CC yes/UH ,/,","{E or } yes, /"
+%,A,"I/PRP ,/,","I, - /"
+%,A,"yeah/UH ,/,","yeah, /"
+sd,A,I/PRP 'm/VBP --/:,I'm --
+%,B,"Uh/UH ,/,","{F Uh, }"
++,A,--/: aware/JJ of/IN that/DT ./.,-- aware of that. /
++,B,"And/CC it/PRP 's/BES ,/, uh/UH ,/,","{C And } it's, {F uh, } -/"
+sd,A,"And/CC also/RB with/IN a/DT router/NN ,/, you/PRP can/MD ,/, uh/UH ,/, make/VB ornamental/JJ facings/NNS ,/, too/RB better/RBR than/IN a/DT just/RB straight/JJ wood/NN edge/NN ./.","{C And } also with a router, you can, {F uh, } make ornamental facings, too better than a just straight wood edge."
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
++,A,"And/CC ,/,","[ And, +"
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
++,A,"Uh/UH ,/,","{F Uh, }"
+%,B,"So/UH ,/,","{D So, } -/"
++,A,"And/CC ,/, uh/UH ,/, casings/NNS and/CC so/RB forth/RB that/WDT are/VBP ,/, that/WDT are/VBP real/RB nice/JJ ,/,","And, ] {F uh, } casings and so forth [ that are, + that are ] real nice, /"
+sv,A,"so/UH that/DT 's/BES ,/, that/DT 's/BES good/JJ ./.","{C so } [ that's, + that's ] good. /"
+sv,A,That/DT 's/BES good/JJ ./.,That's good. /
+sd,B,But/CC what/WP I/PRP need/VBP next/RB is/VBZ a/DT good/JJ table/NN saw/NN ./.,{C But } what I need next is a good table saw. /
+b,A,Yeah/UH ./.,Yeah <laughter>. /
+sd,B,"And/CC I/PRP ,/, I/PRP debate/VBP whether/IN it/PRP 's/BES better/JJR to/TO get/VB a/DT ,/, uh/UH ,/, just/RB a/DT straight/JJ table/NN saw/NN or/CC to/TO get/VB one/CD of/IN these/DT ,/, uh/UH ,/, rotary/JJ arm/NN saws/NNS ./.","{C And } [ I, + I ] debate whether it's better to get [ a, + {F uh, } just a ] straight table saw or to get one of these, {F uh, } rotary arm saws. /"
+b,A,Oh/UH ./.,{F Oh. } /
+sv,B,"Radial/JJ arm/NN saw/NN is/VBZ ,/, I/PRP guess/VBP ,/, what/WP they/PRP 're/VBP called/VBN ./.","Radial arm saw is, I guess, what they're called. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Uh/UH ,/, it/PRP t-/XX ,/, seems/VBZ to/IN me/PRP the/DT radial/JJ arm/NN saw/NN is/VBZ ,/, is/VBZ better/JJR ,/,","{F Uh, } it [ t-, + seems to ] me the radial arm saw [ is, + is ] better, /"
+sv,B,"well/UH ,/, it/PRP ,/, it/PRP takes/VBZ up/RP less/JJR room/NN ./.","{D well, } [ it, + it ] takes up less room. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP mean/VBP ,/, you/PRP ,/, you/PRP set/VBP the/DT wood/NN down/RP","{E I mean, } [ you, + you ] set the wood down /"
+sd,B,and/CC you/PRP move/VBP the/DT saw/NN ./.,{C and } you move the saw. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Whereas/IN if/IN you/PRP 're/VBP ripping/VBG wood/NN ,/, you/PRP 're/VBP probably/RB better/JJR off/RP with/IN a/DT ,/, a/DT table/NN saw/NN ./.","Whereas if you're ripping wood, you're probably better off with [ a, + a ] table saw. /"
+sv,A,"Well/UH and/CC with/IN a/DT radial/JJ arm/NN saw/NN ,/, if/IN you/PRP do/VBP have/VB a/DT ,/, a/DT big/JJ piece/NN of/IN wood/NN that/WDT you/PRP need/VBP to/TO rip/VB ,/, like/IN you/PRP say/VBP ,/, or/CC cut/VB ,/, you/PRP would/MD n't/RB be/VB able/JJ to/TO do/VB that/DT ./.","{D Well } {C and } with a radial arm saw, if you do have [ a, + a ] big piece of wood that you need to rip, like you say, or cut, you wouldn't be able to do that. /"
+%,A,"Uh/UH ,/, but/CC ,/, uh/UH ,/, yeah/UH ,/,","{F Uh, } {C but, } {F uh, } yeah, /"
+sv,A,"a/DT table/NN saw/NN does/VBZ take/VB a/DT lot/NN of/IN time/NN ,/, excuse/VB me/PRP a/DT lot/NN of/IN space/NN and/CC is/VBZ a/DT pretty/RB big/JJ investment/NN ./.","a table saw does take [ a lot of time, + {E excuse me } a lot of space ] and is a pretty big investment. /"
+aa,B,Yeah/UH ./.,Yeah. /
+%,A,"And/CC ,/,","{C And, } -/"
+sd,B,"Uh/UH ,/, that/DT ,/, that/DT 's/BES partly/RB my/PRP$ problem/NN now/RB ./.","{F Uh, } [ that, + that's ] partly my problem now. /"
+sd,B,I/PRP do/VBP n't/RB have/VB room/NN for/IN this/DT ./.,I don't have room for this. /
+%,B,"I/PRP ,/, uh/UH ,/, I/PRP ,/,","[ I, + {F uh, } I, ] - /"
+sd,B,"where/WRB ,/, uh/UH ,/, where/WRB we/PRP lived/VBD before/RB up/IN north/RB ,/, uh/UH --/:","[ where, + {F uh, } where ] we lived before up north, {F uh } --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: basements/NNS were/VBD ,/, were/VBD common/JJ","-- basements [ were, + were ] common /"
+sd,B,"and/CC ,/,","{C and, }"
+x,A,,<Laughter>.
++,B,"I/PRP used/VBD to/TO put/VB all/PDT the/DT stuff/NN in/IN my/PRP$ basement/NN ,/,","I used to put all the stuff in my basement, /"
+sd,B,but/CC --/:,{C but } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: not/RB so/RB here/RB in/IN Texas/NNP ./.,-- not so here in Texas. /
+aa,A,"No/UH ,/,","No, /"
+sd,A,they/PRP do/VBP n't/RB have/VB basements/NNS ./.,they don't have basements. /
+sd,A,"Well/UH ,/, I/PRP 'm/VBP from/IN up/IN north/RB also/RB","{D Well, } I'm from up north also /"
+aa,A,"and/CC ,/, and/CC ,/, uh/UH ,/, no/UH","[ {C and, } + {C and, } ] {F uh, } no /"
+sd,A,"there/EX 's/BES no/DT t-/XX ,/, basements/NNS down/IN here/RB","there's no [ t-, + basements ] down here /"
+sv,A,"and/CC it/PRP 's/BES kind/RB of/RB ,/, uh/UH ,/, hard/JJ to/TO get/VB ,/, uh/UH ,/, shop/NN space/NN unless/IN you/PRP have/VBP a/DT dedicated/JJ shop/NN or/CC a/DT dedicated/JJ room/NN --/:","{C and } it's kind of, {F uh, } hard to get, {F uh, } shop space unless you have a dedicated shop or a dedicated room --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: for/IN that/DT ./.,-- for that. /
+%,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"lot/NN of/IN the/DT equipment/NN ,/, too/RB ,/, that/WDT I/PRP 've/VBP ,/, I/PRP 've/VBP used/VBN in/IN the/DT past/NN ,/, uh/UH ,/, I/PRP w-/XX ,/, you/PRP know/VBP ,/, I/PRP 've/VBP used/VBN in/IN school/NN","lot of the equipment, too, that [ I've, + I've ] used in the past, {F uh, } [ I w-, + {D you know, } I've ] used in school /"
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP would/MD ,/,","{C and, } {F uh, } I would, - /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,A,"I/PRP 'd/MD ,/, I/PRP 'd/MD kind/RB of/RB like/VB to/TO ,/, to/TO look/VB at/IN equipment/NN like/IN a/DT lathe/NN or/CC like/IN you/PRP say/VBP ,/, a/DT table/NN saw/NN and/CC some/DT of/IN those/DT things/NNS that/WDT would/MD make/VB ,/, uh/UH ,/, some/DT pretty/RB nice/JJ ,/, uh/UH ,/, pieces/NNS of/IN ,/, uh/UH ,/, well/UH ,/, wood/NN ,/, for/IN ,/, for/IN different/JJ things/NNS for/IN tables/NNS ,/, for/IN ,/, for/IN ,/, uh/UH ,/, chairs/NNS ,/, for/IN ,/, you/PRP know/VBP ,/, decks/NNS and/CC so/RB forth/RB","[ I'd, + I'd ] kind of like [ to, + to ] look at equipment like a lathe or like you say, a table saw and some of those things that would make, {F uh, } some pretty nice, {F uh, } pieces of, {F uh, } {D well, } wood, [ for, + for ] different things for tables, [ for, + for, ] {F uh, } chairs, for, {D you know, } decks and so forth /"
+h,A,"so/RB ,/,","{C so, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,A,"I/PRP ,/, I/PRP just/RB enjoy/VBP woodworking/NN","[ I, + I ] just enjoy woodworking /"
+sv,A,"and/CC I/PRP think/VBP the/DT ,/, the/DT main/JJ thing/NN is/VBZ ,/, like/IN you/PRP say/VBP ,/, it/PRP 's/BES a/DT ,/, it/PRP 's/BES a/DT good/JJ out/NN ./.","{C and } I think [ the, + the ] main thing is, like you say, [ it's a, + it's a ] good out. /"
+sv,A,It/PRP 's/BES an/DT opportunity/NN to/TO get/VB out/RB and/CC relieve/VB some/DT of/IN the/DT pressure/NN that/WDT you/PRP feel/VBP day/NN to/IN day/NN,It's an opportunity to get out and relieve some of the pressure that you feel day to day /
+sv,A,"and/CC it/PRP 's/BES a/DT great/JJ stress/NN ,/, stress/NN reliever/NN ./.","{C and } it's a great [ stress, + stress ] reliever. /"
+qy,B,Have/VBP you/PRP ever/RB used/VBN a/DT lathe/NN ?/.,Have you ever used a lathe? /
+ny,A,"Yes/UH ,/,","Yes, /"
+sd,A,"I/PRP have/VBP ,/, in/IN school/NN I/PRP have/VBP","[ I have, + in school I have ] /"
+sd,A,"and/CC I/PRP 've/VBP made/VBN ,/, uh/UH ,/, uh/UH ,/, different/JJ things/NNS ,/, uh/UH ,/, la-/XX ,/, uh/UH ,/, tables/NNS for/IN chairs/NNS","{C and } I've made, {F uh, } {F uh, } different things, {F uh, } [ la-, + {F uh, } tables ] for chairs /"
+sd,A,"and/CC I/PRP 've/VBP made/VBN ,/, uh/UH ,/, bowls/NNS ,/,","{C and } I've made, {F uh, } bowls, /"
+%,A,"and/CC ,/, uh/UH ,/, and/CC ,/, uh/UH ,/,","[ {C and, } + {F uh, } {C and, } ] {F uh, } -/"

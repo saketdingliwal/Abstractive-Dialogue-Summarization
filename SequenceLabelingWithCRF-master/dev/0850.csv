@@ -1,0 +1,88 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,Okay/UH ./.,Okay. /
+ad,A,Go/VB ahead/RB ./.,Go ahead. /
+sd,B,"Well/UH ,/, uh/UH ,/, a/DT friend/NN of/IN mine/PRP actually/RB works/VBZ for/IN McDonald/NNP Douglas/NNP in/IN the/DT ,/, uh/UH ,/, in/IN the/DT space/NN station/NN program/NN","{D Well, } {F uh, } a friend of mine actually works for McDonald Douglas [ in the, + {F uh, } in the ] space station program /"
+sd,B,so/RB --/:,{C so } --
+b,A,Oh/UH ./.,Oh. /
++,B,--/: I/PRP get/VBP to/TO find/VB out/RP a/DT lot/NN of/IN information/NN about/IN what/WP 's/BES going/VBG on/RP there/RB,-- I get to find out a lot of information about what's going on there /
+sv,B,and/CC --/:,{C and } --
+b,A,Sure/UH ./.,Sure. /
++,B,--/: it/PRP sure/JJ sounds/VBZ like/IN that/DT 's/BES going/VBG to/TO be/VB a/DT really/RB viable/JJ program/NN if/IN it/PRP continues/VBZ to/TO be/VB funded/VBN at/IN current/JJ levels/NNS ./.,-- it sure sounds like that's going to be a really viable program if it continues to be funded at current levels. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Uh/UH ,/, they/PRP 're/VBP ,/, they/PRP 're/VBP going/VBG to/TO be/VB doing/VBG a/DT lot/NN of/IN interesting/JJ things/NNS ./.","{F Uh, } [ they're, + they're ] going to be doing a lot of interesting things. /"
+sv,B,"Uh/UH ,/, I/PRP think/VBP one/CD of/IN the/DT big/JJ things/NNS he/PRP 's/BES involved/JJ with/IN is/VBZ the/DT micro/JJ gravity/NN payloads/NNS ./.","{F Uh, } I think one of the big things he's involved with is the micro gravity payloads. /"
+sv,B,"And/CC that/DT has/VBZ a/DT direct/JJ impact/NN on/IN a/DT lot/NN of/IN things/NNS that/WDT we/PRP really/RB ca/MD n't/RB do/VB down/IN here/RB on/IN earth/NN including/VBG ,/, uh/UH ,/, some/DT new/JJ pharmaceutical/JJ techniques/NNS ./.","{C And } that has a direct impact on a lot of things that we really can't do down here on earth including, {F uh, } some new pharmaceutical techniques. /"
+ba,A,"Oh/UH ,/, you/PRP 're/VBP kidding/VBG ./.","{F Oh, } you're kidding. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"So/RB ,/, you/PRP know/VBP ,/, there/EX 's/BES --/:","{C So, } {D you know, } [ there's -- +"
+%,A,Huh/UH ./.,{F Huh. } /
++,B,"--/: there/EX 's/BES a/DT big/JJ opportunity/NN for/IN us/PRP to/TO explore/VB ,/, uh/UH ,/, what/WP sorts/NNS of/IN things/NNS you/PRP can/MD do/VB in/IN a/DT zero/CD gravity/NN environment/NN ./.","-- there's ] a big opportunity for us to explore, {F uh, } what sorts of things you can do in a zero gravity environment. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Sure/UH ./.,Sure. /
+sv,B,So/RB ./. I/PRP suspect/VBP that/IN we/PRP 'll/MD see/VB a/DT lot/NN of/IN gains/NNS from/IN that/DT ./.,{C So. } I suspect that we'll see a lot of gains from that. /
+sd,A,"Oh/UH ,/, that/DT 's/BES good/JJ because/IN sometimes/RB I/PRP wonder/VBP ,/, you/PRP know/VBP ,/, being/VBG a/DT ,/, uh/UH ,/, lay/JJ person/NN out/IN there/RB of/IN not/RB ,/, uh/UH ,/, knowing/VBG e-/RB ,/, exactly/RB what/WP 's/BES going/VBG on/RP in/IN space/NN ./. Whether/IN ,/, you/PRP know/VBP ,/, they/PRP 're/VBP going/VBG ahead/RB and/CC doing/VBG things/NNS and/CC whether/IN or/CC not/RB","{F Oh, } that's good because sometimes I wonder, {D you know, } being a, {F uh, } lay person out there [ of + ] not, {F uh, } knowing [ e-, + exactly ] what's going on in space. Whether, {D you know, } they're going ahead and doing things and whether or not /"
+sd,A,we/PRP 're/VBP spending/VBG too/RB much/JJ money/NN on/IN the/DT programs/NNS and/CC not/RB spending/VBG enough/JJ money/NN on/IN the/DT earth/NN that/WDT we/PRP have/VBP here/RB ./.,we're spending too much money on the programs and not spending enough money on the earth that we have here. /
+%,A,"Being/VBG ,/, you/PRP know/VBP ,/,","Being, {D you know, } - /"
+sd,A,"to/IN me/PRP ,/, all/PDT this/DT ,/, uh/UH ,/, space/NN exploration/NN that/WDT we/PRP 've/VBP done/VBN thus/RB far/RB has/VBZ told/VBN us/PRP that/IN there/EX 's/BES no/DT other/JJ place/NN like/IN earth/NN ./. That/DT ,/, uh/UH ,/, we/PRP ca/MD n't/RB live/VB on/IN Mars/NNP ./.","to me, all this, {F uh, } space exploration that we've done thus far has told us that there's no other place like earth. That, {F uh, } we can't live on Mars. /"
+sv,A,"We/PRP ca/MD n't/RB live/VB here/RB ,/,","We can't live here, /"
+sv,A,we/PRP ca/MD n't/RB live/VB there/RB ./.,we can't live there. /
+sv,A,"I/PRP mean/VBP ,/, this/DT is/VBZ the/DT ,/, the/DT place/NN that/WDT we/PRP have/VBP to/TO live/VB ./.","{E I mean, } this is [ the, + the ] place that we have to live. /"
+sv,A,"I/PRP mean/VBP ,/, there/EX 's/BES ,/, uh/UH ,/, no/DT other/JJ resource/NN for/IN us/PRP to/TO ,/, to/TO look/VB at/IN other/JJ than/IN here/RB ./.","{E I mean, } there's, {F uh, } no other resource for us [ to, + to ] look at other than here. /"
+%,A,"So/RB ,/, it/PRP 's/BES kind/RB of/RB like/IN ,/, to/IN me/PRP ,/,","{C So, } it's kind of like, to me, - /"
+sv,A,I/PRP would/MD like/VB to/TO see/VB a/DT lot/NN more/JJR money/NN being/VBG put/VB toward/IN taking/VBG care/NN of/IN the/DT environment/NN that/WDT we/PRP have/VBP here/RB and/CC not/RB so/RB much/JJ emphasis/NN put/VB on/IN what/WP 's/BES going/VBG out/IN in/IN space/NN,I would like to see a lot more money being put toward taking care of the environment that we have here and not so much emphasis put on what's going out in space /
+%,A,"and/CC what/WP ,/, you/PRP know/VBP ,/,","{C and } what, {D you know, } - /"
+sd,A,not/RB that/IN I/PRP want/VBP everything/NN to/TO halt/VB,not that I want everything to halt /
+sd,A,"and/CC let/VB 's/PRP forget/VB about/IN the/DT space/NN program/NN or/CC whatever/WDT ,/,","{C and } let's forget about the space program or whatever, /"
+sv,A,because/IN we/PRP 're/VBP always/RB curious/JJ,{C because } we're always curious /
+sv,A,and/CC we/PRP always/RB need/VBP to/TO know/VB more/JJR things/NNS ./.,{C and } we always need to know more things. /
+sv,A,"But/CC ,/, uh/UH ,/, to/IN me/PRP it/PRP 's/BES kind/RB of/RB like/IN let/NN 's/PRP try/VB and/CC clean/VB up/RP the/DT air/NN that/WDT we/PRP have/VBP here/RB ./.","{C But, } {F uh, } to me it's kind of like let's try and clean up the air that we have here. /"
+sv,A,Let/VB 's/PRP try/VB to/TO take/VB care/NN of/IN the/DT lakes/NNS that/WDT are/VBP getting/VBG polluted/JJ and/CC the/DT other/JJ things/NNS that/WDT are/VBP going/VBG on/IN here/RB ./.,Let's try to take care of the lakes that are getting polluted and the other things that are going on here. /
+%,A,"Mainly/RB because/IN ,/, uh/UH ,/,","Mainly because, {F uh, } - /"
+sv,A,the/DT space/NN program/NN has/VBZ taught/VBN us/PRP that/IN there/EX is/VBZ no/DT other/JJ place/NN for/IN us/PRP ./.,the space program has taught us that there is no other place for us. /
+sv,A,I/PRP mean/VBP this/DT is/VBZ it/PRP ./.,{E I mean } this is it. /
+sv,A,"I/PRP mean/VBP if/IN we/PRP would/MD have/VB ,/, uh/UH ,/, if/IN we/PRP would/MD have/VB went/VBN into/IN space/NN and/CC found/VBD Mars/NNP a/DT livable/JJ ,/, uh/UH ,/, planet/NN ,/, we/PRP probably/RB would/MD have/VB inhabited/VBN it/PRP","{E I mean } [ if we would have, + {F uh, } if we would have ] went into space and found Mars a livable, {F uh, } planet, we probably would have <noise> inhabited it /"
+qh,A,"and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, who/WP would/MD have/VB cared/VBN about/IN earth/NN ?/.","{C and, } {F uh, } {D you know, } who would have cared about earth? /"
+sv,A,"It/PRP would/MD have/VB been/VBN another/DT planet/NN to/TO kind/RB of/RB take/VB over/RP and/CC ,/, uh/UH ,/, continue/VB on/IN ./.","It would have been another planet to kind of take over and, {F uh, } continue on. /"
+%,A,"So/RB ,/, you/PRP know/VBP ,/, and/CC that/IN","[ {C So, } + {D you know, } {C and } ] that - /"
+sd,A,"when/WRB I/PRP look/VBP at/IN the/DT space/NN program/NN itself/PRP ,/, I/PRP think/VBP of/IN it/PRP ,/, you/PRP know/VBP ,/, as/IN being/VBG in/IN terms/NNS of/IN it/PRP 's/BES ,/, it/PRP 's/BES interesting/JJ to/TO learn/VB but/CC it/PRP 's/BES also/RB ,/, it/PRP 's/BES ,/, it/PRP brings/VBZ down/RP the/DT fact/NN that/IN this/DT earth/NN is/VBZ it/PRP ./.","when I look at the space program itself, I think of it, {D you know, } as being in terms of [ it's, + it's ] interesting to learn but [ [ it's also, + it's, ] + it ] brings down the fact that this earth is it. /"
+sv,A,"It/PRP 's/BES it/PRP for/IN us/PRP ,/, you/PRP know/VBP what/WP I/PRP mean/VBP ?/.","It's it for us, {A you know what I mean? }"
+b,B,Right/UH ./.,Right. /
++,A,"Uh/UH ,/, unless/IN technology/NN makes/VBZ the/DT decision/NN that/IN we/PRP are/VBP all/DT going/VBG to/TO live/VB in/IN space/NN or/CC whatever/WDT ./.","{F Uh, } unless technology makes the decision that we are all going to live in space or whatever. /"
+sd,A,"But/CC I/PRP would/MD love/VB to/TO ,/, uh/UH ,/, go/VB into/IN the/DT space/NN shuttle/NN some/DT day/NN and/CC ,/, uh/UH ,/, just/RB see/VB ,/, uh/UH ,/, you/PRP know/VBP ,/, the/DT earth/NN and/CC the/DT different/JJ planets/NNS and/CC things/NNS like/IN that/DT ./.","{C But } I would love to, {F uh, } go into the space shuttle some day and, {F uh, } just see, {F uh, } {D you know, } the earth and the different planets and things like that. /"
+sd,A,"I/PRP ,/, I/PRP think/VBP it/PRP would/MD be/VB very/RB interesting/JJ to/TO do/VB but/CC whether/IN it/PRP would/MD be/VB feasible/JJ to/TO do/VB I/PRP do/VB n't/RB know/VB ./.","[ I, + I ] think it would be very interesting to do but whether it would be feasible to do I don't know. /"
+sd,B,"Well/UH ,/, uh/UH ,/, as/RB far/RB as/IN the/DT practical/JJ aspects/NNS go/VBP ,/, I/PRP suspect/VBP that/IN the/DT space/NN station/NN may/MD actually/RB be/VB a/DT good/JJ compromise/NN --/:","{D Well, } {F uh, } <swallowing> as far as the practical aspects go, I suspect that the space station may actually be a good compromise --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: between/IN ,/, you/PRP know/VBP ,/, deep/JJ space/NN ,/, I/PRP 'm/VBP sorry/JJ ,/, deep/JJ space/NN exploration/NN --/:","-- between, {D you know, } [ deep space + <<mispronounced>>, {E I'm sorry, } deep space + ] exploration --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC ,/, uh/UH ,/, and/CC not/RB doing/VBG anything/NN --/:","-- [ and, + {F uh, } and ] not doing anything --"
+b,A,Sure/UH ./.,Sure. /
++,B,--/: because/IN we/PRP have/VBP the/DT opportunity/NN to/TO off/GW load/^VB some/DT things/NNS to/IN the/DT space/NN station/NN ./.,-- because we have the opportunity to off load some things to the space station. /
+aa,A,Exactly/UH ./.,Exactly. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, perhaps/RB we/PRP can/MD find/VB better/JJR techniques/NNS for/IN doing/VBG things/NNS that/WDT ,/, uh/UH ,/, we/PRP 'd/MD normally/RB do/VB down/IN here/RB --/:","{C And, } {F uh, } {D you know, } perhaps we can find better techniques for doing things that, {F uh, } we'd normally do down here --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: that/WDT are/VBP damaging/JJ to/IN the/DT environment/NN ./.,-- that are damaging to the environment. /
+aa,A,Exactly/UH ./.,Exactly. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+ba,A,"that/DT 's/BES true/JJ ,/, you/PRP know/VBP ./.","that's true, {D you know. } /"
+%,A,"And/CC I/PRP ,/, I/PRP think/VBP of/IN ,/, uh/UH ,/,","{C And } [ I, + I ] think of, {F uh, } - /"
+qy^d,A,I/PRP 'm/VBP sure/JJ you/PRP probably/RB have/VBP heard/VBN of/IN the/DT Genesis/NNP program/NN that/WDT 's/BES going/VBG on/IN currently/RB out/IN in/IN the/DT Arizona/NNP desert/NN ./.,I'm sure you probably have heard of the Genesis program that's going on currently out in the Arizona desert. /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, there/EX 's/BES ,/, uh/UH ,/, you/PRP know/VBP ,/, they/PRP 're/VBP trying/VBG to/TO look/VB at/IN how/WRB things/NNS effect/VBP everything/NN in/IN trying/VBG to/TO create/VB ,/, you/PRP know/VBP ,/, an/DT environment/NN where/WRB they/PRP have/VBP an/DT ocean/NN and/CC they/PRP have/VBP the/DT lakes/NNS and/CC then/RB they/PRP have/VBP the/DT desert/NN part/NN of/IN it/PRP","{F Uh, } [ there's, + {F uh, } {D you know, } they're ] trying to look at how things effect everything in trying to create, {D you know, } an environment where they have an ocean and they have the lakes and then they have the desert part of it /"
+sd,A,"and/CC then/RB they/PRP have/VBP an/DT area/NN that/WDT 's/BES more/JJR ,/, uh/UH ,/, you/PRP know/VBP ,/, full/JJ of/IN ,/, uh/UH ,/, vegetation/NN ,/, tropicals/NNS ,/, that/DT kind/NN of/IN thing/NN ,/, to/TO kind/RB of/RB look/VB at/IN things/NNS and/CC say/VB ,/, you/PRP know/VBP ,/, the/DT environment/NN wise/RB ,/, this/DT is/VBZ where/WRB we/PRP 're/VBP living/VBG","{C and then } they have an area that's more, {F uh, } {D you know, } full of, {F uh, } vegetation, tropicals, that kind of thing, to kind of look at things and say, {D you know, } [ the + ] environment wise, this is where we're living /"
+%,A,"but/CC what/WP ,/, what/WP effects/VBZ it/PRP","{C but } [ what, + what ] effects it /"
+sd,A,and/CC how/WRB can/MD we/PRP improve/VB it/PRP and/CC things/NNS like/IN that/DT ./.,{C and } how can we improve it and things like that. /
+%,A,"And/CC I/PRP ,/, I/PRP think/VBP in/IN space/NN ,/, uh/UH ,/,","{C And } [ I, + I ] think in space, {F uh, } - /"
+sd,A,"I/PRP do/VBP n't/RB know/VB how/WRB many/JJ people/NNS could/MD live/VB up/IN in/IN space/NN ,/, uh/UH ,/, for/IN any/DT length/NN of/IN time/NN ./.","I don't know how many people could live up in space, {F uh, } for any length of time <laughter>. /"
+sd,A,I/PRP mean/VBP just/RB the/DT way/NN that/IN we/PRP 're/VBP affected/JJ by/IN when/WRB it/PRP 's/BES cloudy/JJ out/RB,{E I mean } just the way that we're affected by when it's cloudy out - /
+sd,A,and/CC it/PRP 's/BES cloudy/JJ for/IN days/NNS,{C and } it's cloudy for days /
+sd,A,and/CC we/PRP do/VBP n't/RB see/VB the/DT sun/NN,{C and } we don't see the sun /
+sv,A,"and/CC the/DT people/NNS ,/, their/PRP$ moods/NNS are/VBP extreme/JJ ,/, you/PRP know/VBP ./.","{C and } the people, their moods are extreme, {D you know. } /"
+b,B,Right/UH ./.,Right. /
+sv,A,"It/PRP 's/BES like/IN ,/, God/NNP if/IN I/PRP do/VBP n't/RB get/VB to/TO see/VB the/DT sun/NN I/PRP 'm/VBP going/VBG to/TO be/VB in/IN this/DT bad/JJ mood/NN all/PDT this/DT entire/JJ time/NN","It's like, God if I don't get to see the sun I'm going to be in this bad mood all this entire time /"
+sd,A,and/CC this/DT is/VBZ how/WRB I/PRP see/VBP people/NNS reacting/VBG ./.,{C and } this is how I see people reacting. /
+qh,A,"You/PRP know/VBP ,/, when/WRB is/VBZ the/DT sun/NN going/VBG to/TO come/VB out/RB ?/.","{D You know, } when is the sun going to come out? /"
+sd,A,"So/RB I/PRP wonder/VBP how/WRB ,/, you/PRP know/VBP ,/, somebody/NN living/VBG up/IN in/IN space/NN is/VBZ going/VBG to/TO be/VB able/JJ to/TO tolerate/VB never/RB seeing/VBG the/DT sun/NN ./. You/PRP know/VBP ,/, in/IN the/DT aspect/NN that/IN we/PRP see/VBP it/PRP ./.","{C So } I wonder how, {D you know, } somebody living up in space is going to be able to tolerate never seeing the sun <laughter>. {D You know, } in the aspect that we see it."
+b,B,Right/UH ./.,Right. /
++,A,"Uh/UH ,/, and/CC never/RB seeing/VBG ,/, uh/UH ,/, you/PRP know/VBP ,/, light/NN ,/, bright/JJ days/NNS ,/, you/PRP know/VBP ./.","{F Uh, } and never seeing, {F uh, } {D you know, } light, bright days, {D you know. } /"
+%,A,"And/CC ,/,","{C And, } -/"

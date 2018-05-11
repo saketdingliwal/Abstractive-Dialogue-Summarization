@@ -1,0 +1,199 @@
+act_tag,speaker,pos,text
+fp,A,"Hi/UH ,/,","Hi, /"
+sd,A,"my/PRP$ last/JJ ,/, uh/UH ,/, auto/NN repair/NN was/VBD my/PRP$ ,/, my/PRP$ ,/, uh/UH ,/, alternator/NN went/VBD out/RP ./.","my last, {F uh, } auto repair was [ my, + my, ] {F uh, } alternator went out. /"
+sd,A,"I/PRP have/VBP a/DT nineteen/CD eighty-six/CD Toyota/NNP ,/, uh/UH ,/,","I have a nineteen eighty-six Toyota, {F uh, } /"
+sd,A,it/PRP 's/BES a/DT little/JJ Tercel/NNP ./.,it's a little Tercel <static>. /
+b,B,Uh-huh/UH ./.,Uh-huh <pounding>. /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP have/VBP a/DT fri-/NN ,/, a/DT friend/NN who/WP 's/BES real/RB good/JJ with/IN ,/, uh/UH ,/, repairing/VBG cars/NNS","{C And, } {F uh, } I have [ a fri-, + a friend ] who's real good with, {F uh, } repairing cars /"
+sd,A,"so/RB I/PRP got/VBD him/PRP to/TO take/VB the/DT alternator/NN off/IN and/CC take/VB it/PRP and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, get/VB a/DT replacement/NN part/NN ./.","{C so } I got him to take the alternator off and take it and, {F uh, } {D you know, } get a replacement part. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/RB we/PRP went/VBD to/IN a/DT ,/, uh/UH ,/, a/DT ,/, a/DT place/NN called/VBD Quality/NNP Auto/NNP Parts/NNPS","{C So } we went to [ [ a, + {F uh, } a, ] + a ] place called Quality Auto Parts /"
+sd,A,"an/DT ,/, and/CC their/PRP$ parts/NNS are/VBP supposed/VBN to/TO be/VB guaranteed/VBN and/CC ,/, and/CC everything/NN","[ {C an, } + {C and } ] their parts are supposed to be guaranteed [ and, + and ] everything /"
+sv,A,"and/CC they/PRP 're/VBP ,/, they/PRP 're/VBP ,/, uh/UH ,/, very/RB reasonable/JJ ./.","{C and } [ they're, + they're, ] {F uh, } very reasonable. /"
+sd,A,"So/RB ,/, uh/UH ,/, I/PRP bought/VBD the/DT alternator/NN ,/,","{C So, } {F uh, } I bought the alternator, /"
+sd,A,"we/PRP p/VBD ,/, put/VBD it/PRP on/IN the/DT car/NN","we [ p-, + put ] it on the car /"
+sd,A,"and/CC it/PRP ,/, it/PRP did/VBD n't/RB work/VB ,/,","{C and } [ it, + it ] didn't work, /"
+sd,A,and/CC it/PRP blew/VBD out/RP all/PDT the/DT fuses/NNS ./.,{C and } it blew out all the fuses. /
+ba,B,"Oh/UH ,/, no/UH ./.","{F Oh, } no <laughter>. /"
+b,A,Yeah/UH ./.,Yeah. /
+qw,B,How/WRB much/RB was/VBD the/DT alternator/NN ?/.,How much was the alternator? /
+sd,A,"Uh/UH ,/, I/PRP bel-/XX ,/, something/NN like/IN sixty-nine/CD dollars/NNS ,/, som-/NN ,/, something/NN on/IN that/DT order/NN ./.","{F Uh, } I bel-, something like sixty-nine dollars, [ som-, + something ] on that order. /"
+qy,B,"Did/VBD he/PRP ,/, did/VBD he/PRP hook/VB up/RP the/DT wir-/NN ,/, wiring/NN wrong/RB ?/.","[ Did he, + did he ] hook up the [ wir-, + wiring ] wrong? /"
+nn,A,"No/UH ,/,","No, /"
+sd,A,he/PRP hooked/VBD it/PRP up/RP right/RB ./.,he hooked it up right. /
+sd,A,"It/PRP ,/, it/PRP was/VBD just/RB that/IN the/DT ,/, the/DT part/NN just/RB ,/, just/RB did/VBD n't/RB fit/VB the/DT car/NN ,/,","[ It, + it ] was just that [ the, + the ] part [ just, + just ] didn't fit the car, /"
+sd,A,so/RB ./. I/PRP took/VBD it/PRP back/RB,{C so. } I took it back /
+sd,A,"and/CC ,/, uh/UH ,/, he/PRP ,/, he/PRP took/VBD the/DT alter-/NN ,/, the/DT guy/NN in/IN ,/, in/IN the/DT parts/NNS shop/NN took/VBD the/DT alternator/NN","{C and, } {F uh, } [ [ he, + he ] took the alter-, + the guy [ in, + in ] the parts shop took the alternator ] /"
+sd,A,and/CC he/PRP put/VBD it/PRP on/IN the/DT little/JJ thing/NN he/PRP has/VBZ in/IN there/RB to/TO test/VB them/PRP,{C and } he put it on the little thing he has in there to test them /
+sd,A,"and/CC ,/, uh/UH ,/, he/PRP said/VBD there/EX was/VBD nothing/NN wrong/JJ with/IN the/DT alternator/NN","{C and, } {F uh, } he said there was nothing wrong with the alternator /"
+sd,A,"so/RB we/PRP ,/, we/PRP went/VBD back/RB and/CC tried/VBD it/PRP again/RB ,/, put/VB it/PRP on/IN again/RB","{C so } [ we, + we ] went back and tried it again, put it on again /"
+sd,A,"and/CC it/PRP still/RB did/VBD n't/RB work/VB ,/,","{C and } it still didn't work, /"
+sd,A,"and/CC we/PRP took/VBD the/DT car/NN up/IN to/IN ,/, um/UH ,/, a/DT little/JJ place/NN called/VBN Pep/NNP Boys/NNPS ,/,","{C and } we took the car up to, {F um, } a little place called Pep Boys, /"
+qy^d,A,I/PRP do/VBP n't/RB know/VB if/IN you/PRP have/VBP them/PRP in/IN your/PRP$ area/NN --/:,I don't know if you have them in your area -- /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: but/CC ,/, uh/UH ,/, they/PRP 're/VBP ,/, they/PRP 're/VBP pretty/RB reasonable/JJ ,/, uh/UH ,/, car/NN repair/NN place/NN also/RB ./.","-- {C but, } {F uh, } [ they're, + they're ] pretty reasonable, {F uh, } car repair place also. /"
+sd,A,"So/RB ,/, uh/UH ,/, took/VBD it/PRP up/IN there/RB ,/, towed/VBD it/PRP up/IN there/RB because/IN it/PRP ,/, you/PRP know/VBP ,/, would/MD n't/RB start/VB or/CC anything/NN","{C So, } {F uh, } [ took it up there, + towed it up there ] because it, {D you know, } wouldn't start or anything /"
+sd,A,"and/CC this/DT thing/NN just/RB kept/VBD blowing/VBG out/RP the/DT fuses/NNS and/CC ,/, uh/UH ,/, took/VBD them/PRP about/RB an/DT ,/, an/DT hour/NN to/TO ,/, um/UH ,/, figure/VB out/RP what/WP was/VBD ,/, what/WP was/VBD blowing/VBG the/DT fuse/NN ,/,","{C and } this thing just kept blowing out the fuses and, {F uh, } took them about [ an, + an ] hour to, {F um, } figure out [ what was, + what was ] blowing the fuse, /"
+sd,A,"and/CC it/PRP was/VBD ,/, it/PRP was/VBD the/DT alternator/NN that/WDT was/VBD blowing/VBG the/DT fuse/NN ./.","{C and } [ it was, + it was ] the alternator that was blowing the fuse. /"
+sd,A,"Anyway/RB ,/, ended/VBD up/RP taking/VBG it/PRP to/IN the/DT Toyota/NNP dealer/NN","{D Anyway, } <breathing> ended up taking it to the Toyota dealer /"
+sd,A,"and/CC the/DT only/JJ problem/NN was/VBD that/IN ,/, uh/UH ,/, it/PRP had/VBD to/TO be/VB a/DT genuine/JJ Toyota/NNP ,/, uh/UH ,/, alternator/NN because/IN most/JJS of/IN the/DT other/JJ ones/NNS that/WDT they/PRP say/VBP will/MD fit/VB it/PRP ,/, that/WDT ,/, that/WDT ,/, you/PRP know/VBP ,/, they/PRP sit/VBP in/IN there/RB and/CC everything/NN","{C and } the only problem was that, {F uh, } it had to be a genuine Toyota, {F uh, } alternator because most of the other ones that they say will fit it, [ that, + that, ] {D you know, } they sit in there and everything /"
+sd,A,"but/CC there/EX 's/BES just/RB some/DT little/JJ difference/NN that/WDT ,/, um/UH ,/, causes/VBZ it/PRP not/RB to/TO work/VB an/DT i-/XX ,/,","{C but } there's just some little difference that, {F um, } causes it not to work an i-, -/"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+sv,B,they/PRP probably/RB built/VBD that/DT in/RP so/IN they/PRP could/MD make/VB money/NN ./.,they probably built that in so they could make money. /
+aa,A,"Ye-/UH ,/, yeah/UH ,/,","[ Ye-, + yeah, ] /"
+aa,A,I/PRP guess/VBP so/RB,I guess so /
+sd,A,"and/CC that/DT was/VBD my/PRP$ ,/, that/WDT was/VBD my/PRP$ last/JJ experience/NN ./.","{C and } [ that was my, + that was my ] last experience. /"
+sd,B,"Well/UH I/PRP had/VBD a/DT weird/JJ ,/,","{D Well } I had a weird, - /"
+sd,B,"there/EX 's/BES a/DT little/JJ sensing/NN device/NN ,/, uh/UH ,/, in/IN front/NN of/IN my/PRP$ ,/, uh/UH ,/, um/UH ,/, I/PRP 'm/VBP not/RB sure/JJ ,/, right/RB in/IN front/NN of/IN the/DT f-/NN ,/, fan/NN ,/,","there's a little sensing device, {F uh, } [ in front of my, + {F uh, } <<pause>> {F um, } {A I'm not sure, } right in front of ] the [ f-, + fan, ] /"
+sd,B,"it/PRP 's/BES a/DT ,/, it/PRP 's/BES an/DT air/NN conditioner/NN sensing/NN device/NN ./.","[ it's a, + it's an ] air conditioner sensing device. /"
+sd,B,"I/PRP do/VBP n't/RB know/VB why/WRB ,/,","I don't know why, /"
+sd,B,"it/PRP actually/RB ,/,","it actually, - /"
+sd,B,"there/EX 's/BES a/DT metal/NN piece/NN that/WDT fits/VBZ through/IN the/DT belts/NNS ,/, uh/UH ,/,","there's a metal piece that fits through the belts, {F uh, } /"
+sd,B,and/CC somehow/RB that/DT broke/VBD off/RP,{C and } somehow that broke off /
+sd,B,"and/CC ,/, uh/UH ,/, I/PRP ,/, I/PRP still/RB ca/MD n't/RB figure/VB out/RP how/WRB it/PRP broke/VBD ,/,","{C and, } {F uh, } [ I, + I ] still can't figure out how it broke, /"
+sd,B,"and/CC ,/, uh/UH ,/, anyway/RB ,/, so/RB a-/XX ,/, this/DT piece/NN obviously/RB ,/, um/UH ,/,","{C and, } {F uh, } anyway, {C so } [ a-, + ] this piece obviously, {F um, } - /"
+sd,B,"I/PRP have/VBP a/DT Subaru/NNP ,/,","I have a Subaru, /"
+sd,B,"and/CC ,/, uh/UH ,/, I/PRP think/VBP you/PRP can/MD only/RB get/VB it/PRP through/IN Subaru/NNP dealer/NN ,/, etcetera/FW ,/,","{C and, } {F uh, } I think you can only get it through Subaru dealer, etcetera, /"
+%,B,so/RB ./.,{C so. } -/
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Uh/UH ,/, this/DT little/JJ sensing/NN device/NN costed/VBD like/IN sixty/CD bucks/NNS ./.","{F Uh, } this little sensing device costed like sixty bucks <laughter>. /"
+ba,A,"Goodness/UH ,/,","Goodness, /"
+%,A,"are/VBP you/PRP able/JJ ,/,","are you able, -/"
+sd,B,"And/CC ,/, and/CC I/PRP have/VBP n't/RB had/VBN too/RB many/JJ problems/NNS with/IN my/PRP$ car/NN ,/,","[ {C And, } + {C and } ] I haven't had too many problems with my car, /"
+sd,B,"I/PRP got/VBD a/DT eighty-eight/CD Subaru/NNP ,/, G/NNP L/NNP X/NNP T/NNP","I got a eighty-eight Subaru, G L X T /"
+%,B,"and/CC it/PRP ,/,","{C and } it, -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"uh/UH ,/, and/CC then/RB ,/, you/PRP know/VBP just/RB basic/JJ maintenance/NN and/CC oil/NN changes/NNS","{F uh, } {C and then, } {D you know } just basic maintenance and oil changes /"
+sd,B,"an/DT I/PRP ,/, and/CC I/PRP do/VBP not/RB do/VB my/PRP$ oil/NN changes/NNS","[ {C an } I, + {C and } I ] do not do my oil changes /"
+sd,B,and/CC I/PRP will/MD not/RB do/VB my/PRP$ oil/NN changes/NNS ./.,{C and } I will not do my oil changes. /
+sd,B,"I/PRP 've/VBP ,/, I/PRP think/VBP the/DT first/JJ time/NN I/PRP tried/VBD to/TO do/VB one/CD and/CC ended/VBD up/RP ,/, um/UH ,/, trying/VBG to/IN ge-/XX ,/, uh/UH ,/,","[ I've, + I think ] the first time I tried to do one and ended up, {F um, } trying to ge-, {F uh, } - /"
+sd,B,"yo-/XX ,/, borrowed/VBD somebody/NN else/RB 's/POS jack/NN","yo-, borrowed somebody else's jack /"
+sd,B,and/CC I/PRP did/VBD this/DT,{C and } I did this /
+sd,B,"and/CC I/PRP went/VBD and/CC bought/VBD everything/NN ,/,","{C and } I went and bought everything, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"so/RB after/IN buying/VBG the/DT filter/NN and/CC all/PDT the/DT oil/NN ,/, you/PRP 're/VBP looking/VBG at/IN ten/CD bucks/NNS at/IN least/JJS ,/,","{C so } after buying the filter and all the oil, you're looking at ten bucks at least,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"or/CC somewhere/RB in/IN there/RB an/^CC ,/, and/CC ,/, uh/UH ,/, and/CC then/RB to/TO go/VB to/IN the/DT trouble/NN ,/, that/WDT I/PRP figured/VBD it/PRP 's/BES easier/RBR spending/VBG eighteen/CD bucks/NNS at/IN Jiffy/NNP Lube/NNP ./.","or somewhere in there [ an, + [ and, + {F uh, } and ] ] then to go to the trouble, that I figured it's easier spending eighteen bucks at Jiffy Lube. /"
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"So/RB that/DT ,/, that/DT 's/BES ,/, um/UH ,/, you/PRP know/VBP ,/,","{C So } [ that, + that's, ] {F um, } {D you know, } <throat_clearing> - /"
+sd,B,"as/RB far/RB as/IN any/DT maintenance/NN on/IN my/PRP$ car/NN ,/, I/PRP ,/, I/PRP shy/VBP away/RB from/IN the/DT oil/NN changes/NNS ,/,","as far as any maintenance on my car, [ I, + I ] shy away from the oil changes, /"
+ba,B,that/DT 's/BES for/IN sure/JJ ./.,that's for sure. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,A,"well/UH my/PRP$ car/NN is/VBZ ,/, uh/UH ,/, it/PRP 's/BES an/DT eighty-six/CD","{D well } my car [ is, + {F uh, } it's ] an eighty-six /"
+sd,A,"and/CC I/PRP really/RB had/VBD n't/RB had/VBN any/DT ,/, any/DT trouble/NN with/IN it/PRP un-/IN ,/, until/IN that/DT","{C and } I really hadn't had [ any, + any ] trouble with it [ un-, + until ] that /"
+sd,A,and/CC the/DT car/NN now/RB has/VBZ a/DT hundred/CD and/CC thirty/CD something/NN thousand/CD miles/NNS on/IN it/PRP,{C and } the car now has a hundred and thirty something thousand miles on it /
+sd,A,"and/CC ,/, uh/UH ,/, and/CC this/DT was/VBD just/RB recent/JJ ,/,","[ {C and, } + {F uh, } {C and } ] this was just recent, /"
+sd,A,so/RB I/PRP really/RB ca/MD n't/RB complain/VB about/IN this/DT one/CD ./.,{C so } I really can't complain about this one. /
+qw,B,"How/WRB did/VBD you/PRP put/VBN that/RB many/JJ miles/NNS on/IN it/PRP ,/, in/IN ,/,","How did you put that many miles on it, in,"
+sd,A,"Um/UH ,/, well/UH ,/, I/PRP used/VBD ,/,","{F Um, } {D well, } [ I used, +"
++,B,four/CD or/CC five/CD years/NNS ?/.,four or five years? /
++,A,"I/PRP used/VBD to/TO work/VB ,/, uh/UH ,/,","I used ] to work, {F uh, } - /"
+sd,A,"it/PRP was/VBD a/DT seventy/CD mile/NN trip/NN everyday/JJ ,/, you/PRP know/VBP ,/, two/CD ways/NNS was/VBD seventy/CD miles/NNS ./.","it was a seventy mile trip everyday, {D you know, } two ways was seventy miles. /"
+qy,B,"Oh/UH ,/, a/DT hundred/CD and/CC forty/CD mile/NN trip/NN ?/.","{F Oh, } a hundred and forty mile trip? /"
+nn,A,"No/UH ,/,","No, /"
+sd,A,"it/PRP was/VBD ,/, it/PRP was/VBD just/RB seventy/CD miles/NNS ./.","[ it was, + it was ] just seventy miles. /"
+bf,B,"Oh/UH ,/, thirty-five/CD miles/NNS each/DT way/NN ./.","{F Oh, } thirty-five miles each way. /"
+aa,A,Yeah/UH ./.,Yeah. /
+b^m,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP did/VBD that/DT for/IN about/RB three/CD years/NNS","{C And, } {F uh, } I did that for about three years /"
+sd,A,"and/CC it/PRP really/RB ,/, it/PRP really/RB added/VBD up/RP ./.","{C and } [ it really, + it really ] added up. /"
+sd,A,"I/PRP 've/VBP only/RB taken/VBN ,/, uh/UH ,/, maybe/RB two/CD trips/NNS that/WDT were/VBD about/RB four/CD hours/NNS long/JJ dow-/IN ,/, uh/UH ,/, down/IN to/IN Shreveport/NNP ./.","I've only taken, {F uh, } maybe two trips that were about four hours long [ dow-, + {F uh, } down ] to Shreveport. /"
+sd,A,"And/CC ,/, uh/UH ,/, the/DT rest/NN of/IN it/PRP was/VBD ,/, you/PRP know/VBP ,/, it/PRP 's/BES just/RB basically/RB driving/VBG a/DT long/JJ ways/NNS to/IN work/NN ./.","{C And, } {F uh, } the rest of it [ was, + {D you know, } it's ] just basically driving a long ways to work. /"
+sd,A,"And/CC now/RB I/PRP drive/VBP like/IN twenty/CD ,/, twenty-three/CD miles/NNS each/DT way/NN ,/,","{C And } now I drive {D like } [ twenty, + twenty-three ] miles each way, /"
+sd,A,"so/RB ,/, I/PRP 'm/VBP getting/VBG a/DT little/JJ ,/, a/DT little/JJ ,/, uh/UH ,/, little/JJ relief/NN ,/,","{C so, } I'm getting [ [ a little, + a little, ] + {F uh, } little ] relief, /"
+sd,A,but/CC still/RB I/PRP drive/VBP a/DT long/JJ ways/NNS ./.,{C but } still I drive a long ways. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"But/CC I/PRP guess/VBP because/IN they/PRP 're/VBP highway/NN miles/NNS ,/, you/PRP know/VBP ,/, it/PRP 's/BES not/RB so/RB bad/JJ on/IN your/PRP$ car/NN as/IN ,/, as/IN if/IN it/PRP ,/, you/PRP know/VBP ,/, were/VBD just/RB regular/JJ street/NN ,/, you/PRP know/VBP ./.","{C But } I guess because they're highway miles, {D you know, } it's not so bad on your car [ as, + as ] if it, {D you know, } were just regular street, {D you know. } /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,B,Do/VBP you/PRP work/VB for/IN T/NNP I/NNP ?/.,Do you work for T I? /
+ny,A,Yes/UH,Yes /
+sd,A,I/PRP do/VBP ./.,I do. /
+bk,B,Okay/UH ./.,Okay. /
+qy,A,Do/VBP you/PRP ?/.,Do you? /
+qw,B,"I/PRP was/VBD going/VBG to/TO ask/VB you/PRP ,/, you/PRP know/VBP ,/, as/RB far/RB as/IN how/WRB we/PRP 're/VBP getting/VBG compensated/VBN for/IN what/WP we/PRP 're/VBP doing/VBG right/RB now/RB ,/, um/UH ,/,","I was going to ask you, {D you know, } as far as how we're getting compensated for what we're doing right now, {F um, } - /"
+ng,B,I/PRP do/VBP n't/RB work/VB for/IN T/NNP I/NNP,I don't work for T I /
+sd,B,"and/CC I/PRP 'm/VBP just/RB ,/, I/PRP get/VBP these/DT green/JJ ,/,","{C and } [ I'm just, + I get ] these green, /"
+sd,B,"I/PRP do/VBP n't/RB know/VB what/WP you/PRP want/VBP to/TO call/VB them/PRP ,/, fake/JJ --/:","I don't know what you want to call them, fake <<pause>> --"
+^2,A,Points/NNS ./.,Points. /
++,B,"--/: point/NN things/NNS ,/,","-- point things, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qw^d,B,"and/CC ,/, uh/UH ,/, I/PRP just/RB wondering/VBG how/WRB I/PRP go/VBP about/IN getting/VBG the/DT cash/NN ./.","{C and, } {F uh, } I just wondering how I go about getting the cash <laughter>. /"
+sd,A,"Uh/UH ,/, there/EX 's/BES a/DT number/NN that/WDT you/PRP call/VBP ,/,","{F Uh, } there's a number that you call, /"
+sd,A,"it/PRP 's/BES the/DT same/JJ number/NN that/WDT you/PRP ,/, that/WDT you/PRP call/VBP to/TO make/VB a/DT call/NN ./.","it's the same number [ that you, + that you ] call to make a call. /"
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+ad,A,"You/PRP ,/, you/PRP call/VBP that/DT number/NN","[ You, + you ] call that number /"
+sd,A,"and/CC ,/, and/CC ,/, uh/UH ,/, somehow/RB or/CC another/DT they/PRP 'll/MD give/VB you/PRP an/DT option/NN to/TO leave/VB a/DT message/NN","[ {C and, } + {C and, } ] {F uh, } somehow or another they'll give you an option to leave a message /"
+ad,A,and/CC you/PRP can/MD leave/VB a/DT message/NN ./.,{C and } you can leave a message. /
+aa,B,Okay/UH ./.,Okay. /
+sd,A,"I/PRP know/VBP someone/NN that/WDT did/VBD that/DT ,/,","I know someone that did that, /"
+ad,A,you/PRP leave/VBP a/DT message/NN,you leave a message /
+sd,A,"and/CC they/PRP 'll/MD ,/, they/PRP 'll/MD call/VB you/PRP back/RB ./.","{C and } [ they'll, + they'll ] call you back. /"
+aa,B,"Okay/UH ,/,","Okay, /"
+aa,B,"all/RB right/JJ ,/,","all right, /"
+ba,B,well/UH that/DT 's/BES good/JJ to/TO know/VB ./.,{D well } that's good to know. /
+sd,B,I/PRP have/VBP n't/RB been/VBN doing/VBG,I haven't been doing - /
+sd,B,"th-/DT ,/, this/DT is/VBZ the/DT first/JJ time/NN I/PRP 've/VBP been/VBN called/VBN in/IN a/DT long/JJ time/NN","[ th-, + this ] is the first time I've been called in a long time /"
+sd,B,and/CC I/PRP have/VBP n't/RB been/VBN doing/VBG it/PRP,{C and } I haven't been doing it /
+%,B,"so/RB ,/,","{C so, } -/"
+b,A,Oh/UH really/UH ./.,{F Oh } really. /
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP 've/VBP done/VBN it/PRP maybe/RB twelve/CD times/NNS ./.","{C And, } {F uh, } I've done it maybe twelve times. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Well/UH I/PRP do/VBP n't/RB know/VB if/IN I/PRP 've/VBP done/VBN it/PRP quite/RB that/RB much/JJ ,/,","{D Well } I don't know if I've done it quite that much, /"
+sd,B,"but/CC ,/, uh/UH ,/, mine/PRP is/VBZ mixed/VBN up/RP too/RB ,/,","{C but, } {F uh, } mine is mixed up too, /"
+sd,B,I/PRP have/VBP to/TO call/VB and/CC get/VB it/PRP fixed/VBN ./.,I have to call and get it fixed <laughter>. /
+sd,A,"Uh/UH ,/, let/VB 's/PRP see/VB before/IN I/PRP had/VBD this/DT car/NN I/PRP had/VBD a/DT ,/, um/UH ,/, I/PRP bought/VBD an/DT Audi/NNP five/CD thousand/CD --/:","{F Uh, } let's see before I had this car [ I had a, + {F um, } I bought an ] Audi five thousand -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: but/CC I/PRP bought/VBD it/PRP ,/, I/PRP bought/VBD it/PRP used/JJ ./.","-- {C but } [ I bought it, + I bought it ] used. /"
+sd,A,"I/PRP ,/, I/PRP just/RB bought/VBD it/PRP from/IN a/DT friend/NN who/WP was/VBD going/VBG to/IN ,/, who/WP just/RB charged/VBD me/PRP what/WP the/DT dealer/NN was/VBD going/VBG to/TO give/VB ,/, give/VB him/PRP for/IN it/PRP for/IN a/DT trade-in/NN ,/,","[ I, + I ] just bought it from a friend [ who was going to, + who just ] charged me what the dealer was going to [ give, + give ] him for it for a trade-in, /"
+sd,A,"and/CC ,/, uh/UH ,/, it/PRP had/VBD a/DT whole/JJ lot/NN of/IN miles/NNS on/IN it/PRP ./.","{C and, } {F uh, } it had a whole lot of miles on it. /"
+sd,A,"I/PRP ,/, I/PRP figured/VBD maybe/RB I/PRP 'd/MD get/VB one/CD or/CC two/CD years/NNS out/IN of/IN it/PRP ,/,","[ I, + I ] figured maybe I'd get one or two years out of it, /"
+sd,A,"an/DT I/PRP ,/, an/DT I/PRP did/VBD get/VB a/DT couple/NN of/IN good/JJ years/NNS out/IN of/IN it/PRP","[ {C an } I, + {C an } I ] did get a couple of good years out of it /"
+sd,A,"and/CC the/DT ,/, uh/UH ,/, the/DT engine/NN messed/VBD up/RP on/IN me/PRP","{C and } [ the, + {F uh, } the ] engine messed up on me /"
+sd,A,"and/CC then/RB I/PRP gave/VBD it/PRP to/IN a/DT guy/NN to/TO repair/VB who/WP works/VBZ for/IN the/DT aut-/XX ,/, for/IN the/DT Audi/NNP dealer/NN","{C and then } I gave it to a guy to repair who works [ for the aut-, + for the Audi ] dealer /"
+sd,A,"and/CC ,/, uh/UH ,/, he/PRP took/VBD the/DT engine/NN apart/RB","{C and, } {F uh, } he took the engine apart /"
+sd,A,"and/CC ,/, you/PRP know/VBP ,/, he/PRP just/RB said/VBD he/PRP could/MD n't/RB fix/VB it/PRP","{C and, } {D you know, } he just said he couldn't fix it /"
+sd,A,so/RB the/DT engine/NN never/RB got/VBD put/VBN back/RB together/RB again/RB ./.,{C so } the engine never got put back together again. /
+b,B,"Huh/UH ,/, oh/UH well/UH ./.","{F Huh, } {F oh } {D well. } /"
+%,A,"I/PRP ,/,","I, -/"
+sd,B,I/PRP was/VBD driving/VBG a/DT sixty-six/CD Plymouth/NNP Fury/NNP ./.,I was driving a sixty-six Plymouth Fury. /
+ba,A,Wow/UH ./.,Wow. /
+sv,A,I/PRP think/VBP those/DT old/JJ cars/NNS --/:,I think those old cars --
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,"yeah/UH ,/,","yeah, /"
+sv,B,"and/CC ,/,","{C and, }"
++,A,"--/: might/MD ,/, might/MD be/VB a/DT pretty/RB good/JJ bet/NN because/IN you/PRP ,/,","-- [ might, + might ] be a pretty good bet because you <laughter>, - /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/, i-/XX ,/,","I don't know, i-, -/"
++,B,"Oh/UH ,/, tha-/DT ,/, that/DT 's/BES when/WRB they/PRP made/VBD cars/NNS ,/, though/RB ,/,","{F Oh, } [ tha-, + that's ] when they made cars, though, - /"
+sd,B,"this/DT things/NNS was/VBD ,/, the/DT body/NN was/VBD in/IN good/JJ condition/NN","[ this things was, + the body was ] in good condition /"
+sd,B,"and/CC MUMBLEx/XX you/PRP know/VBP ,/, it/PRP ran/VBD fine/RB ./.","{C and } (( )) {D you know, } it ran fine. /"
+sd,B,It/PRP was/VBD starting/VBG to/TO burn/VB some/DT oil/NN ./.,It was starting to burn some oil. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Um/UH ./.,{F Um. }
+%,B,"And/CC ,/, um/UH ,/, but/CC I/PRP had/VBD to/TO ,/, you/PRP know/VBP ,/, ge-/XX ,/,","[ {C And, } + {F um, } {C but } ] I had to <<pause>>, {D you know, } ge-, - /"
+sd,B,"you/PRP know/VBP ,/, I/PRP ,/, MUMBLEx/XX after/IN about/RB thr-/XX ,/, couple/NN of/IN months/NNS after/IN I/PRP was/VBD out/IN of/IN college/NN I/PRP finally/RB splurged/VBD and/CC bought/VBD my/PRP$ car/NN","{D you know, } [ I, + (( )) [ after + about [ thr-, + couple ] of months after ] I ] was out of college I finally splurged and bought my car /"
+%,B,so/RB ./.,{C so. } -/
++,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,A,I/PRP read/VBD a/DT book/NN one/CD time/NN that/WDT said/VBD that/IN the/DT best/JJS cars/NNS were/VBD made/VBN before/IN seventy-four/CD ./.,I read a book one time that said that the best cars were made before seventy-four. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"well/UH ,/, you/PRP know/VBP ,/, these/DT ,/, these/DT cars/NNS made/VBD in/IN the/DT sixties/NNS and/CC stuff/NN ,/,","{D well, } {D you know, } [ these, + these ] cars made in the sixties and stuff, - /"
+sv,B,"I/PRP mean/VBP the/DT steel/NN ,/, I/PRP mean/VBP ,/, the/DT thickness/NN ,/,","{E I mean } [ the steel, + {E I mean, } the thickness, ] - /"
+sv,B,"I/PRP mean/VBP ,/, i-/XX ,/, those/DT thin-/XX ,/, they/PRP 're/VBP just/RB ,/, th-/XX ,/,","{E I mean, } [ i-, + those thin-, ] they're just, [ th-, + ] - /"
+sv,B,you/PRP just/RB do/VBP n't/RB see/VB cars/NNS like/IN that/DT ./.,you just don't see cars like that. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,And/CC they/PRP last/VBP a/DT long/JJ time/NN ./.,{C And } they last a long time. /
+sv,B,"And/CC they/PRP were/VBD simple/JJ too/RB ,/,","{C And } they were simple too, /"
+sv,B,the/DT engines/NNS were/VBD simple/JJ and/CC durable/JJ,the engines were simple and durable /
+sv,B,and/CC --/:,{C and } --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: some/DT people/NNS will/MD still/RB buy/VB them/PRP ,/, you/PRP know/VBP ,/,","-- some people will still buy them, {D you know, } /"
+%,B,"they/PRP 'll/MD ,/,","they'll, -/"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"it/PRP 's/BES easy/JJ to/IN ,/, it/PRP 's/BES easy/JJ ,/, I/PRP guess/VBP it/PRP 's/BES still/RB easy/JJ to/TO find/VB engines/NNS for/IN those/DT cars/NNS ,/, engines/NNS and/CC transmissions/NNS","[ [ it's easy to, + it's easy, ] + I guess it's still easy ] to find engines for those cars, engines and transmissions /"
+sv,A,"and/CC if/IN you/PRP ,/, I/PRP guess/VBP if/IN you/PRP keep/VBP trad-/XX ,/, changing/VBG them/PRP out/RP you/PRP can/MD keep/VB a/DT car/NN for/IN a/DT long/JJ time/NN ./.","{C and } [ if you, + I guess if you ] keep [ trad-, + changing ] them out you can keep a car for a long time. /"
+sv,A,"Course/NN I/PRP guess/VBP I/PRP could/MD do/VB the/DT same/JJ thing/NN with/IN the/DT ,/, the/DT Toyota/NNP that/WDT I/PRP have/VBP ,/,","Course I guess I could do the same thing with [ the, + the ] Toyota that I have, /"
+sd,A,"I/PRP just/RB do/VBP n't/RB know/VB how/WRB much/JJ they/PRP 'll/MD want/VB to/TO charge/VB me/PRP to/TO ,/,","I just don't know how much they'll want to charge me to, -/"
+sv,B,"It/PRP almost/RB costs/VBZ so/RB much/JJ to/TO fix/VB anything/NN or/CC do/VB anything/NN with/IN it/PRP ,/,","<Yawning> It almost costs so much to fix anything or do anything with it, /"
+sv,B,you/PRP 're/VBP just/RB better/JJR off/RP buying/VBG another/DT car/NN ./.,you're just better off buying another car. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,"I/PRP guess/VBP so/RB ,/,","I guess so, /"
+sv,A,"but/CC I/PRP just/RB think/VBP they/PRP cost/VBP too/RB much/RB in/IN the/DT ,/, in/IN the/DT first/JJ place/NN ,/, now/GW a/GW days/^RB ./.","{C but } I just think they cost too much [ in the, + in the ] first place, now a days. /"

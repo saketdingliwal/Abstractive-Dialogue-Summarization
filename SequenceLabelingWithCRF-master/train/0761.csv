@@ -1,0 +1,100 @@
+act_tag,speaker,pos,text
+qo,A,How/WRB would/MD you/PRP feel/VB about/IN sending/VBG an/DT elderly/JJ family/NN member/NN to/TO a/DT nursing/NN home/NN ?/.,How would you feel about sending an elderly family member to a nursing home? /
+sd,B,"Well/UH ,/, I/PRP do/VBP n't/RB feel/VB very/RB good/JJ about/IN it/PRP ,/,","{D Well, } I don't feel very good about it, /"
+sv,B,but/CC I/PRP think/VBP that/IN at/IN some/DT times/NNS it/PRP can/MD be/VB the/DT right/JJ thing/NN to/TO do/VB ./.,{C but } I think that at some times it can be the right thing to do. /
+sd,B,We/PRP sent/VBD my/PRP$ grandfather/NN to/IN a/DT nursing/VBG home/NN at/IN the/DT point/NN when/WRB he/PRP was/VBD really/RB incapable/JJ of/IN caring/VBG for/IN himself/PRP anymore/RB ./.,We sent my grandfather to a nursing home at the point when he was really incapable of caring for himself anymore. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"He/PRP actually/RB died/VBD a/DT few/JJ months/NNS after/IN that/DT ,/,","He actually died a few months after that, /"
+%,B,"and/CC so/RB as/IN ,/,","{C and so } as, - /"
+sd,B,"at/IN least/JJS in/IN retrospect/NN ,/, it/PRP was/VBD the/DT right/JJ thing/NN to/TO do/VB","at least in retrospect, it was the right thing to do /"
+sd,B,because/IN he/PRP was/VBD either/CC in/IN a/DT nursing/VBG home/NN or/CC a/DT hospital/NN --/:,{C because } he was either in a nursing home or a hospital --
+b,A,Right/UH ./.,Right. /
++,B,--/: or/CC something/NN else/RB that/IN he/PRP would/MD have/VB been/VBN spending/VBG most/JJS of/IN his/PRP$ time/NN in/IN those/DT days/NNS ./.,-- or something else that he would have been spending most of his time in those days. /
+qw,A,And/CC what/WP type/NN of/IN recommendations/NNS did/VBD you/PRP have/VB when/WRB you/PRP decided/VBD where/WRB to/TO place/VB him/PRP ?/.,{C And } what type of recommendations did you have when you decided where to place him? /
+%,B,"Um/UH ,/, well/UH ,/, the/DT ,/, see/UH ,/, uh/UH ,/, well/UH ,/,","{F Um, } {D well, } the, {D see, } {F uh, } {D well, } - /"
+sd,B,"we/PRP ,/, he/PRP wanted/VBD to/TO get/VB into/IN a/DT Mennonite/NNP nursing/NN home/NN which/WDT is/VBZ very/RB popular/JJ and/CC hard/JJ to/TO get/VB into/IN and/CC had/VBD like/IN a/DT ten/CD year/NN waiting/NN list/NN --/:","[ we, + he ] wanted to get into a Mennonite nursing home which is very popular and hard to get into and had {D like } a ten year waiting list -- /"
+ba,A,"Oh/UH ,/, my/PRP$ ./.","{F Oh, } my. /"
+aa,B,"--/: right/UH ,/,","-- right, /"
+sd,B,"we/PRP wound/VBD up/RP just/RB choosing/VBG a/DT ,/, another/DT Mennonite/NNP nursing/NN home/NN that/WDT was/VBD easier/JJR to/TO get/VB into/IN ./.","we wound up just choosing [ a, + another ] Mennonite nursing home that was easier to get into. /"
+%,B,"Or/CC but/IN naturally/RB ,/,","[ {C Or } + {C but } ] naturally, - /"
+ar,B,"no/UH ,/,","{D no, } /"
+sd,B,"it/PRP was/VBD even/RB Mennonite/NNP related/VBN ,/,","it was even Mennonite related, /"
+sd,B,"I/PRP 'm/VBP sorry/JJ ,/, it/PRP was/VBD actually/RB not/RB a/DT particularly/RB great/JJ nursing/NN home/NN ./.","{E I'm sorry, } it was actually not a particularly great nursing home. /"
+sd,B,"Mostly/RB the/DT thing/NN was/VBD that/IN it/PRP was/VBD available/JJ when/WRB we/PRP needed/VBD it/PRP ,/,","Mostly the thing was that it was available when we needed it,"
+b,A,"Yeah/UH ,/,","Yeah, /"
++,B,because/IN he/PRP suddenly/RB got/VBD sick/JJ --/:,because he suddenly got sick --
+bf,A,"so/RB the/DT convenience/NN ,/,","{C so } the convenience, -/"
++,B,--/: and/CC needed/VBD to/TO be/VB put/VBN in/IN ./.,-- and needed to be put in. /
+aa,A,Right/UH ./.,Right. /
+qo,B,"Uh/UH ,/, what/WP do/VBP you/PRP think/VB ?/.","{F Uh, } what do you think? /"
+sd,A,"My/PRP$ grandmother/NN lived/VBD with/IN us/PRP ,/, um/UH ,/, until/IN August/NNP ,/, um/UH ,/,","My grandmother lived with us, {F um, } until August, {F um, } /"
+sd,A,and/CC we/PRP made/VBD the/DT decision/NN to/TO put/VB her/PRP in/IN a/DT nursing/VBG home/NN ./.,{C and } we made the decision to put her in a nursing home. /
+sd,A,She/PRP has/VBZ leukemia/NN --/:,She has leukemia -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC her/PRP$ ,/, the/DT rest/NN of/IN her/PRP$ family/NN and/CC her/PRP$ regular/JJ doctors/NNS and/CC everybody/NN she/PRP trusted/VBD and/CC knew/VBD was/VBD in/IN Dayton/NNP ,/, and/CC were/VBD several/JJ thousand/CD miles/NNS away/RB --/:","-- {C and } [ her, + the rest of her ] family and her regular doctors and everybody she trusted and knew was in Dayton, and were several thousand miles away -- /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: so/RB I/PRP made/VBD the/DT decision/NN to/TO put/VB her/PRP in/IN a/DT nursing/NN home/NN ,/,","-- {C so } I made the decision to put her in a nursing home, /"
+sd,A,and/CC my/PRP$ sister/NN being/VBG on/IN the/DT other/JJ end/NN found/VBD one/CD that/WDT she/PRP could/MD have/VB what/WP was/VBD called/VBN an/DT independent/JJ living/NN facility/NN ./.,{C and } my sister being on the other end found one that she could have what was called an independent living facility. /
+sd,A,She/PRP had/VBD her/PRP$ own/JJ little/JJ room/NN and/CC did/VBD n't/RB have/VB to/TO share/VB it/PRP with/IN anyone/NN and/CC could/MD bring/VB in/IN her/PRP$ own/JJ chair/NN and/CC T/NN V/NN set/NN --/:,She had her own little room and didn't have to share it with anyone and could bring in her own chair and T V set -- /
+b,B,Yeah/UH --/:,Yeah -- /
+%,A,--/: so/UH ./.,-- {D so. } -/
+b,B,"--/: yeah/UH ,/,","-- yeah, /"
+ba,B,that/DT 's/BES important/JJ --/:,that's important --
+aa,A,Yes/UH ./.,Yes. /
++,B,--/: I/PRP would/MD say/VB ./.,-- I would say. /
+sd,A,"And/CC that/DT ,/, the/DT other/JJ major/JJ factor/NN is/VBZ that/IN she/PRP needs/VBZ blood/NN transfusions/NNS every/DT week/NN to/IN ten/CD days/NNS ,/, and/CC would/MD have/VB to/TO be/VB hospitalized/VBN a/DT day/NN or/CC two/CD ,/,","{C And } [ that, + the ] other major factor is that she needs blood transfusions every week to ten days, and would have to be hospitalized a day or two, /"
+sd,A,so/RB in/IN this/DT facility/NN they/PRP can/MD do/VB it/PRP right/RB there/RB from/IN her/PRP$ own/JJ room/NN --/:,{C so } in this facility they can do it right there from her own room -- /
+b,B,Okay/UH ./.,Okay. /
+sd,A,--/: so/IN she/PRP did/VBD n't/RB have/VB to/TO be/VB transported/VBN back/RB and/CC forth/RB ./.,-- {C so } she didn't have to be transported back and forth. /
+sd,A,"So/UH ,/, she/PRP 's/HVS been/VBN there/RB since/IN August/NNP the/DT thirteenth/NN and/CC seems/VBZ to/TO have/VB adjusted/VBN pretty/RB well/RB ./.","{C So, } she's been there since August the thirteenth and seems to have adjusted pretty well. /"
+sd,A,It/PRP 's/BES not/RB her/PRP$ favorite/JJ place/NN to/TO be/VB in/IN ./.,It's not her favorite place to be in. /
+sd,A,She/PRP 'd/MD much/RB rather/RB be/VB here/RB with/IN me/PRP ./.,She'd much rather be here with me. /
+sd,A,But/CC --/:,{C But } --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: when/WRB it/PRP got/VBD to/IN the/DT point/NN I/PRP was/VBD spending/VBG more/JJR time/NN at/IN the/DT hospital/NN with/IN her/PRP ,/,","-- when it got to the point I was spending more time at the hospital with her, - /"
+sd,A,and/CC I/PRP 've/VBP got/VBD little/JJ children/NNS here/RB who/WP needed/VBD me/PRP here/RB --/:,{C and } I've got little children here who needed me here -- /
+sd,A,--/: she/PRP needed/VBD somebody/NN to/TO watch/VB her/PRP$ twenty-four/NN hours/VBZ a/DT day/NN ./.,-- she needed somebody to watch her twenty-four hours a day. /
+aa,B,"Right/UH ,/,","Right, /"
+sv,B,and/CC --/:,{C and } --
+%,A,So/UH ./.,{D So. } /
++,B,--/: that/DT becomes/VBZ difficult/JJ then/RB ./.,-- that becomes difficult then. /
+sd,A,She/PRP was/VBD falling/VBG down/RP and/CC hemorrhaging/VBG,She was falling down and hemorrhaging /
+sd,A,"and/CC ,/, you/PRP know/VBP ,/, all/DT kinds/NNS of/IN physical/NN problems/NNS ,/,","{C and, } {D you know, } all kinds of physical problems, /"
+sd,A,"so/RB it/PRP just/RB became/VBD too/RB much/RB for/IN me/PRP to/TO handle/VB ,/,","{C so } it just became too much for me to handle, /"
+sd,A,"even/RB though/IN I/PRP would/MD have/VB liked/VBN to/TO have/VB had/VBD her/PRP stay/VB ,/, with/IN her/PRP$ health/NN being/VBG what/WP it/PRP was/VBD she/PRP could/MD n't/RB --/:","even though I would have liked to have had her stay, with her health being what it was she couldn't --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: anymore/RB ./.,-- anymore. /
+aa,B,"Yep/UH ,/,","Yep, /"
+sd,B,"we/PRP tried/VBD to/TO convince/VB my/PRP$ grandfather/NN to/TO live/VB with/IN us/PRP at/IN several/JJ points/NNS during/IN the/DT last/JJ few/JJ years/NNS of/IN his/PRP$ life/NN ,/,","we tried to convince my grandfather to live with us at several points during the last few years of his life, /"
+sd,B,but/CC he/PRP was/VBD essentially/RB too/RB proud/JJ and/CC too/RB independent/JJ --/:,{C but } he was essentially too proud and too independent --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: so/RB that/RB even/RB though/IN his/PRP$ heart/NN was/VBD getting/VBG incredibly/RB weak/JJ and/CC his/PRP$ knees/NNS were/VBD going/VBG bad/JJ --/:,-- so that even though his heart was getting incredibly weak and his knees were going bad --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: he/PRP lived/VBD in/IN his/PRP$ own/JJ house/NN as/RB long/RB as/IN he/PRP could/MD --/:,-- he lived in his own house as long as he could -- /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"--/: but/CC he/PRP was/VBD living/VBG alone/RB ,/, had/VBD an/DT upstairs/NN apartment/NN ,/, could/MD barely/RB make/VB it/PRP up/IN the/DT steps/NNS --/:","-- {C but } he was living alone, had an upstairs apartment, could barely make it up the steps --"
+b,A,Oh/UH ./.,Oh. /
++,B,"--/: to/IN the/DT top/IN without/IN a/DT great/JJ deal/NN of/IN pain/NN ,/,","-- to the top without a great deal of pain, /"
+%,B,"and/CC this/DT ,/,","{C and } this, - /"
+sd,B,eventually/RB things/NNS just/RB went/VBD too/RB far/RB --/:,eventually things just went too far -- /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,--/: and/CC he/PRP allowed/VBD himself/PRP to/TO be/VB put/VBN into/IN a/DT nursing/NN home/NN ./.,-- {C and } he allowed himself to be put into a nursing home. /
+b,A,"Yes/UH ,/,","Yes, /"
+sv,A,"well/UH ,/, I/PRP think/VBP sometimes/RB when/WRB people/NNS get/VBP to/TO be/VB a/DT certain/JJ age/NN ,/, other/JJ people/NNS have/VBP to/TO kind/RB of/RB help/VB them/PRP make/VB decisions/NNS ./.","{D well, } I think sometimes when people get to be a certain age, other people have to kind of help them make decisions. /"
+sd,A,"It/PRP sure/RB would/MD n't/RB have/VB been/VBN Granny/NN 's/POS decision/NN to/TO leave/VB us/PRP and/CC go/VB back/RB to/IN a/DT nursing/NN home/NN ,/,","It sure wouldn't have been Granny's decision to leave us and go back to a nursing home, /"
+sd,A,but/CC she/PRP 's/HVS accepted/VBN it/PRP real/RB well/RB now/RB --/:,{C but } she's accepted it real well now -- /
+b,B,Right/UH --/:,Right -- /
+%,A,--/: so/UH ./.,-- {D so. } /
+sv,B,"--/: well/UH that/DT 's/BES ,/, yeah/UH ,/, that/DT 's/BES right/JJ that/IN the/DT children/NNS have/VBP some/DT responsibility/NN ,/, too/RB ,/, to/IN their/PRP$ parents/NNS and/CC such/JJ ,/, to/TO help/VB decide/VB what/WP 's/BES the/DT right/JJ thing/NN ./.","-- {D well } [ that's, + {D yeah, } that's ] right that the children have some responsibility, too, to their parents and such, to help decide what's the right thing. /"
+sd,A,"Well/UH ,/, we/PRP enjoyed/VBD --/:","{D Well, } we enjoyed --"
+%,B,And/CC ./.,{C And. } -/
++,A,"--/: having/VBG her/PRP here/RB ,/,","-- having her here, /"
+sd,A,but/CC we/PRP feel/VBP she/PRP 's/BES much/RB safer/JJR where/WRB she/PRP is/VBZ now/RB ./.,{C but } we feel she's much safer where she is now. /
+sd,A,"She/PRP still/RB continues/VBZ to/TO fall/VB ,/,","She still continues to fall, /"
+sd,A,"but/CC when/WRB she/PRP does/VBZ there/RB ,/, a/DT nurse/NN is/VBZ right/RB there/RB to/TO help/VB her/PRP --/:","{C but } when she does [ there, + ] a nurse is right there to help her -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC I/PRP know/VBP she/PRP 's/BES eating/VBG the/DT right/JJ things/NNS ,/,","-- {C and } I know she's eating the right things, /"
+sd,A,"and/CC her/PRP$ doctor/NN 's/BES right/RB there/RB where/WRB he/PRP can/MD come/VB in/IN and/CC check/VB on/IN her/PRP ,/,","{C and } her doctor's right there where he can come in and check on her, /"
+sd,A,so/RB ./. It/PRP became/VBD dangerous/JJ for/IN us/PRP to/TO keep/VB transporting/VBG her/PRP back/RB and/CC forth/RB in/IN the/DT car/NN because/IN she/PRP was/VBD so/RB wobbly/JJ and/CC needed/VBD a/DT walker/NN or/CC a/DT wheel/GW chair/^NN --/:,{C so. } It became dangerous for us to keep transporting her back and forth in the car because she was so wobbly and needed a walker or a wheel chair -- /
+b,B,Yep/UH ./.,Yep. /
+sd,A,"--/: so/RB ,/, I/PRP think/VBP she/PRP 'll/MD adjust/VB ,/,","-- {C so, } I think she'll adjust, /"

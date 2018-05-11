@@ -1,0 +1,171 @@
+act_tag,speaker,pos,text
+fp,B,"Hi/UH ,/, Clarice/NNP ./.","Hi, Clarice. /"
+qy,B,"Um/UH ,/, have/VBP you/PRP had/VBN a/DT family/NN reunion/NN recently/RB ?/.","{F Um, } have you had a family reunion recently? /"
+ny,A,"Yes/UH ,/,","Yes, /"
+sd,A,"just/RB this/DT last/JJ summer/NN we/PRP went/VBD back/RB to/IN Utah/NNP ,/,","just this last summer we went back to Utah, /"
+sd,A,"and/CC we/PRP met/VBD ,/, it/PRP was/VBD my/PRP$ ,/,","{C and } we met, it was my, /"
+sd,A,"we/PRP usually/RB go/VBP to/IN my/PRP$ family/NN reunion/NN ,/,","we usually go to my family reunion, /"
+sd,A,but/CC this/DT one/CD was/VBD my/PRP$ husband/NN 's/POS --/:,{C but } this one was my husband's -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC they/PRP 're/VBP usually/RB quite/RB similar/JJ ,/, I/PRP think/VBP ./.","-- {C and } they're usually quite similar, I think. /"
+qy,B,Are/VBP you/PRP both/DT from/IN Utah/NNP originally/RB ?/.,Are you both from Utah originally? /
+nn,A,"No/UH ,/,","No, /"
+sd,A,he/PRP 's/BES from/IN here/RB --/:,he's from here -- /
+bk,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,A,"--/: but/CC ,/, uh/UH ,/, most/RBS of/IN his/PRP$ people/NNS are/VBP from/IN Oregon/NNP ,/,","-- {C but, } {F uh, } most of his people are from Oregon, /"
+sd,A,so/RB we/PRP kind/RB of/RB met/VBD halfway/RB --/:,{C so } we kind of met halfway -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC so/RB ,/, this/DT was/VBD one/CD ,/,","-- {C and so, } this was one, - /"
+sd,A,"and/CC they/PRP ,/, um/UH ,/, planned/VBD it/PRP up/IN in/IN the/DT mountains/NNS and/CC got/VBD a/DT cabin/NN --/:","{C and } they, {F um, } planned it up in the mountains and got a cabin --"
+ba,B,"Oh/UH ,/, how/WRB nice/JJ ./.","{F Oh, } how nice. /"
++,A,"--/: and/CC had/VBD ,/, you/PRP know/VBP ,/,","-- and had, {D you know, } - /"
+sv,A,"things/NNS like/IN that/DT have/VBP to/TO be/VB planned/VBN ,/,","things like that have to be planned, /"
+sd,A,like/IN they/PRP had/VBD planned/VBN,{D like } they had planned - /
+sd,A,"that/DT ,/, we/PRP went/VBD to/IN the/DT reunion/NN in/IN end/NN of/IN Jul-/NNP ,/, June/NNP and/CC first/JJ of/IN July/NNP --/:","[ that, + ] we went to the reunion in end of [ Jul-, + ] June and first of July --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: that/DT part/NN --/:,-- that part --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: the/DT fourth/JJ of/IN July/NNP weekend/NN ,/,","-- the fourth of July weekend, /"
+sd,A,"but/CC we/PRP had/VBD to/TO plan/VB everything/NN like/UH clear/RB in/IN December/NNP ,/, January/NNP --/:","{C but } we had to plan everything {D like } clear in December, January --"
+b,B,"Sure/UH ,/,","Sure, /"
+b,B,"sure/UH ,/,","sure, /"
++,A,--/: to/TO reserve/VB that/DT ./.,-- to reserve that. /
+qy,B,"Now/UH was/VBD this/DT his/PRP$ entire/JJ family/NN ,/, cousins/NNS ,/, aunts/NNS ,/, uncles/NNS --/:","{D Now } was this his entire family, cousins, aunts, uncles --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: like/IN that/DT or/CC his/PRP$ immediate/JJ family/NN ?/.,-- like that or his immediate family? /
+nn,A,No/UH --/:,No -- /
+ba,B,"Oh/UH ,/, wow/UH ./.","{F Oh, } wow. /"
+sd,A,--/: this/DT was/VBD everybody/NN ./.,-- this was everybody. /
+ba,B,"Oh/UH wow/UH ,/,","{F Oh } wow, /"
+qw,B,how/WRB many/JJ people/NNS were/VBD there/RB ?/.,how many people were there? /
+sd,A,"Oh/UH ,/, I/PRP ,/, oh/UH ,/, I/PRP ,/, jeez/UH ,/, I/PRP think/VBP over/IN ,/, um/UH ,/, three/CD hundred/CD --/:","{F Oh, } [ [ I, + {F oh, } I, ] + jeez, I ] think over, {F um, } three hundred --"
+ba,B,Wow/UH ./.,Wow. /
++,A,--/: were/VBD there/RB ./.,-- were there. /
+sd,A,It/PRP was/VBD quite/RB a/DT large/JJ --/:,It was quite a large -- -/
+ba,B,Wow/UH ./.,Wow. /
+sd,A,"--/: it/PRP was/VBD a/DT great/JJ big/JJ lodge/NN ,/,","-- it was a great big lodge, /"
+sd,A,"and/CC so/RB we/PRP had/VBD plenty/JJ of/IN room/NN and/CC everything/NN ,/,","{C and so } we had plenty of room and everything, /"
+sd,A,"and/CC some/DT of/IN them/PRP live/VBP in/IN that/DT area/NN ,/,","{C and } some of them live in that area, /"
+sd,A,so/RB it/PRP was/VBD n't/RB too/RB hard/JJ for/IN them/PRP to/TO come/VB in/IN the/DT day/NN and/CC leave/VB ./.,{C so } it wasn't too hard for them to come in the day and leave. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"But/CC ,/, um/UH ,/, that/DT was/VBD a/DT great/JJ big/JJ thing/NN ,/,","{C But, } {F um, } that was a great big thing, /"
+sd,A,"and/CC we/PRP do/VBP that/DT with/IN his/PRP$ family/NN about/RB every/DT five/CD years/NNS ,/,","{C and } we do that with his family about every five years,"
++,A,a/DT great/JJ big/JJ one/CD ./.,a great big one. /
+sd,A,"And/CC then/RB like/UH immediate/JJ family/NN we/PRP do/VBP ,/, like/UH we/PRP try/VBP to/TO do/VB one/CD thing/NN once/RB a/DT year/NN ./.","{C And then } {D like } immediate family [ we do, + {D like } we try ] to do one thing once a year. /"
+qw,B,"Now/UH how/WRB many/JJ ,/, how/WRB many/JJ people/NNS are/VBP in/IN his/PRP$ immediate/JJ family/NN ?/.","{D Now } [ how many, + how many ] people are in his immediate family? /"
+sv,A,"Well/UH ,/, he/PRP has/VBZ eight/CD brothers/NNS and/CC sisters/NNS --/:","{D Well, } he has eight brothers and sisters -- /"
+ba,B,"Oh/UH ,/, wow/UH ./.","{F Oh, } wow. /"
+sd,A,--/: so/RB that/DT 's/BES big/JJ by/IN itself/PRP ./.,-- {C so } that's big by itself. /
+ba,B,"Wow/UH ,/,","Wow, /"
+aa,B,"it/PRP really/RB is/VBZ ,/,","it really is, /"
+x,A,,<Laughter>.
+qy^d,B,and/CC you/PRP get/VBP together/RB once/RB a/DT year/NN ./.,{C and } you get together once a year. /
+ny,A,Yeah/UH ./.,Yeah. /
+ba,B,"Wow/UH ,/,","Wow, /"
+sd,A,So/RB we/PRP have/VBP a/DT little/JJ shindig/NN with/IN them/PRP ./.,{C So } we have a little shindig with them. /
+qy,B,"Are/VBP they/PRP all/DT here/RB in/IN the/DT area/NN ,/,","Are they all here in the area, /"
+qrr,B,or/CC are/VBP they/PRP --/:,{C or } are they --
+sd,A,Um/UH --/:,{F Um } --
++,B,--/: scattered/JJ ?/.,-- scattered? /
++,A,"--/: they/PRP 're/VBP close/RB ,/, in/IN a/DT close/JJ proximity/NN ./.","-- they're [ close, + in a close ] proximity. /"
+^h,A,"Um/UH ,/, let/VB 's/PRP see/VB ,/,","{F Um, } let's see, /"
+sd,A,"there/EX are/VBP four/CD of/IN them/PRP who/WP live/VBP here/RB in/IN Texas/NNP ,/, and/CC his/PRP$ mom/NN and/CC dad/NN ./.","there are four of them who live here in Texas, and his mom and dad. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/RB ,/, um/UH ,/, the/DT others/NNS live/VBP in/IN close/JJ neighboring/JJ ,/, um/UH ,/, states/NNS ,/, like/IN Nevada/NNP ,/, Arizona/NNP --/:","{C So, } {F um, } the others live in close neighboring, {F um, } states, like Nevada, Arizona --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: I/PRP think/VBP like/IN that/DT ,/,","-- I think like that, /"
+%,A,yeah/UH --/:,yeah -- /
+ba,B,"Oh/UH wow/UH ,/,","{F Oh } wow, /"
+sd,B,that/DT 's/BES wonderful/JJ ./.,that's wonderful. /
+sd,A,"--/: so/RB ,/, it/PRP 's/HVS been/VBN fun/JJ ./.","-- {C so, } it's been fun. /"
+qo,A,How/WRB about/IN you/PRP ?/.,How about you? /
+sd,B,"Well/UH ,/, we/PRP do/VBP n't/RB really/RB get/VB together/RB ,/,","{D Well, } we don't really get together, /"
+sd,B,"I/PRP ,/, I/PRP would/MD love/VB to/TO ,/,","[ I, + I ] would love to, /"
+sd,B,"and/CC that/DT 's/BES why/WRB I/PRP checked/VBD that/DT I/PRP wanted/VBD to/TO do/VB that/DT ,/, because/IN I/PRP would/MD love/VB to/TO plan/VB a/DT family/NN reunion/NN sometime/RB ./.","{C and } that's why I checked that I wanted to do that, because I would love to plan a family reunion sometime. /"
+sd,B,"Um/UH ,/, I/PRP have/VBP a/DT sister/NN in/IN Colorado/NNP ,/, and/CC ,/, uh/UH ,/, a/DT sister/NN in/IN upstate/JJ New/NNP York/NNP ,/, and/CC a/DT sister/NN in/IN Connecticut/NNP ,/, and/CC here/RB I/PRP am/VBP in/IN Texas/NNP ./.","{F Um, } I have a sister in Colorado, and, {F uh, } a sister in upstate New York, and a sister in Connecticut, and here I am in Texas. /"
+sd,B,So/RB we/PRP 're/VBP kind/RB of/RB scattered/JJ right/RB now/RB ./.,{C So } we're kind of scattered right now. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, my/PRP$ ,/, my/PRP$ cousins/NNS have/VBP a/DT ,/, you/PRP know/VBP ,/, they/PRP put/VBP on/IN a/DT family/NN reunion/NN ,/, um/UH ,/, once/RB a/DT year/NN ,/,","{C And, } {F uh, } [ my, + my ] cousins [ have a, + ] {D you know, } they put on a family reunion, {F um, } once a year, /"
+sd,B,"but/CC it/PRP 's/BES always/RB like/IN the/DT second/JJ week/NN in/IN September/NNP ,/,","{C but } it's always like the second week in September, /"
+%,B,"so/RB it/PRP 's/BES ,/,","{C so } it's, - /"
+sd,B,the/DT kids/NNS are/VBP already/RB back/RB in/IN school/NN --/:,the kids are already back in school -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC so/RB ,/, and/CC that/DT 's/BES back/RB in/IN the/DT --/:","-- [ {C and so, } + {C and } ] that's back in the -- -/"
+ba,A,That/DT 's/BES hard/JJ ./.,That's hard. /
+sd,B,"--/: and/CC that/DT 's/BES in/IN New/NNP York/NNP ,/,","-- {C and } that's in New York, /"
+sd,B,"and/CC there/EX 's/BES no/DT way/NN ,/, I/PRP mean/VBP there/EX 's/BES --/:","{C and } [ there's no way, + {E I mean } there's --"
+b,A,"Yeah/UH ,/,","Yeah, /"
++,B,--/: just/RB no/DT possible/JJ way/NN ./.,-- just no possible way. ] /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC it/PRP 's/BES not/RB really/RB a/DT weekend/NN ,/,","{C And } it's not really a weekend, /"
+sd,B,"it/PRP 's/BES just/RB like/IN a/DT day/NN kind/NN of/IN thing/NN ,/, because/IN most/JJS of/IN them/PRP are/VBP ,/, you/PRP know/VBP ,/, um/UH ,/,","it's just like a day kind of thing, because most of them are, {D you know, } {F um, } - /"
+sd,B,"my/PRP$ family/NN moved/VBD to/IN Connecticut/NNP ,/,","my family moved to Connecticut, /"
+sd,B,the/DT rest/NN of/IN the/DT family/NN stayed/VBD in/IN New/NNP York/NNP --/:,the rest of the family stayed in New York --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC ,/, uh/UH ,/, on/IN Long/NNP Island/NNP ,/,","-- and, {F uh, } on Long Island, /"
+sd,B,"and/CC so/RB ,/, they/PRP 're/VBP all/DT kind/RB of/RB local/JJ and/CC close/RB ,/,","{C and so, } they're all kind of local and close, /"
+sd,B,"and/CC so/RB they/PRP just/RB have/VBP a/DT ,/, you/PRP know/VBP ,/, a/DT day/NN picnic/NN ,/,","{C and so } they just have [ a, + {D you know, } a ] day picnic, /"
+sd,B,"and/CC ,/, uh/UH ,/, I/PRP 've/VBP always/RB thought/VBN it/PRP would/MD be/VB so/RB neat/JJ ,/, even/RB if/IN it/PRP were/VBD just/RB my/PRP$ immediate/JJ family/NN ,/, to/TO have/VB like/IN a/DT weekend/NN type/NN thing/NN --/:","{C and, } {F uh, } I've always thought it would be so neat, even if it were just my immediate family, to have like a weekend type thing -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,--/: that/WDT would/MD be/VB so/RB wonderful/JJ ./.,-- that would be so wonderful <laughter>. /
+sd,A,"It/PRP really/RB is/VBZ fun/JJ ,/,","It really is fun, /"
+sd,A,"and/CC my/PRP$ mom/NN 's/POS family/NN does/VBZ it/PRP once/RB a/DT year/NN ,/, just/RB like/IN you/PRP said/VBD --/:","{C and } my mom's family does it once a year, just like you said -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: once/RB a/DT year/NN ,/, um/UH ,/, they/PRP have/VBP a/DT ,/, a/DT ,/, a/DT Wednesday/NNP through/IN a/DT ,/, a/DT Saturday/NNP type/NN thing/NN ./.","-- once a year, {F um, } they have [ [ a, + a, ] + a ] Wednesday through [ a, + a ] Saturday type thing. /"
+sd,A,You/PRP can/MD come/VB and/CC go/VB as/IN you/PRP please/VBP type/NN thing/NN ./.,You can come and go as you please type thing. /
+ba,B,"Oh/UH ,/, wow/UH ./.","{F Oh, } wow. /"
+sd,A,And/CC they/PRP do/VBP that/DT once/RB a/DT year/NN ./.,{C And } they do that once a year. /
+sd,A,"I/PRP kind/RB of/RB missed/VBD it/PRP this/DT year/NN ,/, and/CC felt/VBD bad/JJ ,/,","I kind of missed it this year, and felt bad, /"
+sv,A,"but/CC you/PRP ca/MD n't/RB go/VB every/DT year/NN ,/,","{C but } you can't go every year, /"
+sv,A,you/PRP just/RB --/:,you just --
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,"yeah/UH ,/,","yeah, /"
++,A,--/: can/MD not/RB do/VB that/DT ./.,-- cannot do that. /
+b,B,Yeah/UH ./.,Yeah. /
+b,A,Um/UH ./.,{F Um. } /
+qy,B,"And/CC do/VBP they/PRP ,/, they/PRP have/VBP a/DT hotel/NN ,/,","{C And } do [ they, + they ] have a hotel, /"
+qrr,B,or/CC where/WRB do/VBP you/PRP stay/VB ?/.,{C or } where do you stay? /
+sd,A,"Um/UH ,/, basically/RB ,/, they/PRP just/RB stay/VBP with/IN each/DT other/NN ,/, brothers/NNS or/CC sisters/NNS ./.","{F Um, } basically, they just stay with each other, brothers or sisters. /"
+sd,A,"There/EX are/VBP enough/RB in/IN the/DT area/NN to/TO ,/, to/TO just/RB kind/RB of/RB span/VB yourself/PRP out/RP ./.","There are enough in the area [ to, + to ] just kind of span yourself out. /"
+^2,B,"Take/VB everybody/NN ,/,","Take everybody, /"
+%,B,yeah/UH ./.,yeah. /
+sd,A,"Whoever/WP 's/POS mom/NN and/CC dad/NN it/PRP is/VBZ ,/, you/PRP usually/RB go/VBP and/CC stay/VBP with/IN them/PRP ,/,","Whoever's mom and dad it is, you usually go and stay with them, /"
+sd,A,"like/IN I/PRP go/VBP stay/VB with/IN my/PRP$ mother/NN ,/,","{D like } I go stay with my mother, /"
+sd,A,"and/CC my/PRP$ cousins/NNS ,/, they/PRP just/RB go/VBP stay/VB with/IN their/PRP$ mom/NN and/CC dad/NN ,/, you/PRP know/VBP --/:","{C and } my cousins, they just go stay with their mom and dad, {D you know } --"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,uh-huh/UH ./.,uh-huh. /
++,A,--/: kind/RB of/RB thing/NN ./.,-- kind of thing. /
+sd,A,"And/CC so/RB it/PRP 's/BES not/RB hard/JJ in/IN ,/, in/IN that/DT respect/NN because/IN they/PRP all/DT are/VBP pretty/RB centralized/JJ in/IN one/CD Utah/NNP area/NN --/:","{C And so } it's not hard [ in, + in ] that respect because they all are pretty centralized in one Utah area -- /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,"yeah/UH ,/,","yeah, /"
+sd,A,"--/: so/RB that/DT 's/BES not/RB hard/JJ ,/,","-- {C so } that's not hard, /"
+sd,A,but/CC --/:,{C but } --
+ba,B,"Oh/UH ,/, that/DT sounds/VBZ so/RB wonderful/JJ ,/,","{F Oh, } that sounds so wonderful, /"
+qh,B,is/VBZ n't/RB that/RB nice/JJ ./.,isn't that nice. /
++,A,"--/: the/DT real/JJ planning/NN ,/, that/DT 's/BES the/DT real/JJ key/JJ --/:","-- the real planning, that's the real key -- /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: and/CC they/PRP send/VBP out/RP ,/,","-- {C and } they send out, - /"
+sd,A,"my/PRP$ mom/NN 's/POS family/NN now/RB ,/,","my mom's family now, - /"
+sd,A,"this/DT is/VBZ the/DT first/JJ reunion/NN with/IN my/PRP$ husband/NN 's/POS family/NN I/PRP 've/VBP really/RB been/VBN involved/JJ with/IN ,/,","this is the first reunion with my husband's family I've really been involved with, /"
+sd,A,"but/CC my/PRP$ mom/NN 's/POS family/NN ,/, each/DT brother/NN and/CC sister/NN takes/VBZ a/DT turn/NN one/CD year/NN ,/,","{C but } my mom's family, each brother and sister takes a turn one year, /"
+sd,A,and/CC that/DT 's/BES how/WRB they/PRP divide/VBP it/PRP up/PRP --/:,{C and } that's how they divide it up -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,But/CC then/RB one/CD brother/NN and/CC sister/NN from/IN each/DT family/NN ./.,{C But } then one brother and sister from each family. -/
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC each/DT one/CD of/IN them/PRP take/VBP their/PRP$ turn/NN ./.,-- {C and } each one of them take their turn. /
+ba,B,"Oh/UH ,/, wow/UH ,/,","{F Oh, } wow, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+sd,A,"And/CC then/RB the/DT ,/, the/DT parent/NN who/WP 's/POS turn/NN it/PRP is/VBZ ,/, the/DT child/NN whose/WP$ turn/NN it/PRP is/VBZ --/:","{C And then } [ the, + the ] parent who's turn it is, [ the child whose turn it is + ] --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: her/PRP$ children/NNS help/VBP her/PRP$ ,/,","-- her children help her, /"
+sd,A,like/IN if/IN it/PRP was/VBD my/PRP$ mother/NN 's/POS turn/NN --/:,{D like } if it was my mother's turn --
+ba,B,"Oh/UH ,/, I/PRP see/VBP ,/, uh-huh/UH ./.","{F Oh, } I see, uh-huh. /"
++,A,--/: all/DT of/IN us/PRP children/NNS would/MD help/VB her/PRP$ --/:,-- all of us children would help her --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: put/VB it/PRP on/IN --/:,-- put it on --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: kind/RB of/RB thing/NN ./.,-- kind of thing. /
+ba,B,"Oh/UH ,/, wow/UH ,/,","{F Oh, } wow, /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"and/CC ,/, um/UH ,/, the/DT thing/NN is/VBZ ,/, that/IN ,/, um/UH ,/, the/DT ,/, the/DT real/JJ part/NN is/VBZ there/EX are/VBP two/CD mailings/NNS that/WDT go/VBP out/RB ,/,","{C and, } {F um, } the thing is, that, {F um, } [ the, + the ] real part is there are two mailings that go out, /"
+sd,A,"and/CC the/DT first/JJ one/CD is/VBZ to/TO just/RB kind/RB of/RB give/VB an/DT approximate/JJ date/NN and/CC time/NN so/IN you/PRP can/MD start/VB making/VBG ,/,","{C and } the first one is to just kind of give an approximate date and time so you can start making, -/"

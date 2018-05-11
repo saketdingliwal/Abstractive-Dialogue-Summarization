@@ -1,0 +1,175 @@
+act_tag,speaker,pos,text
+qw^d,A,Type/NN of/IN music/NN is/VBZ hot/JJ down/IN in/IN Texas/NNP ?/.,Type of music is hot down in Texas? -/
+sd,B,"Uh/UH ,/, well/UH ,/, I/PRP do/VBP n't/RB know/VB exactly/RB what/WP 's/BES hot/JJ down/IN in/IN Texas/NNP ./.","{F Uh, } {D well, } I don't know exactly what's hot down in Texas. /"
+sd,B,"I/PRP know/VBP what/WP 's/BES hot/JJ down/IN here/RB with/IN me/PRP ,/,","I know what's hot down here with me, /"
+sd,B,"so/RB that/DT 's/BES about/RB all/DT I/PRP can/MD feel/VB apt/JJ to/TO discuss/VB with/IN you/PRP since/IN I/PRP just/RB know/VBP ,/,","{C so } that's about all I can feel apt to discuss with you since I just know, - /"
+sd,B,I/PRP do/VBP n't/RB ever/RB listen/VB to/IN the/DT radio/NN,I don't ever listen to the radio /
+sd,B,and/CC that/DT 's/BES usually/RB what/WP 's/BES hot/JJ around/IN here/RB,{C and } that's usually what's hot around here /
+qw,B,"so/RB ,/,","[ {D so, } +"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
++,B,"So/RB ,/, what/WDT kind/NN of/IN music/NN do/VBP you/PRP like/VB ?/.","{D So, } ] what kind of music do you like? /"
+sd,A,"Uh/UH ,/, mostly/RB folk/JJ music/NN ./.","{F Uh, } mostly folk music. /"
+b^m,B,Folk/JJ music/NN ./.,Folk music. /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP find/VBP myself/PRP ,/, uh/UH ,/, listening/VBG to/IN a/DT lot/NN of/IN ,/, uh/UH ,/, uh/UH ,/, either/CC old/JJ timer/NN or/CC New/NNP England/NNP ,/, uh/UH ,/, dance/NN bands/NNS as/RB well/RB as/IN ,/, uh/UH ,/, just/RB more/RBR popular/JJ folk/JJ music/NN and/CC new/JJ artists/NNS coming/VBG up/RP ./.","I find myself, {F uh, } listening to a lot of, {F uh, } {F uh, } either old timer or New England, {F uh, } dance bands as well as, {F uh, } just more popular folk music and new artists coming up. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Well/UH ,/, we/PRP 're/VBP on/IN totally/RB different/JJ wavelengths/NNS ./.","{D Well, } we're on totally different wavelengths. /"
+b,A,Okay/UH ./.,Okay. /
+sd,B,"I/PRP 'm/VBP more/JJR ,/, uh/UH ,/, old/JJ rock/NN and/CC roll/NN ,/, uh/UH ,/, some/DT new/JJ ,/, newer/JJR ,/, I/PRP guess/VBP you/PRP would/MD call/VB it/PRP heavy/JJ metal/NN rock/NN and/CC roll/NN type/NN --/:","I'm more, {F uh, } old rock and roll, {F uh, } some [ new, + newer, ] {D I guess you would call it } heavy metal rock and roll type --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: you/PRP know/VBP ,/, uh/UH ,/, Van/NNP Halen/NNP ,/, that/DT kind/NN of/IN thing/NN ./.","-- {D you know, } {F uh, } Van Halen, that kind of thing. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+qw,A,"what/WP about/IN ,/, uh/UH ,/, classic/JJ rock/NN type/NN stations/NNS ./.","what about, {F uh, } classic rock type stations. /"
+sd,B,"Uh/UH ,/, I/PRP do/VBP n't/RB listen/VB to/IN the/DT radio/NN at/IN all/DT ./.","{F Uh, } I don't listen to the radio at all. /"
+sd,B,"We/PRP live/VBP in/IN a/DT fairly/RB small/JJ town/NN ,/,","We live in a fairly small town, /"
+sd,B,so/RB --/:,{C so } --
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
++,B,"--/: uh/UH ,/, classic/JJ rock/NN for/IN me/PRP is/VBZ what/WP I/PRP have/VBP ,/, which/WDT is/VBZ like/IN ,/, uh/UH ,/, Doors/NNPS ,/, Eagles/NNPS ,/, Jimmy/NNP Hendrix/NNP ./.","-- {F uh, } classic rock for me is what I have, which is {D like, } {F uh, } Doors, Eagles, Jimmy Hendrix. /"
+sv,A,"So/RB ,/, some/DT --/:","{D So, } [ some -- +"
+b,B,"Uh/UH ,/,","{F Uh, } /"
++,A,--/: some/DT of/IN the/DT older/JJR Eagles/NNPS stuff/NN was/VBD good/JJ ./.,-- some ] of the older Eagles stuff was good. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP ,/, I/PRP did/VBD n't/RB like/VB ,/, uh/UH ,/,","[ I, + I ] didn't like, {F uh, } - /"
+sv,A,"they/PRP started/VBD getting/VBG a/DT little/RB more/RBR ,/, you/PRP know/VBP ,/,","they started getting a little more, {D you know, } - /"
+sv,A,"the/DT type/NN of/IN music/NN ,/, at/IN least/JJS to/IN me/PRP ,/, it/PRP 's/BES ,/, uh/UH ,/, sounds/VBZ like/IN it/PRP 's/BES only/RB sounds/VBZ good/JJ at/IN a/DT high/JJ volumes/NNS","the type of music, at least to me, [ [ [ it's, + {F uh, } sounds ] + like it's ] + only sounds ] good at a high volumes /"
+sd,A,and/CC I/PRP do/VBP n't/RB like/VB listening/VBG at/IN high/JJ volumes/NNS ./.,{C and } I don't like listening at high volumes. /
+b,B,Yeah/UH ./.,Yeah. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"But/CC ,/, uh/UH ,/, some/DT of/IN their/PRP$ older/JJR s-/NN ,/, stuff/NN was/VBD ,/, uh/UH ,/, you/PRP know/VBP ,/, quite/RB enjoyable/JJ to/IN me/PRP ./.","{C But, } {F uh, } some of their older [ s-, + stuff ] was, {F uh, } {D you know, } quite enjoyable to me. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"well/UH they/PRP ,/,","{D well } they, -/"
+sd,A,"You/PRP know/VBP ,/, Ho-/NNP ,/, Hotel/NNP California/NNP and/CC that/DT era/NN ./.","{D You know, } [ Ho-, + Hotel ] California and that era. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH,yeah /
+sv,B,"that/DT does/VBZ ,/, that/DT 's/BES something/NN you/PRP do/VBP n't/RB ,/, does/VBZ n't/RB even/RB sound/VB good/RB loud/RB really/RB ./. You/PRP know/VBP ./.","[ that does, + that's ] something [ you don't, + doesn't ] even sound good loud really. {D You know. } /"
+b,A,Yeah/UH ./.,Yeah. /
+aa,B,"You/PRP know/VBP ,/, definitely/UH ./.","{D You know, } definitely. /"
+qy,B,"Uh/UH ,/, so/RB ,/, anything/NN new/JJ you/PRP like/VBP coming/VBG out/RP now/RB ,/, other/JJ than/IN folk/JJ music/NN ,/, some/DT I/PRP might/MD know/VB of/IN ./.","{F Uh, } {D so, } anything new you like coming out now, other than folk music, some I might know of. /"
+sd,B,I/PRP do/VBP n't/RB know/VB any/DT folk/JJ music/NN at/IN all/DT ./.,I don't know any folk music at all. /
+sd,A,"Well/UH ,/, down/IN in/IN Texas/NNP ,/, uh/UH ,/, you/PRP know/VBP ,/, little/JJ ,/, listen/VBP to/IN a/DT little/JJ country/JJ every/DT now/RB and/CC then/RB ./.","{D Well, } down in Texas, {F uh, } {D you know, } [ little, + listen to a little ] country every now and then. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,"oh/UH yeah/UH ,/,","{F oh } yeah, /"
+%,B,"here/RB ,/,","here, -/"
+sv,A,I/PRP 'm/VBP sure/JJ there/EX 's/BES a/DT lot/NN of/IN that/DT down/IN there/RB ./.,I'm sure there's a lot of that down there. /
+sv,B,"Oh/UH ,/, plenty/JJ ./.","{F Oh, } plenty. /"
+sv,B,"Way/RB ,/, way/RB more/RBR than/IN I/PRP can/MD stand/VB down/IN here/RB ./.","[ Way, + way ] more than I can stand down here. /"
+x,A,./.,<Laughter>.
+sd,B,"I/PRP ,/, I/PRP do/VBP n't/RB care/VB for/IN it/PRP at/IN all/DT ,/, that/DT Texas/NNP twang/NN or/CC whatever/WP you/PRP want/VBP to/TO call/VB it/PRP ./.","<Laughter> [ I, + I ] don't care for it at all, that Texas twang or whatever you want to call it. /"
+%,B,"I/PRP ,/,","I, -/"
+sd,A,"Well/UH ,/, there/EX ,/, there/EX 's/BES a/DT Conway/NNP Twitty/NNP twang/NN ,/,","{D Well, } [ there, + there's ] a Conway Twitty twang, /"
+sd,A,"then/RB there/EX 's/BES the/DT ,/, uh/UH ,/, Dolly/NNP Parton/NNP ,/, uh/UH ,/, Hollywood/NNP sound/NN ./.","then there's the, {F uh, } Dolly Parton, {F uh, } Hollywood sound. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+sv,B,"that/DT 's/BES more/RBR ,/, even/RB more/RBR commercialized/JJ for/IN of/IN --/:","that's [ more, + even more ] commercialized [ for + ] [ of + ] --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: country/NN music/NN ./.,-- country music. /
+sv,B,"But/CC ,/, uh/UH ,/, it/PRP 's/BES getting/VBG ,/, uh/UH ,/, uh/UH ,/, getting/VBG pretty/RB big/JJ everywhere/RB ,/, as/IN I/PRP see/VBP it/PRP ./.","{C But, } {F uh, } it's [ getting, + {F uh, } {F uh, } getting ] pretty big everywhere, as I see it. /"
+sd,B,Garth/NNP Brooks/NNP is/VBZ outselling/VBG Guns/NNPS and/CC Roses/NNPS,Garth Brooks is outselling Guns and Roses /
+%,B,"so/RB ,/,","{D so, } -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"I/PRP think/VBP some/DT of/IN them/PRP ,/, the/DT artists/NNS are/VBP even/RB ,/, uh/UH ,/, hitting/VBG the/DT pop/NN charts/NNS ./.","I think some of them, the artists are even, {F uh, } hitting the pop charts. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"it/PRP 's/BES ,/, it/PRP 's/BES kind/RB of/RB strange/JJ that/IN it/PRP 's/BES getting/VBG as/RB big/JJ as/IN it/PRP is/VBZ ./.","[ it's, + it's ] kind of strange that it's getting as big as it is. /"
+sv,B,"Concert/NN tours/NNS for/IN country/JJ and/CC western/JJ sings/NNS is/VBZ ,/, it/PRP 's/BES ,/, it/PRP 's/BES quite/RB ,/, quite/RB odd/JJ ,/,","Concert tours for country and western sings [ [ is, + it's, ] + it's ] [ quite, + quite ] odd, /"
+h,B,"but/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","{C but, } {F uh, } I don't know, /"
+sv,B,"it/PRP 's/BES ,/, music/NN is/VBZ kind/RB of/RB going/VBG an/DT odd/JJ direction/NN nowadays/RB ,/, I/PRP think/VBP ./.","[ it's, + music is ] kind of going an odd direction nowadays, I think. /"
+sv,B,"It/PRP 's/BES becoming/VBG not/RB necessarily/RB good/JJ music/NN ,/, just/RB popular/JJ music/NN ,/, you/PRP know/VBP ./.","It's becoming not necessarily good music, just popular music, {D you know. } /"
+ba,A,"Hey/UH ,/,","Hey, /"
+sv,A,"I/PRP ,/, I/PRP ,/, I/PRP think/VBP most/JJS artists/NNS are/VBP in/RB to/TO make/VB a/DT few/JJ bucks/NNS ./.","[ [ I, + I, ] + I ] think most artists are in to make a few bucks. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"and/CC that/DT 's/BES all/DT it/PRP ,/,","{C and } that's all it, -/"
+sv,A,But/CC they/PRP 're/VBP not/RB in/IN it/PRP to/TO say/VB anything/NN or/CC give/VB a/DT message/NN --/:,{C But } they're not in it to say anything or give a message --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: which/WDT is/VBZ what/WP they/PRP were/VBD do-/XX ,/,","-- which is what they were do-, - /"
+sv,A,"late/JJ ,/, late/JJ sixties/NNS ,/, early/JJ seventies/NNS ,/, they/PRP were/VBD --/:","[ late, + late ] sixties, early seventies, [ they were -- +"
+%,B,"That/DT 's/BES what/WP it/PRP ,/,","That's what it, -/"
++,A,--/: they/PRP were/VBD definitely/RB pushing/VBG a/DT message/NN ./.,-- they were ] definitely pushing a message. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"that/DT 's/BES what/WP ,/, what/WP you/PRP say/VBP ,/,","that's [ what, + what ] you say, /"
+sv,B,"and/CC ,/, and/CC then/RB music/NN is/VBZ wrapped/VBN around/RB now/RB ./.","[ {C and, } + {C and then } ] music is wrapped around now. /"
+sv,B,"Now/RB ,/, it/PRP 's/BES the/DT other/JJ way/NN around/RB ./.","Now, it's the other way around. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"I/PRP ,/, I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB think/VB Gun/NN ,/,","[ [ I, + I don't, ] + I don't ] think Gun, - /"
+sv,A,"at/IN least/JJS to/IN my/PRP$ mind/NN ,/, Guns/NNPS and/CC Roses/NNPS does/VBZ n't/RB have/VB too/RB much/JJ of/IN a/DT message/NN ,/, too/RB much/JJ to/TO say/VB ./.","at least to my mind, Guns and Roses doesn't have [ too much of a message, + too much to say. ] /"
+aa,B,"No/UH ,/,","<Laughter> No, /"
+aa,B,"no/UH ,/,","no, /"
+sv,B,they/PRP do/VBP n't/RB have/VB anything/NN really/RB important/JJ you/PRP want/VBP to/TO hear/VB ./.,they don't have anything really important you want to hear. /
+sv,B,"But/CC ,/, you/PRP know/VBP ,/, it/PRP 's/BES kind/RB of/RB odd/JJ ,/,","{C But, } {D you know, } it's kind of odd, /"
+sv,B,"it/PRP 's/BES like/IN ,/, it/PRP does/VBZ n't/RB have/VB to/TO be/VB good/JJ ,/,","it's like, it doesn't have to be good, /"
+sv,B,"it/PRP 's/BES just/RB who/WP does/VBZ it/PRP ,/, you/PRP know/VBP ./.","it's just who does it, {D you know. } /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"You/PRP hear/VBP a/DT ,/, you/PRP hear/VBP a/DT Paula/NNP Abdul/NNP song/NN","[ You hear a, + you hear a ] Paula Abdul song /"
+%,B,"and/CC you/PRP ,/,","{C and } you, - /"
+sv,B,"and/CC I/PRP think/VBP ,/, if/IN somebody/NN else/RB were/VBD to/TO play/VB that/DT ,/, you/PRP know/VBP ,/, they/PRP would/MD n't/RB ,/, they/PRP ,/, nobody/NN ,/, everybody/NN would/MD think/VB ,/, that/DT 's/BES lousy/JJ ,/,","{C and } I think, if somebody else were to play that, {D you know, } [ they wouldn't, + [ [ they, + nobody, ] + everybody ] would ] think, that's lousy, /"
+sv,B,"but/CC because/IN she/PRP did/VBD it/PRP ,/, it/PRP 's/BES supposed/VBN to/TO be/VB good/JJ ,/, you/PRP know/VBP ,/,","{C but } because she did it, it's supposed to be good, {D you know, } /"
+sv,B,"it/PRP comes/VBZ to/IN the/DT point/NN where/WRB it/PRP 's/HVS your/PRP$ name/NN ,/, not/RB what/WP you/PRP do/VBP --/:","it comes to the point where it's your name, not what you do --"
+b,A,Right/UH ./.,Right. /
++,B,--/: more/JJR than/IN anything/NN ./.,-- more than anything. /
+sv,B,Madonna/NNP can/MD do/VB anything/NN,Madonna can do anything /
+sv,B,"and/CC it/PRP would/MD be/VB considered/VBN good/JJ because/IN it/PRP 's/BES Madonna/NNP ,/, you/PRP know/VBP ./.","{C and } it would be considered good because it's Madonna, {D you know. } /"
+b,A,Right/UH ./.,Right. /
+sd,B,Madonna/NNP could/MD start/VB playing/VBG folk/JJ music/NN,Madonna could start playing folk music /
+sv,B,"and/CC folk/JJ music/NN would/MD be/VB huge/JJ just/RB because/IN Madonna/NNP does/VBZ it/PRP ,/,","{C and } folk music would be huge just because Madonna does it, /"
+sv,B,so/RB --/:,{C so } --
+b,A,Uh-huh/UH ./.,Uh-huh <laughter>. /
++,B,"--/: it/PRP 's/BES ,/, it/PRP 's/BES ,/, it/PRP 's/BES really/RB backwards/RB how/WRB things/NNS are/VBP working/VBG now/RB","-- [ [ it's, + it's, ] + it's ] really backwards how things are working now /"
+%,B,"but/CC ,/,","{C but, } -/"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+bf,A,"i-/PRP ,/, i-/PRP ,/, it/PRP 's/BES the/DT artist/NN ,/, not/RB the/DT merit/NN ./.","[ [ i-, + i-, ] + it's ] the artist, not the merit. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,exactly/UH ./.,exactly. /
+sv,B,"So/RB ,/, I/PRP do/VBP n't/RB know/VB ,/, I/PRP ,/, I/PRP do/VBP n't/RB know/VB that/IN that/DT 's/BES ,/, I/PRP do/VBP n't/RB think/VB that/DT 's/BES a/DT good/JJ thing/NN at/IN all/DT ,/,","{D So, } [ [ I don't know, + [ I, + I ] don't know that that's, ] + I don't think that's ] a good thing at all, /"
+sv,B,"but/CC that/DT 's/BES ,/, that/DT 's/BES what/WP the/DT ,/, point/NN we/PRP 've/VBP reached/VBN ,/,","{C but } [ that's + <laughter>, that's ] [ what + ] the, point we've reached, /"
+sd,B,so/RB I/PRP do/VBP n't/RB know/VB how/WRB --/:,{C so } I don't know [ how -- +
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: how/WRB much/RB farther/RB we/PRP can/MD digress/VB before/IN we/PRP have/VBP to/TO turn/VB it/PRP around/RB and/CC go/VB the/DT other/JJ way/NN ,/, at/IN least/JJS ./.","-- how ] much farther we can digress before we have to turn it around and go the other way, at least. /"
+h,A,"Well/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","{D Well, } I don't know, /"
+sd,A,"I/PRP know/VBP for/IN myself/PRP that/DT ,/, uh/UH ,/, for/IN the/DT most/JJS part/NN ,/, I/PRP do/VBP n't/RB know/VB which/WDT artist/NN is/VBZ which/WDT ,/,","I know for myself that, {F uh, } for the most part, I don't know which artist is which, /"
+sd,A,"so/RB I/PRP listen/VBP to/IN a/DT song/NN ,/,","{C so } I listen to a song, /"
+sd,A,I/PRP either/RB like/VBP the/DT song/NN,I either like the song /
+sd,A,or/CC I/PRP do/VBP n't/RB like/VB it/PRP --/:,{C or } I don't like it -- /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: and/CC then/RB if/IN I/PRP really/RB like/VBP the/DT song/NN ,/, eventually/RB I/PRP 'll/MD figure/VB out/RP who/WP it/PRP was/VBD ./.","-- {C and then } if I really like the song, eventually I'll figure out who it was. /"
+b,B,Yeah/UH ./.,Yeah. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,that/DT 's/BES about/RB how/WRB I/PRP am/VBP on/IN popular/JJ music/NN ./.,that's about how I am on popular music. /
+sd,B,"I/PRP do/VBP n't/RB ,/, you/PRP know/VBP ,/, you/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB know/VB enough/RB about/IN it/PRP because/IN I/PRP just/RB listen/VBP ,/,","[ [ I don't, + {D you know, } you don't, ] + I don't ] know enough about it because I just listen, - /"
+sd,B,"uh/UH ,/, everything/NN I/PRP listen/VB to/IN is/VBZ what/WP I/PRP buy/VBP ,/, not/RB whatever/WDT they/PRP play/VBP on/IN the/DT radio/NN","{F uh, } everything I listen to is what I buy, not whatever they play on the radio /"
+%,B,"so/RB ,/,","{C so, } -/"
+sv,A,"Well/UH ,/, you/PRP have/VBP to/TO figure/VB out/RP what/WP to/TO buy/VB ,/,","{D Well, } you have to figure out what to buy, /"
+qy,A,or/CC do/VBP you/PRP just/RB buy/VB along/IN the/DT same/JJ artist/NN ?/.,{C or } do you just buy along the same artist? /
+%,B,"Uh/UH ,/, I/PRP ,/,","{F Uh, } I, - /"
+ny,B,"yeah/UH ,/,","yeah, /"
+sd,B,I/PRP just/RB mostly/RB buy/VB along/IN the/DT same/JJ lines/NNS all/PDT the/DT time/NN ./.,I just mostly buy along the same lines all the time. /
+sd,B,I/PRP do/VBP n't/RB really/RB switch/VB around/IN to/IN new/JJ things/NNS very/RB often/RB ./.,I don't really switch around to new things very often. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"It/PRP 's/BES just/RB ,/, it/PRP 's/BES ,/, you/PRP know/VBP ,/, it/PRP 's/BES way/RB to/^RB hectic/JJ and/CC too/RB confusing/JJ ./.","[ [ It's just, + it's, ] + {D you know, } it's ] way to hectic and too confusing. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+qy,A,"so/RB you/PRP keep/VBP buying/VBG the/DT same/JJ artists/NNS until/IN you/PRP do/VBP n't/RB like/VB an/DT album/NN ,/, then/RB you/PRP stop/VBP ?/.","{D so } you keep buying the same artists until you don't like an album, then you stop? /"
+%,B,"Uh/UH ,/,","{F Uh, } /"
+ny,B,"yeah/UH ,/,","yeah, /"
+sd,B,"generally/RB ,/,","generally, /"
+sd,B,"or/CC ,/, about/RB the/DT only/JJ new/JJ music/NN I/PRP hear/VBP is/VBZ somebody/NN else/RB that/WDT I/PRP know/VBP --/:","{C or, } about the only new music I hear is somebody else that I know --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: will/MD buy/VB something/NN new/JJ that/WDT I/PRP have/VBP n't/RB heard/VBN,-- will buy something new that I haven't heard /
+sd,B,"and/CC I/PRP listen/VBP to/IN it/PRP that/DT way/NN ,/,","{C and } I listen to it that way, /"
+%,B,"but/CC as/RB far/RB as/IN ,/,","{C but } as far as, - /"
+%,B,"yeah/UH ,/,","yeah, /"
+sd,B,I/PRP do/VBP n't/RB go/VB out/RB on/IN a/DT limb/NN and/CC buy/VB something/NN new/JJ very/RB often/RB unless/IN I/PRP 've/VBP heard/VBN it/PRP ./.,I don't go out on a limb and buy something new very often unless I've heard it. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"see/UH ,/, that/DT 's/BES one/CD thing/NN I/PRP like/VBP about/RB the/DT ,/, uh/UH ,/, some/DT of/IN the/DT folk/JJ music/NN scenes/NNS ,/, you/PRP know/VBP ,/,","{D see, } that's one thing I like about [ the, + {F uh, } some ] of the folk music scenes, {D you know, } /"
+sd,A,"there/EX 's/BES a/DT couple/NN of/IN nice/JJ ,/, uh/UH ,/, small/JJ coffee/NN houses/NNS up/IN in/IN New/NNP Jersey/NNP ./.","there's a couple of nice, {F uh, } small coffee houses up in New Jersey. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC ,/, it/PRP 's/BES very/RB nice/JJ ,/,","{C And, } it's very nice, /"
+sd,A,you/PRP go/VBP into/IN the/DT coffee/NN house/NN,you go into the coffee house /
+sd,A,"and/CC ,/, you/PRP know/VBP ,/, an/DT artist/NN is/VBZ there/RB","{C and, } {D you know, } an artist is there /"
+sd,A,"and/CC very/RB often/RB the/DT artist/NN will/MD have/VB a/DT d-/XX ,/, an/DT album/NN","{C and } very often the artist will have [ a d-, + an album ] /"
+sd,A,"and/CC ,/, so/RB if/IN you/PRP like/VBP the/DT artist/NN ,/, you/PRP buy/VBP the/DT album/NN ./.","{C and, so } if you like the artist, you buy the album. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,So/RB you/PRP definitely/RB get/VBP to/TO try/VB before/IN you/PRP buy/VBP ./.,{C So } you definitely get to try before you buy. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,"yeah/UH ,/,","yeah, /"
+%,B,that/DT 's/BES definitely/RB,that's definitely - /
+%,B,"I/PRP ,/,","I, -/"
+%,A,"You/PRP know/VBP ,/, it/PRP ,/,","{D You know, } it, - /"
+sv,A,"you/PRP ,/, you/PRP ,/, you/PRP do/VBP n't/RB always/RB quite/RB get/VB it/PRP right/JJ ,/,","[ [ you, + you, ] + you ] don't always quite get it right, /"

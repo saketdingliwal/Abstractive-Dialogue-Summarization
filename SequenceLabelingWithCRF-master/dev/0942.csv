@@ -1,0 +1,114 @@
+act_tag,speaker,pos,text
+sd,A,"Actually/UH ,/, I/PRP 've/VBP been/VBN involved/JJ in/IN electronics/NN a/DT long/JJ time/NN ./. Uh/UH ,/, in/IN computers/NNS","<Noise> {D Actually, } I've been involved in electronics a long time. {F Uh, } in computers /"
+sd,A,and/CC I/PRP have/VBP really/RB resisted/VBN the/DT impulse/NN to/TO get/VB one/CD for/IN the/DT home/NN ./.,{C and } I have really resisted the impulse to <swallowing> get one for the home.
+b,B,Oh/UH yeah/UH ./.,<Tone> <static> {F Oh } yeah. /
++,A,"Uh/UH ,/, up/IN until/IN ,/, I/PRP guess/VBP ,/, maybe/RB about/RB a/DT year/NN and/CC a/DT half/NN ago/RB ,/,","{F Uh, } up until, I guess, maybe about a year and a half ago, /"
+sd,A,"I/PRP got/VBD one/CD for/IN my/PRP$ son/NN ./. A/DT ,/, a/DT Macintosh/NNP --/:","I got one for my son. [ A, + a ] Macintosh --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: uh/UH ,/, L/NNP C/NNP ./.","-- {F uh, } L C. /"
+sd,A,"It/PRP 's/BES a/DT real/RB easy/JJ to/TO use/VB color/NN ,/, uh/UH ,/, computer/NN","It's a real easy to use color, {F uh, } computer /"
+sd,A,and/CC I/PRP got/VBD a/DT very/RB nice/JJ printer/NN that/WDT goes/VBZ along/IN with/IN it/PRP,{C and } I got a very nice printer that goes along with it /
+sd,A,and/CC he/PRP uses/VBZ it/PRP for/IN his/PRP$ school/NN work/NN ./.,{C and } he uses it for his school work. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Well/UH ,/, I/PRP 've/VBP ,/, I/PRP 'm/VBP currently/RB in/IN school/NN","{D Well, } [ I've, + I'm ] currently in school /"
+sd,B,"so/RB I/PRP ,/, I/PRP 've/VBP had/VBN an/DT I/NNP B/NNP M/NNP clone/NN ,/, I/PRP guess/VBP ,/, for/IN a/DT couple/NN of/IN years/NNS now/RB ,/, which/WDT I/PRP 've/VBP been/VBN trying/VBG ,/, continually/RB upgrading/VBG I/PRP guess/VBP ./.","{C so } [ I, + I've ] had an I B M clone, I guess, for a couple of years now, which I've been trying, continually upgrading I guess. /"
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP 've/VBP found/VBN ,/, I/PRP 've/VBP found/VBN that/IN I/PRP pretty/RB much/RB become/VBP addicted/JJ to/IN it/PRP","{C And, } {F uh, } [ I've found, + I've found ] that I pretty much become addicted to it /"
+%,B,"and/CC I/PRP ca/MD n't/RB really/RB ,/,","{C and } I can't really, - /"
+sd,B,"I/PRP 've/VBP found/VBN that/IN most/JJS of/IN homework/NN assignments/NNS MUMBLEx/XX really/RB require/VBP some/DT sort/NN of/IN computer/NN ,/, uh/UH ,/, simulation/NN or/CC analysis/NN ,/,","I've found that most of homework assignments (( )) really require some sort of computer, {F uh, } simulation or analysis, /"
+%,B,so/RB --/:,{C so } -- -/
+b,A,Huh/UH ./.,Huh. /
+sd,B,"--/: it/PRP ,/, it/PRP 's/BES pr-/XX ,/, very/RB essential/JJ for/IN me/PRP ./.","-- [ it, + it's ] [ pr-, + very ] essential for me. /"
+sd,B,"Schools/NNS have/VBP them/PRP ,/,","Schools have them, /"
+sd,B,"uh/UH ,/, but/CC lot/NN of/IN times/NNS so/RB difficult/JJ to/TO get/VB on/IN them/PRP at/IN school/NN ./.","{F uh, } {C but } lot of times so difficult to get on them at school. /"
+sv,B,"It/PRP 's/BES very/RB easy/JJ ,/, it/PRP 's/BES much/RB more/RBR convenient/JJ to/TO have/VB one/CD at/IN home/NN ./.","[ It's very easy, + it's much more convenient ] to have one at home. /"
+qw,A,Where/WRB you/PRP going/VBG to/IN school/NN ?/.,<Lipsmack> Where you going to school? /
+sd,B,At/IN Georgia/NNP Tech/NNP ./.,At Georgia Tech. /
+bk,A,I/PRP see/VBP ./.,I see. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,so/UH ./.,{C so. } -/
+qy^d,A,In/IN engineering/NN ?/.,In engineering? /
+ny,B,"Yes/UH ,/, actually/UH ./.","Yes, actually. /"
+bf,A,"So/RB that/DT explains/VBZ wha/WP ,/, all/PDT the/DT ,/, uh/UH ,/, computer/NN assignments/NNS ./.","{C So } that explains [ wha-, + ] all the, {F uh, } computer assignments. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"it/PRP ,/, uh/UH ,/,","it, {F uh, } -/"
+qy,A,"Well/UH ,/, do/VBP you/PRP use/VB your/PRP$ P/NN C/NN for/IN things/NNS other/JJ than/IN explicit/JJ computer/NN work/NN ?/.","{D Well, } do you use your P C for things other than explicit computer work? /"
+na,B,"Um/UH ,/, sure/UH ./.","{F Um, } sure. /"
+sd,B,"I/PRP have/VBP some/DT games/NNS ,/, of/IN course/NN ,/, which/WDT I/PRP play/VBP on/RP there/RB","I have some games, <noise> of course, which I play on there /"
+sd,B,"and/CC ,/, uh/UH ,/, uh/UH ,/, I/PRP have/VBP a/DT program/NN which/WDT allows/VBZ me/PRP to/TO access/VB a/DT ,/, uh/UH ,/, weather/NN data/NN bank/NN","{C and, } {F uh, } {F uh, } <noise> I have a program which allows me to access a, {F uh, } weather data bank /"
+sd,B,"so/RB I/PRP can/MD ,/, like/UH ,/, check/VB up/RP on/IN the/DT weather/NN around/IN the/DT country/NN or/CC whatever/WDT which/WDT is/VBZ a/DT hobby/NN ./.","{C so } I can, {D like, } check up on the weather around the country or whatever (( which is )) a hobby. /"
+sd,B,"So/RB ,/, it/PRP provides/VBZ other/JJ means/NNS other/JJ than/IN just/RB strict/JJ ,/, uh/UH ,/, you/PRP know/VBP ,/, computations/NNS and/CC so/RB on/RP ,/,","{C So, } it provides other means other than just strict, {F uh, } {D you know, } computations and so on, /"
+qy,B,"so/RB ./. Have/VBP you/PRP ,/, do/VBP you/PRP have/VB a/DT computer/NN for/IN yourself/PRP at/IN home/NN ?/.","{C so. } [ Have you, + do you ] have a computer for yourself at home? /"
+nn,A,No/UH ./.,<Lipsmack> No. /
+nn,A,"No/UH ,/,","No, /"
+sd,A,I/PRP just/RB have/VBP one/CD for/IN my/PRP$ son/NN,I just have one for my son /
+sv,A,and/CC I/PRP really/RB sort/RB of/RB have/VBP the/DT feeling/NN that/IN word/NN processing/NN is/VBZ a/DT big/JJ market/NN for/IN --/:,{C and } I really sort of have the feeling that word processing is a big market for --
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,--/: home/NN computing/NN ./.,-- home computing. /
+b,B,Yeah/UH ./.,Yeah. /
+%,B,"Tha-/DT ,/,","Tha-, -/"
+sd,A,"At/IN wo-/NN ,/, at/IN work/NN ,/, uh/UH ,/, I/PRP 'm/VBP a/DT technologist/NN ,/, uh/UH ,/,","[ At wo-, + at work, ] {F uh, } <laughter> I'm a technologist, {F uh, } /"
+sd,A,"and/CC I/PRP ,/, in/IN the/DT past/NN ,/, have/VBP done/VBN a/DT great/JJ deal/NN of/IN ,/, of/IN ,/, uh/UH ,/, system/NN development/NN just/RB through/IN ,/, uh/UH ,/, software/NN development/NN programming/NN ./.","{C and } I, in the past, have done a great deal [ of, + of, ] {F uh, } system development just through, {F uh, } software development programming. /"
+sd,A,"Uh/UH ,/, but/CC now/RB I/PRP find/VBP myself/PRP using/VBG the/DT computer/NN ,/,","{F Uh, } {C but } now I find myself using the computer, /"
+sv,A,"even/RB the/DT computer/NN at/IN work/NN is/VBZ primarily/RB a/DT ,/, uh/UH ,/, word/NN processing/NN system/NN --/:","even the computer at work is primarily a, {F uh, } word processing system --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: and/CC a/DT communication/NN system/NN ./.,-- and a communication system. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+qy,B,Do/VBP you/PRP use/VB Email/NNP and/CC like/IN that/DT ?/.,Do you use Email and like that? /
+ny,A,Yes/UH ./.,Yes. /
+sd,A,"Emil/^NNP is/VBZ ,/, probably/RB pulls/VBZ down/RP a/DT third/JJ a-/XX ,/, of/IN all/DT my/PRP$ time/NN ./.","Emil [ is, + probably pulls ] down a third [ a-, + of ] all my time. /"
+b,B,Yeah/UH ./.,Yeah. /
+%,B,"It/PRP 's/BES ,/,","It's, - /"
+sd,B,"I/PRP ,/, I/PRP ,/, uh/UH ,/, I/PRP have/VBP modem/NN MUMBLEx/XX night/NN computer/NN","[ [ I, + + I, ] + {F uh, } I ] have modem (( )) night computer /"
+sd,B,"so/RB I/PRP can/MD log/VB into/IN the/DT sys-/NN ,/, the/DT ,/, uh/UH ,/, network/NN at/IN Georgia/NNP Tech/NNP and/CC access/VB my/PRP$ account/NN through/IN there/RB ,/, which/WDT is/VBZ ,/, which/WDT can/MD be/VB useful/JJ ./.","{C so } I can log into [ the sys-, + the, {F uh, } network ] at Georgia Tech and access my account through there, [ which is, + which ] can be useful. /"
+%,B,"But/CC ,/, uh/UH ,/, yeah/UH","{C But, } {F uh, } yeah /"
+%,B,"that/DT 's/BES ,/, that/DT and/CC word/NN processing/NN is/VBZ","[ that's, + that ] and word processing is - /"
+sd,B,"while/IN I/PRP tend/VBP to/TO ,/,","(( while )) I tend to, - /"
+sd,B,"I/PRP mean/VBP ,/, obviously/RB ,/, I/PRP do/VBP most/JJS of/IN my/PRP$ ,/, almost/RB all/DT of/IN my/PRP$ report/NN writing/NN on/IN ,/, on/IN my/PRP$ computer/NN ,/, uh/UH ,/, whether/IN it/PRP 's/BES term/NN papers/NNS or/CC even/RB some/DT smaller/JJR homework/NN assignments/NNS ./.","{E I mean, } obviously, I do [ most of my, + almost all of my ] report <noise> writing [ on, + on ] my computer, {F uh, } whether it's term papers or even some smaller homework assignments. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"So/RB it/PRP 's/HVS ,/, it/PRP 's/HVS really/RB become/VBN ,/, I/PRP do/VBP n't/RB know/VB ,/, really/RB become/VBN my/PRP$ mainstay/NN I/PRP guess/VBP ./.","{C So } [ it's, + it's ] [ really become, + I don't know, really become ] my mainstay I guess. /"
+h,B,"I/PRP ca/MD n't/RB even/RB remember/VB ,/,","I can't even remember, /"
+sd,B,"actually/UH I/PRP do/VBP n't/RB think/VB I/PRP 've/VBP ever/RB used/VBN a/DT typewriter/NN in/IN ,/, in/IN my/PRP$ life/NN to/TO do/VB a/DT ,/, a/DT to/TO do/VB a/DT report/NN ./. Because/IN my/PRP$ family/NN ,/, when/WRB I/PRP was/VBD growing/VBG up/RP ,/, we/PRP got/VBD a/DT basic/JJ computer/NN ./. T/NNP R/NNP S/NNP Eighty/CD when/WRB they/PRP first/RB came/VBD out/RP ./.","{D actually } I don't think I've ever used a typewriter [ in, + in ] my life [ to do [ a, + a ] + to do a ] report. Because my family, when I was growing up, we got a basic computer. T R S Eighty when they first came out. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC I/PRP even/RB used/VBD that/DT to/TO do/VB my/PRP$ first/JJ reports/NNS when/WRB I/PRP was/VBD in/IN junior/JJ high/JJ ,/,","{C And } I even used that to do my first reports when I was in junior high, /"
+%,B,so/RB ./.,{C so } <noise>. -/
+sd,A,Huh/UH ./. Well/UH I/PRP 'm/VBP a/DT old-timer/NN ./.,{F Huh. } {D Well } I'm a old-timer. /
+sd,A,"I/PRP did/VBD my/PRP$ Master/NN 's/POS thesis/NN on/IN ,/, uh/UH ,/, a/DT typewriter/NN ./.","I did my Master's thesis on, {F uh, } a typewriter. /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,"Uh/UH ,/, I/PRP rented/VBD an/DT I/NNP B/NNP M/NNP Selectric/NNP ./.","{F Uh, } I rented an I B M Selectric. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,And/CC it/PRP was/VBD a/DT pretty/RB big/JJ deal/NN ./.,{C And } it was a pretty big deal. /
+b,B,Yeah/UH ./.,Yeah. /
+ba,B,It/PRP must/MD have/VB been/VBN tough/JJ ./.,It must have been tough. /
+sv,B,It/PRP 's/BES a/DT little/JJ bit/NN strange/JJ for/IN me/PRP ./.,It's a little bit strange for me. /
+sd,B,"I/PRP ,/, I/PRP did/VBD my/PRP$ Master/NN 's/POS thesis/NN ,/, uh/UH ,/, last/JJ year/NN","[ I, + I ] did my Master's thesis, {F uh, } last year /"
+sd,B,and/CC I/PRP did/VBD that/DT on/IN a/DT computer/NN,{C and } I did that on a computer /
+sv,B,"and/CC it/PRP seems/VBZ like/IN ,/,","{C and } it seems like, - /"
+sd,B,I/PRP just/RB ca/MD n't/RB imagine/VB how/WRB people/NNS did/VBD it/PRP before/RB ./.,I just can't imagine how people did it before. /
+sv,B,"It/PRP must/MD have/VB been/VBN just/RB so/RB much/JJ ,/, so/RB much/JJ work/NN ./.","It must have been just [ so much, + so much ] work <noise>. /"
+aa,A,Yeah/UH ./.,Yeah. /
+sv,A,"It/PRP ,/, uh/UH ,/, well/UH ,/, you/PRP know/VBP ,/, it/PRP 's/BES just/RB ,/, it/PRP was/VBD just/RB a/DT completely/RB different/JJ world/NN then/RB ./.","[ [ It, + {F uh, } {D well, } {D you know, } it's just, ] + it was just ] a completely different world then. /"
+b,B,Yeah/UH ./.,Yeah. /
+qy,B,"So/RB ,/, uh/UH ,/, MUMBLEx/XX so/RB yo-/PRP ,/, you/PRP used/VBD your/PRP$ son/NN 's/POS Macintosh/NNP then/RB ?/.","[ {C So, } + {F uh, } (( )) {C so } ] [ yo-, + you ] used your son's Macintosh then? /"
+qy,B,"Do/VBP you/PRP ,/, do/VBP you/PRP find/VB it/PRP ,/, do/VBP you/PRP like/VB that/DT kind/NN of/IN computer/NN ?/.","[ [ Do you, + do you find it, ] + do you like ] that kind of computer? /"
+na,A,"I/PRP like/VBP it/PRP ,/,","I like it, /"
+ny,A,yeah/UH ./.,yeah. /
+sd,A,I/PRP like/VBP it/PRP from/IN a/DT distance/NN really/RB ./.,I like it from a distance really. /
+sd,A,"I/PRP ,/, I/PRP see/VBP the/DT packages/NNS on/IN it/PRP ,/, uh/UH ,/, that/WDT are/VBP available/JJ","[ I, + I ] see the packages on it, {F uh, } that are available /"
+sv,A,and/CC it/PRP 's/BES nice/JJ ./.,{C and } it's nice. /
+sd,A,I/PRP really/RB do/VBP n't/RB use/VB it/PRP myself/PRP ./.,I really don't use it myself. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, I/PRP ,/, when/WRB I/PRP come/VBP home/RB from/IN work/NN ,/, I/PRP ,/, I/PRP like/VBP to/TO stay/VB far/RB away/RB from/IN --/:","{F Uh, } [ I, + when I ] come home from work, [ I, + I ] like to stay far away from --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: computers/NNS and/CC electronic/JJ things/NNS ./.,-- computers and electronic things <laughter>. /
+b,B,Huh/UH ./.,Huh. /
+sd,A,"Uh/UH ,/, so/RB I/PRP let/VBP my/PRP$ son/NN do/VB it/PRP","{F Uh, } {C so } I let my son do it /"
+sv,A,"and/CC ,/,","{C and, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"Uh/UH ,/, of/IN course/NN ,/, you/PRP know/VBP ,/, there/EX 's/BES ,/, uh/UH ,/, there/EX 's/BES an/DT intellectual/JJ evolution/NN taking/VBG place/NN where/WRB ,/,","{F Uh, } of course, {D you know, } [ there's, + {F uh, } there's ] an intellectual evolution taking place where, - /"
+h,A,it/PRP 's/BES sort/RB of/RB a/DT joke/NN,it's sort of a joke /
+sv,A,"but/CC it/PRP 's/BES really/RB true/JJ ,/,","{C but } it's really true, /"
+sv,A,"the/DT old-timers/NNS ,/, even/RB the/DT people/NNS who/WP are/VBP technologists/NNS do/VBP n't/RB know/VB how/WRB to/TO operate/VB these/DT electronic/JJ things/NNS like/IN V/NN C/NN R/NN -s/NNS and/CC whatnot/WP","the old-timers, even the people who are technologists don't know how to operate these electronic things like V C R -s and whatnot /"
+sv,A,"and/CC the/DT kids/NNS ,/, they/PRP just/RB take/VBP to/IN it/PRP like/IN candy/NN ./.","{C and } the kids, they just take to it like candy. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"Well/UH ,/, i-/IN ,/, if/IN ,/, if/IN ,/, if/IN the/DT interface/NN is/VBZ there/RB so/IN that/IN it/PRP 's/BES like/UH fun/JJ to/TO use/VB and/CC the/DT challenge/NN ,/,","{D Well, } [ [ [ i-, + if, ] + if, ] + if ] the interface is there so that it's {D like } fun to use {C and } the challenge </tone> </static>, -/"

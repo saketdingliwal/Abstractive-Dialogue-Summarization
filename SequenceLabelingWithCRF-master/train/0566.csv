@@ -1,0 +1,110 @@
+act_tag,speaker,pos,text
+t3,B,Bye/UH ./.,Bye <<talking to someone else>>. <<Starts speaking to A>> /
+qy^d,B,"So/UH we/UH 're/VBP ,/, uh/UH ,/, our/PRP$ discussion/NN 's/BES about/IN ,/, uh/UH ,/, the/DT care/NN of/IN the/DT elderly/NN ?/.","{D So } [ we're, + {F uh, } our discussion's ] about, {F uh, } the care of the elderly? /"
+na,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+na,A,that/DT 's/BES right/JJ ./.,that's right. /
+qo,A,"You/PRP know/VBP ,/, what/WP ,/, what/WP ,/, uh/UH ,/, what/WP do/VBP you/PRP think/VB is/VBZ important/JJ ?/.","{D You know, } [ [ what, + what, ] + {F uh, } what ] do you think is important? /"
+%,A,"If/IN you/PRP were/VBD ,/,","If you were, - /"
+sd,A,"uh/UH ,/, I/PRP do/VBP n't/RB know/VB how/WRB ,/, how/WRB old/JJ you/PRP are/VBP ,/,","{F uh, } I don't know [ how, + how ] old you are, /"
+qw,A,"but/CC if/IN you/PRP had/VBD ,/, if/IN you/PRP had/VBD ,/, uh/UH ,/, parents/NNS say/UH or/CC ,/, or/CC ,/, or/CC th-/XX ,/, grandparents/NNS ,/, whatever/WDT it/PRP is/VBZ ,/, uh/UH ,/, who/WP were/VBD ready/JJ ,/,","{C but } [ if you had, + if you had, ] {F uh, } parents say [ [ or, + or, ] + or ] [ th-, + ] grandparents, whatever it is, {F uh, } who were ready,"
+x,B,./.,<Baby>.
++,A,"who/WP ,/, who/WP you/PRP thought/VBD might/MD benefit/VB from/IN a/DT nursing/NN home/NN ,/, what/WP do/VBP you/PRP think/VB you/PRP would/MD look/VB for/IN ?/.","[ who, + who ] you thought might benefit from a nursing home, what do you think you would look for? /"
+sd,B,"Uh/UH ,/, well/UH I/PRP ,/, actually/UH my/PRP$ dad/NN 's/BES ,/, my/PRP$ dad/NN 's/BES almost/RB ninety/CD","{F Uh, } {D well } [ [ I, + {D actually } my dad's, ] + my dad's ] almost ninety /"
+sd,B,and/CC --/:,{C and } --
+%,A,Huh/UH ./.,{F Huh. } /
++,B,--/: he/PRP lives/VBZ by/IN himself/PRP,-- he lives by himself /
+sd,B,and/CC he/PRP 's/BES in/IN good/JJ shape/NN ./.,{C and } he's in good shape. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Uh/UH ,/, but/CC ,/, uh/UH ,/, some/DT friends/NNS of/IN mine/PRP$ have/VBP ,/, uh/UH ,/, gone/VBN through/IN this/DT ./.","{F Uh, } {C but, } {F uh, } some friends of mine have, {F uh, } gone through this. /"
+sv,B,"I/PRP think/VBP I/PRP 'd/MD look/VB for/IN a/DT home/NN where/WRB they/PRP got/VBD a/DT lot/NN of/IN attention/NN and/CC ,/, uh/UH ,/, where/WRB they/PRP did/VBD some/DT things/NNS to/TO try/VB to/TO keep/VB them/PRP ,/, um/UH ,/, mentally/RB alive/JJ ./.","I think I'd look for a home where they got a lot of attention and, {F uh, } where they did some things to try to keep them, {F um, } mentally alive."
+b,A,Yeah/UH ./.,Yeah. /
++,B,"And/CC where/WRB there/EX was/VBD ,/, uh/UH ,/, caring/JJ and/CC compassionate/JJ ,/, where/WRB there/EX were/VBD caring/JJ and/CC compassionate/JJ people/NNS ,/, uh/UH ,/, operating/VBG it/PRP ./.","And [ where there was, {F uh, } caring and compassionate, + where there were caring and compassionate ] people, {F uh, } operating it. /"
+qy,B,Do/VBP --/:,Do --
+%,A,Huh/UH ./.,{F Huh. } /
++,B,--/: you/PRP have/VB any/DT experience/NN with/IN this/DT yourself/PRP ?/.,-- you have any experience with this yourself? /
+sd,A,"Well/UH my/PRP$ ,/, uh/UH ,/, uh/UH ,/, my/PRP$ wife/NN 's/POS grandmother/NN --/:","{D Well } [ my, + {F uh, } {F uh, } my ] wife's grandmother --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: is/VBZ in/IN a/DT nursing/NN home/NN in/IN ,/, uh/UH ,/, Minnesota/NNP","-- is in a nursing home in, {F uh, } Minnesota /"
+sd,A,"and/CC we/PRP go/VBP there/RB ,/, uh/UH ,/, once/RB a/DT year/NN ./.","{C and } we go there, {F uh, } once a year. /"
+sd,A,"We/PRP see/VBP ,/, we/PRP tend/VBP to/TO see/VB her/PRP there/RB cause/IN we/PRP 're/VBP in/IN Boston/NNP","[ We see, + we tend to see ] her there cause we're in Boston /"
+sd,A,so/RB we/PRP 're/VBP pretty/RB far/RB away/RB ./.,{C so } we're pretty far away. /
+sd,A,When/WRB we/PRP visit/VBP Minnesota/NNP though/IN we/PRP go/VBP to/TO see/VB her/PRP ./.,When we visit Minnesota though we go to see her. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC it/PRP seems/VBZ ,/, uh/UH ,/,","{C And } it seems, {F uh, } - /"
+h,A,"I/PRP mean/VBP the/DT ,/, the/DT environment/NN there/RB ,/, I/PRP do/VBP n't/RB know/VB too/RB much/RB about/IN it/PRP","{E I mean } [ the, + the ] environment there, I don't know too much about it /"
+sv,A,"but/CC it/PRP ,/, it/PRP seems/VBZ nice/JJ enough/RB ./.","{C but } [ it, + it ] seems nice enough. /"
+sv,A,"Uh/UH ,/, it/PRP ,/, it/PRP 's/BES hard/JJ ,/,","{F Uh, } [ it, + it's ] hard, /"
+sd,A,"at/IN least/JJS half/NN of/IN the/DT residents/NNS I/PRP would/MD say/VB are/VBP not/RB ,/, not/RB mentally/RB sound/JJ ./.","at least half of the residents I would say are [ not, + not ] mentally sound. /"
+sd,A,"So/RB it/PRP 's/BES hard/JJ to/TO tell/VB how/WRB much/JJ of/IN that/DT rubs/VBZ off/RP on/IN those/DT who/WP are/VBP struggling/VBG to/TO r/VB ,/, to/TO retain/VB ,/, uh/UH ,/, clarity/NN ,/, say/UH ,/, uh/UH ,/, you/PRP know/VBP ./.","{C So } it's hard to tell how much of that rubs off on those who are struggling [ to r-, + to retain, ] {F uh, } clarity, {D say, } {F uh, } {D ((you know })). /"
+bf,B,"From/IN the/DT lack/NN of/IN stimulation/NN ,/, you/PRP mean/VBP ./.","From the lack of stimulation, you mean. /"
+aa,A,Yeah/UH ./.,Yeah. /
+h,A,"Well/UH I/PRP ,/, I/PRP don-/XX ,/, I/PRP do/VBP n't/RB know/VB ./.","{D Well } [ [ I, + I ] don-, + I don't ] know. /"
+sd,A,"We/PRP ,/, we/PRP also/RB ,/, my/PRP$ wife/NN and/CC I/PRP ,/, uh/UH ,/, uh/UH ,/, volunteer/VBP to/TO go/VB to/IN a/DT ,/, uh/UH ,/, nursing/NN home/NN that/WDT 's/BES just/RB a/DT mile/NN from/IN our/PRP$ house/NN ./.","[ We, + we ] also, my wife and I, {F uh, } {F uh, } volunteer to go to a, {F uh, } nursing home that's just a mile from our house. /"
+sd,A,"We/PRP ,/, uh/UH ,/, she/PRP goes/VBZ more/RBR often/RB than/IN I/PRP ./.","[ We, + {F uh, } she ] goes more often than I. /"
+sd,A,"We/PRP used/VBD to/TO go/VB once/RB a/DT month/NN ,/, once/RB every/DT two/CD months/NNS to/TO visit/VB some/DT of/IN the/DT patients/NNS there/RB ./.","We used to go [ once a month, + once every two months ] to visit some of the patients there. /"
+sd,A,"And/CC we/PRP 'd/MD take/VB ,/, we/PRP have/VBP a/DT two/CD year/NN old/JJ son/NN","{C And } [ we'd take, + we have ] a two year old son /"
+sd,A,"and/CC so/RB we/PRP ,/, sometimes/RB we/PRP 'd/MD take/VB him/PRP with/IN us/PRP ./.","{C and so } [ we, + sometimes we'd ] take him with us. /"
+sd,A,"And/CC ,/, uh/UH ,/, there/RB I/PRP would/MD say/VB it/PRP 's/BES the/DT same/JJ thing/NN ./.","{C And, } {F uh, } there I would say it's the same thing. /"
+sv,A,"It/PRP 's/BES ,/, it/PRP 's/BES a/DT nice/JJ ,/, uh/UH ,/, relatively/RB nice/JJ environment/NN","[ It's, + it's ] a [ nice, + {F uh, } relatively nice ] environment /"
+sv,A,"but/CC again/RB ,/, um/UH ,/, it/PRP must/MD be/VB depressing/JJ for/IN the/DT people/NNS who/WP ,/, who/WP are/VBP ,/, who/WP are/VBP just/RB e-/RB ,/, e-/RB ,/, essentially/RB not/RB able/JJ to/TO take/VB care/NN of/IN themselves/PRP in/IN their/PRP$ own/JJ house/NN but/CC ,/, but/CC ,/, certainly/RB ,/, uh/UH ,/, certainly/RB have/VBP ar/VBP ,/, ar/VBP ,/, are/VBP ,/, have/VBP retained/VBN all/DT of/IN their/PRP$ ,/, uh/UH ,/, mental/JJ skills/NNS and/CC so/RB on/RB ./.","{C but } again, {F um, } it must be depressing for the people [ [ who, + who ] are, + who are ] just [ [ e-, + e-, ] + essentially ] not able to take care of themselves in their own house [ but, + but, ] [ certainly, + {F uh, } certainly ] [ [ [ [ have + ar-, ] + ar-, ] + are, ] + have ] retained all of their, {F uh, } mental skills and so on. /"
+sv,A,"It/PRP 's/BES ,/, must/MD be/VB depressing/JJ to/TO ,/, to/TO walk/VB ,/, walk/VB the/DT halls/NNS and/CC see/VB ,/, an-/CC ,/, and/CC see/VB all/PDT these/DT other/JJ people/NNS who/WP really/RB do/VBP n't/RB know/VB where/WRB they/PRP are/VBP ./.","It's, must be depressing [ to, + to ] [ walk, + walk ] the halls [ and see, + [ an-, + and ] see ] all these other people who really don't know where they are. /"
+qy,B,"Do/VBP you/PRP think/VB that/IN in/IN the/DT case/NN of/IN the/DT one/CD that/WDT you/PRP 've/VBP actually/RB had/VBN some/DT experience/NN with/IN ,/, that/IN the/DT people/NNS who/WP operate/VBP it/PRP seem/VB to/TO have/VB ,/, what/WP you/PRP 'd/MD perceive/VB of/IN as/RB genuine/JJ concern/NN ?/.","Do you think that in the case of the one that you've actually had some experience with, that the people who operate it seem to have, what you'd perceive of as genuine concern? /"
+na,A,"I/PRP think/VBP ,/, yeah/UH ,/,","I think, yeah, /"
+sv,A,"I/PRP think/VBP they/PRP 're/VBP relatively/RB re/JJ ,/, respectful/JJ ./. Yeah/UH and/CC ,/, and/CC concerned/JJ that/IN ,/, in/IN as/RB much/JJ as/IN they/PRP can/MD be/VB ./.","I think they're relatively [ re-, + respectful. ] {D Yeah } [ and, + and ] concerned [ that, + ] in as much as they can be. /"
+sd,A,"I/PRP ,/, I/PRP think/VBP sometimes/RB ,/, you/PRP know/VBP ,/, I/PRP 've/VBP noticed/VBN ,/, uh/UH ,/, people/NNS asking/VBG for/IN ,/, uh/UH ,/, some/DT of/IN the/DT patients/NNS asking/VBG for/IN things/NNS ,/, uh/UH ,/, just/RB repetitively/RB --/:","[ [ I, + I ] think sometimes, + {D you know, } I've noticed, ] {F uh, } [ people asking for, + {F uh, } some of the patients asking for ] things, {F uh, } just repetitively --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC ,/, but/CC things/NNS that/WDT are/VBP not/RB reasonable/JJ ,/,","-- [ and, + but ] things that are not reasonable, /"
+%,A,and/CC so/RB --/:,{C and so } --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: at/IN some/DT level/NN the/DT ,/, the/DT ,/, the/DT ,/, uh/UH ,/,","-- at some level [ [ the, + the, ] + the, ] {F uh, } - /"
+sv,A,"I/PRP 'm/VBP sure/JJ that/IN the/DT ,/, that/IN the/DT ,/, uh/UH ,/, the/DT staff/NN l/VB ,/, learn/VB what/WP 's/BES normal/JJ for/IN this/DT person/NN","I'm sure [ that the, + that [ the, + {F uh, } the ] ] staff [ l-, + learn ] what's normal for this person /"
+sv,A,"and/CC so/RB it/PRP looks/VBZ to/IN me/PRP like/IN maybe/RB their/PRP$ not/RB catering/VBG to/IN this/DT person/NN 's/POS needs/NNS is/VBZ really/RB because/IN this/DT person/NN is/VBZ just/RB ,/, you/PRP know/VBP ,/, is/VBZ just/RB in/IN a/DT state/NN where/WRB they/PRP do/VBP n't/RB really/RB need/VB what/WP they/PRP think/VBP they/PRP need/VBP ,/, you/PRP know/VBP ./.","{C and so } it looks to me like maybe their not catering to this person's needs is really because this person [ is just, + {D you know, } is just ] in a state where they don't really need what they think they need, {D you know. } /"
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,"It/PRP ,/, it/PRP 's/BES possible/JJ ,/,","[ It, + it's ] possible, /"
+sv,B,"I/PRP was/VBD thinking/VBG also/RB that/IN there/EX 'd/MD be/VB ,/, there/EX could/MD be/VB a/DT fair/JJ burn/GW out/^NN factor/NN --/:","I was thinking also that [ there'd be, + there could be ] a fair burn out factor --"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,B,"--/: um/UH ,/, in/IN just/RB having/VBG to/TO respond/VB to/IN people/NNS 's/POS needs/NNS where/WRB the/DT needs/NNS are/VBP sometimes/RB ,/, depending/VBG on/IN the/DT person/NN ,/, not/RB going/VBG to/TO be/VB what/WP we/PRP would/MD perceive/VB of/IN as/RB rational/JJ need/NN ./.","-- {F um, } in just having to respond to people's needs where the needs are sometimes, depending on the person, not going to be what we would perceive of as rational need. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP 'll/MD tell/VB you/PRP one/CD thing/NN though/IN that/WDT 'll/MD ,/, that/WDT ,/, that/WDT I/PRP ,/, I/PRP saw/VBD that/WDT was/VBD really/RB nice/JJ ./.","I'll tell you one thing though [ [ that'll, + that, ] + that ] [ I, + I ] saw that was really nice. /"
+sd,A,"We/PRP saw/VBD a/DT husband/NN and/CC wife/NN ,/,","We saw a husband and wife, /"
+sd,A,"we/PRP used/VBD to/TO see/VB a/DT husband/NN and/CC wife/NN in/IN there/RB ,/, uh/UH ,/, together/RB","we used to see a husband and wife in there, {F uh, } together /"
+sd,A,and/CC they/PRP were/VBD in/IN the/DT same/JJ room/NN which/WDT not/RB all/DT husband/NN and/CC wives/NNS were/VBD,{C and } they were in the same room which not all husband and wives were /
+sd,A,but/IN these/DT two/CD were/VBD ./.,{C but } these two were. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC when/WRB you/PRP walked/VBD into/IN their/PRP$ room/NN ,/, they/PRP had/VBD brought/VBN all/DT their/PRP$ furniture/NN from/IN their/PRP$ house/NN --/:","{C And } when you walked into their room, they had brought all their furniture from their house -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,B,So/RB it/PRP --/:,{C So } it --
+%,A,"--/: And/CC so/RB ,/,","-- {C And so, } -/"
++,B,--/: gives/VBZ them/PRP a/DT sense/NN of/IN identity/NN ./.,-- gives them a sense of identity. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,you/PRP walked/VBD in/IN there/RB,you walked in there /
+sd,A,"and/CC it/PRP did/VBD n't/RB look/VB like/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, how/WRB ,/, yo-/PRP ,/, you/PRP ,/, you/PRP walk/VBP into/IN some/DT rooms/NNS","{C and } it didn't look like, {F uh, } {D you know, } how, [ [ yo-, + you, ] + you ] walk into some rooms /"
+sd,A,"and/CC there/EX 's/BES ,/, it/PRP 's/BES completely/RB generic/JJ ./.","{C and } [ there's, + it's ] completely generic. /"
+sd,A,"There/EX 's/BES nothing/NN ,/, maybe/RB a/DT picture/NN or/CC two/CD that/WDT belongs/VBZ to/IN that/DT person/NN","There's nothing, maybe a picture or two that belongs to that person /"
+sd,A,and/CC that/DT 's/BES it/PRP ./.,{C and } that's it. /
+sd,A,"But/CC this/DT room/NN ,/, on/IN the/DT other/JJ hand/NN ,/, you/PRP know/VBP ,/, they/PRP got/VBD rid/VBN of/IN all/DT of/IN the/DT sort/NN of/IN standard/JJ issue/NN beds/NNS and/CC dressers/NNS and/CC this/DT and/CC that/DT","{C But } this room, on the other hand, {D you know, } they got rid of all of the sort of standard issue beds and dressers and this and that /"
+sd,A,and/CC they/PRP had/VBD all/DT their/PRP$ stuff/NN from/IN their/PRP$ house/NN,{C and } they had all their stuff from their house /
+sd,A,"and/CC it/PRP looked/VBD like/IN ,/, uh/UH ,/, i-/PRP ,/, i-/PRP ,/, it/PRP must/MD have/VB been/VBN ,/,","{C and } it looked like, {F uh, } [ [ i-, + i-, ] + it ] must have been, - /"
+sv,A,it/PRP was/VBD nicer/JJR to/TO walk/VB in/IN there/RB and/CC to/TO talk/VB to/IN them/PRP,it was nicer to walk in there and to talk to them /
+sv,A,"and/CC it/PRP must/MD also/RB give/VB them/PRP a/DT sense/NN of/IN ,/, uh/UH ,/, uh/UH ,/, security/NN and/CC ,/, and/CC ,/, uh/UH ,/, and/CC ,/, and/CC ,/, you/PRP know/VBP ,/, s-/XX ,/, s-/XX ,/, uh/UH ,/,","{C and } it must also give them a sense of, {F uh, } {F uh, } security [ [ [ and, + and, ] + {F uh, } and, ] + and, ] {D you know, } [ s-, + s-, ] {F uh, } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"I/PRP ,/, I/PRP think/VBP part/NN of/IN what/WP you/PRP 're/VBP saying/VBG matches/VBZ what/WP I/PRP h/VBP ,/, have/VBP read/VBN ./.","[ I, + I ] think part of what you're saying matches what I [ h-, + have ] read. /"
+sd,B,"I/PRP used/VBD to/TO initially/RB think/VB that/IN the/DT only/JJ people/NNS who/WP went/VBD into/IN such/JJ residences/NNS were/VBD people/NNS who/WP ,/, uh/UH ,/, were/VBD adequately/RB deficient/JJ in/IN their/PRP$ abilities/NNS ,/, uh/UH --/:","I used to initially think that the only people who went into such residences were people who, {F uh, } were adequately deficient in their abilities, {F uh } --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: physical/JJ or/CC mental/JJ ,/, that/IN they/PRP could/MD n't/RB take/VB care/VB of/IN themselves/PRP ./.","-- physical or mental, that they couldn't take care of themselves. /"
+sv,B,"But/CC I/PRP also/RB know/VBP a/DT couple/NN of/IN people/NNS whose/WP$ parents/NNS have/VBP gone/VBN into/IN such/JJ things/NNS because/IN I/PRP think/VBP they/PRP provide/VBP ,/, um/UH ,/, a/DT lot/NN of/IN social/JJ activities/NNS ./.","{C But } I also know a couple of people whose parents have gone into such things because I think they provide, {F um, } a lot of social activities. /"
+%,A,Huh/UH ./.,{F Huh. } /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Uh/UH ,/, the/DT ,/, one/CD of/IN my/PRP$ friend/NN 's/POS parents/NNS who/WP went/VBD in/IN because/IN she/PRP had/VBD largely/RB lost/VBN her/PRP$ abilities/NNS","{F Uh, } [ the, + one ] of my friend's parents who went in because she had largely lost her abilities - /"
+sd,B,and/CC she/PRP was/VBD in/IN there/RB for/IN awhile/RB when/WRB they/PRP were/VBD away/RB on/IN vacation/NN ./.,{C and } she was in there for awhile when they were away on vacation. /
+%,B,"Uh/UH ,/, and/CC ,/,","{F Uh, } {C and, } -/"
+%,A,Huh/UH ./.,{F Huh. } /
+bf,A,MUMBLEx/XX temporary/JJ ./.,(( )) temporary. /
+%,A,"I/PRP ,/,","I, - /"
+sd,A,"that/DT ,/, that/DT 's/BES ,/, that/DT 's/BES new/JJ to/IN me/PRP ./.","[ [ that, + that's, ] + that's ] new to me. /"
+%,A,"I/PRP ,/,","I, -/"
+sv,B,"Well/UH I/PRP think/VBP it/PRP ,/, I/PRP think/VBP t-/XX ,/, it/PRP was/VBD sort/RB of/RB on/IN the/DT grounds/NNS that/IN they/PRP were/VBD considering/VBG whether/IN she/PRP would/MD live/VB there/RB","{D Well } [ I think it, + I think [ t-, + it ] ] was sort of on the grounds that they were considering whether she would live there /"
+sv,B,"and/CC I/PRP feel/VBP like/IN ,/, the/DT whole/JJ vocabulary/NN of/IN this/DT is/VBZ very/RB loaded/JJ if/IN you/PRP think/VBP of/IN words/NNS like/IN ,/, like/IN put/VB her/PRP in/IN there/RB ./.","{C and } I feel like, the whole vocabulary of this is very loaded if you think of words [ like, + like ] put her in there. /"
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,right/UH ./.,right. /
+%,B,"And/CC there/EX ,/, there/EX 's/BES so/RB much/JJ ,/,","{C And } [ there, + there's ] so much, -/"

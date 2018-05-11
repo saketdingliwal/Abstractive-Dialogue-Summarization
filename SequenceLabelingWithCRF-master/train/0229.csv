@@ -1,0 +1,87 @@
+act_tag,speaker,pos,text
+sd,A,"Okay/UH ,/, we/PRP 're/VBP being/VBG recorded/VBN ./.","Okay, we're being recorded. /"
+aa,B,"All/RB right/JJ ,/, Ron/NNP ./.","All right, Ron. /"
+sd,A,"Uh/UH ,/, number/NN one/CD ,/, I/PRP am/VBP one/CD hundred/CD percent/NN for/IN total/JJ gun/NN t-/XX ,/, control/NN ./.","{F Uh, } number one, I am one hundred percent for total gun [ t-, + ] control. /"
+%,A,"I/PRP ,/,","I, -/"
+b^m,B,Total/JJ gun/NN control/NN ./.,Total gun control. /
+aa,A,"Yes/UH ,/,","Yes, /"
+sd,A,I/PRP am/VBP not/RB a/DT member/NN of/IN the/DT National/NNP Rifle/NNP Association/NNP,I am not a member of the National Rifle Association /
+sd,A,"and/CC ,/,","{C and, }"
+x,B,,<Throat_clearing>.
++,A,"I/PRP do/VBP n't/RB believe/VB in/IN hunting/NN ,/,","I don't believe in hunting, /"
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP just/RB have/VBP had/VBN my/PRP$ fill/NN of/IN what/WP is/VBZ going/VBG on/RP with/IN the/DT crime/NN rate/NN","{C and, } {F uh, } I just have had my fill of what is going on with the crime rate /"
+sv,A,"and/CC I/PRP really/RB feel/VBP that/IN we/PRP have/VBP to/TO do/VB something/NN in/IN order/NN to/TO ,/, uh/UH ,/, to/TO MUMBLEx/XX ,/,","{C and } I really feel that we have to do something in order [ to, + {F uh, } to ] (( )) , -/"
+aa,B,"Yes/UH ,/,","Yes, /"
+sd,B,"I/PRP ,/, I/PRP agree/VBP something/NN should/MD be/VB done/VBN ,/,","[ I, + I ] agree something should be done, /"
+sv,B,"but/CC I/PRP ,/, there/EX ,/, I/PRP do/VBP n't/RB believe/VB there/EX is/VBZ any/DT way/NN of/IN total/JJ control/NN over/IN weapons/NNS ,/, because/IN crooks/NNS and/CC people/NNS who/WP are/VBP going/VBG to/TO perform/VB things/NNS that/WDT are/VBP not/RB correct/JJ will/MD have/VB access/NN to/IN weapons/NNS from/IN somewhere/RB","{C but } [ I, + [ there, + ] I ] don't believe there is any way of total control over weapons, because crooks and people who are going to perform things that are not correct <lipsmack> will have access to weapons from somewhere /"
+sv,B,and/CC that/DT means/VBZ they/PRP 'll/MD always/RB have/VB an/DT advantage/NN over/IN us/PRP,{C and } that means they'll always have an advantage over us /
+sv,B,"and/CC ,/, uh/UH ,/, they/PRP may/MD even/RB get/VB worse/JJR because/IN they/PRP know/VBP we/PRP have/VBP nothing/NN to/TO support/VB myself/PRP ./.","{C and, } {F uh, } they may even get worse because they know we have nothing to support myself. /"
+sd,B,"Now/RB ,/, you/PRP know/VBP ,/, I/PRP ,/, I/PRP agree/VBP with/IN a/DT lot/NN of/IN the/DT things/NNS you/PRP just/RB said/VBD in/IN your/PRP$ few/JJ moments/NNS because/IN personally/RB I/PRP used/VBD to/TO be/VB a/DT great/JJ hunter/NN","Now, {D you know, } [ I, + I ] agree with a lot of the things you just said in your few moments because personally I used to be a great hunter /"
+sd,B,"and/CC in/IN the/DT last/JJ few/JJ years/NNS I/PRP 've/VBP said/VBN ,/, no/DT way/NN ./.","{C and } in the last few years I've said, no way. /"
+sd,B,"Matter/NN of/IN fact/NN ,/, if/IN I/PRP find/VBP a/DT ,/, uh/UH ,/, a/DT ,/, a/DT fly/NN running/VBG around/RP in/IN the/DT house/NN ,/, I/PRP pick/VBP him/PRP up/RP and/CC carry/VBP him/PRP outdoors/RB ./.","Matter of fact, if I find [ [ a, + {F uh, } a, ] + a ] fly running around in the house, I pick him up and carry him outdoors <laughter>. /"
+sd,B,"I/PRP ,/, I/PRP do/VBP n't/RB even/RB hit/VB him/PRP with/IN a/DT flyswatter/NN ,/,","[ I, + I ] don't even hit him with a flyswatter, /"
+sd,B,"so/RB I/PRP 've/VBP ,/, uh/UH ,/, gotten/VBN over/RP this/DT business/NN of/IN wanting/VBG to/TO go/VB out/RB and/CC shooting/NN and/CC ,/, and/CC killing/NN and/CC that/DT sort/NN of/IN thing/NN ./.","{C so } I've, {F uh, } gotten over this business of wanting to go out and shooting [ and, + and ] killing and that sort of thing. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"But/CC I/PRP ,/, I/PRP think/VBP that/IN ,/, uh/UH ,/, personally/RB ,/, that/WDT we/PRP do/VBP need/VB some/DT weapons/NNS available/JJ to/IN most/RBS of/IN the/DT people/NNS ./.","{C But } [ I, + I ] think [ that, + {F uh, } personally, that ] we do need some weapons available to most of the people. /"
+sv,B,"Most/JJS of/IN the/DT people/NNS really/RB are/VBP ,/, uh/UH ,/, honest/JJ and/CC ,/, uh/UH ,/, worthy/JJ of/IN carrying/VBG on/IN their/PRP$ lives/NNS properly/RB ./.","Most of the people really are, {F uh, } honest and, {F uh, } worthy of carrying on their lives properly. /"
+sd,B,"Uh/UH ,/, I/PRP 'm/VBP sort/RB of/RB in/IN line/NN thinking/VBG in/IN terms/NNS ,/,","{F Uh, } I'm sort of in line thinking in terms, - /"
+sv,B,I/PRP do/VBP n't/RB see/VB anything/NN wrong/JJ with/IN this/DT five/CD day/NN waiting/NN period/NN if/IN the/DT waiting/NN period/NN is/VBZ utilized/VBN to/TO really/RB look/VB at/IN the/DT background/NN of/IN the/DT person/NN purchasing/VBG the/DT weapon/NN ./.,I don't see anything wrong with this five day waiting period if the waiting period is utilized to really look at the background of the person purchasing the weapon. /
+sv,B,I/PRP mean/VBP there/EX 's/BES nothing/NN wrong/JJ with/IN that/DT ./.,{E I mean } there's nothing wrong with that. /
+qy,B,Do/VBP you/PRP see/VB anything/NN wrong/JJ with/IN that/DT ?/.,Do you see anything wrong with that? /
+nn,A,"No/UH ,/,","No, /"
+sd,A,"there/EX 's/BES only/RB one/CD problem/NN I/PRP have/VBP with/IN the/DT whole/JJ thing/NN though/RB ,/, th-/XX ,/, is/VBZ ,/, you/PRP know/VBP ,/, when/WRB they/PRP do/VBP it/PRP ,/, I/PRP think/VBP our/PRP$ biggest/JJS problem/NN is/VBZ ,/, yes/UH ,/, the/DT ,/, the/DT crooks/NNS and/CC what/WP have/VBP you/PRP are/VBP going/VBG to/TO get/VB weapons/NNS if/IN the/DT weapons/NNS are/VBP available/JJ ./.","there's only one problem I have with the whole thing though, [ th-, + ] is, {D you know, } when they do it, I think our biggest problem is, {D yes, } [ the, + the ] crooks and what have you are going to get weapons if the weapons are available. /"
+b,B,Right/UH ./.,Right. /
+sv,A,I/PRP think/VBP the/DT biggest/JJS problem/NN we/PRP have/VBP in/IN this/DT country/NN is/VBZ there/EX are/VBP just/RB entirely/RB too/RB many/JJ weapons/NNS available/JJ ./. And/CC the/DT types/NNS of/IN the/DT weapons/NNS ./.,I think the biggest problem we have in this country is there are just entirely too many weapons available. {C And } the types of the weapons. /
+sd,A,I/PRP mean/VBP there/EX is/VBZ --/:,{E I mean } there is --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: no/UH ,/,","-- no, -/"
+sd,B,"I/PRP 'm/VBP again/JJ ,/, I/PRP 'm/VBP against/JJ this/DT ,/, uh/UH ,/, automatic/JJ and/CC semiautomatic/JJ stuff/NN ./.","[ I'm again-, + I'm against ] this, {F uh, } automatic and semiautomatic stuff. /"
+aa,A,"Right/UH ,/,","Right, /"
+sv,A,"there/EX is/VBZ ,/,","[ there is, +"
+sv,B,I/PRP do/VBP n't/RB think/VB we/PRP should/MD have/VB access/NN to/IN those/DT ./.,I don't think we should have access to those. /
++,A,"There/EX is/VBZ no/DT reason/NN for/IN it/PRP ./. I/PRP mean/VBP ,/,","There is ] no reason for it. {E I mean, } /"
+aa,B,No/UH ./.,No. /
+b,B,Huh/UH ./.,Huh <<faint>>. /
+sd,A,"And/CC ,/, uh/UH ,/, maybe/RB I/PRP 'm/VBP a/DT little/JJ bit/NN strong/JJ when/WRB I/PRP said/VBD total/JJ gun/NN t-/XX ,/, control/NN ./.","{C And, } {F uh, } maybe I'm a little bit strong when I said total gun [ t-, + ] control. /"
+sd,A,"That/DT 's/BES ,/, that/DT 's/BES really/RB not/RB what/WP I/PRP meant/VBD ./.","[ That's, + that's ] really not what I meant. /"
+sv,A,"But/CC ,/, I/PRP mean/VBP we/PRP need/VBP control/NN ./.","{C But, } {E I mean } we need control. /"
+sv,A,We/PRP 've/VBP got/VBN to/TO be/VB able/JJ to/TO get/VB a/DT handle/NN on/IN what/WP is/VBZ happening/VBG,We've got to be able to get a handle on what is happening /
+sv,A,"and/CC we/PRP 've/VBP got/VBN to/TO reduce/VB the/DT number/NN of/IN weapons/NNS that/WDT are/VBP out/IN in/IN the/DT ,/, in/IN the/DT --/:","{C and } we've got to reduce the number of weapons that are out [ [ in the, + in the ] + --"
+b,B,Yes/UH ./.,Yes. /
++,A,--/: in/IN the/DT public/NN ./.,-- in the ] public. /
+sv,B,"And/CC the/DT ,/, the/DT people/NNS should/MD be/VB ,/, uh/UH ,/, selected/VBN so/IN that/IN we/PRP know/VBP that/IN they/PRP are/VBP all/RB right/JJ and/CC that/IN they/PRP 're/VBP ,/, they/PRP 're/VBP not/RB ,/, uh/UH ,/, acquiring/VBG weapons/NNS for/IN illicit/JJ use/NN ./.","{C And } [ the, + the ] people should be, {F uh, } selected so that we know that they are all right and that [ they're, + they're ] not, {F uh, } acquiring weapons for illicit use. /"
+sv,B,"Uh/UH ,/, that/WDT is/VBZ not/RB good/JJ ./.","{F Uh, } that is not good. /"
+sv,B,There/EX 's/BES nothing/NN wrong/JJ with/IN a/DT person/NN that/WDT enjoys/VBZ the/DT mechanisms/NNS ./.,There's nothing wrong with a person that enjoys the mechanisms. /
+sd,B,"As/IN a/DT matter/NN of/IN fact/NN ,/, uh/UH ,/, there/EX 's/BES a/DT fellow/NN out/IN there/RB working/VBG on/IN my/PRP$ house/NN right/RB now/RB who/WP ,/, uh/UH ,/, brought/VBN to/IN me/PRP a/DT target/NN from/IN a/DT rifle/NN that/WDT he/PRP ,/, uh/UH ,/, pretty/RB well/RB ,/, halfway/RB designed/VBN","As a matter of fact, {F uh, } there's a fellow out there working on my house right now who, {F uh, } brought to me a target from a rifle that he, {F uh, } pretty {D well, } halfway designed /"
+sd,B,"and/CC he/PRP ,/, he/PRP put/VBD together/RB the/DT ,/, uh/UH ,/, the/DT bullets/NNS in/IN it/PRP --/:","{C and } [ he, + he ] put together the, {F uh, } the bullets in it -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC he/PRP was/VBD showing/VBG me/PRP that/IN at/IN a/DT hundred/CD yards/NNS ,/, he/PRP kept/VBD five/CD shots/NNS within/IN a/DT quarter/NN of/IN an/DT inch/NN of/IN each/DT other/NN at/IN one/CD hundred/CD yards/NNS ./.","-- {C and } he was showing me that at a hundred yards, he kept five shots within a quarter of an inch of each other at one hundred yards. /"
+sv,B,"Now/RB ,/, see/VB from/IN a/DT technical/JJ point/NN of/IN view/NN ,/, that/DT is/VBZ something/NN that/WDT ,/, that/WDT our/PRP$ military/NN people/NNS need/VBP to/TO know/VB about/RB ./.","{D Now, } {D see } from a technical point of view, that is something [ that, + that ] our military people need to know about. /"
+%,A,Um/UH ./.,{F Um. } /
+sv,B,"So/RB there/EX are/VBP other/JJ interesting/JJ ,/, uh/UH ,/, facets/NNS in/IN ,/, in/IN guns/NNS and/CC weapons/NNS ./.","{C So } there are other interesting, {F uh, } facets [ in, + in ] guns and weapons. /"
+sd,B,"This/DT is/VBZ a/DT ,/, uh/UH ,/, bolt/NN action/NN rifle/NN ,/, I/PRP think/VBP he/PRP has/VBZ ./.","This is a, {F uh, } bolt action rifle, I think he has. /"
+sd,B,"And/CC he/PRP has/VBZ done/VBN other/JJ things/NNS to/IN the/DT way/NN the/DT ,/, uh/UH ,/, barrel/NN sits/VBZ in/IN the/DT ,/, uh/UH ,/, the/DT wood/NN part/NN of/IN it/PRP ./.","{C And } he has done other things to the way the, {F uh, } barrel sits in [ the, + {F uh, } <lipsmack> the ] wood part of it. /"
+sd,B,"And/CC ,/, uh/UH ,/, he/PRP designed/VBD the/DT ,/, the/DT ,/, the/DT bullets/NNS themselves/PRP","{C And, } {F uh, } he designed [ [ the, + the, ] + the ] bullets themselves /"
+sd,B,and/CC he/PRP has/VBZ fantastic/JJ accuracy/NN ./.,{C and } he has <breathing> fantastic accuracy. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Just/RB ,/, just/RB from/IN a/DT technical/JJ point/NN of/IN view/NN ,/, that/DT interests/VBZ me/PRP ./. Not/RB to/TO kill/VB anybody/NN with/IN it/PRP or/CC anything/NN with/IN it/PRP ,/, but/CC just/RB the/DT fact/NN that/IN a/DT piece/NN of/IN mechanism/NN like/IN that/DT could/MD be/VB made/VBN to/TO be/VB so/RB accurate/JJ ./.","[ Just, + just ] from a technical point of view, that interests me. Not to kill anybody with it or anything with it, but just the fact that a piece of mechanism like that could be made to be so accurate. /"
+aa,A,Yes/UH ./.,<Breathing> Yes. /
+aa,A,"All/RB right/JJ ,/,","All right, /"
+sv,A,"you/PRP ,/, you/PRP sound/VBP like/IN you/PRP 're/VBP into/IN the/DT technology/NN of/IN it/PRP ,/, which/WDT is/VBZ ,/,","[ you, + you ] sound like you're into the technology of it, which is, - /"
+aa,A,"yeah/UH ,/, I/PRP agree/VBP ./.","{D yeah, } I agree. /"
+sd,A,"And/CC ,/, you/PRP know/VBP ,/, and/CC ,/, again/RB ,/, I/PRP 'm/VBP ,/, my/PRP$ entire/JJ family/NN are/VBP ,/, they/PRP are/VBP all/DT hunters/NNS --/:","[ {C And, } + {D you know, } {C and, } ] again, [ I'm, + my ] entire family [ are, + they are ] all hunters -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC ,/, you/PRP know/VBP ,/, they/PRP ,/, they/PRP do/VBP n't/RB appreciate/VB my/PRP$ stand/NN ,/,","-- {C and, } {D you know, } [ they, + they ] don't appreciate my stand, /"
+sd,A,and/CC I/PRP --/:,{C and } [ [ I + --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: I/PRP have/VBP no/DT ,/, I/PRP really/RB have/VBP no/DT problem/NN with/IN sports/NNS hunters/NNS ./.","-- I ] have no, + I really have no ] problem with sports hunters. /"
+sd,A,I/PRP really/RB do/VBP n't/RB ./.,I really don't. /
+sv,A,"It/PRP 's/BES just/RB when/WRB they/PRP come/VBP out/RB and/CC they/PRP say/VBP they/PRP need/VBP an/DT Uzi/NNP in/IN order/NN to/TO do/VB some/DT accurate/JJ or/CC decent/JJ deer/NN hunting/NN ,/, I/PRP think/VBP ,/, I/PRP think/VBP that/DT 's/BES totally/RB outrageous/JJ ./.","It's just <laughter> when they come out and they say they need an Uzi in order to do some accurate or decent deer hunting, [ I think + <laughter>, I think ] that's totally outrageous. /"
+sv,A,"What/WP 's/BES happening/VBG is/VBZ people/NNS are/VBP losing/VBG ,/,","What's happening is people are losing, - /"
+sv,A,they/PRP seem/VBP to/TO be/VB losing/VBG their/PRP$ common/JJ sense/NN over/IN the/DT issue/NN ./.,they seem to be losing their common sense over the issue. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC the/DT issue/NN ,/,","{C And } [ the issue,"
+x,B,,<Throat_clearing>.
++,A,"is/VBZ ,/, the/DT issue/NN is/VBZ becoming/VBG the/DT focus/NN and/CC not/RB what/WP is/VBZ actually/RB happening/VBG with/IN guns/NNS ./.","is, + the issue is ] becoming the focus and not what is actually happening with guns. /"
+sv,A,"Uh/UH ,/, I/PRP ,/, I/PRP think/VBP something/NN will/MD happen/VB ./.","{F Uh, } [ I, + I ] think something will happen. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /

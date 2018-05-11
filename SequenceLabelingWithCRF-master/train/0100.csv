@@ -1,0 +1,210 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,All/RB right/JJ ./.,All right. /
+sd,B,"Um/UH ,/, there/EX was/VBD a/DT crime/NN here/RB in/IN McKinney/NNP ,/,","{F Um, } there was a crime here in McKinney,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"uh/UH ,/, a/DT rather/RB heinous/JJ murder/NN ./.","{F uh, } a rather heinous murder. /"
+sd,B,"There/EX was/VBD no/DT um/UH ,/, remorse/NN shown/VBN by/IN ,/, uh/UH ,/, at/IN least/JJS one/CD of/IN the/DT perpetrators/NNS ./.","There was no {F um, } remorse shown by, {F uh, } at least one of the perpetrators. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC yet/RB ,/, for/IN whatever/WP reason/NN ,/, um/UH ,/, his/PRP$ crime/NN was/VBD not/RB considered/VBN a/DT capital/JJ crime/NN ./.","{C And } yet, for whatever reason, {F um, } his crime was not considered a capital crime. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"An/DT ,/, and/CC quite/RB honestly/RB I/PRP ,/, I/PRP feel/VBP very/RB strongly/RB that/IN the/DT ,/, man/NN ha/VBZ ,/, the/DT has/VBZ no/DT redeeming/JJ social/JJ values/NNS","<Breathing> [ {C An, } + {C and } ] quite honestly [ I, + I ] feel very strongly that the, man [ ha-, the + ] has no redeeming social values /"
+sv,B,"and/CC if/IN ,/, if/IN and/CC when/WRB he/PRP comes/VBZ ,/, gets/VBZ free/JJ again/RB ,/,","{C and } [ if, + if ] and when he [ comes, + ] gets free again,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"he/PRP will/MD have/VB no/DT compunction/NN but/CC to/TO complete/VB that/DT ,/, that/DT same/JJ kind/NN of/IN lifestyle/NN ,/, I/PRP mean/VBP continue/VB that/DT same/JJ kind/NN of/IN lifestyle/NN ,/,","he will have no compunction but to [ complete [ that, + that ] same kind of lifestyle, + {E I mean } continue that same kind of lifestyle, ]"
+x,A,./.,<Throat_clearing>.
++,B,and/CC perhaps/RB do/VB the/DT same/JJ thing/NN again/RB ./.,and perhaps do the same thing again. /
+sd,B,"So/RB ,/, it/PRP really/RB bothers/VBZ me/PRP that/IN there/EX 's/BES not/RB a/DT way/NN of/IN getting/VBG him/PRP out/IN of/IN the/DT way/NN forever/RB ./.","{C So, } it really bothers me that there's not a way of getting him out of the way forever. /"
+b,A,"Really/UH ,/,","<Throat_clearing> Really, /"
+%,A,"I/PRP think/VBP that/IN ,/,","I think that, - /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sv,A,"I/PRP don-/XX ,/, I/PRP do/VBP n't/RB think/VB our/PRP$ prison/NN system/NN is/VBZ n't/RB set/VBN up/RP ,/,","[ I don-, + I don't ] think our prison system isn't set up,"
+x,B,./.,<Noise>.
++,A,"where/WRB we/PRP ,/, um/UH ,/, rehabilitate/VBP ,/, or/CC ,/, you/PRP know/VBP ,/, restore/VBP anybody/NN ./.","where we, {F um, } rehabilitate, or, {D you know, } restore anybody. /"
+sv,A,"I/PRP think/VBP it/PRP 'll/MD only/RB make/VB them/PRP worse/JJR ,/,","I think it'll only make them worse, /"
+sv,A,"but/CC ,/, I/PRP ,/, I/PRP believe/VBP that/IN God/NNP can/MD come/VB in/RB and/CC change/VB a/DT person/NN 's/POS heart/NN and/CC genuinely/RB change/VB it/PRP ,/,","{C but, } [ I, + I ] believe that God can come in and change a person's heart and genuinely change it, /"
+sv,A,"but/CC ,/, that/DT does/VBZ n't/RB negate/VB that/IN you/PRP do/VBP reap/VB what/WP you/PRP sow/VBP ./.","{C but, } that doesn't negate that you do reap what you sow. /"
+sv,A,"And/CC if/IN you/PRP do/VBP kill/VB a/DT person/NN and/CC it/PRP is/VBZ ,/, you/PRP know/VBP ,/, you/PRP 're/VBP found/VBN to/TO be/VB guilty/JJ ,/, I/PRP believe/VBP God/NNP establishes/VBZ the/DT authority/NN of/IN our/PRP$ court/NN system/NN","{C And } if you do kill a person and [ it is, + ] {D you know, } you're found to be guilty, I believe God establishes the authority of our court system /"
+sv,A,"and/CC I/PRP believe/VBP that/IN ,/, you/PRP know/VBP ,/, that/IN I/PRP do/VBP believe/VB that/IN capital/JJ punishment/NN is/VBZ ,/, uh/UH ,/, alternative/NN ./.","{C and } [ I believe [ that, + {D you know, } that ] + I do believe that ] capital punishment is, {F uh, } alternative. /"
+sv,A,"Even/RB ,/, you/PRP know/VBP ,/, God/NNP can/MD still/RB change/VB your/PRP$ heart/NN","Even, {D you know, } God can still change your heart /"
+%,A,"but/CC that/DT does/VBZ n't/RB mean/VB ,/,","{C but } that doesn't mean, - /"
+sv,A,"like/IN the/DT alcoholic/NN that/WDT charges/VBZ up/RP all/PDT the/DT bills/NNS on/IN the/DT credit/NN card/NN ,/, or/CC the/DT shopaholic/NN ,/, you/PRP know/VBP you/PRP get/VBP your/PRP$ life/NN right/JJ with/IN God/NNP","like the alcoholic that charges up all the bills on the credit card, or the shopaholic, {D you know } you get your life right with God /"
+sv,A,but/CC you/PRP still/RB have/VBP to/TO pay/VB your/PRP$ Visa/NNP bill/NN ./.,{C but } you still have to pay your Visa bill. /
+ba,B,"That/DT 's/BES ,/, that/DT 's/BES right/JJ ./.","[ That's, + that's ] right <breathing>. /"
+sv,A,"You/PRP still/RB have/VBP to/TO ,/, you/PRP know/VBP ,/,","You still have to, {D you know, } - /"
+sv,A,"so/RB ,/, but/CC God/NNP sent/VBD us/PRP his/PRP$ grace/NN","[ {C so, } + {C but } ] God sent us his grace /"
+sv,A,and/CC they/PRP give/VBP pardons/NNS,{C and } they give pardons /
+sv,A,"but/CC I/PRP believe/VBP if/IN it/PRP 's/BES a/DT genuine/JJ conversion/NN ,/, there/EX 's/BES a/DT genuine/JJ ,/,","{C but } I believe if it's a genuine conversion, there's a genuine, /"
+sv,A,"and/CC those/DT prison/NN people/NNS know/VBP ,/, they/PRP know/VBP a/DT genuine/JJ turnaround/NN in/IN a/DT person/NN 's/POS character/NN ,/,","{C and } those prison people [ know, + they know ] a genuine turnaround in a person's character, /"
+sv,A,they/PRP see/VBP that/DT ./.,they see that. /
+%,B,"But/CC ,/,","{C But, } - /"
+%,B,yeah/UH ./.,yeah. /
+sd,A,"And/CC ,/, I/PRP ,/, I/PRP worked/VBD in/IN a/DT prison/NN in/IN Fort/NNP Worth/NNP ./.","{C And, } [ I, + I ] worked in a prison in Fort Worth. /"
+bh,B,Did/VBD you/PRP ?/.,Did you? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP have/VBP a/DT degree/NN in/IN social/JJ work/NN ./.,I have a degree in social work. /
+sv,A,"You/PRP see/VBP it/PRP ,/, you/PRP know/VBP the/DT ones/NNS that/WDT have/VBP a/DT genuine/JJ character/NN change/NN ./.","You see it, {D you know } the ones that have a genuine character change. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,It/PRP is/VBZ obvious/JJ ./.,It is obvious. /
+sv,A,And/CC they/PRP know/VBP that/IN ./.,{C And } they know that. /
+sv,A,"They/PRP 're/VBP ,/, they/PRP 're/VBP not/RB going/VBG to/TO pardon/VB someone/NN from/IN the/DT governor/NN ,/,","[ They're, + they're ] not going to pardon someone from the governor, /"
+qh,A,"you/PRP know/VBP what/WP I/PRP 'm/VBP saying/VBG ,/,","you know what I'm saying, /"
+sv,A,"they/PRP 're/VBP not/RB going/VBG to/TO go/VB ,/, without/IN going/VBG through/IN every/DT channel/NN of/IN authority/NN in/IN the/DT prison/NN ./.","they're not going to go, without going through every channel of authority in the prison. /"
+sv,A,"So/RB I/PRP feel/VBP like/IN you/PRP know/VBP ,/, that/DT 's/BES is/VBZ ,/, there/EX is/VBZ occasions/NNS where/WRB there/EX are/VBP ,/, they/PRP do/VBP spare/VB lives/NNS","{C So } I feel like {D you know, } [ that's is, + there is ] occasions where [ there are, + they do ] spare lives /"
+sv,A,"and/CC ,/, you/PRP know/VBP ,/, I/PRP leave/VBP that/DT with/IN the/DT governor/NN ,/, who/WP ,/, of/IN course/NN ,/, is/VBZ going/VBG to/TO go/VB through/IN every/DT authority/NN because/IN they/PRP want/VBP to/TO be/VB be/VB reelected/VBN ,/,","{C and, } {D you know, } I leave that with the governor, who, of course, is going to go through every authority because they want to be be reelected, /"
+%,A,so/RB,{C so } - /
+x,A,./.,<throat_clearing>.
+b,B,Yes/UH,Yes /
+sd,B,"but/CC ,/, my/PRP$ concern/NN is/VBZ ,/,","{C but, } my concern is,"
+x,A,./.,<Throat_clearing>.
++,B,"first/JJ of/IN all/RB that/IN not/RB all/DT ,/, all/DT persons/NNS who/WP I/PRP think/VBP ,/, should/MD be/VB receiving/VBG capital/JJ ,/, uh/UH ,/,","first of all that not [ all, + all ] persons who I think, should be receiving [ capital, + {F uh, }"
+b,A,Uh-huh/UH ./.,<Throat_clearing> Uh-huh. /
++,B,"whatever/WP ,/, capital/JJ ,/, uh/UH ,/, tha-/XX ,/, uh/UH ,/, th-/XX ,/, uh/UH ,/, hum/UH ,/,","whatever, capital, ] {F uh, } [ tha-, <breathing> {F uh, } + th-, {F uh, } ] {F hum, }"
+^2,A,Punishment/NN ./.,Punishment. /
++,B,"punishment/NN ,/,","punishment, /"
+fa,B,"thank/VBP you/PRP ,/, I/PRP 'm/VBP sorry/JJ ,/, I/PRP just/RB got/VBD home/RB from/IN work/NN","{A thank you, } {E I'm sorry, } I just got home from work /"
+sd,B,and/CC I/PRP 'm/VBP just/RB kind/RB of/RB spaced/VBN out/RP a/DT little/JJ bit/NN ./.,{C and } I'm just kind of spaced out a little bit. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+bd,A,that/DT 's/BES okay/JJ ./.,that's okay. /
+sv,B,"Uh/UH ,/, that/DT ,/, not/RB all/DT of/IN them/PRP are/VBP being/VBG convicted/VBN of/IN it/PRP ,/, that/IN ,/, that/IN ,/, the/DT ,/, the/DT ,/, they/PRP 're/VBP not/RB even/RB being/VBG charged/VBN with/IN that/DT appropr-/XX ,/,","{F Uh, } that, not all of them are being convicted of it, [ that, + that, ] [ [ the, + the, ] + they're ] not even being charged with that appropr-, - /"
+aa,B,"I/PRP agree/VBP with/IN you/PRP that/IN ,/, that/IN ,/,","I agree with you [ that, + that, ]"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"a/DT person/NN 's/POS heart/NN can/MD be/VB changed/VBN ,/,","a person's heart can be changed, /"
+sv,B,"but/CC the/DT same/JJ God/NNP that/WDT can/MD work/VB that/DT miracle/NN also/RB established/VBD the/DT laws/NNS that/WDT said/VBD ,/, um/UH ,/, for/IN certain/JJ kinds/NNS of/IN sin/NN ,/, certain/JJ kinds/NNS of/IN ,/, of/IN ,/, uh/UH ,/, breaking/VBG of/IN the/DT law/NN ,/, there/EX would/MD be/VB a/DT capital/JJ punishment/NN ./.","{C but } the same God that can work that miracle also established the laws that said, {F um, } for certain kinds of <<Pause>> sin, certain kinds [ of, + of, ] {F uh, } breaking of the law, there would be a capital punishment. /"
+b,A,Uh-huh/UH ./.,<Throat_clearing> Uh-huh. /
+sv,B,"Right/RB then/RB it/PRP was/VBD ,/, it/PRP was/VBD ,/, uh/UH ,/, almost/RB immediate/JJ ./.","Right then [ it was, + it was, ] {F uh, } almost immediate. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"As/RB soon/RB as/IN ,/, as/IN the/DT trial/NN was/VBD over/RB ,/, then/RB it/PRP was/VBD stoning/NN ./.","As soon [ as, + as ] the trial was over, then it was stoning. /"
+b,A,"Right/UH ,/,","Right, /"
+%,A,"but/CC ,/, in/IN ,/, in/IN the/DT Old/NNP Testament/NNP ,/,","{C but, } [ in, + in ] the Old Testament, -/"
+sv,B,"We/PRP do/VBP n't/RB have/VB a/DT speedy/JJ trial/NN ,/,","We don't have a speedy trial, /"
+sv,B,"we/PRP do/VBP n't/RB have/VB speedy/JJ ,/, um/UH ,/, punishment/NN","we don't have speedy, {F um, } punishment /"
+sv,B,"and/CC so/RB it/PRP kind/RB of/RB loses/VBZ its/PRP$ meaning/NN ,/,","{C and so } it kind of loses its meaning,"
+aa,A,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,A,yeah/UH ./.,yeah. /
++,B,if/IN you/PRP sit/VBP on/IN death/NN row/NN for/IN months/NNS and/CC years/NNS and/CC so/RB forth/RB ./.,if you sit on death row for months and years and so forth <breathing>. /
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,"we/PRP do/VBP n't/RB ,/,","we don't, /"
+aa,A,"well/UH ,/, yeah/UH","{D well, } yeah /"
+sv,A,"we/PRP definitely/RB have/VBP lost/VBN the/DT Judeo-Christian/JJ ethic/NN of/IN the/DT judicial/JJ system/NN for/IN sure/JJ ,/,","we definitely have lost the Judeo-Christian ethic of the judicial system for sure, /"
+sv,A,"but/CC the/DT ba-/NN ,/, the/DT base/NN is/VBZ still/RB there/RB ,/, the/DT foundation/NN is/VBZ still/RB there/RB ,/, though/RB ,/, bu-/XX ,/, of/IN the/DT system/NN ,/,","{C but } [ [ the ba-, + the base ] is still there, + the foundation is still there, ] though, [ bu-, + ] of the system, /"
+ba,A,"but/CC ,/, I/PRP know/VBP what/WP you/PRP 're/VBP saying/VBG ,/, uh/UH ,/,","{C but, } I know what you're saying, {F uh, } /"
+sv,A,"but/CC also/RB ,/, they/PRP 're/VBP under/IN a/DT law/NN ,/, because/IN we/PRP have/VBP n't/RB been/VBN removed/VBN from/IN the/DT law/NN","{C but } also, they're under a law, because we haven't been removed from the law /"
+sv,A,"we/PRP 've/VBP just/RB been/VBN taken/VBN out/IN from/IN under/IN ,/, under/IN a/DT law/NN ./.","we've just been taken out from [ under, + under ] a law. /"
+sv,A,"Because/IN under/IN the/DT law/NN if/IN your/PRP$ child/NN mo-/XX ,/, back/RB talks/VBZ you/PRP ,/,","{C Because } under the law if your child [ mo-, + ] back talks you,"
+x,B,./.,<Clicking>.
++,A,he/PRP would/MD be/VB stoned/VBN ./.,he would be stoned. /
+ba,B,That/DT 's/BES correct/JJ ./.,That's correct. /
+sv,A,"He/PRP ,/, under/IN the/DT law/NN he/PRP would/MD be/VB stoned/VBN ,/,","[ He, + under the law he ] would be stoned, /"
+sv,A,"so/RB we/PRP 've/VBP been/VBN removed/VBN from/IN the/DT law/NN ,/, of/IN un-/XX ,/, from/IN being/VBG under/IN the/DT law/NN","{C so } we've been removed [ from the law, of un-, + from being under the law ] /"
+sv,A,"but/CC we/PRP 're/VBP still/RB ,/, you/PRP know/VBP ,/, we/PRP 're/VBP still/RB accountable/JJ to/IN it/PRP ./.","{C but } [ we're still, + {D you know, } we're still ] accountable to it. /"
+sv,A,"We/PRP do/VBP n't/RB need/VB to/TO back/RB talk/VB ,/,","We don't need to back talk, /"
+sv,A,"but/CC ,/, you/PRP know/VBP ,/, it/PRP 's/BES like/IN God/NNP changes/VBZ your/PRP$ heart/NN to/TO not/RB do/VB that/DT ./.","{C but, } {D you know, } it's like God changes your heart to not do that. /"
+sv,A,He/PRP changes/VBZ your/PRP$ heart/NN not/RB to/TO look/VB upon/IN a/DT woman/NN in/IN lust/NN ./.,He changes your heart not to look upon a woman in lust. /
+sv,A,"Because/IN in/IN the/DT Old/NNP Testament/NNP ,/, they/PRP could/MD look/VB all/DT they/PRP wanted/VBD ,/, just/RB could/MD n't/RB do/VB it/PRP ./.","{C Because } in the Old Testament, they could look all they wanted, just couldn't do it. /"
+sv,A,"But/CC in/IN the/DT new/JJ ,/, he/PRP 's/BES looking/VBG at/IN your/PRP$ heart/NN","{C But } in the new, he's looking at your heart /"
+sv,A,"and/CC so/RB ,/, I/PRP guess/VBP that/DT 's/BES what/WP ,/, what/WP I/PRP mean/VBP by/IN their/PRP$ character/NN changes/NNS and/CC ,/, you/PRP know/VBP ,/, what/WP I/PRP mean/VBP ,/, it/PRP 's/BES like/IN looking/VBG beyond/IN what/WP they/PRP 're/VBP doing/VBG and/CC looking/VBG at/IN a/DT heart/NN and/CC seeing/VBG what/WP is/VBZ the/DT heart/NN ,/, what/WP 's/BES the/DT character/NN showing/VBG me/PRP here/RB ./.","{C and so, } I guess that's [ what, + what ] I mean by their character changes and, {D you know, } what I mean, it's like looking beyond what they're doing and looking at a heart and seeing what is the heart, what's the character showing me here. /"
+%,A,"And/CC ,/, those/DT ,/, and/CC then/RB any/DT of/IN ,/,","[ {C And, } those, + {C and then } any ] of, - /"
+sv,A,"if/IN I/PRP do/VBP n't/RB think/VB see/VB ,/, if/IN I/PRP do/VBP n't/RB believe/VB that/IN there/EX 's/BES not/RB a/DT character/NN change/NN and/CC the/DT authorities/NNS agree/VBP ,/, that/IN this/DT person/NN needs/VBZ to/TO be/VB excused/VBN ,/, I/PRP believe/VBP for/IN murder/NN ,/, uh/UH ,/, rape/NN ,/, I/PRP even/RB believe/VBP incest/NN ,/, things/NNS ,/,","[ if I don't think + {D see, } if I don't believe ] that there's not a character change and the authorities agree, that this person needs to be excused, I believe for murder, {F uh, } rape, I even believe incest, things <throat_clearing>,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"that/WDT will/MD permanently/RB damage/VB ,/, uh/UH ,/, the/DT character/NN of/IN the/DT child/NN ./.","that will permanently damage, {F uh, } the character of the child. /"
+sv,A,"I/PRP believe/VBP crimes/NNS against/IN children/NNS should/MD be/VB punished/VBN bu-/XX ,/, by/IN ,/, by/IN death/NN ./. I/PRP believe/VBP ,/,","I believe crimes against children should be punished [ [ bu-, + by, ] + by ] death. I believe,"
+aa,B,"I/PRP tend/VBP to/TO agree/VB on/IN that/DT ,/, very/RB strongly/RB ./.","I tend to agree on that, very strongly. /"
++,A,"sexual/JJ crimes/NNS ,/, unless/IN there/EX 's/BES a/DT true/JJ change/NN of/IN character/NN ./.","sexual crimes, unless there's a true change of character. /"
+sv,A,"And/CC that/DT 's/BES where/WRB we/PRP just/RB have/VBP to/TO ,/, to/TO trust/VB the/DT authorities/NNS ./.","{C And } that's where we just have [ to, + to ] trust the authorities. /"
+sv,A,"And/CC they/PRP 're/VBP not/RB going/VBG to/TO excuse/VB people/NNS ,/, if/IN it/PRP was/VBD ,/, was/VBD run/VBN like/IN that/DT ,/,","{C And } they're not going to excuse people, if it [ was, + was ] run like that, /"
+%,A,"I/PRP do/VBP n't/RB ,/,","I don't, - /"
+sv,A,there/EX would/MD probably/RB be/VB very/RB few/JJ exceptions/NNS to/IN that/DT,there would probably be very few exceptions to that /
+sv,A,and/CC if/IN it/PRP was/VBD done/VBN quickly/RB and/CC done/VBN swiftly/RB,{C and } if it was done quickly and done swiftly - /
+sv,A,"and/CC ,/, but/CC it/PRP 's/BES not/RB ,/, because/IN the/DT judicial/JJ system/NN has/VBZ rejected/VBN ,/, they/PRP 've/VBP rejected/VBN the/DT answer/NN to/IN all/PDT these/DT problems/NNS they/PRP have/VBP ,/, pretty/RB much/RB ./.","[ {C and, } + {C but } ] it's not, because the judicial system [ has rejected, + they've rejected ] the answer to all these problems they have, pretty much. /"
+sv,B,"Plus/CC the/DT ,/, all/PDT the/DT judicial/JJ system/NN is/VBZ overloaded/JJ with/IN ,/,","{C Plus } [ the, + all the ] judicial system is overloaded with,"
+b,A,Right/UH ./.,Right. /
++,B,"all/DT kinds/NNS of/IN ,/, um/UH ,/, problems/NNS ,/, and/CC crimes/NNS and/CC so/RB forth/RB and/CC then/RB all/DT of/IN the/DT ,/, um/UH ,/, civil/JJ things/NNS that/WDT clog/VBP the/DT courts/NNS ,/,","all kinds of, {F um, } problems, and crimes and so forth and then all of the, {F um, } civil things that clog the courts, /"
+b,A,Uh-huh/UH ./.,<Throat_clearing> Uh-huh. /
+sv,B,"and/CC having/VBG sat/VBN on/IN both/DT ,/, uh/UH ,/, uh/UH ,/, criminal/JJ and/CC a/DT civil/JJ ,/, uh/UH ,/, jury/NN ,/,","{C and } having sat on both, {F uh, } {F uh, } criminal and a civil, {F uh, } jury,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,some/DT of/IN what/WP goes/VBZ through/IN our/PRP$ courts/NNS is/VBZ a/DT total/JJ waste/NN of/IN time/NN ./.,<Laughter> some of what goes through our courts is a total waste of time. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,Because/IN we/PRP 're/VBP suit/NN happy/JJ ./.,{C Because } we're suit happy. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"But/CC ,/, but/CC back/RB to/IN the/DT ,/, to/IN the/DT capital/JJ situation/NN ,/, sounds/VBZ like/IN you/PRP and/CC I/PRP have/VBP a/DT lot/NN of/IN ,/, of/IN ,/, of/IN ,/, uh/UH ,/, common/JJ ground/NN at/IN least/JJS as/RB ,/, as/RB far/RB as/IN ,/, as/IN capital/JJ punishment/NN is/VBZ concerned/VBN ./.","[ {C But, } + {C but } ] back [ to the, + to the ] capital situation, sounds like you and I have a lot [ [ of, + of, ] + of, ] {F uh, } common ground at least [ as, + as ] far [ as, + as ] capital punishment is concerned. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP would/MD like/VB to/TO see/VB some/DT ,/, some/DT kind/NN of/IN reform/NN ,/, or/CC some/DT kind/NN of/IN streamlining/NN so/IN that/IN ,/, if/IN a/DT person/NN is/VBZ ,/, um/UH ,/, convicted/VBN ,/,","I would like to see [ [ some, + some ] kind of reform, + {E or } some kind of streamlining ] so that, if a person is, {F um, } convicted,"
+b,A,Uh-huh/UH ./.,Uh-huh <throat_clearing>. /
++,B,"and/CC sentenced/VBN to/IN ,/, to/IN death/NN ,/, that/IN that/DT automatic/JJ appeal/NN which/WDT goes/VBZ in/RP could/MD be/VB more/RBR quickly/RB dealt/VBN with/IN ./.","and sentenced [ to, + to ] death, [ that + that ] automatic appeal which goes in could be more quickly dealt with. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,yeah/UH ./.,yeah. /
+sv,B,"And/CC ,/, and/CC go/VB ahead/RB and/CC get/VB the/DT punishment/NN phase/NN out/IN of/IN the/DT way/NN ,/, because/IN it/PRP does/VBZ n't/RB do/VB the/DT criminal/NN or/CC the/DT victim/NN 's/POS family/NN ,/,","[ {C And, } + {C and } ] go ahead and get the punishment phase out of the way, because it doesn't do the criminal or the victim's family,"
+aa,A,Yeah/UH ./.,Yeah. /
+b,A,"Anybody/NN ,/,","Anybody, /"
+aa,A,yeah/UH ./.,yeah. /
++,B,"r-/XX ,/, r-/XX ,/, any/DT of/IN us/PRP ,/, the/DT taxpayer/NN any/RB good/JJ to/TO have/VB him/PRP sitting/VBG around/RP for/IN months/NNS and/CC years/NNS ./.","[ [ r-, + r-, ] + ] any of us, the taxpayer any good to have him sitting around for months and years. /"
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"An/DT ,/, an/DT ,/, bu-/XX ,/,","[ [ An, + an, ] + bu-, ] - /"
+sv,B,him/PRP could/MD be/VB a/DT her/PRP ./.,him could be a her. /
+aa,A,Right/UH ./.,Right. /
+%,B,But/CC ./.,{C But. } -/
+sd,A,"I/PRP know/VBP in/IN Jamaica/NNP ,/, uh/UH ,/, it/PRP think/VBP it/PRP 's/BES Jamaica/NNP ,/, I/PRP think/VBP it/PRP 's/BES Jamaica/NNP ,/, I/PRP know/VBP that/IN they/PRP have/VBP ,/, you/PRP know/VBP ,/, crimes/NNS punishable/JJ by/IN death/NN ,/,","[ I know in Jamaica, {F uh, } + [ it think it's Jamaica, + I think it's Jamaica, ] I know that they ] have, {D you know, } crimes punishable by death, /"
+sv,A,"and/CC I/PRP 'm/VBP sure/JJ they/PRP hit/VBP a/DT few/JJ every/DT now/RB and/CC then/RB ,/,","{C and } I'm sure they hit a few every now and then, /"
+sd,A,"and/CC I/PRP would/MD n't/RB want/VB to/TO be/VB one/CD of/IN them/PRP ,/, that/WDT are/VBP not/RB guilty/JJ ./.","{C and } I wouldn't want to be one of them, that are not guilty. /"
+sv,A,"But/CC ,/, I/PRP know/VBP that/IN they/PRP have/VBP like/UH ,/, uh/UH ,/, their/PRP$ ,/, crime/NN rate/NN ,/,","{C But, } I know that they have {D like, } {F uh, } their, crime rate, /"
+ar,A,"it/PRP 's/BES not/RB Jamaica/NNP ,/,","it's not Jamaica, /"
+ar,A,"I/PRP do/VBP n't/RB think/VB ,/,","I don't think, /"
+sd,A,"I/PRP ca/MD n't/RB remember/VB which/WDT ,/,","I can't remember which, /"
+sd,A,"it/PRP 's/BES ,/, uh/UH ,/, one/CD of/IN the/DT Caribbean/NNP Islands/NNPS","it's, {F uh, } one of the Caribbean Islands /"
+qy,A,"and/CC ,/, and/CC they/PRP ,/, Singapore/NNP ,/, is/VBZ it/PRP like/IN that/DT ?/.","[ {C and, } + {C and } ] [ they, + <talking> Singapore, ] is it like that? /"
+sd,A,My/PRP$ husband/NN 's/BES going/VBG Singapore/NNP ./.,My husband's going Singapore. /
+sv,A,And/CC they/PRP do/VBP n't/RB have/VB a/DT lot/NN of/IN the/DT crime/NN because/IN there/EX is/VBZ a/DT law/NN,{C And } they don't have a lot of the crime because there is a law /
+sv,A,and/CC the/DT law/NN is/VBZ enforced/VBN ./.,{C and } the law is enforced. /
+sv,A,"And/CC that/DT 's/BES what/WP ,/, wh/WRB ,/, when/WRB you/PRP have/VBP lawlessness/NN ,/,","{C And } that's [ [ what, + wh-, ] + when ] you have lawlessness, /"
+sv,A,I/PRP mean/VBP the/DT law/NN 's/BES not/RB being/VBG enforced/VBN,{E I mean } the law's not being enforced /
+sv,A,and/CC all/PDT that/DT does/VBZ is/VBZ lawlessness/NN ./.,{C and } all that does is lawlessness. /
+sd,A,"We/PRP were/VBD ,/, we/PRP went/VBD on/IN a/DT mission/NN trip/NN to/IN Manhattan/NNP and/CC to/IN the/DT Bronx/NNP and/CC stuff/NN ,/, two/CD years/NNS ago/RB ,/,","[ We were, + we went ] on a mission trip to Manhattan and to the Bronx and stuff, two years ago, /"
+sd,A,and/CC all/PDT these/DT kids/NNS were/VBD up/IN on/IN there/RB getting/VBG arrested/VBN for/IN crack/NN,{C and } all these kids were up on there getting arrested for crack /
+sd,A,"and/CC everyone/NN was/VBD out/RB ,/,","{C and } everyone was out, /"
+sd,A,"uh/UH ,/, we/PRP were/VBD across/IN from/IN that/DT big/JJ bus/NN station/NN ,/,","{F uh, } we were across from that big bus station, /"
+sd,A,"I/PRP forget/VBP what/WP you/PRP call/VBP it/PRP ,/,","I forget what you call it, /"
+sd,A,"but/CC anyway/UH ,/, and/CC everyone/NN ,/, they/PRP had/VBD like/IN fifteen/CD people/NNS lined/VBD up/RP on/IN the/DT fence/NN","{C but } {D anyway, } {C and } [ everyone, + they ] had {D like } fifteen people lined up on the fence /"
+sd,A,"and/CC within/IN two/CD hours/NNS ,/, there/EX were/VBD fifteen/CD boys/NNS sitting/VBG there/EX doing/VBG the/DT same/JJ thing/NN ./.","{C and } within two hours, there were fifteen boys sitting there doing the same thing. /"
+b,B,Um/UH ./.,{F Um. } /
+sd,A,"And/CC ,/, you/PRP 'd/MD see/VB the/DT same/JJ kid/NN who/WP were/VBD back/RB out/IN there/RB in/IN two/CD days/NNS ./.","{C And, } you'd see the same kid who were back out there in two days. /"
+ba,B,That/DT 's/BES sad/JJ ./.,That's sad. /
+sv,A,"Because/IN ,/, there/EX 's/BES no/DT ,/, the/DT answer/NN is/VBZ not/RB being/VBG given/VBN to/IN them/PRP ,/, in/IN the/DT court/NN system/NN","{C Because, } [ there's no, + the answer is not ] being given to them, in the court system /"
+sv,A,"and/CC I/PRP think/VBP initially/RB ,/, when/WRB our/PRP$ country/NN was/VBD set/VBN up/RP ,/, it/PRP was/VBD set/VBN up/RP with/IN God/NNP","{C and } I think initially, when our country was set up, it was set up with God /"
+sv,A,"and/CC it/PRP was/VBD really/RB an/DT integral/NN part/NN ,/,","{C and } it was really an integral part, /"
+sv,A,"and/CC no/RB ,/,","{C and } no, /"
+sv,A,"you/PRP ca/MD n't/RB ,/, you/PRP ca/MD n't/RB force/VB people/NNS ,/,","[ you can't, + you can't ] force people, /"
+sv,A,but/CC I/PRP think/VBP people/NNS are/VBP hurting/VBG,{C but } I think people are hurting /
+sv,A,and/CC they/PRP 're/VBP out/RB doing/VBG crack/NN sitting/VBG on/IN the/DT street/NN ./.,{C and } they're out doing crack sitting on the street. /
+sv,A,"They/PRP were/VBD the/DT kind/NN of/IN people/NNS that/WDT ,/,","They were the kind of people that, - /"
+sv,A,"I/PRP think/VBP mostly/RB ,/, we/PRP would/MD want/VB to/TO receive/VB it/PRP ./.","I think mostly, we would want to receive it. /"
+sv,A,If/IN it/PRP was/VBD presented/VBN to/TO see/VB ./.,If it was presented to see. /
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sv,A,"I/PRP guess/VBP ,/, I/PRP 'm/VBP kind/RB of/RB frustrated/JJ that/IN ,/, you/PRP know/VBP ,/, we/PRP 've/VBP gotten/VBN away/RB from/IN the/DT Christian/JJ basis/NN that/WDT our/PRP$ court/NN system/NN was/VBD founded/VBN upon/IN ./.","I guess, I'm kind of frustrated that, {D you know, } we've gotten away from the Christian basis that our court system was founded upon. /"
+sv,A,"I/PRP mean/VBP ,/, it/PRP reeks/VBZ of/IN the/DT BIBLE/NNP ,/, just/RB ,/, the/DT whole/JJ thing/NN ,/, the/DT whole/JJ system/NN ./.","{E I mean, } it reeks of the BIBLE, just, [ the whole thing, + the whole system. ] /"
+sv,A,"And/CC ,/, so/RB I/PRP feel/VBP like/IN if/IN that/DT was/VBD presented/VBN more/RBR openly/RB ,/, and/CC not/RB just/RB relying/VBG upon/IN ,/, and/CC para-church/JJ ministry/NN to/TO come/VB in/RB and/CC do/VB it/PRP ,/, that/IN ,/, that/IN the/DT system/NN itself/PRP ,/,","{C And, so } I feel like if that was presented more openly, and not just relying upon, [ and + ] para-church ministry to come in and do it, [ that, + that ] the system itself, - /"
+qh,A,"you/PRP know/VBP ,/, you/PRP know/VBP what/WP I/PRP mean/VBP ./.","[ you know, + you know ] what I mean. /"
+ny,B,Yeah/UH ./.,Yeah. /
+sv,A,"I/PRP feel/VBP like/IN that/DT might/MD be/VB better/JJR ,/, if/IN it/PRP was/VBD run/VBN on/IN a/DT more/RBR scriptural/JJ basis/NN ,/, which/WDT would/MD include/VB ,/, you/PRP know/VBP ,/, you/PRP know/VBP ,/, and/CC expediting/VBG the/DT penalties/NNS and/CC just/RB getting/VBG it/PRP over/IN with/IN ./.","I feel like that might be better, if it was run on a more scriptural basis, which would include, {D you know, } {D you know, } and expediting the penalties and just getting it over with. /"
+sv,B,"However/RB ,/, certain/JJ uh/UH ,/, very/RB liberal/JJ minded/JJ groups/NNS who/WP do/VBP not/RB ,/, um/UH ,/, subscribe/VB to/IN the/DT same/JJ ethical/JJ system/NN that/WDT you/PRP and/CC I/PRP do/VBP ,/,","However, certain {F uh, } very liberal minded groups who do not, {F um, } subscribe to the same ethical system that you and I do,"
+x,A,./.,<Throat_clearing>.
++,B,"such/IN as/IN the/DT ,/, uh/UH ,/, civil/JJ liberties/NNS unions/NNS and/CC so/RB forth/RB ,/,","such as the, {F uh, } civil liberties unions and so forth,"
+b,A,Right/UH ./.,Right. /
++,B,will/MD lobby/VB against/IN that/DT and/CC hold/VB that/DT out/RP as/RB long/JJ as/IN they/PRP have/VBP breath/NN ./.,will lobby against that and hold that out as long as they have breath.
+b,A,Right/UH ./.,Right. /
++,B,"Which/WDT is/VBZ most/RBS unfortunate/JJ because/IN we/PRP all/DT lose/VBP out/RP ,/,","Which is most unfortunate because we all lose out,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"when/WRB people/NNS go/VBP so/RB far/RB out/IN to/IN the/DT extreme/NN ,/, on/IN either/DT side/NN ./.","when people go so far out to the extreme, on either side. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Because/IN too/RB ,/, too/RB often/RB ,/, there/EX can/MD be/VB extremism/NN that/WDT ,/, that/WDT hurts/VBZ from/IN ,/, from/IN any/DT direction/NN ,/,","{C Because } [ too, + too ] often, there can be extremism [ that, + that ] hurts [ from, + from ] any direction,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"regardless/RB of/IN wha/WP ,/, whatever/WP you/PRP 're/VBP arguing/VBG or/CC concerned/VBN about/IN ./.","regardless of [ wha-, + whatever ] you're arguing or concerned about. /"
+aa,A,Right/UH ./.,Right. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,"I/PRP know/VBP ,/, you/PRP 're/VBP right/JJ ,/,","I know, you're right, /"
+aa,A,they/PRP would/MD lobby/VB that/DT,they would lobby that /
+ba,A,"and/CC ,/, and/CC I/PRP see/VBP that/DT ,/,","[ {C and, } + {C and } ] I see that, /"
+qh,A,"and/CC that/DT 's/BES why/WRB ,/, you/PRP know/VBP ,/, I/PRP 'm/VBP like/IN ,/, okay/UH ,/, what/WP 's/BES my/PRP$ role/NN in/IN this/DT thing/NN ,/, ,/, you/PRP know/VBP ,/,","{C and } that's why, {D you know, } I'm like, {D okay, } what's my role in this thing, <laughter>, {D you know, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"what/WP 's/BES my/PRP$ part/NN ,/,","what's my part, /"
+sv,A,because/IN I/PRP do/VBP n't/RB think/VB the/DT system/NN is/VBZ going/VBG to/TO get/VB fixed/VBN ./.,{C because } I don't think the system is going to get fixed. /
+sv,A,I/PRP think/VBP it/PRP 's/BES crippled/JJ .../:,I think it's crippled ... /

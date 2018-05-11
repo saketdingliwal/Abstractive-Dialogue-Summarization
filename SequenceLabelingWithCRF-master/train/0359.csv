@@ -1,0 +1,258 @@
+act_tag,speaker,pos,text
+sv,B,I/PRP guess/VBP we/PRP 're/VBP on/IN ./.,I guess we're on. /
+ad,A,"Well/UH ,/, hang/VB on/IN","{D Well, } hang on /"
+oo_co_cc,A,"let/VB me/PRP try/VB it/PRP again/RB because/IN usually/RB ,/, um/UH ./.","let me try it again because usually <beep>, {F um. } -/"
+qy,B,Do/VBP you/PRP usually/RB get/VB a/DT message/NN ?/.,Do you usually get a message? /
+ny,A,Yeah/UH ./.,Yeah. /
+%,B,Um/UH ./.,{F Um. } /
+%,A,Um/UH ./.,{F Um. } /
+oo_co_cc,B,Hang/VB on/RP let/VB me/PRP check/VB on/IN it/PRP ./.,Hang on let me check (( on it )) . /
+h,B,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+oo_co_cc,A,"Well/UH ,/, let/VB me/PRP try/VB it/PRP once/RB more/JJR ./.","{D Well, } let me try it once more <beep>. /"
+sv,A,"Well/UH ,/, I/PRP think/VBP we/PRP 're/VBP on/RP ,/, maybe/RB ./.","{D Well, } I think we're on, maybe. /"
+b,B,Okay/UH ./.,Okay. /
+sd,A,I/PRP guess/VBP we/PRP 'll/MD find/VB out/RP ./.,I guess we'll find out <laughter>. /
+b,B,Yeah/UH ./.,Yeah. /
+qy,A,"So/UH ,/, in/IN Maryland/NNP are/VBP you/PRP ,/, uh/UH ,/, are/VBP you/PRP a/DT Skins/NNPS fan/NN ?/.","{D So, } in Maryland [ are you, + {F uh, } are you ] a Skins fan? /"
+ng,B,"Um/UH ,/, well/UH ,/, not/RB ,/, not/RB really/RB from/IN ,/, you/PRP know/VBP ,/,","{F Um, } {D well, } [ not, + not ] really from, {D you know, } - /"
+sd,B,I/PRP really/RB was/VBD n't/RB from/IN here/RB,I really wasn't from here /
+sd,B,"so/RB ,/, uh/UH ,/, the/DT teams/NNS I/PRP really/RB root/VBP for/IN in/IN football/NN are/VBP the/DT Niners/NNPS and/CC the/DT Seahawks/NNPS ,/, um/UH ,/, you/PRP know/VBP ,/, mostly/RB because/IN ,/, only/RB the/DT Niners/NNPS because/IN I/PRP used/VBD to/TO live/VB out/IN in/IN California/NNP ,/,","{C so, } {F uh, } the teams I really root for in football are the Niners and the Seahawks, {F um, } <lipsmack> {D you know, } mostly because, only the Niners because I used to live out in California,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"you/PRP know/VBP ,/, like/UH ,/, I/PRP like/VBP Seattle/NNP because/IN I/PRP like/VBP Seattle/NNP","{D you know, } {D like, } I like Seattle because I like Seattle <laughter> /"
+sd,B,and/CC besides/IN I/PRP like/VBP the/DT city/NN ./.,{C and } besides I like the city. /
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+bf,A,"So/UH ,/, you/PRP were/VBD out/IN there/RB in/IN San/NNP Francisco/NNP ?/.","{C So, } you were out there in San Francisco? /"
+ny,B,"Uh/UH ,/, yeah/UH ./.","{F Uh, } yeah. /"
+sd,B,"San/NNP Jose/NNP ,/, actually/RB but/CC --/:","San Jose, {D actually } [ but -- +"
+bh,A,"Oh/UH ,/, yeah/UH ?/.","{F Oh, } yeah? /"
++,B,"--/: but/CC close/RB ,/,","-- but ] close, /"
+b,A,"Oh/UH ,/,","{F Oh, } /"
+b,B,Yeah/UH ./.,Yeah. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"it/PRP 's/BES ,/, um/UH ,/, um/UH ,/, other/JJ than/IN the/DT ,/, uh/UH ,/, the/DT big/JJ catch/NN ,/, uh/UH ,/, with/IN the/DT Forty-niners/NNPS and/CC the/DT Cowboys/NNPS ba-/RB ,/, back/RB a/DT few/JJ year/^NNS ago/RB I/PRP like/VBP San/NNP Francisco/NNP ./.","it's, {F um, } {F um, } other than [ the, + {F uh, } the ] big catch, {F uh, } with the Forty-niners and the Cowboys [ ba-, + <laughter> back ] a few year ago I like San Francisco. /"
+b,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+h,A,"But/CC ,/, uh/UH ,/, I/PRP ,/, I/PRP do/VBP n't/RB know/VB","{C But, } {F uh, } [ I, + I ] don't know /"
+sd,A,"I/PRP ,/, I/PRP never/RB really/RB was/VBD a/DT Cowboys/NNPS fan/NN until/IN I/PRP moved/VBD down/IN to/IN Texas/NNP ./.","[ I, + I ] never really was a Cowboys fan until I moved down to Texas. /"
+qy,B,"Oh/UH ,/, is/VBZ that/DT where/WRB you/PRP are/VBP now/RB ?/.","{F Oh, } is that where you are now? /"
+ny,A,Yeah/UH ./.,Yeah. /
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,A,I/PRP 'm/VBP in/IN Dallas/NNP,I'm in Dallas /
+qy^d,A,"and/CC ,/, uh/UH ,/, uh/UH ,/, I/PRP guess/VBP when/WRB you/PRP 're/VBP down/IN here/RB in/IN Dallas/NNP you/PRP finally/RB get/VB indoctrinated/VBN into/IN the/DT Cowboys/NNPS --/:","{C and, } {F uh, } {F uh, } I guess when you're down here in Dallas you finally get indoctrinated into the Cowboys --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: um/UH ,/, because/IN ,/, uh/UH ,/, you/PRP know/VBP this/DT is/VBZ a/DT big/JJ football/NN territory/NN down/IN here/RB ./.","-- {F um, } because, {F uh, } {D you know } this is a big football territory down here. /"
+ny,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,A,"And/CC ,/, uh/UH ,/, uh/UH ,/, unfortunately/RB ,/, of/IN course/NN ,/, the/DT Cowboys/NNPS have/VBP been/VBN doing/VBG so/RB bad/RB in/IN the/DT past/RB few/JJ years/NNS ./.","{C And, } {F uh, } {F uh, } unfortunately, of course, the Cowboys have been doing so bad in the past few years. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"That/DT ,/, uh/UH ,/, uh/UH ,/,","That, {F uh, } {F uh, } - /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+%,A,"everybody/NN 's/BES kind/RB of/RB ,/,","everybody's kind of, - /"
+sv,A,they/PRP 're/VBP still/RB behind/IN them/PRP,they're still behind them /
+sv,A,"but/CC ,/, uh/UH ,/, it/PRP 's/BES not/RB like/IN it/PRP used/VBD to/TO be/VB ./.","{C but, } {F uh, } it's not like it used to be. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"Well/UH ,/, you/PRP know/VBP ,/, you/PRP ,/, you/PRP back/VBP the/DT winners/NNS","{D Well, } {D you know, } [ you, + you ] back the winners /"
+sv,B,and/CC you/PRP do/VBP n't/RB back/VB them/PRP when/WRB they/PRP 're/VBP not/RB doing/VBG well/RB ./.,{C and } you don't back them when they're not doing well <laughter>. /
+ba,A,That/DT 's/BES right/JJ ./.,That's right <laughter>. /
+sd,A,"But/CC I/PRP think/VBP ,/, uh/UH ,/, actually/RB ,/, uh/UH ,/, in/IN ,/, in/IN trying/VBG to/TO follow/VB ,/, uh/UH ,/, you/PRP know/VBP the/DT Cowboys/NNPS over/IN the/DT years/NNS I/PRP think/VBP ,/, uh/UH ,/, uh/UH ,/, they/PRP used/VBD to/TO have/VB a/DT ,/, um/UH ,/, a/DT philosophy/NN for/IN ,/, well/UH I/PRP do/VBP n't/RB know/VB ,/, probably/RB the/DT last/JJ twenty-five/CD years/NNS except/IN for/IN about/RB the/DT last/JJ about/RB five/CD or/CC six/CD years/NNS --/:","{C But } I think, {F uh, } {D actually, } {F uh, } [ in, + in ] trying to follow, {F uh, } {D you know } the Cowboys over the years I think, {F uh, } {F uh, } they used to have [ a, + {F um, } a ] philosophy for, {D well } I don't know, probably the last twenty-five years except for about the last about five or six years --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: uh/UH ,/, they/PRP always/RB went/VBD out/RB and/CC tried/VBD to/TO draft/VB the/DT ,/, the/DT best/JJS ,/, um/UH ,/, athletes/NNS ./.","-- {F uh, } they always went out and tried to draft [ the, + the ] best, {F um, } athletes."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,And/CC did/VBD n't/RB really/RB put/VBN them/PRP draft/VB for/IN any/DT particular/JJ spot/NN ./.,And didn't really put them draft for any particular spot. /
+sd,A,"But/CC they/PRP would/MD go/VB out/RB and/CC try/VB to/TO go/VB for/IN ,/, uh/UH ,/, the/DT best/JJS people/NNS and/CC then/RB mold/VB them/PRP into/IN different/JJ areas/NNS or/CC find/VB their/PRP$ natural/JJ niche/NN ./.","{C But } they would go out and try to go for, {F uh, } the best people and then mold them into different areas or find their natural niche. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC then/RB about/RB five/CD years/NNS ago/RB ,/, four/CD or/CC five/CD years/NNS ago/RB ,/, uh/UH ,/, they/PRP started/VBD going/VBG after/IN ,/, uh/UH ,/, uh/UH ,/, specific/JJ players/NNS or/CC positions/NNS ,/, you/PRP know/VBP ,/,","{C And } then about [ five years ago, + four or five years ago, ] {F uh, } they started going after, {F uh, } {F uh, } specific players or positions, {D you know, } /"
+sd,A,"like/IN the/DT press/NN would/MD get/VB down/RP on/IN Landry/NNP ,/,","{D like } the press would get down on Landry, /"
+sd,A,and/CC this/DT is/VBZ when/WRB Schramm/NNP was/VBD still/RB there/RB ./.,{C and } this is when Schramm was still there. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, um/UH ,/, they/PRP 'd/MD go/VB after/IN them/PRP saying/VBG ,/, uh/UH ,/, jeez/UH what/WP you/PRP really/RB need/VBP is/VBZ a/DT defensive/JJ end/NN ./.","{C And, } {F um, } they'd go after them saying, {F uh, } jeez what you really need is a defensive end. /"
+sd,A,So/RB they/PRP 'd/MD go/VB out/RB and/CC try/VB to/TO find/VB a/DT defensive/JJ end/NN,{C So } they'd go out and try to find a defensive end /
+sd,A,"and/CC when/WRB they/PRP ,/, when/WRB they/PRP drafted/VBD somebody/NN and/CC he/PRP did/VBD n't/RB work/VB out/RP at/IN that/DT spot/NN it/PRP really/RB was/VBD n't/RB a/DT good/JJ enough/RB athlete/NN to/TO move/VB to/IN any/DT place/NN else/RB ./.","{C and } [ when they, + when they ] drafted somebody and he didn't work out at that spot it really wasn't a good enough athlete to move to any place else. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC ,/, uh/UH ,/, so/RB I/PRP think/VBP it/PRP was/VBD kind/RB ever/RB interesting/JJ ./.","[ {C And, } + {F uh, } {C so } ] I think it was kind ever interesting. /"
+sv,A,"I/PRP think/VBP the/DT decline/NN of/IN the/DT ,/, uh/UH ,/, of/IN the/DT Cowboys/NNPS as/IN a/DT powerhouse/NN really/RB kind/RB of/RB started/VBD with/IN ,/, uh/UH ,/, not/RB drafting/VBG people/NNS ,/, the/DT best/JJS athletes/NNS ./.","I think the decline [ of the, + {F uh, } of the ] Cowboys as a powerhouse really kind of started with, {F uh, } not drafting [ people, + the best athletes. ] /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"It/PRP makes/VBZ sense/NN because/IN ,/, you/PRP know/VBP ,/, you/PRP ,/, you/PRP 've/VBP got/VBN the/DT flexibility/NN if/IN they/PRP 're/VBP good/JJ athlete/NN they/PRP can/MD ,/, you/PRP know/VBP ,/, do/VB a/DT bunch/NN of/IN different/JJ things/NNS ./.","It makes sense because, {D you know, } [ you, + you've ] got the flexibility if they're good athlete they can, {D you know, } do a bunch of different things. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
+%,B,Um/UH ./.,{F Um. } /
+%,A,"But/CC ,/,","{C But, } -/"
+%,B,"And/CC I/PRP do/VBP n't/RB ,/, you/PRP know/VBP ,/,","{C And } I don't, {D you know, } - /"
+sd,B,"my/PRP$ ,/, my/PRP$ ,/, my/PRP$ ,/, my/PRP$ main/JJ sport/NN is/VBZ baseball/NN","[ [ [ my, + my, ] + my, ] + my ] main sport is baseball /"
+sd,B,"but/CC ,/, you/PRP know/VBP ,/, um/UH ,/, I/PRP 've/VBP been/VBN enjoying/VBG football/NN","{C but, } {D you know, } {F um, } I've been enjoying football /"
+sd,B,but/CC I/PRP do/VBP n't/RB know/VB it/PRP as/RB well/RB ./.,{C but } I don't know it as well. /
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"Um/UH ,/, I/PRP just/RB ,/, you/PRP know/VBP ,/, um/UH ,/,","{F Um, } I just, {D you know, } {F um, } - /"
+qy,B,Cowboys/NNPS are/VBP going/VBG to/TO have/VB a/DT problem/NN are/VBP n't/RB they/PRP ?/.,Cowboys are going to have a problem aren't they? /
+qy,B,"Is/VBZ it/PRP ,/, is/VBZ it/PRP this/DT year/NN they/PRP do/VBP n't/RB have/VB a/DT draft/NN pick/NN because/IN of/IN the/DT Walker/NNP trade/NN","[ Is it, + is it ] this year they don't have a draft pick because of the Walker trade /"
+qw,B,or/CC what/WP was/VBD the/DT whole/JJ deal/NN on/IN that/DT ?/.,{C or } what was the whole deal on that? /
+sd,A,"Uh/UH ,/, they/PRP still/RB have/VBP some/DT ,/, some/DT ,/, uh/UH ,/, some/DT draft/NN picks/NNS ,/, uh/UH ,/,","{F Uh, } they still have [ [ some, + some, ] + {F uh, } some ] draft picks, {F uh, }"
+qy,B,"They/PRP do/VBP n't/RB ,/,","They don't,"
++,A,"that/WDT they/PRP got/VBD ,/,","that they got, /"
++,B,have/VB anything/NN high/JJ do/VBP they/PRP ?/.,have anything high do they? /
+nn,A,No/UH ./.,No. /
+sd,A,"Actually/UH ,/, they/PRP picked/VBD up/RP some/DT from/IN Minnesota/NNP ./.","{D Actually, } they picked up some from Minnesota. /"
+sd,A,"I/PRP think/VBP it/PRP was/VBD ,/, uh/UH ,/, Minnesota/NNP 's/POS MUMBLEx/XX ,/,","I think it was, {F uh, } Minnesota's (( )) , /"
+ba,B,"Oh/UH ,/, that/DT 's/BES right/JJ ,/,","{F Oh, } that's right, /"
+sd,B,that/DT 's/BES right/JJ ./.,that's right. /
+%,B,"They/PRP ,/,","They, - /"
+sd,B,it/PRP went/VBD the/DT other/JJ way/NN ./.,it went the other way. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,What/WP was/VBD I/PRP thinking/VBG ./.,What was I thinking. /
+sd,B,"They/PRP gave/VBD up/RP ,/, they/PRP ,/, they/PRP traded/VBD Wa-/NNP ,/, Herschel/NNP ,/,","[ [ They gave up, + they, ] + they traded ] [ Wa-, + Herschel, ]"
+sd,A,"They/PRP traded/VBD Walker/NNP ,/,","They traded Walker, /"
+aa,A,yeah/UH ./.,yeah <laughter>. /
++,B,to/IN Minnesota/NNP ./.,to Minnesota. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,okay/UH ./.,okay. /
+sd,B,My/PRP$ brain/NN is/VBZ really/RB working/VBG well/RB tonight/NN ./.,My brain is really working well tonight. /
+bd,A,"That/DT 's/BES okay/JJ ,/,","That's okay, /"
+%,A,"they/PRP ,/, um/UH ,/, um/UH ,/,","they, {F um, } {F um, } - /"
+sd,A,"I/PRP 've/VBP got/VBN a/DT friend/NN that/WDT ,/, uh/UH ,/, lives/VBZ right/RB next/RB to/IN the/DT Cowboys/NNPS '/POS training/NN camp/NN ./.","I've got a friend that, {F uh, } lives right next to the Cowboys' training camp. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, uh/UH ,/, he/PRP gets/VBZ ,/, he/PRP sees/VBZ them/PRP out/IN running/VBG a/DT lot/NN","{C And, } {F uh, } {F uh, } [ he gets, + he sees ] them out running a lot /"
+sd,A,and/CC every/DT once/RB in/IN a/DT while/NN gets/VBZ a/DT chance/NN to/TO talk/VB to/IN some/DT of/IN the/DT guys/NNS,{C and } every once in a while gets a chance to talk to some of the guys /
+sd,A,"and/CC they/PRP 're/VBP all/DT ,/, uh/UH ,/, they/PRP 're/VBP all/DT thinking/VBG that/IN ,/, uh/UH ,/, man/UH ,/, they/PRP ,/, they/PRP ,/, they/PRP really/RB got/VBN something/NN going/VBG this/DT year/NN ,/,","{C and } [ they're all, + {F uh, } they're all ] thinking that, {F uh, } {D man, } [ [ they, + they, ] + they ] really got something going this year, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"but/CC I/PRP ,/, I/PRP guess/VBP ,/, uh/UH ,/, when/WRB you/PRP have/VBP a/DT whole/JJ bunch/NN of/IN ,/, uh/UH ,/, professional/JJ athletes/NNS that/WDT get/VBP together/RB at/IN the/DT beginning/NN of/IN the/DT year/NN everybody/NN 's/HVS got/VBN great/JJ hopes/NNS ./.","{C but } [ I, + I ] guess, {F uh, } when you have a whole bunch of, {F uh, } professional athletes that get together at the beginning of the year everybody's got great hopes. /"
+sv,A,"You/PRP ,/,","{D You,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"know/VBP ,/, I/PRP guess/VBP it/PRP 's/BES the/DT same/JJ way/NN with/IN baseball/NN or/CC ,/, or/CC anybody/NN ,/, you/PRP know/VBP ,/,","know, } I guess it's the same way with baseball [ or, + or ] anybody, {D you know, } /"
+sv,A,"Spring/NNP training/NN until/IN you/PRP actually/RB start/VBP going/VBG out/RB and/CC getting/VBG ,/, uh/UH ,/, getting/VBG out/RB against/IN the/DT competition/NN everything/NN probably/RB looks/VBZ pretty/RB good/JJ ./.","Spring training until you actually start going out and [ getting, + {F uh, } getting ] out against the competition everything probably looks pretty good. /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,B,"I/PRP mean/VBP ,/, you/PRP know/VBP ,/, if/IN you/PRP go/VBP to/IN ,/,","{E I mean, } {D you know, } if you go to, - /"
+sv,B,"I/PRP ,/, I/PRP ,/, you/PRP know/VBP ,/, I/PRP 'm/VBP sure/JJ if/IN you/PRP go/VBP to/IN any/DT of/IN the/DT twenty-eight/CD coaches/NNS in/IN football/NN in/IN training/NN camp/NN they/PRP say/VBP ,/, oh/UH ,/, we/PRP 're/VBP going/VBG to/TO be/VB Super/NNP Bowl/NNP Champs/NNS","[ [ I, + I, ] + {D you know, } I'm ] sure if you go to any of the twenty-eight coaches in football in training camp they say, {F oh, } we're going to be Super Bowl Champs /"
+sv,B,"because/IN ,/,","{C because, }"
+b,A,"Yeah/UH ,/,","Yeah, <laughter> /"
+b,A,really/UH ./.,really <laughter>. /
++,B,"I/PRP know/VBP ,/, I/PRP know/VBP in/IN baseball/NN ,/, you/PRP know/VBP ,/, any/DT manager/NN you/PRP go/VBP to/TO say/UH ,/, well/UH ,/, we/PRP 're/VBP going/VBG to/TO be/VB in/IN the/DT World/NNP Series/NNP ,/,","[ I know, + I know ] in baseball, {D you know, } any manager you go to say, {D well, } we're going to be in the World Series,"
+x,A,./.,<Laughter>.
++,B,"even/RB though/RB ,/, you/PRP know/VBP ,/, there/EX 's/BES not/RB a/DT prayer/NN ./.","even though, {D you know, } (( there's )) not a prayer <laughter>. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,B,"Uh/UH ,/,","{F Uh, } /"
+b,A,"yeah/UH ,/,","yeah, /"
+b,A,really/UH ./.,really. /
+sv,B,this/DT is/VBZ the/DT way/NN it/PRP is/VBZ ./.,this is the way it is. /
+qy,B,"Well/UH ,/, Kim/NNP ,/, I/PRP mean/VBP ,/, did/VBD n't/RB the/DT Cowboys/NNPS even/RB finish/VB ,/,","{D Well, } (( Kim )) , {E I mean, } didn't the Cowboys even finish, - /"
+qy,B,they/PRP finished/VBD pretty/RB close/RB to/IN five/CD hundred/CD last/JJ year/NN did/VBD n't/RB they/PRP ?/.,they finished pretty close to five hundred last year didn't they? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"they/PRP did/VBD ./. As/IN a/DT matter/NN of/IN fact/NN ,/, uh/UH ,/,","they did. As a matter of fact, {F uh, } /"
+qy,B,"Because/IN they/PRP only/RB won/VBD one/CD game/NN the/DT year/NN before/RB ,/, right/UH ?/.","{C Because } they only won one game the year before, right? /"
+ny,A,Yeah/UH ./.,Yeah. /
+bk,B,Okay/UH ./.,Okay. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP enjoyed/VBD that/DT because/IN it/PRP was/VBD against/IN the/DT Skins/NNPS ./.,I enjoyed that because it was against the Skins. /
+qy^d,A,"Well/UH ,/, you/PRP do/VBP n't/RB ,/, uh/UH ,/, you/PRP do/VBP n't/RB like/VB the/DT Skins/NNPS ?/.","<Laughter> {D Well, } [ you don't, + {F uh, } you don't ] like the Skins? /"
+nn,B,"Um/UH ,/, no/UH ./.","{F Um, } no. /"
+sd,B,"I/PRP ,/, I/PRP ,/, I/PRP live/VBP near/RB Baltimore/NNP","[ [ I, + I, ] + I ] live near Baltimore /"
+sd,B,"and/CC ,/, um/UH ,/, um/UH ,/, I/PRP ,/, I/PRP really/RB do/VBP n't/RB like/VB D/NNP C/NNP a/DT whole/JJ lot/NN at/IN all/DT ./.","{C and, } {F um, } <lipsmack> {F um, } [ I, + I ] really don't like D C a whole lot at all <laughter>. /"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+%,B,"And/CC ,/, um/UH ,/, I/PRP mean/VBP ,/, I/PRP 'm/VBP really/RB ,/,","{C And, } {F um, } {E I mean, } I'm really, - /"
+sv,B,"they/PRP 're/VBP ,/, they/PRP ,/, they/PRP got/VBN a/DT big/JJ thing/NN because/IN of/IN the/DT ,/, you/PRP know/VBP ,/, the/DT ,/, the/DT expansion/NN going/VBG on/RP in/IN baseball/NN ./.","[ [ they're, + they, ] + they ] got a big thing because of [ [ the, + {D you know, } the, ] + the ] expansion going on in baseball. /"
+sd,B,"D/NNP C/NNP is/VBZ like/UH talking/VBG about/IN how/WRB ,/, how/WRB they/PRP 're/VBP going/VBG to/TO get/VB a/DT baseball/NN team/NN and/CC everything/NN ./.","D C is {D like } talking about [ how, + how ] they're going to get a baseball team and everything. /"
+sd,B,"It/PRP 's/BES like/IN you/PRP guys/NNS are/VBP n't/RB going/VBG to/TO get/VB a/DT baseball/NN team/NN ,/, I/PRP 'm/VBP sorry/JJ it/PRP 's/BES not/RB going/VBG to/TO happen/VB ./.","It's like you guys aren't going to get a baseball team, I'm sorry it's not going to happen. /"
+ba,A,Jeez/UH ./.,Jeez. /
+sv,B,"But/CC ,/, of/IN course/NN ,/, you/PRP know/VBP ,/, the/DT ,/, the/DT ,/, the/DT one/CD ,/, the/DT griping/NN is/VBZ that/IN if/IN ,/, you/PRP know/VBP ,/, if/IN ,/, if/IN Washington/NNP does/VBZ n't/RB get/VB a/DT ,/, uh/UH ,/, a/DT baseball/NN team/NN then/RB Baltimore/NNP should/MD n't/RB get/VB a/DT football/NN team/NN ./. Which/WDT is/VBZ probably/RB true/JJ ,/,","{C But, } of course, {D you know, } [ [ [ the, + the, ] + the one, ] + the ] griping is that [ [ if, + {D you know, } if, ] + if ] Washington doesn't get [ a, + {F uh, } a ] baseball team then Baltimore shouldn't get a football team. Which is probably true, /"
+sd,B,"but/CC anyway/RB ,/, um/UH ,/, I/PRP just/RB ,/, I/PRP 've/VBP never/RB liked/VBN D/NNP C/NNP a/DT whole/JJ lot/NN","{C but } anyway, {F um, } [ I just, + I've ] never liked D C a whole lot /"
+sd,B,and/CC a/^PRP really/RB hate/VBP the/DT Redskins/NNPS ./.,{C and } a really hate the Redskins.
+ba,A,"Well/UH ,/, of/IN course/NN ,/,","{D Well, } of course, /"
++,B,"And/CC a/DT lot/NN of/IN it/PRP 's/BES because/IN ,/, you/PRP know/VBP ,/, I/PRP got/VBN a/DT lot/NN of/IN people/NNS ,/, you/PRP know/VBP ,/, at/IN work/NN with/IN and/CC everything/NN that/WDT are/VBP big/JJ Redskin/NNP fans/NNS ./.","{C And } a lot of it's because, {D you know, } I got a lot of people, {D you know, } at work with and everything that are big Redskin fans. /"
+b,A,Yeah/UH ./.,Yeah. /
+ba,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+b,A,"Yeah/UH ,/, um/UH ,/,","Yeah, {F um, } /"
+sd,A,"of/IN course/NN ,/, then/RB you/PRP 're/VBP not/RB that/RB far/RB from/IN Philadelphia/NNP ./.","of course, then you're not that far from Philadelphia. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP 've/VBP ,/, I/PRP 've/VBP never/RB liked/VBN Ph-/NNP ,/, Philadelphia/NNP ,/, the/DT city/NN a/DT whole/JJ lot/NN ./.","[ I've, + I've ] never liked [ Ph-, + Philadelphia, ] the city a whole lot. /"
+sd,B,"The/DT only/JJ reason/NN I/PRP really/RB enjoy/VBP the/DT Eagles/NNPS at/IN all/DT is/VBZ because/RB ,/, uh/UH ,/, I/PRP really/RB like/VBP Randall/NNP Cunningham/NNP ./.","The only reason I really enjoy the Eagles at all is because, {F uh, } I really like Randall Cunningham. /"
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+%,A,"I/PRP ,/,","I, - /"
+sd,A,"it/PRP was/VBD Buddy/NNP Ryan/NNP ,/, the/DT one/CD that/WDT I/PRP ca/MD n't/RB ,/, uh/UH ,/, uh/UH ,/, stand/VB too/RB much/RB ./.","it was Buddy Ryan, the one that I can't, {F uh, } {F uh, } stand too much. /"
+%,B,"Ye-/UH ,/,","Ye-, /"
+sd,B,"well/UH ,/, considering/VBG how/WRB ,/, how/WRB well/RB he/PRP gets/VBZ along/RP with/IN ,/, uh/UH ,/, Jimmy/NNP Johnson/NNP that/DT does/VBZ n't/RB surprise/VB me/PRP ./.","{D well, } considering [ how, + how ] well he gets along with, {F uh, } Jimmy Johnson that doesn't surprise me. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,really/UH ./. Oh/UH ./.,<laughter> really. {F Oh. } /
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"there/EX was/VBD ,/, um/UH ,/, uh/UH ,/, there/EX was/VBD this/DT ,/, uh/UH ,/, ther-/EX ,/, ther-/EX ,/, in/IN ,/,","[ there was, + {F um, } {F uh, } there was ] this, {F uh, } [ ther-, + ther-, in, ] - /"
+sd,B,"the/DT Baltimore/NNP Sun/NNP has/VBZ this/DT ,/, uh/UH ,/, cartoonist/NN in/IN the/DT sports/NNS section/NN","the Baltimore Sun has this, {F uh, } cartoonist in the sports section /"
+%,B,"and/CC ,/, uh/UH ,/, when/WRB ,/, uh/UH ,/,","{C and, } {F uh, } <lipsmack> when, {F uh, } - /"
+%,B,"las-/RB ,/, last/RB ,/,","[ las-, + last, ] - /"
+sd,B,"I/PRP guess/VBP it/PRP was/VBD January/NNP ,/, when/WRB ,/, um/UH ,/, Jimmy/NNP Johnson/NNP got/VBD named/VBN coach/NN of/IN the/DT year/NN or/CC whatever/WDT ./.","I guess it was January, when, {F um, } Jimmy Johnson got named coach of the year or whatever. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,It/PRP was/VBD the/DT same/JJ year/NN that/WDT Buddy/NNP Ryan/NNP got/VBD fired/VBN ./.,It was the same year that Buddy Ryan got fired. /
+sd,B,"And/CC ,/, uh/UH ,/, he/PRP had/VBD this/DT cartoon/NN in/IN there/RB about/IN Jimmy/NNP Johnson/NNP 's/POS big/JJ day/NN ,/, you/PRP know/VBP ,/,","{C And, } {F uh, } he had this cartoon in there about Jimmy Johnson's big day, {D you know, } /"
+sd,B,"the/DT first/JJ thing/NN is/VBZ the/DT phone/NN call/NN from/IN the/DT ,/, you/PRP know/VBP ,/, from/IN the/DT league/NN saying/VBG he/PRP was/VBD ,/, uh/UH ,/, um/UH ,/, you/PRP know/VBP ,/, uh/UH ,/, was/VBD coach/NN of/IN the/DT year/NN","the first thing is the phone call [ from the, + {D you know, } from the ] league saying he [ was, + {F uh, } {F um, } {D you know, } {F uh, } was ] coach of the year /"
+sd,B,"and/CC the/DT second/JJ was/VBD this/DT phone/NN call/NN from/IN Buddy/NNP Ryan/NNP ,/, I/PRP got/VBD fired/VBN can/MD you/PRP believe/VB that/DT ./.","{C and } the second was this phone call from Buddy Ryan, I got fired can you believe that <laughter>. /"
+ba,A,"Uh/UH ,/, oh/UH ,/, jeez/UH ./.","<Laughter> {F Uh, } {F oh, } jeez. /"
+b,A,"Yeah/UH ,/, uh/UH ,/,","Yeah, {F uh, } /"
+qy^d,A,"actually/UH ,/, uh/UH ,/, you/PRP said/VBD you/PRP lived/VBD near/RB ,/, uh/UH ,/, Baltimore/NNP ?/.","{D actually, } {F uh, } you said you lived near, {F uh, } Baltimore? /"
+ny,B,Yeah/UH ./.,Yeah. /
+%,A,"You/PRP 're/VBP out/IN ,/, uh/UH ,/,","You're out, {F uh, } - /"
+sd,A,I/PRP used/VBD to/TO travel/VB out/IN that/DT way/NN a/DT lot/NN,I used to travel out that way a lot /
+sd,A,"and/CC ,/, uh/UH ,/, actually/UH I/PRP used/VBD to/TO drive/VB a/DT lot/NN between/IN Baltimore/NNP and/CC Washington/NNP","{C and, } {F uh, } {D actually } I used to drive a lot between Baltimore and Washington /"
+%,A,"and/CC ,/,","{C and, } -/"
+ar,B,No/UH ./.,No. /
+sd,B,"I/PRP lived/VBD ,/,","I lived, - /"
+qy,B,do/VBP you/PRP know/VBP what/WP Ellicott/NNP City/NNP is/VBZ ?/.,do you know what Ellicott City is? /
+nn,A,"Um/UH ,/, no/UH ./.","{F Um, } no. /"
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,B,"but/CC basical-/RB ,/, well/UH ,/, Route/NNP Seventy/CD and/CC ,/, and/CC uh/UH ,/, Route/NNP Forty/CD ./.","{C but } basical-, {D well, } Route Seventy [ and, + and ] {F uh, } Route Forty. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,I/PRP used/VBD to/TO go/VB out/IN of/IN B/NNP W/NNP I/NNP a/DT lot/NN ./.,I used to go out of B W I a lot. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"that/DT 's/BES not/RB far/RB from/IN where/WRB the/DT ,/, uh/UH ,/, the/DT new/JJ football/NN stadium/NN would/MD be/VB if/IN we/PRP got/VBD an/DT N/NNP F/NNP L/NNP team/NN ./.","that's not far from where [ the, + {F uh, } the ] new football stadium would be if we got an N F L team <laughter>. /"
+qy^d,A,"Oh/UH ,/, yeah/UH ?/.","{F Oh, } yeah? /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"Well/UH ,/, they/PRP 've/VBP ,/, they/PRP 've/VBP built/VBN a/DT new/JJ stadium/NN downtown/RB ,/, um/UH ,/,","{D Well, } [ they've, + they've ] built a new stadium downtown, {F um, } /"
+sd,B,it/PRP 's/BES opening/VBG next/JJ year/NN ./.,it's opening next year. /
+%,B,"So/UH ,/,","{D So, } -/"
+%,A,"Is/VBZ that/DT near/RB ,/, near/RB the/DT ,/, what/WP do/VBP they/PRP ,/,","Is that [ near, + near ] the, what do they, - /"
+sd,A,I/PRP forgot/VBD the/DT name/NN of/IN it/PRP ./.,I forgot the name of it. /
+qy,A,"Is/VBZ it/PRP the/DT ,/, the/DT Wharf/NNP or/CC the/DT ,/, the/DT ,/, uh/UH --/:","Is it the, the Wharf or [ the, + the, ] {F uh } --"
+na,B,The/DT Inner/NNP Harbor/NNP ./.,The Inner Harbor. /
++,A,--/: Inner/NNP Harbor/NNP ./.,-- Inner Harbor. /
+ny,B,Yeah/UH ./.,Yeah. /
+sd,B,"It/PRP 's/BES ,/, um/UH ,/, a/DT couple/NN of/IN blocks/NNS west/RB ./.","It's, {F um, } a couple of blocks west. /"
+sd,B,"There/EX 's/BES a/DT big/JJ ,/, um/UH ,/, there/EX is/VBZ an/DT old/JJ railroad/NN yard/NN ,/,","[ There's a big, + {F um, } <lipsmack> there is an old ] railroad yard,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"basically/RB ,/, um/UH ,/,","basically, {F um, } /"
+sd,B,there/EX 's/BES a/DT big/JJ long/JJ railroad/NN shed/NN,there's a big long railroad shed /
+sd,B,"and/CC then/RB there/EX 's/BES ,/, uh/UH ,/, an/DT old/JJ station/NN","{C and then } there's, {F uh, } an old station /"
+sd,B,"and/CC they/PRP 're/VBP building/VBG the/DT stadium/NN on/IN the/DT other/JJ side/NN of/IN the/DT shed/NN from/IN the/DT Inner/NNP Harbor/NNP ,/, which/WDT is/VBZ really/RB stupid/JJ because/IN one/CD of/IN the/DT big/JJ selling/NN points/NNS of/IN the/DT new/JJ stadium/NN is/VBZ supposed/VBN to/TO be/VB this/DT view/NN of/IN the/DT Inner/NNP Harbor/NNP","{C and } they're building the stadium on the other side of the shed from the Inner Harbor, which is really + stupid because one of the big selling points of the new stadium is supposed to be this view of the Inner Harbor /"
+sd,B,"and/CC the/DT only/JJ way/NN you/PRP 're/VBP going/VBG to/TO have/VB a/DT view/NN of/IN is/VBZ this/DT big/JJ brick/NN wall/NN ,/, um/UH ,/,","{C and } the only way you're going to have a view of is this big brick wall <laughter>, {F um, } /"
+b,A,Great/UH ./.,Great. /
+sd,B,"but/CC ,/, you/PRP know/VBP ,/, they/PRP 're/VBP building/VBG the/DT baseball/NN stadium/NN","<Lipsmack> {C but, } {D you know, } they're building the baseball stadium /"
+sd,B,and/CC they/PRP 've/VBP got/VBN land/NN set/VBN aside/RB for/IN a/DT football/NN stadium/NN if/IN they/PRP ever/RB get/VBP a/DT N/NNP F/NNP L/NNP team/NN ./.,{C and } they've got land set aside for a football stadium if they ever get a N F L team. /
+aa,A,Um/UH ./.,{F Um. }
+sd,B,"So/RB it/PRP 's/BES ,/, um/UH ,/, real/RB easy/JJ access/NN from/IN ,/, from/IN south/RB of/IN Baltimore/NNP like/UH ,/, um/UH ,/, like/UH the/DT airport/NN or/CC more/RBR importantly/RB for/IN the/DT Orioles/NNPS from/IN Washington/NNP D/NNP C/NNP ./.","{C So } it's, {F um, } real easy access [ from, + from ] south of Baltimore [ like, + {F um, } like ] the airport or more importantly for the Orioles from Washington D C. /"
++,A,Yeah/UH ./.,Yeah. /
+sd,B,"The/DT Orioles/NNPS say/VBP they/PRP get/VBP twenty-five/CD percent/NN of/IN their/PRP$ population/NN ,/, I/PRP mean/VBP ,/, uh/UH ,/, their/PRP$ attendance/NN from/IN D/NNP C/NNP ./.","The Orioles say they get twenty-five percent of [ their population, + {E I mean, } {F uh, } their attendance ] from D C. /"
+%,A,"I/PRP tell/VBP you/PRP what/WP I/PRP ,/,","I tell you what I, - /"
+%,A,"the/EX ,/,","the, - /"
+%,A,"ther-/EX ,/, there/EX 's/BES ,/,","[ ther-, + there's, ] - /"
+sd,A,"the/DT Colts/NNPS still/RB ,/, you/PRP know/VBP ,/, still/RB to/IN me/PRP are/VBP the/DT Baltimore/NNP Colts/NNPS ./.","the Colts [ still, + {D you know, } still ] to me are the Baltimore Colts. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,A,You/PRP know/VBP ?/.,{D You know? } -/
+ny,B,Yeah/UH ./.,Yeah. /
+sv,B,They/PRP really/RB ought/MD to/TO change/VB the/DT name/NN I/PRP think/VBP in/IN Indianapolis/NNS ./.,They really ought to change the name I think in Indianapolis. /
+sd,B,"I/PRP ,/, uh/UH ,/, never/RB been/VBN real/RB thrilled/JJ with/IN ,/, well/UH ,/, not/RB ,/, you/PRP know/VBP ,/,","I, {F uh, } never been real thrilled with, {D well, } not, {D you know, } - /"
+sd,B,"sitting/VBG here/RB and/CC talking/VBG about/IN all/PDT the/DT cities/NNS that/WDT I/PRP hate/VBP ,/,","sitting here and talking about all the cities that I hate, /"
+sd,B,"I/PRP ,/, uh/UH ,/, I/PRP went/VBD to/IN Purdue/NNP University/NNP for/IN a/DT couple/NN of/IN years/NNS and/CC ,/, uh/UH ,/,","[ I, + {F uh, } I ] went to Purdue University for a couple of years and, {F uh, }"
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
++,B,really/RB learned/VBD to/TO hate/VB Indianapolis/NNP while/IN I/PRP was/VBD out/IN there/RB ./.,really learned to hate Indianapolis while I was out there <laughter>. /
+x,A,./.,<Laughter>.
+sd,B,"And/CC ,/, um/UH ,/, I/PRP was/VBD not/RB real/RB happy/JJ when/WRB ,/, uh/UH ,/, when/WRB they/PRP ,/, uh/UH ,/, left/VBD to/TO go/VB ,/, go/VB there/RB of/IN all/DT places/NNS ./.","{C And, } {F um, } I was not real happy [ when, + {F uh, } when ] they, {F uh, } left to [ go, + go ] there of all places <laughter>. /"
+ba,A,Jeez/UH ./.,Jeez. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+qy,A,"so/RB ,/, uh/UH ,/, uh/UH ,/, you/PRP know/VBP ,/, did/VBD you/PRP graduate/VB from/IN Purdue/NNP ?/.","{D so, } {F uh, } {F uh, } {D you know, } did you graduate from Purdue? /"
+nn,B,"No/UH ,/,","No, /"
+sd,B,"I/PRP ,/, I/PRP ,/, uh/UH ,/, I/PRP transferred/VBD to/IN Delaware/NNP and/CC graduated/VBD there/RB ./.","[ [ I, + I, ] + {F uh, } I ] transferred to Delaware and graduated there. /"
+qy^d,A,Delaware/NNP ?/.,Delaware? /
+ny,B,Yeah/UH ./.,Yeah. /
+sd,A,"Oh/UH ,/, there/EX 's/BES not/RB a/DT whole/JJ lot/NN in/IN Delaware/NNP ./.","{F Oh, } there's not a whole lot in Delaware. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"but/CC it/PRP 's/BES close/RB to/IN Philadelphia/NNP and/CC Baltimore/NNP ,/,","{C but } it's close to Philadelphia and Baltimore, /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,B,"so/RB it/PRP 's/BES ,/,","{C so } it's, -/"
+ba,A,that/DT 's/BES true/JJ ./.,that's true. /
+na,B,"Uh/UH ,/, kind/RB of/RB all/DT over/IN the/DT place/NN but/CC ,/,","{F Uh, } kind of all over the place but,"
++,B,"eas/JJ ,/,","[ eas-, +"
++,A,"coast/NN ,/, right/UH ?/. ./.","coast, right? <Laughter>. /"
++,B,"east/JJ coast/NN lately/RB ,/,","east ] coast lately, /"

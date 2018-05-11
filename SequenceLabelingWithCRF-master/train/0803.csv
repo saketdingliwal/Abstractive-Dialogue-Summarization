@@ -1,0 +1,130 @@
+act_tag,speaker,pos,text
+%,A,"The/DT way/NN ,/,","The way, - /"
+sd,A,I/PRP 'll/MD go/VB ahead/RB and/CC start/VB,I'll go ahead and start /
+sd,A,"the/DT way/NN I/PRP work/VBP ,/, uh/UH ,/, the/DT way/NN I/PRP dress/VBP --/:","[ the way I work, + {F uh, } the way I dress --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: for/IN work/NN is/VBZ ,/, uh/UH ,/, this/DT year/NN ,/, nineteen/CD ninety-one/CD has/VBZ been/VBN really/RB suit/NN and/CC tie/NN ,/,","-- for work ] is, {F uh, } this year, nineteen ninety-one has been really suit and tie, /"
+sd,A,"or/CC I/PRP should/MD n't/RB say/VB suit/NN ,/, but/CC coat/NN and/CC tie/NN every/DT day/NN ./.","{C or } I shouldn't say suit, but coat and tie every day. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"A/DT ,/, a/DT year/NN ago/RB ,/, I/PRP changed/VBD jobs/NNS from/IN being/VBG a/DT researcher/NN --/:","[ A, + a ] year ago, I changed jobs from being a researcher --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: to/IN doing/VBG marketing/NN for/IN the/DT research/NN group/NN ./.,-- to doing marketing for the research group. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Which/WDT means/VBZ kind/RB of/RB a/DT ,/, I/PRP guess/VBP it/PRP 's/BES a/DT different/JJ set/NN of/IN standards/NNS ,/, I/PRP guess/VBP ./.","[ Which means kind of a, + I guess it's a ] different set of standards, I guess. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"So/RB ,/, uh/UH ,/, I/PRP ,/, I/PRP dress/VBP almost/RB the/DT same/JJ every/DT day/NN ./.","{C So, } {F uh, } [ I, + I ] dress almost the same every day. /"
+sd,A,"I/PRP mean/VBP ,/, pretty/RB much/RB it/PRP 's/BES a/DT white/JJ shirt/NN and/CC --/:","{E I mean, } pretty much it's a white shirt and --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: slacks/NNS and/CC shoes/NNS and/CC --/:,-- slacks and shoes and --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: a/DT coat/NN ./.,-- a coat. /
+x,B,./.,<Laughter>.
+sd,A,"But/CC ,/, it/PRP was/VBD very/RB different/JJ before/RB ./.","{C But, } it was very different before. /"
+qo,A,How/WRB do/VBP you/PRP dress/VB ?/.,How do you dress? /
+^h,B,"Well/UH ,/, I/PRP 'm/VBP a/DT drafter/NN ,/,","{D Well, } I'm a drafter, /"
+sd,B,so/RB I/PRP just/RB wear/VBP blue/JJ jeans/NNS and/CC tennis/NN shoes/NNS,{C so } I just wear blue jeans and tennis shoes /
+sd,B,and/CC I/PRP have/VBP sweatshirt/NN on/IN today/NN ./.,{C and } I have sweatshirt on today. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC that/DT 's/BES pretty/RB much/JJ the/DT norm/NN for/IN me/PRP ./.,{C And } that's pretty much the norm for me. /
+sd,B,"If/IN I/PRP come/VBP in/RB in/IN a/DT dress/NN ,/, everybody/NN 's/BES shocked/JJ ./.","If I come [ in + in ] a dress, everybody's shocked <laughter>. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,I/PRP understand/VBP ./.,I understand. /
+sd,B,"They/PRP ask/VBP me/PRP ,/, you/PRP know/VBP ,/, what/WP are/VBP you/PRP doing/VBG in/IN a/DT dress/NN","They ask me, {D you know, } what are you doing in a dress /"
+sd,B,and/CC it/PRP 's/BES usually/RB I/PRP have/VBP n't/RB done/VBN my/PRP$ laundry/NN lately/RB ./.,{C and } it's usually I haven't done my laundry lately <laughter>. /
+b,A,Right/UH ./.,Right. /
+^q,B,Ran/VBD out/RP of/IN jeans/NNS ./.,Ran out of jeans <laughter>. /
+b,A,"I/PRP understand/VBP ,/,","I understand, /"
+ba,A,that/DT 's/BES funny/JJ ./.,that's funny <throat_clearing>. /
+qy,A,"So/RB ,/, does/VBZ it/PRP change/VB ?/.","{C So, } does it change? /"
+nn,B,No/UH ./.,No. /
+b,A,"Your/PRP$ dress/NN ,/,","Your dress, /"
+b^m,A,no/UH ./.,no. /
+nn,B,"No/UH ,/,","No, /"
+nn,B,huh-uh/UH ./.,huh-uh. /
+qy,A,"So/RB ,/, or/CC ,/, I/PRP guess/VBP ,/, do/VBP you/PRP have/VB things/NNS like/IN presentations/NNS to/TO do/VB or/CC anything/NN like/IN that/DT ?/.","[ {C So, } + {C or, } ] I guess, do you have things like presentations to do or anything like that? /"
+nn,B,"No/UH ,/,","No, /"
+nn,B,huh-uh/UH ./.,huh-uh. /
+sd,A,"So/RB ,/, back/RB in/IN my/PRP$ old/JJ job/NN ,/, up/IN until/IN through/IN nineteen/CD eighty/CD --/:","{C So, } back in my old job, up until through nineteen eighty --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: I/PRP would/MD usually/RB wear/VB blue/JJ jeans/NNS and/CC pullover/NN shirts/NNS and/CC the/DT like/JJ ,/,","-- I would usually wear blue jeans and pullover shirts and the like, /"
+sd,A,"but/CC ,/, probably/RB once/RB a/DT month/NN or/CC so/RB ,/, there/EX was/VBD some/DT reason/NN that/WDT I/PRP would/MD have/VB to/TO put/VB on/IN a/DT suit/NN ./.","{C but, } probably once a month or so, there was some reason that I would have to put on a suit."
+b,B,Yeah/UH ./.,Yeah. /
++,A,For/IN a/DT customer/NN presentation/NN or/CC something/NN ./.,For a customer presentation or something. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sd,B,"Every/DT now/RB and/CC then/RB I/PRP 'll/MD get/VB dressed/VBN up/RP and/CC come/VB in/RB ,/,","Every now and then I'll get dressed up and come in, /"
+sd,B,but/CC that/DT 's/BES for/IN my/PRP$ husband/NN 's/POS job/NN and/CC not/RB mine/PRP ./.,{C but } that's for my husband's job and not mine <laughter>. /
+b,A,"Oh/UH ,/, I/PRP see/VBP ,/,","{F Oh, } I see, /"
+b,A,I/PRP understand/VBP ./.,I understand. /
+sd,B,"I/PRP have/VBP to/TO go/VB to/IN a/DT business/NN meeting/NN once/RB a/DT month/NN with/IN him/PRP ,/,","I have to go to a business meeting once a month with him, /"
+%,B,but/CC,{C but } - /
+x,B,",/,","<laughter>,"
+ba,A,"Oh/UH ./. Well/UH ,/, that/DT 's/BES interesting/JJ ./.","{F Oh. } {D Well, } that's interesting. /"
++,B,"So/UH ,/,","So, -/"
+^h,A,"Let/VB 's/PRP see/VB ,/, uh/UH ,/, what/WP else/RB about/IN this/DT ,/, uh/UH ,/,","Let's see, {F uh, } what else about this, {F uh, } /"
+sv,A,"it/PRP ,/, it/PRP seems/VBZ like/IN T/NNP I/NNP is/VBZ pretty/RB cut/JJ and/CC dried/JJ with/IN two/CD ,/, like/IN ,/, two/CD or/CC three/CD levels/NNS ./.","[ it, + it ] seems like T I is pretty cut and dried with [ two, + {D like, } two ] or three levels. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"That/IN there/EX 's/BES the/DT t-/XX ,/, upper/JJ management/NN that/WDT always/RB wears/VBZ gray/JJ suits/NNS ./.","[ That + there's the ] [ t-, + ] upper management that always wears gray suits."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"And/CC the/DT people/NNS that/WDT do/VBP n't/RB ,/, uh/UH ,/,","And the people that don't, {F uh, } /"
+sd,A,"I/PRP would/MD ,/, if/IN you/PRP ,/, if/IN I/PRP want/VBP to/TO say/VB do/VBP n't/RB have/VB power/NN or/CC do/VBP n't/RB have/VB authority/NN or/CC whatever/WP --/:","[ I would, + [ if you, + if I ] ] want to say don't have power or don't have authority or whatever --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: like/IN I/PRP used/VBD to/TO be/VB in/IN that/DT research/NN --/:,-- like I used to be in that research -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy^d,A,--/: and/CC I/PRP guess/VBP you/PRP are/VBP ./.,-- {C and } I guess you are. /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,That/IN we/PRP dress/VBP in/IN the/DT jeans/NNS,That we dress in the jeans /
+sv,A,"and/CC then/RB there/EX 's/BES kind/RB of/RB the/DT ,/, the/DT branch/NN manager/NN level/NN --/:","{C and then } there's kind of [ the, + the ] branch manager level --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: or/CC marketing/NN people/NNS that/WDT kind/RB of/RB do/VBP that/DT middle/JJ thing/NN ./.,-- or marketing people that kind of do that middle thing. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,yeah/UH ./.,yeah. /
+sv,A,"But/CC there/EX 's/BES not/RB much/JJ ,/,","{C But } there's not much, /"
+sv,B,"Mi-/NN ,/, middle/NN of/IN the/DT road/NN ./.","[ Mi-, + middle ] of the road. /"
+sv,A,It/PRP 's/BES nice/JJ that/IN there/EX 's/BES not/RB a/DT requirement/NN --/:,It's nice that there's not a requirement --
+aa,B,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,B,uh-huh/UH ./.,uh-huh. /
++,A,--/: for/IN it/PRP ./.,-- for it. /
+sd,B,Sometimes/RB I/PRP think/VBP there/EX should/MD be/VB ./.,Sometimes I think there should be. /
+sv,B,Some/DT of/IN these/DT women/NNS around/IN here/RB look/VBP like/IN they/PRP came/VBD off/IN of/IN Harry/NNP Hines/NNP ./.,Some of these women around here <laughter> look like they came off of Harry Hines. /
+aa,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+aa,A,right/UH ./.,right <laughter>. /
+x,B,./.,<Laughter>.
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,I/PRP guess/VBP you/PRP see/VBP those/DT once/IN in/IN a/DT while/NN ./.,I guess you see those once in a while. /
+sd,B,"And/CC you/PRP know/VBP the/DT ,/, they/PRP have/VBP the/DT no/DT shorts/NNS deal/NN ,/,","<Laughter> {C And } {D you know } [ the, + they have the ] no shorts deal, /"
+sv,B,"and/CC some/DT of/IN these/DT mini/GW skirts/^NNS ,/, you/PRP know/VBP ,/, are/VBP worse/JJR than/IN shorts/NNS ever/RB thought/VBD about/IN being/VBG ./.","{C and } some of these mini skirts, {D you know, } are worse than shorts ever thought about being. /"
+aa,A,Sure/UH ./.,Sure. /
+sv,B,"But/CC ,/, uh/UH ,/,","{C But, } {F uh, }"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"You/PRP know/VBP ,/, that/DT 's/BES ,/, I/PRP guess/VBP that/DT 's/BES one/CD of/IN the/DT things/NNS you/PRP got/VBD to/TO put/VB up/RP with/IN when/WRB you/PRP do/VBP n't/RB have/VB a/DT dress/NN code/NN ./.","{D You know, } [ that's, + I guess that's ] one of the things you got to put up with when you don't have a dress code. /"
+aa,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+aa,A,that/DT 's/BES right/JJ ./.,that's right. /
+qy^d,A,"I/PRP guess/VBP they/PRP 're/VBP ,/, the/DT ,/, is/VBZ n't/RB there/RB a/DT dress/NN code/NN ,/, something/NN about/IN spaghetti/NN straps/NNS ,/,","I guess [ they're, the, + isn't there a ] dress code, something about spaghetti straps, /"
+sd,A,I/PRP 'm/VBP not/RB even/RB sure/JJ what/WP they/PRP are/VBP ./.,I'm not even sure what they are. /
+sv,B,Supposedly/RB and/CC backless/JJ things/NNS --/:,Supposedly and backless things -- /
+b,A,"Oh/UH ,/, backless/JJ ,/,","{F Oh, } backless, /"
+aa,A,all/RB right/JJ ./.,all right. /
+sd,B,"--/: but/CC ,/, I/PRP 've/VBP seen/VBN those/DT ,/, too/RB ,/,","-- {C but, } I've seen those, too, /"
+%,B,"but/CC ,/,","{C but, } -/"
+b,A,"Okay/UH ,/,","Okay, /"
+sv,A,"so/RB this/DT was/VBD n't/RB necessarily/RB a/DT big/JJ conversation/NN ,/,","{C so } this wasn't necessarily a big conversation, /"
+sv,A,"but/CC ,/, I/PRP think/VBP we/PRP ,/,","{C but, } I think [ we, +"
+x,B,./.,<Laughter>.
++,A,we/PRP did/VBD it/PRP ./.,we ] did it <laughter>. /
+b,B,"Uh/UH ,/, yeah/UH ./.","{F Uh, } yeah. /"
+b,A,"Okay/UH ,/,","Okay, /"
+qy^d,A,"and/CC ,/, and/CC your/PRP$ name/NN was/VBD Lisa/NNP ./.","[ {C and, } + {C and } ] your name was Lisa. /"
+na,B,Lisa/NNP ./.,Lisa. /
+ba,A,Great/UH ./.,Great. /
+qy,B,Are/VBP you/PRP the/DT Expressway/NN sites/NNS ?/.,Are you the Expressway sites? /
+na,A,"I/PRP am/VBP ,/,","I am, /"
+ny,A,"yes/UH ,/,","yes, /"
+sd,A,and/CC I/PRP work/VBP in/IN the/DT north/JJ building/NN ./.,{C and } I work in the north building. /
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+ft,A,"Uh/UH ,/, well/UH ,/, thank/VB you/PRP ./.","{F Uh, } {D well, } thank you. /"
+ft,B,Thank/VB you/PRP ./.,Thank you. /
+fc,A,"All/RB right/JJ ,/,","All right, /"
+fc,A,good/JJ day/NN ./.,good day. /
+fc,B,"Uh-huh/UH ,/,","Uh-huh, /"
+fc,B,bye-bye/UH ./.,bye-bye. /

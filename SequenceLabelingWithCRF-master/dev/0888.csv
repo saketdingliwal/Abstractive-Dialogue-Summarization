@@ -1,0 +1,128 @@
+act_tag,speaker,pos,text
+qw,A,"So/UH how/WRB do/VBP you/PRP ,/, uh/UH ,/,","{D So } how do you, {F uh, } - /"
+sd,A,"so/UH ,/, so/UH ,/, it/PRP sounds/VBZ like/IN you/PRP 've/VBP got/VBN a/DT television/NN going/VBG on/RP there/RB ,/,","[ {D so, } + {D so, } ] it sounds like you've got a television going on there, /"
+sd,A,so/RB I/PRP can/MD assume/VB that/IN you/PRP probably/RB watch/VBP the/DT T/NN V/NN news/NN ./.,{D so } I can assume that you probably watch the T V news. /
+%,A,"Is/VBZ that/DT ,/,","Is that, -/"
+sd,B,I/PRP almost/RB never/RB watch/VBP T/NN V/NN news/NN ./.,I almost never watch T V news. /
+bh,A,Really/UH ?/.,Really? /
+x,B,./.,<Laughter>.
+ba,A,Wow/UH ./.,Wow. /
+%,A,"I/PRP ,/,","(( I )) , -/"
+sd,B,I/PRP get/VBP most/JJS of/IN my/PRP$ news/NN driving/VBG back/RB and/CC forth/RB to/IN work/NN listening/VBG to/IN the/DT radio/NN ./.,I get most of my news driving back and forth to work listening to the radio. /
+qw,A,"Uh/UH ,/, what/WDT ,/, what/WDT station/NN do/VBP you/PRP listen/VB to/IN ?/.","{F Uh, } [ what, + what ] station do you listen to? /"
+sd,B,"Uh/UH ,/, it/PRP 's/BES a/DT local/JJ radio/NN station/NN ./.","{F Uh, } it's a local radio station. /"
+sd,B,"It/PRP 's/BES called/VBN ,/, uh/UH ,/, K/NNP L/NNP I/NNP F/NNP ,/, cliff/NNP ./.","It's called, {F uh, } K L I F, cliff. /"
+b^m,A,"Cliff/NNP ,/, I/PRP see/VBP ,/,","Cliff, I see, /"
+qy,A,"so/RB ,/, uh/UH ,/, it/PRP 's/BES not/RB affiliated/JJ with/IN anything/NN ,/, is/VBZ it/PRP ./.","{D so, } {F uh, } it's not affiliated with anything, is it. /"
+qy^d,A,Not/RB --/:,[ Not -- +
+nn,B,No/UH ./.,No. /
++,A,--/: it/PRP 's/BES not/RB a/DT network/NN station/NN ./.,-- it's not ] a network station. /
+nn,B,No/UH ./.,No. /
+bk,A,"Okay/UH ,/,","Okay, /"
+b,A,"yeah/UH ,/,","yeah, /"
+sd,A,"because/IN I/PRP ,/, I/PRP listen/VBP to/IN ,/, uh/UH ,/, public/JJ radio/NN a/DT lot/NN","{C because } [ I, + I ] listen to, {F uh, } public radio a lot /"
+sd,A,"and/CC they/PRP have/VBP ,/, they/PRP have/VBP K/NNP C/NNP R/NNP W/NNP ,/, which/WDT I/PRP ,/, I/PRP ,/, I/PRP saw/VBD a/DT thing/NN recently/RB ,/, they/PRP may/MD be/VB trying/VBG to/TO start/VB their/PRP$ own/JJ ,/, uh/UH ,/, cable/NN TV/NN outlet/NN ,/, I/PRP guess/VBP ./.","{C and } [ they have, + they have ] K C R W, which [ [ I, + I, ] + I ] saw a thing recently, they may be trying to start their own, {F uh, } cable TV outlet, <clanking> I guess. /"
+sd,A,"They/PRP 're/VBP getting/VBG a/DT little/RB ,/, getting/VBG a/DT little/RB feisty/JJ now/RB ./.","They're [ getting a little, + getting a little ] feisty now <laughter>. /"
+sd,B,"Well/UH ,/, this/DT has/VBZ ,/, this/DT station/NN has/VBZ a/DT lot/NN of/IN just/RB ongoing/VBG news/NN --/:","{D Well, } [ this has, + this station has ] a lot of just ongoing news -- /"
+%,A,"Uh/UH ,/,","{F Uh, } /"
+sd,B,"--/: and/CC occasionally/RB in/IN the/DT morning/NN ,/, I/PRP 'll/MD pick/VB up/RP something/NN like/IN ,/, uh/UH ,/, C/NNP N/NNP N/NNP or/CC that/DT ,/,","-- <Throat_clearing> {C and } occasionally in the morning, I'll pick up something like, {F uh, } C N N or that, /"
+sd,B,"but/CC I/PRP hate/VBP watching/VBG the/DT ,/, like/UH ,/, ten/CD o'clock/RB news/NN","{C but } I hate watching the, {D like, } ten o'clock news /"
+%,B,"or/CC ,/,","{C or, } -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+qy^d,A,"so/RB you/PRP have/VBP a/DT paper/NN or/CC something/NN or/CC ,/,","{C so } you have a paper or something or, -/"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"we/PRP have/VBP a/DT lo-/XX ,/, well/UH ,/, we/PRP have/VBP ,/, uh/UH ,/, DALLAS/NNP MORNING/NNP NEWS/NNP which/WDT is/VBZ the/DT big/JJ paper/NN in/IN Dallas/NNP ./.","[ we have a lo-, + {D well, } we have, {F uh, } DALLAS MORNING NEWS ] which is the big paper in Dallas. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"We/PRP read/VBP ,/, I/PRP read/VBP it/PRP pretty/RB much/RB --/:","[ We read, + I read ] it pretty much --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: from/IN cover/NN to/IN cover/NN ./.,-- from cover to cover. /
+qw,A,How/WRB do/VBP you/PRP like/VB it/PRP ?/.,How do you like it? /
+sd,A,"It/PRP 's/HVS been/VBN ,/, it/PRP 's/HVS been/VBN a/DT while/NN since/IN I/PRP read/VBD the/DT Dallas/NNP news/NN ./.","[ It's been, + it's been ] a while since I read the Dallas news. /"
+sd,A,"I/PRP ,/, uh/UH ,/, fact/NN ,/, last/JJ time/NN I/PRP read/VBD the/DT Dallas/NNP ,/, Dallas/NNP news/NN I/PRP was/VBD in/IN Arkansas/NNP ./.","[ I, + {F uh, } fact, last time I ] read the [ Dallas, + Dallas ] news I was in Arkansas. /"
+x,B,./.,<Throat_clearing>.
+%,A,"I/PRP ,/, uh/UH ,/,","(( I, {F uh } )) , -/"
+sd,B,The/DT TIMES/NNP HERALD/NNP went/VBD out/IN of/IN business/NN here/RB --/:,The TIMES HERALD went out of business here -- /
+bh,A,"Oh/UH ,/, yeah/UH ?/.","{F Oh, } yeah? /"
+sd,B,"--/: and/CC so/RB we/PRP really/RB only/RB have/VBP one/CD Dallas/NNP newspaper/NN and/CC one/CD ,/,","-- {C and so } we really only have one Dallas newspaper and one,"
+x,A,./.,<Laughter>.
++,B,Fort/NNP Worth/NNP newspaper/NN ./.,Fort Worth newspaper. /
+sv,A,"Well/UH ,/, that/DT must/MD be/VB pretty/RB bad/JJ ./.","{D Well, } that must be pretty bad. /"
+qw,A,"So/RB ,/, how/WRB did/VBD that/DT happen/VB ,/, anyway/RB ?/.","{D So, } how did that happen, anyway? /"
+sd,B,"Uh/UH ,/, financial/JJ trouble/NN ./.","{F Uh, } financial trouble. /"
+ar,A,"No/UH ,/,","No, /"
+ar,A,"not/RB how/WRB ,/,","not how, /"
+qw,A,"I/PRP mean/VBP ,/, when/WRB did/VBD it/PRP ,/, when/WRB did/VBD they/PRP MUMBLEx/XX ,/,","{E I mean, } [ when did it, + when did they ] (( )) , -/"
+br,B,"Oh/UH ,/, when/WRB did/VBD it/PRP happen/VB ?/.","{F Oh, } when did it happen? /"
+aa,A,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP guess/VBP they/PRP closed/VBD down/RP about/RB three/CD months/NNS ago/RB ./.,I guess they closed down about three months ago. /
+b,A,"Oh/UH ,/, really/UH ./.","{F Oh, } really. /"
+x,B,./.,<Throat_clearing>.
+%,A,Um/UH ./.,{F Um. } /
+qw,B,"So/UH ,/, how/WRB do/VBP you/PRP keep/VB up/RP ?/.","{D So, } how do you keep up? /"
+sd,A,"Oh/UH ,/, me/PRP ,/, I/PRP ,/, uh/UH ,/, good/JJ grief/NN ,/, I/PRP read/VBP the/DT TIMES/NNP ,/, LOS/NNP ANGELES/NNP TIMES/NNP ./.","{F Oh, } me, [ I, + {F uh, } <breathing> good grief, I ] read the TIMES, LOS ANGELES TIMES. /"
+sd,A,"There/EX 's/BES ,/, quite/PDT a/DT task/NN if/IN you/PRP 've/VBP ever/RB run/VBN into/IN one/CD ./.","There's, quite a task if you've ever run into one. /"
+%,A,"They/PRP 're/VBP ,/, uh/UH --/:","They're, {F uh } --"
+aa,B,"Yes/UH ,/, they/PRP 're/VBP very/RB --/:","Yes, they're very --"
++,A,"--/: speci/JJ ,/,","-- (( speci-, )) -/"
++,B,--/: voluminous/JJ ./.,-- voluminous. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+bf,A,they/PRP 're/VBP thick/JJ ./.,they're thick. /
+x,B,./.,<Laughter>.
+sv,A,"Uh/UH ,/, if/IN there/EX 's/BES something/NN you/PRP want/VBP to/TO know/VB ,/, it/PRP 's/BES ,/, it/PRP 's/BES in/IN the/DT TIMES/NNP and/CC then/RB ,/, and/CC in/IN detail/NN ./.","{F Uh, } if there's something you want to know, [ it's, + it's ] in the TIMES [ and then, + [ and ] in detail. / *[[repair bracketing wrong]]"
+sd,A,"Uh/UH ,/, they/PRP ,/, uh/UH ,/, we/PRP ,/, we/PRP used/VBD to/TO have/VB two/CD papers/NNS here/RB in/IN town/NN","{F Uh, } [ [ they, + {F uh, } we, ] + we ] used to have two papers here in town /"
+sd,A,"and/CC then/RB the/DT HERALD/NNP EXAMINER/NNP collapsed/VBD about/RB two/CD years/NNS ago/RB because/IN of/IN ,/, oh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/, just/RB nobody/NN was/VBD buying/VBG it/PRP really/RB ./.","{C and then } the HERALD EXAMINER collapsed about two years ago because of, {F oh, } I don't know, just nobody was buying it really. /"
+qy^d,B,So/UH there/EX really/RB is/VBZ only/RB one/CD major/JJ L/NNP A/NNP now/RB ?/.,{C So } there really is only one major L A now? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,pretty/RB much/RB ./.,pretty much. /
+sd,A,"Uh/UH ,/, there/EX used/VBD to/TO be/VB ,/,","{F Uh, } there used to be,"
+x,B,./.,<Throat_clearing>.
++,A,"fact/NN ,/, I/PRP think/VBP there/EX still/RB is/VBZ ,/, the/DT ,/, uh/UH ,/, the/DT DAILY/NNP NEWS/NNP which/WDT runs/VBZ out/IN of/IN the/DT San/NNP Fernando/NNP Valley/NNP","fact, I think there still is, [ the, + {F uh, } the ] DAILY NEWS which runs out of the San Fernando Valley /"
+sd,A,"and/CC ,/, uh/UH ,/, they/PRP 're/VBP not/RB bad/JJ as/RB far/RB as/IN a/DT ,/, uh/UH ,/, you/PRP know/VBP ,/, as/RB far/RB as/IN a/DT local/JJ paper/NN goes/VBZ ./.","{C and, } {F uh, } they're not bad [ as far as a, + {F uh, } {D you know, } as far as a ] local paper goes. /"
+sd,A,"In/IN fact/NN ,/, it/PRP was/VBD kind/RB of/RB weird/JJ ,/, because/IN I/PRP met/VBD the/DT ,/, uh/UH ,/, I/PRP met/VBD the/DT ,/, I/PRP met/VBD the/DT editor/NN ,/, uh/UH ,/, while/IN I/PRP was/VBD on/IN ,/, uh/UH ,/, while/IN I/PRP was/VBD doing/VBG jury/NN service/NN in/IN Santa/NNP Monica/NNP one/CD time/NN ./.","In fact, it was kind of weird, because [ [ I met the, + {F uh, } I met the, ] + I met the ] editor, {F uh, } [ while I was on, + {F uh, } while I was ] doing jury service in Santa Monica one time <laughter>. /"
+sd,A,It/PRP was/VBD like/IN we/PRP just/RB sat/VBD around/RB and/CC talk/VB about/IN newspapers/NNS and/CC stuff/NN ./.,[ It was like we just sat around and talk about newspapers and stuff. /
+sd,A,"He/PRP was/VBD a/DT really/RB cool/JJ guy/NN ./. Uh/UH ,/, you/PRP know/VBP ,/, went/VBD to/IN Columbia/NNP University/NNP and/CC all/PDT this/DT stuff/NN ./.","He was a really cool guy. {F Uh, } {D you know, } went to Columbia University and all this stuff. /"
+sd,A,"And/CC ,/, uh/UH it/PRP 's/BES ,/, it/PRP 's/BES a/DT pretty/RB good/JJ paper/NN ,/,","{C And, } {F uh } [ it's, + it's ] a pretty good paper, /"
+sd,A,"but/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, it/PRP 's/BES not/RB ,/, it/PRP 's/BES not/RB the/DT TIMES/NNP ./.","{C but, } {F uh, } {D you know, } [ it's not, + it's not ] the TIMES. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Although/IN I/PRP ,/, you/PRP know/VBP ,/, I/PRP 'm/VBP sorry/JJ to/TO see/VB some/DT of/IN their/PRP$ ,/, uh/UH ,/,","Although [ I, + {D you know, } I'm ] sorry to see some of their, {F uh, } - /"
+sd,A,"there/EX 's/BES ,/, there/EX 's/BES a/DT daily/JJ news/NN ,/, uh/UH ,/, news/NN rack/NN right/RB around/IN the/DT corner/NN from/IN where/WRB I/PRP live/VBP ,/, which/WDT means/VBZ that/IN they/PRP 're/VBP ,/, they/PRP 're/VBP expanding/VBG ,/, I/PRP guess/VBP ./.","[ there's, + there's ] a daily [ news, + {F uh, } news ] rack right around the corner from where I live, which means that [ they're, + they're ] expanding, I guess. /"
+sd,A,"But/CC ,/, uh/UH ,/, a-/CC ,/, and/CC occasionally/RB I/PRP ,/, I/PRP pick/VBP up/RP like/UH TIME/NNP magazine/NN or/CC something/NN I/PRP think/VBP ,/, uh/UH ,/, if/IN they/PRP 've/VBP got/VBN an/DT interesting/JJ lead/NN story/NN ,/,","[ [ {C But, } + {F uh, } {C a-, } ] + {C and } ] occasionally [ I, + I ] pick up {D like } TIME magazine or something I think, {F uh, } if they've got an interesting lead story, /"
+%,A,"but/CC you/PRP know/VBP ,/, it/PRP 's/BES ,/,","{C but } {D you know, } it's, - /"
+sd,A,"I/PRP ,/, I/PRP do/VBP n't/RB have/VB time/NN ./.","[ I, + I ] don't have time. /"
+sd,B,"I/PRP used/VBD to/TO read/VB TIME/NNP magazine/NN a/DT lot/NN ,/,","I used to read TIME magazine a lot, /"
+sd,B,but/CC I/PRP do/VBP n't/RB read/VB it/PRP much/RB anymore/RB ./.,{C but } I don't read it much anymore. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"that/DT 's/BES ,/, that/DT 's/BES kind/RB of/RB a/DT problem/NN for/IN them/PRP ./.","[ that's, + that's ] kind of a problem for them. /"
+sv,A,"There/EX 's/BES a/DT lot/NN of/IN people/NNS who/WP fall/VBP into/IN that/DT ,/,","There's a lot of people <laughter> who fall into that,"
+x,B,./.,<Laughter>.
++,A,category/NN ./.,category. /
+sd,B,And/CC then/RB we/PRP have/VBP a/DT local/JJ rag/NN here/RB in/IN town/NN that/WDT --/:,{C And then } we have a local rag here in town that --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: I/PRP pick/VBP up/RP periodically/RB and/CC read/VBP just/RB to/TO see/VB what/WP 's/BES going/VBG on/RP in/IN our/PRP$ little/JJ community/NN ./.,-- I pick up periodically and read just to see what's going on in our little community.
+bk,A,I/PRP see/VBP ./.,I see. /
++,B,Because/IN we/PRP do/VBP n't/RB get/VB an/DT awful/JJ lot/NN of/IN coverage/NN in/IN the/DT DALLAS/NNP MORNING/NNP NEWS/NNP ./.,Because we don't get an awful lot of coverage in the DALLAS MORNING NEWS. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"the/DT big/JJ dailies/NNS do/VBP n't/RB like/VB to/TO ,/, do/VBP n't/RB like/VB to/TO step/VB much/RB out/IN of/IN their/PRP$ ,/, uh/UH ,/, out/IN of/IN their/PRP$ home/NN turf/NN ,/,","<breathing> the big dailies [ don't like to, + don't like to ] step much [ out of their, + {F uh, } out of their ] home turf, /"
+sv,A,"I/PRP have/VBP to/TO admit/VB ,/, the/DT TIMES/NNP is/VBZ kind/RB of/RB provincial/JJ ,/, too/RB ./.","I have to admit, the TIMES is kind of provincial, too. /"
+sv,A,"It/PRP 's/BES basically/RB anything/NN that/WDT 's/BES south/RB of/IN downtown/NN ,/, they/PRP do/VBP n't/RB bother/VB to/TO cover/VB ./.","It's basically anything that's south of downtown, they don't bother to cover. /"
+sd,B,"Now/RB ,/, they/PRP have/VBP started/VBN here/RB running/VBG a/DT three/CD day/NN ,/, or/CC three/CD times/NNS a/DT week/NN Plano/NNP section/NN ./.","Now, they have started here running a three day, or three times a week Plano section. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC it/PRP 's/BES just/RB sort/RB of/RB a/DT ,/, you/PRP know/VBP ,/, four/CD or/CC five/CD pages/NNS that/WDT covers/VBZ what/WP 's/BES going/VBG on/RP in/IN Plano/NNP ./.","{C And } it's just sort of [ a, + ] {D you know, } four or five pages that covers what's going on in Plano. /"
+sd,B,But/CC it/PRP 's/BES still/RB not/RB an/DT awful/JJ lot/NN of/IN news/NN ./.,{C But } it's still not an awful lot of news. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP know/VBP ./.,I know. /
+sd,A,"I/PRP ,/, uh/UH ,/, it/PRP was/VBD ,/, it/PRP was/VBD a/DT big/JJ discovery/NN when/WRB ,/, when/WRB the/DT TIMES/NNP ,/, when/WRB the/DT TIMES/NNP found/VBD out/RP there/EX was/VBD a/DT place/NN called/VBN Orange/NNP County/NNP ./.","[ [ I, + {F uh, } it was, ] + it was ] a big discovery [ [ when, + when the TIMES, ] + when the TIMES ] found out there was a place called Orange County <laughter>. /"
+x,B,./.,<Laughter>.
+sd,A,"I/PRP mean/VBP ,/, the/DT way/NN they/PRP ,/, I/PRP mean/VBP ,/, the/DT way/NN they/PRP 've/VBP been/VBN handling/VBG it/PRP before/RB ,/, they/PRP practically/RB ,/, they/PRP practically/RB acted/VBD like/IN their/PRP$ reporters/NNS needed/VBD to/^CD shots/NNS to/TO go/VB south/RB of/IN the/DT L/NNP A/NNP county/NN border/NN ./.","{E I mean, } [ the way they, + {E I mean, } the way they've ] been handling it before, [ they practically, + they practically ] acted like their reporters needed to shots to go south of the L A county border <laughter>. /"
+sd,B,"Oh/UH ,/, I/PRP would/MD imagine/VB in/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, in/IN ,/, in/IN Dallas/NNP they/PRP have/VBP plenty/NN happening/VBG in/IN Dallas/NNP to/TO cover/VB ,/, that/IN it/PRP gets/VBZ hard/JJ covering/VBG all/DT of/IN the/DT sub-/NNS ,/, suburbs/NNS","{F Oh, } I would imagine [ [ in, + {F uh, } {D you know, } in, ] + in ] Dallas they have plenty happening in Dallas to cover, that it gets hard covering all of the [ sub-, + suburbs ] /"
+sd,B,"and/CC ,/, of/IN course/NN ,/, they/PRP tend/VBP to/TO cover/VB the/DT county/NN ,/,","{C and, } of course, they tend to cover the county, /"
+sd,B,"and/CC we/PRP 're/VBP not/RB in/IN Dallas/NNP county/NN ,/,","{C and } we're not in Dallas county, /"
+sd,B,so/RB they/PRP --/:,{C so } they --
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
++,B,--/: tend/VBP to/TO ignore/VB places/NNS outside/IN of/IN the/DT county/NN ./.,-- tend to ignore places outside of the county. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,"yeah/UH ,/,","yeah, /"
+sd,A,"I/PRP ,/, I/PRP ,/, I/PRP find/VBP that/DT attitude/NN kind/RB of/RB arrogant/JJ ,/, though/RB ./.","[ [ I, + I, ] + I ] find that attitude kind of arrogant, though. /"
+sd,A,"It/PRP 's/BES like/IN you/PRP 're/VBP taking/VBG our/PRP$ money/NN ,/,","It's like you're taking our money, /"
+^q,A,but/CC you/PRP 're/VBP not/RB bothering/VBG to/TO cover/VB the/DT things/NNS that/WDT are/VBP interesting/JJ to/IN us/PRP ./.,{C but } you're not bothering to cover the things that are interesting to us. /
+b,B,Yeah/UH ./.,Yeah. /

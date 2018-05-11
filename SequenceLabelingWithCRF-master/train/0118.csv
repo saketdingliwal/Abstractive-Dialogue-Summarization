@@ -1,0 +1,77 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+ad,A,you/PRP want/VBP to/TO start/VB ?/.,you want to start? /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,I/PRP might/MD as/RB well/RB ./.,I might as well. /
+sd,B,"Uh/UH ,/, one/CD of/IN the/DT things/NNS I/PRP 'm/VBP very/RB concerned/JJ about/IN the/DT air/NN pollution/NN ,/, is/VBZ the/DT ,/, uh/UH ,/, this/DT ,/, this/DT ,/, the/DT ozone/NN layer/NN ,/, uh/UH ,/, uh/UH ,/, issue/NN ./.","{F Uh, } one of the things I'm very concerned about the air pollution, is [ [ [ the, + {F uh, } this, ] + this, ] + the ] ozone layer, {F uh, } {F uh, } issue. /"
+sd,B,"Uh/UH ,/, I/PRP used/VBD to/TO own/VB a/DT heating/NN and/CC air/NN conditioning/NN business/NN and/CC handled/VBD lots/NNS of/IN fre-/NNS ,/, different/JJ types/NNS of/IN freons/NNS ,/,","{F Uh, } I used to own a heating and air conditioning business and handled lots of [ fre-, + different types of freons, ] /"
+sd,B,"and/CC that/DT ,/, uh/UH ,/, rather/RB bothers/VBZ me/PRP that/IN ,/, uh/UH ,/, I/PRP was/VBD in/IN ,/, in/IN effect/NN ,/, uh/UH ,/, contributing/VBG to/IN the/DT delinquency/NN of/IN the/DT ,/, the/DT environment/NN ,/, so/RB to/TO speak/VB ./.","{C and } that, {F uh, } rather bothers me that, {F uh, } I was [ in, + in ] effect, {F uh, } contributing to the delinquency of [ the, + the ] environment, so to speak. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,that/DT 's/BES stuff/NN we/PRP never/RB even/RB thought/VBD about/IN three/CD years/NNS ago/RB ./.,that's stuff we never even thought about three years ago. /
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,"right/UH ,/,","right, /"
+sd,B,"and/CC one/CD of/IN the/DT reasons/NNS they/PRP fixed/VBD up/RP the/DT freons/NNS eleven/CD ,/, twelve/CD and/CC thirteen/CD ,/, in/IN ,/, in/IN ,/, in/IN that/DT area/NN was/VBD because/IN they/PRP were/VBD inexpensive/JJ ,/,","{C and } one of the reasons they fixed up the freons eleven, twelve and thirteen, [ [ in, + in, ] + in ] that area was because they were inexpensive, /"
+sd,B,"uh/UH ,/, they/PRP could/MD be/VB made/VBN ,/, uh/UH ,/, you/PRP know/VBP ,/, inexpensive/JJ and/CC lots/NNS of/IN it/PRP ,/, uh/UH ,/,","{F uh, } they could be made, {F uh, } {D you know, } inexpensive and lots of it, {F uh, } /"
+sd,B,"and/CC in/IN that/DT ,/, and/CC its/PRP$ properties/NNS were/VBD great/JJ ,/, uh/UH ,/, with/IN ,/, uh/UH ,/, the/DT machinery/NN ,/, did/VBD n't/RB have/VB to/TO have/VB lots/NNS of/IN expensive/JJ machinery/NN to/TO ,/, uh/UH ,/, get/VB your/PRP$ heating/NN and/CC cooling/NN cycles/NNS to/TO work/VB ./.","{C and } in that, [ and + ] its properties were great, {F uh, } with, {F uh, } the machinery, didn't have to have lots of expensive machinery to, {F uh, } get your heating and cooling cycles to work. /"
+%,A,Um/UH ./.,{F Um. } /
+%,B,So/UH ./.,{C So. } -/
+qy,A,Have/VBP they/PRP stopped/VBN that/DT practice/NN now/RB ?/.,Have they stopped that practice now? /
+sd,B,"Well/UH ,/, course/NN there/EX 's/BES a/DT ,/, a/DT tremendous/JJ number/NN of/IN refrigerators/NNS and/CC fre-/NNS ,/, excuse/VB me/PRP ,/, refrigerators/NNS and/CC freezers/NNS ,/, both/DT commercial/JJ and/CC residential/JJ ,/, uh/UH ,/, utilizing/VBG freon/NN twelve/CD ,/,","{D Well, } course there's [ a, + a ] <laughter> tremendous number of [ refrigerators and fre-, + {E excuse me, } refrigerators and freezers, ] both commercial and residential, {F uh, } utilizing freon twelve, /"
+sv,B,"and/CC of/IN course/NN ,/, the/DT new/JJ cars/NNS ,/, I/PRP guess/VBP starting/VBG with/IN ni-/CD ,/, nineteen/CD ninety-three/CD will/MD not/RB have/VB freon/NN twelve/CD in/IN their/PRP$ systems/NNS ./.","{C and } of course, the new cars, I guess starting with [ ni-, + nineteen ] ninety-three will not have freon twelve in their systems. /"
+sd,B,"But/CC ,/, uh/UH ,/, there/EX 's/BES ,/, you/PRP know/VBP ,/, the/DT ton/NN of/IN after/IN market/NN machines/NNS ,/, and/CC et/FW cetera/FW ,/, et/FW cetera/FW ./.","{C But, } {F uh, } there's, {D you know, } the ton of after market machines, and et cetera, et cetera. /"
+b,A,Yeah/UH ./.,<Throat_clearing> Yeah. /
+sd,B,"And/CC that/DT 's/HVS got/VBN me/PRP very/RB ,/, you/PRP know/VBP ,/, highly/RB concerned/JJ that/IN ,/, uh/UH ,/, that/DT 's/BES going/VBG to/TO be/VB quite/PDT a/DT while/NN before/IN we/PRP can/MD ,/, uh/UH ,/,","{C And } that's got me very, {D you know, } highly concerned that, {F uh, } <breathing> that's going to be quite a while before we can, {F uh, }"
+x,A,./.,<Throat_clearing>.
++,B,undo/VB this/DT ./.,undo this. /
+sv,B,"Now/UH ,/, that/DT could/MD spawn/VB several/JJ good/JJ industries/NNS and/CC help/VB ,/,","Now, that could spawn several good industries and help,"
+x,A,./.,<Throat_clearing>.
++,B,"pull/VBP us/PRP out/IN of/IN this/DT recession/NN ,/,","pull us out of this recession, /"
+sv,B,"but/CC you/PRP got/VBD to/TO have/VB people/NNS that/WDT can/MD make/VB ,/, you/PRP know/VBP ,/, earn/VB a/DT salary/NN to/TO pay/VB for/IN this/DT conversion/NN ./.","{C but } you got to have people that can [ make, + {D you know, } earn ] a salary to pay for this conversion. /"
+sv,B,"So/RB ,/, so/RB I/PRP see/VBP us/PRP in/IN a/DT kind/RB ,/, somewhat/RB of/RB a/DT catch/NN twenty-two/CD unless/IN we/PRP ,/, unless/IN the/DT banks/NNS or/CC industry/NN and/CC or/CC the/DT government/NN go/VBP together/RB and/CC ,/, and/CC come/VBP up/RP with/IN a/DT way/NN to/TO ,/, uh/UH ,/, have/VB us/PRP as/IN a/DT part/NN of/IN the/DT unemployed/JJ society/NN be/VB able/JJ to/TO be/VB gainfully/RB employed/JJ again/RB converting/VBG all/PDT this/DT freon/NN twelve/CD stuff/NN into/IN the/DT new/JJ nonpolluting/JJ ,/, uh/UH ,/, compound/NN ./.","[ {C So, } + {C so } ] I see us in [ a kind, + somewhat of a ] catch twenty-two [ unless we, + unless the ] banks or industry and [ or + ] the government go together [ and, + and ] come up with a way to, {F uh, } have us as a part of the unemployed society be able to be gainfully employed again converting all this freon twelve stuff into the new nonpolluting, {F uh, } compound. /"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,B,"Because/IN as/IN I/PRP say/VBP ,/, there/EX 's/BES a/DT ,/, there/EX 's/BES a/DT tremen-/XX ,/,","{C Because } as I say, [ there's a, + there's a ] tremen-, - /"
+qh,B,"well/UH ,/, how/WRB many/JJ ,/, uh/UH ,/, uh/UH ,/, families/NNS own/VBP a/DT refrigerator/NN ,/,","{D well, } how many, {F uh, } {F uh, } families own a refrigerator, /"
+qh,B,"and/CC then/RB do/VB ,/, you/PRP know/VBP ,/, that/DT number/NN ,/, and/CC then/RB how/WRB many/JJ a/DT ,/, a/DT freezer/NN separate/JJ from/IN --/:","{C and then } do, you know, that number, [ and then + ] how many [ a, + a ] freezer separate from --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC how/WRB many/JJ people/NNS ,/, especially/RB here/RB in/IN Texas/NNP ,/, own/VBP cars/NNS and/CC trucks/NNS with/IN air/NN conditioning/NN ./.","-- and how many people, especially here in Texas, own cars and trucks with air conditioning. /"
+aa,A,"Yeah/UH ,/,","Yeah <laughter>, /"
+aa,A,yeah/UH ./.,yeah. /
+sv,B,"I/PRP mean/VBP ,/, this/DT is/VBZ ,/, there/EX ,/, there/EX are/VBP people/NNS that/WDT ,/, that/WDT make/VBP it/PRP ,/, have/VBP a/DT thriving/JJ business/NN ,/, uh/UH ,/, that/WDT do/VBP nothing/NN but/CC heating/NN and/CC air/NN conditioning/NN on/IN ,/, on/IN automobiles/NNS and/CC trucks/NNS ,/,","{E I mean, } [ this is, + [ there, + there ] are ] people [ that, + that ] [ make it, + have ] a thriving business, {F uh, } that do nothing but heating and air conditioning [ on, + on ] automobiles and trucks, /"
+sv,B,"and/CC ,/, uh/UH ,/, the/DT only/JJ reason/NN I/PRP did/VBD n't/RB ,/, uh/UH ,/, get/VB into/IN that/DT more/JJR ,/, when/WRB I/PRP was/VBD ,/, had/VBD my/PRP$ little/JJ business/NN ,/, was/VBD because/IN ,/, uh/UH ,/, most/JJS of/IN your/PRP$ ,/, uh/UH ,/, air/NN conditioning/NN in/IN ,/, in/IN ,/, on/IN vehicles/NNS tend/VBP to/TO be/VB greasy/JJ and/CC dirty/JJ to/IN the/DT N-th/JJ degree/NN --/:","{C and, } {F uh, } the only reason I didn't, {F uh, } get into that more, when I [ was, + had ] my little business, was because, {F uh, } most of your, {F uh, } air conditioning [ [ in, + in, ] + on ] vehicles tend to be greasy and dirty to the N-th degree -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"--/: and/CC I/PRP mean/VBP ,/,","-- {C and } <laughter> {E I mean, } -/"
+x,A,./.,<Laughter>.
+sd,B,"so/RB ,/, uh/UH ,/, that/DT 's/BES why/WRB I/PRP stayed/VBD in/RB ,/, stayed/VBD more/RBR towar-/IN ,/, towards/IN ,/, uh/UH ,/, uh/UH ,/,","{C so, } {F uh, } <child> <cough> that's why I [ stayed in, + stayed more [ towar-, + towards, ] ] {F uh, } {F uh, } - /"
+sv,B,"and/CC that/DT 's/BES a/DT pollut-/NN ,/, polluting/NN type/NN deal/NN too/RB ,/, is/VBZ the/DT excessive/JJ ,/, um/UH ,/, you/PRP know/VBP ,/, uh/UH ,/, petroleum/NN products/NNS in/IN your/PRP$ engine/NN bay/NN and/CC so/RB forth/RB ,/, and/CC the/DT dirt/NN and/CC grit/NN and/CC those/DT two/CD mixed/VBD together/RB with/IN ,/, with/IN water/NN and/CC ,/, uh/UH ,/, really/RB make/VBP ,/, uh/UH ,/, make/VBP a/DT mess/NN ./.","{C and } that's a [ pollut-, + polluting ] type deal too, is the excessive, {F um, } {D you know, } {F uh, } petroleum products in your engine bay and so forth, and the dirt and grit and those two mixed together [ with, + with ] water [ and, + ] {F uh, } <noise> <<sounds like knocking on a door>> really [ make, + {F uh, } make ] a mess. /"
+aa,A,"Um/UH ,/, yeah/UH ,/,","{F Um, } yeah, /"
+aa,A,"yeah/UH ,/,","yeah, /"
+sd,A,"I/PRP hate/VBP to/TO see/VB a/DT car/NN going/VBG down/IN the/DT street/NN ,/, or/CC even/RB a/DT truck/NN or/CC bus/NN for/IN that/DT matter/NN ,/, that/WDT 's/BES putting/VBG out/RB a/DT lot/NN of/IN dark/JJ --/:","I hate to see a car going down the street, or even a truck or bus for that matter, that's putting out a lot of dark --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: smoke/NN ,/,","-- smoke, /"
+sv,A,and/CC I/PRP know/VBP there/EX 's/BES a/DT lot/NN of/IN pollutants/NNS we/PRP ca/MD n't/RB even/RB see/VB coming/VBG out/IN of/IN --/:,{C and } I know there's a lot of pollutants we can't even see coming out of --
+b,B,Right/UH ./.,Right. /
++,A,"--/: cars/NNS ,/,","-- cars, /"
+sd,A,"but/CC that/DT ,/, that/DT particular/NN bothers/VBZ me/PRP ./.","{C but } [ that, + that ] particular bothers me. /"
+sd,B,"Well/UH ,/, most/JJS ,/, most/JJS ,/, most/JJS of/IN the/DT time/NN when/WRB you/PRP see/VBP bus/NN ,/, uh/UH ,/, you/PRP know/VBP ,/, the/DT busses/NNS with/IN the/DT diesel/NN --/:","{D Well, } [ [ most, + most, ] + most ] of the time when you see [ bus, + {F uh, } {D you know, } the busses ] with the diesel --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: that/DT 's/BES ,/, uh/UH ,/, those/DT are/VBP carbon/NN particles/NNS ,/, and/CC carbon/NN dioxide/NN and/CC water/NN vapor/NN ,/, uh/UH ,/,","-- [ that's, + {F uh, } those ] are carbon particles, and carbon dioxide and water vapor, {F uh, } /"
+%,B,"because/IN when/WRB you/PRP ,/, when/WRB diesel/NN is/VBZ burned/VBN it/PRP 's/BES it/PRP ,/,","{C because } [ when you, + when diesel ] is burned it's it, - /"
+sd,B,"you/PRP know/VBP diesel/NN fuel/NN is/VBZ burned/VBN in/IN a/DT ,/, in/IN the/DT diesel/NN engine/NN","{D you know } diesel fuel is burned [ in a, + in the ] diesel engine /"
+sd,B,"it/PRP 's/BES burned/VBN so/RB completely/RB ,/, that/IN you/PRP do/VBP n't/RB have/VB any/DT ,/, uh/UH ,/, nitrous/JJ oxides/NNS ,/, uh/UH ,/, or/CC oxides/NNS of/IN nitrogen/NN ,/, uh/UH ,/, to/TO ,/, uh/UH ,/, form/VB --/:","it's burned so completely, that you don't have any, {F uh, } nitrous oxides, {F uh, } or oxides of nitrogen, {F uh, } to, {F uh, } form --"
+b,A,Oh/UH ./.,{F Oh. } /
++,B,"--/: because/IN of/IN ,/, by/IN virtue/NN of/IN the/DT very/JJ combustion/NN process/NN of/IN the/DT diesel/NN engine/NN ,/, because/IN diesel/NN oil/NN is/VBZ ,/, uh/UH ,/, is/VBZ not/RB very/RB volatile/JJ ./.","-- [ because of, + by virtue of ] the very combustion process of the diesel engine, because diesel oil [ is, + {F uh, } <laughter> is ] not very volatile."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"You/PRP know/VBP ,/, where/WRB gasoline/NN ,/, if/IN you/PRP leave/VBP a/DT little/JJ pail/NN of/IN gasoline/NN out/RB before/IN long/RB it/PRP 's/BES gone/VBN ./.","{D You know, } where gasoline, if you leave a little pail of gasoline out before long it's gone. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Diesel/NN is/VBZ going/VBG to/TO be/VB around/IN ,/, because/IN it/PRP does/VBZ n't/RB evaporate/VB easily/RB ,/,","Diesel is going to be around, because it doesn't evaporate easily, /"
+%,B,"and/CC it/PRP 's/HVS got/VBN ,/,","{C and } it's got, - /"
+sd,B,"well/UH ,/, you/PRP know/VBP ,/, its/PRP$ latent/JJ heat/NN is/VBZ high/JJ ,/,","{D well, } {D you know, } its latent heat is high, /"
+sd,B,"but/CC it/PRP 's/BES slow/RB burning/JJ at/IN ,/, at/IN ,/, uh/UH ,/, normal/JJ pressures/NNS ./.","{C but } it's slow burning [ at, + at, ] {F uh, } normal pressures. /"
+sd,B,That/DT 's/BES why/WRB your/PRP$ diesel/NN engines/NNS have/VBP such/JJ high/JJ compression/NN ratios/NNS --/:,That's why your diesel engines have such high compression ratios --
+b,A,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
++,B,"--/: as/IN the/DT ,/, as/IN the/DT air/NN is/VBZ heated/VBN ,/, you/PRP know/VBP ,/, by/IN virtue/NN of/IN the/DT compression/NN process/NN to/TO like/UH one/CD to/IN nineteen/CD or/CC nineteen/CD to/IN one/CD --/:","-- [ as the, + as the ] air is heated, {D you know, } by virtue of the compression process to {D like } one to nineteen or nineteen to one --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: ratio/NN --/:,-- ratio -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"--/: and/CC so/RB if/IN the/DT car/NN sucks/VBZ in/IN ,/, uh/UH ,/, fifty/CD degrees/NNS ,/,","-- {C and so } if the car sucks in, {F uh, } fifty degrees, -/"

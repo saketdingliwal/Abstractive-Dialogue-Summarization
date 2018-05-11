@@ -1,0 +1,442 @@
+act_tag,speaker,pos,text
+sv,A,"Well/UH ,/, I/PRP think/VBP health/NN care/NN is/VBZ real/RB important/JJ ,/, and/CC dental/JJ coverage/NN ,/,","<Talking> <<in background>> {D Well, } I think health care is real important, and dental coverage, /"
+sv,A,but/CC I/PRP guess/VBP medical/JJ insurance/NN is/VBZ probably/RB what/WP I/PRP consider/VBP the/DT second/JJ most/RBS important/JJ ./.,{C but } I guess medical insurance is probably what I consider the second most important. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP agree/VBP on/IN that/DT ./.,I agree on that. /
+sv,B,"And/CC ,/, you/PRP know/VBP ,/, it/PRP seems/VBZ pa-/XX ,/,","{C And, } {D you know, } it seems pa-, - /"
+sv,B,"compared/VBN to/IN what/WP we/PRP ,/, our/PRP$ salary/NN is/VBZ --/:","compared to what [ we, + our salary ] is --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: versus/IN what/WP our/PRP$ health/NN care/NN is/VBZ ,/, our/PRP$ health/NN care/NN keeps/VBZ increasing/VBG ,/, increasing/VBG ,/, increasing/VBG and/CC not/RB to/IN the/DT same/JJ rate/NN as/IN our/PRP$ pay/NN ./.","-- versus what our health care is, our health care keeps increasing, increasing, increasing <sniffing> and not to the same rate as our pay <laughter>. /"
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,right/UH ./.,right. /
+x,B,,<Breathing>.
+sv,A,I/PRP know/VBP,I know /
+sv,A,"no/DT matter/NN what/WP you/PRP do/VBP about/IN that/DT ,/, yeah/UH ,/, unless/IN you/PRP 're/VBP like/IN a/DT Senior/JJ V/NN P/NN or/CC something/NN which/WDT I/PRP am/VBP not/RB ./.","(( no matter what you do )) about that, {D yeah, } unless you're {D like } a Senior V P or something which I am not <laughter>. /"
+b,B,Right/UH ./.,Right. /
+sd,B,Me/PRP either/RB ./.,Me either <sniffing>. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP know/VBP ./.,I know. /
+%,A,"It/PRP 's/BES ,/, um/UH ,/,","It's, {F um, } - /"
+h,A,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+sd,A,"And/CC then/RB when/WRB you/PRP interview/VBP for/IN a/DT job/NN or/CC something/NN sometimes/RB people/NNS ,/, um/UH ,/, expect/VBP the/DT benefits/NNS to/TO take/VB the/DT place/NN of/IN a/DT certain/JJ salary/NN level/NN ./.","{C And then } when you interview for a job or something sometimes people, {F um, } expect the benefits to take the place of a certain salary level. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"You/PRP know/VBP ,/, they/PRP 'll/MD say/VB maybe/RB we/PRP 'll/MD pay/VB you/PRP X/SYM amount/NN annually/RB ,/,","{D You know, } [ they'll + say maybe we'll ] pay you X amount annually, /"
+^q,A,"but/CC then/RB we/PRP ,/, you/PRP know/VBP ,/, ten/CD percent/NN to/IN fifteen/CD percent/NN more/JJR are/VBP your/PRP$ benefits/NNS","{C but } then [ we, + ] {D you know, } ten percent to fifteen percent more are your benefits /"
+sv,A,"and/CC if/IN you/PRP 're/VBP like/IN ,/,","{C and } if you're {D like, } - /"
+qy,A,are/VBP you/PRP married/JJ ?/.,are you married? /
+ny,B,Yes/UH ./.,Yes. /
+sd,A,"Um/UH ,/, like/UH my/PRP$ husband/NN works/VBZ ,/,","{F Um, } {D like } my husband works, /"
+sd,A,and/CC I/PRP do/VBP,{C and } I do /
+sd,A,"so/RB I/PRP do/VBP n't/RB take/VB some/DT of/IN ,/,","{C so } I don't take some of, /"
+sd,A,"I/PRP have/VBP certain/JJ things/NNS that/WDT I/PRP take/VBP ,/,","I have certain things that I take, /"
+sd,A,and/CC he/PRP has/VBZ other/JJ things/NNS he/PRP takes/VBZ ./.,{C and } he has other things he takes. /
+b,B,Right/UH ./.,Right. /
+sv,A,"So/RB I/PRP mean/VBP in/IN that/DT kind/NN of/IN situation/NN it/PRP 's/BES really/RB almost/RB ,/, redundant/JJ ,/, you/PRP know/VBP ,/,","{C So } {E I mean } in that kind of situation it's really almost, redundant, {D you know, } /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,yeah/UH ./.,yeah. /
+sd,A,"You/PRP know/VBP that/IN some/DT of/IN the/DT benefits/NNS ,/, I/PRP would/MD rather/RB have/VB ,/, um/UH ,/, money/NN ./.","{D You know } that some of the benefits, I would rather have, {F um, } money. /"
+b^m,B,Money/IN instead/RB ./.,Money instead. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"more/JJR money/NN ,/, actually/RB ,/, um/UH ,/,","more money, actually, {F um, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"Or/CC flex/NN time/NN or/CC something/NN that/WDT was/VBD a/DT little/RB more/RBR personal/JJ ,/, you/PRP know/VBP ./.","Or flex time or something that was a little more personal, {D you know. } /"
+b,B,Right/UH ./.,Right. /
+sd,B,"I/PRP feel/VBP the/DT same/JJ way/NN ,/, actually/RB ./.","I feel the same way, actually. /"
+sd,B,"Um/UH ,/, we/PRP do/VBP n't/RB use/VB any/DT of/IN T/NNP I/NNP -s/POS benefits/NNS other/JJ than/IN I/PRP ,/, I/PRP buy/VBP bonds/NNS and/CC ,/, and/CC ,/, um/UH ,/, that/DT 's/BES it/PRP","{F Um, } we don't use any of T I -s benefits other than [ I, + I ] buy bonds [ and, + <sniffing> and, ] {F um, } that's it /"
+%,B,"because/IN ,/,","{C because, } -/"
+qy^d,A,"You/PRP do/VBP n't/RB use/VB ,/, you/PRP do/VBP n't/RB use/VB the/DT medical/JJ insurance/NN ?/.","[ You don't use, + you don't use ] the medical insurance? /"
+ng,B,Not/RB at/IN all/DT ./.,Not at all. /
+qy^d,A,"You/PRP use/VBP your/PRP$ ,/, your/PRP$ company/NN 's/POS ?/.","You use [ your, + your ] company's? /"
+na,B,"My/PRP$ husband/NN 's/POS ,/,","My husband's, /"
+ny,B,"yes/UH ,/,","yes, /"
+sd,B,we/PRP use/VBP my/PRP$ husband/NN 's/POS ./.,we use my husband's. /
+qw,A,"Where/WRB does/VBZ he/PRP work/VB if/IN you/PRP do/VBP n't/RB mind/VB me/PRP ,/,","Where does <talking> <<in background>> he work if you don't mind me, /"
+sd,B,"He/PRP ,/, he/PRP works/VBZ for/IN Bramalea/NNP Company/NNP ,/,","[ He, + he ] works for Bramalea Company, /"
+sd,B,and/CC they/PRP pay/VBP one/CD hundred/CD percent/NN ./.,{C and } they pay one hundred percent. /
+%,A,"Yo-/XX ,/,","Yo-, -/"
+sd,B,Not/RB one/CD dime/NN is/VBZ deducted/VBN from/IN his/PRP$ check/NN ./.,Not one dime is deducted from his check. /
+ba,A,"Oh/UH ,/, you/PRP 're/VBP kidding/VBG ./.","{F Oh, } you're kidding. /"
+qw,A,What/WP 's/BES the/DT name/NN of/IN that/DT company/NN ?/.,What's the name of that company <laughter>? /
+sd,B,Bramalea/NNP ./.,<Laughter> Bramalea. /
+qw,A,What/WP do/VBP they/PRP do/VB ?/.,What do they do? /
+sd,B,It/PRP 's/BES a/DT security/NN company/NN,It's a security company /
+sd,B,"and/CC ,/, and/CC building/NN ,/, they/PRP own/VBP a/DT lot/NN of/IN buildings/NNS and/CC lease/VBP buildings/NNS ./.","[ {C and, } + {C and } ] [ building, + they own a lot of buildings ] and lease buildings. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"And/CC ,/,","<Sniffing> {C And, } -/"
+qy,A,Are/VBP they/PRP a/DT big/JJ Company/NNP,Are they a big Company /
+%,A,"or/CC ,/,","{C or, } -/"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,actually/RB they/PRP 're/VBP from/IN Canada/NNP ./.,actually they're from Canada. /
+sd,B,They/PRP 're/VBP Canada/NNP based/VBN ./.,They're Canada based. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sv,A,"that/DT 's/BES ,/, see/UH ,/, that/DT 's/BES probably/RB why/WRB cause/IN Cana-/NNP ,/, Canada/NNP has/VBZ the/DT ,/, the/DT ,/, um/UH ,/, government/NN run/VBN health/NN care/NN systems/NNS ,/, social/JJ medicine/NN ./.","[ that's, + see, that's ] probably [ why + ] cause [ Cana-, + Canada ] has [ the, + the, ] {F um, } government run health care systems, social medicine. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC you/PRP do/VBP n't/RB pay/VB them/PRP ./. If/IN you/PRP live/VBP there/RB ,/,","{C And } you don't pay them. If you live there, /"
+sd,A,it/PRP 's/BES like/IN Europe/NNP ./.,it's like Europe. /
+sd,A,You/PRP do/VBP n't/RB pay/VB a/DT dime/NN ./.,You don't pay a dime. /
+b,B,Right/UH ./.,Right. /
+^g,A,You/PRP know/VBP ?/.,{D You know? } /
+b,B,"Right/UH ,/,","Right, /"
+b,B,"yeah/UH ,/,","yeah, /"
+sd,B,"it/PRP 's/BES all/RB taken/VBN care/NN ,/,","it's all taken care,"
+ba,A,Sounds/VBZ wonderful/JJ ./.,Sounds wonderful. /
++,B,"Yeah/UH ,/, but/CC our/PRP$ prescriptions/NNS and/CC everything/NN ,/, our/PRP$ visits/NNS to/IN the/DT doctor/NN ,/, our/PRP$ hospitalization/NN ,/,","{D Yeah, } [ but + ] our prescriptions and everything, our visits to the doctor, our hospitalization, /"
+sd,B,"the/DT only/JJ thing/NN we/PRP pay/VBP for/IN is/VBZ if/IN ,/, if/IN something/NN happened/VBD ,/, an/DT emergency/NN ,/, and/CC we/PRP had/VBD to/TO have/VB an/DT ambulance/NN ,/,","the only thing we pay for is [ if + <sniffing>, if ] something happened, an emergency, and we had to have an ambulance, /"
+sd,B,it/PRP 's/BES twenty-five/CD dollars/NNS ./.,it's twenty-five dollars. /
+x,A,,<Noise> <<making noise with mouth>> <laughter>.
+sv,B,I/PRP mean/VBP that/DT 's/BES nothing/NN ./.,{E I mean } that's nothing. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"if/IN I/PRP were/VBD ,/,","if I were,"
+x,B,,<Sniffing>.
++,A,"him/PRP ,/, I/PRP 'd/MD tell/VB him/PRP make/VB sure/JJ he/PRP stays/VBZ there/RB ./.","him, I'd tell him make sure he stays there. /"
+aa,B,"Really/UH ,/,","Really, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+sd,B,"well/UH ,/, T/NNP I/NNP was/VBD getting/VBG ,/, for/IN the/DT both/DT of/IN us/PRP ,/, it/PRP was/VBD like/IN seventy-five/CD dollars/NNS a/DT month/NN ./.","{D well, } T I was getting, for the both of us, it was {D like } seventy-five dollars a month."
+ba,A,"Oh/UH ,/, my/PRP$ goodness/NN ./.","{F Oh, } my goodness. /"
++,B,"You/PRP know/VBP ,/, deducted/VBN for/IN an/DT H/NNP M/NNP O/NNP ,/,","{D You know, } deducted for an H M O, /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,"yeah/UH ,/,","yeah, /"
+sd,A,I/PRP do/VBP n't/RB work/VB at/IN T/NNP I/NNP ./.,I don't work at T I. /
+sd,A,"My/PRP$ husband/NN works/VBZ at/IN T/NNP I/NNP ,/,","My husband works at T I, /"
+sd,A,"but/CC ,/, um/UH ,/,","{C but, } {F um, }"
+x,B,,<Laughter>.
++,A,"I/PRP work/VBP for/IN E/NNP D/NNP S/NNP ,/,","I work for E D S, /"
+%,A,"but/CC it/PRP 's/BES like/IN ,/, um/UH ,/,","{C but } it's like, {F um, } -/"
+x,B,,<Sniffing>.
+sv,A,You/PRP know/VBP they/PRP 're/VBP both/DT,<Breathing> {D You know } they're both - /
+sv,A,"basically/RB ,/, E/NNP D/NNP S/NNP is/VBZ a/DT little/JJ bit/NN better/JJR than/IN T/NNP I/NNP","basically, E D S is a little bit better than T I /"
+sd,A,"but/CC ,/,","[ {C but, } +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"Um/UH ,/, and/CC we/PRP take/VBP my/PRP$ dental/JJ ,/, my/PRP$ dental/JJ ,/, his/PRP$ medical/JJ ./.","{F Um, } {C and } ] we take [ [ my dental, + my dental, ] + his medical. ] /"
+sv,A,"And/CC the/DT medical/JJ is/VBZ just/RB ,/, I/PRP mean/VBP ,/, I/PRP think/VBP it/PRP 's/BES terrible/JJ ,/, you/PRP know/VBP ?/.","{C And } the medical [ is just, + {E I mean, } I think it's ] terrible, {D you know? } /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"MUMBLEx/XX twenty/CD ,/,","(( )) twenty, - /"
+sd,A,"but/CC they/PRP 're/VBP ,/, then/RB they/PRP 're/VBP getting/VBG ready/JJ to/TO change/VB it/PRP again/RB for/IN Aetna/NNP ./.","{C but } [ they're, + then they're ] getting ready to change it again for Aetna. /"
+b,B,Okay/UH ./.,Okay. /
+h,A,"Um/UH ,/, I/PRP do/VBP n't/RB know/VB ./.","{F Um, } I don't know. /"
+sv,A,"I/PRP just/RB do/VBP n't/RB think/VB companies/NNS ,/, um/UH ,/, they/PRP want/VBP you/PRP to/TO feel/VB responsible/JJ and/CC do/VBP n't/RB abuse/VB the/DT medical/JJ system/NN","I just don't think companies, {F um, } they want you to feel responsible and don't abuse the medical system /"
+sd,A,"and/CC ,/, you/PRP know/VBP ,/,","{C and, } {D you know, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"Um/UH ,/, T/NNP I/NNP just/RB did/VBD the/DT thing/NN where/WRB ,/, with/IN the/DT smoking/NN premiums/NNS ./.","{F Um, } T I just did the thing where, with the smoking premiums. /"
+sd,A,"We/PRP do/VBP n't/RB smoke/VB ,/,","We don't smoke, /"
+qy,A,"but/CC did/VBD you/PRP ,/, do/VBP you/PRP know/VB about/IN the/DT smoking/NN premiums/NNS ?/.","{C but } [ did you, + do you ] know about the smoking premiums? /"
+ny,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+ny,B,yeah/UH ./.,yeah. /
+b^m,A,"Yeah/UH ,/,","Yeah, /"
+qy,A,do/VBP you/PRP guys/NNS smoke/VB ?/.,do you guys smoke? /
+ng,B,We/PRP do/VBP n't/RB either/RB ./.,We don't either. /
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,Neither/DT one/NN of/IN us/PRP do/VB ./.,Neither one of us do. /
+sd,A,"But/CC then/RB ,/,","{C But } then,"
+x,B,,<Sniffing>.
++,A,"you/PRP know/VBP ,/, like/UH a/DT lady/NN in/IN my/PRP$ office/NN said/VBD ,/, she/PRP said/VBD her/PRP$ husband/NN works/VBZ for/IN T/NNP I/NNP ,/, too/RB ./.","{D you know, } {D like } a lady in my office said, she said her husband works for T I, too. /"
+sd,A,"And/CC she/PRP said/VBD what/WP about/IN the/DT people/NNS that/WDT are/VBP walking/VBG around/RB ,/,","{C And } she said what about the people that are walking around, /"
+sd,A,"and/CC I/PRP hope/VBP ,/,","{C and } I hope, - /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,B,Right/UH ./.,Right. /
+b,B,Yeah/UH ./.,Yeah. /
+qh,A,"You/PRP know/VBP ,/, who/WP 's/BES going/VBG to/TO croak/VB first/JJ ?/. The/DT people/NNS that/WDT smoke/VBP or/CC ,/, you/PRP know/VBP ?/.","{D You know, } who's going to croak first? The people that smoke or, {D you know? } /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Seems/VBZ like/IN ,/,","Seems like,"
+aa,B,Exactly/UH ./.,Exactly. /
++,A,"an/DT unnecessary/JJ penalty/NN ,/,","an unnecessary penalty, /"
+%,A,yeah/UH ./.,yeah. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP mean/VBP I/PRP 'm/VBP not/RB all/RB for/IN smoking/NN at/IN all/DT ,/,","{E I mean } I'm not all for smoking at all, /"
+sd,A,"but/CC I/PRP just/RB ,/, you/PRP know/VBP ,/,","{C but } [ I just, + {D you know, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,I/PRP do/VBP n't/RB how/WRB they/PRP can/MD do/VB it/PRP ./.,I ] don't how they can do it. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,Carte/FW blanket/^FW ./.,"(( Carte blanket )) . / *[[listen: probably closer to ""carte blanche""]]"
+aa,B,Exactly/UH ./.,Exactly. /
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+aa,A,Uh-huh/UH ./.,Uh-huh. /
+h,A,Or/CC something/NN ./.,Or something. /
+%,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"it/PRP 's/BES like/UH ,/,","it's {D like, }"
+x,B,,<Sniffing>.
++,A,"stupid/JJ ,/,","stupid, /"
+sv,A,"but/CC ,/,","{C but, }"
+h,B,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
++,A,"That/DT 's/BES why/WRB I/PRP 'm/VBP not/RB a/DT boss/NN ,/, I/PRP guess/VBP ./.","That's why I'm not a boss, I guess <laughter>. /"
+b,B,Yeah/UH ./.,<Laughter> Yeah. /
+h,A,"I/PRP mean/VBP I/PRP do/VBP n't/RB know/VB ,/, um/UH ./.","{E I mean } I don't know, {F um. } /"
+qw,A,"What/WDT other/JJ ,/, what/WDT other/JJ type/NN of/IN benefits/NNS do/VBP they/PRP have/VB that/WDT ,/, I/PRP mean/VBP ,/, Canadian/JJ based/VBN companies/NNS MUMBLEx/XX ./.","[ What other, + what other ] type of benefits do they have that, {E I mean, } Canadian based companies (( )) . /"
+sv,A,"They/PRP have/VBP to/TO be/VB a/DT little/JJ bit/NN different/JJ than/IN the/DT American/JJ ,/, um/UH ./.","They have to be a little bit different than the American, {F um. } /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"they/PRP are/VBP as/RB far/RB as/IN their/PRP like/UH pension/NN plans/NNS MUMBLEx/XX ,/,","they are as far as their {D like } pension plans (( )) , /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,they/PRP 're/VBP vested/VBN a/DT lot/NN earlier/RBR ./.,they're vested a lot earlier. /
+sd,B,"I/PRP think/VBP at/IN T/NNP I/NNP ,/, it/PRP took/VBD five/CD years/NNS ./.","I think at T I, it took five years. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"T/NNP I/NNP is/VBZ at/IN least/JJS ,/,","T I is at least,"
+x,B,,<Sniffing>.
++,A,"five/CD years/NNS ,/,","<Laughter> <<in background>> five years, /"
+%,A,yeah/UH ./.,yeah. /
+sd,B,Five/CD to/IN seven/CD ./.,Five to seven. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,And/CC they/PRP 're/VBP vested/VBN after/IN their/PRP$ first/JJ year/NN ./.,{C And } they're vested after their first year.
+x,A,,<Gasp>.
++,B,"To-/RB ,/, totally/RB vested/VBN ./.","[ To-, + totally ] vested. /"
+ba,A,"Oh/UH ,/, my/PRP$ goodness/NN ./.","{F Oh, } my goodness. /"
+sd,B,And/CC they/PRP have/VBP the/DT four/CD one/CD K/NNP and/CC the/DT --/:,{C And } they have the four one K and the --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: usual/JJ benefits/NNS like/IN that/DT ,/, uh/UH ./.","-- usual benefits like that, {F uh. } /"
+ba,A,That/DT 's/BES kind/RB of/RB nice/JJ ./.,That's kind of nice. /
+%,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"T/NNP I/NNP has/VBZ that/DT ,/,","T I has that, /"
+sv,A,but/CC that/DT 's/BES a/DT pretty/RB standard/JJ thing/NN anymore/RB ./.,{C but } that's a pretty standard thing anymore. /
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,right/UH ./.,right. /
+sv,A,"You/PRP know/VBP ,/, um/UH ,/, um/UH ,/, your/PRP$ husband/NN 's/POS company/NN probably/RB matches/VBZ more/JJR than/IN T/NNP I/NNP ,/, though/RB ./.","{D You know, } {F um, } {F um, } [ your + ] husband's company probably matches more than T I, though. /"
+ar,B,"No/UH ,/,","No, /"
+sd,B,they/PRP match/VBP the/DT same/JJ amount/NN ./.,they match the same amount. /
+br,A,"Oh/UH ,/, they/PRP do/VBP MUMBLEx/XX ?/.","{F Oh, } they do (( )) ? -/"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"well/UH ,/, they/PRP match/VBP four/CD percent/NN which/WDT is/VBZ the/DT same/JJ ,/,","{D well, } they match four percent which is the same,"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,it/PRP is/VBZ ./.,it is. /
++,B,"You/PRP know/VBP ,/, fifty/CD percent/NN or/CC four/CD percent/NN ./.","{D You know, } fifty percent or four percent. /*[[listen; particularly nonsensical]]"
+sv,A,"That/DT 's/BES still/RB pretty/RB good/JJ ,/, though/RB ./. I/PRP mean/VBP the/DT fact/NN that/IN you/PRP 're/VBP vested/VBN that/RB quickly/RB --/:","That's still pretty good, though. {E I mean } the fact that your vested that quickly --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: in/IN the/DT pension/NN ./.,-- in the pension. /
+%,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP know/VBP ,/, um/UH ,/,","I know, {F um, } /"
+sd,A,E/NNP D/NNP S/NNP has/VBZ eight/CD years/NNS ?/.,E D S has eight years? /
+sd,A,"I/PRP think/VBP E/NNP D/NNP S/NNP has/VBZ seven/CD to/IN ,/, to/IN eight/CD years/NNS ./.","I think E D S has seven [ to, + to ] eight years. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/RB it/PRP 's/BES like/IN T/NNP I/NNP in/IN that/DT respect/NN ,/, you/PRP know/VBP ?/.","{C So } it's like T I in that respect, {D you know? } /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC ,/, and/CC ,/, I/PRP mean/VBP ,/, and/CC I/PRP 'm/VBP working/VBG for/IN a/DT company/NN that/WDT 's/BES making/VBG money/NN ./.","[ [ {C And, } + {C and, } ] + {E I mean, } {C and } ] I'm working for a company that's making money <laughter>. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"You/PRP know/VBP ,/,","{D You know, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"E/NNP D/NNP S/NNP has/VBZ a/DT cash/NN flow/NN problem/NN as/IN they/PRP say/VBP but/CC ,/,","E D S has a cash flow problem as they say but,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"um/UH ,/, not/RB E/NNP D/NNP S/NNP ,/, T/NNP I/NNP ,/, um/UH ,/,","{F um, } not E D S, T I, {F um, } /"
+h,A,"but/CC I/PRP ,/, I/PRP do/VBP n't/RB know/VB ./.","{C but } [ I, + I ] don't know. /"
+sv,A,"I/PRP think/VBP everywhere/RB they/PRP just/RB need/VBP to/TO sit/VB down/RP and/CC hire/VB some/DT people/NNS ,/, the/DT grunts/NNS ,/, as/IN I/PRP call/VBP them/PRP ,/, like/IN myself/PRP --/:","I think everywhere they just need to sit down and hire some people, the grunts, as I call them, like myself <laughter> --"
+b,B,Right/UH ./.,Right. /
++,A,"--/: to/TO tell/VB them/PRP ,/,","-- to tell them, /"
+%,A,yeah/UH ./.,yeah. /
+h,A,"I/PRP mean/VBP ,/,","{E I mean, }"
+%,B,"It/PRP 's/BES ,/,","It's, -/"
++,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,A,"but/CC if/IN I/PRP were/VBD to/TO rank/VB them/PRP ,/, I/PRP guess/VBP I/PRP would/MD say/VB next/RB to/IN income/NN it/PRP 's/BES really/RB just/RB health/NN benefits/NNS ./.","{C but } if I were to rank them, I guess I would say next to income it's really just health benefits. /"
+sd,A,"And/CC then/RB ,/, um/UH ,/, for/IN most/JJS people/NNS I/PRP know/VBP it/PRP would/MD be/VB day/NN care/NN","{C And then, } {F um, } for most people I know it would be day care /"
+sd,A,"like/IN T/NNP I/NNP has/VBZ ,/,","{D like } T I has,"
+b,B,Right/UH ./.,Right. /
++,A,no/DT day/NN care/NN ./.,no day care. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"that/DT ,/, and/CC I/PRP know/VBP that/DT 's/BES a/DT big/JJ issue/NN","[ that, + {C and } I know that's ] a big issue /"
+sd,B,"because/IN I/PRP ,/, I/PRP belong/VBP to/IN a/DT women/NNS 's/POS forum/NN group/NN ./.","{C because } [ I, + I ] belong to a women's forum group. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC some/DT of/IN the/DT questions/NNS we/PRP 're/VBP getting/VBG are/VBP ,/, are/VBP on/IN site/NN day/NN care/NN and/CC things/NNS like/IN that/DT ./.","{C And } some of the questions we're getting [ are, + are ] on site day care and things like that. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,That/WDT they/PRP consider/VBP a/DT very/RB serious/JJ benefit/NN ./.,That they consider a very serious benefit. /
+sd,B,"And/CC I/PRP ca/MD n't/RB tell/VB you/PRP anybody/NN right/RB now/RB at/IN T/NNP I/NNP that/WDT 's/BES ,/, uh/UH ,/, considering/VBG that/DT ./.","{C And } I can't tell you anybody right now at T I that's, {F uh, } considering that. /"
+%,A,"Oh/UH ,/, I/PRP do/VBP n't/RB ,/,","{F Oh, } I don't, /"
+sd,A,"I/PRP would/MD ,/,","I would,"
+x,B,,<Sniffing>.
++,A,"think/VB so/RB ,/,","think so, /"
+%,A,yeah/UH,yeah /
+%,A,"because/IN ,/,","{C because, } -/"
+sv,B,They/PRP should/MD be/VB though/RB ./.,They should be though. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"they/PRP really/RB should/MD because/IN they/PRP 're/VBP big/JJ enough/RB ,/, um/UH ,/,","they really should because they're big enough, {F um, } /"
+sv,A,"and/CC the/DT other/JJ thing/NN I/PRP think/VBP is/VBZ really/RB good/JJ is/VBZ that/IN E/NNP D/NNP S/NNP is/VBZ much/RB better/JJR than/IN T/NNP I/NNP at/IN ,/, I/PRP think/VBP ,/, right/RB now/RB than/IN ,/, that/IN we/PRP have/VBP day/NN care/NN ,/, um/UH ,/, they/PRP ,/, uh/UH ,/, the/DT health/NN ,/, the/DT health/NN program/NN --/:","{C and } the other thing I think is really good is that E D S is much better than T I at, I think, right now than, that we have day care, {F um, } [ they, + ] {F uh, } [ the health, + the health ] program --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: like/UH T/NNP I/NNP has/VBZ Texans/NNPS ?/.,-- like T I has Texans? /
+b,B,Right/UH ./.,Right. /
+sv,A,"But/CC it/PRP ,/, I/PRP do/VBP n't/RB think/VB it/PRP ,/, that/IN it/PRP 's/BES developed/VBN as/RB much/JJ as/IN it/PRP could/MD be/VB for/IN the/DT size/NN company/NN as/IN T/NNP I/NNP ./.","{C But } [ [ it, + I don't think [ it, + that ] it's ] <breathing> developed as much as it could be for the size company as T I. /"
+b,B,Right/UH ./.,Right. /
+sv,A,"I/PRP mean/VBP if/IN you/PRP ever/RB walked/VBD into/IN E/NNP D/NNP S/NNP -s/POS health/NN ,/, corner/NN court/NN health/NN clubs/NNS on/IN site/NN --/:","{E I mean } if you ever walked into E D S -s health, corner court health clubs on site --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC you/PRP walk/VBP into/IN Spring/NNP Creek/NNP ,/, well/UH ,/, Spring/NNP Creek/NNP 's/BES better/JJR than/IN the/DT one/NN on/IN Dallas/NNP Parkway/NNP","-- and you walk into Spring Creek, {D well, } Spring Creek's better than the one on Dallas Parkway /"
+h,A,"but/CC ,/,","{C but, }"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,a/DT lot/NN better/JJR ./.,a lot better. /
++,A,"I/PRP mean/VBP ,/, yeah/UH ./.","I mean, yeah. /"
+qy^d,B,"E/NNP D/NNP S/NNP is/VBZ m-/XX ,/, is/VBZ better/JJR than/IN Spring/NNP Creek/NNP ?/.","E D S [ is m-, + is better ] than Spring Creek? /"
+%,A,"Ye-/UH ,/,","Ye-, -/"
+x,B,,<Sniffing>.
+sv,A,"Oh/UH ,/, it/PRP 's/BES really/RB nice/JJ ,/,","{F Oh, } it's really nice, /"
+ny,A,yeah/UH ./.,yeah. /
+ba,B,"Oh/UH ,/, man/UH ./.","{F Oh, } man. /"
+sv,A,"You/PRP know/VBP ,/, instead/IN of/IN like/IN six/CD ,/, um/UH ,/, treadmills/NNS ,/, you/PRP 've/VBP got/VBN like/IN twenty/CD ./.","{D You know, } instead of {D like } six, {F um, } treadmills, you've got {D like } twenty. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,And/CC E/NNP D/NNP S/NNP ca/MD n't/RB even/RB compare/VB in/IN size/NN ./.,<Laughter> {C And } E D S can't even compare in size.
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,In/IN terms/NNS of/IN the/DT number/NN of/IN employees/NNS ./.,In terms of the number of employees. /
+bf,B,"People/NNS ,/,","People, /"
+%,B,yeah/UH ./.,yeah. /
+h,A,"So/RB I/PRP ,/,","{C So } I,"
+x,B,,<Sniffing>.
++,A,do/VBP n't/RB know/VB ./.,don't know. /
+sd,A,"I/PRP guess/VBP it/PRP 's/BES just/RB where/WRB they/PRP ,/, um/UH ,/, and/CC like/UH E/NNP D/NNP S/NNP reimburses/VBZ you/PRP for/IN adoption/NN ./.","I guess it's just where [ they, + {F um, } [ and + ] {D like } E D S ] reimburses you for adoption. /"
+b,B,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+sd,A,And/CC T/NNP I/NNP does/VBZ n't/RB have/VB anything/NN like/IN that/DT ./.,{C And } T I doesn't have anything like that. /
+b,B,Right/UH ./.,Right. /
+sv,A,"You/PRP know/VBP ,/, so/RB I/PRP guess/VBP I/PRP ,/, I/PRP wish/VBP the/DT companies/NNS like/IN T/NNP I/NNP and/CC a/DT lot/NN of/IN others/NNS were/VBD more/RBR progressive/JJ --/:","{D You know, } {C so } I guess [ I, + I ] wish the companies like T I and a lot of others were more progressive --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: in/IN that/DT respect/NN,-- in that respect /
+%,A,"so/RB ,/,","{C so, } -/"
+ba,B,That/DT 's/BES good/JJ ./.,That's good. /
+sv,B,"That/DT 's/BES a/DT ,/, that/DT 's/BES a/DT fortunate/JJ benefit/NN ,/, you/PRP know/VBP ,/, that/IN they/PRP 're/VBP so/RB active/JJ --/:","[ That's a, + that's a ] fortunate benefit, {D you know, } that they're so active --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: for/IN their/PRP$ employees/NNS ./.,-- for their employees. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"and/CC there/EX 's/BES ,/, I/PRP mean/VBP they/PRP have/VBP some/DT strange/JJ things/NNS ./.","{C and } [ there's, + {E I mean } they have ] some strange things. /"
+sv,A,I/PRP mean/VBP they/PRP have/VBP very/RB strange/JJ like/IN dress/NN codes/NNS,{E I mean } they have very strange {D like } dress codes /
+%,A,"and/CC ,/, you/PRP know/VBP ./.","{C and, } {D you know. } -/"
+b,B,"Um/UH ,/, uh-huh/UH ./.","{F Um, } uh-huh. /"
+sd,A,"Um/UH ,/, you/PRP ca/MD n't/RB wear/VB slacks/NNS at/IN the/DT corporate/JJ site/NN and/CC that/DT kind/NN of/IN thing/NN --/:","{F Um, } you can't wear slacks at the corporate site and that kind of thing --"
+b,B,Right/UH ./.,Right. /
++,A,"--/: unless/IN you/PRP 're/VBP in/IN a/DT ,/, y-/PRP ,/, you/PRP know/VBP ,/,","-- unless you're in a, y-, {D you know, } - /"
+sd,A,"but/CC it/PRP does/VBZ n't/RB ,/, there/EX are/VBP n't/RB manufacturing/NN environments/NNS because/IN of/IN the/DT type/NN of/IN company/NN it/PRP is/VBZ ./.","{C but } [ it doesn't, + there aren't ] manufacturing environments because of the type of company it is. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+h,A,"Um/UH ,/,","{F Um, }"
+x,B,,<Sniffing>.
++,A,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+sv,A,"I/PRP ,/, I/PRP guess/VBP I/PRP also/RB wish/VBP that/IN ,/, uh/UH ,/, companies/NNS would/MD look/VB more/RBR at/IN cost/NN of/IN living/NN increases/NNS --/:","[ I, + I ] guess I also wish that, {F uh, } companies would look more at cost of living increases --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: instead/IN of/IN just/RB merit/NN reviews/NNS ./.,-- instead of just merit reviews. /
+aa,B,"Me/PRP ,/, too/RB ./.","Me, too. /"
+x,A,,<Laughter>.
+aa,B,"Me/PRP ,/, too/RB ,/,","Me, too, /"
+sd,B,"because/IN ,/, you/PRP know/VBP ,/, with/IN utilities/NNS and/CC ,/, and/CC homes/NNS that/WDT are/VBP ,/, uh/UH ,/,","{C because, } {D you know, } with utilities [ and, + and ] homes that are, {F uh, } - /"
+sv,B,price/NN of/IN homes/NNS have/VBP --/:,price of homes have --
++,B,"--/: went/VBD up/RP dr-/RB ,/, drastically/RB ./.","-- went up [ dr-, + drastically. ] /"
+sd,B,Like/UH an/DT average/JJ house/NN is/VBZ now/RB a/DT hundred/CD and/CC thirty/CD thousand/CD ./.,{D Like } an average house is now a hundred and thirty thousand. /
++,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,exactly/UH ./.,exactly. /
+sv,B,"And/CC that/DT is/VBZ unreal/JJ ,/,","{C And } that is unreal,"
+aa,A,I/PRP know/VBP ./.,I know. /
++,B,because/IN we/PRP 've/VBP got/VBN people/NNS out/IN here/RB that/WDT are/VBP just/RB poverty/NN level/NN ./.,because we've got people out here that are just poverty level. /
+sd,B,But/CC then/RB we/PRP 've/VBP got/VBN these/DT million/CD dollar/NN homes/NNS,{C But } then we've got these million dollar homes /
+qh,B,so/RB --/:,{C so } --
+aa,A,I/PRP know/VBP ./.,I know. /
++,B,"--/: you/PRP know/VBP ,/, where/WRB do/VBP you/PRP find/VB a/DT happy/JJ medium/NN ?/.","-- {D you know, } where do you find a happy medium? /"
+qh,B,"And/CC how/WRB does/VBZ your/PRP$ salary/NN deal/VB ,/,","{C And } how does your salary deal,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,with/IN that/DT ?/.,with that? /
+sv,B,It/PRP 's/BES not/RB ./.,It's not. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,A,"and/CC I/PRP mean/VBP ,/,","{C and } {E I mean, }"
+sv,B,It/PRP 's/BES just/RB not/RB doing/VBG it/PRP ./.,It's just not doing it. /
++,A,"I/PRP mean/VBP ,/, I/PRP do/VBP n't/RB know/VB how/WRB you/PRP and/CC your/PRP$ husband/NN are/VBP ,/, too/RB ,/,","{E I mean, } I don't know how you and your husband are, too, /"
+sd,A,but/CC I/PRP mean/VBP we/PRP have/VBP friends/NNS that/WDT laugh/VBP at/IN us/PRP,{C but } {E I mean } we have friends that laugh at us /
+sd,A,"and/CC we/PRP ,/, I/PRP clip/VBP coupons/NNS ./.","{C and } we, I clip coupons. /"
+sd,A,"And/CC I/PRP said/VBD ,/, hey/UH ,/, I/PRP 'll/MD probably/RB do/VB this/DT even/RB if/IN I/PRP 'm/VBP a/DT millionaire/NN which/WDT I/PRP wo/MD n't/RB ,/,","{C And } I said, hey, I'll probably do this even if I'm a millionaire which I won't,"
+b,B,Yeah/UH,Yeah /
+x,B,./.,<laughter>.
++,A,ever/RB be/VB ./.,ever be. /
+b,B,Yeah/UH,Yeah /
+x,B,./.,<laughter>.
+sv,A,"But/CC ,/, I/PRP mean/VBP ,/, it/PRP 's/BES like/IN ,/,","{C But, } {E I mean, } it's {D like, } - /"
+%,A,"because/IN you/PRP just/RB ca/MD n't/RB ,/,","{C because } you just can't, - /"
+sv,A,"I/PRP mean/VBP ,/, it/PRP seems/VBZ like/IN every/DT time/NN you/PRP try/VBP to/TO get/VB ahead/RB and/CC take/VB a/DT vacation/NN or/CC something/NN --/:","{E I mean, } it seems like every time you try to get ahead and take a vacation or something --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: well/UH ,/, the/DT car/NN insurance/NN is/VBZ due/JJ ./.","-- {D well, } the car insurance is due <laughter>. /"
+aa,B,That/DT 's/BES true/JJ ./.,That's true. /
+sd,B,That/DT is/VBZ exactly/RB where/WRB we/PRP are/VBP ./.,That is exactly where we are. /
+%,A,"I/PRP mean/VBP ,/,","{E I mean, } - /"
+b,A,yeah/UH ./.,yeah. /
+sv,B,It/PRP 's/BES so/RB strange/JJ ./.,(( It's so strange )) <sniffing>. /
+aa,A,I/PRP know/VBP ./.,I know. /
+sd,A,"I/PRP do/VBP n't/RB know/VB what/WP we/PRP 're/VBP going/VBG to/TO do/VB about/IN ,/,","I don't know what we're going to do about, -/"
+bf,B,Common/JJ problem/NN ./.,Common problem. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+qy,A,"you/PRP ,/,","you,"
+x,B,MUMBLEx/XX ./.,(( )) .
++,A,want/VBP to/TO rob/VB a/DT bank/NN ?/.,want to rob a bank? /
+"fo_o_fw_""_by_bc",A,"No/UH ,/,","No, /"
+sd,A,I/PRP did/VBD n't/RB say/VB that/DT ./.,I didn't say that. /
+b,B,"Yeah/UH ,/,","<Laughter> Yeah, /"
+ba,B,really/UH ./.,really. /
+sd,A,I/PRP did/VBD n't/RB say/VB that/DT on/IN this/DT line/NN ./.,<Laughter> I didn't say that on this line. /
+x,B,,<Laughter>.
+h,A,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+qw,A,What/WP else/RB about/IN corporate/JJ benefits/NNS ?/.,What else about corporate benefits? /
+sd,A,I/PRP ca/MD n't/RB think/VB ./.,I can't think. /
+sv,A,"It/PRP 's/HVS probably/RB been/VBN too/RB hot/JJ today/NN for/IN either/DT of/IN us/PRP to/TO ,/,","It's probably been too hot today for either of us to, -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Um/UH ,/, kind/RB of/RB nice/JJ to/TO talk/VB to/IN somebody/NN in/IN Dallas/NNP ./.","{F Um, } kind of nice to talk to somebody in Dallas. /"
+sd,A,Usually/RB people/NNS are/VBP all/RB over/IN the/DT country/NN ./.,Usually people are all over the country. /
+b,B,"Right/UH ,/,","Right, /"
+b,B,"yeah/UH ,/,","yeah, /"
+sv,B,"and/CC I/PRP think/VBP Dallas/NNP ,/, as/RB far/RB as/IN ,/, um/UH ,/, economic/JJ uncertainty/NN ,/, is/VBZ better/JJR than/IN what/WP most/JJS of/IN the/DT country/NN is/VBZ ./.","{C and } I think Dallas, as far as, {F um, } economic uncertainty, is better than what most of the country is. /"
+aa,A,This/DT is/VBZ true/JJ ./.,This is true. /
+sv,B,"So/RB wer-/XX ,/, somehow/RB ,/, we/PRP 're/VBP better/JJR off/RP than/IN a/DT lot/NN of/IN them/PRP ./.","{C So } [ wer-, + somehow, we're ] better off than a lot of them. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sv,A,and/CC that/DT does/VBZ n't/RB definitely/RB make/VB it/PRP any/DT better/JJR ./.,{C and } that doesn't (( definitely )) make it any better. /
+sv,A,"It/PRP 's/BES ,/,","It's,"
+aa,B,No/UH ./.,No <laughter>. /
++,A,"just/RB something/NN you/PRP have/VBP to/TO keep/VB telling/VBG yourself/PRP ,/, you/PRP know/VBP ,/, that/DT ,/, um/UH ,/, that/DT 's/BES what/WP I/PRP want/VBP ,/, that/DT ,/, uh/UH ,/, you/PRP know/VBP ,/,","just something you have to keep telling yourself, {D you know, } that, {F um, } that's what I want, that, {F uh, } {D you know, } - /"
+sv,A,"people/NNS are/VBP lucky/JJ to/TO have/VB jobs/NNS ,/,","people are lucky to have jobs, /"
+sv,A,and/CC people/NNS are/VBP lucky/JJ to/TO have/VB any/DT kind/NN of/IN benefits/NNS ./.,{C and } people are lucky to have any kind of benefits. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"When/WRB you/PRP see/VBP people/NNS that/WDT do/VBP n't/RB have/VB ,/, um/UH ,/, anything/NN but/CC H/NNP M/NNP O/NNP -s/NNS or/CC ,/, you/PRP know/VBP ,/, I/PRP mean/VBP really/RB ca/MD n't/RB even/RB afford/VB to/TO get/VB in/IN a/DT job/NN that/WDT costs/VBZ ,/,","When you see people that don't have, {F um, } anything but H M O -s or, {D you know, } {E I mean } really can't even afford to get in a job that costs, - /"
+sd,A,"like/UH ,/, we/PRP had/VBD a/DT guy/NN fixing/VBG our/PRP$ air/NN conditioner/NN ./.","{D like, } we had a guy fixing our air conditioner. /"
+sd,A,"And/CC he/PRP said/VBD he/PRP did/VBD n't/RB even/RB make/VB ten/CD dollars/NNS an/DT hour/NN ,/,","{C And } he said he didn't even make ten dollars an hour, /"
+sd,A,and/CC he/PRP has/VBZ three/CD kids/NNS ./.,{C and } he has three kids. /
+sd,A,"And/CC I/PRP went/VBD ,/, oh/UH ,/, you/PRP know/VBP ,/, that/DT has/VBZ to/TO be/VB rough/JJ ./.","{C And } I went, {F oh, } <gasp> {D you know, } <breathing> that has to be rough. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Um/UH ,/, but/CC benefits/NNS ,/,","{F Um, } {C but } benefits, - /"
+h,A,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+sv,A,"I/PRP guess/VBP ,/, I/PRP guess/VBP one/CD thing/NN I/PRP 'd/MD like/VB to/TO see/VB ,/, too/RB ,/, and/CC I/PRP ,/, I/PRP do/VBP n't/RB know/VB how/WRB T/NNP I/NNP is/VBZ about/IN this/DT ,/, but/CC I/PRP 'd/MD like/VB to/TO see/VB ,/, um/UH ,/, employees/NNS rank/NN and/CC file/NN be/VB able/JJ to/TO contribute/VB more/JJR to/IN their/PRP$ ,/, um/UH ,/, the/DT execution/NN of/IN their/PRP$ job/NN ./.","[ I guess, + <breathing> I guess ] one thing I'd like to see, too, and [ I, + I ] don't know how T I is about this, but I'd like to see, {F um, } employees rank and file be able to contribute more [ to their, + {F um, } the execution of their ] job. /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,You/PRP know/VBP ./.,{D You know. } /
+bf,B,Empowerment/NN issues/NNS ./.,Empowerment issues. /
+aa,A,"Right/UH yeah/UH ,/,","Right yeah, /"
+x,B,,<Sniffing>.
+sv,A,"that/DT 's/BES a/DT good/JJ word/NN for/IN it/PRP ,/, um/UH ./.","that's a good word for it, {F um. } /"
+b,B,Right/UH ./.,Right. /
+qw,A,How/WRB is/VBZ T/NNP I/NNP in/IN that/DT mode/NN ?/.,How is T I in that mode? /
+sv,B,"Well/UH ,/, very/RB well/RB ,/, um/UH ,/,","{D Well, } very well, {F um, } /"
+sv,B,"it/PRP 's/BES slow/JJ ,/, though/RB ./.","it's slow, though. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,At/IN least/JJS they/PRP 're/VBP making/VBG the/DT effort/NN to/TO put/VB it/PRP out/IN there/RB and/CC make/VB it/PRP available/JJ and/CC --/:,At least they're making the effort to put it out there and make it available [ and -- +
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC ,/, cultural/JJ change/NN within/IN the/DT management/NN first/JJ ./.","-- and, ] cultural change within the management first. /"
+sd,B,And/CC now/RB it/PRP 's/BES kind/RB of/RB filtering/VBG down/RP to/IN the/DT peon/NN level/NN ./.,{C And } now it's kind of filtering down to the peon level. /
+x,A,,<Laughter>.
+sv,B,"But/CC ,/, uh/UH ,/, I/PRP think/VBP they/PRP 're/VBP really/RB trying/VBG ./.","{C But, } {F uh, } <sniffing> I think they're really trying. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"It/PRP 's/BES going/VBG to/TO take/VB years/NNS ,/, though/RB ./.","It's going to take years, though. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"I/PRP mean/VBP it/PRP 's/BES just/RB ,/, it/PRP 's/BES that/DT mind-set/NN ,/,","{E I mean } [ it's just, + it's ] that mind-set,"
+bf,A,"All/DT part/NN of/IN a/DT good/JJ old/JJ boy/NN network/NN ,/,","(( All )) part of a good old boy network, /"
+%,A,yeah/UH ./.,yeah. /
++,B,"has/VBZ to/TO change/VB ,/,","has to change, /"
+aa,B,yeah/UH ./.,yeah. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,Yeah/UH ./.,<Sniffing> Yeah. /
+sv,A,"E/NNP D/NNP S/NNP is/VBZ ,/, oh/UH ,/, they/PRP 're/VBP better/JJR ,/,","E D S [ is, + {F oh, } they're ] better, /"
+sv,A,"but/CC they/PRP 're/VBP a/DT little/JJ bit/NN too/RB ,/, um/UH ,/, stiff/JJ collared/JJ in/IN terms/NNS of/IN ,/, you/PRP know/VBP ,/, what/WP you/PRP want/VBP to/TO do/VB ./.","{C but } they're a little bit too, {F um, } stiff collared in terms of, {D you know, } what you want to do. /"
+sd,A,"They/PRP 're/VBP pretty/RB much/JJ put/VB the/DT ,/, if/IN that/DT 's/BES where/WRB the/DT widget/NN goes/VBZ ,/, stick/VB it/PRP in/IN the/DT hole/NN ,/, you/PRP know/VBP ./.","They're pretty much [ put the, + if that's where the widget goes, stick ] it in the hole, {D you know. } /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,They/PRP 're/VBP kind/RB of/RB formula/NN oriented/VBN ./.,They're kind of formula oriented. /
+bf,B,Does/VBZ n't/RB want/VB to/TO change/VB ./.,Doesn't want to change. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"and/CC ,/, and/CC you/PRP ca/MD n't/RB really/RB argue/VB with/IN them/PRP because/IN they/PRP 've/VBP always/RB been/VBN successful/JJ","[ {C and, } + {C and } ] you can't really argue with them because they've always been successful /"
+qh,A,"so/RB ,/,","{C so, }"
+b,B,Right/UH ./.,Right. /
++,A,"You/PRP know/VBP ,/, what/WP can/MD you/PRP tell/VB them/PRP ?/.","{D You know, } what can you tell them <laughter>? /"
+b,B,Yeah/UH ./.,Yeah. /
+ba,A,Really/UH ./.,Really. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Well/UH ,/, I/PRP guess/VBP that/DT 's/BES what/WP I/PRP know/VBP about/IN benefits/NNS ./.","{D Well, } I guess that's what I know about benefits. /"
+b,B,"Okay/UH ./. Yeah/UH ,/,","Okay. Yeah, /"
+b,A,Okay/UH ?/.,Okay <laughter>? /
+aa,B,"me/PRP ,/, too/RB ./.","me, too. /"
+fc,B,"Go/JJ ,/, good/JJ talking/VBG to/IN you/PRP ./.","[ Go-, + good ] talking to you. /"
+fc,A,Good/JJ talking/VBG to/IN you/PRP,Good talking to you /
+fc,A,and/CC --/:,{C and } --
+fc,B,Thanks/UH ./.,Thanks. /
++,A,--/: keep/VB cool/JJ ./.,-- keep cool. /
+fc,B,Okay/UH ./.,Okay. /
+fc,B,Bye-Bye/UH ./.,Bye-Bye. /
+fc,A,Okay/UH ./.,Okay. /
+fc,A,Bye-Bye/UH ./.,Bye-Bye. /

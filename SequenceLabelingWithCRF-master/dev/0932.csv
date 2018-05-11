@@ -1,0 +1,141 @@
+act_tag,speaker,pos,text
+%,A,"Well/UH ,/, we/PRP ,/, uh/UH ,/,","{D Well, } we, {F uh, } - /"
+%,A,"taxes/NNS ,/,","taxes, - /"
+sv,A,everyone/NN thinks/VBZ taxes/NNS are/VBP too/RB high/JJ I/PRP 'm/VBP sure/JJ ./.,everyone thinks taxes are too high I'm sure. /
+sv,A,"But/CC ,/, uh/UH ,/, I/PRP think/VBP we/PRP do/VBP get/VB quite/PDT a/DT good/JJ value/NN for/IN the/DT tax/NN dollars/NNS we/PRP spend/VBP in/IN most/JJS cases/NNS ./.","{C But, } {F uh, } I think we do get quite a good value for the tax dollars we spend in most cases. /"
+qo,A,What/WP do/VBP you/PRP think/VB ?/.,What do you think? /
+aa,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+aa,B,"I/PRP ,/, I/PRP think/VBP so/RB ./.","[ I, + I ] think so. /"
+sv,B,"I/PRP ,/, I/PRP 'm/VBP ,/, uh/UH ,/, I/PRP think/VBP I/PRP 'm/VBP ,/, I/PRP think/VBP I/PRP 'm/VBP ,/, uh/UH ,/, a/DT little/JJ out/IN of/IN the/DT ordinary/JJ in/IN that/IN ,/, that/IN I/PRP ,/, I/PRP ,/, uh/UH ,/, I/PRP think/VBP I/PRP 'm/VBP more/RBR worried/JJ about/IN the/DT deficit/NN ,/, the/DT national/JJ deficit/NN than/IN ,/, than/IN ,/, uh/UH ,/, a/DT lot/NN of/IN other/JJ people/NNS are/VBP and/CC think/VBP that/IN we/PRP need/VBP to/TO ,/, we/PRP need/VBP to/TO either/CC raise/VB our/PRP$ taxes/NNS or/CC ,/, or/CC cutback/VB on/IN something/NN","[ [ [ I, + I'm, ] + {F uh, } I think I'm, ] + I think I'm, ] {F uh, } a little out of the ordinary in [ that, + that ] [ [ I, + I, ] + {F uh, } I ] think I'm more worried about [ the deficit, + the national deficit ] [ than, + than, ] {F uh, } a lot of other people are and think that [ we need to, + we need to ] either raise our taxes [ or, + or ] cutback on something /"
+sd,B,"and/CC I/PRP do/VBP n't/RB know/VB what/WP to/TO cutback/VB on/IN to/TO ,/,","{C and } I don't know what to cutback on [ [ [ to, +"
+sv,A,"At/IN this/DT stage/NN it/PRP 's/BES hard/JJ ,/, to/TO tell/VB ./.","<Laughter> At this stage it's hard, to tell. /"
++,B,"to/TO get/VB ,/, to/TO get/VB that/DT ,/, to/TO get/VB that/DT settled/JJ ./.","to get, ] + to get that, ] + to get that ] settled. /"
+sd,B,"And/CC ,/, and/CC ,/, uh/UH ,/,","[ [ {C And, } + {C and, } ] + {F uh, }"
+x,A,./.,<Throat_clearing>.
++,B,"and/CC ,/, uh/UH ,/, I/PRP know/VBP I/PRP 'm/VBP a/DT real/JJ ,/, a/DT real/JJ ,/, uh/UH ,/, out/IN of/IN it/PRP in/IN terms/NNS of/IN taxes/NNS","{C and, } ] {F uh, } I know I'm [ [ a real, + [ a + ] real, ] + ] {F uh, } out of it in terms of taxes /"
+sv,B,"so/RB I/PRP 'm/VBP no-/RB ,/, I/PRP 'm/VBP ,/, uh/UH ,/, think/VBP that/IN the/DT ,/, we/PRP really/RB ought/MD to/TO seriously/RB consider/VB what/WP an/DT income/NN tax/NN might/MD do/VB that/IN ,/, uh/UH ,/, for/IN Texas/NNP","{C so } [ I'm no-, + I'm, ] {F uh, } think that [ the, + ] we really ought to seriously consider what an income tax might do [ that, + {F uh, } for ] Texas /"
+%,B,"and/CC ,/, and/CC ,/,","[ {C and, } + {C and, } ] -/"
+sv,A,"Well/UH ,/, at/IN this/DT stage/NN I/PRP think/VBP we/PRP 've/VBP taxed/VBN property/NN almost/RB to/IN the/DT limit/NN because/IN ,/,","{D Well, } at this stage I think we've taxed property almost to the limit because,"
+aa,B,Yeah/UH ./.,Yeah. /
+aa,B,I/PRP think/VBP so/RB ./.,I think so. /
++,A,"like/IN the/DT ,/, the/DT property/NN taxes/NNS on/IN the/DT homes/NNS have/VBP reached/VBN the/DT point/NN that/IN it/PRP 's/BES precluding/VBG people/NNS from/IN being/VBG able/JJ to/TO own/VB a/DT home/NN because/IN of/IN the/DT cost/NN of/IN the/DT taxes/NNS on/IN them/PRP ./.","{D like } [ the, + the ] property taxes on the homes have reached the point that it's precluding people from being able to own a home because of the cost of the taxes on them. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,I/PRP know/VBP,I know /
+sd,A,I/PRP live/VBP in/IN Richardson/NNP --/:,I live in Richardson -- /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,--/: and/CC it/PRP 's/BES up/IN over/IN two/CD thousand/CD dollars/NNS a/DT year/NN for/IN taxes/NNS on/IN my/PRP$ house/NN ./.,-- {C and } it's up over two thousand dollars a year for taxes on my house. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sd,A,"But/CC now/RB we/PRP 're/VBP getting/VBG public/JJ services/NNS ,/, the/DT schools/NNS ,/, the/DT hospitals/NNS","{C But } now we're getting public services, the schools, the hospitals /"
+sv,A,"and/CC if/IN it/PRP were/VBD n't/RB for/IN the/DT taxes/NNS we/PRP 're/VBP putting/VBG in/IN there/RB ,/, uh/UH ,/, look/VB what/WP the/DT schools/NNS could/MD cost/VB you/PRP ./.","{C and } if it weren't for the taxes we're putting in there, {F uh, } look what the schools could cost you. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,yeah/UH ./.,yeah. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"now/RB I/PRP 'm/VBP ,/, uh/UH ,/, uh/UH ,/, oh/UH ,/, I/PRP ,/,","now [ I'm, + {F uh, } {F uh, } {F oh, } I, ] - /"
+sd,B,"we/PRP 'd/MD ,/, when/WRB we/PRP moved/VBD to/IN R-/NNP ,/, Richardson/NNP ,/, one/CD of/IN the/DT reasons/NNS we/PRP chose/VBD it/PRP was/VBD for/IN the/DT ,/, uh/UH ,/, for/IN the/DT schools/NNS ./. And/CC ,/, and/CC realizing/VBG that/IN that/IN ,/, that/IN ,/, that/IN quality/NN of/IN schools/NNS might/MD well/RB have/VB higher/JJR taxes/NNS than/IN other/JJ places/NNS but/CC that/IN we/PRP were/VBD willing/JJ to/TO ,/, uh/UH ,/, to/TO go/VB for/IN that/DT ,/,","[ we'd, + when we ] moved to [ R-, + Richardson, ] one of the reasons we chose it was [ for the, + {F uh, } for the ] schools. [ And, + and ] realizing that [ [ that, + that, ] + that ] quality of schools might well have higher taxes than other places but that we were willing [ to, + {F uh, } to ] go for that,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"because/IN we/PRP supported/VBD the/DT ,/,","because we supported the, -/"
+sv,A,"Then/RB again/RB the/DT ,/, the/DT community/NN college/NN system/NN here/RB is/VBZ excellent/JJ for/IN the/DT dollar/NN spent/VBD ,/,","Then again [ the, + the ] community college system here is excellent for the dollar spent, /"
+sv,A,"and/CC the/DT public/NN ,/,","{C and } the public,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"colleges/NNS also/RB ,/, the/DT tuition/NN has/VBZ got/VBN to/TO be/VB among/IN the/DT lowest/JJS in/IN the/DT country/NN ./.","colleges also, the tuition has got to be among the lowest in the country. /"
+%,A,"Uh/UH ,/,","{F Uh, } /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"one/CD of/IN the/DT ,/,","one of the, - /"
+sd,A,"uh/UH ,/, I/PRP believe/VBP ,/, I/PRP do/VBP n't/RB know/VB which/WDT one/NN it/PRP is/VBZ ,/, uh/UH ,/, down/IN there/RB whether/IN it/PRP 's/BES Hobby/NNP or/CC ,/, uh/UH ,/, the/DT other/JJ ex-governor/NN down/IN there/RB that/WDT are/VBP proposing/VBG doubling/VBG the/DT tuition/NN ./.","{F uh, } [ I believe, + I don't know ] which one it is, {F uh, } down there whether it's Hobby or, {F uh, } <lipsmack> the other ex-governor down there that are proposing doubling the tuition. /"
+sv,A,"Well/UH if/IN you/PRP double/VBP the/DT tuition/NN ,/, it/PRP would/MD still/RB be/VB considerably/RB less/JJR than/IN the/DT public/JJ school/NN tuition/NN in/IN most/RBS other/JJ states/NNS ./.","{D Well } if you double the tuition, it would still be considerably less than the public school tuition in most other states. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,I/PRP think/VBP that/DT 's/BES right/JJ ./.,I think that's right. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,"That/DT would/MD provide/VB ,/, uh/UH ,/, possibly/RB some/DT relief/NN there/RB to/TO utilize/VB some/DT of/IN the/DT property/NN taxes/NNS for/IN other/JJ things/NNS ,/, see/UH ./.","That would provide, {F uh, } possibly some relief there to utilize some of the property taxes for other things, {D see. } /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"The/DT so-called/JJ sin/NN taxes/NNS on/IN liquor/NN and/CC the/DT cigarettes/NNS and/CC such/IN as/IN that/DT generate/VBP a/DT considerable/JJ amount/NN ,/,","The so-called (( sin )) taxes on liquor and the cigarettes and such as that generate a considerable amount, /"
+sv,A,"but/CC I/PRP p-/XX ,/, eventually/RB I/PRP think/VBP you/PRP may/MD tax/VB people/NNS out/IN of/IN smoking/VBG even/RB ./.","{C but } [ I p-, + eventually I ] think you may tax people out of smoking even. /"
+x,B,./.,<Laughter>.
+x,A,./.,<Laughter>.
+ar,B,"I/PRP ,/, I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB know/VB about/IN that/DT ,/,","<Noise> [ [ I, + I don't, ] + I don't ] know about that, /"
+%,B,"I/PRP ,/, I/PRP ,/,","[ I, + <laughter> I, ] -/"
+b,A,Yeah/UH ./.,Yeah <laughter>. /
+sd,A,"Well/UH ,/, I/PRP quit/VBD ten/CD years/NNS ago/RB","{D Well, } I quit ten years ago /"
+sd,A,"so/RB I/PRP ,/,","{C so } <laughter> [ I, +"
+b,B,I/PRP see/VBP ./.,I see. /
+b,B,Okay/UH ./.,Okay. /
+b,B,"No/UH ,/, uh/UH ,/,","No, {F uh, } /"
++,A,I/PRP could/MD n't/RB afford/VB to/TO start/VB again/RB ./.,I ] couldn't afford to start again <laughter>. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"well/UH ,/, that/DT ,/, that/DT ,/, that/DT would/MD be/VB true/JJ ./.","{D well, } [ [ that, + that, ] + that ] would be true. /"
+aa,B,That/DT would/MD be/VB true/JJ ./.,That would be true. /
+%,B,"But/CC ,/,","{C But, } -/"
+sd,A,"I/PRP know/VBP ,/, uh/UH ,/,","I know, {F uh, } /"
+sd,A,my/PRP$ children/NNS would/MD give/VB up/RP eating/NN before/IN they/PRP gave/VBD up/RP their/PRP$ cigarettes/NNS I/PRP think/VBP ./.,my children would give up eating before they gave up their cigarettes I think. /
+b,B,Huh/UH ./.,{F Huh. } /
+sv,A,"But/CC all/PDT the/DT various/JJ taxing/NN authorities/NNS that/WDT come/VBP through/RB ,/, I/PRP think/VBP the/DT one/CD tax/NN I/PRP resent/VBP the/DT most/RBS though/RB is/VBZ the/DT additional/JJ sales/NNS tax/NN for/IN DART/NNP which/WDT is/VBZ probably/RB never/RB going/VBG to/TO be/VB in/IN existence/NN in/IN my/PRP$ lifetime/NN ./.","{C But } all the various taxing authorities that come through, I think the one tax I resent the most though is the additional sales tax for DART which is probably never going to be in existence in my lifetime. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"and/CC ,/, and/CC even/RB if/IN it/PRP is/VBZ ,/, is/VBZ n't/RB going/VBG to/TO ,/, uh/UH ,/, uh/UH ,/, provide/VB you/PRP with/IN any/DT ,/, any/DT services/NNS in/IN that/IN it/PRP 's/BES not/RB doing/VBG to/TO provide/VB a/DT route/NN from/IN your/PRP$ ,/, your/PRP$ home/NN to/IN a/DT business/NN ,/, for/IN instance/NN ,/, you/PRP know/VBP ./.","[ {C and, } + {C and } ] even if it is, isn't going to, {F uh, } {F uh, } provide you with [ any, + any ] services in that it's not doing to provide a route from [ your, + your ] home to a business, for instance, {D you know. } /"
+sv,A,"Well/UH ,/, this/DT ,/, this/DT is/VBZ a/DT thing/NN","{D Well, } [ this, + this ] is a thing /"
+sv,A,"I/PRP think/VBP it/PRP 's/BES like/IN ,/, uh/UH ,/, back/RB east/JJ ./.","I think it's like, {F uh, } back east. /"
+sv,A,You/PRP had/VBD to/TO start/VB your/PRP$ public/JJ transportation/NN when/WRB you/PRP started/VBD your/PRP$ cities/NNS ./.,You had to start your public transportation when you started your cities. /
+sv,A,You/PRP ca/MD n't/RB come/VB in/RB afterward/RB and/CC really/RB be/VB successful/JJ or/CC economical/JJ at/IN it/PRP ./.,You can't come in afterward and really be successful or economical at it. /
+sv,A,"If/IN we/PRP had/VBD been/VBN like/IN a/DT Chicago/NNP or/CC a/DT New/NNP York/NNP City/NNP or/CC Philadelphia/NNP or/CC someone/NN like/IN that/DT ,/,","If we had been like a Chicago or a New York City or Philadelphia or someone like that,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,and/CC had/VBD a/DT public/JJ transportation/NN system/NN starting/VBG in/IN the/DT horse/NN and/CC buggy/NN days/NNS --/:,and had a public transportation system starting in the horse and buggy days --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: and/CC when/WRB land/NN was/VBD cheap/JJ and/CC ,/, uh/UH ,/, construction/NN costs/NNS were/VBD cheap/JJ ,/, you/PRP could/MD afford/VB it/PRP ./.","-- and when land was cheap and, {F uh, } construction costs were cheap, you could afford it. /"
+sv,A,"But/CC now/RB ,/,","{C But } now,"
+%,B,"And/CC ,/,","{C And, } -/"
++,A,digging/VBG tunnels/NNS under/IN Central/NNP Expressway/NNP and/CC things/NNS like/IN that/DT becomes/VBZ cost/NN prohibitive/JJ ./.,digging tunnels under Central Expressway and things like that becomes cost prohibitive. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"and/CC the/DT other/JJ thing/NN is/VBZ that/IN when/WRB it/PRP ,/, when/WRB it/PRP 's/BES ,/, the/DT public/JJ transportation/NN is/VBZ established/VBN that/RB early/JJ on/RP then/RB ,/, then/RB the/DT business/NN ,/, uh/UH ,/, business/NN and/CC residential/JJ patterns/NNS develop/VBP to/TO take/VB advantage/NN of/IN that/DT ./.","{C and } the other thing is that [ when it, + when ] [ it's, + the public transportation is ] established that early on [ then, + then ] the [ business, + {F uh, } business ] and residential patterns develop to take advantage of that. /"
+aa,A,Absolutely/UH ./.,Absolutely. /
+sv,B,"Whereas/IN in/IN ,/, in/IN ,/, uh/UH ,/, in/IN Dallas/NNP here/RB we/PRP 've/VBP ,/, we/PRP 've/VBP got/VBN ,/, uh/UH ,/, those/DT patterns/NNS were/VBD well/RB established/JJ before/IN ,/, before/IN we/PRP really/RB tried/VBD to/TO ,/, tried/VBD to/TO do/VB the/DT DART/NNP ./.","Whereas [ [ in, + in, ] + {F uh, } in ] Dallas here [ [ we've, + we've got, ] + ] {F uh, } those patterns were well established [ before, + before ] we really [ tried to, + tried to ] do the DART. /"
+sv,B,"And/CC ,/, uh/UH ,/, for/IN instance/NN all/PDT the/DT ,/, all/PDT the/DT ,/, the/DT ,/, uh/UH ,/, office/NN buildings/NNS and/CC stuff/NN that/WDT are/VBP out/IN here/RB in/IN ,/, in/IN ,/, uh/UH ,/, north/JJ Dallas/NNP as/IN opposed/VBN to/IN downtown/NN ,/,","{C And, } {F uh, } for instance [ all the, + all [ the, + the, ] ] {F uh, } office buildings and stuff that are out here [ in, + in, ] {F uh, } north Dallas as opposed to downtown, - /"
+sv,B,"uh/UH ,/, to/TO try/VB to/TO ,/, to/TO try/VB to/TO provide/VB efficient/JJ transportation/NN from/IN everywhere/RB around/IN the/DT ,/, the/DT metroplex/NN to/IN ,/, to/IN ,/, uh/UH ,/, both/PDT those/DT centers/NNS of/IN ,/, of/IN business/NN plus/CC everything/NN else/RB that/WDT 's/BES scattered/JJ around/IN here/RB and/CC there/RB as/IN opposed/VBN to/TO having/VBG a/DT concentrated/JJ business/NN area/NN ./.","{F uh, } [ to try to, + to try to ] provide efficient transportation from everywhere around [ the, + the ] metroplex [ to, + to, ] {F uh, } both those centers [ of, + of ] business plus everything else that's scattered around here and there as opposed to having a concentrated business area."
+b,A,Yeah/UH ./.,Yeah. /
++,B,"You/PRP know/VBP ,/, like/IN New/NNP York/NNP does/VBZ ,/,","{D You know, } like New York does, - /"
+%,B,yeah/UH ./.,yeah. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,just/RB take/VB like/UH in/IN Chicago/NNP where/WRB the/DT people/NNS depend/VBP on/IN the/DT public/JJ transportation/NN system/NN to/TO get/VB them/PRP everywhere/RB ./.,just take like in Chicago where the people depend on the public transportation system to get them everywhere. /
+b,B,Yeah/UH ./.,Yeah. /
+%,A,New/NNP York/NNP,New York - /
+sv,A,"and/CC some/DT ,/,","{C and } some,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,people/NNS do/VBP n't/RB even/RB own/VB a/DT car/NN and/CC know/VB how/WRB to/TO drive/VB a/DT car/NN ./.,people don't even own a car and know how to drive a car. /
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,right/UH ./.,right. /
+sd,A,"Someone/NN made/VBD the/DT analogy/NN ,/, uh/UH ,/, with/IN Texans/NNPS as/IN being/VBG like/IN the/DT old/JJ cowboys/NNS and/CC their/PRP$ horse/NN ./.","Someone made the analogy, {F uh, } with Texans as being like the old cowboys and their horse. /"
+sd,A,An/DT old/JJ cowboy/NN would/MD jump/VB on/IN his/PRP$ horse/NN to/TO go/VB across/IN the/DT street/NN ./.,An old cowboy would jump on his horse to go across the street. /
+sv,A,"Well/UH ,/, most/JJS Texans/NNPS will/MD jump/VB in/IN their/PRP$ car/NN to/TO drive/VB across/IN the/DT street/NN ./.","{D Well, } most Texans will jump in their car to drive across the street. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,And/CC I/PRP 'm/VBP just/RB as/RB guilty/JJ as/IN anyone/NN else/RB ./.,{C And } I'm just as guilty as anyone else. /
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP drive/VBP to/IN work/NN every/DT day/NN by/IN myself/PRP ,/, uh/UH ,/, without/IN even/RB ,/, even/RB any/DT thought/NN of/IN car/GW pooling/^VBG ./.","I drive to work every day by myself, {F uh, } without [ even, + even ] any thought of car pooling. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,right/UH ./.,right. /
+sv,A,"And/CC ,/, uh/UH ,/, most/JJS people/NNS are/VBP that/DT way/NN ./.","<<Very faint>> {C And, } {F uh, } most people are that way."
+aa,B,Yep/UH ./.,Yep. /
++,A,Because/IN they/PRP 're/VBP used/JJ to/IN not/RB having/VBG public/JJ transportation/NN ./.,Because they're used to not having public transportation. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"So/RB ,/, but/CC I/PRP ,/,","{C So, } {C but } [ I, +"
+b,B,Yeah/UH ./.,Yeah. /
++,A,here/RB again/RB I/PRP think/VBP MUMBLEx/XX I/PRP resented/VBD where/WRB they/PRP were/VBD collecting/VBG the/DT sales/NNS tax/NN for/IN five/CD years/NNS before/IN they/PRP turned/VBD a/DT spade/NN of/IN dirt/NN ./.,here again I ] think (( )) I resented where they were collecting the sales tax for five years before they turned a spade of dirt.
+b,B,Yeah/UH ./.,Yeah. /
++,A,So/RB and/CC doing/VBG all/PDT these/DT studies/NNS and/CC the/DT things/NNS,[ So + ] and doing all these studies and the things /
+sd,A,we/PRP saw/VBD about/IN them/PRP traveling/VBG to/IN San/NNP Francisco/NNP to/TO see/VB whether/IN they/PRP wanted/VBD ten/CD foot/NN wide/JJ or/CC twelve/CD foot/NN wide/JJ cars/NNS or/CC something/NN ./.,we saw about them traveling to San Francisco to see whether they wanted ten foot wide or twelve foot wide cars or something. /
+x,B,./.,<Laughter>.
+sv,A,"I/PRP felt/VBD that/DT was/VBD a/DT little/JJ ,/, uh/UH ,/, wasteful/JJ use/NN of/IN the/DT tax/NN dollars/NNS that/WDT we/PRP were/VBD paying/VBG ,/, you/PRP know/VBP ./.","<Laughter> I felt that was a little, {F uh, } wasteful use of the tax dollars that we were paying, {D you know. } /"
+aa,B,A/DT little/JJ bit/NN much/RB ./.,A little bit much. /
+aa,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+aa,B,Yep/UH ./.,Yep. /
+aa,B,Yep/UH ./.,Yep. /
+%,B,"Oh/UH ,/, the/DT c-/XX ,/,","{F Oh, } the c-, -/"
+fc,A,"Well/UH ,/, that/DT 's/BES about/RB all/DT I/PRP can/MD say/VB at/IN this/DT time/NN ./.","{D Well, } that's about all I can say at this time. /"
+fc,B,"Yeah/UH ,/,","Yeah, /"
+fc,B,"I/PRP th/VBP ,/, I/PRP think/VBP so/RB ,/,","[ I th-, + I think ] so, /"
+fc,B,"I/PRP think/VBP that/DT will/MD probably/RB do/VB it/PRP ,/,","I think that will probably do it, /"
+%,B,so/RB ./.,{C so. } -/
+fc,A,"Okay/UH ,/,","Okay, /"
+fc,A,it/PRP 's/HVS been/VBN real/RB nice/JJ talking/VBG with/IN you/PRP ./.,it's been real nice talking with you. /
+fc,B,Good/JJ enough/RB ./.,Good enough. /
+fc,A,Bye/UH ./.,Bye. /
+fc,B,Bye/UH ./.,Bye. /

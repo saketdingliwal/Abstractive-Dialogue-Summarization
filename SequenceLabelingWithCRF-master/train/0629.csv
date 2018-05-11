@@ -1,0 +1,167 @@
+act_tag,speaker,pos,text
+qw,A,"Well/UH ,/, what/WP are/VBP your/PRP$ hobbies/NNS ?/.","{D Well, } what are your hobbies? /"
+sd,B,"Well/UH ,/, actually/RB my/PRP$ hobbies/NNS now/RB are/VBP T/NN shirt/^NN making/NN ./.","{D Well, } actually my hobbies now are T shirt making. /"
+sd,B,I/PRP 'm/VBP making/VBG T/NN shirts/NNS and/CC sweat/NN shirts/NNS ./.,I'm making T shirts and sweat shirts. /
+sd,B,In/IN fact/NN that/DT 's/BES what/WP I/PRP was/VBD doing/VBG when/WRB you/PRP called/VBD ./.,In fact that's what I was doing when you called. /
+sv,A,"Well/UH ,/, that/WDT sounds/VBZ interesting/JJ ./.","{D Well, } that sounds interesting. /"
+qw,A,"What/WP kinds/NNS of/IN ,/, uh/UH ,/, sweat/NN shirts/NNS and/CC T/NN shirts/NNS do/VBP you/PRP make/VB ?/.","What kinds of, {F uh, } sweat shirts and T shirts do you make? /"
+sd,B,"Um/UH ,/, right/RB now/RB I/PRP 'm/VBP making/VBG Christmas/NNP ones/NNS with/IN poinsettias/NNS and/CC bears/NNS and/CC --/:","{F Um, } right now I'm making Christmas ones with poinsettias and bears and --"
+b,A,Okay/UH ./.,Okay. /
++,B,--/: all/PDT that/DT kind/NN of/IN thing/NN ./.,-- all that kind of thing. /
+qy,A,"Is/VBZ that/DT silk/NN screening/NN ,/, or/CC ,/,","Is that silk screening, or, -/"
+nn,B,"Um/UH ,/, no/UH ,/,","{F Um, } no, /"
+sd,B,"I/PRP 'm/VBP ,/, have/VBP material/NN that/WDT I/PRP cut/VBP out/RB ,/,","I'm, have material that I cut out, /"
+sd,B,"and/CC then/RB you/PRP ,/, um/UH ,/,","{C and then } you, {F um, } - /"
+sd,B,"there/EX 's/BES this/DT stuff/NN called/VBD Wonder/NNP Under/NNP that/WDT you/PRP un-/XX ,/, that/WDT you/PRP iron/VBP it/PRP on/IN","there's this stuff called Wonder Under [ that you un-, + that you iron ] it on /"
+sd,B,"and/CC then/RB you/PRP iron/VBP that/DT on/IN the/DT T/NN shirt/NN ,/, and/CC you/PRP paint/VBP around/IN it/PRP ./.","{C and then } you iron that on the T shirt, {C and } you paint around it. /"
+bk,A,"Oh/UH ,/, I/PRP see/VB ./.","{F Oh, } I see. /"
+sd,B,"So/RB ,/, it/PRP 's/BES real/JJ fun/NN ./.","{C So, } it's real fun. /"
+sd,B,"I/PRP started/VBD doing/VBG it/PRP as/IN a/DT ,/, um/UH ,/, just/RB something/NN fun/NN to/TO do/VB ,/,","I started doing it as [ a, + ] {F um, } just something fun to do, /"
+sd,B,"and/CC now/RB I/PRP 'm/VBP selling/VBG them/PRP and/CC pretty/JJ ,/,","{C and } now I'm selling them and pretty, -/"
+qo,A,"Well/UH ,/, how/WRB 's/BES it/PRP going/VBG ?/.","{D Well, } how's it going? /"
+sd,B,Pretty/RB good/JJ ./.,Pretty good. /
+sd,B,"I/PRP just/RB started/VBD last/JJ week/NN ,/,","I just started last week, /"
+sd,B,and/CC I/PRP sold/VBD seven/CD ./.,{C and } I sold seven. /
+sd,B,"I/PRP did/VBD n't/RB ,/, was/VBD n't/RB expecting/VBG that/DT ,/,","I [ didn't, + wasn't ] expecting that, /"
+%,B,"so/RB ,/,","{C so, } -/"
+ba,A,"Well/UH ,/, that/WDT sounds/VBZ great/JJ ./.","{D Well, } that sounds great. /"
+sd,B,I/PRP guess/VBP in/IN my/PRP$ spare/JJ time/NN I/PRP 'll/MD be/VB making/VBG T/NN shirts/NNS ./.,I guess in my spare time I'll be making T shirts <inhaling>. /
+%,B,So/RB ./.,{C So. } -/
+sv,A,"Well/UH ,/, somebody/NN has/VBZ to/TO do/VB it/PRP ,/,","{D Well, } somebody has to do it, /"
+aa,B,"That/DT 's/BES right/JJ ,/, you/PRP know/VBP ./.","That's right, {D you know. } /"
+sv,A,"Give/VBP you/PRP a/DT little/JJ Christmas/NNP money/NN ,/, any/DT way/NN ./.","Give you a little Christmas money, any way. /"
+aa,B,That/DT 's/BES correct/JJ ./.,That's correct. /
+qw,B,"Well/UH ,/, what/WP are/VBP your/PRP$ hobbies/NNS ?/.","{D Well, } what are your hobbies? /"
+sd,A,"Well/UH ,/, I/PRP ,/, I/PRP kind/RB of/RB have/VBP hobby/NN fads/NNS ,/, I/PRP guess/VBP ./.","{D Well, } [ I, + I ] kind of have hobby fads, I guess. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"When/WRB I/PRP was/VBD growing/VBG up/RP I/PRP was/VBD ,/, was/VBD into/IN coin/NN collecting/NN ,/,","When I was growing up I [ was, + was ] into coin collecting, /"
+sd,A,"and/CC that/DT dropped/VBD off/RP about/IN the/DT time/NN I/PRP hit/VBP puberty/NN ,/, I/PRP guess/VBP ,/,","{C and } that dropped off about the time I hit puberty, I guess, /"
+sd,A,"and/CC then/RB ,/, my/PRP$ hobbies/NNS in/IN high/JJ school/NN went/VBD just/RB to/IN the/DT sports/NNS ./.","{C and then, } my hobbies in high school went just to the sports. /"
+sd,A,Now/RB my/PRP$ latest/JJS one/NN is/VBZ classic/JJ cars/NNS ./.,Now my latest one is classic cars. /
+sd,A,I/PRP 've/VBP --/:,[ I've -- +
+b,B,Um/UH ./.,{F Um. } /
++,A,--/: I/PRP had/VBD a/DT sixty-six/CD Mustang/NNP I/PRP was/VBD rebuilding/VBG ./.,-- I had ] a sixty-six Mustang I was rebuilding. /
+sd,A,"Almost/RB had/VBD it/PRP done/VBN ,/,","Almost had it done, /"
+sd,A,"and/CC I/PRP went/VBD on/IN ,/, went/VBD ahead/RB and/CC sold/VBD it/PRP ./.","{C and } I [ went on, + went ahead ] and sold it. /"
+ba,B,"Oh/UH ,/, my/PRP$ gosh/UH ./.","{F Oh, } my gosh. /"
+sd,A,But/CC it/PRP was/VBD fun/NN ./.,{C But } it was fun. /
+sd,A,I/PRP really/RB enjoyed/VBD it/PRP ./.,I really enjoyed it. /
+qw,B,"Well/UH ,/, how/WRB 'd/MD you/PRP learn/VB to/TO do/VB that/DT --/:","{D Well, } how'd you learn to do that --"
+sd,A,"Oh/UH ,/, you/PRP just/RB ,/,","{F Oh, } you just, -/"
++,B,--/: to/TO fix/VB them/PRP up/RP ?/.,-- to fix them up? /
+qy,B,You/PRP just/RB get/VBP a/DT book/NN that/WDT tells/VBZ you/PRP how/WRB to/TO do/VB it/PRP or/CC what/WP ?/.,You just get a book that tells you how to do it or what? /
+nn,A,"No/UH ,/,","No, /"
+sd,A,"you/PRP just/RB kind/RB of/RB ,/,","you just kind of, - /"
+sd,A,"all/DT I/PRP did/VBD is/VBZ ,/, uh/UH ,/, I/PRP bought/VBD the/DT car/NN","all I did is, {F uh, } I bought the car /"
+sd,A,"and/CC then/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, you/PRP can/MD ,/,","{C and then, } {F uh, } {D you know, } you can, - /"
+sd,A,"I/PRP ,/, uh/UH ,/, was/VBD just/RB in/IN a/DT supermarket/NN","I, {F uh, } was just in a supermarket /"
+sd,A,"and/CC I/PRP seen/VBN a/DT ,/, a/DT magazine/NN for/IN ,/, you/PRP know/VBP ,/,","{C and } I seen [ a, + a ] magazine for, {D you know, } - /"
+sd,A,"basically/RB it/PRP ,/, it/PRP was/VBD called/VBN MUSTANG/NNP MAGAZINE/NNP","basically [ it, + it ] was called MUSTANG MAGAZINE /"
+sd,A,and/CC --/:,[ {C and } -- +
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: and/CC so/RB I/PRP bought/VBD it/PRP,-- {C and so } ] I bought it /
+sd,A,"and/CC they/PRP had/VBD ,/, uh/UH ,/, some/DT names/NNS ,/, some/DT companies/NNS that/WDT sold/VBD mustang/NN parts/NNS ,/,","{C and } they had, {F uh, } some names, some companies that sold mustang parts, /"
+sd,A,and/CC I/PRP just/RB started/VBD ordering/VBG some/DT parts/NNS,{C and } I just started ordering some parts /
+sd,A,"and/CC ,/, and/CC ,/, you/PRP know/VBP ,/, basically/RB ,/, you/PRP know/VBP ,/, I/PRP ,/, what/WP I/PRP did/VBD was/VBD ,/, I/PRP redid/VBD the/DT whole/JJ interior/NN ./.","[ {C and, } + {C and, } ] {D you know, } basically, {D you know, } [ I, + what I ] did was, I redid the whole interior. /"
+sd,A,"I/PRP did/VBD n't/RB do/VB too/RB much/RB to/IN the/DT engine/NN ,/, because/IN the/DT engine/NN was/VBD pretty/RB good/JJ ,/, but/CC the/DT ,/, the/DT whole/JJ interior/NN and/CC then/RB part/NN of/IN the/DT exterior/NN ,/,","I didn't do too much to the engine, because the engine was pretty good, but [ the, + the ] whole interior and then part of the exterior, /"
+sd,A,just/RB kind/RB of/RB do/VBP it/PRP ./.,just kind of do it. /
+qw,B,Where/WRB 'd/MD you/PRP get/VB the/DT car/NN ?/.,Where'd you get the car? /
+sd,A,"Well/UH ,/, we/PRP lived/VBD ,/, we/PRP lived/VBD in/IN South/NNP Dakota/NNP ,/,","{D Well, } [ we lived, + we lived ] in South Dakota, /"
+sd,A,and/CC I/PRP bought/VBD it/PRP up/IN there/RB before/IN I/PRP moved/VBD down/IN here/RB ./.,{C and } I bought it up there before I moved down here. /
+ba,B,Wow/UH ./.,Wow. /
+sd,A,"So/UH it/PRP was/VBD ,/, it/PRP was/VBD kind/RB of/RB rusted/JJ out/IN there/RB ,/,","{C So } [ it was, + it was ] kind of rusted out there, /"
+sd,A,there/EX is/VBZ n't/RB too/RB much/JJ rust/NN on/IN any/DT vehicles/NNS down/IN here/RB ./.,there isn't too much rust on any vehicles down here. /
+aa,B,"Well/UH ,/, that/DT 's/BES true/JJ ,/,","{D Well, } that's true, /"
+aa,B,that/DT 's/BES true/JJ ./.,that's true. /
+ba,B,Well/UH that/DT sounds/VBZ neat/JJ ./.,{D Well } that sounds neat. /
+sv,A,"Well/UH ,/, gee/UH I/PRP guess/VBP there/EX really/RB is/VBZ n't/RB too/RB much/JJ to/TO talk/VB about/IN on/IN hobbies/NNS ./.","{D Well, } gee I guess there really isn't too much to talk about on hobbies. /"
+^h,B,Let/VB 's/PRP see/VB ./.,Let's see. /
+sd,A,"That/DT ,/, that/DT about/RB covers/VBZ mine/PRP$","[ That, + that ] about covers mine /"
+sv,A,and/CC T/NN shirt/NN making/VBG about/RB covers/VBZ yours/JJ ./.,{C and } T shirt making about covers yours. /
+^h,B,"Well/UH ,/, let/VB 's/PRP see/VB ,/,","{D Well, } let's see, /"
+sd,B,I/PRP 've/VBP done/VBN other/JJ hobbies/NNS ./.,I've done other hobbies. /
+sd,B,I/PRP 'm/VBP a/DT hobby/NN person/NN ./.,I'm a hobby person. /
+sd,B,I/PRP 've/VBP always/RB done/VBN a/DT lot/NN of/IN craft/NN stuff/NN ./.,I've always done a lot of craft stuff. /
+sd,B,"I/PRP always/RB have/VBP done/VBN needlepoint/NN and/CC cross/JJ stitch/NN and/CC all/PDT that/DT ,/,","I always have done needlepoint and cross stitch and all that, /"
+sd,B,"and/CC ,/, I/PRP collect/VBP dolls/NNS ,/,","{C and, } I collect dolls, /"
+sd,B,I/PRP have/VBP a/DT huge/JJ collection/NN of/IN dolls/NNS which/WDT is/VBZ still/RB in/IN New/NNP Mexico/NNP with/IN my/PRP$ parents/NNS ./.,I have a huge collection of dolls which is still in New Mexico with my parents <laughter>. /
+br,A,In/IN New/NNP Mexico/NNP ?/.,In New Mexico? /
+aa,B,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,B,from/IN New/NNP Mexico/NNP ./.,from New Mexico. /
+bk,A,Okay/UH ./.,Okay. /
+^h,B,"So/RB ./. Let/VB 's/PRP see/VB ,/,","{D So. } Let's see, /"
+qh,B,what/WP else/RB ?/.,what else? /
+sd,B,I/PRP started/VBD collecting/VBG music/NN boxes/NNS ./.,I started collecting music boxes. /
+sd,B,I/PRP guess/VBP that/DT 's/BES a/DT hobby/NN ./.,I guess that's a hobby. /
+aa,A,Yeah/UH,Yeah /
+sd,A,that/DT is/VBZ ./.,that is. /
+%,B,So/UH ./.,{D So. } -/
+ba,A,That/DT 's/BES interesting/JJ ./.,That's interesting. /
+qw,A,How/WRB many/JJ music/NN boxes/NNS do/VBP you/PRP have/VB ?/.,How many music boxes do you have? /
+sd,B,"Probably/RB o-/XX ,/, uh/UH ,/, about/RB twenty/CD ./.","Probably [ o-, + {F uh, } about ] twenty. /"
+qy,A,Do/VBP they/PRP all/DT play/VB different/JJ songs/NNS --/:,Do they all play different songs -- /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+qrr,A,--/: or/CC do/VBP some/DT of/IN them/PRP play/VB the/DT same/JJ song/NN ?/.,-- {C or } do some of them play the same song? /
+sd,B,"They/PRP ,/, they/PRP all/DT play/VBP different/JJ songs/NNS ./.","[ They, + they ] all play different songs. /"
+ba,A,"Well/UH ,/, that/DT 's/BES neat/JJ ./.","{D Well, } that's neat. /"
+qw,A,What/WP 's/BES the/DT most/RBS expensive/JJ one/CD you/PRP bought/VBD ?/.,What's the most expensive one you bought? /
+b^m,B,The/DT most/RBS expensive/JJ ./.,The most expensive. /
+sd,B,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+sd,B,I/PRP 've/VBP gotten/VBN all/DT of/IN them/PRP for/IN gifts/NNS ./.,I've gotten all of them for gifts. /
+%,B,I/PRP do/VBP n't/RB --/:,I don't -- -/
+b,A,"Oh/UH ,/, really/UH ./.","{F Oh, } really. /"
+sd,B,--/: MUMBLEx/XX bought/VBD a/DT few/JJ of/IN them/PRP ./.,-- (( )) bought a few of them. /
+sd,B,"I/PRP usually/RB get/VBP them/PRP for/IN Christmas/NNP gifts/NNS or/CC ,/, and/CC like/IN when/WRB people/NNS go/VBP ,/, you/PRP know/VBP ,/, to/IN ,/, on/IN trips/NNS or/CC something/NN ./.","I usually get them for Christmas gifts [ or, + and ] {D like } when people go, {D you know, } [ to, + on ] trips or something. /"
+ba,A,"Well/UH ,/, that/DT 's/BES interesting/JJ ./.","{D Well, } that's interesting. /"
+sd,A,"It/PRP used/VBD to/TO be/VB tea/NN spoons/NNS ,/, was/VBD the/DT thing/NN ./.","It used to be tea spoons, was the thing. /"
+aa,B,That/DT 's/BES true/JJ ./.,That's true <laughter>. /
+sd,B,"I/PRP never/RB collected/VBD those/DT ,/, never/RB collected/VBN those/DT ./.","I [ never collected those, + never collected those. ] /"
+ba,A,"Well/UH ,/, that/DT 's/BES interesting/JJ ,/, music/NN boxes/NNS ./.","{D Well, } that's interesting, music boxes. /"
+sd,B,I/PRP have/VBP dolls/NNS from/IN all/DT over/IN too/RB ./.,I have dolls from all over too. /
+sd,B,"That/WDT I/PRP started/VBD when/WRB I/PRP was/VBD a/DT little/JJ girl/NN ,/,","That I started when I was a little girl, /"
+sd,B,and/CC I/PRP have/VBP a/DT lot/NN of/IN dolls/NNS ./.,{C and } I have a lot of dolls. /
+%,A,MUMBLEx/XX ./.,(( )) . /
+sd,B,"People/NNS would/MD always/RB bring/VB them/PRP when/WRB they/PRP go/VBP to/IN the/DT countries/NNS ,/,","People would always bring them when they go to the countries, /"
+sd,B,"and/CC ,/, um/UH ,/, and/CC I/PRP did/VBD that/DT when/WRB I/PRP went/VBD to/IN Europe/NNP one/DT summer/NN ./.","[ {C and, } + {F um, } {C and } ] I did that when I went to Europe one summer. /"
+sd,B,"I/PRP bought/VBD a/DT doll/NN everywhere/RB we/PRP went/VBD ,/,","I bought a doll everywhere we went <laughter>, /"
+%,B,so/RB ./.,{C so. } -/
+qo,A,Well/UH how/WRB was/VBD Europe/NNP ?/.,Well how was Europe? /
+sd,B,MUMBLEx/XX economy/NN ./.,(( )) economy. /
+sd,B,"It/PRP was/VBD great/JJ ,/,","It was great, /"
+sd,B,it/PRP was/VBD quick/JJ ./.,it was quick. /
+sd,B,"I/PRP was/VBD in/IN ,/, I/PRP was/VBD in/IN high/JJ school/NN ,/,","[ I was in, + I was in ] high school, /"
+sd,B,"and/CC I/PRP was/VBD in/IN a/DT tour/NN ,/,","{C and } I was in a tour, /"
+sd,B,"and/CC we/PRP went/VBD all/DT ,/,","{C and } we went all, <inhaling> - /"
+sd,B,"it/PRP 's/BES kind/RB of/RB a/DT ,/, it/PRP 's/BES kind/RB of/RB to/TO establish/VB better/JJR rapport/NN with/IN the/DT different/JJ countries/NNS ,/,","[ it's kind of a, + it's kind of to ] establish better rapport with the different countries, /"
+sd,B,"and/CC ,/, um/UH ,/, it/PRP was/VBD called/VBN People/NNP to/IN People/NNP ,/,","{C and, } {F um, } it was called People to People, /"
+sd,B,"and/CC we/PRP 'd/VBD stay/VB in/IN people/NNS 's/POS homes/NNS ,/,","{C and } we'd stay in people's homes, /"
+sd,B,"and/CC then/RB we/PRP got/VBD to/TO also/RB tour/VB big/JJ cities/NNS ,/,","{C and then } we got to also tour big cities, /"
+sd,B,and/CC I/PRP really/RB enjoyed/VBD it/PRP ./.,{C and } I really enjoyed it. /
+qy,A,Was/VBD that/DT in/IN high/JJ school/NN --/:,Was that in high school -- /
+ny,B,Uh-huh/UH --/:,Uh-huh -- /
+qrr,A,--/: or/CC was/VBD that/DT a/DT college/NN thing/NN ?/.,-- {C or } was that a college thing? /
+sd,B,--/: in/IN was/VBD in/IN high/JJ school/NN ./.,-- in was in high school. /
+sd,B,"So/RB I/PRP 'd/MD like/VB to/TO go/VB back/RB ,/, because/IN we/PRP had/VBD ,/, you/PRP know/VBP ,/,","{C So } I'd like to go back, because we had, {D you know, } - /"
+sd,B,everything/NN was/VBD rushed/VBN --/:,everything was rushed -- /
+aa,A,I/PRP bet/VBP ./.,I bet. /
+sd,B,"--/: everything/NN was/VBD like/IN an/DT hour/NN or/CC two/CD hours/NNS at/IN the/DT Louvre/NNP ,/, you/PRP know/VBP ,/, things/NNS like/IN that/DT where/WRB you/PRP need/VBP the/DT whole/JJ day/NN ,/,","-- everything was {D like } an hour or two hours at the Louvre, {D you know, } <laughter> things like that where you need the whole day, /"
+%,B,but/CC --/:,[ {C but } -- +
+b,A,Right/UH ./.,Right. /
++,B,"--/: but/IN it/PRP really/RB ,/,","-- {C but } ] it really, -/"
+sv,A,That/DT 's/BES where/WRB a/DT camcorder/NN would/MD come/VB in/IN handy/JJ ./.,That's where a camcorder would come in handy. /
+aa,B,"Exactly/RB ,/,","Exactly, /"
+aa,B,that/DT 's/BES true/JJ ./.,that's true. /
+ba,A,Well/UH that/DT sounds/VBZ real/RB neat/JJ ./.,{D Well } that sounds real neat. /
+qy,A,"So/UH you/PRP ,/, you/PRP have/VBP n't/RB been/VBN back/RB to/IN Europe/NNP since/IN then/RB ,/, huh/UH ?/.","{C So } [ you, + you ] haven't been back to Europe since then, huh? /"
+nn,B,"No/UH ,/,","No, /"
+sd,B,"I/PRP always/RB thought/VBD I/PRP would/MD ,/,","I always thought I would, /"
+qh,B,but/CC who/WP knows/VBZ now/RB ./.,{C but } who knows now. /
+sd,B,"I/PRP got/VBD married/JJ and/CC ,/, maybe/RB some/DT day/NN ./.","I got married and, maybe some day. /"
+sd,B,Maybe/RB it/PRP 's/BES one/CD of/IN those/DT retirement/NN things/NNS ./.,Maybe it's one of those retirement things <laughter>. /
+aa,A,There/RB you/PRP go/VBP ./.,There you go. /
+qy,A,"Well/UH ,/, does/VBZ you/PRP husband/NN ,/, uh/UH ,/,","{D Well, } does you husband, {F uh, } - /"
+qw,A,"what/WP does/VBZ he/PRP think/VB of/IN your/PRP$ ,/, uh/UH ,/, T/NN shirts/NNS and/CC ,/,","what does he think of your, {F uh, } T shirts and, -/"
+sd,B,"Well/UH ,/, he/PRP likes/VBZ it/PRP all/RB right/JJ ./.","{D Well, } he likes it all right. /"
+sd,B,"He/PRP 's/HVS been/VBN pretty/RB good/JJ ,/, because/IN there/EX 's/BES T/NN shirt/NN stuff/NN all/DT over/IN the/DT house/NN ./.","He's been pretty good, because there's T shirt stuff all over the house. /"
+qy,A,Does/VBZ he/PRP help/VB out/RP much/RB,Does he help out much /
+%,A,"or/CC ,/,","{C or, } -/"

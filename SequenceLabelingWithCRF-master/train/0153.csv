@@ -1,0 +1,139 @@
+act_tag,speaker,pos,text
+sd,B,"So/UH ,/, the/DT ques-/NN ,/, the/DT question/NN had/VBD something/NN to/TO do/VB with/IN usage/NN of/IN personal/JJ computers/NNS ,/, um/UH ./.","{D So, } [ the ques-, + the question ] had something to do with usage of personal computers, {F um. } /"
+aa,A,"Yes/UH ,/,","Yes, /"
+sd,A,"we/PRP are/VBP ,/, we/PRP are/VBP talking/VBG about/IN computers/NNS this/DT morning/NN ./.","[ we are, + we are ] talking about computers this morning. /"
+sd,B,"Um/UH ,/, I/PRP 'm/VBP a/DT firm/JJ believer/NN in/IN ,/, in/IN having/VBG lots/NNS of/IN them/PRP ./.","{F Um, } I'm a firm believer [ in, + in ] having lots of them. /"
+sd,B,I/PRP 'm/VBP sitting/VBG at/IN my/PRP$ desk/NN now/RB with/IN four/CD machines/NNS in/IN front/NN of/IN me/PRP ./.,I'm sitting at my desk now with four machines <laughter> in front of me. /
+bf,A,"You/PRP have/VBP ,/, you/PRP have/VBP four/CD machines/NNS around/IN you/PRP ,/,","<Laughter> [ You have, + you have ] four machines around you, /"
+sd,A,"boy/UH ,/, well/UH ,/, you/PRP 've/VBP ,/, uh/UH ,/, you/PRP 've/VBP got/VBN me/PRP beat/VBN ./.","boy, {D well, } [ you've, + {F uh, } you've ] got me beat. /"
+sd,A,"I/PRP have/VBP a/DT ,/, a/DT Zenith/NNP here/RB --/:","I have [ a, + a ] Zenith here -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC at/IN home/NN I/PRP have/VBP a/DT Commodore/NNP --/:,-- {C and } at home I have a Commodore --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC a/DT Zenith/NNP ,/,","-- and a Zenith, /"
+sd,A,"and/CC my/PRP$ wife/NN has/VBZ an/DT A/NNP T/NNP and/CC T/NNP Twelve/CD Hundred/CD ,/, I/PRP believe/VBP it/PRP is/VBZ ./.","{C and } my wife has an A T and T Twelve Hundred, I believe it is. /"
+ba,B,Good/JJ grief/NN ./.,Good grief. /
+qo,B,What/WP do/VBP you/PRP do/VB with/IN all/PDT those/DT ?/.,What do you do with all those? /
+sd,A,"Well/UH ,/, actually/UH on/IN my/PRP$ Commodore/NNP I/PRP mainly/RB study/VBP lottery/NN numbers/NNS ,/, would/MD you/PRP believe/VB ./.","{D Well, } {D actually } on my Commodore I mainly study lottery numbers, would you believe. /"
+sd,A,"I/PRP have/VBP written/VBN some/DT ,/, uh/UH ,/, programs/NNS in/IN Basic/NNP --/:","I have written some, {F uh, } programs in Basic --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: whereby/WRB I/PRP can/MD select/VB any/DT number/NN of/IN ,/, uh/UH ,/, drawings/NNS --/:","-- whereby I can select any number of, {F uh, } drawings --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: and/CC from/IN that/DT extract/VB the/DT numbers/NNS that/WDT have/VBP appeared/VBN the/DT most/RBS --/:,-- and from that extract the numbers that have appeared the most -- /
+b,B,Right/UH ./.,Right. /
+sd,A,"--/: I/PRP have/VBP another/DT program/NN in/IN which/WDT I/PRP can/MD look/VB at/IN the/DT cyclical/JJ ,/, uh/UH ,/, appearance/NN of/IN these/DT numbers/NNS --/:","-- I have another program in which I can look at the cyclical, {F uh, } appearance of these numbers --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: to/TO see/VB if/IN there/EX 's/BES anything/NN that/WDT 's/BES consistent/JJ on/IN that/DT ./.,-- to see if there's anything that's consistent on that. /
+sd,A,"I/PRP have/VBP another/DT number/NN that/WDT allows/VBZ me/PRP ,/, another/DT program/NN that/WDT allows/VBZ me/PRP to/TO add/VB all/PDT the/DT numbers/NNS I/PRP want/VBP ,/,","I have [ another number that allows me, + another program that allows me ] to add all the numbers I want, /"
+sd,A,and/CC then/RB it/PRP generates/VBZ a/DT complete/JJ set/NN of/IN numbers/NNS so/IN that/IN all/DT combinations/NNS are/VBP covered/VBN --/:,{C and then } it generates a complete set of numbers so that all combinations are covered -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: so/RB this/DT is/VBZ what/WP I/PRP do/VBP most/JJS of/IN the/DT time/NN ,/, uh/UH ,/,","-- {C so } this is what I do most of the time, {F uh, } /"
+qy^d,B,"That/DT 's/BES what/WP you/PRP do/VBP on/IN your/PRP$ ,/, at/IN least/JJS one/CD of/IN your/PRP$ machines/NNS --/:","That's what you do on [ your, + at least one of your ] machines -- /"
+na,A,On/IN my/PRP$ Commodore/NNP --/:,On my Commodore -- /
+b,B,--/: on/IN your/PRP$ Commodore/NNP ./.,-- on your Commodore. /
+na,A,"--/: on/IN my/PRP$ Commodore/NNP ,/,","-- on my Commodore, /"
+%,A,uh-huh/UH ./.,uh-huh. /
+sd,A,"And/CC of/IN course/NN I/PRP have/VBP ,/, uh/UH ,/, word/NN processors/NNS ,/,","{C And } of course I have, {F uh, } word processors, /"
+sd,A,and/CC I/PRP write/VBP all/DT my/PRP$ letters/NNS --/:,{C and } I write all my letters -- /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: it/PRP 's/BES wonderful/JJ ,/, uh/UH ,/,","-- it's wonderful, {F uh, } /"
+sd,A,"my/PRP$ ,/, uh/UH ,/, thoughts/NNS in/IN my/PRP$ head/NN --/:","my, {F uh, } thoughts in my head --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: come/VBP in/IN bursts/NNS of/IN about/RB a/DT paragraph/NN at/IN a/DT time/NN ,/,","-- come in bursts of about a paragraph at a time, /"
+sd,A,and/CC I/PRP get/VBP --/:,{C and } I get --
+b,B,Yes/UH ./.,Yes. /
++,A,"--/: them/PRP all/DT down/RB ,/,","-- them all down, /"
+sv,A,"and/CC naturally/RB on/IN a/DT computer/NN if/IN you/PRP make/VBP a/DT mistake/NN ,/, who/WP cares/VBZ ,/,","{C and } naturally on a computer if you make a mistake, who cares, /"
+sv,A,"you/PRP can/MD go/VB back/RB and/CC ,/, uh/UH ,/, correct/VB it/PRP very/RB easily/RB --/:","you can go back and, {F uh, } correct <laughter> it very easily -- /"
+aa,B,"Yes/UH ,/,","Yes, /"
+aa,B,yes/UH ./.,yes. /
+sv,A,"--/: so/RB that/DT makes/VBZ it/PRP very/RB ,/, very/RB nice/JJ ./.","-- {C so } that makes it very, very nice. /"
+sd,A,"I/PRP get/VBP all/DT my/PRP$ thoughts/NNS down/RB and/CC go/VBP back/RB and/CC clean/VBP it/PRP up/RP very/RB ,/, very/RB readily/RB ./.","I get all my thoughts down and go back and clean it <laughter> up very, very readily. /"
+qo,A,"So/RB how/WRB about/IN you/PRP ,/, Charles/NNP ?/.","{D So } how about you, Charles? /"
+sd,B,"Well/UH ,/, I/PRP ,/, um/UH ,/, I/PRP do/VBP an/DT awful/JJ lot/NN of/IN preparation/NN of/IN documents/NNS ,/, um/UH ,/, uh/UH ,/,","{D Well, } [ I, + {F um, } I ] do an awful lot of preparation of documents, {F um, } {F uh, } /"
+sd,B,"and/CC I/PRP use/VBP word/NN processors/NNS and/CC ,/, and/CC fancier/JJR programs/NNS ,/, I/PRP mean/VBP --/:","{C and } I use word processors [ and, + and ] [ fancier programs, + {E I mean } --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: you/PRP know/VBP ,/, graphics/NNS programs/NNS and/CC simply/RB make/VBP all/DT of/IN our/PRP$ slides/NNS ,/,","-- {D you know, } graphics programs ] and simply make all of our slides, /"
+sd,B,"some/DT of/IN them/PRP I/PRP do/VBP on/IN a/DT Sun/NNP ,/,","some of them I do on a Sun, /"
+sd,B,some/DT I/PRP do/VBP on/IN an/DT X/NNP T/NNP --/:,some I do on an X T -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"--/: now/UH maybe/RB we/PRP do/VBP n't/RB call/VB these/DT personal/JJ computers/NNS ,/, um/UH ,/,","-- {D now } maybe we don't call these personal computers, {F um, } /"
+sd,B,"I/PRP started/VBD out/RP with/IN ,/, you/PRP know/VBP ,/, an/DT I/NNP B/NNP M/NNP P/NN C/NN back/RB in/IN the/DT ,/, you/PRP know/VBP ,/, about/RB a/DT year/NN after/IN they/PRP came/VBD out/RB --/:","I started out with, {D you know, } an I B M P C [ back in the, + {D you know, } about a year ] after they came out -- /"
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"--/: and/CC ,/, you/PRP know/VBP ./.","-- {C and, } {D you know. } -/"
+qw,A,"So/RB ,/, whe/WRB ,/, where/WRB ,/, may/MD I/PRP ask/VB where/WRB you/PRP work/VBP ,/, sir/NN ?/.","{D So, } [ [ whe-, + where, ] + may I ask where ] you work, sir? /"
+sd,B,I/PRP work/VBP for/IN the/DT government/NN in/IN Washington/NNP ./.,I work for the government in Washington. /
+sd,A,"I/PRP know/VBP you/PRP work/VBP for/IN the/DT government/NN ,/,","I know you work for the government, /"
+qy,A,"I/PRP just/RB wondering/VBG are/VBP you/PRP an/DT MUMBLEx/XX ,/,","I just wondering are you an (( )) , /"
+qrr,A,"or/CC what/WP ,/, what/WP ,/, what/WP section/NN of/IN it/PRP ,/,","or [ [ what, + what, ] + what ] section of it, /"
+sd,B,"Of/IN ,/, in/IN ,/, in/IN ,/, in/IN an/DT obscure/JJ part/NN of/IN the/DT defense/NN department/NN ./.","[ [ [ Of, + in, ] + in, ] + in ] an obscure part of the defense department. /"
+b,A,"Oh/UH ,/, uh-huh/UH ,/,","{F Oh, } uh-huh, /"
+sd,A,"because/IN ,/, see/VB ,/, that/DT 's/BES my/PRP$ type/NN of/IN work/NN ,/, too/RB ./.","{C because, } {D see, } that's my type of work, too. /"
+sd,A,I/PRP work/VBP at/IN the/DT Applied/NNP Research/NNP Lab/NNP --/:,I work at the Applied Research Lab --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: here/RB ,/, here/RB on/IN campus/NN ,/,","-- [ here, + here ] on campus, /"
+sd,A,"and/CC ,/, my/PRP$ ,/, my/PRP$ field/NN is/VBZ underwater/JJ acoustics/NN --/:","{C and, } [ my, + my ] field is underwater acoustics -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC there/EX 's/BES a/DT lot/NN of/IN things/NNS we/PRP can/MD do/VB with/IN computers/NNS into/IN ,/, uh/UH ,/, studying/VBG how/WRB ,/, uh/UH ,/, things/NNS vary/VBP in/IN the/DT water/NN ,/, you/PRP know/VBP --/:","-- {C and } there's a lot of things we can do with computers into, {F uh, } studying how, {F uh, } things vary in the water, {D you know } --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC ,/, uh/UH ,/, taking/VBG advantage/NN of/IN them/PRP ,/, and/CC so/RB forth/RB ,/,","-- and, {F uh, } taking advantage of them, and so forth, /"
+sd,A,"so/RB it/PRP 's/BES a/DT very/RB nice/JJ ,/, very/RB nice/JJ field/NN ,/,","{C so } it's a [ very nice, + very nice ] field, /"
+sd,A,"and/CC I/PRP ,/, I/PRP am/VBP retiring/VBG at/IN the/DT end/NN of/IN this/DT month/NN ./. End/NN of/IN December/NNP ,/, excuse/VB me/PRP ./.","{C and } [ I, + I ] am retiring at the [ end of this month. + End of December, ] {E excuse me. } /"
+qy,B,"Are/VBP ,/, are/VBP ,/, are/VBP you/PRP ,/, are/VBP you/PRP also/RB a/DT professor/NN ,/,","[ [ [ Are, + are, ] + are you, ] + are you ] also a professor, /"
+qrr,B,"or/CC ,/, or/CC do/VBP you/PRP --/:","[ {C or, } + {C or } ] do you --"
+ny,A,Yes/UH ./.,Yes. /
++,B,--/: just/RB research/VB ./.,-- just research. /
+sd,A,"I/PRP 'm/VBP a/DT ,/, I/PRP 'm/VBP an/DT associate/JJ professor/NN ,/,","[ I'm a, + I'm an ] associate professor, /"
+sd,A,"but/CC my/PRP$ ,/, I/PRP ,/, I/PRP 'm/VBP a/DT full/JJ time/NN researcher/NN --/:","{C but } [ [ my, + I, ] + I'm ] a full time researcher -- /"
+b,B,Yes/UH ./.,Yes. /
+sd,A,"--/: and/CC it/PRP 's/HVS ,/, uh/UH ,/, been/VBN a/DT very/RB ,/, very/RB interesting/JJ career/NN ,/, believe/VB me/PRP ./.","-- {C and } it's, {F uh, } been a very, very interesting career, believe me. /"
+ba,B,I/PRP can/MD believe/VB ./.,I can believe. /
+x,A,,<Laughter>.
+qy,B,"What/WP are/VBP you/PRP going/VBG to/TO ,/, what/WP are/VBP you/PRP going/VBG to/TO do/VB when/WRB you/PRP stop/VBP ,/, I/PRP mean/VBP ,/, take/VB all/DT your/PRP$ machines/NNS with/IN you/PRP ,/, or/CC ,/,","[ What are you going to, + what are you going to ] do when you stop, {E I mean, } take all your machines with you, or, -/"
+ng,A,"Well/UH ,/, uh/UH ,/, the/DT ones/NNS here/RB in/IN the/DT laboratory/NN obviously/RB I/PRP 'm/VBP ,/, they/PRP 're/VBP going/VBG to/TO stay/VB ,/,","{D Well, } {F uh, } the ones here in the laboratory obviously [ I'm, + they're ] going to stay, /"
+sd,A,but/CC I/PRP have/VBP similar/JJ machines/NNS at/IN home/NN ./.,{C but } I have similar machines at home. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,I/PRP would/MD consider/VB doing/VBG some/DT more/JJR consulting/NN when/WRB I/PRP get/VBP home/RB --/:,I would consider doing some more consulting when I get home -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: but/CC I/PRP have/VBP a/DT very/RB ,/, very/RB busy/JJ extra/JJ life/NN anyway/RB ./.","-- {C but } I have a very, very busy extra life anyway. /"
+sd,A,"I/PRP 'm/VBP also/RB a/DT musician/NN ,/,","I'm also a musician, /"
+sd,A,and/CC I/PRP play/VBP in/IN several/JJ symphony/NN orchestras/NNS --/:,{C and } I play in several symphony orchestras -- /
+b,B,Yes/UH ./.,Yes. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, I/PRP run/VBP a/DT concert/NN band/NN ,/,","-- {C and, } {F uh, } I run a concert band, /"
+sd,A,and/CC --/:,{C and --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: so/RB I/PRP have/VBP a/DT lot/NN of/IN external/JJ ,/, uh/UH ,/, interests/NNS --/:","-- so } I have a lot of external, {F uh, } interests -- /"
+b,B,Yes/UH ./.,Yes. /
+sv,A,"--/: but/CC I/PRP do/VBP want/VB to/TO get/VB very/RB deeply/RB ,/, much/RB more/RBR deeply/RB into/IN computer/NN work/NN ,/, because/IN obviously/RB the/DT world/NN is/VBZ going/VBG to/TO be/VB controlled/VBN --/:","-- {C but } I do want to get [ very deeply, + much more deeply ] into computer work, because obviously the world is going to be controlled --"
+b,B,Yes/UH ./.,Yes. /
++,A,--/: run/VBN and/CC operated/VBN --/:,-- run and operated --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: by/IN computers/NNS in/IN the/DT future/NN ./.,-- by computers in the future. /
+sv,A,"There/EX 's/BES no/DT doubt/NN about/IN it/PRP ,/,","There's no doubt about it, /"
+sv,A,"because/IN it/PRP is/VBZ really/RB taking/VBG over/RP ,/,","{C because } it is really taking over, /"
+sd,A,"and/CC the/DT amount/NN of/IN work/NN that/WDT we/PRP 're/VBP doing/VBG and/CC the/DT depth/NN of/IN things/NNS that/WDT we/PRP are/VBP studying/VBG can/MD basically/RB only/RB be/VB handled/VBN by/IN computers/NNS ,/, because/IN ,/, uh/UH ,/, it/PRP 's/BES so/RB much/RB involved/VBN --/:","{C and } the amount of work that we're doing and the depth of things that we are studying can basically only be handled by computers, because, {F uh, } it's so much <laughter> involved -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC it/PRP sounds/VBZ as/IN though/IN you/PRP 're/VBP probably/RB more/RBR aware/JJ of/IN that/DT than/IN I/PRP am/VBP ,/, because/IN ,/, uh/UH ,/, I/PRP do/VBP n't/RB get/VB to/TO use/VB it/PRP in/IN my/PRP$ daily/JJ work/NN as/RB much/JJ as/IN I/PRP would/MD like/VB to/TO ./.","-- {C and } it sounds as though you're probably more aware of that than I am, because, {F uh, } I don't get to use it in my daily work as much as I would like to. /"
+sd,A,Here/RB again/RB --/:,Here again --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: let/VB 's/PRP say/VB I/PRP 'm/VBP starting/VBG to/TO getting/VBG ready/JJ ,/, in/IN preparation/NN for/IN retirement/NN --/:","-- let's say I'm starting to getting ready, in preparation for retirement -- /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, so/RB basically/RB what/WP I/PRP 'm/VBP doing/VBG is/VBZ slowly/RB getting/VBG rid/VBN of/IN my/PRP$ things/NNS ./.","-- [ {C and, } + {F uh, } {C so } ] basically what I'm doing is slowly getting rid of my things. /"
+sd,A,"For/IN many/JJ ,/, many/JJ years/NNS I/PRP had/VBD a/DT full/JJ size/NN acoustics/NN ,/, uh/UH ,/, study/NN laboratory/NN --/:","For many, many years I had a full size acoustics, {F uh, } study laboratory --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: whe/WRB ,/, where/WRB I/PRP could/MD take/VB recordings/NNS and/CC ,/, and/CC ,/, uh/UH ,/, perform/VB experiments/NNS --/:","-- [ whe-, + where ] I could take recordings [ and, + and, ] {F uh, } perform experiments --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: with/IN them/PRP and/CC so/RB forth/RB ,/,","-- with them and so forth, /"
+sd,A,"and/CC so/RB that/DT 's/BES gone/VBN now/RB ,/,","{C and so } that's gone now, /"
+sd,A,and/CC so/RB I/PRP 'm/VBP sort/RB of/RB out/IN of/IN business/NN ./.,{C and so } I'm sort of out of business. /
+b,B,Um/UH ./.,{F Um. } /
+sd,A,"Uh/UH ,/, as/IN I/PRP say/VBP ,/, I/PRP worked/VBD with/IN MUMBLEx/XX","{F Uh, } as I say, I worked with (( )) /"
+sd,A,fellow/NN named/VBN Steve/NNP Blazey/NNP --/:,fellow named Steve Blazey --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: was/VBD the/DT fellow/NN I/PRP worked/VBD with/IN for/IN many/JJ ,/, many/JJ years/NNS --/:","-- was the fellow I worked with for many, many years -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC he/PRP is/VBZ now/RB retired/JJ ./.,-- {C and } he is now retired. /
+sd,A,"So/RB it/PRP 's/HVS been/VBN an/DT interesting/JJ life/NN ,/,","{C So } it's been an interesting life, /"
+sd,A,and/CC computers/NNS have/VBP come/VBN in/RB towards/IN the/DT latter/JJ end/NN of/IN that/DT ./.,{C and } computers have come in towards the latter end of that. /
+sd,A,I/PRP wish/VBP we/PRP had/VBD had/VBN computers/NNS in/IN the/DT very/JJ beginning/NN ./.,I wish we had had computers in the very beginning. /
+%,A,"It/PRP would/MD have/VB been/VBN ,/,","It would have been, -/"

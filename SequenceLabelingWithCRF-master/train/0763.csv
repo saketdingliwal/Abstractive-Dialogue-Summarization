@@ -1,0 +1,127 @@
+act_tag,speaker,pos,text
+sd,A,"Well/UH my/PRP$ exercise/NN program/NN consists/VBZ of/IN ,/, uh/UH ,/, you/PRP know/VBP ,/,","{D Well } my exercise program consists of, {F uh, } {D you know, } - /"
+sd,A,"it/PRP 's/BES ,/, it/PRP 's/BES a/DT opportunity/NN to/TO stay/VB alive/JJ really/RB ./.","[ it's, + it's ] a opportunity to stay alive really."
+%,B,Huh/UH ./.,<Music> <TV> {F Huh. } /
++,A,"Instead/RB of/IN ,/, you/PRP know/VBP ,/, wasting/VBG my/PRP$ ,/, my/PRP$ ,/, the/DT ,/, you/PRP know/VBP ,/, the/DT ,/, trying/VBG to/TO exist/VB on/IN the/DT latency/NN of/IN my/PRP$ youth/NN ,/, the/DT good/JJ health/NN of/IN my/PRP$ youth/NN ./.","Instead of, {D you know, } [ wasting [ [ [ my, + my, ] + the, ] + {D you know, } the, ] + trying ] to exist on [ the latency of my youth, + the good health of my youth. ] /"
+%,A,"I/PRP 'm/VBP ,/,","I'm, - /"
+sd,A,and/CC what/WP I/PRP like/VBP to/TO do/VB is/VBZ I/PRP like/VBP to/TO stretch/VB out/RP,{C and } what I like to do is I like to stretch out /
+sd,A,"and/CC I/PRP like/VBP to/TO run/VB ,/, uh/UH ,/, m-/XX ,/,","{C and } I like to run, {F uh, } m-, - /"
+sd,A,"I/PRP 'm/VBP ,/, I/PRP like/VBP to/TO run/VB ,/, get/VB my/PRP$ heartbeat/NN up/RP ./.","[ I'm, + I like ] to run, get my heartbeat up. /"
+sd,A,"I/PRP like/VBP to/TO run/VB about/RB ,/, oh/UH ,/, about/RB two/CD ,/, two/CD and/CC a/DT half/NN miles/NNS ./.","I like to run [ about, + {F oh, } about ] [ two, + two ] and a half miles. /"
+sd,A,"And/CC then/RB I/PRP like/VBP to/TO work/VB out/IN on/IN ,/, uh/UH ,/, on/IN the/DT ,/, uh/UH ,/, the/DT Bailey/NNP Life/NNP C-/NNP ,/, Cycle/NNP machines/NNS up/IN here/RB at/IN the/DT ,/, at/IN the/DT Holiday/NNP Spa/NNP ./.","{C And then } I like to work out [ on, + {F uh, } on ] [ the, + {F uh, } the ] Bailey Life [ C-, + Cycle ] machines up here [ at the, + at the ] Holiday Spa. /"
+%,A,"And/CC ,/, and/CC I/PRP ,/, I/PRP think/VBP that/IN ,/, you/PRP know/VBP ,/,","[ {C And, } + {C and } ] [ I, + I ] think that, {D you know, } - /"
+sd,A,"I/PRP 've/VBP had/VBN a/DT regiment/NN now/RB for/IN about/RB ,/, you/PRP know/VBP ,/, ten/CD ,/, fifteen/CD years/NNS of/IN ,/, of/IN doing/VBG that/DT","I've had a regiment now for about, {D you know, } ten, fifteen years [ of, + of ] doing that /"
+sd,A,"and/CC ,/, uh/UH ,/, and/CC I/PRP ,/, I/PRP kind/RB of/RB think/VBP it/PRP 's/BES ,/, uh/UH ,/, it/PRP 's/BES a/DT lot/NN of/IN work/NN","[ {C and, } + {F uh, } {C and } ] [ I, + I ] kind of think [ it's, + {F uh, } it's ] a lot of work /"
+sd,A,"but/CC I/PRP think/VBP it/PRP 's/BES ,/, uh/UH ,/, it/PRP 's/BES a/DT lot/NN of/IN work/NN","{C but } I think [ it's, + {F uh, } it's ] a lot of work /"
+sd,A,"but/CC I/PRP think/VBP it/PRP 's/BES ,/, uh/UH ,/, it/PRP 's/BES the/DT ,/, uh/UH ,/, the/DT amount/NN of/IN effort/NN that/WDT 's/BES required/VBN to/TO ,/, uh/UH ,/, to/TO stay/VB healthy/JJ ,/, you/PRP know/VBP ./.","{C but } I think [ it's, + {F uh, } it's ] [ the, + {F uh, } the ] amount of effort that's required [ to, + {F uh, } to ] stay healthy, {D you know. } /"
+sd,A,I/PRP have/VBP a/DT sedentary/JJ job/NN,I have a sedentary job /
+sv,A,"and/CC ,/, uh/UH ,/, unless/IN you/PRP do/VBP something/NN like/IN that/DT ,/, y-/XX ,/, you/PRP 're/VBP going/VBG to/TO get/VB sick/JJ ./.","{C and, } {F uh, } unless you do something like that, [ y-, + you're ] going to get sick. /"
+aa,B,Right/UH ./.,Right. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP need/VBP to/TO get/VB ,/,","[ I'm, + I ] need to get, - /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP pretty/RB bad/JJ about/IN that/DT ./.","[ I'm, + I'm ] pretty bad about that. /"
+sd,B,I/PRP 'm/VBP lazy/JJ ./.,I'm lazy. /
+sd,B,"I/PRP should/MD ,/, I/PRP know/VBP","I should, I know /"
+sd,B,"I/PRP want/VBP ,/, I/PRP always/RB say/VBP that/IN I/PRP need/VBP to/TO get/VB run-/XX ,/, start/VB running/VBG","[ I want, + I always say that I need ] to [ get run-, + start running ] /"
+sd,B,and/CC I/PRP 'm/VBP going/VBG to/TO try/VB and/CC do/VB that/DT this/DT summer/NN ./.,{C and } I'm going to try and do that this summer. /
+sd,B,Because/IN I/PRP never/RB have/VBP time/NN ./.,{C Because } I never have time. /
+sd,B,"I/PRP ,/, I/PRP always/RB put/VBP it/PRP off/IN ./.","[ I, + I ] always put it off. /"
+sd,B,By/IN the/DT time/NN I/PRP get/VBP back/RB from/IN classes/NNS it/PRP 's/BES late/JJ at/IN night/NN,By the time I get back from classes it's late at night /
+sd,B,and/CC I/PRP do/VBP n't/RB feel/VB like/IN going/VBG back/RB over/IN to/IN the/DT gym/NN and/CC running/VBG on/IN the/DT track/NN or/CC whatever/WP ./.,{C and } I don't feel like going back over to the gym and running on the track or whatever. /
+sd,B,"Because/IN I/PRP 'm/VBP ,/, I/PRP 'm/VBP getting/VBG a/DT gut/NN here/RB ./.","{C Because } [ I'm, + I'm ] getting a gut here. /"
+sd,B,I/PRP got/VBD to/TO get/VB back/RB into/IN shape/NN ./.,I got to <laughter> get back into shape. /
+sd,A,"Well/UH ,/, I/PRP ,/, uh/UH ,/, two/CD years/NNS ago/RB I/PRP started/VBD having/VBG trouble/NN with/IN my/PRP$ knee/NN ./.","{D Well, } [ I, + {F uh, } two years ago I ] started having trouble with my knee. /"
+%,A,"And/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP 've/VBP got/VBN ,/, you/PRP know/VBP ,/,","{C And, } {F uh, } {D you know, } I've got, {D you know, } - /"
+sd,A,"I/PRP figured/VBD well/UH ,/, it/PRP 'll/MD go/VB away/RB ./.","I figured {D well, } it'll go away. /"
+sd,A,"Well/UH I/PRP s-/XX ,/, you/PRP know/VBP ,/, I/PRP 'm/VBP ,/, I/PRP 've/VBP had/VBN to/TO reduce/VB my/PRP$ program/NN ,/, reduce/VB my/PRP$ program/NN","{D Well } [ [ I s-, + {D you know, } I'm, ] + I've ] had to [ reduce my program, + reduce my program ] /"
+sd,A,and/CC I/PRP 've/VBP gained/VBN fifteen/CD pounds/NNS ./.,{C and } I've gained fifteen pounds. /
+%,B,Huh/UH ./.,{F Huh. } /
+%,A,"And/CC so/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, it/PRP 's/BES ,/, e-/XX ,/, you/PRP know/VBP ,/,","{C And so, } {F uh, } {D you know, } it's, e-, {D you know, } - /"
+sd,A,"I/PRP need/VBP to/TO get/VB back/RB into/IN swimming/NN ,/, you/PRP know/VBP ,/, instead/IN of/IN running/NN ./.","I need to get back into swimming, {D you know, } instead of running. /"
+sd,A,"If/IN I/PRP ca/MD n't/RB swim/VB or/CC I/PRP ca/MD n't/RB run/VB ,/, I/PRP should/MD be/VB able/JJ to/TO swim/VB ./.","[ If I can't swim + {E or } I can't run, ] I should be able to swim. /"
+sd,A,Well/UH I/PRP 'm/VBP such/PDT a/DT terrible/JJ swimmer/NN,{D Well } I'm such a terrible swimmer /
+sd,A,"and/CC I/PRP ,/, I/PRP ,/, I/PRP really/RB feel/VBP I/PRP can/MD ,/, I/PRP can/MD dedicate/VB about/RB an/DT hour/NN ,/, an/DT hour/NN and/CC fifteen/CD minutes/NNS f-/XX ,/IN to/TO this/DT effort/NN ./.","{C and } [ [ I, + I, ] + I ] really feel [ I can, + I can ] dedicate about [ an hour, + an hour ] and fifteen minutes [ f-, + to ] this effort. /"
+sd,A,"But/CC if/IN it/PRP gets/VBZ longer/JJR than/IN that/DT I/PRP ,/, I/PRP ,/, i-/XX ,/, it/PRP ,/, I/PRP start/VBP not/RB doing/VBG anything/NN ./.","{C But } if it gets longer than that [ [ [ [ I, + I, ] + i-, ] + it, ] + I ] start not doing anything. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC so/RB ,/, so/RB I/PRP got/VBD a/DT real/JJ problem/NN in/IN that/DT regard/NN ./.","[ {C And so, } + {C so } ] I got a real problem in that regard. /"
+%,A,"Uh/UH ,/, it/PRP ,/,","{F Uh, } it, - /"
+%,A,"do/VBP ,/,","do, - /"
+sv,A,"you/PRP obviously/RB are/VBP ,/, are/VBP not/RB an/DT exercise/NN buff/NN or/CC else/RB you/PRP 'd/MD be/VB out/IN there/RB doing/VBG it/PRP ./.","you obviously [ are, + are ] not an exercise buff or else you'd be out there doing it. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP mean/VBP ,/, I/PRP do/VBP it/PRP ,/, I/PRP guess/VBP ,/,","{E I mean, } I do it, I guess, /"
+sd,B,"I/PRP 'm/VBP going/VBG to/TO do/VB it/PRP ,/, uh/UH ,/, because/IN I/PRP want/VBP to/TO get/VB in/IN shape/NN ./.","I'm going to do it, {F uh, } because I want to get in shape. /"
+sd,B,"I/PRP 'm/VBP not/RB ,/, it/PRP 's/BES not/RB something/NN I/PRP really/RB enjoy/VBP all/PDT that/DT much/RB that/DT ,/, I/PRP 'll/MD ,/, I/PRP 'll/MD probably/RB ,/,","[ I'm not, + it's not ] something I really enjoy all that much that, [ I'll, + I'll ] probably, - /"
+sd,B,"I/PRP mean/VBP once/RB I/PRP get/VBP into/IN it/PRP and/CC I/PRP ,/, if/IN I/PRP ,/, if/IN I/PRP get/VBP into/IN better/JJR shape/NN then/RB it/PRP 'll/MD be/VB ,/, it/PRP wo/MD n't/RB be/VB as/RB much/JJ of/IN a/DT ,/, a/DT chore/NN to/IN me/PRP ./.","{E I mean } once I get into it and [ [ I, + if I, ] + if I ] get into better shape then [ it'll be, + it won't be ] as much of [ a, + a ] chore to me. /"
+sv,A,"Well/UH ,/, it/PRP 's/BES ,/, it/PRP 's/BES always/RB a/DT chore/NN ./.","{D Well, } [ it's, + it's ] always a chore. /"
+sd,A,I/PRP mean/VBP --/:,{E I mean -- }
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: I/PRP started/VBD doing/VBG this/DT when/WRB I/PRP was/VBD about/RB thirty-five/CD --/:,-- I started doing this when I was about thirty-five -- /
+%,B,Huh/UH ./.,{F Huh. } /
+sd,A,--/: and/CC now/RB I/PRP 'm/VBP fifty-five/CD ./.,-- {C and } now I'm fifty-five. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP ,/, I/PRP know/VBP that/IN in/IN ,/, MUMBLEx/XX I/PRP just/RB know/VBP that/IN I/PRP 'm/VBP going/VBG to/TO get/VB blown/VBN away/RB with/IN some/DT ,/, some/DT piece/NN of/IN nonsense/NN ./.","{C And, } {F uh, } {D you know, } [ [ I, + I know that in, ] + (( )) I just know that ] I'm going to get blown away with [ some, + some ] piece of nonsense. /"
+sd,A,"Y-/PRP ,/, you/PRP know/VBP ,/, some/DT health/NN related/VBN thing/NN is/VBZ going/VBG to/TO blow/VB me/PRP away/RB ./.","{D [ Y-, + you ] know, } some health related thing is going to blow me away. /"
+sd,A,"That/DT 's/BES the/DT same/JJ way/NN ,/,","That's the same way, /"
+sd,A,I/PRP got/VBD too/RB much/JJ weight/NN on/IN right/NN now/RB ./.,I got too much weight on right now. /
+sd,A,I/PRP --/:,I --
+b,B,Right/JJ ./.,Right. /
++,A,"--/: need/VBP to/TO lose/VB fifty/CD pounds/NNS ,/, you/PRP know/VBP ./.","-- need to lose fifty pounds, {D you know. } /"
+sd,A,"I/PRP need/VBP to/TO lose/VB at/IN least/JJS twenty/CD ,/, you/PRP know/VBP ./.","I need to lose at least twenty, {D you know. } /"
+sd,A,"But/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, it/PRP 's/BES ,/, it/PRP 's/BES just/RB ,/, uh/UH ,/, I/PRP 'm/VBP busy/JJ ./.","{C But, } {F uh, } {D you know, } [ it's, + it's ] just, {F uh, } I'm busy. /"
+sd,A,I/PRP 'm/VBP doing/VBG a/DT lot/NN of/IN traveling/NN,I'm doing a lot of traveling /
+sd,A,"and/CC ,/, uh/UH ,/, it/PRP ,/, it/PRP creates/VBZ a/DT problem/NN ,/, uh/UH ,/, you/PRP know/VBP ,/, when/WRB you/PRP 're/VBP on/IN the/DT road/NN ./.","{C and, } {F uh, } [ it, + it ] creates a problem, {F uh, } {D you know, } when you're on the road. /"
+qw,A,"What/WP sort/NN of/IN ,/, uh/UH ,/, uh/UH ,/, what/WP other/JJ programs/NNS other/JJ than/IN say/VB running/NN ?/.","[ What sort of, + {F uh, } {F uh, } what other ] programs other than say running? - /"
+qy,A,"Have/VBP you/PRP ,/, have/VBP you/PRP ever/RB done/VBN anything/NN at/IN all/DT ?/.","[ Have you, + have you ] ever done anything at all? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP have/VBP ./.,I have. /
+sd,B,"Uh/UH ,/, sit-ups/NNS","{F Uh, } sit-ups /"
+sd,B,"or/CC ,/, al-/RB ,/, also/RB last/JJ summer/NN I/PRP was/VBD doing/VBG Nautilus/NNP","{C or, } [ al-, + also ] last summer I was doing Nautilus /"
+sd,B,"or/CC last/JJ year/NN I/PRP 'm/VBP ,/, uh/UH ,/, belong/VBP to/IN a/DT club/NN right/RB here/RB ./.","{C or } last year <cough> I'm, {F uh, } belong to a club right here. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,That/DT was/VBD a/DT little/JJ bit/NN too/RB much/JJ money/NN ./.,That was a little bit too much money. /
+sd,B,"But/CC ,/, uh/UH ,/, doing/VBG a/DT mix/NN of/IN Nautilus/NNP and/CC free/JJ weights/NNS ./. I/PRP like/VBP that/DT ./.","{C But, } {F uh, } doing a mix of Nautilus and free weights. I like that. /"
+qw,A,"MUMBLEx/XX club/NN ,/, what/WP club/NN are/VBP you/PRP with/IN ?/.","[ (( )) club, + what club ] are you with? /"
+br,B,I/PRP 'm/VBP sorry/JJ ?/.,I'm sorry? /
+qw,A,What/WP club/NN were/VBD you/PRP with/IN ?/.,What club were you with? /
+sd,B,"It/PRP 's/BES called/VBN ,/, oh/UH ,/, what/WP was/VBD it/PRP called/VBD ./. City/NNP Sports/NNP ,/, downtown/NN Washington/NNP ./.","It's called, {A oh, what was it called <laughter>. } City Sports, downtown Washington. /"
+bk,A,Oh/UH ./. Okay/UH ./.,{F Oh. } Okay. /
+bf,A,"So/UH you/PRP 're/VBP ,/, you/PRP 're/VBP down/NN ,/, you/PRP 're/VBP downtown/NN ./.","{C So } [ [ you're, + you're down, ] + you're downtown. ] /"
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP 'm/VBP at/IN ,/, I/PRP 'm/VBP at/IN ,/, I/PRP go/VBP to/IN George/NNP Washington/NNP University/NNP ./.","[ [ I'm at, + I'm at, ] + I go to ] George Washington University. /"
+b,A,Okay/UH ./.,Okay. /
+b,A,Yeah/UH ./.,Yeah. /
+bf,A,"You/PRP 're/VBP down/IN there/RB on/IN ,/, you/PRP know/VBP ,/, twentieth/JJ and/CC eighteenth/JJ and/CC --/:","You're down there on, {D you know, } twentieth and eighteenth and --"
+aa,B,Yeah/UH ./.,Yeah. /
++,A,--/: F/NNP G/NNP ./.,-- F G. /
+sd,B,"It/PRP 's/BES MUMBLEx/XX ,/, uh/UH ,/, Plaza/NNP ./.","It's (( )) , {F uh, } Plaza. /"
+b,A,Oh/UH ./.,Oh. /
+%,A,"Well/UH ,/, I/PRP 'd/MD ,/, uh/UH ,/,","{D Well, } I'd, {F uh, } - /"
+sd,A,"well/UH there/EX 's/BES a/DT ,/, there/EX 's/BES a/DT Holiday/NNP Spa/NNP down/IN there/RB on/IN ,/, on/IN K/NNP street/NN ,/, I/PRP think/VBP ./. Something/NN like/IN that/DT ./.","{D well } [ there's a, + there's a ] Holiday Spa down there [ on, + on ] K street, I think. Something like that. /"
+sd,A,"But/CC ,/, uh/UH ,/, I/PRP ,/, I/PRP go/VBP to/IN the/DT Holiday/NNP Spa/NNP here/RB in/IN Alexandria/NNP","{C But, } {F uh, } [ I, + I ] go to the Holiday Spa here in Alexandria /"
+sd,A,and/CC that/DT 's/BES pretty/RB good/JJ ./.,{C and } that's pretty good. /
+sd,A,"But/CC ,/, you/PRP know/VBP ,/, evening/NN time/NN it/PRP gets/VBZ pretty/RB busy/JJ ./.","{C But, } {D you know, } evening time it gets pretty busy. /"
+sd,A,"But/CC generally/RB ,/, you/PRP know/VBP ,/, I/PRP can/MD ,/, I/PRP can/MD get/VB in/IN and/CC get/VB a/DT program/NN ,/, you/PRP know/VBP ./.","{C But } generally, {D you know, } [ I can, + I can ] get in and get a program, {D you know. } /"
+b,B,Right/UH ./.,Right. /
+sd,A,"But/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP ,/, I/PRP need/VBP to/TO ,/, I/PRP need/VBP to/TO rededicate/VB myself/PRP to/IN ,/, uh/UH ,/, to/IN doing/VBG this/DT","{C But, } {F uh, } {D you know, } [ [ I, + I need to, ] + I need to ] rededicate myself [ to, + {F uh, } to ] doing this /"
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP got/VBD a/DT problem/NN ,/, uh/UH ,/, you/PRP know/VBP ,/, ever/RB since/IN my/PRP$ knee/NN went/VBD bad/JJ ,/, of/IN getting/VBG back/RB solidly/RB into/IN it/PRP ./.","{C and, } {F uh, } I got a problem, {F uh, } {D you know, } ever since my knee went bad, of getting back solidly into it. /"
+sd,A,"I/PRP mean/VBP ,/, I/PRP 've/VBP been/VBN doing/VBG this/DT for/IN fifteen/CD ,/, twenty/CD years/NNS ./.","{E I mean, } I've been doing this for fifteen, twenty years. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC ,/, you/PRP know/VBP ,/, and/CC I/PRP 'm/VBP ,/, I/PRP know/VBP I/PRP 'm/VBP going/VBG to/TO get/VB ,/, I/PRP know/VBP it/PRP 's/BES going/VBG to/TO bite/VB me/PRP in/IN the/DT ass/NN","[ {C And, } + {D you know, } {C and } ] [ [ I'm, + I know I'm going to get, ] + I know it's going to bite ] me in the ass /"
+sd,A,"and/CC so/RB I/PRP ,/, I/PRP really/RB do/VBP n't/RB want/VB to/TO ,/, want/VB to/TO ,/, uh/UH ,/, you/PRP know/VBP ,/, back/RB off/IN on/IN it/PRP ./.","{C and so } [ I, + I ] really don't [ want to, + want to, ] {F uh, } {D you know, } back off on it. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,"It/PRP 's/BES something/NN ,/,","It's something, /"
+sd,B,"I/PRP think/VBP ,/, uh/UH ,/, I/PRP 'm/VBP young/JJ ,/,","I think, {F uh, } I'm young, /"
+sd,B,I/PRP should/MD get/VB started/VBN getting/VBG into/IN shape/NN ./.,I should get started getting into shape. /
+sd,B,"I/PRP do/VBP n't/RB want/VB to/TO ,/,","I don't want to, /"
+%,B,"I/PRP want/VBP ,/,","I want, - /"
+sv,B,I/PRP mean/VB at/IN one/CD point/NN it/PRP 's/BES going/VBG to/TO be/VB too/RB late/JJ to/TO do/VB it/PRP ./. MUMBLEx/XX ./.,{E I mean } at one point it's going to be too late to do it. (( )) . /
+ar,A,"Well/UH ,/, no/UH ./.","{D Well, } no. /"
+sv,A,"When/WRB you/PRP 're/VBP young/JJ ,/,","When you're young,"
+x,B,./.,<Cough>.
++,A,"you/PRP ,/, you/PRP can/MD abuse/VB your/PRP$ ,/, your/PRP$ ,/, all/RB your/PRP$ systems/NNS","[ you, + <noise> you ] can abuse [ [ your, + your, ] + all your ] systems /"
+sv,A,and/CC you/PRP can/MD recover/VB ./.,{C and } you can recover. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"Uh/UH ,/, when/WRB you/PRP get/VBP to/TO be/VB my/PRP$ age/NN and/CC you/PRP start/VBP abusing/VBG your/PRP$ systems/NNS ,/, you/PRP get/VBP blown/JJ away/RB ./.","{F Uh, } when you get to be my age and you start abusing your systems, you get blown away."
+%,B,Huh/UH ./.,{F Huh } </music> </TV>. /
++,A,"And/CC just/RB wind/VBP up/RP having/VBG to/TO kiss/VB your/PRP$ ass/NN good-bye/UH ,/, you/PRP know/VBP ./.","And just wind up having to kiss your ass good-bye, {D you know. } /"
+sv,A,"And/CC ,/, uh/UH ,/, and/CC so/RB the/DT object/NN ,/,","[ {C And, } + {F uh, } {C and so } ] the object, -/"

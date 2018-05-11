@@ -1,0 +1,126 @@
+act_tag,speaker,pos,text
+fp,B,Hello/UH ./.,Hello. /
+fp,A,Hi/UH ./.,Hi. /
+fp,B,Hi/UH ./.,Hi. /
+fp,A,"My/PRP$ name/NN is/VBZ ,/, uh/UH ,/, Donna/NNP Donahue/NNP ,/,","My name is, {F uh, } Donna Donahue, /"
+fp,A,"and/CC I/PRP live/VBP in/IN Plano/NNP ,/, Texas/NNP ./.","{C and } I live in Plano, Texas. /"
+fp,B,Hi/UH ./.,Hi. /
+fp,B,"My/PRP$ name/NN is/VBZ Lowell/NNP ,/,","My name is Lowell, /"
+fp,B,"and/CC I/PRP live/VBP in/IN Raleigh/NNP ,/, North/NNP Carolina/NNP ./.","{C and } I live in Raleigh, North Carolina. /"
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+qy,A,"Um/UH ,/, do/VBP you/PRP want/VB to/TO start/VB","{F Um, } do you want to start /"
+qrr,A,or/CC should/MD I/PRP start/VB ?/.,{C or } should I start? /
+ad,B,Go/VB right/RB ahead/RB ./.,Go right ahead. /
+aa,A,"Okay/UH ,/, um/UH ,/,","Okay, {F um, } /"
+sd,A,I/PRP would/MD say/VB that/DT our/PRP$ home/NN is/VBZ a/DT very/RB typical/JJ home/NN for/IN the/DT area/NN that/WDT we/PRP live/VBP in/IN ./.,I would say that our home is a very typical home for the area that we live in. /
+sd,A,"We/PRP have/VBP ,/, um/UH ,/, three/CD children/NNS ,/,","We have, {F um, } three children, /"
+sd,A,"and/CC ,/, um/UH ,/, they/PRP attend/VBP the/DT public/JJ school/NN here/RB and/CC are/VBP very/RB active/JJ in/IN a/DT lot/NN of/IN the/DT sports/NNS ,/, soccer/NN and/CC baseball/NN","{C and, } {F um, } they attend the public school here and are very active in a lot of the sports, soccer and baseball /"
+sd,A,"and/CC ,/, well/UH ,/, my/PRP$ little/JJ girl/NN goes/VBZ to/IN tap/NN dance/NN ,/,","{C and, } {D well, } my little girl goes to tap dance, /"
+sd,A,and/CC my/PRP$ little/JJ one/NN goes/VBZ to/IN preschool/NN,{C and } my little one goes to preschool /
+sd,A,"and/CC ,/, um/UH ,/, I/PRP 'm/VBP home/NN with/IN the/DT children/NNS ,/, just/RB do/VBP a/DT lot/NN of/IN running/VBG around/RP ./.","{C and, } {F um, } I'm home with the children, just do a lot of running around. /"
+sd,A,"It/PRP seems/VBZ like/IN a/DT lot/NN of/IN my/PRP$ neighbors/NNS kind/RB of/RB have/VBP a/DT similar/JJ type/NN ,/, I/PRP do/VBP n't/RB know/VB ,/, life/NN ./.","It seems like a lot of my neighbors kind of have a similar type, I don't know, life. /"
+qo,A,"Um/UH ,/, what/WP about/IN you/PRP ?/. ./.","{F Um, } what about you? <Laughter>. /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP single/JJ ,/,","[ I'm, + I'm ] single, /"
+sd,B,"and/CC I/PRP ,/, I/PRP live/VBP in/IN a/DT town/NN home/NN --/:","{C and } [ I, + I ] live in a town home --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: here/RB in/IN Raleigh/NNP ,/,","-- here in Raleigh, /"
+sd,B,and/CC --/:,{C and } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: it/PRP 's/BES pretty/RB typical/JJ of/IN the/DT other/JJ town/NN homes/NNS in/IN the/DT area/NN --/:,-- it's pretty typical of the other town homes in the area -- /
+bk,A,Okay/UH ./.,Okay. /
+sd,B,"--/: ther-/XX ,/, we/PRP ,/, we/PRP have/VBP a/DT lot/NN of/IN town/NN homes/NNS here/RB --/:","-- [ ther-, + ] [ we, + we ] have a lot of town homes here --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: as/RB well/RB as/IN single/JJ family/NN homes/NNS ,/,","-- as well as single family homes, /"
+sd,B,"and/CC at/IN the/DT time/NN that/WDT I/PRP bought/VBD this/DT one/NN it/PRP was/VBD just/RB a/DT ,/, a/DT much/RB better/JJR arrangement/NN for/IN me/PRP personally/RB ./.","{C and } at the time that I bought this one it was just [ a, + a ] much better arrangement for me personally. /"
+sd,B,I/PRP 'm/VBP not/RB home/RB a/DT lot/NN ./.,I'm not home a lot. /
+sd,B,I/PRP travel/VBP a/DT great/JJ deal/NN with/IN --/:,I travel a great deal with --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: my/PRP$ job/NN ,/,","-- my job, /"
+sd,B,and/CC so/RB it/PRP was/VBD easier/JJR to/TO have/VB a/DT home/NN that/WDT did/VBD n't/RB --/:,[ {C and } + <breathing> {C so } ] it was easier to have a home [ that didn't -- +
+^2,A,Was/VBD sort/RB of/RB maintenance/NN free/JJ ./.,Was sort of maintenance free. /
++,B,--/: exactly/UH --/:,-- exactly --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: that/WDT somebody/NN else/RB looks/VBZ out/RP for/IN the/DT maintenance/NN ./.,-- that somebody else looks ] out for the maintenance. /
+b,A,"Oh/UH yeah/UH ,/,","{D Oh } yeah, /"
+ba,A,"well/UH ,/, um/UH ,/, that/DT ,/, that/DT sounds/VBZ ,/, that/DT sounds/VBZ pretty/RB good/JJ for/IN","{D well, } {F um, } [ [ that, + that ] sounds, + that sounds ] pretty good for - /"
+sd,A,"I/PRP know/VBP my/PRP$ husband/NN takes/VBZ an/DT awful/JJ lot/NN of/IN time/NN on/IN the/DT weekends/NNS ,/, not/RB so/RB much/JJ now/RB ,/, but/CC to/TO ,/, um/UH ,/, maintain/VB the/DT lawn/NN and/CC the/DT edging/NN and/CC the/DT flower/NN beds/NNS ,/,","I know my husband takes an awful lot of time on the weekends, not so much now, but to, {F um, } maintain the lawn and the edging and the flower beds, /"
+sv,A,"and/CC it/PRP 's/BES a/DT lot/NN of/IN work/NN ,/, owning/VBG a/DT home/NN with/IN a/DT little/JJ bit/NN of/IN property/NN attached/VBD to/IN it/PRP ./.","{C and } it's a lot of work, owning a home with a little bit of property attached to it. /"
+%,A,It/PRP 's/BES --/:,It's -- -/
+aa,B,It/PRP certainly/RB is/VBZ ./.,It certainly is. /
+sd,A,"--/: sometimes/RB I/PRP think/VBP ,/, um/UH ,/, it/PRP would/MD be/VB nice/JJ to/TO have/VB a/DT town/NN home/NN ,/, with/IN not/RB having/VBG all/PDT that/DT responsibility/NN ./.","-- sometimes I think, {F um, } it would be nice to have a town home, with <laughter> not having all that responsibility. /"
+ad,B,"Well/UH ,/, if/IN you/PRP ever/RB get/VBP one/CD ,/, be/VB sure/JJ the/DT walls/NNS are/VBP good/JJ and/CC thick/JJ because/IN if/IN they/PRP 're/VBP not/RB you/PRP can/MD hear/VB ./.","{D Well, } if you ever get one, be sure the walls are good and thick because if they're not you can hear. /"
+sd,B,"I/PRP ,/, that/DT 's/BES the/DT main/JJ thing/NN when/WRB I/PRP was/VBD shopping/VBG for/IN one/CD ,/,","[ I, + that's the main thing when I ] was shopping for one, /"
+sd,B,"I/PRP wanted/VBD to/TO make/VB sure/JJ I/PRP could/MD ,/, I/PRP could/MD n't/RB hear/VB my/PRP$ neighbors/NNS","I wanted to make sure [ I could, + I couldn't ] hear my neighbors /"
+%,B,and/CC that/DT was/VBD --/:,{C and } that was -- -/
+b,A,Right/UH ./.,Right. /
+sd,B,"--/: so/RB I/PRP bought/VBD one/CD that/WDT 's/BES more/JJR like/IN living/VBG in/IN a/DT ,/,","-- {C so } I bought one that's more like living in a, - /"
+sd,B,"once/IN you/PRP 're/VBP inside/RB ,/, you/PRP do/VBP n't/RB know/VB you/PRP 're/VBP in/IN a/DT town/NN home/NN ./.","once you're inside, you don't know you're in a town home. /"
+ba,A,"Oh/UH ,/, that/DT sounds/VBZ lovely/JJ ./.","{F Oh, } that sounds lovely. /"
+aa,B,It/PRP is/VBZ ./.,It is. /
+sd,B,They/PRP 're/VBP kind/RB of/RB built/VBN on/IN a/DT catty-cornered/NN instead/IN of/IN like/IN side/NN by/IN side/NN --/:,They're kind of built on a catty-cornered instead of like side by side -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: so/RB you/PRP do/VBP n't/RB actually/RB hear/VB anybody/NN next/JJ door/NN to/IN you/PRP ./.,-- {C so } you don't actually hear anybody next door to you. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy^d,A,"So/RB in/IN ,/, in/IN your/PRP$ area/NN then/RB there/EX 's/BES probably/RB a/DT lot/NN of/IN ,/, um/UH ,/, career/NN type/NN people/NNS that/WDT have/VBP those/DT type/NN homes/NNS","{C So } [ in, + in ] your area then there's probably a lot of, {F um, } career type people that have those type homes /"
+%,A,and/CC --/:,{C and } -- -/
+ny,B,"Yes/UH ,/,","Yes, /"
+sd,B,definitely/UH ./.,definitely. /
+b,A,"--/: uh-huh/UH ,/,","-- uh-huh, /"
+sd,A,"and/CC ,/, um/UH ,/, the/DT area/NN that/WDT we/PRP 're/VBP settled/VBN in/IN is/VBZ ,/, um/UH ,/, definitely/RB young/JJ ,/, young/JJ families/NNS with/IN ,/, with/IN kids/NNS ./.","{C and, } {F um, } the area that we're settled in is, {F um, } definitely [ young, + young ] families [ with, + with ] kids. /"
+sd,A,"They/PRP 're/VBP still/RB doing/VBG ,/, um/UH ,/, a/DT lot/NN of/IN building/VBG in/IN the/DT neighborhood/NN ./.","They're still doing, {F um, } a lot of building in the neighborhood. /"
+sd,A,"So/RB the/DT people/NNS that/WDT move/VBP here/RB seem/VBP to/TO move/VB from/IN all/RB over/IN the/DT country/NN ,/, which/WDT we/PRP 're/VBP from/IN ,/, um/UH ,/, the/DT northeast/NN ,/,","{C So } the people that move here seem to move from all over the country, which we're from, {F um, } the northeast, /"
+sd,A,"and/CC ,/, um/UH ,/, seems/VBZ like/IN a/DT people/NNS just/RB do/VBP n't/RB ,/, or/CC also/RB do/VBP n't/RB have/VB any/DT family/NN around/RB ./.","{C and, } {F um, } <child_talking> seems like a people [ just don't, + {E or } also don't ] have any family around. /"
+sv,A,"So/RB it/PRP ,/, um/UH ,/, also/RB gives/VBZ you/PRP a/DT common/JJ bond/NN when/WRB you/PRP do/VBP n't/RB have/VB a/DT lot/NN of/IN relatives/NNS visiting/VBG your/PRP$ neighbors/NNS ,/,","{C So } it, {F um, } also gives you a common bond when you don't have a lot of relatives visiting your neighbors, /"
+%,A,"and/CC you/PRP know/VBP ,/, um/UH ./. But/CC ,/, um/UH MUMBLEx/XX ,/,","[ {C and } + {D you know, } {F um } <laughter>. {C But, } ] {F um } (( )) , -/"
+sd,B,"Well/UH ,/, we/PRP also/RB in/IN this/DT area/NN seem/VBP to/TO have/VB a/DT lot/NN of/IN retirees/NNS --/:","{D Well, } we also in this area seem to have a lot of retirees --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: people/NNS who/WP do/VBP n't/RB want/VB the/DT heat/NN of/IN Florida/NNP but/CC do/VBP n't/RB want/VB the/DT heat/NN of/IN the/DT ,/, the/DT cold/NN of/IN the/DT northeast/NN","-- people who don't want the heat of Florida but don't want [ the heat of the, + the cold of the ] northeast /"
+sd,B,so/RB --/:,{C so } --
+b,A,"Right/UH ,/,","Right, /"
+b,A,right/UH ./.,right. /
++,B,--/: they/PRP settle/VBP sort/RB of/RB in-between/RB ./.,-- they settle sort of in-between. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"Now/UH it/PRP 's/BES ,/, um/UH ,/, is/VBZ it/PRP very/RB wooded/JJ around/IN where/WRB you/PRP are/VBP ,/,","{D Now } [ it's, + {F um, } is it ] very wooded around where you are, /"
+qy^d,A,"there/EX lots/NNS of/IN pretty/JJ trees/NNS and/CC ,/,","there lots of pretty trees and, -/"
+ny,B,Yes/UH --/:,Yes -- /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"--/: as/IN a/DT matter/NN of/IN fact/NN this/DT is/VBZ a/DT ,/, uh/UH ,/, this/DT particular/JJ community/NN that/WDT I/PRP live/VBP in/IN is/VBZ very/RB wooded/JJ ./.","-- as a matter of fact [ this is a, + {F uh, } this particular community that I live in is ] very wooded. /"
+ba,A,"Oh/UH ,/, how/WRB pretty/JJ ./.","{F Oh, } how pretty. /"
+sd,B,It/PRP is/VBZ nice/JJ ./.,It is nice. /
+sd,A,I/PRP do/VBP miss/VB that/DT ./.,I do miss that. /
+sd,A,Around/IN here/RB in/IN Plano/NNP there/EX are/VBP very/RB few/JJ trees/NNS,Around here in Plano there are very few trees /
+sd,A,"and/CC it/PRP 's/BES pretty/RB flat/JJ and/CC ,/, and/CC kind/RB of/RB barren/JJ","{C and } it's pretty flat [ and, + and ] kind of barren /"
+sd,A,"and/CC that/DT 's/BES the/DT only/JJ thing/NN that/WDT we/PRP do/VBP n't/RB like/VB about/IN living/VBG in/IN Texas/NNP ,/, is/VBZ we/PRP miss/VBP all/PDT the/DT beautiful/JJ trees/NNS and/CC the/DT Fall/NN","{C and } that's the only thing that we don't like about living in Texas, is we miss all the beautiful trees and the Fall /"
+sd,A,"and/CC ,/, and/CC ,/, um/UH ,/, uh/UH ,/, the/DT landscape/NN is/VBZ much/RB different/JJ here/RB in/IN Texas/NNP than/IN it/PRP is/VBZ ,/, you/PRP know/VBP ,/, in/IN the/DT north/NN ./. Um/UH ,/, or/CC even/RB where/WRB you/PRP are/VBP ./.","[ {C and, } + {C and, } ] {F um, } {F uh, } the landscape is much different here in Texas than it is, {D you know, } in the north. {F Um, } or even where you are. /"
+sd,B,"Uh/UH ,/, we/PRP definitely/RB have/VBP a/DT lot/NN of/IN trees/NNS here/RB ./.","{F Uh, } we definitely have a lot of trees here. /"
+qy^d,A,"A/DT lot/NN of/IN leaves/NNS to/TO rake/VB up/RP too/RB ,/, I/PRP bet/VBP ./.","<Laughter> A lot of leaves to rake up too, I bet. /"
+ny,B,Yes/UH,Yes /
+sd,B,but/CC fortunately/RB the/DT home/NN owner/NN 's/POS association/NN does/VBZ all/PDT that/DT ./.,{C but } fortunately the home owner's association does all that. /
+b,A,"Does/VBZ that/DT ,/,","Does that, /"
+ba,A,"well/UH ,/, see/UH ,/, that/DT 's/BES another/DT plus/NN ./.","{D well, } {D see, } that's another plus. /"
+aa,B,"Yes/UH ,/,","Yes, /"
+sd,B,I/PRP do/VBP n't/RB have/VB to/TO worry/VB about/IN that/DT,I don't have to worry about that /
+sd,B,"and/CC this/DT is/VBZ the/DT time/NN of/IN year/NN we/PRP 're/VBP starting/VBG to/TO lose/VB ,/,","{C and } this is the time of year we're starting to lose, /"
+sd,B,they/PRP 're/VBP all/DT falling/VBG now/RB ./.,they're all falling now. /
+aa,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+aa,A,"that/DT 's/BES right/JJ ,/,","that's right, /"
+aa,A,they/PRP are/VBP ./.,they are. /
+sd,A,I/PRP 'm/VBP going/VBG to/TO get/VB the/DT kids/NNS to/TO get/VB outside/RB with/IN the/DT other/JJ neighbor/NN kids/NNS and/CC do/VB the/DT little/JJ bit/NN of/IN raking/NN that/WDT needs/VBZ to/TO be/VB done/VBN ./.,I'm going to get the kids to get outside with the other neighbor kids and do the little bit of raking that needs to be done. /
+sd,A,"We/PRP just/RB have/VBP a/DT few/JJ trees/NNS in/IN the/DT front/NN and/CC a/DT few/JJ in/IN the/DT back/NN but/CC ,/, not/RB ,/, not/RB much/JJ ./. Just/RB ,/, just/RB a/DT little/JJ kind/RB of/RB just/RB in/IN more/JJR of/IN a/DT make/NN a/DT little/JJ bit/NN of/IN a/DT mess/NN for/IN a/DT few/JJ weeks/NNS","We just have a few trees in the front and a few in the back but, [ not, + not ] much. [ Just, + just ] a little <child_talking> kind of just in more of a make a little bit of a mess for a few weeks /"
+sv,A,"and/CC if/IN you/PRP did/VBD n't/RB do/VB anything/NN about/IN it/PRP ,/, then/RB they/PRP 'd/MD probably/RB the/DT leaves/NNS just/RB blow/VB away/RB ./.","{C and } if you didn't do anything about it, then they'd probably the leaves just blow away <laughter>. /"
+b,B,Right/UH ./.,Right. /
+sd,A,It/PRP 's/BES not/RB too/RB bad/JJ ./.,It's not too bad. /
+%,A,"Okay/UH ,/,","Okay, /"
+qy,A,do/VBP we/PRP have/VB to/TO speak/VB for/IN a/DT certain/JJ amount/NN of/IN time/NN ?/.,do we have to speak for a certain amount of time? /
+nn,B,"No/UH ,/,","No, /"
+sd,B,I/PRP do/VBP n't/RB think/VB so/RB ./.,I don't think so. /
+bk,A,Okay/UH ./.,Okay. /
+bk,A,Okay/UH ./.,Okay. /
+fc,A,It/PRP was/VBD really/RB nice/JJ speaking/VBG to/IN you/PRP ./.,It was really nice speaking to you. /
+fc,B,It/PRP was/VBD good/JJ to/TO speak/VB with/IN you/PRP too/RB ./.,It was good to speak with you too. /
+fc,A,"Okay/UH ,/,","Okay, /"
+fc,A,and/CC have/VB a/DT happy/JJ Thanksgiving/NNP ./.,{C and } have a happy Thanksgiving. /
+fc,B,"Thank/VB you/PRP ,/,","Thank you, /"
+fc,B,you/PRP too/RB ./.,you too. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

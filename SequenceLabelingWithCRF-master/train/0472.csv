@@ -1,0 +1,155 @@
+act_tag,speaker,pos,text
+qo,A,"MUMBLEx/XX ,/, how/WRB do/VBP you/PRP feel/VB about/IN crime/NN in/IN the/DT city/NN ?/.","(( )) , how do you feel about crime in the city? /"
+sd,A,You/PRP say/VBP you/PRP 're/VBP from/IN Atlanta/NNP ./.,You say you're from Atlanta. /
+aa,B,"Right/UH ,/,","Right, /"
+sd,B,"I/PRP ,/, I/PRP ,/, I/PRP actually/RB I/PRP live/VBP in/IN the/DT city/NN --/:","[ [ [ I, + I, ] + I ] + actually I ] live in the city -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC ,/, uh/UH ,/, I/PRP guess/VBP it/PRP is/VBZ a/DT concern/NN of/IN mine/PRP ,/, uh/UH ,/, you/PRP know/VBP ,/, for/IN my/PRP$ own/JJ safety/NN ./.","-- {C and, } {F uh, } I guess it is a concern of mine, {F uh, } {D you know, } for my own safety. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"I/PRP mean/VBP ,/, do/VBP you/PRP ,/, do/VBP you/PRP find/VB crime/NN in/IN Atlanta/NNP really/RB MUMBLEx/XX","{E I mean, } [ do you, + do you ] find crime in Atlanta really (( )) - /"
+sd,A,I/PRP live/VBP in/IN Atlanta/NNP also/RB ./.,I live in Atlanta also. /
+ba,B,Well/UH that/DT 's/BES right/JJ ./.,{D Well } that's right. /
+%,A,Uh/UH ./.,{F Uh. } /
++,B,"Uh/UH ,/, I/PRP think/VBP it/PRP is/VBZ bad/JJ in/IN certain/JJ areas/NNS ,/,","{F Uh, } I think it is bad in certain areas, / *[[sv]]"
+sv,B,"however/WRB I/PRP think/VBP ,/, the/DT area/NN that/IN I/PRP live/VBP in/IN it/PRP 's/BES not/RB ,/, uh/UH ,/, the/DT crime/NN level/NN is/VBZ not/RB as/RB high/JJ as/IN it/PRP is/VBZ in/IN other/JJ areas/NNS of/IN the/DT ,/, of/IN the/DT city/NN ./.","however I think, the area that I live in [ it's not, + {F uh, } the crime level is not ] as high as it is in other areas [ of the, + of the ] city. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"I/PRP think/VBP it/PRP seems/VBZ that/IN there/EX 's/BES certain/JJ areas/NNS where/WRB ,/, uh/UH ,/, the/DT crime/NN is/VBZ focused/VBN --/:","I think it seems that there's certain areas where, {F uh, } the crime is focused --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: uh/UH ./.,-- {F uh. } /
+qw,A,Well/UH what/WP do/VBP you/PRP think/VB can/MD be/VB done/VBN about/IN the/DT crime/NN in/IN the/DT city/NN ?/.,{D Well } what do you think can be done about the crime in the city? /
+sv,B,"Well/UH ,/, I/PRP think/VBP it/PRP 's/BES ,/, what/WP 's/BES been/VBN happening/VBG over/IN the/DT last/JJ several/JJ years/NNS it/PRP seems/VBZ they/PRP 've/VBP been/VBN beefing/VBG up/RP the/DT police/NN patrols/NNS ,/, trying/VBG to/TO put/VB ,/, put/VB more/JJR guys/NNS ,/, more/JJR cops/NNS ,/, higher/JJR visibility/NN ,/,","{D Well, } I think [ it's, + ] what's been happening over the last several years it seems they've been beefing up the police patrols, trying to [ put, + put ] more guys, more cops, higher visibility, /"
+sv,B,"and/CC ,/, uh/UH ,/, --/:","{C and, } {F uh, } --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: they/PRP 've/VBP had/VBN some/DT impact/NN ,/, but/CC not/RB a/DT tremendous/JJ amount/NN ,/,","-- they've had some impact, but not a tremendous amount, /"
+sv,B,"and/CC probably/RB ,/, um/UH ,/, they/PRP need/VBP to/TO try/VB to/TO increase/VB community/NN involvement/NN ,/, that/IN sort/NN of/IN thing/NN ,/, I/PRP think/VBP MUMBLEx/XX ./.","{C and } probably, {F um, } they need to try to increase community involvement, that sort of thing, I think (( )) . /"
+aap_am,A,I/PRP probably/RB agree/VBP with/IN that/DT ./.,I probably agree with that. /
+b,B,Yeah/UH ./.,Yeah. /
+%,A,Uh/UH ./.,{F Uh. } /
+sv,B,"You/PRP know/VBP ,/, particularly/RB in/IN some/DT of/IN the/DT housing/NN projects/NNS ,/, uh/UH ,/, you/PRP know/VBP ,/, that/DT 's/BES ,/, that/DT tends/VBZ to/TO be/VB where/WRB a/DT lot/NN of/IN that/DT crime/NN is/VBZ focused/VBN --/:","{D You know, } particularly in some of the housing projects, {F uh, } {D you know, } [ that's, + that ] tends to be where a lot of that crime is focused -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"--/: and/CC they/PRP 've/VBP got/VBN to/TO do/VB more/RBR than/IN just/RB having/VBG ,/, having/VBG cops/NNS there/RB ./.","-- {C and } they've got to do more than just [ having, + having ] cops there. /"
+sv,B,They/PRP 've/VBP got/VBN to/TO kind/RB of/RB change/VB the/DT way/NN people/NNS think/VBP about/IN it/PRP ./.,They've got to kind of change the way people think about it. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aap_am,A,that/DT 's/BES probably/RB true/JJ ./.,that's probably true. /
+qy,A,"Um/UH ,/, so/UH ,/, um/UH ,/, well/UH do/VBP you/PRP think/VB Atlanta/NNP 's/BES as/RB bad/JJ as/IN most/JJS other/JJ cities/NNS ?/.","{F Um, } {C so, } {F um, } {D well } do you think Atlanta's as bad as most other cities? /"
+%,B,"Um/UH ,/, well/UH ,/, I/PRP 've/VBP been/VBN to/IN ,/,","{F Um, } {D well, } I've been to, - /"
+na,B,"I/PRP 'd/MD say/VB it/PRP 's/BES ,/, it/PRP 's/BES probably/RB in/IN the/DT top/JJ ,/, top/JJ ten/CD in/IN terms/NNS of/IN crime/NN ./.","I'd say [ it's, + it's ] probably in the [ top, + top ] ten in terms of crime. /"
+sd,B,"Um/UH ,/, it/PRP 's/BES nowhere/RB near/RB as/RB bad/JJ as/IN New/NNP York/NNP City/NNP --/:","{F Um, } it's nowhere near as bad as New York City --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: for/IN example/NN ./.,-- for example. /
+sv,B,"Probably/RB not/RB ,/, not/RB as/RB bad/JJ as/IN Detroit/NNP ./.","Probably [ not, + not ] as bad as Detroit. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,A,I/PRP do/VBP n't/RB think/VB it/PRP 's/BES as/RB bad/JJ as/IN L/NNP A/NNP either/RB ./.,I don't think it's as bad as L A either. /
+aa,B,No/UH ./.,No. /
+sv,A,"We/PRP ,/, I/PRP do/VBP n't/RB think/VB we/PRP have/VBP as/RB much/RB of/IN the/DT gang/NN problem/NN as/IN a/DT lot/NN of/IN the/DT other/JJ cities/NNS have/VBP ./.","[ We, + I don't think we ] have as much of the gang problem as a lot of the other cities have. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,that/WDT seems/VBZ to/TO be/VB true/JJ ./.,that seems to be true. /
+%,B,"Um/UH ,/, yeah/UH ,/,","{F Um, } yeah, /"
+%,B,if/IN you/PRP 've/VBP ever/RB been/VBN to/IN like/VB New/NNP York/NNP City/NNP,if you've ever been to {D like } New York City /
+sd,B,and/CC --/:,{C and } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: you/PRP can/MD just/RB ,/, you/PRP can/MD just/RB ,/, as/IN you/PRP walk/VBP through/IN the/DT street/NN on/IN a/DT given/VBN evening/NN ,/, you/PRP can/MD see/VB crimes/NNS being/VBG committed/VBN ./.","-- [ [ you can just, + you can just, ] + as you walk through the street on a given evening, you can ] see crimes being committed. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,It/PRP 's/BES that/RB obvious/JJ ./.,It's that obvious. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sv,A,"I/PRP came/VBD to/IN the/DT conclusion/NN also/RB that/IN ,/, you/PRP know/VBP ,/, just/RB ,/, if/IN you/PRP are/VBP walking/VBG in/IN a/DT downtown/NN area/NN ,/, you/PRP know/VBP ,/, where/WRB there/EX 's/BES a/DT lot/NN of/IN crime/NN ,/, a/DT lot/NN of/IN that/DT 's/BES going/VBG to/IN just/RB ,/, just/RB keeping/VBG your/PRP$ senses/NNS about/IN you/PRP and/CC ,/, and/CC trying/VBG not/RB to/TO look/VB like/IN a/DT victim/NN ,/, you/PRP know/VBP ./.","I came to the conclusion also that, {D you know, } [ just, + ] if you are walking in a downtown area, {D you know, } where there's a lot of crime, a lot of that's going to [ just, + just ] keeping your senses about you [ and, + and ] trying not to look like a victim, {D you know. } /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,that/DT 's/BES true/JJ ./.,that's true. /
+sv,A,"You/PRP know/VBP ,/, walk/VB bi-/XX ,/, you/PRP know/VBP ,/, walk/VB with/IN ,/, you/PRP know/VBP ,/, with/IN --/:","{D You know, } [ [ walk bi-, + {D you know, } walk [ with, + {D you know, } with ] ] + --"
+^2,B,With/IN a/DT big/JJ stick/NN,With a big stick /
+qy,B,or/CC ./.,{C or. } /
++,A,"--/: MUMBLEx/XX just/RB walk/VB in/IN a/DT confidently/RB ,/,","-- <Laughter> (( )) just walk in ] a confidently, /"
+sv,A,"and/CC ,/, you/PRP know/VBP ,/, do/VBP n't/RB ,/, do/VBP n't/RB be/VB --/:","{C and, } {D you know, } [ don't, + don't ] be --"
+b,B,Right/UH ./.,Right. /
++,A,--/: looking/VBG around/RB like/IN you/PRP 've/VBP never/RB been/VBN there/RB before/RB --/:,-- looking around like you've never been there before --
+ba,B,Sure/UH ./.,Sure. /
++,A,--/: and/CC you/PRP have/VBP no/DT idea/NN where/WRB you/PRP are/VBP ./.,-- and you have no idea where you are. /
+aa,B,"Right/RB ,/,","Right, /"
+sv,B,"do/VBP n't/RB ,/, do/VBP n't/RB walk/VB down/IN a/DT ,/, an/DT alley/NN","[ don't, + don't ] walk down [ a, + an ] alley /"
+%,B,or/CC do/VBP n't/RB get/VB --/:,{C or } don't get -- -/
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,--/: just/RB try/VB to/TO keep/VB yourself/PRP out/IN of/IN a/DT bad/JJ situation/NN --/:,-- just try to keep yourself out of a bad situation -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"--/: but/CC ,/, yeah/UH ,/,","-- {C but, } yeah, /"
+sv,B,there/EX are/VBP times/NNS when/WRB you/PRP ca/MD n't/RB avoid/VB all/PDT that/DT --/:,there are times when you can't avoid all that -- /
+%,A,Uh/UH ./.,{F Uh. } /
+sv,B,"--/: and/CC ,/, and/CC then/RB you/PRP 're/VBP kind/RB of/RB on/IN your/PRP$ own/JJ ./.","-- [ {C and, } + {C and then } ] you're kind of on your own <laughter>. /"
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"MUMBLEx/XX have/VBP you/PRP ,/, have/VBP you/PRP ever/RB ,/, have/VBP you/PRP ever/RB been/VBN mugged/VBN in/IN Atlanta/NNP ?/.","(( )) [ [ have you, + have you ever, ] + have you ever ] been mugged in Atlanta? /"
+nn,B,"Uh/UH ,/, no/UH ./.","{F Uh, } no. /"
+sd,B,"The/DT only/JJ thing/NN I/PRP 've/VBP ever/RB had/VBN ,/, was/VBD I/PRP 've/VBP had/VBN my/PRP$ wallet/NN lifted/VBN --/:","The only thing I've ever had, was I've had my wallet lifted -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: but/CC that/DT was/VBD in/IN a/DT more/JJR of/IN a/DT ,/, a/DT setting/NN where/WRB there/EX was/VBD a/DT number/NN of/IN people/NNS around/RB ,/,","-- {C but } that was in a more of [ a, + a ] setting where there was a number of people around, /"
+%,B,"and/CC I/PRP kind/RB of/RB got/VBD ,/,","{C and } I kind of got, - /"
+sd,B,I/PRP was/VBD much/RB younger/JJR at/IN the/DT time/NN --/:,I was much younger at the time -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC kind/RB of/RB a/DT couple/NN of/IN people/NNS ,/, they/PRP just/RB took/VBD it/PRP from/IN me/PRP without/IN me/PRP knowing/VBG really/RB --/:","-- {C and } kind of a couple of people, they just took it from me without me knowing really --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC kind/RB of/RB passed/VBD it/PRP off/RP ,/, so/RB I/PRP did/VBD n't/RB know/VB who/WP had/VBD it/PRP ./.","-- and kind of passed it off, so I didn't know who had it. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP 've/VBP had/VBN that/DT happen/VB ,/,","I've had that happen, /"
+sd,B,"but/CC that/DT 's/BES ,/, that/DT 's/BES about/RB it/PRP ./.","{C but } [ that's, + that's ] about it. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP 've/VBP been/VBN pretty/RB lucky/JJ about/IN getting/VBG mugged/VBN ./.,I've been pretty lucky about getting mugged. /
+%,A,Um/UH ./.,{F Um. }
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP think/VBP I/PRP 've/VBP only/RB actually/RB seen/VBN like/UH one/CD ,/, you/PRP know/VBP ,/, one/CD actual/JJ robbery/NN with/IN a/DT gun/NN --/:","I think I've only actually seen {D like } [ one, + {D you know, } one ] actual robbery with a gun -- /"
+%,B,Um/UH ./.,{F Um. } /
+sd,A,"--/: and/CC that/IN 's/BES been/VBN about/RB the/DT only/JJ ,/, you/PRP know/VBP ,/, real/JJ violent/JJ crime/NN where/WRB ,/, you/PRP know/VBP ,/, potentially/RB violent/JJ crime/NN that/WDT I/PRP 've/VBP seen/VBN in/IN Atlanta/NNP ./.","-- {C and } that's been about the only, {D you know, } [ real violent crime where, + {D you know, } potentially violent crime that ] I've seen in Atlanta. /"
+ba,B,"Really/UH ,/,","Really, /"
+%,B,"well/UH ,/, I/PRP 've/VBP had/VBN my/PRP$ ./.","{D well, } I've had my. -/"
+sd,A,And/CC that/DT was/VBD just/RB a/DT guy/NN running/VBG out/IN of/IN a/DT store/NN that/IN he/PRP just/RB robbed/VBD ./.,{C And } that was just a guy running out of a store that he just robbed. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP 've/VBP had/VBN my/PRP$ car/NN stolen/VBN ,/,","I've had my car stolen, /"
+sv,B,so/RB maybe/RB that/DT counts/NNS ./.,{C so } maybe that counts. /
+bh,A,"Oh/UH ,/, really/UH ./.","{F Oh, } really. /"
+ny,B,Yeah/UH ./.,Yeah. /
+qw,A,"Oh/UH ,/, where/WRB was/VBD ,/, where/WRB ,/, where/WRB was/VBD that/DT ?/.","{F Oh, } [ where was, + [ where, + where ] was ] that? /"
+qy,A,Was/VBD that/DT downtown/RB,Was that downtown /
+qy,A,"or/CC ,/,","{C or, } -/"
+nn,B,"Oh/UH no/UH ,/,","{F Oh } no, /"
+sd,B,"that/WDT was/VBD in/IN the/DT northern/JJ p-/XX ,/, um/UH ,/, up/IN near/RB Cumberland/NNP Mall/NNP area/NN ./.","that was [ in the northern p-, + ] {F um, } up near Cumberland Mall area. /"
+ba,A,Really/UH ./.,Really. /
+sd,B,"It/PRP 's/BES actually/RB Cobb/NNP County/NNP ,/,","It's actually Cobb County, /"
+sd,B,but/CC it/PRP is/VBZ Atlanta/NNP --/:,{C but } it is Atlanta -- /
+^2,A,"Metropolitan/JJ ,/,","Metropolitan, /"
+aa,A,yeah/UH ./.,yeah. /
+sd,B,"--/: and/CC ,/, uh/UH ,/, there/EX 's/BES a/DT lot/NN of/IN car/NN thefts/NNS in/IN that/DT area/NN ./.","-- {C and, } {F uh, } there's a lot of car thefts in that area. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP 've/VBP actually/RB ,/, I/PRP 've/VBP known/VBN ,/, known/VBN some/DT people/NNS that/WDT have/VBP had/VBN their/PRP$ cars/NNS stolen/VBN ./.","[ I've actually, + I've ] [ known, + known ] some people that have had their cars stolen. /"
+sd,A,"Uh/UH ,/, and/CC ,/, uh/UH ,/, and/CC ,/, you/PRP know/VBP ,/, about/RB half/PDT the/DT time/NN they/PRP seem/VBP to/TO ,/, the/DT A/NNP P/NNP D/NNP seems/VBZ to/TO recover/VB them/PRP ,/, you/PRP know/VBP --/:","{F Uh, } [ {C and, } + {F uh, } {C and, } ] {D you know, } about half the time [ they seem to, + the A P D seems to ] recover them, {D you know } --"
+b,B,Right/UH ./.,Right. /
++,A,--/: in/IN various/JJ states/NNS of/IN disrepair/NN ./.,-- in various states of disrepair <laughter>.
+b,B,Yeah/UH,Yeah /
+x,B,./.,<laughter>.
++,A,Up/IN on/IN blocks/NNS ./.,Up on blocks. <laughter> /
+sd,A,"My/PRP$ friend/NN had/VBD a/DT V/NNP W/NNP Rabbit/NNP ,/,","My friend had a V W Rabbit, /"
+sd,A,"and/CC when/WRB he/PRP ,/, when/WRB he/PRP got/VBD it/PRP back/RB his/PRP$ ,/, um/UH ,/, dashboard/NN was/VBD sitting/VBG in/IN the/DT front/JJ seat/NN ./.","{C and } [ when he, + when he ] got it back his, {F um, } dashboard was sitting in the front seat <laughter>. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"mine/NN was/VBD just/RB ,/, it/PRP had/VBD been/VBN wrecked/VBN and/CC some/DT superficial/JJ type/NN damage/NN ,/,","[ mine was just, + it had been ] wrecked and some superficial type damage, /"
+sd,B,"but/CC they/PRP did/VBD n't/RB ,/, they/PRP did/VBD n't/RB strip/VB it/PRP --/:","{C but } [ they didn't, + they didn't ] strip it -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: so/RB I/PRP got/VBD it/PRP back/RB ./.,-- {C so } I got it back. /
+sv,A,"Well/UH ,/, you/PRP 're/VBP probably/RB luckier/JJR than/IN ./.","{D Well, } you're probably luckier than. -/"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,than/IN most/JJS ./.,than most. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"Um/UH ,/, so/UH like/UH does/VBZ insurance/NN pay/VB for/IN the/DT body/NN damage/NN ,/,","{F Um, } {C so } {D like } does insurance pay for the body damage, /"
+qy,A,or/CC --/:,{C or } --
+na,B,Right/UH ./.,Right. /
++,A,"--/: was/VBD that/DT all/DT there/EX was/VBD ,/, body/NN ./.","-- was that all there was, body. /"
+sd,B,It/PRP was/VBD about/RB three/CD grand/NN to/TO put/VB everything/NN together/RB ./.,It was about three grand to put everything together. /
+sd,B,"They/PRP cracked/VBD the/DT steering/NN column/NN of/IN course/NN ,/, to/TO steal/VB the/DT car/NN ./.","They cracked the steering column of course, to steal the car. /"
+x,A,./.,<Laughter>.
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"you/PRP got/VBN to/TO ,/, you/PRP crack/VBP the/DT steering/NN column/NN","[ you got to, + you ] crack the steering column /"
+sd,B,"and/CC you/PRP pull/VBP the/DT ,/,","{C and } you pull the, - /"
+sd,B,there/EX 's/BES a/DT pin/NN in/IN there/RB that/WDT you/PRP can/MD pull/VB on/IN these/DT G/NNP M/NNP cars/NNS --/:,there's a pin in there that you can pull on these G M cars -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC you/PRP can/MD start/VB it/PRP up/RP ,/, basically/RB pretty/RB easily/RB ./.","-- {C and } you can start it up, basically pretty easily. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qw,A,"So/RB how/WRB do/VBP you/PRP know/VB this/RB much/JJ about/IN ,/, um/UH ,/, stealing/VBG cars/NNS ?/.","{C So } how do you know this much about, {F um, } stealing cars? /"
+sd,B,"Well/UH ,/, after/IN I/PRP found/VBD mine/PRP I/PRP had/VBD to/TO ,/, I/PRP had/VBD this/DT ,/,","<Laughter> {D Well, } after I found mine [ I had to, + I had ] this, -/"
+x,A,./.,<Laughter>.

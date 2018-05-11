@@ -1,0 +1,192 @@
+act_tag,speaker,pos,text
+fp,A,Hi/UH Ed/NNP ./.,Hi Ed. /
+fp,B,Hi/UH ./.,Hi. /
+fp,A,Hi/UH ./.,Hi. /
+sd,B,"Uh/UH ,/, books/NNS ,/,","{F Uh, } books, /"
+sd,B,"I/PRP 've/VBP ,/, actually/RB I/PRP am/VBP reading/VBG a/DT couple/NN of/IN different/JJ books/NNS ,/, uh/UH ,/,","[ I've, + actually I am ] reading a couple of different books, <sigh> {F uh, } /"
+sd,B,"one/CD wa-/XX ,/, is/VBZ ,/, uh/UH ,/, a/DT story/NN ,/,","one [ wa-, + is, ] {F uh, } a story, /"
+sd,B,"well/UH it/PRP is/VBZ not/RB a/DT story/NN ,/,","{D well } it is not a story, /"
+sd,B,"it/PRP is/VBZ a/DT collection/NN of/IN ,/, uh/UH ,/, of/IN memos/NNS ,/, supposedly/RB written/VBN by/IN Howard/NNP Hughes/NNP ,/, uh/UH ,/,","it is a collection [ of, + {F uh, } of ] memos, supposedly written by Howard Hughes, {F uh, } /"
+%,A,Oh/UH ./.,{F Oh. } /
+%,B,"that/WDT was/VBD ,/, uh/UH ,/, that/WDT was/VBD ,/,","[ that was, + {F uh, } that was, ] - /"
+sd,B,it/PRP came/VBD out/RP a/DT couple/NN of/IN years/NNS ago/RB,it came out a couple of years ago /
+sd,B,and/CC I/PRP have/VBP just/RB now/RB gotten/VBN around/RP to/IN reading/VBG it/PRP ./.,{C and } I have just now gotten around to reading it. /
+sd,B,"I/PRP have/VBP had/VBN it/PRP a/DT couple/NN years/NNS ,/,","I have had it a couple years, /"
+%,B,"but/CC ,/, uh/UH ,/, jus-/XX ,/, jus-/XX ,/, ,/,","{C but, } {F uh, } [ jus-, + jus-, ] <sigh>, -/"
+qw,A,Who/WP wrote/VBD that/DT ?/.,Who wrote that? /
+sd,B,"Oh/UH ,/, I/PRP do/VBP not/RB remember/VB the/DT man/NN 's/POS name/NN ,/,","{F Oh, } I do not remember the man's name, /"
+sd,B,"he/PRP was/VBD ,/, used/VBD to/TO be/VB a/DT reporter/NN for/IN ,/, uh/UH ,/, I/PRP think/VBP ,/, the/DT NEW/NNP YORK/NNP TIMES/NNP ,/, or/CC the/DT WASHINGTON/NNP POST/NNP ,/, one/CD of/IN the/DT two/CD ,/,","he [ was, + used ] to be a reporter for, {F uh, } I think, the NEW YORK TIMES, or the WASHINGTON POST, one of the two, /"
+sd,B,"and/CC he/PRP supposedly/RB got/VBD this/DT ,/, this/DT ,/, s-/NN ,/, story/NN ,/, uh/UH ,/, I/PRP mean/VBP this/DT ,/, uh/UH ,/, was/VBD contacted/VBN by/IN this/DT guy/NN who/WP had/VBD these/DT ,/, these/DT memos/NNS he/PRP wanted/VBD to/TO sell/VB ,/,","{C and } he supposedly [ got [ [ this, + this, ] [ s-, + story, ] + {F uh, } {E I mean } this, {F uh, } ] + was contacted by this ] guy who had [ these, + these ] memos he wanted to sell, /"
+sd,B,"and/CC they/PRP were/VBD ,/, they/PRP were/VBD ones/NNS that/WDT had/VBD supposedly/RB been/VBN stolen/VBN from/IN the/DT ,/, uh/UH ,/, corporate/JJ headquarters/NNS in/IN ,/, uh/UH ,/, in/IN Los/NNP Angeles/NNP ./.","{C and } [ they were, + they were ] ones that had supposedly been stolen from the, {F uh, } corporate headquarters [ in, + {F uh, } in ] Los Angeles. /"
+b,A,Huh/UH ./.,{F Huh. } /
+%,B,"They/PRP ,/, on/IN","They, on - /"
+sd,B,"I/PRP think/VBP it/PRP was/VBD Romain/NNP Drive/NNP or/CC Romain/NNP Street/NNP or/CC something/NN ,/, there/RB in/IN Los/NNP Angeles/NNP ,/,","I think it was Romain Drive or Romain Street or something, there in Los Angeles, /"
+sd,B,"they/PRP used/VBD to/TO have/VB a/DT ,/,","they used to have a, - /"
+sv,B,"or/CC ,/, I/PRP guess/VBP they/PRP still/RB do/VBP ,/, uh/UH ,/,","{E or, } I guess they still do, {F uh, } /"
+sd,B,"had/VBD a/DT ,/, uh/UH ,/, uh/UH ,/, big/JJ warehouse/NN kind/NN of/IN thing/NN ,/, which/WDT had/VBD offices/NNS","had a, {F uh, } {F uh, } big warehouse kind of thing, which had offices /"
+sd,B,"and/CC it/PRP was/VBD sort/RB of/RB nondescript/JJ for/IN a/DT ,/, uh/UH ,/, you/PRP know/VBP ,/, for/IN the/DT size/NN of/IN the/DT company/NN which/WDT ,/, inside/NN was/VBD basically/RB a/DT store/NN house/NN of/IN a/DT bunch/NN of/IN stuff/NN he/PRP collected/VBD ,/,","{C and } it was sort of nondescript [ for a, + {F uh, } {D you know, } for the ] size of the company which, inside was basically a store house of a bunch of stuff he collected, /"
+sd,B,"he/PRP ,/, he/PRP was/VBD ,/, uh/UH ,/, a/DT great/JJ collector/NN of/IN everything/NN ,/,","[ he, + he ] was, {F uh, } a great collector of everything, /"
+sd,B,"he/PRP ,/, he/PRP ,/, he/PRP did/VBD not/RB ,/, he/PRP did/VBD not/RB throw/VB anything/NN away/RP","[ [ [ he, + he, ] + he did not, ] + he did not ] throw anything away /"
+sd,B,"and/CC ,/, uh/UH ,/, supposedly/RB this/DT guy/NN had/VBD ,/, had/VBD been/VBN breaking/VBG there/RB for/IN awhi-/RB ,/,","{C and, } {F uh, } supposedly this guy [ had, + had ] been breaking there for awhi-, /"
+sd,B,"he/PRP was/VBD a/DT ,/, like/IN ,/, you/PRP know/VBP ,/, burglar/NN ,/, had/VBD been/VBN breaking/VBG there/RB awhile/RB and/CC ,/, uh/UH ,/,","he was a, {D like, } {D you know, } burglar, had been breaking there awhile [ and, + {F uh, }"
+b,A,I/PRP see/VBP ./.,I see. /
++,B,"And/CC had/VBD ended/VBN up/RP ,/,","And ] had ended up, - /"
+sd,B,"he/PRP had/VBD some/DT accomplices/NNS that/WDT were/VBD kind/RB of/RB suspect/JJ ,/,","he had some accomplices that were kind of suspect, /"
+sd,B,"and/CC they/PRP ,/, uh/UH ,/, they/PRP broke/VBD in/IN one/CD ,/, one/CD night/NN and/CC found/VBD a/DT bunch/NN of/IN memos/NNS that/WDT were/VBD ,/, uh/UH ,/, supposedly/RB from/IN ,/, from/IN Hughes/NNP to/IN ,/, uh/UH ,/, to/IN his/PRP$ main/JJ ,/, uh/UH ,/, main/JJ a/JJ ,/, assistant/NN back/RB ,/, uh/UH ,/, in/IN the/DT fifties/NNS and/CC si-/NNS ,/, well/UH ,/, I/PRP guess/VBP ,/, in/IN the/DT sixties/NNS ,/,","{C and } [ they, + {F uh, } they ] broke in [ one, + one ] night and found a bunch of memos that were, {F uh, } supposedly [ from, + from ] Hughes [ to, + {F uh, } to ] his [ main, + {F uh, } main ] [ a-, + assistant ] back, {F uh, } in the fifties and [ si-, + {F well, } I guess, in the sixties, ]"
+ba,A,"Well/UH ,/, that/DT is/VBZ interesting/JJ ./.","{D Well, } that is interesting. /"
++,B,up/IN until/IN his/PRP$ death/NN ./.,up until his death. /
+b,A,Right/UH ./.,Right. /
+sv,B,"So/RB ,/, it/PRP 's/BES pretty/RB interesting/JJ work/NN","{D So, } it's pretty interesting work /"
+%,B,"so/RB ,/,","{C so, } -/"
+sv,A,That/DT is/VBZ an/DT intriguing/JJ type/NN of/IN book/NN to/TO be/VB reading/VBG and/CC trying/VBG to/TO keep/VB up/IN on/IN things/NNS like/IN that/DT ./.,That is an intriguing type of book to be reading and trying to keep up on things like that. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"it/PRP 's/BES a/DT ,/, it/PRP 's/BES a/DT little/JJ ,/, it/PRP 's/BES a/DT little/RB hard/JJ MUMBLEx/XX","[ [ it's a, + it's a little, ] + it's a little ] hard (( )) /"
+sv,B,you/PRP have/VBP to/TO plod/VB through/IN it/PRP,you have to plod through it /
+sd,B,"and/CC ,/, you/PRP know/VBP ,/, it/PRP does/VBZ not/RB have/VB a/DT real/JJ story/NN ,/, or/CC any/DT plot/NN ,/,","{C and, } {D you know, } it does not have a real story, or any plot, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,you/PRP just/RB kind/RB of/RB have/VBP to/TO read/VB and/CC understand/VB what/WP is/VBZ going/VBG on/RP ./.,you just kind of have to read and understand what is going on. /
+sd,A,"And/CC ,/, they/PRP have/VBP not/RB made/VBN a/DT movie/NN of/IN the/DT week/NN of/IN it/PRP yet/RB ./.","{C And, } they have not made a movie of the week of it yet. /"
+aa,B,"No/UH ,/,","No, /"
+sd,B,I/PRP have/VBP not/RB seen/VBN it/PRP ./.,I have not seen it. /
+x,A,,<Laughter>.
+sv,B,"But/CC it/PRP 's/BES ,/, but/CC it/PRP is/VBZ ,/, it/PRP is/VBZ real/RB interesting/JJ ,/,","[ {C But } it's, + {C but } [ it is, + it is ] ] real interesting, /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"uh/UH ,/, I/PRP also/RB reading/VBG ,/, uh/UH ,/, the/DT ,/, uh/UH ,/, thi-/XX ,/,","{F uh, } I also reading, {F uh, } [ the, + {F uh, } thi-, ] - /"
+sd,B,"it/PRP 's/BES a/DT ,/, an/DT old/JJ ,/, another/DT old/JJ book/NN that/WDT I/PRP happen/VBP to/TO have/VB ./.","it's [ [ a, + an old, ] + another old ] book that I happen to have. /"
+sd,B,I/PRP am/VBP sort/RB of/RB rereading/VBG it/PRP ./.,I am sort of rereading it. /
+sd,B,"It/PRP 's/BES ,/, uh/UH ,/, a/DT book/NN about/IN ,/, uh/UH ,/, the/DT Bermuda/NNP Triangle/NNP ,/,","It's, {F uh, } a book about, {F uh, } the Bermuda Triangle, /"
+sd,B,"but/CC it/PRP 's/BES ,/, uh/UH ,/, it/PRP 's/BES about/IN ,/, it/PRP 's/BES a/DT real/RB good/JJ book/NN that/WDT a/DT guy/NN ,/, uh/UH ,/, wrote/VBD who/WP was/VBD ,/, uh/UH ,/, a/DT research/NN librarian/NN ,/,","{C but } [ [ it's, + {F uh, } it's about, ] + it's ] a real good book that a guy, {F uh, } wrote who was, {F uh, } a research librarian, /"
+sd,B,"he/PRP wrote/VBD ,/, uh/UH ,/, sort/RB of/RB debunking/VBG many/JJ of/IN the/DT ,/, uh/UH ,/, uh/UH ,/, MUMBLEx/XX the/DT stories/NNS about/IN the/DT ,/, uh/UH ,/, Bermuda/NNP Triangle/NNP ./. You/PRP know/VBP ,/,","he wrote, {F uh, } sort of <sigh> debunking many of [ the, + {F uh, } {F uh, } (( )) the ] stories about the, {F uh, } Bermuda Triangle. {D You know, } /"
+sd,B,"he/PRP ,/, he/PRP was/VBD thinking/VBG many/JJ ,/,","[ he, + he ] was thinking [ [ many, +"
+%,A,Uh/UH ./.,{F Uh. } /
++,B,"many/JJ of/IN the/DT the/DT myths/NNS ,/, many/JJ of/IN the/DT myths/NNS of/IN the/DT triangle/NN were/VBD ,/, uh/UH ,/, actually/RB ,/, could/MD be/VB explained/VBN ,/,","many ] of [ the + <sigh> the ] myths, + many of the myths ] of the triangle [ were, + {F uh, } actually, <sigh> could be ] explained, /"
+sd,A,"Explained/VBN MUMBLEx/XX ,/,","Explained (( )) , /*[[listen; could be br]]"
+sd,B,"and/CC ,/, you/PRP know/VBP ./. Uh/UH ,/, and/CC the/DT rea-/NN ,/, reason/NN I/PRP was/VBD ,/, MUMBLEx/XX picked/VBD it/PRP back/RB up/RP was/VBD in/IN light/NN of/IN all/PDT the/DT ,/, uh/UH ,/, MUMBLEx/XX Well/UH when/WRB they/PRP found/VBD the/DT ,/, uh/UH ,/, the/DT airplanes/NNS on/IN the/DT ,/, in/IN the/DT Atlantic/NNP ,/, thinking/VBG they/PRP were/VBD Flight/NNP Nineteen/CD ./.","[ {C and, } + {D you know. } {F Uh, } {C and } ] the [ rea-, + reason ] I [ was, + (( )) picked ] it back up was in light of [ all the, + {F uh, } (( )) {D Well } when they found [ the, + {F uh, } the ] ] airplanes [ on the, + in the ] Atlantic, thinking they were Flight Nineteen. /"
+sd,B,And/CC I/PRP do/VBP n't/RB know/VB if/IN you/PRP are/VBP familiar/JJ with/IN that/DT at/IN all/DT,{C And } I don't know if you are familiar with that at all /
+%,B,"but/CC it/PRP 's/BES ,/, uh/UH ,/,","{C but } it's, {F uh, } - /"
+sd,B,"Flight/NNP Nineteen/CD was/VBD one/CD of/IN the/DT ,/, uh/UH ,/, was/VBD a/DT ,/, a/DT collection/NN of/IN a/DT flight/NN of/IN five/CD Navy/NNP adventures/NNS at/IN the/DT end/NN of/IN World/NNP War/NNP Two/CD ./. Right/UH after/IN World/NNP War/NNP Two/CD ,/,","Flight Nineteen [ was one of the, + {F uh, } <sigh> was [ a, + a ] ] collection of a flight of five Navy adventures at the end of World War Two. Right after World War Two, /"
+sd,B,"and/CC they/PRP were/VBD ,/, they/PRP were/VBD lost/VBN","{C and } [ they were, + <sigh> they were ] lost /"
+%,B,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+qy^d,A,Supposedly/RB scooped/VBD up/RP by/IN the/DT triangle/NN ./.,Supposedly scooped up by the triangle. /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,they/PRP were/VBD ./.,they were. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC so/RB ,/, and/CC in/IN the/DT book/NN ,/, you/PRP know/VBP ,/, even/RB ,/,","[ {C And so, } + {C and } ] in the book, {D you know, } even, - /"
+sd,B,"he/PRP wrote/VBD this/DT book/NN back/RB in/IN the/DT seventies/NNS ,/,","he wrote this book back in the seventies, /"
+sd,B,"and/CC even/RB ,/, and/CC even/RB then/RB he/PRP ,/, he/PRP had/VBD a/DT very/RB good/JJ case/NN for/IN the/DT fact/NN they/PRP probably/RB just/RB got/VBD lost/VBN and/CC they/PRP ditched/VBD in/IN the/DT water/NN ./.","[ {C and } even, + {C and } even ] then [ he, + <sigh> he ] had a very good case for the fact they probably just got lost and they ditched in the water. /"
+sd,B,"And/CC ,/, uh/UH ,/, because/IN he/PRP ,/, he/PRP mentions/VBZ ,/, he/PRP ,/, he/PRP goes/VBZ through/IN and/CC brings/VBZ out/RP points/NNS from/IN the/DT Navy/NNP 's/POS findings/NNS and/CC so/RB forth/RB ./.","[ {C And, } + {F uh, } {C because } ] [ [ he, + he ] mentions, + [ he, + he ] goes through ] and brings out points from the Navy's findings and so forth. /"
+sv,B,"And/CC ,/, uh/UH ,/, it/PRP 's/BES probably/RB ,/, you/PRP know/VBP ,/, real/RB close/RB to/IN what/WP ,/, you/PRP know/VBP ,/, everyone/NN is/VBZ thinking/VBG ,/, now/RB that/IN ,/, they/PRP just/RB got/VBD turned/VBN around/RP and/CC could/MD not/RB find/VB their/PRP$ way/NN back/RB ./.","{C And, } {F uh, } it's probably, {D you know, } real close to what, {D you know, } everyone is thinking, now that, <sigh> they just got turned around and could not find their way back. /"
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"On/IN that/DT same/JJ topic/NN ,/, have/VBP you/PRP ever/RB read/VBN anything/NN about/IN ,/, you/PRP know/VBP ,/, the/DT Amelia/NNP Earhart/NNP story/NN ,/, whatever/WP happened/VBD with/IN her/PRP$ ?/.","On that same topic, have you ever read anything about, {D you know, } the Amelia Earhart story, whatever happened with her? /"
+nn,B,"Uh/UH ,/, no/UH ,/,","{F Uh, } no, /"
+sd,B,I/PRP have/VBP not/RB ./.,I have not. /
+sv,A,"I/PRP ,/, I/PRP think/VBP that/DT would/MD be/VB ,/,","[ I, + I ] think that would be, - /"
+sv,A,"I/PRP am/VBP sure/JJ there/EX is/VBZ something/NN out/IN there/RB ,/, uh/UH ,/, MUMBLEx/XX ,/,","I am sure there is something out there, {F uh, } (( )) , /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP would/MD I/PRP would/MD like/VB to/TO ,/, too/RB ,/,","[ I would + I would ] like to, too, /"
+sd,B,"because/IN it/PRP 's/BES a/DT lot/NN of/IN things/NNS coming/VBG up/RP here/RB lately/RB about/IN her/PRP$ ,/, you/PRP know/VBP ,/, possibilities/NNS of/IN he-/PRP ,/, of/IN where/WRB she/PRP MUMBLEx/XX ,/,","{C because } it's a lot of things coming up here lately about her, {D you know, } possibilities [ of he-, + of where she ] (( )) , -/"
+sd,A,I/PRP thought/VBD she/PRP was/VBD a/DT prisoner/NN of/IN war/NN or/CC something/NN for/IN like/IN ten/CD years/NNS ./.,(( I thought she )) was a prisoner of war or something for like ten years. /
+%,B,Uh/UH ./.,{F Uh } <sigh>. /
+sd,A,"Well/UH whatever/WP ,/, this/DT is/VBZ one/CD aspect/NN of/IN it/PRP ./.","{D Well } whatever, this is one aspect of it. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"Of/IN course/NN ,/, you/PRP know/VBP ,/, it/PRP is/VBZ so/RB weird/JJ ,/,","Of course, {D you know, } it is so weird, /"
+sv,A,"cause/IN no/DT one/NN will/MD ever/RB really/RB know/VB ,/,","{C cause } no one will ever really know, /"
+%,A,"it/PRP 's/BES ,/, it/PRP ,/, tha-/XX ,/,","[ [ it's, + it, ] + tha-, ] - /"
+sv,A,so/RB but/CC it/PRP 's/BES entertaining/VBG,[ {C so } + {C but } ] it's entertaining /
+sv,A,and/CC it/PRP makes/VBZ you/PRP think/VBP about/IN things/NNS ./.,{C and } it makes you think about things. /
+b,B,Right/UH ./.,Right. /
+sv,A,That/DT is/VBZ for/IN sure/JJ ./.,That is for sure. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"So/RB ,/, that/DT is/VBZ pretty/RB much/JJ for/IN right/RB now/RB ,/,","{D So, } that is pretty much for right now, /"
+sd,B,"that/DT is/VBZ ,/,","that is,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,what/WP I/PRP have/VBP been/VBN reading/VBG ./.,what I have been reading. /
+sd,B,I/PRP kind/RB of/RB like/VBP to/TO read/VB different/JJ stuff/NN,I kind of like to read different stuff /
+sd,B,"and/CC ,/, uh/UH ,/, I/PRP like/VBP to/TO read/VB a/DT novel/NN every/DT now/RB and/CC then/RB ,/,","{C and, } {F uh, } I like to read a novel every now and then, /"
+sd,B,"but/CC ,/, uh/UH ,/, I/PRP am/VBP trying/VBG to/TO get/VB away/RB from/IN just/RB reading/VBG novels/NNS all/PDT the/DT time/NN ./.","{C but, } {F uh, } I am trying to get away from just reading novels all the time. /"
+b,A,Right/UH ./.,Right. /
+sd,A,"Well/UH ,/, I/PRP ,/, I/PRP guess/VBP I/PRP just/RB have/VBP not/RB read/VBN anyth-/NN ,/,","{D Well, } [ I, + I ] guess I just have not read anyth-, - /"
+sd,A,"I/PRP mean/VBP ,/, usually/RB ,/, I/PRP just/RB ,/, if/IN I/PRP find/VBP a/DT good/JJ book/NN ,/, I/PRP will/MD sit/VB ,/, you/PRP know/VBP ,/, for/IN two/CD days/NNS until/IN it/PRP is/VBZ finished/VBN ./. If/IN it/PRP 's/BES that/DT good/JJ ,/,","{E I mean, } usually, [ I just, + if I ] find a good book, I will sit, {D you know, } for two days until it is finished. If it's that good, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,and/CC I/PRP think/VBP the/DT last/JJ one/NN I/PRP read/VBD like/IN that/DT was/VBD Scott/NNP Thurow/NNP 's/POS,{C and } I think the last one I read like that was Scott Thurow's /
+sd,A,and/CC that/DT was/VBD PRESUMED/VBN INNOCENT/JJ ./.,{C and } that was PRESUMED INNOCENT. /
+b,B,Yes/UH ./.,Yes. /
+sd,A,"And/CC I/PRP just/RB really/RB ,/, really/RB liked/VBD the/DT way/NN he/PRP writes/VBZ ./.","{C And } I just really, really liked the way he writes. /"
+sv,A,"It/PRP 's/BES just/RB ,/,","It's just,"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP read/VBD that/DT ,/, too/RB ./.","I read that, too. /"
+sd,B,"I/PRP got/VBD it/PRP ,/, uh/UH ,/, right/UH ,/,","I got it, {F uh, } right,"
++,A,incredible/JJ ./.,incredible. /
++,B,after/IN it/PRP came/VBD out/RP ./.,after it came out. /
+%,B,"My/PRP$ ,/, uh/UH ,/, you/PRP know/VBP ,/,","My, {F uh, } {D you know, } -/"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"he/PRP was/VBD an/DT ,/, an/DT assistant/NN district/NN attorney/NN in/IN Chicago/NNP at/IN ,/, uh/UH ,/, and/CC while/IN he/PRP was/VBD writing/VBG the/DT book/NN ,/,","he was [ an, + an ] assistant district attorney in Chicago [ [ at, + {F uh, } and ] + while ] he was writing the book, /"
+sd,B,"and/CC ,/, uh/UH ,/, my/PRP$ sister-in-law/NN lives/VBZ in/IN Chicago/NNP ,/,","{C and, } {F uh, } my sister-in-law lives in Chicago, /"
+sd,B,"and/CC she/PRP had/VBD ,/, before/IN it/PRP actually/RB got/VBD big/JJ ,/, she/PRP sent/VBD me/PRP this/DT book/NN saying/VBG ,/, you/PRP might/MD like/VB this/DT ,/,","{C and } [ she had, + before it actually got big, she sent ] me this book saying, you might like this, /"
+^q,B,"this/DT guy/NN is/VBZ ,/, you/PRP know/VBP ,/,","this guy is, {D you know, }"
+b,A,Uh/UH ./.,{F Uh. } /
++,B,from/IN here/RB ./.,from here. /
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP read/VBD it/PRP and/CC really/RB liked/VBD it/PRP","{C And, } {F uh, } I read it and really liked it /"
+%,B,"and/CC then/RB about/RB ,/,","{C and then } about, - /"
+sd,B,that/DT is/VBZ when/WRB it/PRP really/RB got/VBD big/JJ ./.,that is when it really got big. /
+%,B,"And/CC ,/, uh/UH ,/, so/RB I/PRP ,/,","{C And, {F uh, } so } I, -/"
+sv,A,"That/DT was/VBD good/JJ ,/, I/PRP think/VBP ./.","That was good, I think. /"
+x,B,MUMBLEx/XX ./.,(( )) .
+sd,A,"And/CC ,/, and/CC the/DT other/JJ book/NN I/PRP am/VBP trying/VBG to/TO think/VB ,/, you/PRP know/VBP ,/, like/UH was/VBD in/IN the/DT last/JJ year/NN","[ {C And, } + {C and } ] the other book I am trying to think, {D you know, } {D like } was in the last year /"
+sd,A,"and/CC I/PRP think/VBP I/PRP did/VBD read/VB Tom/NNP Wolfe/NNP and/CC VANITY/NNP ,/, uh/UH ,/,","{C and } I think I did read Tom Wolfe and VANITY, {F uh, } /"
+^2,B,"BONFIRE/NN OF/IN THE/DT VANITY/NN ,/,","(BONFIRE OF THE VANITY )) , /"
+%,A,BON/NN,(( BON )) /
+aa,A,yeah/UH ./.,yeah. /
+sd,B,"I/PRP have/VBP not/RB read/VB that/DT ,/, although/IN ,/,","I have not read that, although,"
+%,A,Uh/UH ./.,{F Uh. } /
++,B,I/PRP have/VBP heard/VBN it/PRP is/VBZ pretty/RB good/JJ ./.,I have heard it is pretty good. /
+b,A,Yeah/UH,Yeah /
+%,A,"I/PRP ,/,","I, - /"
+sv,A,"that/DT was/VBD really/RB ,/, really/RB good/JJ ,/,","that was really, really good, /"
+sv,A,the/DT movie/NN was/VBD nothing/NN compared/VBN to/IN the/DT book/NN ./.,the movie was nothing compared to the book. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,that/DT is/VBZ what/WP I/PRP have/VBP heard/VBN ./.,that is what I have heard. /
+%,A,And/CC ./.,{C And. } - /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP saw/VBD the/DT movie/NN ,/,","I saw the movie, /"
+%,B,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+sv,A,"Oh/UH ,/, the/DT movie/NN was/VBD a/DT joke/NN compared/VBN to/IN ,/,","{F Oh, } the movie was a joke <laughter> compared to, - /"
+sv,A,"I/PRP mean/VBP ,/, because/IN Tom/NNP Wolfe/NNP is/VBZ so/RB perceptive/JJ ,/,","{E I mean, } {C because } Tom Wolfe is so perceptive,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"when/WRB it/PRP comes/VBZ to/IN ,/, you/PRP know/VBP ,/, pinpointing/VBG ,/, uh/UH ,/, so-/NN ,/, so-/NN ,/, society/NN 's/POS ills/NNS and/CC ,/,","when it comes to, {D you know, } pinpointing, {F uh, } [ [ so-, + so-, ] + society's ] ills and,"
+b,B,Right/UH ./.,Right. /
++,A,things/NNS like/IN that/DT and/CC just/RB nailing/VBG people/NNS to/IN the/DT wall/NN and/CC exposing/VBG things/NNS,things like that and just nailing people to the wall and exposing things /
+sv,A,"and/CC ,/,","[ {C and, } +"
+b,B,Right/UH ./.,Right. /
++,A,"and/CC so/RB ,/, it/PRP was/VBD ,/, it/PRP was/VBD a/DT much/RB more/RBR intense/JJ book/NN than/IN the/DT sort/NN of/IN flimflam/NN that/WDT they/PRP cast/VBP off/RP in/IN the/DT movie/NN ./.","{C and so, } ] [ it was, + it was ] a much more intense book than the sort of flimflam that they cast off in the movie <laughter>. /"
+b,B,I/PRP know/VBP ./.,I know. /
+sd,A,"And/CC ,/, anyway/UH ,/, we/PRP are/VBP not/RB talking/VBG about/IN that/DT ,/,","{C And, } {D anyway, } we are not talking about that, /"
+sd,A,"but/CC ,/, uh/UH ,/, gee/UH ,/, I/PRP just/RB I/PRP like/VBP to/TO read/VB gardening/NN books/NNS and/CC things/NNS like/IN that/DT ./. Just/RB to/TO tell/VB me/PRP what/WP to/TO do/VB with/IN my/PRP$ garden/NN","{C but, } {F uh, } gee, [ I just + I ] like to read gardening books and things like that. Just to tell me what <laughter> to do with my garden /"
+%,A,"and/CC ,/, uh/UH ,/,","[ {C and, } + {F uh, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"And/CC ,/, uh/UH ,/,","{C And, } ] {F uh, } -/"
+sd,B,"I/PRP have/VBP a/DT lot/NN of/IN ,/, uh/UH ,/, uh/UH ,/, computer/NN books/NNS that/WDT","I have a lot of, {F uh, } {F uh, } computer books that - /"
+sd,B,"I/PRP am/VBP ,/, I/PRP do/VBP computer/NN work/NN","[ I am, + I do ] computer work /"
+sd,B,and/CC so/RB I/PRP have/VBP a/DT lot/NN of/IN those/DT ./.,{C and so } I have a lot of those. /
+sd,B,"So/RB ,/, I/PRP spend/VBP a/DT lot/NN of/IN time/NN looking/VBG through/IN those/DT ,/, not/RB necessarily/RB reading/VBG them/PRP but/CC ,/,","{C So, } I spend a lot of time looking through those, not necessarily reading them but,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,looking/VBG through/IN them/PRP ./.,looking through them. /
+sd,B,"But/CC I/PRP ,/, I/PRP 'm/VBP interested/JJ in/IN a/DT lot/NN of/IN that/DT ,/,","{C But } [ I, + I'm ] interested in a lot of that, /"
+sd,B,"but/CC ,/, uh/UH ,/, I/PRP have/VBP got/VBN a/DT lot/NN of/IN books/NNS that/WDT I/PRP ,/, I/PRP intend/VBP to/TO read/VB ,/,","{C but, } {F uh, } I have got a lot of books that [ I, + I ] intend to read, /"
+sd,B,"but/CC I/PRP have/VBP not/RB been/VBN able/JJ to/TO yet/RB ,/, you/PRP know/VBP ,/, for/IN one/CD reason/NN or/CC another/DT ./.","{C but } I have not been able to yet, {D you know, } for one reason or another. /"
+qw,A,"Like/IN ,/, what/WP is/VBZ a/DT book/NN on/IN your/PRP$ list/NN ,/,","{D Like, } what is a book on your list, /"
+sd,A,you/PRP know/VBP I/PRP have/VBP a/DT list/NN too/RB,{D you know } I have a list too /
+sd,A,and/CC I/PRP have/VBP never/RB gotten/VBN to/IN it/PRP ./.,{C and } I have never gotten to it <laughter>. /
+sd,B,"Oh/UH ,/, gosh/UH ,/, I/PRP do/VBP not/RB ,/, I/PRP do/VBP not/RB really/RB have/VB a/DT list/NN ,/,","<Sigh> {F Oh, } gosh, [ I do not, + I do not ] really have a list, /"
+sd,B,"cause/IN I/PRP just/RB kind/RB of/RB ,/, uh/UH ,/, I/PRP just/RB have/VBP all/PDT the/DT books/NNS out/RB ,/, you/PRP know/VBP ,/,","{C cause } [ I just kind of, + {F uh, } I just ] have all the books out, {D you know, } /"
+sd,B,I/PRP have/VBP book/NN shelves/NNS,I have book shelves /
+sd,B,and/CC I/PRP have/VBP them/PRP all/DT out/RB,{C and } I have them all out /
+sd,B,"and/CC usually/RB when/WRB I/PRP am/VBP through/IN with/IN one/CD ,/, I/PRP will/MD go/VB in/RB and/CC ,/, uh/UH ,/, uh/UH ,/, uh/UH ,/, look/VB ,/, look/VB through/IN ,/, uh/UH ,/,","{C and } usually when I am through with one, I will go in <sigh> and, {F uh, } {F uh, } {F uh, } [ look, + look ] through, {F uh, } /"
+sd,B,"I/PRP have/VBP one/CD now/RB and/CC I/PRP ,/, I/PRP can/MD not/RB remember/VB the/DT name/NN of/IN it/PRP that/WDT I/PRP ,/, that/WDT I/PRP got/VBD is/VBZ","I have one now {A {C and } [ I, + I ] can not remember the name of it } [ that I, + that I ] got is - /"
+sd,B,"the/DT sister-in-law/NN in/IN Chicago/NNP usually/RB sends/VBZ me/PRP for/IN my/PRP$ birthday/NN or/CC ,/, or/CC Christmas/NNP or/CC something/NN will/MD send/VB me/PRP another/DT ,/, another/DT good/JJ book/NN","the sister-in-law in Chicago usually sends me for my birthday [ or, + or ] Christmas or something will send me [ another, + another ] good book /"
+%,B,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, }"
+b,A,Oh/UH ./.,Oh. /
++,B,"uh/UH ,/, sh-/XX ,/,","{F uh, } sh-, - /"
+sd,B,I/PRP have/VBP one/CD,I have one /
+sd,B,"and/CC I/PRP can/MD not/RB remember/VB the/DT name/NN of/IN it/PRP ,/, uh/UH ,/,","{C and } I can not remember the name of it, {F uh, } /"
+sd,B,it/PRP is/VBZ supposed/VBN to/TO be/VB a/DT mystery/NN ./.,it is supposed to be a mystery. /

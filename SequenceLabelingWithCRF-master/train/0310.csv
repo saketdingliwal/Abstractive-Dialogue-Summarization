@@ -1,0 +1,101 @@
+act_tag,speaker,pos,text
+x,A,./.,<Clicking>.
+%,B,"Uh/UH ,/, well/UH ,/, h/VBG ,/, having/VBG","<Music> <TV> {F Uh, } {D well, } [ h-, + having ] - /"
+sd,B,sort/RB of/RB the/DT reason/NN we/PRP 're/VBP going/VBG through/IN the/DT school/NN system/NN,((sort of the reason we're)) going through the school system - /
+sv,B,"I/PRP seem/VBP to/TO be/VB younger/JJR than/IN most/JJS people/NNS who/WP ,/, who/WP talk/VBP on/IN this/DT thing/NN ./.","I seem to be younger than most people [ who, + who ] talk on this thing. /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP just/RB graduating/VBG col-/NN ,/, graduating/VBG from/IN college/NN ./.","[ I'm, + I'm ] just [ graduating col-, + graduating from college. ] /"
+sd,B,"Uh/UH ,/, I/PRP did/VBD n't/RB really/RB perceive/VB much/RB of/IN a/DT ,/, of/IN a/DT problem/NN with/IN the/DT school/NN system/NN ./.","{F Uh, } I didn't really perceive much [ of a, + of a ] problem with the school system. /"
+sd,B,"However/RB ,/, when/WRB you/PRP compare/VBP it/PRP to/IN school/NN systems/NNS like/IN they/PRP have/VBP in/IN Japan/NNP and/CC ad-/XX ,/,","However, when you compare it to school systems like they have in Japan and ad-, - /"
+sv,B,"you/PRP can/MD compare/VB just/RB about/RB everyth-/NN ,/, thing/NN to/IN Japan/NNP","you can compare just about [ everyth-, + thing ] to Japan /"
+sv,B,"and/CC we/PRP look/VBP like/IN wh-/XX ,/, we/PRP do/VBP n't/RB have/VB anything/NN ./.","<+ need to separate every th +> {C and } we look like [ wh-, + we ] don't have anything. /"
+sv,B,"Uh/UH ,/, it/PRP seems/VBZ to/TO be/VB not/RB difficult/JJ enough/RB for/IN students/NNS ./. Not/RB challenging/JJ enough/RB ./. And/CC just/RB not/RB generally/RB competitive/JJ enough/RB ./.","{F Uh, } it seems to be not difficult enough for students. Not challenging enough. And just not generally competitive enough. /"
+sv,B,"Uh/UH ,/, however/RB ,/, I/PRP ,/, if/IN it/PRP were/VBD n't/RB for/IN our/PRP$ needless/JJ ,/, uh/UH ,/, competition/NN with/IN Japan/NNP ,/, I/PRP ,/, I/PRP 'd/MD ,/, I/PRP 'd/MD think/VB that/IN ,/, that/IN ,/, the/DT school/NN systems/NNS ,/, system/NN works/VBZ at/IN a/DT pretty/RB good/JJ pace/NN ./.","{F Uh, } however, [ I, + ] if it weren't for our needless, {F uh, } <sigh> competition with Japan, [ [ I, + I'd, ] + I'd ] think [ that, + that, ] the school [ systems, + system ] works at a pretty good pace. /"
+sd,A,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+%,A,"Uh/UH ,/, I/PRP have/VBP n't/RB ,/,","{F Uh, } I haven't, - /"
+sd,A,"it/PRP 's/HVS been/VBN ,/, uh/UH ,/, well/UH seventy-nine/CD since/IN I/PRP was/VBD at/IN school/NN ./.","it's been, {F uh, } {D well } seventy-nine since I was [ at school. +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,At/IN high/JJ school/NN ./.,At high school. ] /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP 've/VBP seen/VBN things/NNS change/VB ./.","{C And, } {F uh, } I've seen things change. /"
+sv,A,"I/PRP do/VBP n't/RB know/VB if/IN I/PRP 've/VBP seen/VBN things/NNS change/VB enough/RB that/IN I/PRP can/MD actually/RB ,/,","I don't know if I've seen things change enough that I can actually, - /"
+sd,A,because/IN I/PRP was/VBD n't/RB really/RB like/UH listening/VBG to/IN the/DT world/NN go/VB by/RB back/RB then/RB,{C because } I wasn't really {D like } listening to the world go by back then /
+sv,A,so/RB it/PRP 's/BES hard/JJ to/TO compare/VB ./.,{C so } it's hard to compare. /
+qy,A,You/PRP know/VBP what/WP I/PRP mean/VBP ?/.,You know what I mean? /
+na,B,Right/UH ./.,Right. /
+sd,A,"But/CC ,/, uh/UH ,/, it/PRP seems/VBZ like/IN when/WRB I/PRP li/VBD ,/, I/PRP lived/VBD in/IN Chicago/NNP ,/,","{C But, } {F uh, } it seems like when [ I li-, + I lived ] in Chicago, - /"
+sd,A,"I/PRP ,/, I/PRP 've/VBP lived/VBN down/IN here/RB ./.","[ I, + I've ] lived down here. /"
+sd,A,"I/PRP hear/VBP the/DT dropout/NN rates/NNS from/IN the/DT schools/NNS ,/,","I hear the dropout rates from the schools, /"
+x,B,./.,<Rustling>.
+sd,A,and/CC I/PRP certainly/RB see/VBP how/WRB much/RB I/PRP pay/VBP in/IN real/JJ estate/NN taxes/NNS every/DT year/NN ./.,{C and } I certainly see how much I pay in real estate taxes every year. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,And/CC I/PRP begin/VBP to/TO wonder/VB if/IN I/PRP 'm/VBP really/RB getting/VBG my/PRP$ money/NN 's/POS worth/NN ./.,{C And } I begin to wonder if I'm really getting my money's worth. /
+%,B,Huh/UH ./.,{F Huh. } /
+sd,A,"I/PRP mean/VBP ,/, I/PRP ,/, I/PRP 've/VBP seen/VBN so/RB many/JJ different/JJ things/NNS ./. So/RB ,/, so/RB many/JJ different/JJ bad/JJ reports/NNS coming/VBG out/IN of/IN the/DT school/NN system/NN","{E I mean, } [ I, + I've ] seen so many different things. [ So, + so ] many different bad reports coming out of the school system /"
+sv,A,and/CC I/PRP recognize/VBP that/IN there/EX are/VBP good/JJ schools/NNS out/IN there/RB ./.,{C and } I recognize that there are good schools out there. /
+sv,A,"I/PRP mean/VBP ,/, somebody/NN 's/BES --/:","{E I mean, } somebody's --"
+b,B,Right/UH ./.,Right. /
++,A,"--/: getting/VBG ,/, getting/VBG a/DT good/JJ education/NN because/IN we/PRP ,/,","-- [ getting, + getting ] a good education because we,"
+x,B,./.,<Clicking>.
++,A,continue/VBP to/TO employ/VB people/NNS ./.,continue to employ people. /
+sd,A,"But/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB understand/VB the/DT ,/, uh/UH ,/, I/PRP do/VBP n't/RB understand/VB ,/, I/PRP guess/VBP ,/, why/WRB the/DT schools/NNS don-/XX ,/, seem/VBP to/TO have/VB such/PDT a/DT high/JJ dropout/NN rate/NN in/IN the/DT big/JJ cities/NNS ./.","{C But, } {F uh, } <swallowing> [ [ I don't, + I don't understand the, ] + {F uh, } I don't understand, ] I guess, why the schools [ don-, + ] seem to have such a high dropout rate in the big cities. /"
+sd,B,"Uh/UH ,/, well/UH ,/, I/PRP do/VBP n't/RB pretend/VB to/TO understand/VB that/DT either/RB ./.","{F Uh, } {D well, } I don't pretend to understand that either. /"
+sv,B,"Uh/UH ,/, but/CC I/PRP 'm/VBP not/RB quite/RB sure/JJ that/IN it/PRP 's/BES the/DT kind/NN of/IN thing/NN that/WDT ought/MD to/TO be/VB blamed/VBN on/IN the/DT schools/NNS ./.","{F Uh, } {C but } I'm not quite sure that it's the kind of thing that ought to be blamed on the schools. /"
+sv,B,"But/CC then/RB ,/, again/RB ,/, I/PRP 'm/VBP not/RB quite/RB sure/JJ where/WRB the/DT blame/NN ought/MD to/TO be/VB put/VBN ./. Uh/UH ,/, because/IN the/DT ,/, the/DT dropout/NN rate/NN is/VBZ ,/, in/IN those/DT areas/NNS ,/, w/WRB ,/,","{C But } then, again, I'm not quite sure where the blame ought to be put. {F Uh, } because [ the, + the ] dropout rate is, in those areas, w-, - /"
+sd,B,"it/PRP 's/BES high/JJ in/IN those/DT areas/NNS where/WRB also/RB there/EX 's/BES poverty/NN and/CC ,/, and/CC crime/NN ./.","it's high in those areas where also there's poverty [ and, + and ] crime. /"
+sv,B,And/CC they/PRP all/DT seem/VBP to/TO go/VB together/RB ./.,{C And } they all seem to go together. /
+sv,B,"And/CC it/PRP seems/VBZ like/IN if/IN you/PRP could/MD eliminate/VB one/CD of/IN ,/, of/IN the/DT parts/NNS of/IN that/DT circle/NN ,/, whether/IN ,/, where/WRB you/PRP have/VBP the/DT dropout/NN rate/NN and/CC crime/NN and/CC ,/, you/PRP know/VBP ,/, general/JJ poverty/NN kind/NN of/IN conditions/NNS ,/, that/IN things/NNS ought/MD to/TO get/VB better/JJR ./.","{C And } it seems like if you could eliminate one <sniffing> [ of, + of ] the parts of that circle, [ whether, + where ] you have the dropout rate and crime and, {D you know, } general poverty kind of conditions, <sniffing> that things ought to get better. /"
+%,B,"So/RB ,/, uh/UH ,/, a-/XX ,/, the/DT other/JJ two/CD a-/XX ,/, a-/XX ,/,","{C So, } {F uh, } [ a-, + the other two [ a-, + a-, ] ] - /"
+sv,B,"they/PRP 're/VBP all/DT three/CD social/JJ issues/NNS and/CC could/MD be/VB addressed/VBN by/IN the/DT government/NN in/IN any/DT ways/NNS ./. And/CC clearly/RB ,/, to/IN me/PRP ,/, is/VBZ a/DT kind/NN of/IN government/NN thing/NN to/TO ,/, to/TO fix/VB","they're all three social issues and could be addressed by the government in any ways <sniffing>. And clearly, to me, is a kind of government thing [ to, + to ] fix /"
+sv,B,"but/CC it/PRP 's/BES just/RB like/IN ,/, I/PRP ,/, I/PRP do/VBP n't/RB expect/VB them/PRP to/TO know/VB which/WDT ,/, which/WDT ,/, which/WDT part/NN is/VBZ best/JJS to/TO fix/VB just/RB like/IN I/PRP do/VBP n't/RB know/VB ./.","{C but } it's just like, [ I, + I ] don't expect them to know [ [ which, + which, ] + which ] part is best to fix just like I don't know. /"
+sv,B,"It/PRP 's/BES ,/, it/PRP 's/BES a/DT complicated/JJ issue/NN ./.","[ It's, + it's ] a complicated issue. /"
+sv,B,"I/PRP ,/, I/PRP still/RB do/VBP n't/RB think/VB I/PRP would/MD blame/VB it/PRP directly/RB on/IN the/DT school/NN ./.","[ I, + I ] still don't think I would blame it directly on the school. /"
+sd,A,I/PRP do/VBP n't/RB know/VB if/IN I/PRP blame/VBP it/PRP on/IN the/DT school/NN ./.,I don't know if I blame it on the school. /
+sv,A,"I/PRP think/VBP ,/, I/PRP think/VBP I/PRP blame/VBP it/PRP ,/, I/PRP think/VBP I/PRP blame/VBP it/PRP on/IN a/DT couple/NN of/IN different/JJ things/NNS ./.","[ [ I think, + I think I blame it, ] + I think I blame it ] on a couple of different things. /"
+sv,A,"I/PRP think/VBP I/PRP blame/VBP it/PRP on/IN the/DT school/NN system/NN ./. Uh/UH ,/,","I think I blame it on the school system. {F Uh, } /"
+sd,B,"Well/UH ,/, that/DT 's/BES I/PRP meant/VBD when/WRB I/PRP said/VBD the/DT school/NN ./.","{D Well, } that's I meant when I said the school. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,I/PRP do/VBP n't/RB blame/VB it/PRP on/IN the/DT teachers/NNS in/IN the/DT school/NN ./.,I don't blame it on the teachers in the school. /
+sv,A,"I/PRP ,/, although/IN I/PRP think/VBP that/IN ,/,","[ I, + although I ] think that, - /"
+sd,A,"I/PRP do/VBP know/VB for/IN a/DT fact/NN that/IN some/DT of/IN the/DT teachers/NNS that/WDT I/PRP know/VBP personally/RB get/VBP paid/VBN an/DT awful/JJ lot/NN more/RBR than/IN ,/,","I do know for a fact that some of the teachers that I know personally get paid an awful lot more than, - /"
+sv,A,"well/UH ,/, they/PRP do/VBP quite/RB well/RB for/IN themselves/PRP ./.","{D well, } <throat_clearing> they do quite well for themselves <laughter>. /"
+%,B,Huh/UH ./.,{F Huh. } /
+sv,B,"Well/UH ,/, that/DT 's/BES odd/JJ because/IN I/PRP do/VBP n't/RB think/VB the/DT teachers/NNS in/IN my/PRP$ school/NN district/NN ,/, uh/UH ,/, were/VBD well/RB paid/VBN ./.","{D Well, } that's odd because I don't think the teachers in my school district, {F uh, } were well paid. /"
+b,A,No/UH ./.,No. /
+sd,A,Not/RB all/DT school/NN districts/NNS are/VBP well/RB paid/VBN ./.,Not all school districts are well paid. /
+sv,A,But/CC there/EX are/VBP some/DT school/NN districts/NNS out/IN there/RB that/WDT are/VBP very/RB well/RB paid/VBN ./.,{C But } there are some school districts out there that are very well paid. /
+sd,A,"I/PRP mean/VBP I/PRP know/VBP one/CD family/NN that/WDT 's/HVS got/VBN ,/,","{E I mean } I know one family that's got, - /"
+sd,A,"they/PRP 're/VBP both/DT teachers/NNS ,/,","they're both teachers, /"
+sd,A,"and/CC they/PRP both/DT have/VBP ,/,","{C and } they both have,"
+x,B,./.,<Rustling>.
++,A,like/UH second/JJ jobs/NNS --/:,{D like } second jobs --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: that/WDT they/PRP work/VBP in/IN the/DT afternoons/NNS ./.,-- that they work in the afternoons. /
+sd,A,They/PRP both/DT work/VBP all/DT summer/NN full-time/JJ ./.,They both work all summer full-time. /
+sd,A,"And/CC from/IN their/PRP$ teaching/NN job/NN alone/RB ,/, they/PRP pull/VBP in/RP forty/CD grand/JJ each/DT ./.","{C And } from their teaching job alone, they pull in forty grand each. /"
+b,B,Yeah/UH ./.,Yeah. /
+%,B,"Well/UH ,/, it/PRP ,/, it/PRP ,/,","{D Well, } [ it, + it, ] -/"
+sd,A,I/PRP mean/VBP that/DT family/NN is/VBZ making/VBG over/IN a/DT hundred/CD grand/JJ ./.,I mean that family is making over a hundred grand. /
+%,A,"And/CC I/PRP 'm/VBP ,/,","{C And } I'm, - /"
+aa,A,"I/PRP mean/VBP ,/, okay/UH ,/,","{E I mean, } okay, /"
+aa,A,okay/UH ./.,okay. /
+aa,A,"Yes/UH ,/,","Yes, /"
+sd,A,I/PRP agree/VBP that/IN teaching/VBG our/PRP$ kids/NNS is/VBZ important/JJ ./.,I agree that teaching our kids is important. /
+b,B,Right/UH ./.,Right. /
+sv,A,"However/RB ,/, these/DT people/NNS who/WP only/RB work/VBP eight/CD hours/NNS day/NN at/IN it/PRP ,/, from/IN seven/CD to/IN three/CD ,/,","However, these people who only work eight hours day at it, from seven to three, /"
+x,B,./.,<Noise>.
+sd,A,and/CC they/PRP only/RB work/VBP nine/CD months/NNS a/DT year/NN,{C and } they only work nine months a year /
+sv,A,and/CC they/PRP get/VBP an/DT awful/JJ lot/NN of/IN breaks/NNS in/IN between/IN,{C and } they get an awful lot of breaks in between /
+sd,A,and/CC that/DT 's/BES my/PRP$ tax/NN dollars/NNS that/WDT I/PRP 'm/VBP spending/VBG on/IN that/DT ./.,{C and } that's my tax dollars that I'm spending on that. /
+sd,A,And/CC I/PRP do/VBP n't/RB even/RB have/VB kids/NNS ./.,{C And } I don't even have kids <laughter>. /
+aa,B,"Yeah/UH ,/,","Yeah, <laughter> /"
+aa,B,well/UH that/DT 's/BES true/JJ ./.,{D well } that's true. /
+%,B,"But/CC tha-/DT ,/, there/EX 's/BES ,/,","{C But } [ tha-, + there's, ] - /"
+sd,B,"you/PRP can/MD always/RB play/VB games/NNS with/IN ,/, uh/UH ,/, talking/VBG about/IN ,/, whoa/UH ,/, look/VB at/IN this/DT ./.","you can always play games with, {F uh, } talking about, whoa, look at this. /"
+^q,B,My/PRP$ tax/NN dollars/NNS are/VBP paying/VBG for/IN this/DT ./.,My tax dollars are paying for this. /
+^q,B,This/DT is/VBZ wrong/JJ ./.,This is wrong. /
+%,B,"But/CC ,/, when/WRB you/PRP 're/VBP talk/VBG ,/, w-/XX ,/, w-/XX ,/,","{C But, } when you're [ [ talk-, + w-, ] + w-, ] - /"
+sv,B,and/CC there/EX 's/BES really/RB not/RB much/RB you/PRP can/MD directly/RB do/VB about/IN that/DT ./.,{C and } there's really not much you can directly do about that. /
+sv,B,"I/PRP think/VBP that/IN ,/, that/IN if/IN ,/, if/IN there/EX is/VBZ a/DT problem/NN with/IN the/DT school/NN system/NN ,/, uh/UH ,/, from/IN ,/, it/PRP 's/HVS been/VBN my/PRP$ perception/NN that/IN the/DT school/NN teachers/NNS and/CC school/NN officials/NNS are/VBP not/RB that/RB well/RB ,/, uh/UH ,/, paid/VBN ./. That/DT perhaps/RB that/DT might/MD be/VB one/CD area/NN that/WDT ,/, that/WDT could/MD be/VB improved/VBN ./.","I think [ that, + that ] [ if, + if ] there is a problem with the school system, {F uh, } [ from, + ] it's been my perception that the school teachers and school officials are not that well, {F uh, } paid. That perhaps that might be one area [ that, + that ] could be improved. /"
+%,B,"Uh/UH ,/, w-/XX ,/,","{F Uh, } w-, - /"
+sd,B,you/PRP have/VBP other/JJ professional/JJ jobs/NNS,you have other professional jobs /
+sd,B,"and/CC th-/DT ,/, this/DT is/VBZ a/DT profession/NN ./.","{C and } [ th-, + this ] is a profession. /"
+sv,B,"And/CC ,/, as/IN a/DT matter/NN of/IN fact/NN ,/, it/PRP 's/BES a/DT pretty/RB big/JJ influence/NN on/IN ,/, on/IN ,/,","{C And, } as a matter of fact, it's a pretty big influence [ on, + on ] </music> </TV>, -/"

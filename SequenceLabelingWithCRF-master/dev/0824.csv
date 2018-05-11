@@ -1,0 +1,191 @@
+act_tag,speaker,pos,text
+fp,A,Hello/UH ./.,Hello. /
+fp,B,Hello/UH there/RB ./.,Hello there. /
+qy,A,Did/VBD I/PRP reach/VB the/DT Dallas/NNP area/NN ?/.,Did I reach the Dallas area? /
+br,B,I/PRP beg/VBP your/PRP$ pardon/NN ?/.,I beg your pardon? /
+qy,A,Did/VBD I/PRP reach/VB the/DT Dallas/NNP area/NN ?/.,Did I reach the Dallas area? /
+nn,B,"No/UH ,/,","No, /"
+sd,B,"you/PRP 've/VBP reached/VBN Dayton/NNP ,/, Ohio/NNP ./.","you've reached Dayton, Ohio. /"
+b^m,A,"Dayton/NNP ,/, Ohio/NNP ,/,","Dayton, Ohio, /"
+sd,A,I/PRP 'm/VBP from/IN North/NNP Carolina/NNP ./.,I'm from North Carolina. /
+sd,B,"Oh/UH ,/, you/PRP 're/VBP from/IN North/NNP Carolina/NNP ./.","{F Oh, } you're from North Carolina. /"
+qw,B,Where/WRB in/IN North/NNP Carolina/NNP ?/.,Where in North Carolina? /
+sd,A,In/IN Raleigh/NNP ./.,In Raleigh. /
+b^m,B,"Raleigh/NN ,/,","Raleigh, /"
+ba,B,great/JJ ./.,great. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,B,"Well/UH ,/, my/PRP$ name/NN 's/POS Mary/NNP ./.","{D Well, } my name's Mary. /"
++,A,My/PRP$ name/NN is/VBZ Fernando/NN ./.,My name is Fernando. / *[[sd]]
+"fo_o_fw_""_by_bc",B,"Fernando/NN ,/, glad/JJ to/TO know/VB you/PRP ./.","Fernando, glad to know you. /"
+%,A,"So/UH ,/, um/UH ,/, do/VBP you/PRP ,/, well/UH ,/,","{C So, } {F um, } do you, {D well, } - /"
+qw,A,how/WRB 'd/MD you/PRP find/VB out/RP about/IN this/DT ?/.,how'd you find out about this? /
+sd,B,"Uh/UH ,/, I/PRP was/VBD visiting/VBG my/PRP$ son/NN down/IN in/IN Dallas/NNP ,/,","{F Uh, } I was visiting my son down in Dallas, /"
+%,B,and/CC ./.,{C and. } -/
+bk,A,"Oh/UH ,/, okay/UH ,/,","{F Oh, } okay, /"
+bf,A,he/PRP works/VBZ for/IN T/NNP I/NNP ./.,he works for T I. /
+nn,B,"No/UH ,/,","No, /"
+nn,B,"no/UH ,/,","no, /"
+sd,B,"but/CC his/PRP$ wife/NN has/VBZ a/DT contract/NN with/IN T/NNP I/NNP ,/,","{C but } his wife has a contract with T I, /"
+sd,B,"and/CC that/DT 's/BES how/WRB we/PRP learned/VBD about/IN it/PRP ,/,","{C and } that's how we learned about it, /"
+%,B,uh-huh/NNP ./.,uh-huh. /
+bk,A,"Oh/UH ,/, okay/UH ,/,","{F Oh, } okay, /"
+sd,A,because/RB I/PRP 'm/VBP down/RB at/IN N/NNP C/NNP State/NNP ./.,{C because } I'm down at N C State. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+sd,A,"And/CC so/RB I/PRP took/VBD a/DT class/NN ,/,","{C And so } I took a class, /"
+sd,A,"and/CC he/PRP said/VBD ,/, sign/VB up/RP and/CC get/VB some/DT money/NN --/:","{C and } he said, sign up and get some money --"
+ba,B,Right/UH ./.,Right <laughter>. /
++,A,--/: and/CC just/RB talk/VB for/IN five/CD minutes/NNS ./.,-- and just talk for five minutes. /
+qy,A,So/UH are/VBP you/PRP ready/JJ ?/.,<talking> {C So } are you ready? /
+na,B,I/PRP 'm/VBP ready/JJ ./.,I'm ready. /
+%,A,"Okay/UH ,/,","Okay, /"
+ad,A,let/VB 's/PRP get/VB started/VBN ./.,let's get started. <beep> <<Sounds like a phone beeping in.>> /
+aa,B,"All/UH right/UH ,/,","All right, /"
+aa,B,okay/UH ./.,okay. /
+%,A,"Okay/UH ,/,","Okay, /"
+qo,A,"so/UH ,/, uh/UH ,/, what/WP do/VBP you/PRP think/VB ,/, that/IN ,/, uh/UH ,/,","{C so, } {F uh, } what do you think, that, {F uh, } - /"
+qo,A,"what/WP do/VBP ,/, what/WP do/VBP ,/, what/WP do/VBP you/PRP think/VBP we/PRP can/MD do/VB to/TO solve/VB the/DT crime/NN in/IN America/NNP ?/.","[ [ what do, + what do, ] + what do ] you think we can do to solve the crime in America? /"
+sv,B,"Oh/UH ,/, if/IN I/PRP knew/VBD that/DT I/PRP 'd/MD be/VB a/DT very/RB wealthy/JJ person/NN ./.","{F Oh, } if I knew that I'd be a very wealthy person. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+qo,A,"but/CC what/WP ,/, what/WP ,/, what/WP are/VBP the/DT steps/NNS ?/.","{C but } [ [ what, + what, ] + what ] are the steps? /"
+sv,B,"Well/UH ,/, you/PRP have/VBP to/TO see/VB ,/,","{D Well, } you have to see, /"
+"fo_o_fw_""_by_bc",B,"I/PRP ,/, the/DT way/NN I/PRP look/VBP at/IN it/PRP ,/, you/PRP have/VBP to/TO think/VB first/RB of/IN all/DT why/WRB ,/,","[ I, + the way I ] look at it, you have to think first of all why, / *[[listen]]"
+qh,B,"or/CC ha/VBZ ,/, has/VBZ crime/NN increased/VBN ,/,","{C or } [ ha-, + has ] ] crime increased, /"
+qh,B,"and/CC if/IN so/RB ,/, why/WRB has/VBZ crime/NN increased/VBN ?/.","{C and } if so, why has crime increased? /"
+sv,A,"Well/UH ,/, see/UH the/DT problem/NN is/VBZ ,/, is/VBZ that/IN ,/, um/UH ,/, what/WP happens/VBZ is/VBZ as/IN ,/, that/IN you/PRP 're/VBP ,/, uh/UH ,/, you/PRP know/VBP ,/, as/IN you/PRP go/VBP from/IN the/DT country/NN to/IN a/DT city/NN ,/, crime/NN always/RB increases/VBZ ,/, right/JJ ?/.","{D Well, } {D see } the problem [ is, + is ] that, {F um, } <clicking> what happens is [ as, + ] that [ you're, + {F uh, } {D you know, } as you ] go from the country to a city, crime always increases, right? /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Because/RB in/IN the/DT country/NN ,/, people/NNS still/RB respect/VBP ,/, uh/UH ,/, the/DT property/NN of/IN other/JJ people/NNS ./.","{C Because } in the country, people still respect, {F uh, } the property of other people. /"
+b,B,Right/UH ./.,Right. /
+%,A,"And/CC so/RB ,/, as/RB ,/, as/RB ,/,","{C And so, } [ as, + as, ] - /"
+sv,A,and/CC the/DT people/NNS in/IN the/DT country/NN do/VBP n't/RB want/VB as/RB much/RB as/IN the/DT people/NNS in/IN the/DT city/NN ./.,{C and } the people in the country don't want as much as the people in the city. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Now/UH what/WP happens/VBZ is/VBZ all/PDT those/DT that/WDT do/VBP n't/RB have/VB any/DT money/NN in/IN the/DT country/NN move/VBP to/IN the/DT cities/NNS ,/,","{D Now } what happens is all those that don't have any money in the country move to the cities, /"
+sv,A,and/CC they/PRP rush/VBP to/TO get/VB the/DT same/JJ thing/NN ./.,{C and } they rush to get the same thing. /
+sv,A,"They/PRP say/VBP ,/, why/WRB ca/MD n't/RB we/PRP have/VBP the/DT same/JJ things/NNS that/IN these/DT other/JJ people/NNS have/VBP ,/,","They say, why can't we have the same things that these other people have, /"
+sv,A,"and/CC the/DT thing/NN that/WDT we/PRP can/MD do/VB is/VBZ ,/, we/PRP need/VBP money/NN for/IN drugs/NNS ,/,","{C and } the thing that we can do is, we need money for drugs, /"
+sv,A,"and/CC what/WP we/PRP have/VBP to/TO do/VB is/VBZ ,/, we/PRP have/VBP to/TO go/VB ,/, uh/UH ,/, get/VB some/DT stuff/NN ,/, steal/VB it/PRP ,/, and/CC then/RB ,/, you/PRP know/VBP ,/, just/RB resell/VB it/PRP ./.","{C and } what we have to do is, we have to go, {F uh, } get some stuff, steal it, and then, {D you know, } just resell it. /"
+bf,B,"It/PRP 's/BES easy/JJ ,/,","It's easy, /"
+sv,B,you/PRP said/VBD the/DT magic/JJ word/NN there/RB ./.,you said the magic word there. /
+qw,A,Which/WDT one/NN ?/.,Which one? /
+sd,B,Drugs/NNS ./.,Drugs. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,And/CC that/DT certainly/RB is/VBZ one/CD reason/NN why/WRB crime/NN here/RB has/VBZ increased/VBN ./.,{C And } that certainly is one reason why crime here has increased. /
+sv,A,"That/DT 's/BES ,/, uh/UH ,/, that/DT 's/BES ,/, uh/UH ,/, the/DT main/JJ reason/NN I/PRP think/VBP ,/, uh/UH ,/, everywhere/RB","[ That's, + {F uh, } that's, ] {F uh, } the main reason I think, {F uh, } everywhere /"
+sv,A,"because/RB ,/, uh/UH ,/, you/PRP have/VBP deaths/NNS ./.","{C because, } {F uh, } you have deaths. /"
+sv,A,"I/PRP mean/VBP ,/, I/PRP mean/VBP ,/, you/PRP have/VBP murders/NNS","{E I mean, } {E I mean, } you have murders /"
+sv,A,"and/CC you/PRP have/VBP ,/, you/PRP know/VBP ,/, people/NNS stealing/VBG other/JJ people/NNS 's/POS stuff/NN ,/,","{C and } you have, {D you know, } people stealing other people's stuff, /"
+%,A,and/CC that/DT 's/BES,{C and } that's - /
+sv,A,a/DT lot/NN of/IN it/PRP has/VBZ to/TO do/VB with/IN drugs/NNS ./.,a lot of it has to do with drugs. /
+aa,B,"Oh/UH ,/, yes/UH ./.","{F Oh, } yes. /"
+%,A,"It/PRP does/VBZ n't/RB have/VB to/TO do/VB ,/,","It doesn't have to do, - /"
+sv,A,"I/PRP mean/VBP ,/, the/DT thing/NN is/VBZ is/VBZ that/DT ,/, you/PRP know/VBP ,/, it/PRP 's/BES like/UH you/PRP might/MD be/VB standing/VBG somewhere/RB ,/, right/UH ,/,","{E I mean, } the thing [ is + is ] that, {D you know, } it's like you might be standing somewhere, right, /"
+sv,A,"and/CC like/IN let/VB 's/PRP say/VB you/PRP ,/, you/PRP 're/VBP ,/, you/PRP 're/VBP ,/, you/PRP know/VBP ,/, you/PRP 're/VBP driving/VBG out/RB","{C and } {D like } let's say [ [ [ you, + you're, ] + you're, ] + {D you know, } you're ] driving out /"
+sv,A,and/CC you/PRP 're/VBP driving/VBG back/RB home/NN,{C and } you're driving back home /
+sv,A,and/CC it/PRP 's/BES late/JJ at/IN night/NN ./.,{C and } it's late at night. /
+sv,A,"And/CC you/PRP stop/VBP by/RP one/NN of/IN these/DT ,/, you/PRP know/VBP ,/, twenty-four/CD hour/NN ,/, you/PRP know/VBP ,/, gas/NN stations/NNS joints/NNS ./.","{C And } you stop by one of these, {D you know, } twenty-four hour, {D you know, } gas stations joints. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC ,/, uh/UH ,/, somebody/NN walks/VBZ in/IN there/RB with/IN a/DT gun/NN ./.","{C And, } {F uh, } somebody walks in there with a gun. /"
+sv,A,"I/PRP mean/VBP ,/, they/PRP 're/VBP going/VBG to/TO want/VB the/DT money/NN ,/,","{E I mean, } they're going to want the money, /"
+sv,A,"and/CC you/PRP can/MD tell/VB by/IN the/DT people/NNS who/WP are/VBP always/RB caught/VBN ,/, that/IN these/DT people/NNS are/VBP there/RB to/TO get/VB money/NN for/IN drugs/NNS ./.","{C and } you can tell by the people who are always caught, that these people are there to get money for drugs. /"
+sv,A,"I/PRP mean/VBP ,/, they/PRP do/VBP n't/RB want/VB the/DT money/NN so/IN ,/, uh/UH ,/, so/IN they/PRP can/MD do/VB something/NN else/RB with/IN it/PRP ./.","{E I mean, } they don't want the money [ so, + {F uh, } so ] they can do something else with it. /"
+aa,B,"No/UH ,/,","No, /"
+sv,B,"they/PRP do/VBP n't/RB want/VB the/DT money/NN for/IN food/NN ,/,","they don't want the money for food, /"
+sv,B,that/DT 's/BES for/IN sure/JJ ./.,that's for sure. /
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,"right/UH ,/,","right, /"
+%,A,and/CC so/RB ./.,{C and so. } -/
+sv,B,"Well/UH ,/, but/CC you/PRP know/VBP ,/, the/DT ,/, the/DT strange/JJ thing/NN ,/, uh/UH ,/, perhaps/RB ,/, not/RB strange/JJ ,/, but/CC something/NN that/IN many/JJ people/NNS do/VBP n't/RB realize/VB ,/, is/VBZ that/IN you/PRP can/MD go/VB back/RB as/RB far/RB as/IN nineteen/CD fifty-one/CD and/CC fifty-two/CD and/CC find/VB that/IN there/EX were/VBD drug/NN dealers/NNS at/IN that/DT time/NN trying/VBG to/TO influence/VB the/DT high/JJ school/NN kids/NNS ,/,","{D Well, } {C but } {D you know, } [ the, + the ] [ strange thing, + {F uh, } perhaps, not strange, but something that many people don't realize, ] is that you can go back as far as nineteen fifty-one and fifty-two and find that there were drug dealers at that time trying to influence the high school kids, /"
+sd,B,"because/RB ,/, uh/UH ,/, I/PRP 'm/VBP a/DT retired/VBN educator/NN ./.","{C because, } {F uh, } I'm a retired educator. /"
+bk,A,Okay/UH ./.,Okay <noise>. /
+sd,B,"And/CC ,/, in/IN fifty-one/CD and/CC fifty-two/CD ,/, the/DT police/NN came/VBD to/IN the/DT high/JJ school/NN where/WRB I/PRP was/VBD and/CC were/VBD telling/VBG us/PRP how/WRB to/TO recognize/VB when/WRB kids/NNS were/VBD on/IN drugs/NNS ,/, how/WRB to/TO recognize/VB the/DT pushers/NNS --/:","{C And, } in fifty-one and fifty-two, the police came to the high school where I was and were telling us how to recognize when kids were on drugs, how to recognize the pushers --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: outside/IN the/DT one/CD entrance/NN ,/, that/IN they/PRP were/VBD giving/VBG their/PRP$ drugs/NNS away/RP in/IN order/NN to/TO get/VB the/DT kids/NNS started/VBN ,/, and/CC so/RB on/RB ,/, and/CC so/RB on/RB ./.","-- outside the one entrance, that they were giving their drugs away in order to get the kids started, and so on, and so on. /"
+sv,B,"So/RB it/PRP 's/BES a/DT problem/NN that/WDT 's/HVS been/VBN around/RB for/IN over/RB forty/CD years/NNS ,/,","{C So } it's a problem that's been around for over forty years, /"
+sv,B,"and/CC we/PRP 're/VBP just/RB really/RB ,/, uh/UH ,/, uh/UH ,/, now/RB ,/, trying/VBG to/TO ,/, uh/UH ,/, figure/VB out/RP how/WRB to/TO cope/VB with/IN the/DT problem/NN because/IN it/PRP has/VBZ grown/VBN so/RB huge/JJ ./.","{C and } we're just really, {F uh, } {F uh, } now, trying to, {F uh, } figure out how to cope with the problem because it has grown so huge. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"there/EX 's/BES a/DT ,/, there/EX 's/BES a/DT ,/, uh/UH ,/, a/DT song/NN that/WDT I/PRP know/VBP which/WDT says/VBZ ,/, you/PRP know/VBP ,/, tha-/IN ,/,","[ there's a, + there's [ a, + {F uh, } a ] ] song that I know which says, {D you know, } tha-, - /"
+sd,A,"it/PRP 's/BES like/UH ,/, in/IN ,/, uh/UH ,/, nineteen/CD eighty-eight/CD ,/, nineteen/CD eighty-nine/CD ,/, the/DT local/JJ ,/, state/NN ,/, and/CC federal/JJ governments/NNS spent/VBD the/DT least/JJS amount/NN of/IN money/NN on/IN crime/NN in/IN America/NNP ,/,","it's like, in, {F uh, } nineteen eighty-eight, nineteen eighty-nine, the local, state, and federal governments spent the least amount of money on crime in America, /"
+sv,A,"and/CC ,/, uh/UH ,/, their/PRP$ figures/NNS ,/, I/PRP think/VBP are/VBP too/RB ,/, so/RB","{C and, } {F uh, } their figures, I think are [ too, + so ] - /"
+sv,A,"I/PRP mean/VBP it/PRP 's/BES like/JJ ,/, compared/VBN to/IN ,/, you/PRP know/VBP ,/, compared/VBN to/IN ,/, weapons/NNS or/CC stuff/NN like/IN that/DT ,/, I/PRP mean/VBP ,/, you/PRP 're/VBP spending/VBG nothing/NN on/IN ,/, on/IN crime/NN in/IN the/DT country/NN itself/PRP ./.","{E I mean } it's like, [ compared to, + {D you know, } compared to, ] weapons or stuff like that, {E I mean, } you're spending nothing [ on, + on ] crime in the country itself. /"
+%,A,"What/WP you/PRP 're/VBP doing/VBG is/VBZ ,/, you/PRP ,/, you/PRP know/VBP ,/,","What you're doing is, you, {D you know, } - /"
+sv,A,"it/PRP 's/BES like/UH ,/, you/PRP have/VBP other/JJ things/NNS ,/, you/PRP know/VBP ,/,","it's like, you have other things, {D you know, } /"
+sv,A,you/PRP have/VBP the/DT AIDS/NN,you have the AIDS /
+sv,A,"we/PRP 're/VBP going/VBG to/TO solve/VB ,/, try/VB to/TO solve/VB --/:","we're going to solve, try to solve --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: the/DT AIDS/NN problem/NN while/IN ,/, while/IN ,/, you/PRP know/VBP ,/, some/DT people/NNS are/VBP getting/VBG killed/VBN here/RB and/CC there/RB","-- the AIDS problem [ while, + while, ] {D you know, } some people are getting killed here and there /"
+%,A,and/CC then/RB ./.,{C and then } <noise>. -/
+b,B,Yeah/UH,Yeah /
+sv,B,"and/CC another/DT one/CD of/IN the/DT problems/NNS is/VBZ that/IN the/DT people/NNS who/WDT are/VBP the/DT dealers/NNS ,/, the/DT big/JJ dealers/NNS in/IN drugs/NNS ,/,","{C and } another one of the problems is that the people who are the dealers, the big dealers in drugs,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"may/MD be/VB ,/, may/MD be/VB part/NN of/IN the/DT power/NN structure/NN that/WDT 's/BES keeping/VBG us/PRP from/IN spending/VBG the/DT money/NN in/IN that/DT direction/NN ./.","[ may be, + may be ] part of the power structure that's keeping us from spending the money in that direction. /"
+sv,A,But/CC those/DT people/NNS never/RB get/VBP caught/VBN ./.,{C But } those people never get caught. /
+%,A,The/DT people/NNS that/WDT --/:,The people [ [ that -- +
+aa,B,"That/DT 's/BES right/JJ ,/,","That's right, /"
+sv,B,they/PRP 'll/MD never/RB get/VB caught/VBN ./.,they'll never get caught. /
++,A,"--/: that/WDT ,/, that/WDT I/PRP ,/,","-- that, ] + that ] I, - /"
+sv,A,"see/UH ,/, their/PRP$ theory/NN is/VBZ that/IN if/IN I/PRP 'm/VBP surrounded/VBN ,/, and/CC I/PRP 'm/VBP going/VBG to/TO be/VB caught/VBN ,/, I/PRP 'm/VBP going/VBG to/TO try/VB to/TO find/VB my/PRP$ way/NN through/IN ,/,","{D see, } their theory is that if I'm surrounded, and I'm going to be caught, I'm going to try to find my way through, /"
+sv,A,and/CC they/PRP 're/VBP not/RB going/VBG to/TO take/VB me/PRP alive/JJ ./.,{C and } they're not going to take me alive. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"But/CC I/PRP have/VBP such/PDT a/DT big/JJ army/NN outside/IN of/IN my/PRP$ place/NN ,/, that/IN nobody/NN can/MD touch/VB me/PRP ./.","{C But } I have such a big army outside of my place, that nobody can touch me. /"
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
+%,B,"But/CC they/PRP 'll/MD ,/,","{C But } they'll, -/"
+sv,A,"You/PRP know/VBP ,/, it/PRP 's/BES like/IN ,/,","{D You know, } it's like, - /"
+sv,A,"of/IN course/NN ,/, I/PRP mean/VBP I/PRP might/MD be/VB ,/, you/PRP know/VBP ,/, the/DT the/DT leading/JJ drug/NN dealer/NN here/RB ,/,","of course, {E I mean } I might be, {D you know, } [ the + the ] leading drug dealer here, /"
+sv,A,"but/CC you/PRP wo/MD n't/RB find/VB me/PRP dealing/VBG in/IN drugs/NNS ,/,","{C but } you won't find me dealing in drugs, /"
+sv,A,"I/PRP mean/VBP ,/, there/EX 's/BES no/DT connection/NN --/:","{E I mean, } there's no connection --"
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
++,A,"--/: between/IN me/PRP and/CC the/DT people/NNS that/WDT were/VBD caught/VBN ,/, you/PRP know/VBP ./.","-- between me and the people that were caught, {D you know. } /"
+aa,B,"That/DT 's/BES right/JJ ,/,","That's right, /"
+%,B,"and/CC ,/, they/PRP ,/,","{C and, } they, - /"
+sv,B,one/CD person/NN does/VBZ n't/RB know/VB the/DT other/JJ person/NN down/IN the/DT line/NN ./.,one person doesn't know the other person down the line. /
+aa,A,Right/UH ./.,Right. /
+sv,B,"But/CC the/DT guy/NN at/IN the/DT very/JJ top/NN ,/, the/DT one/NN who/WP 's/BES ,/, who/WP 's/BES really/RB making/VBG the/DT millions/NNS and/CC the/DT millions/NNS is/VBZ the/DT one/NN who/WP also/RB many/JJ times/NNS is/VBZ part/NN of/IN the/DT power/NN structure/NN ,/, uh/UH ,/, the/DT ,/, uh/UH ,/, and/CC had/VBD the/DT political/JJ --/:","{C But } the guy at the very top, the one [ who's, + who's ] really making the millions and the millions is the one who also many times is part of the power structure, {F uh, } [ the, + ] {F uh, } and had the political --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: uh/UH ,/, pull/NN to/TO keep/VB things/NNS from/IN ,/, uh/UH ,/, keep/VB the/DT interest/NN or/CC the/DT emphasis/NN in/IN some/DT other/JJ direction/NN ,/, other/JJ than/IN on/IN the/DT drug/NN dealing/NN ,/,","-- {F uh, } pull to [ keep things from, + {F uh, } keep ] the interest or the emphasis in some other direction, other than on the drug dealing, /"
+sv,B,because/RB it/PRP sure/RB is/VBZ monstrous/JJ in/IN this/DT country/NN ./.,{C because } it sure is monstrous in this country. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP was/VBD ,/, I/PRP was/VBD at/IN a/DT ,/, at/IN a/DT party/NN on/IN Saturday/NNP ,/,","[ I was, + I was ] [ at a, + at a ] party on Saturday, /"
+sd,A,"and/CC this/DT guy/NN comes/VBZ over/RP ,/,","{C and } this guy comes over, /"
+sd,A,"he/PRP goes/VBZ ,/, hey/UH ,/, how/WRB you/PRP doing/VBG ,/, MUMBLEx/XX","he goes, hey, how you doing, (( )) /"
+sd,A,"he/PRP started/VBD talking/VBG to/IN me/PRP ,/,","he started talking to me, /"
+sd,A,"and/CC this/DT guy/NN was/VBD from/IN Jamaica/NNP ,/, right/UH ./.","{C and } this guy was from Jamaica, right. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC he/PRP 's/HVS got/VBN his/PRP$ little/JJ brother/NN selling/VBG drugs/NNS ./.,{C And } he's got his little brother selling drugs <talking> <<Voices in background>>. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"You/PRP know/VBP ,/, and/CC he/PRP goes/VBZ ,/, yeah/UH ,/, I/PRP just/RB came/VBD up/IN here/RB to/TO work/VB ,/,","{D You know, } {C and } he goes, yeah, I just came up here to work, /"
+sd,A,"and/CC I/PRP go/VBP ,/, oh/UH you/PRP did/VBD ,/, MUMBLEx/XX you/PRP make/VB very/RB good/JJ money/NN up/IN here/RB ./.","{C and } I go, oh you did, (( )) you make very good money up here. /"
+sd,A,"He/PRP goes/VBZ ,/, yeah/UH ,/, I/PRP make/VBP a/DT lot/NN ,/, a/DT lot/NN of/IN money/NN ,/,","He goes, yeah, I make a lot, a lot of money, /"
+%,A,"he/PRP goes/VBZ ,/, you/PRP know/VBP ./.","he goes, {D you know. } /"
+%,A,"And/CC ,/, uh/UH ,/, in/IN the/DT movie/NN GOOD/JJ FELLOWS/NNS ./.","{C And, } {F uh, } in the movie GOOD FELLOWS. -/"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,might/MD ./.,might. / *[[spelling??]]
+qy,A,Did/VBD you/PRP see/VB it/PRP ?/.,Did you see it? /
+nn,B,"Nope/UH ,/,","Nope, /"
+sd,B,I/PRP only/RB heard/VBD about/IN it/PRP ./.,I only heard about it. /
+bk,A,"Okay/UH ,/,","Okay, /"
+sd,A,"in/IN one/CD part/NN ,/, the/DT guy/NN goes/VBZ out/IN of/IN jail/NN ,/,","in one part, the guy goes out of jail, /"
+sd,A,"and/CC within/IN ,/, uh/UH ,/, two/CD months/NNS ,/, he/PRP has/VBZ all/PDT his/PRP$ house/NN payments/NNS gone/VBN --/:","{C and } within, {F uh, } two months, he has all his house payments gone --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: everything/NN paid/VBN ,/, you/PRP know/VBP ,/,","-- everything paid, {D you know, } /"
+sd,A,"and/CC he/PRP had/VBD enough/JJ money/NN to/TO ,/, you/PRP know/VBP ,/,","{C and } he had enough money to, {D you know, } - /"
+sd,A,"it/PRP 's/BES like/IN ,/, those/DT guys/NNS ,/, at/IN one/CD point/NN ,/, you/PRP know/VBP ,/, they/PRP had/VBD so/RB much/JJ money/NN that/IN they/PRP did/VBD n't/RB know/VB what/WP to/TO do/VB with/IN it/PRP ./.","it's like, those guys, at one point, {D you know, } they had so much money that they didn't know what to do with it </talking>. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"really/RB ,/, you/PRP know/VBP ,/,","really, {D you know, } /"
+sv,B,"even/RB in/IN our/PRP$ prison/NN systems/NNS they/PRP 're/VBP finding/VBG that/IN they/PRP 're/VBP ,/, they/PRP 're/VBP having/VBG drugs/NNS smuggled/VBN into/IN them/PRP ./.","even in our prison systems they're finding that [ they're, + they're ] having drugs smuggled into them. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,"yeah/UH ,/,","yeah, /"
+sd,A,"that/DT 's/BES ,/, that/IN ,/, that/WDT was/VBD also/RB in/IN the/DT movie/NN ./.","[ that's, + [ that, + that ] was ] also in the movie. /"
+b,B,Right/UH ./.,Right. /
+b,A,Yeah/UH ./.,Yeah. /
+fp,A,So/RB hello/UH Mary/NNP ./.,{D So } hello Mary. /
+fc,B,Been/VBN nice/JJ talking/VBG with/IN you/PRP ./.,Been nice talking with you. /
+fc,A,We/PRP 've/VBP been/VBN talking/VBG for/IN five/CD minutes/NNS ?/.,We've been talking for five minutes? /
+fc,B,"I/PRP beg/VBP your/PRP$ ,/,","I beg your, - /"
+fc,B,we/PRP 've/VBP been/VBN talking/VBG for/IN a/DT little/JJ bit/NN ./.,we've been talking for a little bit. /
+fc,B,I/PRP appreciate/VBP the/DT call/NN ./.,I appreciate the call. /
+fc,B,I/PRP enjoyed/VBD talking/VBG with/IN you/PRP ./.,I enjoyed talking with you. /
+fc,A,"All/UH right/UH ,/, okay/UH ,/,","All right, okay, /"
+fc,A,same/JJ here/RB ./.,same here. /
+fc,B,"Uh-huh/UH ,/,","Uh-huh, /"
+fc,B,bye-bye/UH ./.,bye-bye. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /

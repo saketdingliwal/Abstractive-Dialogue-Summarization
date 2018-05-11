@@ -1,0 +1,194 @@
+act_tag,speaker,pos,text
+qw,A,MUMBLEx/XX music/NN do/VBP you/PRP like/VB ?/.,(( )) music do you like? -/
+sd,B,"Uh/UH ,/, lots/NNS of/IN different/JJ kinds/NNS I/PRP guess/VBP ./.","<Smack> {F Uh, } lots of different kinds I guess. /"
+sd,B,"Uh/UH ,/, I/PRP like/VBP country/NN music/NN ,/, of/IN course/NN --/:","{F Uh, } <smack> I like country music, of course -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: Texas/NNP,-- Texas - /
+sd,B,and/CC I/PRP listen/VBP to/IN Christian/NNP music/NN a/DT lot/NN because/IN there/EX 's/BES a/DT Christian/NNP music/NN station/NN here/RB in/IN in/IN our/PRP$ city/NN ./.,{C and } I listen to Christian music a lot because there's a Christian music station here in in our city. /
+sd,B,So/RB I/PRP listen/VBP to/IN it/PRP quite/PDT a/DT bit/NN ./.,{C So } I listen to it quite a bit. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"So/UH ,/,","<Smack> {D So, } -/"
+sd,A,I/PRP am/VBP more/JJR into/IN rock/NN and/CC roll/NN myself/PRP ./.,<Inhaling> I am more into rock and roll myself. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC I/PRP listen/VBP cause/IN on/IN Friday/NNP nights/NNS they/PRP have/VBP the/DT ,/, uh/UH ,/, they/PRP have/VBP what/WP they/PRP call/VBP Saturday/NNP Night/NNP Alive/NNP","{C And } I listen cause on Friday nights [ they have the, + {F uh, } they have what ] they call Saturday Night Alive /"
+sd,B,"or/CC they/PRP have/VBP on/IN Saturday/NNP night/NN ,/, Friday/NNP night/NN and/CC Saturday/NNP night/NN --/:","{C or } [ they have + on [ Saturday night, + Friday night and Saturday night ] --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: and/CC they/PRP have/VBP Christian/NNP rock/NN and/CC roll/NN ./.,-- {C and } they have ] Christian rock and roll. /
+%,B,So/RB --/:,{C So } -- -/
+sd,B,"--/: you/PRP know/VBP ,/, they/PRP have/VBP that/DT type/NN of/IN music/NN ,/,","-- {D you know, } they have that type of music, /"
+sd,B,but/CC they/PRP just/RB have/VBP different/JJ words/NNS --/:,{C but } they just have different words -- /
+sd,B,"--/: so/RB ,/, I/PRP listen/VBP to/IN that/DT too/RB ./.","-- {C so, } I listen to that too. /"
+qy,A,Do/VBP you/PRP like/VB any/DT bluegrass/NN ?/.,Do you like any bluegrass? /
+nn,B,"Uh/UH ,/, no/UH ./.","{F Uh, } no. /"
+sd,B,"Not/RB really/RB ,/,","Not really, /"
+nn,B,huh-uh/UH ./.,huh-uh. /
+bk,A,Oh/UH ./.,Oh. /
+sd,B,And/CC I/PRP like/VBP --/:,{C And } [ I like -- +
+%,A,"Well/UH ,/, at/IN least/JJS your/PRP$ ,/,","{D Well, } at least your, -/"
++,B,--/: I/PRP like/VBP rap/NN music/NN ./.,-- I like ] rap music. /
+qy,B,Do/VBP you/PRP like/VB rap/NN music/NN ?/.,Do you like rap music? /
+ng,A,Not/RB really/RB ./.,Not really <laughter>. /
+b^m,B,Not/RB really/RB ./.,Not really <laughter>. /
+x,A,./.,<Laughter>.
+sv,B,"Well/UH ,/, I/PRP can/MD tell/VB we/PRP 're/VBP ,/, we/PRP 're/VBP together/RB here/RB ./.","{D Well, } I can tell [ we're, + we're ] together here <laughter>. /"
+b,A,Yeah/UH ./.,Yeah. /
+b,B,Okay/UH ./. Uh/UH ./.,Okay. <laughter> {F Uh. } /
+b,A,Um/UH ./.,{F Um. } /
+x,B,./.,<Throat_clearing>.
+%,A,"Uh/UH ,/, we/PRP 'll/MD have/VB to/TO ,/, uh/UH --/:","{F Uh, } we'll have to, {F uh } -- -/"
+%,B,What/WDT kind/NN of/IN --/:,What kind of -- -/
+sd,A,--/: I/PRP have/VBP a/DT lot/NN of/IN friends/NNS that/WDT like/VBP country/NN music/NN ./.,-- I have a lot of friends that like country music <laughter>. /
+qw,B,--/: What/WDT kind/NN of/IN rock/NN music/NN do/VBP you/PRP listen/VB to/IN ?/.,-- <Laughter> What kind of rock music do you listen to? /
+qy,B,Do/VBP you/PRP listen/VB to/IN like/UH that/DT really/RB heavy/JJ metal/NN stuff/NN,Do you listen to {D like } that really heavy metal stuff /
+%,B,"or/CC ,/,","{C or, } -/"
+nn,A,"No/UH ,/,","No, /"
+sd,A,"I/PRP 'm/VBP more/RBR into/IN ,/, uh/UH ,/, older/JJR rock/NN ,/, like/IN the/DT psychedelic/JJ era/NN ,/, like/IN ,/, uh/UH --/:","I'm more into, {F uh, } older rock, like the psychedelic era, like, {F uh } -- -/"
+qy^d,B,Seventies/NNS and/CC like/IN that/DT stuff/NN ./.,Seventies and like that stuff. /
+arp_nd,A,"--/: Se-/NNS late/JJ sixties/NNS ,/, seventies/NNS ,/, uh/UH --/:","-- [ Se- + late sixties, ] seventies, {F uh } -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: Greatful/NNP Dead/NNP ,/, Crosby/NNP ,/, Stills/NNP and/CC Nash/NNP ./.","-- Greatful Dead, Crosby, Stills and Nash. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP have/VBP friends/NNS that/WDT like/VBP that/DT ./.,I have friends that like that. /
+bh,A,What/WP ?/.,What <laughter>? /
+b,B,Yeah/UH ./.,Yeah <laughter>. /
+x,A,./.,<Laughter>.
+qy^d,B,So/UH you/PRP have/VBP never/RB heard/VBN of/IN like/UH the/DT Christian/NNP music/NN that/WDT I/PRP listen/VBP to/IN probably/RB ./.,{D So } you have never heard of {D like } the Christian music that I listen to probably. /
+arp_nd,A,"Oh/UH ,/, I/PRP 've/VBP heard/VBN a/DT little/JJ bit/NN of/IN it/PRP ./.","{F Oh, } I've heard a little bit of it. /"
+%,A,"I/PRP 've/VBP just/RB ,/,","I've just, -/"
+qy,B,"Like/UH have/VBP you/PRP heard/VBN of/IN ,/, uh/UH ,/, of/IN Carmen/NNP ?/.","{D Like } have you heard [ of, + {F uh, } <smack> of ] Carmen? /"
+qy,B,Have/VBP you/PRP ever/RB heard/VBN of/IN Kim/NNP ?/.,Have you ever heard of Kim? /
+sd,A,"Uh/UH ,/, now/RB I/PRP 've/VBP heard/VBN of/IN Striper/NNP ./.","{F Uh, } {D now } I've heard of Striper. /"
+%,A,So/RB the/DT only/RB one/CD I/PRP can/MD --/:,{C So } the only one I can -- -/
+b,B,"Striper/NNP ,/,","Striper, /"
+qy^d,B,"they/PRP 're/VBP the/DT really/RB heavy/JJ ,/, yeah/UH --/:","they're the really [ heavy, + {D yeah } --"
+b,A,--/: Uh-huh/UH ./.,-- Uh-huh. /
++,B,--/: like/IN the/DT heavy/JJ metal/NN stuff/NN --/:,-- {D like } the heavy ] metal stuff --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: I/PRP guess/VBP ./.,-- I guess. /
+sv,A,"Uh/UH ,/, the/DT first/JJ of/IN Amy/NNP Grant/NNP before/RB --/:","{F Uh, } the first of Amy Grant before -- -/"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"--/: was/VBD ,/, you/PRP know/VBP ,/, became/VBD more/RBR mainstream/JJ ,/, top/NN forty/CD ./.","-- [ was, + {D you know, } became ] more mainstream, top forty. -/"
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,"Cause/IN she/PRP ,/, she/PRP plays/VBZ both/DT secular/JJ and/CC Christian/NNP","Cause [ she, + she ] plays both secular and Christian /"
+%,B,"so/RB ,/,","{C so, } -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP like/VBP her/PRP too/RB ./.,I like her too. /
+b,A,"Uh/UH ,/,","{F Uh, } /"
+sd,B,I/PRP have/VBP been/VBN to/IN a/DT concert/NN a/DT couple/NN of/IN times/NNS of/IN hers/PRP$ ./.,I have been to a concert a couple of times of hers. /
+sd,A,I/PRP 've/VBP never/RB actually/RB seen/VBN her/PRP in/IN concert/NN ./.,I've never actually seen her in concert. /
+qy^d,A,I/PRP imagine/VBP that/IN she/PRP puts/VBZ on/RP a/DT pretty/RB good/JJ show/NN ./.,I imagine that she puts on a pretty good show. /
+na,B,She/PRP does/VBZ ./.,She does. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,She/PRP 's/BES real/RB good/JJ ./. She/PRP 's/BES real/RB good/JJ ./.,[ She's real good. + She's real good. ] /
+sd,B,"So/RB ,/, I/PRP like/VBP her/PRP ./.","{C So, } I like her. /"
+b,A,"Uh-huh/UH ./. Uh/UH ,/,","Uh-huh <<very faint>>. {F Uh, } /"
+x,B,./.,<Throat_clearing>.
+sd,A,I/PRP like/VBP some/DT country/NN music/NN ./.,<Smack> I like some country music. /
+%,A,"It/PRP 's/BES just/RB that/IN I/PRP like/VBP finding/VBG a/DT lot/NN of/IN it/PRP 's/BES ,/,","It's just that I like finding a lot of it's, -/"
+sd,B,"I/PRP do/VBP n't/RB like/VB the/DT country/NN music/NN that/WDT 's/BES like/IN my/PRP$ wife/NN left/VBD me/PRP ,/, my/PRP$ dog/NN --/:","I don't like the country music that's like my wife left me, my dog --"
+b,A,Yeah/UH ./.,Yeah <laughter>. /
++,B,"--/: left/VBD me/PRP ,/, everybody/NN 's/HVS left/VBN me/PRP ./.","-- left me, everybody's left me. /"
+^q,A,Mama/NNP got/VBD run/VBN over/RP by/IN the/DT train/NN ./.,<Laughter> Mama got run over by the train. /
+aa,B,Yeah/UH ./.,<Laughter> Yeah. /
+sd,B,I/PRP do/VBP n't/RB like/VB that/DT ./.,I don't like that. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"You/PRP know/VBP ,/, I/PRP like/VBP Randy/NNP Travis/NNP --/:","{D You know, } I like Randy Travis -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: you/PRP know/VBP ,/, I/PRP like/VBP more/JJR of/IN the/DT real/RB new/JJ ones/NNS ,/, you/PRP know/VBP ./.","-- {D you know, } I like more of the real new ones, {D you know. } /"
+qy^d,A,Like/IN Garth/NNP Brooks/NNP ./.,Like Garth Brooks. /
+^h,B,"Garth/NNP Brooks/NNP ,/, oh/UH","Garth Brooks, {F oh } /"
+ny,B,"yes/UH ,/,","yes, /"
+sv,B,you/PRP know/VBP he/PRP 's/BES fine/JJ ./.,{D you know } he's fine. /
+qy^d,A,Reba/NNP MacIntyre/NNP ./.,Reba MacIntyre. /
+ny,B,Yeah/UH ./.,Yeah. <laughter> /
+sd,B,I/PRP like/VBP them/PRP ./.,I like them. /
+sd,B,"I/PRP do/VBP n't/RB care/VB for/IN the/DT older/JJR ,/, you/PRP know/VBP ,/, like/IN the/DT dog/NN left/VBD me/PRP stuff/NN ./.","I don't care for the older, {D you know, } {D like } the dog left me stuff. /"
+qy,A,You/PRP do/VBP n't/RB like/VB Patsy/NNP Cline/NNP ?/.,You don't like Patsy Cline? /
+br,B,Huh/UH ?/.,{F Huh? } /
+qy,A,You/PRP do/VBP n't/RB like/VB Patsy/NNP Cline/NNP ./.,You don't like Patsy Cline. /
+nn,B,"No/UH ,/,","No, /"
+nn,B,huh-uh/UH ./.,huh-uh. /
+sd,B,"I/PRP do/VBP n't/RB even/RB really/RB know/VB who/WP she/PRP is/VBZ ,/, you/PRP know/VBP ./.","I don't even really know who she is, {D you know } <laughter>. /"
+x,A,./.,<Laughter>.
+qy,B,"You/PRP know/VBP ,/, so/RB ./. But/CC ,/, have/VBP you/PRP ever/RB been/VBN to/IN any/DT of/IN them/PRP concerts/NNS that/WDT you/PRP like/VBP ?/.","{D You know, } [ {C so. } + <throat_clearing> <smack> {C But, } ] have you ever been to any of them concerts that you like? /"
+%,B,That/DT music/NN that/WDT you/PRP like/VBP to/TO ./.,That music that you like to. -/
+ny,A,"Uh/UH ,/, yeah/UH","{F Uh, } yeah /"
+sd,A,"actually/RB I/PRP just/RB went/VBD to/TO see/VB the/DT Greatful/NNP Dead/NNP about/RB ,/, I/PRP guess/VBP about/RB a/DT week/NN ago/RB ./.","actually I just went to see the Greatful Dead [ about, + I guess about ] a week ago. /"
+qy,B,But/CC are/VBP n't/RB they/PRP done/VBN with/IN ?/.,{C But } aren't they done with? /
+sd,B,I/PRP thought/VBD that/IN they/PRP ./.,I thought that they <throat_clearing>. -/
+nn,A,"No/UH ,/,","No, /"
+sd,A,they/PRP 're/VBP they/PRP are/VBP still/RB on/IN tour/NN ./.,[ they're + they are ] still on tour. /
+sd,A,"They/PRP have/VBP been/VBN touring/VBG ,/,","They have been touring,"
+x,B,./.,<Throat_clearing>.
++,A,since/IN the/DT late/JJ sixties/NNS ./.,since the late sixties <cough>. /
+sd,B,And/CC I/PRP just/RB thought/VBD that/IN they/PRP done/VBN broke/VBN up/RP and/CC --/:,{C And } I just thought that they done broke up and --
+ar,A,No/UH ./.,No. /
++,B,--/: left/VBD ./.,-- left. /
+sd,A,They/PRP 're/VBP still/RB together/RB ./.,They're still together. /
+sd,A,They/PRP 're/VBP still/RB --/:,They're still --
+b,B,Huh/UH ./.,{F Huh. } /
++,A,--/: making/VBG albums/NNS ./.,-- making albums. /
+ba,B,"Wow/UH ,/,","Wow, /"
+sd,B,I/PRP did/VBD n't/RB know/VB that/DT ./.,I didn't know that. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,Huh/UH ./.,{F Huh. } /
+b,A,"Uh/UH ,/,","{F Uh, } /"
+ba,B,That/DT 's/BES interesting/JJ ./.,That's interesting. /
+sd,A,"In/IN fact/NN ,/, I/PRP mean/VBP there/EX are/VBP people/NNS you/PRP know/VBP that/WDT basically/RB just/RB follow/VBP them/PRP around/RB ,/, from/IN city/NN to/IN city/NN --/:","In fact, {E I mean } there are people {D you know } that basically just follow them around, from city to city --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: on/IN tour/NN selling/VBG tie/NN dye/NN and/CC things/NNS like/IN that/DT ./.,-- on tour selling tie dye and things like that. /
+x,B,./.,<Throat_clearing>.
+b,A,"Uh/UH ,/,","{F Uh, } /"
+qy,B,"Cause/IN they/PRP are/VBP on/IN up/IN there/RB in/IN age/NN ,/, are/VBP n't/RB they/PRP ?/.","{C Cause } they are on up there in age, aren't they? /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"they/PRP 're/VBP ,/, they/PRP 're/VBP like/IN late/JJ forties/NNS ,/, early/JJ fifties/NNS ,/,","[ they're, + they're ] like late forties, early fifties, /"
+sd,A,but/CC you/PRP know/VBP like/UH whenever/WRB one/CD of/IN them/PRP dies/VBZ off/RP they/PRP get/VBP a/DT replacement/NN ./.,{C but } {D you know } {D like } whenever one of them dies off they get a replacement <laughter>. /
+bk,B,Okay/UH ./.,<Laughter> Okay. /
+x,A,MUMBLEx/XX ./.,(( )) .
+b,B,Alright/UH ./.,<Laughter> Alright. /
+sd,A,"You/PRP know/VBP ,/, they/PRP seem/VBP to/TO have/VB a/DT really/RB bad/JJ time/NN with/IN keyboard/NN players/NNS ./.","{D You know, } they seem to have a really bad time with keyboard players. /"
+sd,A,They/PRP keep/VBP on/RP dying/VBG,They keep on dying /
+sd,A,and/CC they/PRP keep/VBP on/RP replacing/VBG them/PRP,{C and } they keep on replacing them /
+sd,A,"and/CC the/DT new/JJ one/NN 's/BES in/IN this/DT thirties/NNS you/PRP know/VBP ./. Uh/UH ,/,","{C and } the new one's in this thirties {D you know. } {F Uh, } /"
+b,B,"Oh/UH ,/, alright/UH ./.","{F Oh, } alright. /"
+%,A,"But/CC ,/, uh/UH ,/,","{C But, } {F uh, } -/"
+sv,B,Cause/IN they/PRP look/VBP pretty/RB rough/JJ ./.,{C Cause } they look pretty rough. /
+sd,B,"I/PRP mean/VBP ,/, I/PRP 've/VBP seen/VBN like/UH picture/NN of/IN them/PRP","{E I mean, } I've seen {D like } picture of them /"
+%,B,"and/CC they/PRP just/RB ,/,","{C and } they just, -/"
+aa,A,Yeah/UH ./.,Yeah. /
+sv,A,"Well/UH ,/, they/PRP do/VBP n't/RB actually/RB look/VB as/RB rough/JJ as/IN the/DT Rolling/NNP Stones/NNPS ./.","<<very faint>> {D Well, } they don't actually look as rough as the Rolling Stones. /"
+%,A,"They/PRP just/RB ,/,","They just, - /"
+qy^d,A,"I/PRP do/VBP n't/RB know/VB if/IN you/PRP saw/VBD the/DT tour/NN posters/NNS of/IN the/DT Rolling/NNP Stones/NNPS when/WRB they/PRP last/RB toured/VBD ,/,","I don't know if you saw the tour posters of the Rolling Stones when they last toured, /"
+sv,A,"but/CC it/PRP looked/VBD like/IN leather/NN day/NN at/IN the/DT geriatric/NN ,/,","{C but } it looked like leather day at the geriatric, /"
+x,B,./.,<Laughter>.
+x,A,MUMBLEx/XX ./.,(( )) <laughter>.
+aa,B,"Yeah/UH ,/,","<Laughter> Yeah, /"
+%,B,"I/PRP mean/VBP cause/IN they/PRP just/RB ,/,","{E I mean } {C cause } they just, -/"
+sv,A,"All/DT their/PRP$ faces/NNS were/VBD just/RB all/RB shriveled/JJ ,/,","All their faces were just all shriveled, /"
+aa,B,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Yuck/RB looking/JJ ,/, I/PRP mean/VBP --/:","Yuck looking, {E I mean } -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,--/: uh/UH ./.,-- {F uh. } /
+sv,A,"I/PRP mean/VBP it/PRP just/RB just/RB looked/VBD like/IN they/PRP ,/,","{E I mean } it just just looked like they,"
+x,B,./.,<Throat_clearing>.
++,A,got/VBD a/DT bunch/NN of/IN retirees/NNS and/CC put/VBD them/PRP in/IN leather/NN jackets/NNS and/CC blue/JJ jeans/NNS ./.,got a bunch of retirees and put them in leather jackets and blue jeans. /
+aa,B,Uh-huh/UH ./.,Uh-huh. /
+qy,B,"Well/UH are/VBP you/PRP into/IN that/DT that/DT rock/NN music/NN ,/, you/PRP know/VBP ,/, all/PDT that/DT druggy/JJ stuff/NN and/CC all/PDT that/DT I/PRP mean/VBP ?/.","{D Well } are you into [ that + that ] rock music, {D you know, } all that druggy stuff and all that {E I mean? } /"
+%,A,"Well/UH ,/, uh/UH ,/,","{D Well, } {F uh } <laughter>, -/"
+x,B,./.,<Laughter>.
+x,A,MUMBLEx/XX ./.,(( )) .
+qh,B,You/PRP know/VBP what/WP I/PRP am/VBP saying/VBG,<Laughter> You know what I am saying /
+sv,B,"like/UH ,/, I/PRP mean/VBP like/UH they/PRP come/VBP on/IN the/DT stage/NN","[ {D like, } + {E I mean } {D like } ] they come on the stage /"
+%,B,"and/CC like/UH ,/, you/PRP know/VBP ,/, you/PRP ,/,","{C and } {D like, } {D you know, } you, - /"
+sv,B,they/PRP do/VBP n't/RB even/RB know/VB they/PRP are/VBP there/RB ./. You/PRP know/VBP ./.,they don't even know they are there. {D You know. } /
+sv,B,They/PRP are/VBP just/RB so/RB out/IN of/IN it/PRP ./.,They are just so out of it. /
+ng,A,"Actually/RB ,/, I/PRP prefer/VBP my/PRP$ ,/, my/PRP$ performers/NNS to/TO be/VB pretty/RB sober/JJ ,/, you/PRP know/VBP ,/, just/RB uh/UH ,/, just/RB so/IN that/IN ,/, you/PRP know/VBP ,/, that/IN if/IN they/PRP 're/VBP jamming/VBG ,/, you/PRP know/VBP ,/, that/IN they/PRP do/VBP n't/RB just/RB lose/VB themselves/PRP and/CC you/PRP know/VBP ,/, go/VB into/IN lala/NN land/NN ./.","Actually, I prefer [ my, + my ] performers to be pretty sober, {D you know, } [ just + {F uh, } just ] so [ [ that, + {D you know, } that ] + if they're jamming, {D you know, } that ] they don't just lose themselves and {D you know, } go into lala land. /"
+b,B,Yeah/UH ./.,Yeah. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"So/RB ,/, I/PRP just/RB do/VBP n't/RB ,/, I/PRP just/RB do/VBP n't/RB like/VB you/PRP know/VBP ./.","{C So, } [ I just don't, + I just don't ] like {D you know. } -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,That/DT ./.,That. - /
+h,B,"So/RB ,/, I/PRP do/VBP n't/RB know/VB ./.","{C So, } <smack> I don't know <throat_clearing>. /"
+qy,A,"So/RB ,/, uh/UH ,/, have/VBP you/PRP seen/VBN any/DT concerts/NNS lately/RB ?/.","{D So, } {F uh, } have you seen any concerts lately? /"
+%,B,"Um/UH ./. Uh/UH ,/,","{F Um. } {F Uh, } /"

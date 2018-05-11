@@ -1,0 +1,127 @@
+act_tag,speaker,pos,text
+fp,A,"Hello/UH ,/,","Hello, /"
+fp,A,"my/PRP$ name/NN is/VBZ Donna/NNP ,/,","my name is Donna, /"
+fp,A,"and/CC I/PRP 'm/VBP calling/VBG from/IN Plano/NNP ,/, Texas/NNP ./.","{C and } I'm calling from Plano, Texas. /"
+fp,B,"Hi/UH ,/,","Hi, /"
+fp,B,"this/DT is/VBZ Laurie/NNP ,/,","this is Laurie, /"
+fp,B,and/CC I/PRP 'm/VBP in/IN Garland/NNP ./.,{C and } I'm in Garland <laughter>. /
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+qy,A,"Um/UH ,/, would/MD you/PRP like/VB me/PRP to/TO go/VB first/RB ?/.","{F Um, } would you like me to go first? /"
+na,B,Sure/UH ./.,Sure. /
+bk,A,"Okay/UH ,/, um/UH","Okay, {F um } /"
+sd,A,"I/PRP have/VBP three/CD children/NNS ,/, um/UH ,/, two/CD ,/, two/CD who/WP are/VBP in/IN regular/JJ school/NN ,/, uh/UH ,/, eleven/CD year/NN old/NN ,/, an/DT eight/CD year/NN old/NN ,/,","I have three children, {F um, } [ two, + two ] who are in regular school, {F uh, } eleven year old, an eight year old, /"
+sd,A,"and/CC then/RB my/PRP$ little/JJ one/NN ,/, three/CD year/NN old/NN ,/, is/VBZ in/IN ,/, um/UH ,/, a/DT University/NNP of/IN Gymnastics/NNP ,/,","{C and then } my little one, three year old, is in, {F um, } a University of Gymnastics, /"
+sd,A,"it/PRP 's/BES a/DT ,/, a/DT preschool/NN --/:","it's [ a, + a ] preschool -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC ,/, um/UH ,/, I/PRP think/VBP it/PRP was/VBD really/RB hard/JJ to/TO ,/, um/UH ,/, to/TO pick/VB the/DT right/JJ ,/, uh/UH ,/, day/NN care/NN or/CC preschool/NN or/CC Mother/NN 's/POS Day/NNP Out/NNP ./.","-- {C and, } {F um, } I think it was really hard [ to, + {F um, } to ] pick the right, {F uh, } day care or preschool or Mother's Day Out. /"
+sv,A,I/PRP guess/VBP you/PRP can/MD classify/VB them/PRP all/RB together/RB ./.,I guess you can classify them all together. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Um/UH ,/, some/DT of/IN the/DT qualifications/NNS that/WDT I/PRP look/VBP for/IN was/VBD that/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, the/DT cost/NN ,/, and/CC ,/, um/UH ,/, exactly/RB what/WP they/PRP did/VBD ,/, if/IN it/PRP was/VBD structured/JJ or/CC nonstructured/JJ ,/, if/IN they/PRP had/VBD a/DT little/RB academic/JJ ,/, um/UH ,/, uh/UH ,/, in/IN there/RB ,/, and/CC ,/, um/UH ,/, you/PRP know/VBP ,/, um/UH ,/, you/PRP know/VBP ,/, what/WP the/DT qualifications/NNS of/IN the/DT teachers/NNS '/POS were/VBD ,/, and/CC if/IN the/DT place/NN was/VBD clean/JJ and/CC --/:","{F Um, } some of the qualifications that I look for was [ that, + ] {F uh, } {D you know, } the cost, and, {F um, } exactly what they did, if it was structured or nonstructured, if they had a little academic, {F um, } {F uh, } in there, and, {F um, } {D you know, } {F um, } {D you know, } what the qualifications of the teachers' were, and if the place was clean and --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: um/UH ,/, the/DT hours/NNS","-- {F um, } the hours /"
+sd,A,"and/CC ,/, um/UH ,/, just/RB ,/, just/RB kind/RB of/RB going/VBG by/IN word/NN of/IN mouth/NN and/CC finding/VBG out/RP if/IN anybody/NN else/RB has/VBZ been/VBN pleased/JJ with/IN their/PRP$ program/NN --/:","{C and, } {F um, } [ just, + just ] kind of going by word of mouth and finding out if anybody else has been pleased with their program --"
+b,B,Right/UH ./.,Right. /
++,A,--/: that/DT kind/NN of/IN stuff/NN ./.,-- that kind of stuff. -/
+sd,B,"Well/UH ,/, we/PRP do/VBP n't/RB have/VB any/DT children/NNS ,/,","{D Well, } we don't have any children, /"
+sd,B,but/CC we/PRP 're/VBP going/VBG to/TO have/VB one/CD next/JJ year/NN ./.,{C but } we're going to have one next year <laughter>. /
+ba,A,"Oh/UH ,/, congratulations/UH ./.","{F Oh, } congratulations. /"
+ft,B,Thanks/UH ./.,Thanks. /
+sd,B,"So/UH ,/, um/UH ,/, that/DT 's/BES something/NN that/WDT I/PRP 'm/VBP probably/RB going/VBG to/TO be/VB looking/VBG at/IN --/:","{C So, } {F um, } that's something that I'm probably going to be looking at --"
+b,A,Right/UH ./.,Right. /
++,B,--/: maybe/RB in/IN the/DT future/NN ./.,-- maybe in the future. /
+sd,B,"We/PRP have/VBP n't/RB quite/RB decided/VBN if/IN I/PRP 'm/VBP going/VBG to/TO ,/,","We haven't quite decided if I'm going to, - /"
+sd,B,"I/PRP 'm/VBP working/VBG part/GW time/^RB now/RB ,/,","I'm working part time now, /"
+sd,B,and/CC I/PRP do/VBP n't/RB know/VB if/IN I/PRP 'll/MD be/VB doing/VBG that/DT or/CC what/WP we/PRP 're/VBP going/VBG to/TO do/VB ./.,{C and } I don't know if I'll be doing that or what we're going to do. /
+qy^d,A,Or/CC staying/VBG home/RB ./.,Or staying home. /
+sd,B,"But/CC if/IN we/PRP do/VBP ,/, then/RB I/PRP 'm/VBP going/VBG to/TO need/VB to/TO find/VB somebody/NN ,/,","{C But } if we do, then I'm going to need to find somebody, /"
+sd,B,and/CC our/PRP$ church/NN has/VBZ a/DT Mother/NN 's/POS Day/NNP Out/NNP program/NN --/:,{C and } our church has a Mother's Day Out program --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: which/WDT they/PRP started/VBD last/JJ year/NN ,/,","-- which they started last year, /"
+sd,B,and/CC we/PRP know/VBP a/DT lot/NN of/IN people/NNS at/IN the/DT church/NN,{C and } we know a lot of people at the church /
+sd,B,so/RB I/PRP would/MD feel/VB very/RB confident/JJ with/IN leaving/VBG --/:,{C so } I would feel very confident with leaving --
+sv,A,That/DT 's/BES a/DT very/RB good/JJ place/NN to/TO start/VB I/PRP think/VBP ./.,That's a very good place to start I think. /
++,B,--/: my/PRP$ child/NN there/RB ./.,-- my child there <laughter>. /
+aa,A,Uh-huh/UH ./.,Uh-huh. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"the/DT Mother/NNP 's/POS Day/NNP Out/NNP programs/NNS ,/,","the Mother's Day Out programs, /"
+sd,A,"and/CC that/DT 's/BES where/WRB Shannon/NNP had/VBD started/VBN ,/, in/IN a/DT Mother/NNP 's/POS Day/NNP Out/NNP program/NN --/:","{C and } that's where Shannon had started, in a Mother's Day Out program -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: and/CC ,/, uh/UH ,/, the/DT churches/NNS always/RB have/VBP I/PRP think/VBP ,/, a/DT ,/, a/DT pretty/RB good/JJ program/NN ,/,","-- {C and, } {F uh, } the churches always have I think, [ a, + a ] pretty good program, /"
+ad,A,"and/CC you/PRP have/VBP to/TO make/VB sure/JJ that/IN you/PRP ,/, um/UH ,/, that/IN you/PRP apply/VBP pretty/RB early/RB ,/, because/IN they/PRP do/VBP have/VB ,/, a/DT lot/NN of/IN places/NNS have/VBP very/RB long/JJ waiting/NN lists/NNS ./.","{C and } you have to make sure [ that you, + {F um, } that you ] apply pretty early, because [ they do have, + a lot of places have ] very long waiting lists. /"
+aa,B,Uh-huh/UH ./.,Uh-huh. /
+ad,A,"And/CC ,/, um/UH ,/, and/CC another/DT question/NN to/TO ask/VB is/VBZ if/IN they/PRP 're/VBP ,/, um/UH ,/, state/NN certified/JJ --/:","[ {C And, } + {F um, } {C and } ] another question to ask is if they're, {F um, } state certified --"
+aa,B,Okay/UH ./.,Okay. /
++,A,"--/: um/UH ,/, you/PRP know/VBP ,/, if/IN the/DT teachers/NNS have/VBP ,/, um/UH ,/, their/PRP$ Master/NN 's/POS degree/NN in/IN ,/, in/IN child/NN education/NN and/CC --/:","-- {F um, } {D you know, } if the teachers have, {F um, } their Master's degree [ in, + in ] child education and --"
+aa,B,Uh-huh/UH,Uh-huh /
++,A,"--/: um/UH ,/, child/NN development/NN ./.","-- {F um, } child development. /"
+qh,A,"Um/UH ,/, you/PRP know/VBP ,/, what/WDT ,/, what/WDT kind/NN of/IN a/DT structure/NN is/VBZ it/PRP going/VBG to/TO be/VB ./.","{F Um, } {D you know, } [ what, + what ] kind of a structure is it going to be. /"
+sv,A,"Um/UH ,/, when/WRB your/PRP$ child/NN 's/BES a/DT little/JJ bit/NN older/JJR ,/, like/UH a/DT three/CD year/NN old/NN --/:","{F Um, } when your child's a little bit older, like a three year old --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: you/PRP 'd/MD be/VB more/RBR concerned/JJ with/IN if/IN there/EX 's/BES a/DT type/NN of/IN care/NN that/WDT it/PRP 's/BES torture/NN for/IN them/PRP to/TO lay/VB down/RB and/CC take/VB a/DT nap/NN ./.,-- you'd be more concerned with if there's a type of care that it's torture for them to lay down and take a nap. /
+qh,A,Is/VBZ there/EX like/UH a/DT mandatory/JJ nap/NN time/NN ?/.,Is there {D like } a mandatory nap time? /
+b,B,"Time/NN ,/, uh-huh/UH ./.","Time, uh-huh. /"
+sd,A,"What/WP they/PRP do/VBP at/IN Shannon/NN 's/POS school/NN is/VBZ have/VB a/DT video/JJ tape/NN going/VBG ,/,","What they do at Shannon's school is have a video tape going, /"
+sd,A,"and/CC if/IN ,/, and/CC they/PRP lay/VBP on/IN these/DT little/JJ mats/NNS ,/,","[ {C and } if, + {C and } ] they lay on these little mats, /"
+sd,A,"and/CC if/IN they/PRP fall/VBP asleep/RB ,/, they/PRP kind/RB of/RB let/VBP them/PRP sleep/VB ,/,","{C and } if they fall asleep, they kind of let them sleep, /"
+sd,A,"and/CC the/DT teacher/NN stays/VBZ with/IN the/DT sleeping/VBG ones/NNS ,/,","{C and } the teacher stays with the sleeping ones, /"
+sd,A,and/CC the/DT other/JJ ones/NNS get/VBP up/RB and/CC go/VBP do/VB something/NN else/RB ./.,{C and } the other ones get up and go do something else. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/RB ,/, she/PRP does/VBZ n't/RB have/VB to/TO necessary/RB take/VB a/DT nap/NN there/RB --/:","{C So, } she doesn't have to necessary take a nap there --"
+b,B,Right/UH ./.,Right. /
++,A,"--/: you/PRP know/VBP ,/, which/WDT is/VBZ ,/, which/WDT is/VBZ nice/JJ ./. Um/UH ./.","-- {D you know, } [ which is, + which is ] nice. {F Um. } /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Um/UH ,/, you/PRP know/VBP ,/, it/PRP 's/BES kind/RB of/RB scary/JJ ,/, I/PRP guess/VBP ,/, because/IN you/PRP hear/VBP so/RB many/JJ bad/JJ things/NNS about/IN day/NN cares/NNS --/:","{F Um, } {D you know, } it's kind of scary, I guess, because you hear so many bad things about day cares --"
+aa,A,That/DT 's/BES true/JJ ./.,That's true. /
++,B,"--/: lately/RB ,/,","-- lately, /"
+sv,B,"and/CC so/RB ,/, it/PRP 's/BES ,/, I/PRP guess/VBP it/PRP 's/BES such/PDT a/DT growing/VBG concern/NN ,/,","{C and so, } [ it's, + I guess it's ] such a growing concern, /"
+sv,B,but/CC then/RB there/EX 's/BES a/DT lot/NN of/IN good/JJ things/NNS you/PRP do/VBP n't/RB hear/VB ./.,{C but } then there's a lot of good things you don't hear. /
+aa,A,Right/UH ./.,Right. /
+sv,A,"And/CC sometimes/RB when/WRB the/DT child/NN 's/BES a/DT lot/RB younger/JJR ,/, before/IN they/PRP 're/VBP really/RB ,/, um/UH ,/, before/IN three/CD years/NNS old/JJ ,/, you/PRP know/VBP ,/, like/UH the/DT church/NN is/VBZ a/DT good/JJ program/NN","{C And } sometimes when the child's a lot younger, [ before they're really, + {F um, } before three years old, ] {D you know, } {D like } the church is a good program /"
+sv,A,"and/CC sometimes/RB you/PRP even/RB consider/VBP ,/, um/UH ,/, you/PRP know/VBP ,/, having/VBG a/DT private/JJ person/NN come/VBN to/IN your/PRP$ own/JJ home/NN when/WRB they/PRP 're/VBP real/RB little/JJ or/CC --/:","{C and } sometimes you even consider, {F um, } {D you know, } having a private person come to your own home when they're real little [ or -- +"
+b,B,Right/UH ./.,Right. /
++,A,"--/: or/CC something/NN like/IN that/DT ,/,","-- or ] something like that, /"
+qh,A,"and/CC another/DT consideration/NN is/VBZ how/WRB many/JJ infants/NNS or/CC children/NNS are/VBP they/PRP ,/, what/WP 's/BES the/DT ratio/NN of/IN ,/, of/IN teachers/NNS to/IN --/:","{C and } another consideration is [ how many infants or children are they, + ] what's the ratio [ of, + of ] teachers [ to -- +"
+^2,B,To/IN children/NNS ./.,To ] children. /
++,A,--/: to/IN children/NNS --/:,-- to children -- /
+b,B,Right/UH ./.,Right. /
+sv,A,"--/: because/IN that/DT makes/VBZ ,/, a/DT ,/, a/DT ,/, a/DT difference/NN ,/,","-- because that makes, [ [ a, + a, ] + a ] difference, /"
+qh,A,"and/CC if/IN your/PRP$ child/NN would/MD be/VB maybe/RB sleeping/VBG in/IN that/DT crib/NN all/DT day/NN ,/,","{C and } if your child would be maybe sleeping in that crib all day, - /"
+qh,A,"just/RB your/PRP$ child/NN ,/, and/CC ,/, or/CC do/VBP they/PRP just/RB put/VB any/DT child/NN in/IN any/DT crib/NN --/:","just your child, [ and, + or ] do they just put any child in any crib --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: you/PRP know/VBP ,/,","-- {D you know, } - /"
+sv,A,"you/PRP would/MD want/VB ,/, maybe/RB ,/, your/PRP$ child/NN to/TO have/VB their/PRP$ own/JJ sheets/NNS all/PDT the/DT time/NN ,/, and/CC not/RB have/VB another/DT --/:","you would want, maybe, your child to have their own sheets all the time, and not have another --"
+b,B,Right/UH ./.,Right. /
++,A,--/: child/NN use/VB that/DT bed/NN --/:,-- child use that bed --
+b,B,Right/UH ./.,Right. /
++,A,--/: you/PRP know/VBP ./.,-- {D you know. } /
+sv,A,"I/PRP 'm/VBP sure/JJ that/IN ,/, um/UH ,/, whatever/WDT you/PRP decide/VBP ,/, you/PRP 'll/MD be/VB happy/JJ with/IN ./.","I'm sure that, {F um, } whatever you decide, you'll be happy with. /"
+b,B,Yeah/UH ./.,Yeah <laughter>. /
+sv,A,And/CC it/PRP 's/BES exciting/JJ time/NN to/TO have/VB a/DT new/JJ one/NN ./.,{C And } it's exciting time to have a new one <laughter>. /
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,We/PRP 're/VBP pretty/RB excited/JJ ./.,We're pretty excited. /
+ba,A,I/PRP bet/VBP ./.,I bet. /
+ba,A,"That/DT 's/BES ,/, that/DT 's/BES wonderful/JJ ./.","[ That's, + that's ] wonderful. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"but/CC that/DT ,/, you/PRP know/VBP ,/, we/PRP have/VBP been/VBN thinking/VBG about/IN that/DT ,/,","{C but } [ that, + {D you know, } we have been thinking about that, ] /"
+sd,B,but/CC it/PRP 's/BES a/DT little/JJ ways/NNS off/IN in/IN the/DT future/NN --/:,{C but } it's a little ways off in the future -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: but/CC ,/, um/UH ,/, I/PRP figure/VBP ,/, you/PRP know/VBP ,/, I/PRP 'd/MD probably/RB start/VB asking/VBG --/:","-- {C but, } {F um, } I figure, {D you know, } I'd probably start asking --"
+b^m,A,Asking/VBG ./.,Asking. /
++,B,--/: around/RP at/IN church/NN --/:,-- around at church --
+b,A,Right/UH ./.,Right. /
++,B,"--/: because/IN I/PRP know/VBP they/PRP have/VBP a/DT limit/NN as/IN to/IN how/WRB old/JJ they/PRP can/MD be/VB before/IN they/PRP ,/, you/PRP know/VBP ,/, before/IN you/PRP can/MD bring/VB them/PRP in/RB ./.","-- because I know they have a limit as to how old they can be [ before they, + {D you know, } before you ] can bring them in. /"
+sd,A,"Some/DT ,/, some/DT places/NNS ,/, um/UH ,/, start/VBP them/PRP as/RB early/RB as/IN ,/, I/PRP think/VBP ,/, well/UH ,/, some/DT ,/, some/DT places/NNS take/VBP them/PRP as/IN infants/NNS ,/, I/PRP guess/VBP ,/, you/PRP know/VBP ,/, like/IN eight/CD weeks/NNS ,/, even/RB ./.","[ [ [ Some, + some places, {F um, } start them as early as, I think, ] + {D well, } some, ] + some places ] take them as infants, I guess, {D you know, } like eight weeks, even. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ad,A,"Um/UH ,/, there/EX 's/BES a/DT place/NN to/TO look/VB into/IN ,/, um/UH ,/, um/UH ,/,","{F Um, } there's a place to look into, {F um, } {F um, } /"
+sd,A,"a/DT friend/NN of/IN mine/PRP who/WP 's/BES a/DT nurse/NN is/VBZ ,/, was/VBD telling/VBG about/IN a/DT wonderful/JJ new/JJ place/NN that/WDT opened/VBD some/DT place/NN in/IN ,/, on/IN Fifteenth/NNP Street/NNP ,/,","a friend of mine who's a nurse [ is, + was ] telling about a wonderful new place that opened some place [ in, + on ] Fifteenth Street, /"
+%,A,"up/IN ,/,","up, - /"
+sd,A,"it/PRP 's/BES in/IN Plano/NNP somewhere/RB where/WRB ,/, um/UH ,/,","it's in Plano somewhere where, {F um, } /"
+sd,A,"nurses/NNS that/WDT used/VBD to/TO work/VB in/IN the/DT hospital/NN take/VBP care/NN of/IN infants/NNS ,/, infants/NNS and/CC then/RB only/RB up/IN to/IN like/UH two/CD years/NNS old/JJ --/:","nurses that used to work in the hospital take care of [ infants, + infants ] and then only up to like two years old -- /"
+b,B,Um/UH ./.,{F Um. } /
+sd,A,"--/: and/CC it/PRP 's/BES ,/, it/PRP 's/BES supposed/VBN to/TO be/VB really/RB a/DT ,/, a/DT ,/,","-- {C and } [ it's, + it's ] supposed to be really [ a, + a, ] - /"
+sd,A,"you/PRP know/VBP ,/, some/DT places/NNS just/RB specialize/VBP in/IN just/RB real/RB little/JJ ones/NNS --/:","{D you know, } some places just specialize in just real little ones -- /"
+b,B,Right/UH ./.,Right. /
+sd,A,"--/: and/CC then/RB other/JJ ones/NNS ,/, uh/UH ,/, are/VBP the/DT older/JJR children/NNS ./.","-- {C and then } other ones, {F uh, } are the older children. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"But/CC it/PRP is/VBZ a/DT difficult/JJ situation/NN ,/, I/PRP think/VBP ./.","{C But } it is a difficult situation, I think. /"
+sv,A,"When/WRB they/PRP 're/VBP ,/, when/WRB they/PRP 're/VBP little/JJ it/PRP 's/BES almost/RB easier/JJR to/TO leave/VB them/PRP because/IN when/WRB they/PRP 're/VBP three/CD and/CC they/PRP 're/VBP cry/VB ,/,","[ When they're, + when they're ] little it's almost easier to leave them because when they're three and they're cry, -/"

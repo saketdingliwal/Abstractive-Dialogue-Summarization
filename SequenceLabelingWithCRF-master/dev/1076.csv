@@ -1,0 +1,168 @@
+act_tag,speaker,pos,text
+h,A,"Uh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","{F Uh, } I don't know, /"
+sd,A,"I/PRP 'm/VBP not/RB a/DT real/RB ,/, uh/UH ,/, great/JJ football/NN follower/NN ,/,","I'm not a real, {F uh, } great football follower, /"
+sd,A,"I/PRP guess/VBP ,/, there/EX are/VBP two/CD basic/JJ teams/NNS that/WDT I/PRP seem/VBP to/TO follow/VB every/DT year/NN ./.","I guess, there are two basic teams that I seem to follow every year. /"
+sd,A,One/CD is/VBZ the/DT Dallas/NNP Cowboys/NNPS,One is the Dallas Cowboys /
+sd,A,and/CC the/DT other/JJ is/VBZ the/DT Oklahoma/NNP Sooners/NNPS ./.,{C and } the other is the Oklahoma Sooners. /
+b,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,A,"Uh/UH ,/, being/VBG a/DT native/JJ Okie/NNP ,/, I/PRP uh/UH ,/, I/PRP like/VBP to/TO keep/VB up/RP with/IN what/WP the/DT homeboys/NNS are/VBP doing/VBG ./. Uh/UH ./.","{F Uh, } being a native Okie, [ I + {F uh, } I ] like to keep up with what the homeboys are doing. {F Uh. } /"
+b,B,"I/PRP see/VBP ,/,","I see, /"
+qy,B,"so/RB you/PRP make/VBP it/PRP ,/, uh/UH ,/, to/IN that/DT Longhorns/NNPS Sooners/NNPS game/NN ?/.","{C so } you make it, {F uh, } to that Longhorns Sooners game? /"
+nn,A,No/UH ./.,No. /
+qy^d,B,Every/DT year/NN ./.,Every year. /
+nn,A,"No/UH ,/,","No, /"
+sv,A,it/PRP 's/BES funny/JJ ./.,it's funny. /
+sd,A,"Uh/UH ,/, I/PRP got/VBD out/RB and/CC got/VBD my/PRP$ bachelor/NN 's/POS degree/NN in/IN uh/UH ,/, seventy-three/CD and/CC ,/, uh/UH ,/, never/RB went/VBD to/IN a/DT game/NN there/RB and/CC have/VB never/RB gone/VBN to/IN a/DT game/NN since/IN ./.","{F Uh, } I got out and got my bachelor's degree in {F uh, } seventy-three and, {F uh, } never went to a game there and have never gone to a game since. /"
+ba,B,How/WRB about/IN that/DT ./.,How about that. /
+sd,A,"But/CC I/PRP always/RB enjoyed/VBD watching/VBG them/PRP ,/,","{C But } I always enjoyed watching them, /"
+%,A,I/PRP just/RB,I just - /
+sd,A,"growing/VBG up/RP in/IN Oklahoma/NNP ,/, there/RB it/PRP was/VBD always/RB the/DT home/NN team/NN ,/, kind/RB of/RB like/IN Dallas/NNP is/VBZ around/IN here/RB ./.","growing up in Oklahoma, there it was always the home team, kind of like Dallas is around here. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sd,A,And/CC there/EX 's/HVS always/RB been/VBN an/DT interest/NN there/RB ./.,{C And } there's always been an interest there. /
+sv,B,"Well/UH ,/, it/PRP 's/BES kind/RB of/RB same/JJ for/IN me/PRP ,/,","{D Well, } it's kind of same for me, /"
+sd,B,I/PRP grew/VBD up/RP in/IN southern/JJ New/NNP Jersey/NNP,I grew up in southern New Jersey /
+sd,B,and/CC the/DT local/JJ team/NN was/VBD Philadelphia/NNP ./.,{C and } the local team was Philadelphia. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,And/CC they/PRP were/VBD like/IN thirty/CD miles/NNS right/RB up/IN the/DT river/NN,{C And } they were {D like } thirty miles right up the river /
+sd,B,"and/CC I/PRP 'm/VBP still/RB pretty/RB much/JJ an/DT Eagle/NNP fan/NN ,/, I/PRP guess/VBP ./.","{C and } I'm still pretty much an Eagle fan, I guess. /"
+sv,A,I/PRP guess/VBP you/PRP keep/VBP those/DT things/NNS you/PRP grew/VBD up/RP with/IN ./.,I guess you keep those things you grew up with. /
+sd,A,"I/PRP worked/VBD in/IN ,/, uh/UH ,/, Missouri/NNP for/IN a/DT while/NN","I worked in, {F uh, } Missouri for a while /"
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP was/VBD probably/RB the/DT only/JJ one/NN in/IN the/DT room/NN several/JJ times/NNS when/WRB we/PRP were/VBD watching/VBG football/NN on/IN T/NN V/NN when/WRB the/DT Cowboys/NNPS were/VBD playing/VBG the/DT Saint/NNP Louis/NNP Cardinals/NNPS","{C and, } {F uh, } I was probably the only one in the room several times when we were watching football on T V when the Cowboys were playing the Saint Louis Cardinals /"
+sd,A,and/CC I/PRP was/VBD rooting/VBG for/IN the/DT Cowboys/NNPS ./.,{C and } I was rooting for the Cowboys. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"But/CC ,/, they/PRP were/VBD kind/RB of/RB closer/RBR to/IN home/NN when/WRB ,/, when/WRB I/PRP struck/VBD up/RP with/IN them/PRP ./.","{C But, } they were kind of closer to home [ when, + when ] I struck up with them. /"
+sd,A,I/PRP really/RB do/VBP n't/RB know/VB what/WP 's/BES going/VBG to/TO take/VB place/NN with/IN the/DT Cowboys/NNPS this/DT year/NN ./.,I really don't know what's going to take place with the Cowboys this year. /
+sd,A,Everybody/NN keeps/VBZ talking/VBG about/IN the/DT reconstruction/NN they/PRP 're/VBP going/VBG through/IN and/CC new/JJ players/NNS and/CC how/WRB next/JJ year/NN is/VBZ going/VBG to/TO be/VB even/RB bigger/JJR and/CC better/JJR than/IN the/DT previous/JJ year/NN ./.,Everybody keeps talking about the reconstruction they're going through and new players and how next year is going to be even bigger and better than the previous year. /
+sd,A,"In/IN a/DT way/NN that/DT happened/VBD this/DT past/JJ season/NN ,/,","In a way that happened this past season, /"
+sd,A,"and/CC I/PRP think/VBP that/DT 's/BES quite/PDT a/DT bit/NN of/IN optimism/NN around/IN here/RB that/IN still/RB there/EX 's/BES a/DT chance/NN that/WDT maybe/RB ,/, uh/UH ,/, these/DT guys/NNS are/VBP right/JJ ,/, maybe/RB they/PRP will/MD come/VB through/IN and/CC ,/, and/CC do/VB something/NN this/DT year/NN ./.","{C and } I think that's quite a bit of optimism around here that still there's a chance that maybe, {F uh, } these guys are right, maybe they will come through [ and, + and ] do something this year. /"
+sd,A,I/PRP look/VBP for/IN it/PRP to/TO be/VB a/DT pretty/RB good/JJ year/NN ./.,I look for it to be a pretty good year. /
+sd,B,"Boy/UH they/PRP ,/, uh/UH ,/, they/PRP sure/RB did/VBD have/VB a/DT big/JJ turn/GW around/^NN from/IN a/DT couple/NN of/IN years/NNS ago/RB ./.","Boy [ they, + {F uh, } they ] sure did have a big turn around from a couple of years ago. /"
+aa,A,"They/PRP did/VBD ,/,","They did, /"
+sd,A,"uh/UH ,/, they/PRP got/VBD rid/VBN of/IN a/DT lot/NN of/IN familiar/JJ names/NNS and/CC got/VBD a/DT lot/NN of/IN names/NNS in/IN that/WDT we/PRP were/VBD n't/RB ,/, were/VBD n't/RB familiar/JJ with/IN ./.","{F uh, } they got rid of a lot of familiar names and got a lot of names in that we [ weren't, + weren't ] familiar with. /"
+sd,A,"Some/DT of/IN them/PRP turned/VBD out/RP to/TO be/VB pretty/RB good/JJ players/NNS ,/,","Some of them turned out to be pretty good players, /"
+sd,A,"uh/UH ,/, some/DT of/IN them/PRP did/VBD n't/RB","{F uh, } some of them didn't /"
+sd,A,"and/CC you/PRP know/VBP maybe/RB the/DT stuff/NN that/WDT ,/, uh/UH ,/, Jerry/NNP Jones/NNP is/VBZ talking/VBG about/IN the/DT construction/NN and/CC redefining/VBG the/DT team/NN and/CC maybe/RB the/DT effort/NN might/MD be/VB starting/VBG to/TO pay/VB off/RP ./.","{C and } {D you know } maybe the stuff that, {F uh, } Jerry Jones is talking about the construction and redefining the team and maybe the effort might be starting to pay off. /"
+sd,A,At/IN least/JJS we/PRP hope/VBP it/PRP will/MD ./.,At least we hope it will. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP keep/VBP waiting/VBG for/IN the/DT Eagles/NNPS to/TO get/VB over/IN the/DT hump/NN ./.","[ I'm, + I ] keep waiting for the Eagles to get over the hump. /"
+sd,B,They/PRP make/VBP it/PRP to/IN the/DT playoffs/NNS it/PRP seems/VBZ for/IN the/DT last/RB few/JJ years/NNS,They make it to the playoffs it seems for the last few years /
+sd,B,but/CC they/PRP just/RB have/VBP done/VBN absolutely/RB nothing/NN when/WRB they/PRP got/VBD there/RB ./.,{C but } they just have done absolutely nothing when they got there <laughter>. /
+sd,B,"And/CC you/PRP know/VBP ,/, they/PRP 've/VBP got/VBN a/DT lot/NN of/IN the/DT tools/NNS to/TO do/VB it/PRP ,/,","{C And } {D you know, } they've got a lot of the tools to do it, /"
+sd,B,"but/CC doggone/UH if/IN they/PRP ca/MD n't/RB just/RB put/VB it/PRP together/RB ,/, uh/UH ,/, you/PRP know/VBP ,/,","{C but } {D doggone } if they can't just put it together, {F uh, } {D you know, } - /"
+sd,B,"they/PRP have/VBP got/VBN the/DT quarterback/NN there/RB in/IN Randal/NNP Cunningham/NNP ,/, who/WP 's/BES just/RB ,/, you/PRP know/VBP ,/, phenomenal/JJ ,/,","they have got the quarterback there in Randal Cunningham, who's just, {D you know, } phenomenal, /"
+sd,B,"but/CC ,/, he/PRP ,/, he/PRP 's/BES too/RB streaky/JJ it/PRP seems/VBZ ./.","{C but, } [ he, + he's ] too streaky it seems. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,but/CC they/PRP have/VBP always/RB been/VBN a/DT really/RB strong/JJ team/NN ./.,{C but } they have always been a really strong team. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+sd,B,and/CC without/IN a/DT whole/JJ lot/NN of/IN big/JJ name/NN players/NNS ./.,{C and } without a whole lot of big name players. /
+sd,B,They/PRP have/VBP got/VBN a/DT few/JJ anchors/NNS on/IN offense/NN and/CC defense/NN,They have got a few anchors on offense and defense /
+sd,B,"and/CC you/PRP know/VBP they/PRP ,/, they/PRP 've/VBP managed/VBN with/IN those/DT guys/NNS","{C and } {D you know } [ they, + they've ] managed with those guys /"
+h,B,and/CC I/PRP do/VBP n't/RB know/VB ./.,{C and } I don't know. /
+sd,A,"Once/RB the/DT pressure/NN gets/VBZ turned/VBN on/RP they/PRP ,/, they/PRP seem/VBP to/TO loose/VB it/PRP ./.","Once the pressure gets turned on [ they, + they ] seem to loose it. /"
+b,B,"I/PRP guess/VBP ,/, yeah/UH ./.","I guess, yeah. /"
+sd,A,See/UH that/DT 's/BES the/DT typical/JJ trait/NN of/IN the/DT Dallas/NNP Cowboys/NNPS ./.,{D See } that's the typical trait of the Dallas Cowboys.
+b,B,Yeah/UH ./.,Yeah. /
++,A,And/CC the/DT Oklahoma/NNP Sooners/NNPS ./.,And the Oklahoma Sooners. /
+sd,A,"It/PRP 's/BES funny/JJ ,/, over/IN the/DT years/NNS ./.","It's funny, over the years. /"
+sd,B,"I/PRP guess/VBP since/IN Staubach/NNP left/VBD ,/, they/PRP have/VBP n't/RB been/VBN able/JJ to/TO ,/,","I guess since Staubach left, they haven't been able to,"
+sd,A,It/PRP 's/BES ./.,[ It's. +
++,B,keep/VB it/PRP going/VBG ./.,keep it going. /
++,A,"It/PRP 's/HVS been/VBN a/DT rough/JJ tow/NN ,/, a/DT rough/JJ road/NN to/TO hoe/VB ever/RB since/IN he/PRP left/VBD ./.","It's ] been [ a rough tow, + a rough road to hoe ] ever since he left. /"
+sd,A,"I/PRP do/VBP n't/RB know/VB why/WRB it/PRP 's/BES so/RB hard/JJ to/TO find/VB ,/, uh/UH ,/, a/DT good/JJ quarterback/NN these/DT days/NNS ./.","I don't know why it's so hard to find, {F uh, } a good quarterback these days. /"
+sd,B,"Well/UH ,/, that/DT ,/, that/DT says/VBZ a/DT lot/NN for/IN the/DT ,/, for/IN his/PRP$ ability/NN ,/, though/IN I/PRP think/VBP ./.","{D Well, } [ that, + that ] says a lot [ for the, + for his ] ability, though I think."
+b,A,"Well/UH ,/, yeah/UH ./.","{D Well, } yeah. /"
++,B,"For/IN Staubach/NNP 's/POS ,/, I/PRP mean/VBP ./.","For Staubach's, {E I mean. } /"
+sd,A,"You/PRP know/VBP ,/, he/PRP was/VBD one/CD of/IN the/DT few/JJ who/WP come/VB through/RB in/IN history/NN that/WDT can/MD really/RB perform/VB ,/,","{D You know, } he was one of the few who come through in history that can really perform, /"
+%,A,"uh/UH ,/, we/PRP hope/VBP ,/,","{F uh, } we hope, - /"
+sv,A,every/DT team/NN hopes/VBZ their/PRP$ current/JJ quarterback/NN is/VBZ going/VBG to/TO pull/VB them/PRP through/IN ./.,every team hopes their current quarterback is going to pull them through. /
+sd,A,In/IN a/DT way/NN Aikman/NNP has/VBZ done/VBN some/DT of/IN that/DT ./.,In a way Aikman has done some of that. /
+sd,A,"But/CC ,/, uh/UH ,/, the/DT guy/NN winds/VBZ up/RP getting/VBG hurt/VBN every/DT other/JJ game/NN ./.","{C But, } {F uh, } the guy winds up getting hurt every other game. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP ,/, I/PRP tell/VBP you/PRP ,/, it/PRP 's/BES difficult/JJ in/IN that/DT guy/NN 's/POS position/NN coming/VBG into/IN that/DT because/IN there/RB ,/, he/PRP was/VBD just/RB so/RB highly/RB touted/VBN by/IN the/DT press/NN and/CC everybody/NN expected/VBD so/RB many/JJ big/JJ things/NNS ,/, you/PRP know/VBP ./.","[ I, + I ] tell you, it's difficult in that guy's position coming into that because there, he was just so highly touted by the press and everybody expected so many big things, {D you know. } /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,they/PRP did/VBD ./.,they did. /
+sd,A,They/PRP put/VBD a/DT lot/NN of/IN pressure/NN on/IN him/PRP from/IN the/DT outside/NN and/CC from/IN the/DT inside/NN ./.,They put a lot of pressure on him from the outside and from the inside. /
+sd,A,"Uh/UH ,/, it/PRP 's/BES funny/JJ watching/VBG them/PRP ,/, them/PRP play/VB ,/,","{F Uh, } it's funny watching [ them, + them ] play, /"
+sd,A,"he/PRP 's/BES probably/RB like/IN a/DT lot/NN of/IN quarterbacks/NNS ,/, uh/UH ,/,","he's probably like a lot of quarterbacks, {F uh, } /"
+sd,A,when/WRB the/DT pressure/NN is/VBZ really/RB on/RP when/WRB it/PRP 's/BES down/IN to/IN the/DT last/RB few/JJ minutes/NNS of/IN the/DT game/NN for/IN the/DT season/NN is/VBZ when/WRB the/DT guys/NNS seem/VBP to/TO really/RB do/VB their/PRP$ best/JJS ./.,when the pressure is really on when it's down to the last few minutes of the game for the season is when the guys seem to really do their best. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC I/PRP have/VBP n't/RB quite/RB figured/VBN that/DT out/RP ,/,","{C And } I haven't quite figured that out, /"
+sd,A,"if/IN they/PRP figure/VBP they/PRP have/VBP got/VBN it/PRP won/VBN or/CC if/IN there/EX 's/BES no/DT real/JJ hurry/NN because/IN the/DT first/JJ three/CD quarters/NNS or/CC ,/, uh/UH ,/, if/IN ,/, uh/UH ,/, if/IN something/NN happens/VBZ that/IN that/DT adrenalin/NN starts/VBZ flowing/VBG ./. They/PRP say/VBP ,/, hey/UH ,/, we/PRP got/VBN to/TO do/VB something/NN now/RB ./. And/CC then/RB start/VB playing/VBG the/DT game/NN the/DT way/NN the/DT game/NN should/MD be/VB played/VBN toward/IN the/DT last/RB few/JJ minutes/NNS ./.","if they figure they have got it won or if there's no real hurry because the first three quarters or, {F uh, } [ if, + {F uh, } if ] something happens that that adrenalin starts flowing. They say, hey, we got to do something now. And then start playing the game the way the game should be played toward the last few minutes. /"
+b,B,Yeah/UH ./.,Yeah. /
+h,A,"So/RB ,/, I/PRP do/VBP n't/RB know/VB","{C So, } I don't know /"
+sd,A,I/PRP 'm/VBP looking/VBG for/IN a/DT good/JJ year/NN ./.,I'm looking for a good year. /
+sd,A,I/PRP guess/VBP we/PRP 're/VBP always/RB looking/VBG for/IN a/DT good/JJ year/NN ./.,I guess we're always looking for a good year. /
+bf,B,"So/RB ,/, obviously/RB though/RB ,/, do/VBP you/PRP think/VB they/PRP 're/VBP going/VBG to/TO do/VB anything/NN in/IN the/DT playoffs/NNS to/TO make/VB it/PRP to/IN the/DT Super/NNP Bowl/NNP this/DT year/NN","{D So, } obviously though, do you think they're going to do anything in the playoffs to make it to the Super Bowl this year /"
+qrr,B,"or/CC who/WP do/VBP you/PRP ,/, who/WP do/VBP you/PRP like/VB to/TO do/VB that/DT this/DT year/NN ?/.","{C or } [ who do you, + who do you ] like to do that this year? /"
+nn,A,"Uh/UH ,/, no/UH","{F Uh, } no /"
+sd,A,I/PRP do/VBP n't/RB think/VB the/DT Cowboys/NNPS have/VB got/VBN a/DT chance/NN ./.,I don't think the Cowboys have got a chance. /
+sd,A,"I/PRP think/VBP they/PRP will/MD probably/RB win/VB one/CD or/CC two/CD more/JJR games/NNS than/IN they/PRP did/VBD this/DT year/NN ,/,","I think they will probably win one or two more games than they did this year, /"
+sd,A,and/CC they/PRP 'll/MD get/VB close/RB to/IN it/PRP ./.,{C and } they'll get close to it. /
+sd,A,They/PRP 'll/MD probably/RB get/VB everybody/NN 's/POS hopes/NNS up/RP and/CC blow/VB it/PRP toward/IN the/DT end/NN ./.,They'll probably get everybody's hopes up and blow it toward the end. /
+qw,B,So/RB who/WP 's/BES going/VBG to/TO beat/VB them/PRP ?/.,<Laughter> {C So } who's going to beat them? /
+qw,B,Who/WP are/VBP they/PRP going/VBG to/TO blow/VB it/PRP to/IN ?/.,Who are they going to blow it to? /
+sv,A,"Uh/UH ,/, that/DT 's/BES a/DT good/JJ question/NN ./.","{F Uh, } that's a good question. /"
+sd,A,"Uh/UH ,/, I/PRP 'm/VBP figuring/VBG either/DT one/CD either/CC the/DT Eagles/NNS or/CC possibly/RB San/NNP Francisco/NNP","{F Uh, } I'm figuring [ either one + either ] the Eagles or possibly San Francisco /"
+h,A,I/PRP 'm/VBP not/RB real/RB sure/JJ ./.,I'm not real sure. /
+sd,B,"Boy/UH ,/, they/PRP 'd/VBD some/DT big/JJ changes/NNS ,/, speaking/VBG of/IN them/PRP ./.","Boy, they'd some big changes, speaking of them. /"
+aa,A,They/PRP did/VBD ./.,They did. /
+sd,A,"So/RB ,/, I/PRP do/VBP n't/RB know/VB how/WRB these/DT changes/NNS are/VBP going/VBG to/TO help/VB or/CC hinder/VB the/DT team/NN ,/, sometimes/RB it/PRP brings/VBZ in/RB new/JJ motivation/NN","{C So, } I don't know how these changes are going to help or hinder the team, sometimes it brings in new motivation /"
+sd,A,and/CC all/DT you/PRP can/MD do/VB is/VBZ get/VB out/IN of/IN the/DT way/NN because/IN here/RB they/PRP come/VBP ./.,{C and } all you can do is get out of the way because here they come. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP 'm/VBP sure/JJ ,/, you/PRP know/VBP ,/, my/PRP$ sentimental/JJ favorite/NN would/MD have/VB to/TO be/VB Philadelphia/NNP ,/,","I'm sure, {D you know, } my sentimental favorite would have to be Philadelphia, /"
+sd,B,"but/CC I/PRP ,/, I/PRP sure/RB am/VBP scared/JJ of/IN them/PRP Giants/NNPS ./.","{C but } [ I, + I ] sure am scared of them Giants <laughter>. /"
+ba,A,"Well/UH ,/, that/DT 's/BES true/JJ ./.","{D Well, } that's true. /"
+sd,B,Those/DT guys/NNS are/VBP tough/JJ ./.,Those guys are tough. /
+bf,A,They/PRP are/VBP tough/JJ,They are tough /
+sd,A,"and/CC they/PRP 're/VBP big/JJ ,/,","{C and } they're big, /"
+sd,A,they/PRP 're/VBP mean/JJ,they're mean /
+sd,A,and/CC they/PRP are/VBP going/VBG to/TO come/VB right/RB through/IN you/PRP if/IN you/PRP do/VBP n't/RB do/VB something/NN ./.,{C and } they are going to come right through you if you don't do something. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"That/DT ,/, that/DT sure/RB was/VBD a/DT fun/JJ Super/NNP Bowl/NNP to/TO watch/VB this/DT year/NN ./.","[ That, + that ] sure was a fun Super Bowl to watch this year. /"
+aa,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+aa,A,yeah/UH ./.,yeah. /
+sd,B,"I/PRP mean/VBP ,/, I/PRP was/VBD n't/RB pulling/VBG for/IN either/DT team/NN ./.","{E I mean, } I wasn't pulling for either team. /"
+aa,A,"No/UH ,/,","No, /"
+aa,A,no/UH ./.,no. /
+sd,B,But/CC that/DT was/VBD just/RB a/DT good/JJ football/NN game/NN ./.,{C But } that was just a good football game. /
+sd,A,"And/CC it/PRP 's/BES funny/JJ ,/,","{C And } it's funny, /"
+sd,A,you/PRP know/VBP ./. You/PRP like/VBP to/TO pull/VB for/IN the/DT underdog/NN,{D you know. } You like to pull for the underdog /
+sd,A,and/CC for/IN a/DT long/JJ time/NN I/PRP was/VBD pulling/VBG for/IN Denver/NNP ./.,{C and } for a long time I was pulling for Denver. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, Marino/NNP makes/VBZ me/PRP just/RB crazy/RB mad/JJ sometimes/RB ,/, because/IN of/IN some/DT of/IN the/DT stupid/JJ stuff/NN he/PRP does/VBZ ,/,","{F Uh, } Marino makes me just crazy mad sometimes, because of some of the stupid stuff he does, /"
+sd,A,but/CC he/PRP 's/BES a/DT good/JJ quarterback/NN ./.,{C but } he's a good quarterback. /
+sd,A,"He/PRP 's/HVS got/VBN a/DT good/JJ arm/NN ,/,","He's got a good arm, /"
+sd,A,sometimes/RB it/PRP 's/BES too/RB good/JJ because/IN he/PRP throws/VBZ too/RB hard/JJ ./.,sometimes it's too good because he throws too hard. /
+qy^d,B,L/NNP A/NNP you/PRP mean/VBP ?/.,L A you mean? /
+na,A,"I/PRP mean/VBP L/NNP A/NNP ,/,","{E I mean } L A, /"
+fa,A,sorry/UH ./.,sorry. /
+sd,B,"Boy/UH ,/, speaking/VBG of/IN Denver/NNP ,/, on/IN another/DT subject/NN ,/, I/PRP 've/VBP been/VBN up/IN there/RB like/IN five/CD times/NNS in/IN the/DT last/JJ three/CD ,/, four/CD weeks/NNS ./.","<Laughter> Boy, speaking of Denver, on another subject, I've been up there {D like } five times in the last three, four weeks. /"
+bh,A,"Oh/UH ,/, yeah/UH ?/.","{F Oh, } yeah? /"
+ny,B,Yeah/UH,Yeah /
+sd,B,we/PRP 've/VBP been/VBN trying/VBG get/VB this/DT new/JJ D/NN N/NN B/NN two/CD thousand/CD printer/NN up/RP and/CC running/JJ ./.,we've been trying get this new D N B two thousand printer up and running. /
+qy,A,"Has/VBZ it/PRP been/VBN ,/, uh/UH ,/, snowing/VBG up/IN there/RB ?/.","Has it been, {F uh, } snowing up there? /"
+^h,B,"Oh/UH ,/, boy/UH I/PRP was/VBD just/RB up/IN there/RB ,/,","{F Oh, } {D boy } I was just up there, /"
+^h,B,"I/PRP just/RB got/VBD back/RB last/JJ night/NN around/RB eleven/CD thirty/CD or/CC so/RB ,/,","I just got back last night around eleven thirty or so, /"
+na,B,and/CC it/PRP was/VBD about/RB seven/CD inches/NNS of/IN snow/NN on/IN the/DT ground/NN ./.,{C and } it was about seven inches of snow on the ground. /
+ba,A,Wow/UH ./.,Wow. /
+sd,B,And/CC it/PRP snowed/VBD all/DT day/NN ./.,{C And } it snowed all day. /
+sv,A,"Well/UH ,/, that/DT will/MD make/VB the/DT skiers/NNS happy/JJ ./.","{D Well, } that will make the skiers happy. /"
+aa,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+b,B,yeah/UH ./.,yeah. /
+%,B,"If/IN ,/, if/IN","[ If, + if ] - /"
+sd,B,it/PRP snowed/VBD that/RB much/RB in/IN Denver/NNP you/PRP know/VBP,it snowed that much in Denver {D you know } /
+sd,B,"they/PRP got/VBD that/RB much/JJ up/IN in/IN the/DT mountains/NNS ,/, you/PRP know/VBP ,/, just/RB west/RB of/IN there/RB ./.","they got that much up in the mountains, {D you know, } just west of there. /"
+ba,A,"Oh/UH ,/, you/PRP bet/VBP ./.","{F Oh, } you bet. /"
+ba,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sv,A,"up/IN around/IN the/DT Keystone/NNP and/CC Copper/NNP Mountain/NNP ,/, those/DT guys/NNS will/MD love/VB that/DT ./.","up around the Keystone and Copper Mountain, those guys will love that. /"
+fc,A,"Well/UH ,/, good/JJ to/TO talk/VB to/IN you/PRP ./.","{D Well, } good to talk to you. /"
+fc,B,"Yeah/UH ,/,","Yeah, /"
+fc,B,enjoyed/VBD it/PRP Bob/NNP ./.,enjoyed it Bob. /
+fc,A,"You/PRP guys/NNS have/VB a/DT good/JJ time/NN ,/, keep/VB those/DT printers/NNS coming/VBG ./.","You guys have a good time, keep those printers coming. /"
+fc,B,"Hey/UH ,/,","Hey, /"
+fc,B,we/PRP 'll/MD do/VB it/PRP ./.,we'll do it. /
+fc,A,"All/RB right/JJ ,/,","All right, /"
+fc,A,bye/UH ./.,bye. /
+fc,B,Bye/UH ./.,Bye. /

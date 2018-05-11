@@ -1,0 +1,335 @@
+act_tag,speaker,pos,text
+qw,A,"Well/UH ,/, what/WP would/MD you/PRP have/VB at/IN a/DT dinner/NN party/NN ?/.","{D Well, } what would you have at a dinner party? /"
+sd,B,"Well/UH ,/, uh/UH ,/, lately/RB ,/, since/IN I/PRP have/VBP children/NNS I/PRP 've/VBP cut/VBN down/RP on/IN having/VBG dinner/NN parties/NNS ./.","{D Well, } {F uh, } lately, since I have children I've cut down on having dinner parties <beep>. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"but/CC when/WRB I/PRP do/VBP I/PRP try/VBP to/TO keep/VB it/PRP pretty/RB simple/JJ on/IN things/NNS that/WDT I/PRP can/MD prepare/VB ahead/RB of/IN time/NN ,/,","{C but } <laughter> when I do I try to keep it pretty simple on things that I can prepare ahead of time <beep>, /"
+sd,B,"uh/UH ,/, I/PRP have/VBP one/CD recipe/NN for/IN ,/, uh/UH ,/, a/DT really/RB good/JJ ,/, um/UH ,/, type/NN of/IN a/DT meatball/NN ./.","{F uh, } I have one recipe for, {F uh, } a really good, {F um, } type of a meatball. /"
+sd,B,It/PRP 's/BES called/VBN burgundy/NN meatball/NN,It's called burgundy meatball /
+sd,B,"and/CC it/PRP 's/BES made/VBN with/IN red/JJ wine/NN and/CC ,/,","{C and } it's made with red wine and, -/"
+ba,A,"Oh/UH ,/, gosh/UH ,/,","{F Oh, } gosh,"
+%,B,um/UH --/:,{F um } -- /
++,A,that/DT sounds/VBZ great/JJ ./.,that sounds great. /
+sd,B,"--/: It/PRP 's/BES ,/, it/PRP 's/BES really/RB good/JJ","-- [ It's, + it's ] really good /"
+sd,B,"and/CC you/PRP can/MD make/VB it/PRP ahead/RB of/IN time/NN and/CC then/RB ,/, um/UH ,/, make/VB the/DT sauce/NN when/WRB you/PRP 're/VBP ready/JJ to/TO ,/, um/UH ,/, to/TO serve/VB it/PRP ./.","{C and } you can make it ahead of time and then, {F um, } make the sauce when you're ready [ to, + {F um, } to ] serve it. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"That/DT 's/BES one/CD of/IN my/PRP$ favorite/JJ things/NNS to/TO ,/, to/TO serve/VB ./.","That's one of my favorite things [ to, + to ] serve. /"
+sv,A,"Well/UH ,/, um/UH ,/, I/PRP think/VBP it/PRP would/MD probably/RB depend/VB on/IN whether/IN this/DT was/VBD a/DT formal/JJ or/CC a/DT informal/JJ dinner/NN party/NN ./.","{D Well, } {F um, } I think it would probably depend on whether this was a formal or a informal dinner party. /"
+aa,B,Sure/UH ./.,Sure. /
+sd,A,"But/CC if/IN it/PRP was/VBD informal/JJ ,/, my/PRP$ first/JJ choice/NN would/MD be/VB crawfish/NN ./.","{C But } if it was informal, my first choice would be crawfish. /"
+b,B,"Oh/UH ,/, really/UH ./.","{F Oh, } really. /"
+sd,B,"Well/UH ,/, I/PRP guess/VBP being/VBG from/IN that/DT part/NN of/IN the/DT country/NN ./.","{D Well, } I guess being from that part of the country. /"
+sd,A,"Because/RB ,/, I/PRP mean/VBP ,/, crawfish/NN ,/, everybody/NN over/IN here/RB likes/VBZ crawfish/NN","{C Because, } {E I mean, } crawfish, everybody over here likes crawfish /"
+sd,A,but/CC --/:,{C but } --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: you/PRP know/VBP ,/, I/PRP ,/, I/PRP would/MD n't/RB have/VB to/TO worry/VB about/IN satisfying/VBG my/PRP$ guest/NN ./.","-- {D you know, } [ I, + I ] wouldn't have to worry about satisfying my guest. /"
+sd,A,"But/CC if/IN it/PRP was/VBD a/DT formal/JJ dinner/NN party/NN I/PRP would/MD probably/RB think/VB of/IN something/NN else/RB like/IN ,/, uh/UH ,/,","{C But } if it was a formal dinner party I would probably think of something else like, {F uh, } - /"
+sd,A,"shrimp/NN ,/, shrimp/NN fettucini/NN is/VBZ real/RB easy/JJ --/:","[ shrimp, + shrimp ] fettucini is real easy --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: to/TO ,/, um/UH ,/, make/VB and/CC everything/NN","-- to, {F um, } make and everything /"
+sv,A,"and/CC it/PRP 's/BES usually/RB well/RB liked/VBN by/IN people/NNS ,/, I/PRP guess/VBP ,/,","{C and } it's usually well liked by people, I guess, /"
+sd,A,I/PRP 'm/VBP just/RB a/DT seafood/NN fan/NN,I'm just a seafood fan /
+sd,A,"so/RB ,/,","{C so, }"
+qw,B,"Well/UH ,/, how/WRB do/VBP ,/,","{D Well, } [ how do,"
++,A,"I/PRP think/VBP on/IN the/DT lines/NNS of/IN ,/,","I think on the lines of, -/"
++,B,"make/VB ,/, how/WRB do/VBP you/PRP ,/, you/PRP cook/VB crawfish/NN ?/.","make, + how do [ you, + you ] cook ] crawfish? /"
+sd,B,"I/PRP ,/, in/IN fact/NN ,/, I/PRP just/RB came/VBD back/RB from/IN the/DT grocery/NN store/NN","[ I, + in fact, I ] just came back from the grocery store /"
+sd,B,"and/CC being/VBG in/IN Texas/NNP we/PRP do/VBP n't/RB have/VB too/RB many/JJ ,/, you/PRP know/VBP ,/, people/NNS that/WDT ,/, that/WDT eat/VBP crawfish/NN","{C and } being in Texas we don't have too many, {D you know, } people [ that, + that ] eat crawfish /"
+sd,B,"but/CC they/PRP had/VBD live/JJ crawfish/NN ,/,","{C but } they had live crawfish,"
+ba,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
++,B,on/IN sale/NN ./.,on sale. /
+sd,A,"um/UH ,/, you/PRP 're/VBP not/RB supposed/VBN to/TO ,/, I/PRP mean/VBP ,/, you/PRP 're/VBP not/RB supposed/VBN to/TO eat/VB them/PRP dead/JJ ./.","{F um, } [ you're not supposed to, + {E I mean, } you're not supposed to ] eat them dead. /"
+ar,A,"I/PRP mean/VBP ,/,","{E I mean, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"well/UH ,/, you/PRP eat/VBP them/PRP dead/JJ","{D well, } you eat them dead /"
+%,A,"but/CC ,/,","{C but, } -/"
+^2,B,Do/VBP n't/RB buy/VB them/PRP that/DT way/NN ./.,<Laughter> Don't buy them that way <laughter>. /
+aa,A,Right/UH ./.,Right. /
+sd,A,"Because/IN if/IN ,/, if/IN they/PRP are/VBP dead/JJ for/IN too/RB long/JJ ,/,","Because [ if, + if ] they are dead for too long, - /"
+sd,A,you/PRP can/MD always/RB tell/VB whenever/WRB they/PRP 're/VBP cooked/VBN if/IN they/PRP 've/VBP been/VBN dead/JJ for/IN a/DT long/JJ time/NN because/IN their/PRP$ tail/NN straightens/VBZ out/RP ./.,you can always tell whenever they're cooked if they've been dead for a long time because their tail straightens out. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC you/PRP 're/VBP not/RB supposed/VBN to/TO eat/VB those/DT because/IN they/PRP 're/VBP bad/JJ for/IN you/PRP ./.,{C And } you're not supposed to eat those because they're bad for you. /
+b,B,Okay/UH ./.,Okay. /
+oo_co_cc,B,"Well/UH ,/, I/PRP 'll/MD remember/VB that/DT ./.","{D Well, } I'll remember that. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+ad,A,"so/RB if/IN you/PRP ever/RB go/VBP in/IN a/DT restaurant/NN ,/, order/VBP crawfish/NN ,/,","{C so } if you ever go in a restaurant, order crawfish, /"
+sd,A,"I/PRP mean/VBP ,/, every/DT once/RB in/IN a/DT while/NN you/PRP 'll/MD see/VB on-/XX ,/,","{E I mean, } every once in a while you'll see on-, /"
+sd,A,"I/PRP mean/VBP ,/, it/PRP does/VBZ n't/RB happen/VB very/RB often/RB because/IN it/PRP 's/BES just/RB an/DT accident/NN","{E I mean, } it doesn't happen very often because it's just an accident /"
+sd,A,"but/CC if/IN the/DT tail/NN is/VBZ straight/JJ on/IN it/PRP then/RB ,/, yeah/UH ,/,","{C but } if the tail is straight on it then, yeah,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,do/VBP n't/RB eat/VB it/PRP ./.,don't eat it. /
+sd,A,"But/CC ,/, um/UH ,/, you/PRP just/RB put/VBP some/DT Cajun/NNP ,/, well/UH ,/, lots/NNS of/IN pepper/NN --/:","{C But, } {F um, } you just put some Cajun, {D well, } lots of pepper <laughter> -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC you/PRP just/RB boil/VBP them/PRP,-- {C and } you just boil them /
+sv,A,and/CC they/PRP 're/VBP absolutely/RB wonderful/JJ,{C and } they're absolutely wonderful /
+sd,A,"but/CC there/EX 's/BES ,/, uh/UH ,/, they/PRP 're/VBP a/DT pain/NN to/TO peel/VB for/IN some/DT people/NNS ./.","{C but } [ there's, + {F uh, } they're ] a pain to peel for some people. /"
+sv,A,Once/RB you/PRP get/VBP used/VBN to/IN it/PRP they/PRP 're/VBP real/RB easy/JJ,Once you get used to it they're real easy /
+sv,A,"but/CC ,/, um/UH ,/, you/PRP know/VBP ,/, if/IN you/PRP have/VBP nails/NNS or/CC anything/NN you/PRP can/MD plan/VB on/IN those/DT being/VBG shot/VBN ./.","{C but, } <breathing> {F um, } {D you know, } if you have nails or anything you can <lipsmack> plan on those being shot. /"
+qy,B,"Huh/UH ./. When/WRB you/PRP were/VBD ,/, um/UH ,/, whe/WRB ,/, when/WRB you/PRP serve/VBP it/PRP do/VBP you/PRP shell/MD them/PRP and/CC then/RB serve/VBP em/PRP too/RB ?/.","<breathing> {F Huh. } [ When you were, + {F um, } [ whe-, + when ] you <child> serve ] it do you shell them and then serve em too? /"
+sd,A,I/PRP think/VBP for/IN a/DT dinner/NN party/NN,<lipsmack> <breathing> I think for a dinner party - /
+h,A,"I/PRP ,/, I/PRP do/VBP n't/RB know/VB","[ I, + I ] don't know /"
+sd,A,it/PRP depends/VBZ ./.,it depends. /
+b,B,Um-hum/UH ./.,Um-hum. /
+sd,A,"Like/IN if/IN ,/, like/IN my/PRP$ age/NN ,/, if/IN there/EX was/VBD a/DT bunch/NN of/IN college/NN kids/NNS coming/VBG over/RB for/IN a/DT dinner/NN party/NN ,/, no/UH ,/, I/PRP ,/, they/PRP would/MD shell/MD their/PRP$ own/JJ ,/,","<breathing> {D Like } [ if, + like my age, if ] there was a bunch of college kids coming over for a dinner party, no, [ I, + they ] would shell their own, /"
+b,B,Sure/UH ./.,Sure. /
+sd,A,"you/PRP know/VBP ,/, we/PRP 'd/MD just/RB have/VB crawfish/NN and/CC beer/NN or/CC something/NN","{D you know, } we'd just have crawfish and beer or something /"
+sd,A,"but/CC ,/, um/UH ,/, if/IN it/PRP was/VBD more/RBR formal/JJ like/IN if/IN I/PRP was/VBD ,/, you/PRP know/VBP ,/, working/VBG environment/NN then/RB I/PRP would/MD probably/RB ,/, um/UH ,/, sh/MD ,/, shell/MD 'em/PRP or/CC at/IN least/JJS disconnect/VB them/PRP from/IN the/DT head/NN ./.","{C but, } <breathing> {F um, } if it was more formal like if I was, {D you know, } working environment then I would probably, {F um, } <lipsmack> <breathing> [ sh-, + shell ] 'em or at least disconnect them from the head <breathing> <laughter>. /"
+sd,A,"But/CC there/EX 's/BES a/DT ,/,","{C But } [ there's a, +"
+"fo_o_fw_""_by_bc",B,Still/RB have/VBP see/VB that/DT ./.,<Laughter> Still have see that. <Laughter> *[[slash error]]
++,A,"There/EX 's/BES a/DT ,/, big/JJ thing/NN over/IN here/RB that/IN everybody/NN sucks/VBZ the/DT head/NN ./.","There's a, ] <breathing> big thing over here that everybody sucks the head. /"
+sd,A,"So/UH ,/, um/UH --/:","{C So, } {F um } --"
++,B,Ooh/UH ./.,Ooh <laughter>. / *[[slash error should be 'ba']]
++,A,"--/: it/PRP ,/, it/PRP would/MD just/RB","-- [ it, + it ] would just"
+x,B,./.,<laughter>.
++,A,depend/VB ./.,depend. /
+sv,A,That/DT 's/BES the/DT best/JJS part/NN of/IN the/DT crawfish/NN ./.,That's the best part of the crawfish. /
+x,B,,<laughter>
+sv,A,Sucking/VBG the/DT head/NN,<lipsmack> Sucking the head /
+h,A,But/CC um/UH I/PRP do/VBP n't/RB know/VB,{C But } {F um } <lipsmack> I don't know /
+sd,A,it/PRP jus-/RB i-/PRP it/PRP just/RB depends/VBZ on/IN what/WP type/NN it/PRP was/VBD I/PRP guess/VBP,[ it jus- + [ i- + it ] just ] depends on what type it was I guess /
+sd,A,But/CC you/PRP can/MD buy/VB uh/UH the/DT crawfish/NN shells/NNS already/RB peeled/VBN 'n/CC everything/NN,{C But } you can buy <breathing> {F uh } the crawfish shells already peeled 'n everything /
+sd,A,And/CC usually/RB you/PRP use/VBP those/DT like/JJ for/IN frying/VBG,{C And } usually you use those {D like } for frying <breathing>
+b,B,Um-hum/UH,Um-hum /
++,A,or/CC to/TO put/VB in/IN salads/NNS or/CC to/TO um/UH You/PRP know/VBP make/VB a/DT sauce/NN with/IN or/CC something/NN like/IN that/DT,or to put in salads or to {F um } <lipsmack> {D You know } make a sauce with or something like that /
+sd,A,But/CC you/PRP can/MD go/VB ahead/RB and/CC buy/VB 'em/PRP cooked/JJ and/CC shelled/JJ,{C But } you can go ahead and buy 'em cooked and shelled /
+sd,A,and/CC they/PRP 're/VBP more/RBR expensive/JJ of/IN course/NN,{C and } they're more expensive of course /
+%,A,but/CC,{C but } -/
+qy,B,Does/VBZ it/PRP taste/VB a/DT lot/NN like/IN shrimp/NN,Does it taste a lot like shrimp /
+ny,A,Um/UH Yeah/UH,{F Um } <lipsmack> Yeah /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,Just/RB um/UH The/DT crawfish/NN I/PRP mean/VBP it/PRP just/RB has/VBZ a/DT taste/NN of/IN its/PRP$ own/JJ,Just {F um } The crawfish {E I mean } it just has a taste of its own /
+sd,A,It/PRP also/RB depends/VBZ on/IN who/WP 's/BES cooking/VBG it/PRP and/CC how/WRB much/JJ seasoning/NN they/PRP use/VBP,It also depends on who's cooking it and how much seasoning they use
+b,B,Sure/UH,Sure /
++,A,stuff/NN like/IN that/DT,stuff like that /
+%,A,but/CC um/UH I/PRP think/VBP that/IN,{C but } {F um } I think that - /
+sv,A,And/CC also/RB to/TO get/VB totally/RB off/IN the/DT subject/NN of/IN crawfish/NN lots/NNS of/IN vegetables/NNS and/CC hors/NNS d'oeuvres/FW and/CC stuff/NN like/IN that/DT for/IN a/DT dinner/NN party/NN I/PRP think/VBP that/IN that/DT really/RB helps/VBZ,{C And } also to get totally off the subject of crawfish lots of vegetables and hors d'oeuvres and stuff like that for a dinner party I think that that really helps /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,We/PRP have/VBP a/DT a/DT friend/NN another/DT couple/NN where/WRB the/DT husband/NN is/VBZ the/DT one/NN who/WP cooks/VBZ,<breathing> We have [ a + a ] friend another couple where the husband is the one who cooks
+x,A,,<laughter>
++,B,all/PDT the/DT time/NN,all the time /
+%,B,And/CC,{C And } -/
+sd,A,That/DT 's/BES what/WP I/PRP need/VBP,That's what I need <laughter> /
+aa,B,Yeah/UH,<laughter> Yeah /
+sd,B,that/DT 's/BES what/WP I/PRP wish/VBP I/PRP had/VBD,that's what I wish I had <laughter> <breathing> /
+sd,B,but/CC in/IN our/PRP$ family/NN I/PRP am/VBP the/DT one/NN who/WP who/WP cooks/VBZ,{C but } in our family I am the one who who cooks /
+sd,B,And/CC I/PRP I/PRP really/RB enjoy/VBP it/PRP,{C And } [ I + I ] really enjoy it /
+sd,B,it/PRP 's/HVS gotten/VBN a/DT little/RB more/RBR difficult/JJ with/IN kids/NNS,it's gotten a little more difficult with kids /
+sd,B,But/CC I/PRP really/RB do/VBP enjoy/VB cooking/NN,{C But } I really do enjoy cooking <breathing> /
+sd,B,And/CC we/PRP um/UH we/PRP have/VBP them/PRP over/RB for/IN dinner/NN,{C And } [ we + {F um } we ] have them over for dinner
+b,A,Uh-huh/UH,Uh-huh /
++,B,back/RB and/CC forth/RB quite/RB a/DT lot/NN,back and forth quite a lot /
+sd,B,And/CC before/IN I/PRP had/VBD my/PRP$ second/JJ child/NN we/PRP sort/NN of/IN had/VBD a/DT contest/NN going/VBG where/WRB,{C And } before I had my second child we sort of had a contest going where
+x,A,,<lipsmack>
++,B,,<breathing>
+ba,A,Oh/UH !/.,Oh! /
++,B,you/PRP know/VBP he/PRP would/MD cook/VB and/CC then/RB the/DT next/JJ time/NN it/PRP would/MD be/VB my/PRP$ turn/NN and/CC I/PRP 'd/MD try/VB to/TO outdo/VB him/PRP,{D you know } he would cook and then the next time it would be my turn and I'd try to outdo him
+x,A,,<laughter>
++,B,and/CC then/RB he/PRP 'd/MD try/VB to/TO outdo/VB,and then he'd try to outdo
+x,A,,<laughter>
++,B,me/PRP,me /
+%,B,and/CC we/PRP we/PRP,{C and } <laughter> <laughter> [ we + we ] -/
+x,A,,<breathing>
+sd,B,was/VBD really/RB a/DT lot/NN of/IN fun/NN,was really a lot of fun /
+ba,A,I/PRP bet/VBP,I bet /
+%,B,and/CC,{C and } -/
+bf,A,that/IN that/DT got/VBD pretty/RB competitive/JJ,[ that + that ] got pretty competitive
+b,B,Yeah/UH,Yeah /
++,A,you/PRP know/VBP as/RB,{D you know } as
+aa,B,it/PRP did/VBD,it did /
++,A,far/RB as/IN,far as <breathing>
+sd,B,we/PRP we/PRP,[ we + we ]
++,A,who/WP,who
++,B,tried/VBD,tried
++,A,could/MD come/VB,could come
++,B,to/IN,to
++,A,up/IN,up
++,B,be/VB,be
++,A,with/IN the/DT best/JJS recipe/NN,with the best recipe <laughter> /
++,B,fancier/JJR or/CC more/JJR courses/NNS than/IN the/DT other/JJ,fancier or more courses than the other /
+sv,A,That/DT,That
+%,B,or/CC,{C or } -/
++,A,would/MD be/VB fun/NN,would be fun /
+sd,B,Uh/UH it/PRP was/VBD a/DT lot/NN of/IN fun/NN you/PRP know/VBP,{F Uh } it was a lot of fun {D you know } /
+sd,B,it/PRP something/NN unique/JJ you/PRP know/VBP,it something unique {D you know } /
+sd,B,and/CC then/RB we/PRP got/VBD into/IN different/JJ um/UH themes/NNS you/PRP know/VBP um/UH whether/IN it/PRP would/MD be/VB ethnic/JJ food/NN,{C and then } we got into different {F um } themes {D you know } <breathing> {F um } whether it would be ethnic food
+b,A,Uh/UH huh/UH,{F Uh } huh /
++,B,Or/CC um/UH sometimes/RB it/PRP would/MD be/VB um/UH oh/UH Oh/UH I/PRP do/VBP n't/RB know/VB maybe/RB an/DT outdoor/JJ theme/NN or/CC uh/UH elegant/JJ theme/NN or/CC you/PRP know/VBP,Or {F um } sometimes it would be {F um } <click> oh Oh I don't know maybe an outdoor theme or {F uh } elegant theme or {D you know } <laughter> <laughter> - /
+sd,B,It/PRP was/VBD a/DT lot/NN of/IN fun/NN,It was a lot of fun /
+bf,A,Sometimes/RB it/PRP might/MD be/VB the/DT candlelight/NN,Sometimes it might be the candlelight /
+bf,A,and/CC sometimes/RB it/PRP might/MD be/VB the/DT picnic/NN out/IN back/RB,{C and } sometimes it might be the picnic out back
+aa,B,That/DT 's/BES,That's
++,A,or/CC something/NN,or something /
++,B,right/UH,right <laughter> /
+ba,A,Well/UH,<Laughter> <breathing> {D Well }
+x,B,,<breathing>
++,A,that/DT 's/BES you/PRP know/VBP that/DT 's/BES fun/NN,[ that's + {D you know } that's ] fun /
+sd,B,it/PRP was/VBD fun/NN,it was fun /
+sd,B,and/CC and/CC we/PRP threatened/VBD to/TO make/VB the/DT other/JJ two/CD uh/UH make/VBP us/PRP dinner/NN one/DT time/NN,[ {C and } + {C and } ] we threatened to make the other two {F uh } make us dinner one time
+b,A,Uh/UH huh/UH,Uh huh /
++,B,Uh/UH Just/RB to/TO even/VB it/PRP out/IN since/IN we/PRP seemed/VBD to/TO be/VB unfairly/RB doing/VBG all/PDT the/DT cooking/NN,{F Uh } Just to even it out since we seemed to be unfairly doing all the cooking
+x,A,./.,<Laughter>.
++,B,and/CC they/PRP were/VBD doing/VBG all/PDT the/DT enjoying/NN,{C and } they were doing all the enjoying /
+sv,A,That/DT sounds/VBZ right/RB I/PRP,<laughter> That sounds right [ I
+%,B,I/PRP 'm/VBP,I'm -/
++,A,would/MD I/PRP 'd/MD take/VB him/PRP up/IN on/IN that/DT,would + <breathing> I'd ] take him up on that /
+aa,B,It/PRP does/VBZ,It does /
+sd,B,except/IN that/IN knowing/VBG them/PRP they/PRP would/MD probably/RB do/VB something/NN,except that knowing them they would probably do something
+x,A,,<laughter>
++,B,ridiculous/JJ and/CC terrible/JJ just/RB,ridiculous and terrible [ just +
+x,A,,<laughter>
++,B,just/RB to/TO uh/UH make/VB sure/JJ that/IN they/PRP did/VBD n't/RB have/VB to/TO do/VB it/PRP again/RB,just ] to {F uh } make sure that they didn't have to do it again /
+b,A,Uh/UH huh/UH,Uh huh /
+x,B,,<laughter>
+%,A,I/PRP 'd/MD,<lipsmack> I'd
+sd,B,make/VB hot/JJ,make hot
++,A,be/VB,be -/
++,B,dogs/NNS or/CC,dogs or
+x,A,,<laughter>
++,B,some/DT potato/NN chips/NNS,some potato chips /
+sd,A,I/PRP that/WDT 's/BES about/RB how/WRB much/RB I/PRP can/MD cook/VB,<breathing> [ I + that's about how much I ] can cook
+x,B,,<laughter>
++,A,You/PRP know/VBP,{D You know } /
+sd,A,I/PRP 'm/VBP I/PRP 'm/VBP doing/VBG a/DT lot/NN more/RBR cooking/NN now/RB than/IN I/PRP used/VBD to/TO,[ I'm + I'm ] doing a lot more cooking now <lipsmack> than I used to /
+b,B,Uh-huh/UH,Uh-huh /
+sd,A,but/CC that/DT 's/BES only/RB because/IN my/PRP$ mom/NN just/RB started/VBD working/VBG,{C but } that's only because my mom just started working /
+sd,A,so/RB she/PRP 's/BES tired/VBN when/WRB she/PRP comes/VBZ home/NN in/IN the/DT afternoon/NN,{C so } <breathing> she's tired when she comes home in the afternoon /
+sd,A,so/RB I/PRP try/VBP to/TO have/VB things/NNS cooked/VBN for/IN her/PRP,{C so } I try to have things cooked for her /
+sd,A,but/CC,{C but }
+ba,B,Oh/UH that/DT 's/BES nice/JJ,{F Oh } that's nice /
++,A,uh/UH um/UH I/PRP usually/RB try/VBP to/TO stay/VB out/IN of/IN kitchen/NN,{F uh } {F um } I usually try to stay out of kitchen /
+h,A,I/PRP do/VBP n't/RB know/VB,I don't know <laughter> /
+x,B,,<laughter>
+x,A,,<breathing>
+x,B,,<breathing>
+sd,A,not/RB one/CD of/IN my/PRP$ favorite/JJ hobbies/NNS,not one of my favorite hobbies /
+sv,B,It/PRP can/MD it/PRP can/MD be/VB fun/NN I/PRP if/IN you/PRP have/VBP the/DT time/NN,[ It can + it can ] be fun [ I + if ] you have the time /
+sv,B,But/CC you/PRP know/VBP a/DT lot/NN of/IN times/NNS it/PRP 's/BES too/RB much/RB of/IN a/DT rush/NN really/RB be/VB able/JJ to/TO enjoy/VB it/PRP,{C But } {D you know } a lot of times it's too much of a rush really be [ able to enjoy it +
+sd,A,Well/UH um/UH,{D Well } {F um }
++,B,able/JJ,able
++,A,my/PRP$ grandma/NN speaking/VBG,my grandma speaking
++,B,to/TO,to ] -/
++,A,of/IN those/DT meatballs/NNS again/RB she/PRP owned/VBD every/DT Christmas/NNP and/CC and/CC Easter/NNP,of those meatballs again she owned every Christmas [ and + and ] Easter /
+sd,A,whenever/WRB we/PRP have/VBP at/IN the/DT big/JJ get-together/NN over/IN at/IN her/PRP$ house/NN she/PRP makes/VBZ this/DT meat/NN ball/NN sauce/NN,whenever we have [ at + ] the big get-together over at her house she makes this meat ball sauce /
+%,A,and/CC it/PRP has/VBZ,{C and } it has - /
+h,A,I/PRP do/VBP n't/RB know/VB,I don't know /
+sd,A,they/PRP are/VBP just/RB kind/RB of/RB like/IN quarter/NN size/NN meatballs/NNS,they are just kind of like quarter size meatballs /
+sd,A,and/CC,{C and }
+b,B,Uh-huh/UH,Uh-huh /
++,A,they/PRP are/VBP absolutely/RB delicious/JJ,they are absolutely delicious <breathing> /
+sd,A,I/PRP do/VBP n't/RB know/VB what/WP she/PRP calls/VBZ them/PRP in/IN,I don't know what she calls them in /
+sd,A,I/PRP do/VBP n't/RB I/PRP 'm/VBP sure/JJ she/PRP puts/VBZ wine/NN in/IN it/PRP because/IN um/UH she/PRP cooks/VBZ everything/NN with/IN alcohol/NN,[ I don't + I'm ] sure she puts wine in it because {F um } she cooks everything with alcohol /
+%,A,But/CC,{C But } -/
+x,B,,<laughter>
+%,A,um/UH,<laughter> {F um } /
+x,B,,<laughter>
+h,A,I/PRP do/VBP n't/RB know/VB,<lipsmack> I don't know /
+sd,A,I/PRP would/MD I/PRP would/MD be/VB interested/JJ in/IN getting/VBG that/DT recipe/NN for/IN you/PRP if/IN you/PRP have/VBP it/PRP around/RP,[ I would + I would ] be interested in getting that recipe for you if you have it around /
+aa,B,Yeah/UH,Yeah /
+sd,B,it/PRP 's/BES um/UH it/PRP 's/BES in/IN the/DT other/JJ room/NN,[ it's + {F um } it's ] in the other room /
+sd,B,I/PRP do/VBP n't/RB know/VB if/IN we/PRP,I don't know if we
+b,A,Oh/UH,Oh /
++,B,have/VBP enough/JJ time/NN for/IN it/PRP,have enough time for it /
+sd,B,it/PRP 's/BES real/RB easy/JJ,it's real easy /
+sd,B,one/CD of/IN the/DT unique/JJ things/NNS in/IN this/DT it/PRP 's/BES like/IN a/DT pound/NN of/IN ground/JJ beef/NN some/DT bread/NN crumbs/NNS um/UH an/DT egg/NN um/UH whatever/WDT seasonings/NNS,one of the unique things in this it's like a pound of ground beef some bread crumbs {F um } an egg {F um } whatever seasonings /
+ad,B,you/PRP can/MD just/RB light/JJ,you can just light -/
+b,A,Yeah/UH,Yeah /
+sd,B,so/RB salt/NN and/CC pepper/NN Um/UH and/CC chopped/VBN up/RP water/NN chestnuts/NNS,{C so } salt and pepper {F Um } and chopped up water chestnuts <child>
+b,A,Oh/UH,Oh /
++,B,which/WDT is/VBZ something/NN different/JJ um/UH,which is something different {F um } /
+ba,A,that/DT would/MD be/VB wonderful/JJ,that would be wonderful /
+sd,B,makes/VBZ them/PRP a/DT little/JJ bit/NN crunchy/JJ,makes them a little bit crunchy /
+ad,B,you/PRP need/VBP to/TO chop/VB em/PRP up/RP real/RB fine/JJ,you need to chop em up real fine /
+b,A,Yeah/UH,Yeah /
+sd,B,But/CC um/UH it/PRP makes/VBZ them/PRP crunchy/JJ,{C But } {F um } it makes them crunchy /
+sd,B,and/CC that/DT adds/VBZ something/NN new/JJ to/IN it/PRP,{C and } that adds something new to it <lipsmack> /
+sd,B,And/CC then/RB the/DT sauce/NN is/VBZ just/RB made/VBN with/IN um/UH bouillion/NN cubes/NNS,{C And then } the sauce is just made with {F um } <breathing> bouillion cubes
+b,A,Um-hum/UH,Um-hum /
++,B,water/NN burgundy/NN wine/NN and/CC um/UH cornstarch/NN instead/IN of/IN flour/NN,water burgundy wine and {F um } cornstarch instead of flour /
+b,A,Oh/UH,Oh /
+sd,B,So/RB it/PRP 's/BES not/RB a/DT it/PRP 's/BES not/RB a/DT thick/JJ rich/JJ type/NN of/IN a/DT sauce/NN,{C So } [ it's not a + it's not a ] thick <lipsmack> rich type of a sauce /
+sd,B,it/PRP 's/BES more/JJR of/IN a/DT,it's more of a - /
+sd,B,when/WRB you/PRP use/VBP corn/NN starch/NN in/IN in/IN gravy/NN like/IN you/PRP know/VBP when/WRB you/PRP have/VBP um/UH Chinese/JJ food/NN,when you use corn starch [ in + in ] gravy like {D you know } when you have {F um } Chinese food
+b,A,Um-hum/UH,Um-hum /
+sd,B,And/CC it/PRP gives/VBZ it/PRP a/DT bit/NN of/IN a/DT different/JJ consistency/NN,{C And } it gives it a bit of a different consistency /
+qw,A,Well/UH um/UH how/WRB long/RB do/VBP you/PRP cook/VB the/DT meatballs/NNS,{D Well } {F um } how long do you cook the meatballs /
+ad,B,The/DT meatballs/NNS you/PRP just/RB um/UH after/IN you/PRP form/VBP them/PRP fry/VB them/PRP in/IN a/DT pan/NN until/IN,<breathing> The meatballs [ you just + ] {F um } after you form them fry them in a pan until
+b,A,Uh/UH huh/UH,Uh huh /
++,B,they/PRP 're/VBP uh/UH browned/JJ on/IN all/DT all/DT sides/NNS,they're <breathing> {F uh } browned on [ all + all ] sides /
+ad,B,and/CC then/RB drain/VB off/RP all/PDT the/DT grease/NN,{C and then } drain off all the grease /
+sd,B,Uh/UH then/RB what/WP I/PRP usually/RB do/VBP is/VBZ I/PRP freeze/VBP them/PRP,{F Uh } then what I usually do is I freeze them /
+ad,B,And/CC then/RB when/WRB,{C And then } when
+x,A,,<lipsmack>
++,B,you/PRP 're/VBP ready/JJ,you're ready
+b,A,Oh/UH,Oh /
++,B,to/TO serve/VB,to serve
+b,A,yeah/UH,yeah /
++,B,them/PRP then/RB you/PRP cook/VBP the/DT sauce/NN and/CC then/RB put/VBP the/DT meatballs/NNS into/IN the/DT sauce/NN And/CC heat/VBP it/PRP,them then you cook the sauce and then put the meatballs into the sauce And heat it /
+ad,B,probably/RB you/PRP have/VBP to/TO heat/VB it/PRP up/RP for/IN a/DT good/JJ oh/UH,probably you have to heat it up for a good {F oh } - /
+sd,B,if/IN they/PRP 're/VBP frozen/VBN you/PRP know/VBP it/PRP may/MD take/VB a/DT half/NN for/IN them/PRP to/TO thaw/VB out/RP,if they're frozen {D you know } it may take a half for them to thaw out /
+ad,B,But/CC then/RB heat/VB them/PRP thoroughly/RB in/IN the/DT sauce/NN itself/PRP,{C But } then heat them thoroughly in the sauce itself /
+ad,B,Let/VB them/PRP simmer/VB in/IN the/DT sauce/NN itself/PRP,Let them simmer in the sauce itself /
+%,A,Hum/UH,{F Hum } /
+sd,B,and/CC it/PRP 's/BES real/RB good/JJ,<lipsmack> {C and } it's real good /
+ba,A,That/DT sounds/VBZ great/JJ,That sounds great /
+sd,A,Especially/RB I/PRP mean/VBP the/DT fact/NN that/IN you/PRP can/MD prepare/VB the/DT meatballs/NNS so/RB so/RB far/RB in/IN advance/NN,Especially {E I mean } the fact that you can prepare the meatballs [ so + so ] far in advance -/
+b,B,Right/UH ./.,Right. /
+bf,A,I/PRP mean/VBP like/IN if/IN if/IN,{E I mean } {D like } [ if + if ]
+^2,B,And/CC then/RB freeze/VB them/PRP,And then freeze them /
++,A,you/PRP are/VBP having/VBG a/DT dinner/NN party/NN on/IN Wednesday/NNP night/NN you/PRP could/MD do/VB it/PRP on/IN a/DT weekend/NN,you are having a dinner party on Wednesday night you could do it on a weekend /
+aa,B,Sure/UH,Sure /
+sv,A,That/DT would/MD be/VB great/JJ,That would be great <breathing> /
+sd,A,I/PRP think/VBP I/PRP 'm/VBP going/VBG to/TO have/VB to/TO keep/VB that/DT in/IN mind/NN for/IN my/PRP$ future/NN because/IN I/PRP,I think I'm going to have to keep that in mind for my future because I
+x,B,,<laughter>
++,A,hope/VBP to/TO have/VB to/TO have/VB lots/NNS of/IN dinner/NN parties/NNS,hope [ to <lipsmack> have + to have ] lots of dinner parties
+x,B,./.,<laughter>.
++,A,Cause/IN I/PRP like/VBP to/TO,<laughter> <breathing> Cause I like to - /
+sd,A,I/PRP mean/VBP um/UH Um/UH I/PRP 'm/VBP sure/JJ that/IN I/PRP 'll/MD be/VB involved/VBN in/IN a/DT big/JJ company/NN,{E I mean } {F um } {F Um } I'm sure that I'll be involved in a big company /
+sd,A,and/CC I/PRP know/VBP that/DT my/PRP$ future/NN husband/NN will/MD be/VB You/PRP know/VBP,{C and } I know that my <breathing> future husband will be {D You know } - /
+sd,A,He/PRP 's/BES going/VBG to/TO be/VB working/VBG for/IN Chevron/NNP,He's going to be working for Chevron
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,in/IN Houston/NNP,in Houston /
+sd,A,so/RB he/PRP 's/BES going/VBG to/TO be/VB,{C so } he's going to be <breathing> - /
+sv,A,Um/UH You/PRP know/VBP I/PRP 'm/VBP sure/JJ that/IN dinner/NN parties/NNS will/MD,{F Um } <lipsmack> {D You know } I'm sure that dinner parties will
+aa,B,Yeah/UH,Yeah /
+sv,B,you/PRP 'll/MD,you'll
++,A,come/VB in/RP handy/JJ,come in handy /
++,B,meet/VB friends/NNS,meet friends /
+ad,B,invite/VB invite/VB the/DT boss/NN over/RP,[ invite + invite ] the boss over
+b,A,Oh/UH yeah/UH,{F Oh } yeah /
++,B,and/CC,[ and +
+sd,A,I/PRP have/VBP,I have
++,B,and/CC,and ]
++,A,to/TO impress/VB the/DT boss/NN,to impress the boss <laughter>
++,B,friends/NNS at/IN work/NN,friends at work <laughter> /
++,A,and/CC clients/NNS cause/VBP Um/UH I/PRP 'm/VBP in/IN I/PRP 'm/VBP in/IN public/JJ relations/NNS in/IN school/NN,<laughter> and clients cause {F Um } [ I'm in + I'm in ] public relations in school /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,so/RB I/PRP 'm/VBP going/VBG to/TO have/VB You/PRP know/VBP my/PRP$ whole/JJ job/NN 's/BES going/VBG to/TO be/VB based/VBN on/IN my/PRP$ clients/NNS 'n/CC stuff/NN like/IN that/DT,{C so } [ I'm going to have + <breathing> {D You know } my whole job's going to be ] based on my clients 'n stuff like that /
+sd,A,so/RB,{C so }
+b,B,Sure/UH ./.,Sure. /
++,A,I/PRP 'm/VBP going/VBG to/TO have/VB lots/NNS of/IN dinner/NN parties/NNS,I'm going to have lots of dinner parties /
+sd,A,And/CC have/VB to/TO take/VB 'em/PRP out/RP to/TO eat/VB,{C And } have to take 'em out to eat /
+sd,A,Right/RB now/RB I/PRP 'm/VBP taking/VBG a/DT class/NN on/IN ettiquesy/NN,"Right now I'm taking a class on ettiquesy / *[[ Did she really say ""ettiquesy""?? ]]"
+sd,A,and/CC,{C and }
+b,B,Oh/UH,Oh /
++,A,all/PDT the/DT little/JJ,all the little
+b,B,really/RB,really /
++,A,bitty/JJ things/NNS that/WDT I/PRP did/VBD n't/RB even/RB know/VB,bitty things that I didn't even know /
+sd,A,I/PRP,{E I
+x,B,,<laughter>
++,A,mean/VBP I/PRP thought/VBD for/IN sure/JJ I/PRP 'd/VBD been/VBN raised/VBN properly/RB,mean } I thought for sure I'd been raised properly /
+sd,A,but/CC I/PRP 've/VBP been/VBN doing/VBG a/DT lot/NN of/IN things/NNS wrong/RB I/PRP did/VBD n't/RB know/VB,{C but } I've been doing a lot of things wrong I didn't know
+x,B,,<laughter>
++,A,about/IN,about <laughter> /
+qy,A,but/CC um/UH So/RB Is/VBZ there/EX anything/NN else/RB,[ {C but } + {F um } <lipsmack> {C So } ] Is there anything else /
+sv,B,Well/UH I/PRP I/PRP think/VBP we/PRP 've/VBP covered/VBN the/DT subject/NN,<lipsmack> {D Well } [ I + I ] think we've covered the subject /
+sd,B,I/PRP got/VBD some/DT interesting/JJ information/NN about/IN crawfish/NN,I got some interesting information about crawfish /
+%,B,I/PRP was/VBD in/IN fact/NN,I was in fact -/
+x,A,,<noise> <laughter>
+sd,B,It/PRP 's/BES good/JJ cause/RB I/PRP was/VBD curious/JJ about/IN that/DT today/NN when/WRB I/PRP saw/VBD those/DT for/IN,It's good cause I was curious about that today when I saw those for
+b,A,Oh/UH,Oh /
++,B,sale/NN,sale /
+b,A,yes/UH,yes /
+ad,A,you/PRP need/VBP to/TO try/VB em/PRP,you need to try em /
+sv,A,Oh/UH they/PRP 're/VBP wonderful/JJ ./.,{F Oh } they're wonderful. /
+oo_co_cc,B,Oh/UH I/PRP will/MD,{F Oh } I will /
+sd,B,"I/PRP 'm/VBP sure/RB my/PRP$ husband/NN will/MD be/VB surprised/JJ ,/, 'cause/RB we/PRP were/VBD talking/VBG about/IN them/PRP the/DT other/JJ day/NN mm-/XX before/IN","I'm sure my husband will be surprised, 'cause we were talking about them the other day [ mm- + ] before /"

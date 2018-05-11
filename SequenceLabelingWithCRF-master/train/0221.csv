@@ -1,0 +1,75 @@
+act_tag,speaker,pos,text
+fp,B,Hi/UH ./.,Hi. /
+b,A,Okay/UH ./.,Okay. /
+sv,A,"So/UH ,/, uh/UH ,/, with/IN the/DT issue/NN of/IN trial/NN by/IN jury/NN ,/, uh/UH ,/, I/PRP actually/RB found/VBD the/DT whole/JJ question/NN about/IN whether/IN you/PRP need/VBP a/DT ,/, a/DT unan/JJ ,/, a/DT unanimous/JJ verdict/NN in/IN a/DT criminal/JJ case/NN to/TO be/VB somewhat/RB interesting/JJ ./.","{D So, } {F uh, } with the issue of trial by jury, {F uh, } I actually found the whole question about whether you need [ [ a, + a unan-, ] + a unanimous ] verdict in a criminal case to be somewhat interesting. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"actually/RB ,/, I/PRP ,/, I/PRP agree/VBP that/IN that/DT 's/BES an/DT interesting/JJ thing/NN ./.","{D actually, } [ I, + I ] agree that <laughter> that's an interesting thing. /"
+qy,B,"I/PRP ,/, I/PRP believe/VBP that/DT 's/BES a/DT ,/, for/IN ,/, for/IN civil/JJ suits/NNS it/PRP 's/BES not/RB unanimous/JJ ,/, right/UH ,/,","[ I, + I ] believe [ that's a, + ] [ for, + for ] civil suits it's not unanimous, {D right, } /"
+qy^d,B,"but/CC for/IN ,/, for/IN criminal/JJ suits/NNS it/PRP 's/BES unanimous/JJ by/IN federal/JJ law/NN ?/.","{C but } [ for, + for ] criminal suits it's unanimous by federal law? /"
+no,A,"I/PRP do/VBP n't/RB know/VB if/IN it/PRP 's/BES even/RB true/JJ that/IN it/PRP 's/BES always/RB unanimous/JJ because/IN I/PRP thought/VBD there/EX were/VBD cases/NNS where/WRB ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB if/IN it/PRP 's/BES the/DT difference/NN between/IN felonies/NNS and/CC misdemeanors/NNS ,/, but/CC where/WRB it/PRP was/VBD okay/JJ for/IN a/DT state/NN to/TO have/VB it/PRP like/IN eleven/CD out/IN of/IN twelve/CD ./.","I don't know if it's even true that it's always unanimous because I thought there were cases [ where, + {F uh, } {A I don't know if it's the difference between felonies and misdemeanors, but } where ] it was okay for a state to have it {D like } eleven out of twelve. /"
+x,A,/PRP,<+ messy kind of inaccurate bracketing +>
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP actually/RB thought/VBD I/PRP 'd/VBD read/VBN that/DT ,/, too/RB","I actually thought I'd read that, too /"
+sd,B,and/CC that/DT 's/BES why/WRB I/PRP phrased/VBD it/PRP that/DT way/NN ./.,{C and } that's why I phrased it that way. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP wonder/VBP ,/,","I wonder, /"
+sv,B,"the/DT difference/NN ,/, yeah/UH ,/, the/DT difference/NN could/MD be/VB that/IN for/IN ,/, uh/UH ,/, state/NN ,/, if/IN there/EX is/VBZ such/PDT a/DT thing/NN ,/, state/NN felonies/NNS versus/IN federal/JJ felonies/NNS that/IN federal/JJ ,/, things/NNS that/WDT are/VBP under/IN federal/JJ jurisdiction/NN require/VBP the/DT unanimous/JJ vote/NN ,/,","[ the difference, + {D yeah, } the difference ] could be that for, {F uh, } [ state, + {A if there is such a thing, } state ] felonies versus federal felonies that [ federal, + things that are under federal ] jurisdiction require the unanimous <inhaling> vote, /"
+sv,B,"and/CC things/NNS that/WDT are/VBP under/IN state/NN jurisdiction/NN ,/, even/RB criminal/JJ do/VBP n't/RB require/VB ,/,","{C and } things that are under state jurisdiction, even criminal don't require, - /"
+h,B,"but/CC I/PRP do/VBP n't/RB know/VB what/WP the/DT ,/, the/DT laws/NNS ,/,","{C but } I don't know what [ the, + <inhaling> the ] laws, - /"
+qy,B,"do/VBP you/PRP think/VB that/IN that/DT 's/BES an/DT unreasonable/JJ ,/, uh/UH ,/, requirement/NN that/IN they/PRP be/VB unanimous/JJ ?/.","do you think that that's an unreasonable, {F uh, } requirement that they be unanimous? /"
+^h,A,"Well/UH ,/, I/PRP 'd/MD be/VB curious/JJ as/IN to/IN what/WP the/DT ,/, uh/UH ,/, requirement/NN for/IN a/DT ,/, an/DT acquittal/NN is/VBZ ./.","{D Well, } I'd be curious as to what the, {F uh, } requirement for [ a, + an ] acquittal is. /"
+sv,A,"And/CC I/PRP ,/, I/PRP do/VBP n't/RB think/VB it/PRP would/MD be/VB wrong/JJ to/TO say/VB that/IN eleven/CD out/IN of/IN twelve/CD can/MD convict/VB if/IN there/EX were/VBD something/NN corresponding/VBG saying/VBG that/IN if/IN ,/, you/PRP know/VBP ,/, six/CD or/CC seven/CD voted/VBD not/RB guilty/JJ ,/, then/RB instead/IN of/IN it/PRP being/VBG a/DT hung/JJ jury/NN ,/, that/WDT was/VBD an/DT acquittal/NN ./.","{C And } [ I, + I ] don't think it would be wrong to say that eleven out of twelve can convict if there were something corresponding saying that if, {D you know, } six or seven voted not guilty, then instead of it being a hung jury, that was an acquittal. /"
+sd,A,"But/CC I/PRP do/VBP n't/RB know/VB whether/IN you/PRP need/VBP an/DT ,/, a/DT unanimous/JJ ,/, uh/UH ,/, vote/NN of/IN not/RB guilty/JJ to/TO acquit/VB ./.","{C But } I don't know whether you need [ an, + a ] unanimous, {F uh, } vote of not guilty to acquit. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"that/DT ,/, that/DT would/MD be/VB an/DT interesting/JJ change/NN ./.","[ that, + that ] would be an interesting change. /"
+sv,B,"It/PRP was/VBD also/RB allow/VB the/DT ,/, uh/UH ,/, idea/NN that/IN if/IN you/PRP had/VBD one/CD person/NN who/WP was/VBD ,/, uh/UH ,/, very/RB disagreeable/JJ that/IN ,/, I/PRP mean/VBP ,/, it/PRP ,/, it/PRP fundamentally/RB changes/VBZ the/DT way/NN the/DT processing/NN occurs/VBZ because/IN ,/, uh/UH ,/, the/DT fact/NN that/IN it/PRP 's/BES w-/XX ,/, the/DT ,/, the/DT principle/NN is/VBZ that/IN the/DT fact/NN that/IN it/PRP 's/BES unanimous/JJ insures/VBZ the/DT beyond/IN a/DT reasonable/JJ doubt/NN ,/, uh/UH ,/, criterion/NN that/WDT it/PRP ,/, uh/UH ,/, increases/VBZ the/DT ,/, the/DT likelihood/NN of/IN getting/VBG the/DT proper/JJ judgment/NN ./.","It was also allow the, {F uh, } idea that if you had one person who was, {F uh, } very disagreeable that, {E I mean, } [ it, + it ] fundamentally changes the way the processing occurs because, {F uh, } <inhaling> [ the fact that it's <breathing> w-, + [ the, + the ] principle is that the fact that it's ] unanimous insures the beyond a reasonable doubt, {F uh, } criterion that it, {F uh, } <lipsmack> increases [ the, + the ] likelihood of getting the proper judgment. /"
+sv,B,"So/RB ,/, I/PRP ,/, I/PRP think/VBP ,/, if/IN anything/NN ,/, it/PRP would/MD have/VB to/TO be/VB a/DT very/RB close/RB to/IN unanimous/JJ decision/NN ./.","{C So, } [ I, + I ] think, if anything, it would have to be a very close to unanimous decision. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP 'd/MD agree/VB with/IN that/DT ./.,I'd agree with that. /
+sd,A,"But/CC I/PRP 've/VBP never/RB had/VBN the/DT ,/, the/DT opportunity/NN to/TO serve/VB on/IN a/DT jury/NN ,/, although/IN I/PRP 've/VBP been/VBN out/IN here/RB and/CC registered/VBN for/IN ,/, I/PRP guess/VBP ,/, about/RB five/CD years/NNS ./.","{C But } I've never had [ the, + the ] opportunity to serve on a jury, although I've been out here and registered for, I guess, about five years. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,actually/UH --/:,{D actually } --
+%,A,"But/CC ,/,","{C But, } -/"
++,B,"--/: I/PRP ,/, I/PRP thought/VBD that/IN that/DT would/MD be/VB very/RB interesting/JJ thing/NN to/TO do/VB ./.","-- [ I, + I ] thought that that would be very interesting thing to do. /"
+sd,B,I/PRP would/MD like/VB to/TO do/VB that/DT ./.,I would like to do that. /
+sd,B,I/PRP 've/VBP been/VBN out/IN here/RB twenty/CD some/DT years/NNS,I've been out here twenty some years /
+sd,B,"and/CC I/PRP 've/VBP been/VBN called/VBN ,/, uh/UH ,/, three/CD different/JJ times/NNS ,/,","{C and } I've been called, {F uh, } three different times, /"
+sd,B,"but/CC I/PRP 've/VBP never/RB actually/RB even/RB made/VBN it/PRP into/IN the/DT ,/, the/DT jury/NN box/NN ./.","{C but } I've never actually even made it into [ the, + the ] jury box."
+b,A,Oh/UH ./.,Oh. /
++,B,"And/CC ,/, because/IN there/EX have/VBP always/RB been/VBN a/DT number/NN of/IN people/NNS","[ And, + ] because there have always been a number of people /"
+sd,B,"and/CC ,/, and/CC I/PRP 've/VBP never/RB gotten/VBN up/IN there/RB to/TO answer/VB any/DT of/IN the/DT questions/NNS ./.","[ {C and, } + {C and } ] I've never gotten up there to answer any of the questions. /"
+%,B,"Uh/UH ,/, I/PRP ,/,","{F Uh, } I, - /"
+aa,B,"yeah/UH ,/,","yeah, /"
+sv,B,I/PRP also/RB think/VBP that/DT would/MD be/VB really/RB good/JJ ./.,I also think that would be really good. /
+%,B,"I/PRP ,/,","I, -/"
+sd,A,"Well/UH ,/, the/DT people/NNS I/PRP know/VBP who/WP have/VBP served/VBN have/VBP said/VBN that/IN usually/RB what/WP ends/VBZ up/RP happening/VBG is/VBZ that/IN ,/, you/PRP know/VBP ,/, after/IN initially/RB finding/VBG out/RP where/WRB people/NNS stand/VBP ,/, that/IN the/DT whole/JJ deliberation/NN usually/RB results/VBZ ,/, if/IN there/EX is/VBZ a/DT ,/, you/PRP know/VBP ,/, something/NN like/IN a/DT nine/CD ,/, three/CD or/CC ,/, or/CC more/RBR severe/JJ and/CC ,/, and/CC the/DT people/NNS in/IN the/DT majority/NN trying/VBG to/TO convince/VB the/DT minority/NN that/IN they/PRP 're/VBP right/JJ --/:","{D ((Well)), } the people I know who have served have said that usually what ends up happening is that, {D you know, } after initially finding out where people stand, that the whole deliberation usually results, if there is [ a, + {D you know, } something like a ] nine, three [ or, + or ] more severe [ and, + and ] the people in the majority trying to convince the minority that they're right -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: and/CC in/IN fact/NN ,/, I/PRP 'm/VBP not/RB sure/JJ that/IN that/DT 's/BES any/RB more/RBR ,/, uh/UH ,/, liable/JJ to/TO get/VB rid/VBN of/IN the/DT reasonable/JJ doubt/NN than/IN ,/, than/IN anything/NN else/RB ./.","-- {C and } in fact, I'm not sure that that's any more, {F uh, } liable to get rid of the reasonable doubt [ than, + than ] anything else. /"
+sv,B,"Well/UH ,/, the/DT ,/, the/DT one/CD thing/NN that/WDT I/PRP know/VBP does/VBZ seem/VB to/TO happen/VB from/IN people/NNS I/PRP 've/VBP talked/VBN to/IN on/IN this/DT ,/, is/VBZ that/IN in/IN the/DT situation/NN you/PRP just/RB said/VBD where/WRB it/PRP 's/BES nine/CD to/IN three/CD ,/, or/CC some/DT such/JJ number/NN ,/, that/IN there/EX 's/BES ,/, an/DT effect/NN starts/VBZ being/VBG that/IN there/EX 's/BES starts/VBZ being/VBG a/DT lot/NN of/IN peer/NN pressure/NN --/:","<Lipsmack> {D Well, } [ the, + the ] one thing that I know does seem to happen from people I've talked to on this, is that in the situation you just said where it's nine to three, or some such number, [ that there's, an effect starts being + that there's starts being ] a lot of peer pressure --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: going/VBG on/RP,-- going on /
+sd,B,"and/CC that/IN that/DT ,/, uh/UH ,/, peer/NN pressure/NN ,/,","{C and } [ that + that, ] {F uh, } peer pressure, - /"
+sv,B,"and/CC in/IN some/DT cases/NNS if/IN it/PRP 's/BES a/DT long/JJ trial/NN ,/, the/DT desire/NN of/IN people/NNS to/TO get/VB out/IN of/IN there/RB and/CC not/RB be/VB stuck/VBN in/IN there/RB for/IN a/DT very/RB long/JJ time/NN ,/, that/IN people/NNS are/VBP changing/VBG their/PRP$ minds/NNS for/IN the/DT wrong/JJ reasons/NNS ./.","{C and } in some cases if it's a long trial, the desire of people to get out of there and not be stuck in there for a very long time, that people are changing their minds for the wrong reasons. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP 'd/VBD --/:,I'd --
+%,B,"Uh/UH ,/,","{F Uh, } /"
++,A,"--/: read/VBN one/CD book/NN ,/, I/PRP think/VBP it/PRP was/VBD calls/^VBN TRIAL/NN BY/IN JURY/NN of/IN all/DT things/NNS ,/, that/WDT ,/, uh/UH --/:","-- read one book, {A I think it was calls TRIAL BY JURY <laughter> of all things, } that, {F uh } --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: went/VBD through/RB and/CC interviewed/VBD a/DT bunch/NN of/IN jurors/NNS in/IN some/DT of/IN the/DT big/JJ cases/NNS ,/, and/CC in/IN many/JJ cases/NNS looking/VBG at/IN what/WP had/VBD ,/, at/IN the/DT evidence/NN afterwards/RB as/IN to/IN whether/IN the/DT decision/NN was/VBD right/JJ ,/, went/VBD back/RB to/IN the/DT jurors/NNS ,/, uh/UH ,/, based/VBD on/IN the/DT deliberations/NNS ./.","-- went through and interviewed a bunch of jurors in some of the big cases, and in many cases looking [ at what had, + ] at the evidence afterwards as to whether the decision was right, went back to the jurors, {F uh, } based on the deliberations. /"
+sd,A,"Some/DT of/IN them/PRP did/VBD say/VB that/IN ,/, you/PRP know/VBP ,/, when/WRB they/PRP were/VBD the/DT only/JJ one/CD left/VBN opposing/VBG the/DT verdict/NN ,/, uh/UH ,/, you/PRP know/VBP ,/, everyone/NN was/VBD getting/VBG on/RP them/PRP so/RB ,/, so/RB heavily/RB that/IN eventually/RB they/PRP just/RB gave/VBD in/RP knowing/VBG that/IN nothing/NN they/PRP could/MD do/VB could/MD stop/VB it/PRP from/IN either/CC being/VBG the/DT verdict/NN everyone/NN else/RB was/VBD trying/VBG for/IN or/CC a/DT hung/JJ jury/NN because/IN the/DT one/CD vote/NN does/VBZ n't/RB mean/VB anything/NN except/IN the/DT ability/NN to/TO not/RB have/VB a/DT verdict/NN ./.","Some of them did say that, {D you know, } when they were the only one left opposing the verdict, {F uh, } {D you know, } everyone was getting on them [ so, + so ] heavily that eventually they just gave in knowing that nothing they could do could stop it from either being the verdict everyone else was trying for or a hung jury because the one vote doesn't mean anything except the ability to not have a verdict. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP ,/, I/PRP understand/VBP ./.","[ I, + I ] understand. /"
+sv,B,"You/PRP ,/, you/PRP would/MD hope/VB that/IN if/IN you/PRP were/VBD in/IN that/DT situation/NN that/IN you/PRP 'd/MD have/VB the/DT moral/JJ fortitude/NN ,/, uh/UH ,/, to/TO hold/VB out/RP if/IN you/PRP believed/VBD that/IN that/DT was/VBD really/RB the/DT proper/JJ response/NN ./.","[ You, + you ] would hope that if you were in that situation that you'd have the moral fortitude, {F uh, } to hold out if you believed that that was really the proper response. /"
+sd,B,"I/PRP think/VBP of/IN the/DT movie/NN ,/, uh/UH ,/, TWELVE/CD ANGRY/JJ MEN/NNS ./.","I think of the movie, {F uh, } TWELVE ANGRY MEN. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,B,You/PRP ever/RB seen/VBN that/DT movie/NN ?/.,You ever seen that movie? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,once/RB ./.,once. /
+b,B,"Uh/UH ,/, ,/, yeah/UH ,/,","{F Uh, } <<faint>>, yeah, /"
+sd,B,"it/PRP 's/BES ,/, it/PRP 's/BES ,/, it/PRP 's/BES exactly/RB that/DT situation/NN where/WRB ,/, uh/UH ,/,","[ [ it's, + it's, ] + it's ] exactly that situation where, {F uh, } - /"
+sd,B,it/PRP 's/BES Henry/NNP Fonda/NNP,it's Henry Fonda /
+sd,B,and/CC it/PRP 's/BES eleven/CD to/IN one/CD,{C and } it's eleven to one /
+sd,B,"and/CC he/PRP 's/BES the/DT one/CD ,/,","{C and } he's the one, /"
+sd,B,"I/PRP ,/, I/PRP believe/VBP he/PRP was/VBD opposed/VBN to/IN the/DT conviction/NN","[ I, + I ] believe he was opposed to the conviction /"
+sd,B,"and/CC ,/, uh/UH ,/, and/CC he/PRP held/VBD on/RP","[ {C and, } + {F uh, } {C and } ] he held on /"
+%,B,"and/CC ,/,","{C and, } -/"

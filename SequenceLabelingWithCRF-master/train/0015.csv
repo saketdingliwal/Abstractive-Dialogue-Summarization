@@ -1,0 +1,137 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,Okay/UH ./.,<Noise> <children_talking> Okay. /
+^h,A,"Uh/UH ,/, let/VB me/PRP see/VB ./.","{F Uh, } let me see <laughter>. /"
+sd,A,I/PRP 've/VBP been/VBN sitting/VBG here/RB awhile/RB ./.,I've been sitting here awhile. /
+sd,A,I/PRP almost/RB forgot/VBD the/DT topic/NN ./.,I almost forgot the topic. /
+sd,A,"But/CC ,/, uh/UH ,/, it/PRP seems/VBZ like/IN I/PRP get/VBP most/JJS of/IN my/PRP$ news/NN from/IN television/NN ./.","{C But, } {F uh, } it seems like I get most of my news from television. /"
+sd,A,"I/PRP 'm/VBP ,/, we/PRP only/RB get/VBP the/DT paper/NN on/IN the/DT weekends/NNS","[ I'm, + we ] only get the paper on the weekends /"
+sd,A,"and/CC so/RB I/PRP 'm/VBP not/RB much/JJ of/IN a/DT ,/, of/IN a/DT paper/NN reader/NN","{C and so } I'm not much [ of a, + of a ] paper reader /"
+sd,A,"or/CC but/CC I/PRP ,/, I/PRP and/CC I/PRP 'm/VBP do/VBP n't/RB ,/, rarely/RB listen/VBP to/IN the/DT ,/, uh/UH ,/, radio/NN","[ [ {C or } + {C but } ] [ I, + <whistling> I ] + {C and } I'm ] don't, rarely listen to the, {F uh, } radio /"
+sd,A,"so/RB I/PRP get/VBP most/RBS of/IN my/PRP$ news/NN like/UH from/IN documentaries/NNS like/IN FORTY-EIGHT/CD HOURS/NNS ,/, TWENTY/CD TWENTY/CD ,/, you/PRP know/VBP ,/, the/DT news/NN at/IN night/NN ./.","{C so } I get most of my news {D like } from documentaries like FORTY-EIGHT HOURS, TWENTY TWENTY, {D you know, } the news at night."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"News/NNS in/IN the/DT afternoon/NN ,/, that/DT kind/NN of/IN thing/NN ./.","News in the afternoon, that kind of thing. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Well/UH I/PRP get/VBP a/DT ,/,","{D Well } I get a,"
+x,A,,<Whistling>.
++,B,weekend/NN paper/NN as/IN well/RB,weekend paper as well /
+sd,B,"and/CC ,/, uh/UH ,/, in/IN addition/NN to/IN that/DT I/PRP get/VBP a/DT local/JJ weekly/NN ./.","{C and, } {F uh, } in addition to that I get a local weekly. /"
+sd,B,"I/PRP ,/, I/PRP live/VBP in/IN suburb/NN of/IN Milwaukee/NNP --/:","[ I, + I ] live in suburb of Milwaukee -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC they/PRP get/VBP ,/, they/PRP have/VBP community/NN newspapers/NNS around/IN here/RB so/IN the/DT local/NN ,/, their/PRP$ extremely/RB local/JJ stuff/NN --/:","-- {C and } [ they get, + they have ] community newspapers around here so [ the local, + their extremely local ] <laughter> stuff --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: uh/UH ,/, is/VBZ in/IN the/DT local/JJ paper/NN that/WDT comes/VBZ out/RP once/RB a/DT week/NN","-- {F uh, } is in the local paper that comes out once a week /"
+sd,B,"and/CC then/RB I/PRP get/VBP the/DT Sunday/NNP ,/, uh/UH ,/, MILWAUKEE/NNP JOURNAL/NNP because/IN I/PRP do/VBP n't/RB have/VB time/NN to/TO read/VB a/DT paper/NN ./.","{C and then } I get the Sunday, {F uh, } MILWAUKEE JOURNAL because I don't have time to read a paper. /"
+sd,B,"Uh/UH ,/, mostly/RB --/:","{F Uh, } mostly --"
+b,A,Right/UH ./.,Right. /
++,B,--/: that/DT 's/BES my/PRP$ difficulty/NN ./.,-- that's my difficulty. /
+sd,B,"I/PRP ,/, uh/UH ,/, I/PRP get/VBP my/PRP$ news/NN pretty/RB much/JJ from/IN the/DT same/JJ sources/NNS as/IN you/PRP do/VBP ,/, although/IN I/PRP do/VBP listen/VB to/IN N/NNP P/NNP R/NNP which/WDT has/VBZ very/RB good/JJ ,/, and/CC that/DT 's/BES National/NNP Public/NNP Radio/NNP which/WDT --/:","[ I, + {F uh, } I ] get my news pretty much from the same sources as you do, although I do listen to N P R <swallowing> [ which has very good, + {A and that's National Public Radio } which --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: has/VBZ very/RB good/JJ ,/, uh/UH ,/, coverage/NN of/IN the/DT national/JJ and/CC international/JJ news/NN ,/, I/PRP feel/VBP --/:","-- has very good, ] {F uh, } coverage of the national and international news, [ I feel + ] --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: and/CC does/VBZ a/DT pretty/RB good/JJ job/NN of/IN analysis/NN as/IN well/RB ./.,-- and does a pretty good job of analysis as well. /
+qy,A,Are/VBP you/PRP in/IN the/DT car/NN quite/PDT a/DT bit/NN,Are you in the car quite a bit /
+%,A,"or/CC ,/,","{C or, } -/"
+nn,B,"No/UH ,/,","No, /"
+sd,B,"I/PRP 'm/VBP not/RB actually/RB ./. Uh/UH ,/,","I'm not {D actually. } {F Uh, } /"
+sd,B,but/CC I/PRP can/MD run/VB my/PRP$ radio/NN in/IN my/PRP$ office/NN ./.,{C but } I can run my radio in my office. /
+sd,B,"I/PRP ,/, I/PRP --/:","[ I, + I ] --"
+b,A,Oh/UH ./.,Oh. /
++,B,--/: teach/VBP at/IN the/DT university/NN,-- teach at the university /
+sd,B,and/CC when/WRB I/PRP 'm/VBP not/RB --/:,{C and } when I'm not --
+b,A,Oh/UH ./.,Oh. /
++,B,"--/: teaching/VBG ,/, if/IN I/PRP choose/VBP to/TO have/VB the/DT radio/NN on/RP I/PRP can/MD listen/VB to/IN that/DT station/NN ,/,","-- teaching, if I choose to have the radio on I can listen to that station, /"
+%,B,so/RB ./.,{C so. } -/
+b,A,Uh-huh/UH ./.,Uh-huh. /
+bk,A,"Oh/UH ,/, I/PRP see/VBP ./. Uh/UH ,/,","{F Oh, } I see. {F Uh, } /"
+qy,B,"How/WRB are/VBP you/PRP ,/, are/VBP you/PRP satisfied/JJ with/IN the/DT TWENTY/CD TWENTY/CD and/CC FORTY-EIGHT/CD HOURS/NNS and/CC the/DT things/NNS that/WDT you/PRP do/VBP watch/VB ?/.","[ How are you, + are you ] satisfied with the TWENTY TWENTY and FORTY-EIGHT HOURS and the things that you do watch? /"
+ny,A,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP ,/, I/PRP ,/, I/PRP pretty/RB much/JJ am/VBP","[ [ I, + I, ] + I ] pretty much am /"
+sd,A,and/CC I/PRP watch/VBP the/DT news/NN at/IN least/JJS twice/RB a/DT day/NN ./.,{C and } I watch the news at least twice a day. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/RB ,/, uh/UH ,/, if/IN I/PRP 've/VBP missed/VBN something/NN and/CC ,/, and/CC I/PRP 've/VBP just/RB recently/RB decided/VBN to/TO stay/VB home/NN with/IN my/PRP$ children/NNS","{C So, } {F uh, } if I've missed something [ and, + and ] I've just recently decided to stay home with my children /"
+sd,A,"and/CC so/RB it/PRP seems/VBZ as/IN if/IN I/PRP catch/VBP the/DT news/NN ris-/XX ,/, right/RB as/IN it/PRP happens/VBZ ,/, you/PRP know/VBP ./.","{C and so } <laughter> it seems as if I catch the news [ ris-, + right ] as it happens, {D you know. } /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,There/EX was/VBD the/DT explosions/NNS and/CC that/DT kind/NN of/IN thing/NN ./.,There was the explosions and that kind of thing. /
+sd,A,My/PRP$ husband/NN will/MD say/VB how/WRB did/VBD you/PRP know/VB about/IN that/DT ./.,My husband will say how did you know about that. /
+^q,A,"Yes/UH ,/,","Yes, /"
+^q,A,it/PRP happened/VBD at/IN such/JJ and/CC such/JJ time/NN ./.,it happened at such and such time <laughter>. /
+sd,A,"And/CC that/DT 's/BES so/RB ,/, that/DT ,/, that/DT 's/BES different/JJ for/IN me/PRP ./.","{C And } [ [ that's so, + that, ] + that's ] different for me. /"
+sd,A,So/RB I/PRP usually/RB find/VBP out/RP exactly/RB when/WRB it/PRP happens/VBZ and/CC that/DT kind/NN of/IN thing/NN ./.,{C So } I usually find out exactly when it happens and that kind of thing. /
+qy,B,"Is/VBZ that/DT the/DT aspect/NN of/IN the/DT news/NN that/WDT you/PRP 're/VBP most/RBS interested/JJ in/RP is/VBZ ,/, is/VBZ the/DT timely/JJ yo-/XX ,/, noting/NN of/IN the/DT events/NNS as/IN they/PRP happen/VBP ?/.","Is that the aspect of the news that you're most interested in [ is, + is ] the timely [ yo-, + ] noting of the events as they happen? /"
+qy,B,Is/VBZ that/DT what/WP you/PRP feel/VBP good/JJ about/IN in/IN the/DT news/NN coverage/NN ?/.,Is that what you feel good about in the news coverage? /
+nn,A,"Uh/UH ,/, no/UH","{F Uh, } no /"
+sd,A,"it/PRP just/RB seems/VBZ like/IN since/IN I/PRP 've/VBP recently/RB stayed/VBN home/NN ,/, that/DT is/VBZ what/WP 's/HVS happened/VBN ,/, you/PRP know/VBP ./.","it just seems like since I've recently stayed home, that is what's happened, {D you know. } /"
+sd,A,"It/PRP 's/BES just/RB that/IN ,/, uh/UH ,/, now/RB that/IN I/PRP 've/VBP stayed/VBN home/NN ,/, I/PRP 'm/VBP ,/, I/PRP 'm/VBP usually/RB aware/JJ of/IN when/WRB these/DT things/NNS occurred/VBD --/:","It's just that, {F uh, } now that I've stayed home, [ I'm, + I'm ] usually aware of when these things occurred -- /"
+b,B,Uh-huh/UH ./.,<Noise> Uh-huh. /
+sd,A,--/: and/CC it/PRP happened/VBD,-- {C and } it happened /
+%,A,"and/CC ,/,","{C and, } -/"
+sd,B,"Well/UH ,/, I/PRP ,/, myself/PRP ,/, uh/UH ,/, th-/DT ,/, the/DT reason/NN why/WRB I/PRP listen/VBP to/IN N/NNP P/NNP R/NNP and/CC the/DT reason/NN why/WRB I/PRP watch/VBP MACNEIL/NNP LEHRER/NNP ,/,","{D Well, } I, myself, {F uh, } [ th-, + the ] reason why I listen to N P R and the reason why I watch MACNEIL LEHRER,"
+x,A,,<Whistling>.
++,B,"rather/IN than/IN the/DT ,/, than/IN the/DT network/NN news/NN shows/NNS at/IN night/NN ,/, although/IN I/PRP do/VBP o-/XX ,/, watch/VB a/DT local/JJ ten/CD o'clock/RB in/IN the/DT evening/NN news/NN which/WDT carries/VBZ over/RP a/DT lot/NN of/IN the/DT national/JJ news/NN stories/NNS --/:","rather [ than the, + than the ] network news shows at night, although I do [ o-, + ] watch a local ten o'clock in the evening news which carries over a lot of the national news stories --"
+b,A,"Right/UH ,/,","Right, /"
+b,A,right/UH ./.,right. /
++,B,"--/: uh/UH ,/, is/VBZ that/DT quite/RB often/RB it/PRP seems/VBZ to/IN me/PRP the/DT national/JJ does/VBZ n't/RB do/VB a/DT very/RB good/JJ job/NN of/IN analysis/NN ./.","-- {F uh, } is that quite often it seems to me <sigh> the national doesn't do a very good job of analysis. /"
+x,A,,<Whistling>.
+sd,B,The/DT local/JJ does/VBZ n't/RB either/RB,The local doesn't either /
+sv,B,"but/CC I/PRP feel/VBP that/IN MACNEIL/NNP LEHRER/NNP get/VBP a/DT little/RB more/RBR deeply/RB into/IN some/DT ,/, some/DT of/IN the/DT issues/NNS that/WDT are/VBP really/RB current/JJ ./.","{C but } I feel that MACNEIL LEHRER get a little more deeply into [ some, + some ] of the issues that are really current. /"
+b,A,Uh-huh/UH,Uh-huh /
+sv,B,And/CC perhaps/RB newspapers/NNS do/VBP that/DT,{C And } perhaps newspapers do that /
+sd,B,"but/CC as/IN I/PRP said/VBD ,/, I/PRP do/VBP n't/RB have/VB time/NN to/TO sit/VB down/RP and/CC read/VB a/DT newspaper/NN","{C but } as I said, I don't have time to sit down and read a newspaper /"
+sd,B,and/CC frankly/RB when/WRB I/PRP have/VBP read/VBN a/DT newspaper/NN --/:,{C and } frankly when I have <laughter> read a newspaper --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: I/PRP have/VBP n't/RB noticed/VBN that/DT kind/NN of/IN analysis/NN either/RB ./.,-- I haven't noticed that kind of analysis either. /
+b,A,Huh/UH ./.,Huh. /
+sv,B,"So/RB ./. Uh/UH ,/, there/EX 's/BES ,/, there/EX is/VBZ some/DT danger/NN to/IN that/DT ,/, of/IN course/NN ,/, too/RB ./.","{C So. } {F Uh, } [ there's, + there is ] some danger to that, of course, too. /"
+qh,B,"Because/IN if/IN the/DT analysis/NN is/VBZ inaccurate/JJ or/CC biased/JJ or/CC whatever/WDT then/RB ,/, you/PRP know/VBP ,/, how/WRB good/JJ is/VBZ it/PRP ./.","{C Because } if the analysis is inaccurate or biased or whatever then, {D you know, } how good is it. /"
+sd,B,"But/CC ,/, uh/UH ,/, I/PRP like/VBP a/DT little/RB more/RBR indepth/JJ coverage/NN","{C But, } {F uh, } I like a little more indepth coverage /"
+sv,B,"and/CC I/PRP think/VBP that/DT 's/BES what/WP you/PRP 're/VBP ,/, maybe/RB appealing/VBG to/IN you/PRP too/RB on/IN something/NN like/IN TWENTY/CD TWENTY/CD or/CC --/:","{C and } I think that's what [ you're, + ] maybe appealing to you too on something like TWENTY TWENTY or --"
+aa,A,Right/UH ./.,Right. /
++,B,--/: FORTY-EIGHT/CD HOURS/NNS ./.,-- FORTY-EIGHT HOURS. /
+aa,A,Right/UH ./.,Right. /
+sv,A,It/PRP kind/RB of/RB gives/VBZ you/PRP the/DT whole/JJ story/NN or/CC more/JJR of/IN the/DT story/NN ./.,It kind of gives you the whole story or more of the story. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+h,A,That/DT kind/NN of/IN thing/NN ./.,That kind of thing. /
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"So/RB ./. Uh/UH ,/,","{C So. } {F Uh, } -/"
+sd,B,I/PRP 'm/VBP more/RBR interested/JJ in/IN trying/VBG to/TO understand/VB what/WP 's/BES going/VBG on/RP in/IN the/DT world/NN --/:,I'm more interested in trying to understand what's going on in the world --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: rather/IN than/IN simply/RB being/VBG aware/JJ that/IN ,/, you/PRP know/VBP ,/, there/RB ,/, that/IN an/DT event/NN has/VBZ occurred/VBN ./.","-- rather than simply being aware [ that, + {D you know, } there, that ] an event has occurred <laughter>. /"
+b,A,Yeah/UH ./.,<Laughter> Yeah. /
+sd,B,"I/PRP ,/, I/PRP like/VBP to/TO stand/VB back/RB and/CC get/VB a/DT slightly/RB bigger/JJR picture/NN ./.","[ I, + I ] like to stand back and get a slightly bigger picture. /"
+sd,B,Maybe/RB because/IN I/PRP 'm/VBP easily/RB confused/VBN by/IN detail/NN ./.,Maybe because I'm easily confused by detail. /
+h,B,I/PRP do/VBP n't/RB know/VB ./.,I don't know <laughter>. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP know/VBP what/WP you/PRP 're/VBP saying/VBG ./.,I know what you're saying. /
+%,A,Yeah/UH ./.,Yeah. /
+%,B,So/RB ./.,{C So. } -/
+sd,A,But/CC I/PRP try/VBP and/CC catch/VB most/JJS of/IN those/DT programs/NNS on/IN Wednesday/NNP 's/POS and/CC Friday/NNP 's/POS,{C But } I try and catch most of those programs <throat_clearing> on Wednesday's and Friday's /
+sd,A,"and/CC if/IN I/PRP miss/VBP them/PRP ,/, I/PRP try/VBP ,/, you/PRP know/VBP ,/, I/PRP try/VBP and/CC ,/, and/CC tape/VB them/PRP if/IN I/PRP 'm/VBP out/IN MUMBLEx/XX that/DT kind/NN of/IN thing/NN ,/,","{C and } if I miss them, [ I try + <laughter>, {D you know, } I try ] [ and, + and ] tape them if I'm out (( )) that kind of thing, /"
+sd,A,I/PRP try/VBP and/CC tape/VB them/PRP,I try and tape them /
+sd,A,and/CC so/RB I/PRP can/MD sit/VB back/RP and/CC watch/VB them/PRP ./.,{C and } <sniffing> {C so } I can sit back and watch them. /
+sd,A,And/CC it/PRP 's/BES pretty/RB interesting/JJ ./.,{C And } it's pretty interesting. /
+%,B,"When/WRB ,/,","When, - /"
+qy,B,"you/PRP have/VBP young/JJ children/NNS ,/, right/UH ?/.","you have young children, right? /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+qy^d,B,So/RB those/DT evening/NN shows/NNS are/VBP probably/RB also/RB at/IN a/DT time/NN when/WRB you/PRP 're/VBP at/IN liberty/NN to/TO take/VB some/DT time/NN off/RP and/CC be/VB in/IN front/RB of/IN the/DT T/NN V/NN set/NN for/IN awhile/RB without/IN interruption/NN ./.,{C So } those evening shows are probably also at a time when you're at liberty to take some time off and be in front of the T V set for awhile without interruption. /
+ny,A,"Well/UH ,/, yeah/UH ./.","{D Well, } yeah. /"
+sd,A,"Plus/CC ,/, I/PRP find/VBP that/IN I/PRP have/VBP to/TO video/GW tape/^VB quite/PDT a/DT bit/NN of/IN things/NNS ./.","{C Plus, } I find that I have to video tape quite a bit of things <laughter>. /"
+bh,B,"Oh/UH ,/, you/PRP do/VBP ?/.","{F Oh, } you do? /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"If/IN I/PRP do/VBP n't/RB want/VB any/DT interruptions/NNS ,/, you/PRP know/VBP ./.","If I don't want any interruptions, {D you know. } /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+h,A,That/DT kind/NN of/IN thing/NN ./.,That kind of thing. /
+qw,B,When/WRB is/VBZ your/PRP$ good/JJ watching/NN time/NN ?/.,When is your good watching time? /
+sd,A,"Uh/UH ,/, it/PRP seems/VBZ like/IN ten/CD o'clock/RB at/IN night/NN ./.","{F Uh, } it seems like ten o'clock at night <laughter>. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,B,Yes/UH ./.,Yes. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"that/DT 's/BES what/WP ,/,","that's what, -/"
+sd,A,"Unfortunately/RB ,/,","Unfortunately, /"
+sd,A,"but/CC that/DT ,/, that/DT 's/BES what/WP it/PRP seems/VBZ like/IN ,/, ten/CD o'clock/RB at/IN night/NN ./.","{C but } [ that, + that's ] what it seems like, ten o'clock at night. /"
+sd,B,I/PRP have/VBP older/JJR children/NNS --/:,I have older children --
+b,A,Uh-huh/UH ./.,Uh-huh </noise> </children_talking>. /
++,B,--/: and/CC getting/VBG dinner/NN on/IN the/DT table/NN ./.,-- and getting dinner on the table. /
+sd,B,I/PRP come/VBP from/IN the/DT east/JJ coast/NN,I come from the east coast /
+%,B,"and/CC I/PRP was/VBD ,/,","{C and } I was, - /"
+sd,B,"it/PRP amazed/VBD me/PRP when/WRB I/PRP got/VBD out/IN here/RB to/IN the/DT midwest/NN and/CC found/VBD out/RP that/IN even/RB though/IN they/PRP 're/VBP an/DT hour/NN earlier/JJR in/IN time/NN ,/, they/PRP still/RB watch/VBP the/DT news/NN when/WRB ,/,","<laughter> it amazed me when I got out here to the midwest and found out that even though they're an hour earlier in time, they still watch the news when, -/"

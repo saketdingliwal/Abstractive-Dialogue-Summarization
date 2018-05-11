@@ -1,0 +1,283 @@
+act_tag,speaker,pos,text
+qw,A,So/UH where/WRB was/VBD your/PRP$ last/JJ vacation/NN ?/. ./.,<Beep>. {D So } where was your last vacation? <laughter>. /
+sd,B,"Uh/UH ,/, actually/RB my/PRP$ last/JJ vacation/NN was/VBD in/IN Connecticut/NNP ./.","{F Uh, } {D actually } my last vacation was in Connecticut. /"
+sd,B,"Uh/UH ,/, we/PRP went/VBD home/RB to/TO visit/VB family/NN ./.","{F Uh, } we went home to visit family. /"
+sd,B,Before/IN that/DT we/PRP were/VBD in/IN Hawaii/NNP ./.,Before that we were in Hawaii. /
+sd,A,"Oh/UH ,/, I/PRP ,/, I/PRP 'd/MD ,/, well/UH actually/RB I/PRP did/VBD visit/VB Hawaii/NNP once/RB","{F Oh, } [ [ I, + I'd, ] + {D well } actually I did ] visit Hawaii once /"
+sd,A,"but/CC I/PRP never/RB made/VBD it/PRP off/IN of/IN Oahu/NNP ,/,","{C but } I never made it off of Oahu,"
+b,B,Oh/UH ./.,Oh. /
++,A,which/WDT I/PRP 've/VBP heard/VBN is/VBZ not/RB the/DT nicest/JJS of/IN the/DT islands/NNS ./.,which I've heard is not the nicest of the islands. /
+ar,B,It/PRP was/VBD n't/RB actually/RB ./.,It wasn't actually. /
+%,B,"It/PRP ,/,","It, - /"
+sd,B,"w/WRB ,/, when/WRB we/PRP were/VBD in/IN Oah-/NNP ,/, Oahu/NNP ,/, uh/UH ,/, I/PRP could/MD n't/RB wait/VB to/TO get/VB off/IN ./.","[ w-, + when ] we were in [ Oah-, + Oahu, ] {F uh, } I couldn't wait to get off <laughter>. /"
+x,A,./.,<Laughter>.
+sd,B,"We/PRP ,/, we/PRP took/VBD a/DT cruise/NN","[ We, + we ] took a cruise /"
+sd,B,and/CC we/PRP went/VBD to/IN four/CD different/JJ islands/NNS,{C and } we went to four different islands /
+sd,B,"and/CC it/PRP was/VBD a/DT really/RB nice/JJ ,/,","{C and } it was [ a + ] really nice, /"
+sd,B,Kauai/NNP was/VBD nice/JJ and/CC Maui/NNP was/VBD nice/JJ ./.,Kauai was nice and Maui was nice. /
+sd,B,"We/PRP had/VBD ,/, we/PRP had/VBD a/DT great/JJ time/NN ./.","[ We had, + we had ] a great time. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,We/PRP were/VBD there/RB for/IN ten/CD days/NNS ./.,We were there for ten days. /
+%,A,"Oh/UH that/DT 's/BES ,/,","{F Oh } that's, - /"
+ba,A,wow/UH ./.,wow. /
+%,A,Yeah/UH ./.,Yeah. /
+b^m,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yes/UH ./.,yes. /
+qw,B,So/RB where/WRB have/VBP you/PRP been/VBN ?/.,{C So } where have you been? /
+sd,A,"Oh/UH I/PRP 've/VBP be/VBN ,/, I/PRP 've/VBP been/VBN lots/NNS of/IN places/NNS ./.","{F Oh } [ I've be-, + <laughter> I've been ] lots of places. /"
+sd,A,My/PRP$ last/JJ vacation/NN was/VBD actually/RB in/IN Morocco/NNP I/PRP guess/VBP,My last vacation was actually in Morocco I guess /
+%,A,"we/PRP ,/, that/DT one/CD would/MD count/VB ,/,","[ we, + ] (( that one would count )) , /"
+b,B,Morocco/NNP ./.,Morocco. /
+b,B,Really/UH ./.,Really. /
+sd,A,"Uh/UH ,/, that/DT was/VBD about/RB a/DT year/NN and/CC a/DT half/NN ago/RB ,/,","{F Uh, } that was about a year and a half ago, /"
+%,A,"and/CC ,/,","{C and, } -/"
+ba,B,No/DT kidding/NN ./.,No kidding. /
+qy,B,"An-/XX ,/, what/WP ,/, what/WP ,/, did/VBD you/PRP just/RB decide/VB to/TO go/VB there/RB","{C An-, } [ what, + what, ] did you just decide to go there /"
+%,B,"or/CC ,/,","{C or, } -/"
+arp_nd,A,"Uh/UH ,/, well/UH my/PRP$ husband/NN is/VBZ French/JJ","{F Uh, } {D well } my husband is French /"
+sd,A,and/CC we/PRP were/VBD living/VBG in/IN France/NNP at/IN the/DT time/NN --/:,{C and } we were living in France at the time -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC we/PRP decided/VBD that/IN I/PRP ,/, I/PRP 've/VBP never/RB been/VBN to/IN Africa/NNP","-- {C and } we decided that [ I, + I've ] never been to Africa /"
+sd,A,"and/CC I/PRP needed/VBD to/TO get/VB that/DT continent/NN since/IN I/PRP ,/,","{C and } I needed to get that continent (( since )) I <laughter>,"
+x,B,./.,<Laughter>.
++,A,had/VBD n't/RB been/VBN there/RB yet/RB ./.,hadn't been there yet. /
+sd,A,"And/CC it/PRP ,/, it/PRP 's/BES ,/, actually/RB it/PRP 's/BES a/DT fairly/RB common/JJ vacation/NN place/NN for/IN French/JJ people/NNS to/TO go/VB","{C And } [ [ it, + it's, ] + {D actually } it's ] a fairly common vacation place for French people to go /"
+sd,A,and/CC they/PRP speak/VBP French/JJ,{C and } they speak French /
+sv,A,"and/CC ,/,","[ {C and, } +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"so/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, in/IN that/DT sense/NN is/VBZ just/RB a/DT little/JJ bit/NN easier/JJR","{C so, } ] {F uh, } {D you know, } (( in that sense )) is just a little bit easier /"
+sd,A,and/CC it/PRP just/RB seemed/VBD like/IN it/PRP would/MD be/VB a/DT fun/JJ place/NN to/TO go/VB ./.,{C and } it just seemed like it would be a fun place to go. /
+sd,A,"And/CC ,/,","[ {C And, } +"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,Oh/UH I/PRP 'm/VBP sure/JJ it/PRP was/VBD wonderful/JJ ./.,{F Oh } I'm sure it was wonderful. /
++,A,"So/RB we/PRP ,/, we/PRP did/VBD n't/RB really/RB have/VB enough/JJ time/NN ./.","{C So } ] [ we, + we ] didn't really have enough time. /"
+sd,A,"We/PRP had/VBD about/RB ,/, a/DT little/JJ bit/NN less/JJR than/IN two/CD weeks/NNS ./.","We had about, a little bit less than two weeks. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC as/IN always/RB ,/, it/PRP don-/XX ,/, it/PRP seems/VBZ a/DT bit/NN ,/, uh/UH ,/, rushed/JJ ./.","{C And } as always, [ it don-, + it seems ] a bit, {F uh, } rushed. /"
+sd,A,We/PRP do/VBP a/DT lot/NN of/IN traveling/NN around/IN ./.,We do a lot of traveling around. /
+sd,A,We/PRP rented/VBD a/DT car/NN and/CC drove/VBD pretty/RB much/RB everywhere/RB ./.,We rented a car and drove pretty much everywhere. /
+qy,B,Was/VBD it/PRP hot/JJ ?/.,Was it hot? /
+nn,A,"No/UH ,/,","No, /"
+sd,A,in/IN fact/NN some/DT of/IN the/DT days/NNS we/PRP froze/VBD ./.,in fact some of the days we froze. /
+%,A,"It/PRP was/VBD ,/,","It was, -/"
+bh,B,Really/UH ?/.,Really? /
+sd,A,well/UH we/PRP were/VBD there/RB in/IN the/DT winter/NN ./.,{D well } we were there in the winter.
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"In/IN Jan-/NNP ,/, uh/UH ,/, January/NNP or/CC February/NNP ,/, I/PRP do/VBP n't/RB remember/VB which/WDT ,/,","In [ Jan-, + {F uh, } January ] or February, I don't remember which, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,I/PRP was/VBD born/VBN in/IN Saudi/NNP Arabia/NNP,I was born in Saudi Arabia /
+sd,B,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"when/WRB my/PRP$ father/NN worked/VBD there/RB we/PRP ,/, they/PRP used/VBD to/TO travel/VB quite/PDT a/DT bit/NN ,/, all/RB around/IN you/PRP know/VBP ,/,","when my father worked there [ we, + they ] used to travel quite a bit, all around {D you know, }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"in/IN ,/, in/IN Europe/NNP and/CC whatnot/NN ,/,","[ in, + in ] Europe and whatnot, /"
+sd,B,but/CC I/PRP was/VBD very/RB young/JJ,{C but } I was very young /
+sd,B,so/RB I/PRP do/VBP n't/RB remember/VB that/DT,{C so } I don't remember that /
+sd,B,"and/CC ,/,","{C and, }"
+qw,A,"At/IN wha/WDT ,/, at/IN ,/, excuse/VB me/PRP ,/, at/IN what/WDT age/NN did/VBD you/PRP ,/,","[ At wha-, + [ at, + <cough> {E excuse me, } at ] what ] age did you, -/"
++,B,I/PRP was/VBD three/CD when/WRB we/PRP moved/VBD back/RB here/RB ./.,I was three when we moved back here. /
+ba,A,"Oh/UH ,/, that/DT 's/BES too/RB bad/JJ","{F Oh, } that's too bad /"
+%,A,"because/IN ,/,","{C because, } -/"
+sd,B,So/RB I/PRP do/VBP n't/RB remember/VB,{C So } I don't remember /
+sd,B,"but/CC we/PRP have/VBP all/PDT these/DT wonderful/JJ pictures/NNS of/IN all/PDT these/DT great/JJ places/NNS that/WDT they/PRP have/VBP been/VBN ,/,","{C but } we have all these wonderful pictures of all these great places that they have been <laughter>, /"
+b,A,Uh-huh/UH ./.,Uh-huh <laughter>. /
+sd,B,and/CC that/IN I/PRP was/VBD when/WRB I/PRP was/VBD a/DT baby/NN,{C and } that [ I + was when I ] was a baby /
+sv,B,"but/CC so/RB ,/,","[ {C but } + {C so, } ]"
+x,A,./.,<Throat_clearing>.
++,B,Morocco/NNP I/PRP think/VBP would/MD be/VB wonderful/JJ,Morocco I think would be wonderful /
+sv,B,"because/IN that/DT 's/BES ,/, you/PRP know/VBP ,/, that/DT 's/BES ,/, that/DT area/NN of/IN the/DT world/NN I/PRP think/VBP would/MD be/VB great/JJ ./.","{C because } [ [ that's, + {D you know, } that's, ] + that ] area of the world I think would be great. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,It/PRP was/VBD a/DT very/RB interesting/JJ vacation/NN ./.,It was a very interesting vacation. /
+sd,A,The/DT only/JJ thing/NN I/PRP did/VBD n't/RB like/VB was/VBD in/IN some/DT of/IN the/DT more/RBR touristy/JJ areas/NNS --/:,The only thing I didn't like was in some of the more touristy areas --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: uh/UH ,/, um/UH ,/, the/DT ,/, it/PRP would/MD just/RB be/VB besieged/JJ by/IN people/NNS wanting/VBG to/TO be/VB your/PRP$ guide/NN","-- {F uh, } {F um, } [ the, + it ] would just be besieged by people wanting to be your guide /"
+sd,A,"and/CC you/PRP ,/, there/EX were/VBD some/DT places/NNS ,/,","{C and } [ you, + ] there were some places,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"where/WRB people/NNS ,/, defini-/RB ,/,","where people, defini-, - /"
+sd,A,"there/EX would/MD be/VB kids/NNS there/RB that/WDT were/VBD excellent/JJ at/IN ripping/VBG you/PRP off/RP ,/,","there would be kids there that were excellent at ripping you off, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,and/CC we/PRP had/VBD nothing/NN taken/VBN because/IN we/PRP knew/VBD,{C and } we had nothing taken because we knew /
+sd,A,"and/CC we/PRP had/VBD things/NNS in/IN inside/JJ pockets/NNS and/CC in/IN ,/, you/PRP know/VBP ,/, in/IN jacket/NN underneath/IN a/DT coat/NN type/NN of/IN thing/NN ./.","{C and } we had things in inside pockets and [ in, + {D you know, } in ] jacket underneath a coat type of thing. /"
+b,B,Really/UH ./.,Really. /
+%,A,"But/CC ,/,","{C But, } -/"
+sd,B,"We/PRP ,/, we/PRP found/VBD that/IN in/IN Jamaica/NNP ./.","[ We, + we ] found that in Jamaica. /"
+sd,B,"It/PRP was/VBD the/DT same/JJ way/NN ,/,","It was the same way,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"that/IN people/NNS would/MD come/VB up/RP and/CC try/VB and/CC sell/VB you/PRP ,/, well/UH try/VB and/CC sell/VB drugs/NNS and/CC things/NNS like/IN that/DT","that people would come up and [ try and sell you, + {D well } try and sell ] drugs and things like that /"
+sd,B,"but/CC they/PRP ,/, they/PRP were/VBD so/RB destitute/JJ","{C but } [ they, + they ] were so destitute /"
+sd,B,"and/CC I/PRP guess/VBP they/PRP ,/, they/PRP make/VBP all/DT their/PRP$ money/NN on/IN tourism/NN","{C and } I guess [ they, + they ] make all their money on tourism /"
+sd,B,"and/CC ,/, and/CC they/PRP would/MD come/VB up/RP and/CC ask/VB you/PRP ,/, you/PRP know/VBP ,/, if/IN ,/, if/IN you/PRP want/VBP to/TO buy/VB different/JJ things/NNS","[ {C and, } + {C and } ] they would come up and ask you, {D you know, } [ if, + if ] you want to buy different things /"
+sd,B,"and/CC really/RB ,/, after/IN awhile/RB it/PRP really/RB gets/VBZ annoying/JJ ,/,","{C and } really, after awhile it really gets annoying, /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"you/PRP know/VBP ,/, it/PRP ,/, it/PRP 's/BES a/DT little/RB scary/JJ too/RB when/WRB they/PRP 're/VBP coming/VBG up/RP and/CC they/PRP 're/VBP all/RB over/IN you/PRP ./.","{D you know, } [ it, + it's ] a little scary too when they're coming up and they're all over you. /"
+sd,A,"The/DT ,/, the/DT worst/JJS place/NN was/VBD in/IN Marrakech/NNP --/:","[ The, + the ] worst place was in Marrakech -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC the/DT other/JJ cities/NNS it/PRP was/VBD n't/RB nearly/RB as/IN bad/JJ,-- {C and } the other cities it wasn't nearly as bad /
+sd,A,"and/CC a/DT couple/NN of/IN them/PRP it/PRP was/VBD ,/, what/WP we/PRP did/VBD in/IN some/DT of/IN the/DT other/JJ cities/NNS","{C and } a couple of them it was, what we did in some of the other cities /"
+sd,A,and/CC they/PRP tell/VBP you/PRP to/TO do/VB that/DT is/VBZ to/TO hire/VB a/DT local/JJ guide/NN --/:,{C and } they tell you to do that is to hire a local guide -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: it/PRP does/VBZ n't/RB matter/VB who/WP it/PRP is/VBZ,-- it doesn't matter who it is /
+sd,A,and/CC they/PRP keep/VBP everyone/NN else/RB away/RB from/IN you/PRP ./.,{C and } they keep everyone else away from you. /
+b,B,Oh/UH really/UH ./.,{F Oh } really. /
+sv,A,And/CC it/PRP 's/BES worth/JJ it/PRP,{C And } it's worth it /
+sd,A,and/CC it/PRP 's/BES like/IN ten/CD dollars/NNS a/DT day/NN or/CC something/NN,{C and } it's like ten dollars a day or something /
+sv,A,and/CC it/PRP 's/BES worth/JJ it/PRP just/RB to/TO keep/VB everyone/NN else/RB away/RB from/IN badgering/VBG you/PRP --/:,{C and } its worth it just to keep everyone else away from badgering you -- /
+b,B,Really/UH ./.,Really. /
+sv,A,--/: and/CC you/PRP feel/VBP stupid/JJ doing/VBG that/DT,-- {C and } you feel stupid doing that /
+sd,A,"but/CC we/PRP did/VBD it/PRP ,/,","{C but } we did it, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"and/CC we/PRP were/VBD much/RB happier/JJR ,/,","{C and } we were much happier, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,and/CC you/PRP also/RB get/VBP in/RB to/TO see/VB things/NNS that/WDT you/PRP might/MD not/RB get/VB into/IN --/:,{C and } you also get in to see things that you might not get into --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: if/IN you/PRP were/VBD alone/RB ,/, uh/UH ,/,","-- if you were alone, {F uh, } /"
+ba,B,Well/UH that/DT 's/BES great/JJ ./.,{D Well } that's great. /
+qw,B,Where/WRB else/RB have/VBP you/PRP been/VBN ?/.,Where else have you been? /
+^h,A,"Uh/UH ,/,","{F Uh } <laughter>, /"
+qy^d,B,"Well/UH you/PRP lived/VBD in/IN France/NNP ,/,","{D Well } you lived in France, /"
+ny,A,Yes/UH ./.,Yes. /
+qy^d,B,so/RB you/PRP 've/VBP been/VBN all/RB through/IN Europe/NNP ./.,{C so } you've been all through Europe. /
+nn,A,No/UH,No /
+sd,A,"actually/RB I/PRP have/VBP n't/RB been/VBN all/RB through/IN Europe/NNP ,/,","{D actually } I haven't been all through Europe,"
+b,B,No/UH ./.,No. /
++,A,like/UH I/PRP have/VBP n't/RB been/VBN to/IN Italy/NNP yet/RB ./.,like I haven't been to Italy yet. /
+b,B,Really/UH ./.,Really. /
+sd,A,"Uh/UH ,/, we/PRP 're/VBP going/VBG to/TO go/VB for/IN a/DT conference/NN in/IN September/NNP","{F Uh, } we're going to go for a conference in September /"
+sd,A,"and/CC so/RB ,/, hopefully/RB ,/, we/PRP 'll/MD get/VB to/TO travel/VB a/DT little/JJ bit/NN too/RB ./.","{C and so, } hopefully, we'll get to travel a little bit too. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, my/PRP$ more/RBR exciting/JJ spots/NNS have/VBP been/VBN ,/,","{F Uh, } my more exciting spots have been, - /"
+sd,A,I/PRP 've/VBP been/VBN to/IN the/DT Galapagos/NNP Islands/NNPS ./.,I've been to the Galapagos Islands. /
+bh,B,Really/UH ?/.,Really? /
+ny,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,A,that/DT was/VBD one/CD of/IN the/DT most/RBS wonderful/JJ vacations/NNS I/PRP 've/VBP ever/RB had/VBN ./.,that was one of the most wonderful vacations I've ever had. /
+qy,B,Lots/NNS of/IN wildlife/NN huh/UH ?/.,Lots of wildlife {F huh? } /
+%,B,Yeah/UH ./.,Yeah. /
+ny,A,Yes/UH ./.,Yes. /
+sv,A,"If/IN you/PRP like/VBP wildlife/NN ,/, it/PRP 's/BES a/DT fabulous/JJ vacation/NN ./.","If you like wildlife, it's a fabulous vacation. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,If/IN you/PRP do/VBP n't/RB like/VB wildlife/NN it/PRP 's/BES probably/RB not/RB of/IN interest/NN ./.,If you don't like wildlife it's probably not of interest <laughter>. /
+x,B,./.,<Laughter>.
+sd,A,"But/CC it/PRP ,/, that/DT was/VBD really/RB ,/, really/RB fabulous/JJ","{C But } [ it, + that ] was really, really fabulous /"
+sd,A,"and/CC just/RB the/DT photos/NNS I/PRP have/VBP of/IN it/PRP and/CC gosh/UH ,/, incredible/JJ and/CC be/VB so/RB close/RB ,/,","{C and } just the photos I have of it and gosh, incredible and be so close, /"
+qw,B,"Now/UH when/WRB was/VBD that/DT ,/, when/WRB were/VBD you/PRP there/RB ?/.","Now when was that, when were you there? /"
+sd,A,"Um/UH ,/, August/NNP ,/, eighty-eight/CD ./.","{F Um, } August, eighty-eight. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC then/RB ,/, actually/RB ,/, after/IN there/RB I/PRP went/VBD to/IN um/UH ,/, Hawaii/NNP ,/,","{C And then, } {D actually, } after there I went to {F um, } Hawaii, /"
+sd,A,a/DT lot/NN of/IN my/PRP$ travel/NN has/VBZ been/VBN sort/RB of/RB based/VBN around/IN conferences/NNS or/CC business/NN meetings/NNS --/:,a lot of my travel has been sort of based around conferences or business meetings -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC so/RB ,/, I/PRP went/VBD to/IN Hawaii/NNP and/CC then/RB to/IN Australia/NNP --/:","-- {C and so, } I went to Hawaii and then to Australia --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC Japan/NNP and/CC China/NNP ,/,","-- and Japan and China, /"
+qy,B,"Did/VBD you/PRP go/VB on/IN the/DT Barrier/NNP Re-/NNP ,/,","Did you go on the Barrier Re-, - /"
+qy,B,"did/VBD you/PRP see/VB the/DT Great/NNP Barrier/NNP Reef/NNP and/CC ,/, and/CC go/VB snorkeling/VBG ?/.","did you see the Great Barrier Reef [ and, + and ] go snorkeling? /"
+ng,A,"I/PRP ,/, I/PRP ,/, actually/RB I/PRP did/VBD n't/RB go/VB diving/VBG ./.","[ [ I, + I, ] + {D actually } I ] didn't go diving. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP ,/, I/PRP 'm/VBP a/DT diver/NN","[ I, + I'm ] a diver /"
+sd,A,"and/CC so/RB ,/,","{C and so, }"
+b,B,Oh/UH diving/NN ./.,{F Oh } diving. /
++,A,"that/DT 's/HVS ,/, that/DT 's/HVS actually/RB been/VBN another/DT of/IN my/PRP$ favorite/JJ vacations/NNS has/VBZ been/VBN taking/VBG little/JJ diving/NN trips/NNS --/:","[ that's, + that's ] actually been another of my favorite vacations has been taking little diving trips -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"--/: but/CC ,/, uh/UH ,/,","-- {C but, } {F uh, } - /"
+nn,A,no/UH,no /
+sd,A,I/PRP did/VBD n't/RB get/VB to/IN the/DT Great/NNP Barrier/NNP Reef/NNP ./.,I didn't get to the Great Barrier Reef. /
+sd,A,"I/PRP drove/VBD from/IN Sidney/NNP down/IN to/IN Melbourne/NNP and/CC over/IN to/IN Au-/NNP ,/, Adelaide/NNP ./.","I drove from Sidney down to Melbourne and over to [ Au-, + Adelaide. ] /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"It/PRP 's/BES gorgeous/JJ ,/, absolutely/RB gorgeous/JJ ./.","It's gorgeous, absolutely gorgeous. /"
+sd,A,The/DT coastline/NN was/VBD just/RB incredible/JJ ./.,The coastline was just incredible. /
+sd,A,It/PRP 's/BES huge/JJ ./.,It's huge. /
+bh,B,Is/VBZ it/PRP really/RB ?/.,Is it really? /
+b,A,Australia/NNP ./.,Australia. /
+ny,A,Yeah/UH ./.,Yeah. /
+b^m,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+%,A,"Uh/UH ,/, but/CC ,/,","{F Uh, } {C but, } -/"
+qy,B,Did/VBD you/PRP have/VB shrimp/NN ?/.,Did you have shrimp? /
+%,B,"I/PRP 've/VBP seen/VBN in/IN ,/, you/PRP know/VBP ,/,","I've seen in, {D you know, } - /"
+sd,B,"they/PRP ,/, they/PRP show/VBP all/PDT this/DT wonderful/JJ seafood/NN and/CC ,/, and/CC great/JJ big/JJ prawns/NNS ,/, you/PRP know/VBP the/DT big/JJ shrimp/NN","[ they, + they ] show all this wonderful seafood [ and, + and ] great big prawns, {D you know } the big shrimp /"
+%,B,"and/CC ,/,","{C and, } -/"
+no,A,I/PRP do/VBP n't/RB remember/VB if/IN I/PRP had/VBD shrimp/NN ./.,I don't remember if I had shrimp. /
+bh,B,No/UH ?/.,No? /
+qy,B,Did/VBD n't/RB have/VB shrimp/NN there/RB huh/UH ?/.,Didn't have shrimp there {F huh } <laughter>? /
+ng,A,I/PRP do/VBP n't/RB think/VB so/RB ./.,I don't think so. /
+sd,B,I/PRP remember/VBP food/NN ./.,I remember food <laughter>. /
+sd,A,"Oh/UH ,/, I/PRP like/VBP that/DT too/RB ./.","<Laughter> {F Oh, } I like that too. /"
+sd,A,"But/CC ,/, uh/UH ,/, in/IN fact/NN I/PRP did/VBD n't/RB eat/VB out/RP that/RB much/RB there/RB because/IN I/PRP was/VBD traveling/VBG by/IN myself/PRP in/IN a/DT car/NN ,/,","{C But, } {F uh, } in fact I didn't eat out that much there because I was traveling by myself in a car, /"
+sv,A,"it/PRP would/MD have/VB been/VBN ,/, I/PRP think/VBP ,/, much/RB more/JJR fun/NN to/TO do/VB it/PRP like/IN in/IN the/DT van/NN ,/,","it would have been, I think, much more fun to do it {D like } in the van,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,with/IN a/DT bunch/NN of/IN people/NNS ./.,with a bunch of people. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"But/CC ,/, uh/UH ,/,","{C But, } {F uh, } -/"
+ba,B,Oh/UH you/PRP 're/VBP adventurous/JJ ./.,{F Oh } you're adventurous. /
+qy^d,B,You/PRP went/VBD by/IN yourself/PRP ./.,You went by yourself. /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,Really/UH ./.,Really. /
+sd,A,And/CC I/PRP was/VBD by/IN myself/PRP in/IN China/NNP too/RB ./.,{C And } I was by myself in China too. /
+bh,B,Really/UH ?/.,Really? /
+ny,A,Yeah/UH ./.,Yeah. /
+ba,B,Oh/UH wow/UH ./.,{F Oh } wow. /
+sd,A,"China/NNP was/VBD a/DT little/JJ bit/NN more/JJR ,/, uh/UH ,/, of/IN a/DT challenge/NN ./.","China was a little bit more, {F uh, } of a challenge. /"
+sd,A,"But/CC ,/, it/PRP ,/, it/PRP was/VBD n't/RB more/JJR of/IN a/DT challenge/NN in/IN a/DT sense/NN because/IN I/PRP hired/VBD a/DT guide/NN all/PDT the/DT time/NN ,/,","{C But, } [ it, + it ] wasn't more of a challenge in a sense because I hired a guide all the time, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"and/CC so/RB I/PRP never/RB ,/, you/PRP know/VBP ,/, got/VBD out/RB by/IN myself/PRP ,/, or/CC not/RB much/JJ ,/,","{C and so } I never, {D you know, } got out by myself, or not much, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,B,Was/VBD it/PRP very/RB expensive/JJ ?/.,Was it very expensive? /
+nn,A,"No/UH ,/,","No, /"
+sd,A,"actually/RB I/PRP paid/VBD about/RB either/CC a/DT thousand/CD dollars/NNS or/CC a/DT little/JJ bit/NN ,/,","{D actually } I paid about either a thousand dollars or a little bit, - /"
+ar,A,no/UH,no /
+sd,A,"maybe/RB it/PRP was/VBD about/RB a/DT thousand/CD dollars/NNS ,/, maybe/RB a/DT little/JJ bit/NN less/JJR ,/,","maybe it was about a thousand dollars, maybe a little bit less, /"
+sd,A,"I/PRP do/VBP n't/RB really/RB remember/VB ,/, for/IN ten/CD days/NNS including/VBG all/DT my/PRP$ meals/NNS ,/, a/DT guide/NN ,/, a/DT car/NN ,/, the/DT airfare/NN","I don't really remember, for ten days including all my meals, a guide, a car, the airfare /"
+sd,A,"and/CC ,/,","[ {C and, } +"
+ba,B,You/PRP 're/VBP kidding/VBG !/.,You're kidding! /
+ba,B,No/UH kidding/NN !/.,No kidding! /
++,A,"MUMBLEx/XX but/CC this/DT is/VBZ from/IN Hong/NNP Kong/NNP ,/,","(( )) {C but } ] this is from Hong Kong, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,because/IN I/PRP was/VBD already/RB in/IN Hong/NNP Kong/NNP,{C because } I was already in Hong Kong /
+sd,A,"and/CC ,/, um/UH ,/, but/CC it/PRP only/RB cost/VBD you/PRP about/RB a/DT thousand/CD dollars/NNS to/TO go/VB there/RB","[ {C and, } + {F um, } {C but } ] it only cost you about a thousand dollars to go there /"
+sd,A,"and/CC I/PRP went/VBD to/IN Beijing/NNP ,/, Shanghai/NNP ,/, Chengdu/NNP","{C and } I went to Beijing, Shanghai, Chengdu /"
+sd,A,"and/CC actually/RB then/RB I/PRP took/VBD a/DT train/NN up/IN from/IN Shanghai/NNP to/IN a/DT little/JJ ,/, Quingdao/NNP I/PRP think/VBP is/VBZ the/DT name/NN of/IN it/PRP ./.","{C and } {D actually } then I took a train up from Shanghai to a little, Quingdao I think is the name of it. /"
+sd,A,"It/PRP 's/BES a/DT little/JJ ,/, uh/UH ,/, sort/RB of/RB getaway/NN retreat/NN village/NN not/RB far/RB from/IN Shanghai/NNP ./.","It's a little, {F uh, } sort of getaway retreat village not far from Shanghai. /"
+sd,A,It/PRP 's/BES just/RB a/DT train/NN ride/NN ./.,It's just a train ride. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"And/CC that/DT ,/,","{C And } that, - /"
+sd,A,"I/PRP had/VBD two/CD internal/JJ ,/, one/CD ,/, yeah/UH ,/, two/CD internal/JJ plane/NN flights/NNS and/CC a/DT couple/NN of/IN other/JJ things/NNS ./.","I had [ two internal, + [ one, + ] {D yeah, } two internal ] plane flights and a couple of other things. /"
+%,A,"It/PRP was/VBD really/RB ,/,","It was really, -/"
+qy,B,All/DT for/IN a/DT thousand/CD dollars/NNS ?/.,All for a thousand dollars? /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+ba,B,Wow/UH !/.,Wow! /
+sd,B,That/DT really/RB surprises/VBZ me/PRP ./.,That really surprises me. /
+sd,A,Around/IN a/DT thousand/CD ./.,Around a thousand. /
+qy,B,"I/PRP guess/VBP I/PRP relate/VBP it/PRP to/IN ,/, to/IN Japan/NNP where/WRB things/NNS are/VBP very/RB expensive/JJ ,/, are/VBP n't/RB they/PRP ?/.","I guess I relate it [ to, + to ] Japan where things are very expensive, aren't they? /"
+na,A,"Oh/UH ,/, Japa-/NNP ,/, Japan/NNP 's/BES ridiculous/JJ ./.","{F Oh, } [ Japa-, + Japan's ] ridiculous. /"
+b,B,Yeah/UH ./.,Yeah. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC I/PRP stayed/VBD ,/, I/PRP did/VBD n't/RB stay/VB in/IN the/DT top/NN of/IN the/DT line/NN hotels/NNS","{C And } [ I stayed, + I didn't stay ] in the top of the line hotels /"
+%,A,"but/CC I/PRP stayed/VBD in/IN ,/,","{C but } I stayed in, - /"
+sd,A,"they/PRP were/VBD all/RB completely/RB clean/JJ ,/,","they were all completely clean, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"and/CC ,/, you/PRP know/VBP ,/, they/PRP were/VBD newly/RB built/VBN","{C and, } {D you know, } they were newly built /"
+sd,A,"and/CC they/PRP were/VBD sort/RB of/RB the/DT lower/JJR end/NN of/IN the/DT top/NN of/IN the/DT line/NN ,/, hotels/NNS ,/,","{C and } they were sort of the lower end of the top of the line, hotels,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,because/IN they/PRP said/VBD you/PRP ca/MD n't/RB stay/VB in/IN the/DT cheap/JJ stuff/NN ./.,because they said you can't stay in the cheap stuff. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+sv,B,"and/CC you/PRP do/VBP n't/RB want/VB to/TO stay/VB in/IN the/DT very/RB ,/, very/RB ,/, very/RB exclusive/JJ ,/,","{C and } you don't want to stay in the [ [ very, + very, ] + very ] exclusive,"
+b,A,Right/UH ./.,Right. /
++,B,"because/IN you/PRP do/VBP n't/RB really/RB even/RB get/VB a/DT flavor/NN of/IN the/DT country/NN if/IN you/PRP 're/VBP ,/,","because you don't really even get a flavor of the country if you're, -/"
+b,A,Right/UH ./.,Right. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+ba,B,Wow/UH ./.,Wow. /
+%,A,"Uh/UH ,/, but/CC","{F Uh, } {C but } - /"
+%,A,"yeah/UH ,/,","yeah, /"
+%,A,"that/DT was/VBD ,/,","that was, - /"
+sd,A,"tha-/XX ,/, I/PRP highly/RB recommend/VBP that/DT way/NN to/TO go/VB ./.","[ tha-, + I highly recommend that ] way to go. /"
+sd,A,"If/IN you/PRP 're/VBP ever/RB interested/JJ in/IN going/VBG the/DT route/NN ,/, I/PRP dealt/VBD with/IN this/DT woman/NN ,/,","If you're ever interested in going the route, I dealt with this woman, /"
+sd,A,her/PRP$ name/NN was/VBD Rita/NNP at/IN China/NNP Tours/NNPS in/IN Boston/NNP ./.,her name was Rita at China Tours in Boston <laughter>. /
+bh,B,Oh/UH really/UH ./.,{F Oh } really. /
+ny,A,Yeah/UH ./.,Yeah. /
+sd,A,"Uh/UH ,/, and/CC a/DT friend/NN of/IN mine/PRP who/WP had/VBD gone/VBN for/IN a/DT business/NN trip/NN to/IN China/NNP","{F Uh, } {C and } a friend of mine who had gone for a business trip to China /"
+sd,A,and/CC she/PRP just/RB gave/VBD me/PRP this/DT woman/NN 's/POS name/NN to/TO contact/VB,{C and } she just gave me this woman's name to contact /
+sv,A,"and/CC it/PRP would/MD really/RB be/VB fun/JJ ,/, I/PRP think/VBP ideally/RB with/IN like/UH two/CD couples/NNS because/IN you/PRP have/VBP a/DT car/NN and/CC a/DT driver/NN --/:","{C and } it would really be fun, I think ideally with like two couples because you have a car and a driver --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: and/CC a/DT guide/NN,-- and a guide /
+%,A,"and/CC then/RB ,/,","{C and then, } -/"

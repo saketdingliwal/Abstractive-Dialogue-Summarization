@@ -1,0 +1,272 @@
+act_tag,speaker,pos,text
+fp,A,Hi/UH ./.,Hi. /
+fp,B,"Hi/UH ,/, uh/UH ,/,","<Children> <TV> <noise> <<kitchen>> Hi, {F uh, } /"
+sd,B,"as/IN a/DT matter/NN of/IN fact/NN this/DT past/JJ weekend/NN ,/, since/IN we/PRP had/VBD a/DT long/JJ weekend/NN ,/, I/PRP ,/, uh/UH ,/, took/VBD on/RP a/DT painting/NN project/NN in/IN my/PRP$ bathroom/NN","as a matter of fact this past weekend, since we had a long weekend, I, {F uh, } took on a painting project in my bathroom /"
+sd,B,"and/CC I/PRP had/VBD wallpaper/NN up/RB ,/,","{C and } I had wallpaper up, /"
+sd,B,I/PRP had/VBD to/TO completely/RB strip/VB the/DT wallpaper/NN off/RB and/CC then/RB spackle/VB holes/NNS and/CC then/RB paint/VB that/DT,I had to completely strip the wallpaper off and then spackle holes and then paint that /
+sd,B,and/CC it/PRP took/VBD me/PRP all/DT weekend/NN,{C and } it took me all weekend /
+sd,B,"because/RB ,/, uh/UH ,/, the/DT wallpaper/NN ,/, getting/VBG it/PRP off/RB ,/, I/PRP had/VBD to/TO wet/VB the/DT walls/NNS down/RP","{C because, } {F uh, } the wallpaper, getting it off, I had to wet the walls down /"
+sd,B,and/CC that/DT had/VBD to/TO dry/VB ./.,{C and } that had to dry. /
+sd,B,And/CC then/RB the/DT spackling/NN had/VBD to/TO dry/VB a/DT day/NN,{C And then } the spackling had to dry a day /
+sd,B,and/CC then/RB the/DT painting/NN took/VBD another/DT day/NN ./.,{C and then } the painting took another day. /
+qy,A,"You/PRP did/VBD n't/RB try/VB re/VBG ,/, rewallpapering/VBG ?/.","You didn't try [ re-, + rewallpapering? ] /"
+%,A,"You/PRP just/RB ,/, uh/UH ,/,","You just, {F uh, } -/"
+nn,B,No/UH ./.,No. /
+sd,B,"I/PRP ,/, I/PRP just/RB painted/VBD ./.","[ I, + I ] just painted. /"
+qy,A,Did/VBD you/PRP use/VB a/DT textured/JJ paint/NN,Did you use a textured paint /
+%,A,"or/CC ,/,","{C or, } -/"
+nn,B,"Uh/UH ,/, no/UH ./.","{F Uh, } no. /"
+sd,B,"Actually/UH ,/, the/DT wall/NN behind/IN the/DT paper/NN was/VBD smooth/JJ","Actually, the wall behind the paper was smooth /"
+sd,B,"so/RB ,/, I/PRP just/RB used/VBD a/DT ,/, like/IN a/DT semigloss/NNS ./.","{C so, } I just used [ a, + {D like } a ] semigloss. /"
+b,A,Um/UH ./.,{F Um. } /
+%,B,"And/CC ,/,","{C And, } -/"
+qy,A,"Well/UH ,/, did/VBD you/PRP get/VB good/JJ results/NNS ?/.","{D Well, } did you get good results? /"
+nn,B,"Well/UH ,/, no/UH ,/,","{D Well, } no, /"
+ng,B,not/RB really/RB ./.,not really. /
+sd,B,"I/PRP need/VBP to/TO ,/,","I need to, - /"
+sd,B,"it/PRP ,/, it/PRP looks/VBZ so/RB ,/,","[ it, + it ] looks so,"
+x,A,./.,<Noise> <<Sounds like paper shuffling>>.
++,B,bad/JJ you/PRP can/MD see/VB where/WRB those/DT spackling/NN marks/NNS were/VBD ./.,bad you can see where those spackling marks were. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP need/VBP to/TO ,/, uh/UH ,/, either/CC paper/VB back/RB over/IN it/PRP or/CC do/VB something/NN ./.","I need to, {F uh, } either paper back over it or do something <sniffing>. /"
+qy,A,"But/CC it/PRP just/RB did/VBD n't/RB ,/, it/PRP did/VBD n't/RB ,/, it/PRP did/VBD n't/RB cover/VB it/PRP ?/.","{C But } [ it just didn't, + [ it didn't, + it didn't ] ] cover it? /"
+ny,B,Yeah/UH ./.,Yeah. /
+sd,B,It/PRP covered/VBD the/DT spots/NNS pretty/RB good/RB,It covered the spots pretty good /
+sd,B,"but/CC it/PRP did/VBD n't/RB ,/, excuse/VB me/PRP ,/, it/PRP did/VBD n't/RB ,/, uh/UH ,/, uh/UH ,/, it/PRP just/RB did/VBD n't/RB look/VB as/RB smooth/JJ as/IN I/PRP wanted/VBD it/PRP to/TO ./.","{C but } [ [ it didn't, + {E excuse me, } it didn't, ] + {F uh, } {F uh, } it just didn't ] look as smooth as I wanted it to. /"
+sd,A,"Well/UH ,/, we/PRP did/VBD a/DT ,/, uh/UH ,/,","</Noise> {D Well, } we did a, {F uh, } - /"
+sd,A,"we/PRP moved/VBD ,/, oh/UH ,/, last/JJ August/NNP","we moved, {F oh, } last August /"
+sd,A,"and/CC we/PRP 're/VBP getting/VBG a/DT house/NN ,/,","{C and } we're getting a house, /"
+sd,A,my/PRP$ house/NN had/VBD this/DT dark/JJ wood/NN paneling/NN at/IN the/DT end/NN of/IN the/DT den/NN,my house had this dark wood paneling at the end of the den /
+%,A,"and/CC we/PRP decided/VBD ,/,","{C and } we decided, - /"
+sd,A,"we/PRP went/VBD to/TO ,/, I/PRP 've/VBP forgotten/VBN ,/, one/CD of/IN the/DT paint/NN stores/NNS","we went to, (( I've forgotten )) , one of the paint stores /"
+sd,A,"and/CC they/PRP just/RB said/VBD ,/, oh/UH ,/, you/PRP can/MD get/VB by/RP ,/,","{C and } they just said, {F oh, } you can get by, /"
+sd,A,"and/CC I/PRP forgotten/VBN what/WP it/PRP was/VBD you/PRP put/VBD down/RP ,/, and/CC then/RB you/PRP can/MD just/RB paint/VB right/RB over/IN the/DT dark/NN ./.","{C and } I forgotten what it was you put down, and then you can just paint right over the dark. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+arp_nd,A,"Well/UH ,/, more/RBR or/CC less/RBR ./.","{D Well, } more or less. /"
+sv,A,"After/IN about/RB ,/, uh/UH ,/, half/DT dozen/NN coats/NNS it/PRP looks/VBZ reasonable/JJ","After about, {F uh, } half dozen coats it looks reasonable /"
+%,A,"but/CC it/PRP kept/VBD ,/,","{C but } it kept, - /"
+%,A,"the/DT ,/, the/DT dark/NN","[ the, + the ] dark - /"
+sd,A,"it/PRP was/VBD ,/, uh/UH ,/, just/RB a/DT real/RB dark/JJ ,/, uh/UH ,/, wood/NN grain/NN type/NN paneling/NN --/:","it was, {F uh, } just a real dark, {F uh, } wood grain type paneling -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC it/PRP was/VBD smooth/JJ,-- {C and } it was smooth /
+sd,A,"and/CC ,/, uh/UH ,/, and/CC we/PRP would/MD ,/, we/PRP put/VBD this/DT stuff/NN on/RP","[ {C and, } + {F uh, } {C and } ] [ we would, + we put ] this stuff on /"
+sd,A,"and/CC ,/, and/CC it/PRP supposedly/RB textured/VBD it/PRP or/CC did/VBD something/NN to/IN it/PRP","[ {C and, } + {C and } ] it supposedly textured it or did something to it /"
+sd,A,"and/CC ,/, but/CC because/IN of/IN the/DT b-/XX ,/, dark/NN behind/IN it/PRP ,/, it/PRP was/VBD really/RB hard/JJ to/TO cover/VB","[ {C and, } + {C but } ] because of the [ b-, + ] dark behind it, it was really hard to cover /"
+%,A,"and/CC ,/,","{C and } <noise> <<sounds like pages turning>>, -/"
+qy,B,Was/VBD it/PRP like/IN a/DT primer/NN ?/.,Was it like a primer? /
+ny,A,Yeah/UH ./.,Yeah. /
+sd,A,"It/PRP was/VBD something/NN like/IN that/DT ,/, although/IN ,/, we/PRP sort/RB of/RB ,/, when/WRB we/PRP got/VBD through/RP I/PRP wished/VBD we/PRP had/VBD n't/RB done/VBN it/PRP","It was something like that, although, [ we sort of, + ] when we got through I wished we hadn't done it /"
+sd,A,"because/IN we/PRP were/VBD ,/, you/PRP know/VBP ,/, we/PRP were/VBD trying/VBG to/TO make/VB the/DT house/NN look/IN nice/JJ to/TO sell/VB it/PRP","{C because } [ we were, + {D you know, } we were ] trying to make the house look nice to sell it /"
+sd,A,"and/CC we/PRP were/VBD painting/VBG it/PRP and/CC trying/VBG to/TO do/VB ,/, uh/UH ,/, you/PRP know/VBP ,/, make/VB it/PRP ,/,","{C and } we were painting it and trying to [ do, + {F uh, } {D you know, } make ] it, - /"
+sd,A,"and/CC it/PRP ,/, it/PRP really/RB was/VBD ,/, you/PRP know/VBP ,/,","{C and } [ it, + it ] really was, {D you know, } - /"
+%,A,"the/DT advice/NN they/PRP give/VBP you/PRP is/VBZ ,/, uh/UH ,/,","the advice they give you is, {F uh, } - /"
+sd,A,the/DT job/NN was/VBD considerably/RB tougher/JJR than/IN we/PRP thought/VBD ./.,the job was considerably tougher than we thought. /
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"Uh/UH ,/, particularly/RB when/WRB you/PRP try/VBP to/TO ,/,","{F Uh, } particularly when you try to, - /"
+sd,A,"I/PRP was/VBD talking/VBG to/IN somebody/NN else/RB who/WP ,/, who/WP had/VBD a/DT lot/NN of/IN wood/NN panelling/NN","I was talking to somebody else [ who, + who ] had a lot of wood panelling /"
+sd,A,"and/CC ,/, uh/UH ,/, they/PRP had/VBD gotten/VBN somebody/NN to/TO come/VB in/RB with/IN an/DT estimate/NN","{C and, } {F uh, } they had gotten somebody to come in with an estimate /"
+sd,A,"and/CC it/PRP seemed/VBD like/IN there/EX was/VBD ,/, it/PRP was/VBD a/DT good/RB sized/JJ den/NN with/IN a/DT lot/NN panelling/NN","{C and } it seemed like [ there was, + it was ] a good sized den with a lot panelling /"
+sd,A,and/CC the/DT people/NNS quoted/VBD thirty/CD thousand/CD dollars/NNS to/TO paint/VB it/PRP or/CC something/NN ./.,{C and } the people quoted thirty thousand dollars to paint it or something. /
+ba,B,"Oh/UH ,/, my/PRP$ goodness/NN ,/,","{F Oh, } my goodness, /"
+ba,B,that/DT 's/BES an/DT awful/JJ lot/NN ./.,that's an awful lot. /
+qy,A,"Have/VBP you/PRP ,/, have/VBP you/PRP tried/VBN getting/VBG outside/JJ estimates/NNS to/TO see/VB what/WP it/PRP costs/VBZ to/TO have/VB something/NN painted/VBN ?/.","[ Have you, + have you ] tried getting outside estimates to see what it costs to have something painted? /"
+ng,B,Not/RB inside/IN ./.,Not inside. /
+sd,B,"Now/RB ,/, uh/UH ,/, when/WRB we/PRP bought/VBD the/DT house/NN that/IN we/PRP live/VBP in/IN right/RB now/RB we/PRP had/VBD a/DT company/NN that/WDT came/VBD out/IN and/CC painted/VBD it/PRP ./.","{D Now, } {F uh, } when we bought the house that we live in right now we had a company that came out and painted it. /"
+sd,B,"That/DT was/VBD one/CD of/IN the/DT requirements/NNS from/IN ,/, you/PRP know/VBP ,/, F/NNP H/NNP A/NNP --/:","That was one of the requirements from, {D you know, } F H A --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: that/IN the/DT house/NN be/VB painted/VBN before/IN we/PRP bought/VBD it/PRP,-- that the house be painted before we bought it /
+sd,B,and/CC it/PRP was/VBD fairly/RB reasonable/JJ ./.,{C and } it was fairly reasonable. /
+sd,B,We/PRP have/VBP a/DT brick/NN house/NN,We have a brick house /
+sd,B,but/CC all/PDT the/DT trim/NN --/:,{C but } all the trim --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: around/IN the/DT house/NN was/VBD ,/, uh/UH ,/,","-- around the house was, {F uh, } - /"
+sd,B,"if/IN I/PRP remember/VBP right/RB ,/, it/PRP was/VBD like/IN five/CD hundred/CD dollars/NNS ./.","if I remember right, <noise> it was like five hundred dollars. /"
+ba,A,"Oh/UH ,/, that/DT 's/BES quite/RB reasonable/JJ ./.","{F Oh, } that's quite reasonable. /"
+aa,B,Yeah/UH ./.,Yeah. /
+aa,B,Yeah/UH ./.,Yeah. /
+x,A,MUMBLEx/XX ./.,(( )) .
+sd,B,so/RB that/DT was/VBD n't/RB too/RB bad/JJ ./.,{C so } that wasn't too bad. /
+%,A,"Um/UH ,/, problem/NN i/VBZ ,/,","{F Um, } problem i-, - /"
+qy,A,"have/VBP you/PRP ,/, have/VBP you/PRP tried/VBN matching/VBG paint/NN lately/RB ?/.","[ have you, + have you ] tried matching paint lately? /"
+nn,B,"No/UH ,/,","No, /"
+sd,B,I/PRP have/VBP n't/RB ./.,I haven't. /
+%,A,"My/PRP$ wife/NN ,/,","My wife, - /"
+sd,A,"we/PRP ,/, we/PRP built/VBD a/DT shed/NN over/IN the/DT long/JJ way/NN ,/,","[ we, + we ] built a shed over the (( long way )) , /"
+sd,A,"actually/RB ,/, it/PRP took/VBD ,/,","actually, it took, - /"
+sd,A,this/DT is/VBZ not/RB on/IN the/DT topic/NN,this is not on the topic /
+sd,A,but/CC I/PRP did/VBD finish/VB it/PRP ./.,{C but } I did finish it. /
+sd,A,"But/CC my/PRP$ wife/NN went/VBD to/IN the/DT ,/, uh/UH ,/, Home/NNP Depot/NNP ,/, I/PRP think/VBP it/PRP was/VBD ,/, and/CC ,/, and/CC took/VBD a/DT ,/, uh/UH ,/, a/DT copy/NN ,/, took/VBD a/DT piece/NN of/IN brick/NN --/:","{C But } my wife went to the, {F uh, } Home Depot, I think it was, [ and, + and ] took [ a, + {F uh, } a ] copy, took a piece of brick -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC she/PRP wanted/VBD to/TO paint/VB the/DT shed/NN,-- {C and } she wanted to paint the shed /
+sd,A,"it/PRP 's/BES ,/, it/PRP 's/BES a/DT wooden/JJ shed/NN ,/, uh/UH ,/,","[ it's, + it's ] a wooden shed, {F uh, } /"
+sd,A,and/CC she/PRP took/VBD it/PRP,{C and } she took it /
+sd,A,and/CC they/PRP 've/VBP got/VBN this/DT machine/NN that/WDT matches/VBZ the/DT color/NN of/IN paint/NN ./.,{C and } they've got this machine that matches the color of paint. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, they/PRP got/VBD ,/,","{C And, } {F uh, } they got, - /"
+sd,A,"and/CC ,/, uh/UH ,/, and/CC ,/, in/IN fact/NN she/PRP put/VBD some/DT right/JJ ba-/XX ,/,","[ {C and, } + {F uh, } {C and, } ] in fact she put some right ba-, - /"
+sd,A,"she/PRP got/VBD ,/,","she got, - /"
+sd,A,"they/PRP mixed/VBD ,/, uh/UH ,/, a/DT gallon/NN of/IN it/PRP","they mixed, {F uh, } a gallon of it /"
+sd,A,"and/CC ,/, uh/UH ,/, it/PRP 's/BES just/RB remarkable/JJ how/WRB close/RB it/PRP will/MD match/VB the/DT paint/NN ,/, uh/UH ,/,","{C and, } {F uh, } it's just remarkable how close it will match the paint, {F uh, } /"
+sd,A,"and/CC it/PRP does/VBZ it/PRP ,/, uh/UH ,/, oh/UH ,/, electronically/RB some/RB ,/, something/NN ,/,","{C and } it does it, {F uh, } {F oh, } electronically [ some, + something, ]"
+b,B,"Oh/UH ,/,","Oh, /"
+qy^d,B,"so/UH ,/,","{C so, }"
++,A,magic/NN ./.,magic. /
++,B,they/PRP did/VBD do/VB a/DT good/JJ job/NN ?/.,they did do a good job? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"you/PRP know/VBP ,/, they/PRP ,/,","{D you know, } they, - /"
+sd,A,but/CC it/PRP 's/BES electronic/JJ ./.,{C but } it's electronic. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Uh/UH ,/, you/PRP put/VBP your/PRP$ sample/NN under/IN this/DT thing/NN","{F Uh, } you put your sample under this thing /"
+sd,A,"and/CC it/PRP looks/VBZ at/IN it/PRP in-/XX ,/, and/CC ,/, uh/UH ,/, and/CC determines/VBZ the/DT ,/,","{C and } it looks at it [ in-, + ] [ and, + {F uh, } and ] determines the, - /"
+sd,A,"and/CC it/PRP ,/, it/PRP 's/BES really/RB remarkable/JJ ./.","{C and } [ it, + it's ] really remarkable. /"
+sd,A,"Uh/UH ,/, the/DT problem/NN they/PRP had/VBD","{F Uh, } the problem they had - /"
+sd,A,"and/CC then/RB they/PRP wanted/VBD some/DT gray/JJ to/TO do/VB the/DT ,/, to/TO do/VB the/DT trim/NN ./.","{C and then } they wanted some gray [ to do the, + to do the ] trim. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, but/CC they/PRP did/VBD n't/RB ,/, did/VBD n't/RB occur/VB to/IN them/PRP that/IN ,/, um/UH ,/, that/IN they/PRP could/MD have/VB taken/VBN a/DT sample/NN --/:","[ {C And, } + {F uh, } {C but } ] [ they didn't, + didn't ] occur to them [ that, + {F um, } that ] they could have taken a sample --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: um/UH ,/, from/IN ,/,","-- {F um, } from, - /"
+sd,A,"I/PRP forgotten/VBN ,/,","I forgotten, / *[[listen]]"
+sd,A,this/DT is/VBZ Sherwin/NNP Williams/NNP Paint/NN or/CC something/NN,this is Sherwin Williams Paint or something /
+sd,A,"but/CC anyway/RB ./. It/PRP 's/BES ,/, it/PRP 's/BES remarkable/JJ ./.","{C but } anyway. [ It's, + it's ] remarkable. /"
+sd,A,"That/DT 's/BES one/CD of/IN the/DT problems/NNS though/IN when/WRB you/PRP start/VBP painting/VBG to/TO try/VB to/TO get/VB the/DT ,/, you/PRP know/VBP ,/,","That's one of the problems though when you start painting to try to get the, {D you know, } - /"
+sd,A,"you/PRP want/VBP this/DT ,/, you/PRP want/VBP this/DT to/TO look/VB like/IN this/DT","[ you want this, + you want this ] to look like this /"
+sd,A,and/CC you/PRP want/VBP that/DT to/TO look/VB like/IN that/DT,{C and } you want that to look like that /
+sv,A,"and/CC ,/,","{C and, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"of/IN course/NN ,/, if/IN it/PRP 's/BES all/RB white/JJ you/PRP 're/VBP all/RB right/JJ","of course, if it's all white you're all right /"
+sv,A,"but/CC when/WRB you/PRP start/VBP getting/VBG into/IN colors/NNS ,/,","{C but } when you start getting into colors, - /"
+qy,A,have/VBP you/PRP had/VBD problems/NNS getting/VBG colors/NNS to/TO match/VB ?/.,have you had problems getting colors to match? /
+ny,B,Yeah/UH ./.,Yeah. /
+ny,B,Yeah/UH ./.,Yeah. /
+sd,B,"As/IN a/DT matter/NN of/IN fact/NN ,/, uh/UH ,/, what/WP we/PRP 've/VBP got/VBD ours/JJ painted/VBN now/RB is/VBZ kind/RB of/RB a/DT light/JJ creamy/JJ color/NN and/CC a/DT ,/, uh/UH ,/, a/DT blue/NN","As a matter of fact, {F uh, } what we've got ours painted now is kind of a light creamy color and [ a, + {F uh, } a ] blue /"
+sd,B,"and/CC the/DT blue/NN ,/, even/RB so/RB many/JJ years/NNS ,/, two/CD years/NNS later/RB or/CC so/RB it/PRP does/VBZ n't/RB match/VB ,/,","{C and } the blue, even [ so many years, + two years later or so ] it doesn't match,"
+b,A,Um/UH ./.,{F Um. } /
++,B,"you/PRP know/VBP ,/,","{D you know, } /"
+%,A,"So/UH ,/,","{D So, } /"
+sd,B,"it/PRP 's/BES the/DT very/RB same/JJ type/NN of/IN paint/NN and/CC everything/NN ,/,","it's the very same type of paint and everything, /"
+ba,A,Gosh/UH ./.,Gosh. /
+%,B,"So/UH ,/,","{D So, } /"
+%,A,"So/UH you/PRP ,/,","{C So } you, - /"
+qw,A,"so/UH what/WP 's/BES your/PRP$ ,/,","{C so } what's your, - /"
+qw,A,what/WP 's/BES the/DT solution/NN then/RB ?/.,what's the solution then? /
+no,B,"Oh/UH ,/, I/PRP have/VBP no/DT idea/NN ./.","{F Oh, } I have no idea. /"
+sd,B,I/PRP repainted/VBD the/DT whole/JJ thing/NN ./.,I repainted the whole thing. /
+ba,A,"Oh/UH ,/, my/UH ./.","{F Oh, } my <laughter>. /"
+x,B,./.,<Laughter>.
+qy,A,"Well/UH ,/, at/IN least/JJS you/PRP 'll/MD get/VB very/RB good/JJ at/IN it/PRP ,/, right/JJ ?/.","{D Well, } at least you'll get very good at it, right? /"
+ny,B,Yeah/UH ./.,Yeah. /
+sv,A,"You/PRP could/MD go/VB back/RB and/CC ,/, and/CC paint/VB ,/,","You could go back [ and, + and ] paint,"
+aa,B,Yeah/UH ./.,Yeah. /
++,A,the/DT whole/JJ thing/NN over/RP,the whole thing over /
+sv,A,"that/DT 's/BES ,/, uh/UH ,/, this/DT is/VBZ an/DT interesting/JJ topic/NN that/IN they/PRP would/MD bring/VB up/RP painting/NN","[ that's, + {F uh, } this is ] an interesting topic that they would bring up painting /"
+sv,A,"because/RB it/PRP ,/, uh/UH ,/, it/PRP seems/VBZ like/IN everybody/NN has/VBZ a/DT ,/, you/PRP know/VBP ,/, to/TO go/VB in/RP and/CC do/VB ,/,","{C because } [ it, + {F uh, } it ] seems like everybody has [ a, + ] {D you know, } to go in and do, - /"
+sd,A,I/PRP 'll/MD just/RB do/VB a/DT little/JJ bit/NN here/RB and/CC a/DT little/RB there/RB ./.,I'll just do a little bit here and (( a little there )) . /
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"Although/IN ,/, the/DT ,/, uh/UH ,/,","Although, the, {F uh, } - /"
+%,A,"it/PRP 's/BES uh/UH ,/, it/PRP ,/,","[ it's + {F uh, } it, ] - /"
+%,A,"we/PRP almost/RB one/CD day/NN ,/,","we almost one day, - /"
+sd,A,"we/PRP painted/VBD the/DT house/NN to/TO ,/, uh/UH ,/,","we painted the house to, {F uh, } - /"
+sd,A,"we/PRP painted/VBD ,/, we/PRP painted/VBD the/DT whole/JJ inside/NN","[ we painted, + we painted ] the whole inside /"
+sd,A,and/CC it/PRP had/VBD all/PDT this/DT dark/JJ trim/NN ./.,{C and } it had all this dark trim. /
+sd,A,"We/PRP thought/VBD ,/, uh/UH ,/, you/PRP know/VBP ,/,","We thought, {F uh, } {D you know, } - /"
+sd,A,"we/PRP did/VBD the/DT one/CD wall/NN but/CC the/DT other/JJ trim/NN ,/,","we did the one wall but the other trim, - /"
+^h,A,"I/PRP 'm/VBP trying/VBG to/TO think/VB ,/,","I'm trying to think, /"
+sd,A,"I/PRP think/VBP ,/, I/PRP think/VBP we/PRP left/VBD most/JJS of/IN it/PRP because/IN it/PRP gets/VBZ to/TO be/VB ,/, uh/UH ,/,","[ I think, + I think ] we left most of it because it gets to be, {F uh, } - /"
+sd,A,they/PRP do/VBP n't/RB do/VB that/DT in/IN the/DT newer/JJR houses/NNS now/RB,they don't do that in the newer houses now /
+%,A,"we/PRP do/VBP n't/RB ,/,","we don't, -/"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"the/DT mold/NN ,/,","the (( mold )) ,"
+x,B,MUMBLEx/XX ./.,(( )) .
++,A,everything/NN is/VBZ white/JJ ./.,everything is (( white )) . /
+sd,A,In/IN a/DT new/JJ house/NN everything/NN is/VBZ white/JJ ./.,In a new house everything is white. /
+aa,B,"White/JJ ,/,","White, /"
+aa,B,yeah/UH ./.,yeah. /
+sd,B,That/DT 's/BES what/WP we/PRP 're/VBP trying/VBG to/TO get/VB ours/PRP to/TO look/VB like/JJ ./.,That's what we're trying to get ours to look like. /
+ba,A,"Oh/UH ,/, good/JJ luck/NN ./.","{F Oh, } good luck <laughter>. /"
+sd,A,We/PRP wound/VBD up/RP selling/VBG the/DT house/NN ./.,We wound up selling the house. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Actually/UH ,/, I/PRP ,/, I/PRP do/VBP n't/RB know/VB whether/IN it/PRP made/VBD ,/,","Actually, [ I, + I ] don't know whether it made, - /"
+sv,A,"actually/UH it/PRP does/VBZ ,/,","actually it does, /"
+sv,A,"it/PRP 's/BES interesting/JJ that/IN the/DT white/NN ,/, um/UH ,/, makes/VBZ the/DT rooms/NNS look/VB bigger/JJR ./.","it's interesting that the white, {F um, } makes the rooms look bigger. /"
+%,A,"One/CD of/IN the/DT ,/,","One of the, - /"
+sd,A,"in/IN our/PRP$ down/GW stairs/^NN in/IN our/PRP$ dining/NN room/NN we/PRP have/VBP a/DT formal/JJ dining/NN room/NN ,/, it/PRP has/VBZ molding/NN ,/, uh/UH ,/, like/IN picture/NN frames/NNS ,/, I/PRP do/VBP n't/RB know/VB what/WP you/PRP call/VBP that/DT --/:","in our down stairs in our dining room {A we have a formal dining room, } it has molding, {F uh, } like picture frames, I don't know what you [ call that -- +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: that/WDT actually/UH ,/, that/WDT are/VBP along/IN the/DT walls/NNS ,/, you/PRP know/VBP ,/, up/IN a/DT couple/NN of/IN feet/NNS ./.","-- that ] actually, that are along the walls, {D you know, } up a couple of feet. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC my/PRP$ wife/NN painted/VBD those/DT ,/, the/DT insides/NNS of/IN those/DT dark/JJ blue/JJ ./.","{C And } my wife <noise> painted [ those, + the insides of those ] dark blue. /"
+ba,B,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+sd,A,"And/CC ,/, uh/UH ,/, it/PRP makes/VBZ the/DT room/NN look/VB remarkably/RB smaller/JJR ./.","{C And, } {F uh, } it makes the room look remarkably smaller. /"
+qw^d,B,"Huh/UH ./. She/PRP painted/VBD the/DT insides/NNS dark/JJ blue/NN and/CC then/RB the/DT trim/NN ,/,","{F Huh. } She painted the insides dark blue and then the trim,"
+sd,A,"The/DT trim/NN ,/,","The trim,"
++,B,what/WP color/NN ?/.,(( what color )) ? /
++,A,is/VBZ still/RB white/JJ ./.,is still white. /
+bk,B,Okay/UH ./.,Okay. /
+%,A,"The/DT ,/,","[ The, +"
+b^m,B,White/JJ ./.,White. /
++,A,the/DT molding/NN --/:,the ] molding -- -/
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"--/: but/CC by/IN ,/,","-- {C but } by, - /"
+sd,A,"and/CC she/PRP did/VBD that/DT all/PDT the/DT way/NN around/IN the/DT room/NN which/WDT makes/VBZ it/PRP look/VB very/RB attractive/JJ ,/,","{C and } she did that all the way around the room which makes it look very attractive, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"but/CC it/PRP makes/VBZ the/DT room/NN look/VB smaller/JJR which/WDT is/VBZ ,/, uh/UH --/:","{C but } it makes the room look smaller [ which is, + {F uh } --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: uh/UH ,/, which/WDT is/VBZ ,/,","-- {F uh, } which is, ] -/"
+x,B,./.,<Sniffing>.
+sv,A,"it/PRP explains/VBZ why/WRB they/PRP ,/, why/WRB they/PRP have/VBP everything/NN white/JJ","it explains [ why they, + why they ] have everything white /"
+sv,A,"but/CC I/PRP ,/,","{C but } [ I, +"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"you/PRP would/MD n't/RB think/VB that/IN I/PRP ,/,","you wouldn't think that I, - /"
+sv,A,"well/UH ,/, maybe/RB ,/,","{D well, } [ maybe, +"
+b,B,Yeah/UH ./.,Yeah. /
++,A,maybe/RB that/DT understands/VBZ colors/NNS would/MD know/VB all/DT of/IN that/DT stuff/NN,maybe ] that understands colors would know all of that stuff /
+%,A,"but/CC ,/,","{C but, } -/"
+qw,B,"Well/UH ,/, uh/UH ,/, what/WP about/IN the/DT lighting/NN ?/.","{D Well, } {F uh, } what about the lighting? /"
+qy,B,Did/VBD it/PRP make/VB a/DT big/JJ difference/NN ?/.,Did it make a big difference? /
+ng,A,"Uh/UH ,/, not/RB particularly/RB","{F Uh, } not particularly /"
+sd,A,because/RB the/DT house/NN has/VBZ so/RB many/JJ windows/NNS --/:,{C because } the house has so many windows -- /
+bk,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+%,A,"--/: uh/UH ,/, it/PRP has/VBZ","-- {F uh, } it has - /"
+sd,A,"the/DT ,/, the/DT ,/, the/DT living/NN room/NN has/VBZ four/CD ,/, uh/UH ,/, good/JJ size/NN windows/NNS","[ [ the, + the, ] + the ] living room has four, {F uh, } good size windows /"
+sd,A,"and/CC ,/, uh/UH ,/, well/UH ,/, of/IN course/NN ,/, at/IN night/NN","{C and, } {F uh, } {D well, } of course, at night - /"
+%,A,"but/CC with/IN the/DT ,/,","{C but } with the, - /"
+sd,A,"we/PRP have/VBP ,/, we/PRP have/VBP a/DT soccer/NN field/NN --/:","[ we have, + <laughter> we have ] a soccer field --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: that/WDT 's/BES ,/, um/UH ,/, oh/UH ,/, about/IN a/DT hundred/CD yards/NNS from/IN our/PRP$ house/NN","-- that's, {F um, } {F oh, } about a hundred yards from our house /"
+sd,A,and/CC the/DT lights/NNS shine/VBP right/RB at/IN our/PRP$ house/NN ./.,{C and } the lights shine right at our house. /
+%,A,"It/PRP 's/BES kind/RB of/RB ,/,","It's kind of, - /"
+sd,A,we/PRP did/VBD n't/RB know/VB that/DT when/WRB we/PRP bought/VBD the/DT house/NN,we didn't know that when we bought the house /
+%,A,"but/CC ,/,","{C but, } -/"
+%,B,"So/IN that/IN ,/, uh/UH ,/,","{C So } that, {F uh, } - /"
+%,B,"you/PRP get/VBP some/DT ,/,","you get some, - /"
+qy^d,B,"the/DT color/NN does/VBZ n't/RB really/RB matter/VB for/IN ,/, because/IN you/PRP have/VBP that/DT light/NN ./.","the color doesn't really matter [ for, + ] because you have that light. /"
+ny,A,Yeah/UH ./.,Yeah. /
+sd,A,"We/PRP have/VBP a/DT lot/NN of/IN light/NN ,/,","We have a lot of light, /"
+ny,A,yeah/UH ./.,yeah. /
+sd,A,"And/CC ,/, well/UH ,/, it/PRP ,/, it/PRP ,/, it/PRP ,/, um/UH ,/, well/UH ,/, it/PRP 's/BES just/RB ,/, uh/UH ,/, I/PRP think/VBP it/PRP 's/BES just/RB the/DT ,/, the/DT ,/, the/DT dark/JJ blue/NN to/IN about/RB three/CD feet/NNS","{C And, } {D well, } [ [ [ [ it, + it, ] + it, ] + {F um, } {D well, } it's ] just, + {F uh, } I think it's just ] [ [ the, + the, ] + the ] dark blue to about three feet /"
+sd,A,and/CC then/RB above/IN that/DT we/PRP left/VBD it/PRP white/JJ,and then above that we left it white /
+sd,A,"so/UH ./. Anyway/RB ,/, it/PRP did/VBD n't/RB ,/,","{C so. } Anyway, [ it didn't, +"
+ba,B,I/PRP see/VBP ./.,(( I see )) . /
++,A,it/PRP did/VBD n't/RB change/VB,it didn't ] change /
+sd,A,"but/CC the/DT ,/, the/DT interesting/JJ thing/NN is/VBZ that/DT paint/NN we/PRP wound/VBD up/RP having/VBG to/TO go/VB back/RB and/CC scrape/VB some/DT of/IN that/DT away/RB","{C but } [ the, + the ] interesting thing is that paint we wound up having to go back and scrape some of that away /"
+%,A,"it/PRP did/VBD n't/RB ,/,","it didn't, - /"
+sd,A,"it/PRP kind/RB of/RB bled/VBD under/IN the/DT masking/NN tape/NN which/WDT ,/, I/PRP guess/VBP ,/, is/VBZ probably/RB the/DT topic/NN we/PRP 're/VBP --/:","it kind of bled under the masking tape which, I guess, is probably the topic [ we're -- +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: we/PRP 're/VBP really/RB on/IN to/IN that/IN ,/, that/IN the/DT masking/NN is/VBZ ,/,","-- we're ] really on to [ that, + that ] the masking is, - /"
+sd,A,"you/PRP have/VBP to/TO do/VB that/DT very/RB ,/, very/RB carefully/RB ./.","you have to do that very, very carefully. /"
+sd,B,"And/CC it/PRP takes/VBZ a/DT long/JJ time/NN ,/,","{C And } it takes a long time, /"
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+sv,A,You/PRP can/MD work/VB yourself/PRP to/IN death/NN ./.,You can work yourself to death. /
+"fo_o_fw_""_by_bc",A,"Well/UH ,/, I/PRP 'm/VBP sorry/JJ to/TO hear/VB your/PRP$ color/NN did/VBD n't/RB come/VB out/RP so/RB good/JJ over/IN the/DT weekend/NN ./.","{D Well, } I'm sorry to hear your color didn't come out so good over the weekend. /"
+aa,B,Yeah/UH ./.,Yeah. /
+aa,B,"Really/UH ,/,","Really, /"
+aa,B,no/DT kidding/NN ./.,no kidding. /
+sv,A,It/PRP 's/BES kind/RB of/RB frustrating/JJ ./.,It's kind of frustrating. /
+aa,B,It/PRP is/VBZ ./.,It is. /
+sv,B,"A/DT lot/NN of/IN work/NN ,/,","A lot of work, /"
+sv,B,a/DT lot/NN of/IN work/NN ./.,a lot of work. /
+sd,A,"Well/UH ,/, I/PRP 've/VBP got/VBN to/TO go/VB to/IN a/DT meeting/NN ./.","{D Well, } I've got to go to a meeting. /"
+fc,A,It/PRP 's/HVS been/VBN good/JJ talking/VBG to/IN you/PRP ./.,It's been good talking to you. /
+fc,B,Nice/JJ talking/VBG to/IN you/PRP ./.,Nice talking to you. /
+fc,A,Okay/UH ./.,Okay. /
+fc,A,Good-bye/UH ./.,Good-bye. /
+fc,B,Bye/UH ./.,Bye </Children> </TV> </noises> <<kitchen sounds in background>>. /

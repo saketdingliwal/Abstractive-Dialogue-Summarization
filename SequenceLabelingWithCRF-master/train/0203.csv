@@ -1,0 +1,114 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",B,"Okay/UH ,/,","Okay, /"
+qw,B,what/WP do/VBP you/PRP feel/VB are/VBP some/DT of/IN the/DT main/JJ problems/NNS ?/.,what do you feel are some of the main problems? /
+sd,A,"Well/UH ,/, I/PRP 'm/VBP in/IN a/DT ,/, I/PRP 'm/VBP in/IN an/DT urban/JJ area/NN ./.","{D Well, } [ I'm in a, + I'm in an ] urban area. /"
+sd,A,I/PRP 'm/VBP in/IN Dallas/NNP ./.,I'm in Dallas. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC we/PRP 're/VBP finding/VBG that/IN crime/NN is/VBZ going/VBG up/RB very/RB quickly/RB and/CC has/VBZ become/VBN a/DT major/JJ problem/NN ,/, uh/UH ,/, even/RB a/DT more/RBR major/JJ problem/NN ./.","{C And } we're finding that crime is going up very quickly and has become a major problem, {F uh, } even a more major problem. /"
+sd,A,"Uh/UH ,/, in/IN Dallas/NNP ,/, some/DT of/IN the/DT major/JJ problems/NNS ,/, uh/UH ,/,","{F Uh, } in Dallas, some of the major problems, {F uh, } - /"
+sd,A,"drugs/NNS seems/VBZ to/TO be/VB re/VBN ,/, related/VBN to/IN quite/RB a/DT bit/NN of/IN the/DT crime/NN we/PRP have/VBP now/RB ./.","drugs seems to be [ re-, + related ] to quite a bit of the crime we have now. /"
+sd,A,"There/EX is/VBZ a/DT lot/NN of/IN theft/NN ,/, a/DT lot/NN of/IN assault/NN dealing/VBG with/IN ,/, uh/UH ,/, people/NNS trying/VBG to/TO get/VB money/NN for/IN drugs/NNS ./.","There is a lot of theft, a lot of assault dealing with, {F uh, } people trying to get money for drugs. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC ,/, uh/UH ,/, I/PRP think/VBP that/DT 's/BES a/DT national/JJ problem/NN ,/, though/RB ./.","{C And, } {F uh, } I think that's a national problem, though. /"
+sd,B,"It/PRP ,/, it/PRP ,/, it/PRP 's/BES --/:","[ [ It, + it, ] + it's -- ]"
+sv,A,"It/PRP 's/BES not/RB unique/JJ ,/,","It's not unique, /"
++,B,"--/: pretty/RB bad/JJ here/RB ,/, too/RB ./.","-- pretty bad here, too. /"
+sd,B,We/PRP 've/VBP had/VBN a/DT lot/NN of/IN murders/NNS drug/NN related/JJ and/CC stuff/NN ./.,We've had a lot of murders drug related and stuff.
+b,A,Yes/UH ./.,Yes. /
++,B,"In/IN Durham/NNP ,/, which/WDT is/VBZ right/RB next/RB to/IN Raleigh/NNP ./.","In Durham, which is right next to Raleigh. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"Well/UH ,/, now/RB ,/, we/PRP 're/VBP pretty/RB close/RB to/IN the/DT golden/JJ triangle/NN ,/, are/VBP n't/RB you/PRP ?/.","{D Well, } now, we're pretty close to the golden triangle, aren't you? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"that/DT ,/, that/DT","[ that, + that ] - /"
+sd,B,"Durham/NNP ,/, Raleigh/NNP ,/, and/CC Chapel/NNP Hill/NNP is/VBZ the/DT triangle/NN ./.","Durham, Raleigh, and Chapel Hill is the triangle. /"
+aa,A,"Right/UH ,/,","Right, /"
+bf,A,research/NN triangle/NN --/:,research triangle --
+aa,B,Right/UH ./.,Right. /
++,A,--/: and/CC all/DT of/IN that/DT ./.,-- and all of that. /
+sv,A,"And/CC ,/, uh/UH ,/, I/PRP 'm/VBP sure/JJ you/PRP have/VBP a/DT lot/NN of/IN students/NNS there/RB ,/, uh/UH ,/, and/CC a/DT lot/NN of/IN researchers/NNS","{C And, } {F uh, } I'm sure you have a lot of students there, {F uh, } and a lot of researchers /"
+sv,A,"so/RB you/PRP ,/, you/PRP may/MD have/VB a/DT ,/, you/PRP know/VBP ,/, perhaps/RB a/DT little/RB better/JJR economic/JJ climate/NN ,/,","{C so } [ you, + you ] may have [ a, + {D you know, } perhaps a ] little better economic climate, /"
+sv,A,"but/CC ,/, in/IN all/DT your/PRP$ cities/NNS now/RB ,/, it/PRP seems/VBZ like/IN th-/EX ,/, there/EX is/VBZ a/DT ,/, a/DT crowd/NN that/WDT 's/BES really/RB effected/JJ by/IN this/DT bill/NN ./.","{C but, } in all your cities now, it seems like [ th-, + there ] is [ a, + a ] crowd that's really effected by this bill. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"it/PRP 's/BES ,/, it/PRP 's/BES really/RB ,/, it/PRP 's/BES ,/,","[ [ it's, + it's ] + really, it's, ] - /"
+sd,B,"and/CC I/PRP 've/VBP seen/VBN in/IN more/RBR in/IN Durham/NNP than/IN I/PRP have/VBP in/IN Raleigh/NNP or/CC ,/, or/CC --/:","{C and } I've seen in more in Durham than I have in Raleigh [ [ or, + or -- ] +"
+bh,A,Really/UH ?/.,Really? /
++,B,--/: or/CC Chapel/NNP Hill/NNP ./.,-- or ] Chapel Hill. /
+sd,B,"Chapel/NNP Hill/NNP is/VBZ kind/RB of/RB a/DT ,/, a/DT ritzy/JJ city/NN or/CC whatever/WP ./.","Chapel Hill is kind of [ a, + a ] ritzy city or whatever. /"
+sd,B,"I/PRP mean/VBP ,/, it/PRP 's/BES kind/RB of/RB ,/,","{E I mean, } it's kind of, - /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP sure/JJ there/EX is/VBZ problems/NNS with/IN it/PRP ,/,","[ I'm, + I'm ] sure there is problems with it, /"
+sd,B,"but/CC it/PRP has/VBZ a/DT pretty/RB low/JJ crime/NN rate/NN ./. Compare/^VBN ,/, compared/VBN to/IN ,/, to/IN ,/, Durham/NNP has/VBZ probably/RB got/VBN the/DT worst/JJS ./.","{C but } it has a pretty low crime rate. [ Compare, + compared ] [ to, + to, ] Durham has probably got the worst. /"
+sd,B,They/PRP 've/VBP had/VBN like/IN forty-eight/CD murders/NNS since/IN the/DT beginning/NN of/IN the/DT year/NN ./.,They've had {D like } forty-eight murders since the beginning of the year. /
+bh,A,Really/UH ?/.,Really? /
+sd,B,And/CC over/IN half/NN of/IN it/PRP has/VBZ been/VBN drug/NN related/JJ ./.,{C And } over half of it has been drug related. /
+sd,A,"Um/UH ./. Well/UH ,/, here/RB ,/, uh/UH ,/, I/PRP 'm/VBP not/RB sure/JJ how/WRB many/JJ Dallas/NNP has/VBZ had/VBN ./.","{F Um. } {D Well, } here, {F uh, } I'm not sure how many Dallas has had. /"
+%,A,"I/PRP 've/VBP ,/, uh/UH ,/,","I've, {F uh, } - /"
+sd,A,"Houston/NNP is/VBZ averaging/VBG about/RB two/CD a/DT week/NN or/CC three/CD or/CC four/CD ,/,","Houston is averaging about two a week or three or four, /"
+h,A,"I/PRP ,/, I/PRP do/VBP n't/RB know/VB ./.","[ I, + I ] don't know. /"
+sd,A,"A/DT ,/, a/DT number/NN every/DT week/NN ./.","[ A, + a ] number every week. -/"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Uh/UH ,/, Dallas/NNP is/VBZ having/VBG quite/RB a/DT few/JJ ./.","{F Uh, } Dallas is having quite a few. /"
+sd,A,"Seems/NNP like/IN most/JJS of/IN ours/PRP$ are/VBP occurring/VBG in/IN late/RB at/IN night/NN or/CC ,/, or/CC ,/, like/IN I/PRP say/VB ,/VBP drug/NN related/JJ ./.","Seems like most of ours are occurring in late at night [ or, + or, ] like I say, drug related. /"
+sv,A,"Uh/UH ,/, I/PRP guess/VBP the/DT other/JJ thing/NN was/VBD that/WDT are/VBP causing/VBG a/DT lot/NN of/IN the/DT crime/NN now/RB is/VBZ the/DT decrease/NN in/IN values/NNS ./.","{F Uh, } I guess the other thing was that are causing a lot of the crime now is the decrease in values. /"
+sv,A,"Seems/NNP like/IN a/DT ,/, a/DT lot/NN of/IN people/NNS do/VBP n't/RB hold/VB human/NN life/NN quite/RB as/RB high/RB as/IN perhaps/RB they/PRP used/VBD to/TO ./.","Seems like [ a, + a ] lot of people don't hold human life quite as high as perhaps they used to. /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"Uh/UH ,/, I/PRP ,/,","{F Uh, } I, -/"
+%,B,"Well/UH ,/, that/DT ,/,","{D Well, } that, - /"
+sd,B,"and/CC the/DT ,/, and/CC the/DT economy/NN is/VBZ so/RB bad/JJ","[ {C and } the, + {C and } the ] economy is so bad /"
+sd,B,"and/CC ,/,","[ {C and, } +"
+bf,A,The/DT economy/NN is/VBZ lousy/JJ ./.,The economy is lousy <laughter>. /
++,B,And/CC so/RB many/JJ people/NNS have/VBP been/VBN laid/VBN off/RP and/CC stuff/NN ./.,{C And so } ] many people have been laid off and stuff. /
+sd,B,"They/PRP 've/VBP done/VBN special/JJ stories/NNS on/IN the/DT news/NN ,/, local/JJ news/NN here/RB ./.","They've done special stories on the news, local news here. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"We/PRP had/VBD a/DT lot/NN of/IN bank/NN robberies/NNS and/CC different/JJ ,/, lot/NN of/IN break/GW ins/^NNS and/CC stuff/NN ./.","We had a lot of bank robberies and [ different, + lot of ] break ins and stuff. /"
+sd,B,"I/PRP know/VBP ,/, like/IN a/DT week/NN or/CC so/RB ago/RB ,/,","I know, like a week or so ago, - /"
+sd,B,"I/PRP live/VBP in/IN a/DT ,/, in/IN a/DT town/NN house/NN ,/, which/WDT is/VBZ ,/, you/PRP know/VBP ,/,","I live [ in a, + in a ] town house, which is, {D you know, } - /"
+sd,B,it/PRP 's/BES a/DT pretty/RB nice/JJ neighborhood/NN,it's a pretty nice neighborhood /
+sd,B,"and/CC this/DT lady/NN was/VBD going/VBG to/IN work/NN ,/,","{C and } this lady was going to work, /"
+sd,B,"she/PRP came/VBD home/RB and/CC everything/NN in/IN her/PRP$ house/NN was/VBD total/RB gone/JJ ,/, light/JJ fixtures/NNS ,/, everything/NN ./.","she came home and everything in her house was total gone, light fixtures, everything. /"
+sd,B,"And/CC nobody/NN thought/VBD any/DT different/JJ ,/,","{C And } nobody thought any different, /"
+sd,B,they/PRP just/RB thought/VBD she/PRP was/VBD moving/VBG ./.,they just thought she was moving. /
+sd,B,"It/PRP was/VBD a/DT moving/VBG man/NN pulled/VBD right/RB up/IN to/IN her/PRP house/NN ,/, broke/VBD in/IN and/CC stole/VBD everything/NN she/PRP owned/VBD ./.","It was a moving man pulled right up to her house, broke in and stole everything she owned <laughter>. /"
+sv,A,"Boy/UH that/DT really/RB ,/, that/DT really/RB takes/VBZ someone/NN who/WP is/VBZ bold/JJ to/TO do/VB that/DT ./.","Boy [ that really, + that really ] takes someone who is bold to do that. /"
+aa,B,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+sv,B,"it/PRP 's/BES ,/, it/PRP 's/BES ,/, it/PRP 's/BES pretty/RB bad/JJ ./.","[ [ it's, + it's, ] + it's ] pretty bad <laughter>. /"
+qy,A,"Well/UH ,/, now/UH ,/, do/VBP you/PRP find/VB that/IN security/NN is/VBZ very/RB good/JJ in/IN ,/, in/IN a/DT ,/, in/IN a/DT town/NN home/NN ?/.","{D Well, } now, do you find that security is very good [ [ in, + in a, ] + in a ] town home? /"
+na,B,"Uh/UH ,/, I/PRP would/MD say/VB so/RB for/IN the/DT majority/NN in/IN ,/, in/IN our/PRP$ ,/, in/IN my/PRP$ little/JJ section/NN of/IN the/DT neighborhood/NN because/IN there/EX is/VBZ always/RB somebody/NN at/IN home/NN --/:","{F Uh, } I would say so for the majority [ [ in, + in our, ] + in my ] little section of the neighborhood because there is always somebody at home -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: and/CC we/PRP all/DT know/VBP one/CD another/DT,-- {C and } we all know one another /
+sd,B,"and/CC ,/, and/CC ,/, on/IN our/PRP$ one/CD little/JJ section/NN of/IN the/DT street/NN we/PRP all/DT know/VBP one/CD another/DT and/CC know/VBP that/IN we/PRP 're/VBP not/RB moving/VBG and/CC different/JJ things/NNS like/IN that/DT ./.","[ {C and, } + {C and, } ] on our one little section of the street we all know one another and know that we're not moving <laughter> and different things like that. /"
+%,A,"Well/UH ,/, that/DT ,/,","{D Well, } that, -/"
+%,B,"It/PRP 's/BES ,/,","It's, - /"
+sd,B,"I/PRP ,/, I/PRP 'm/VBP ,/, I/PRP 'm/VBP probably/RB the/DT ,/, one/CD of/IN the/DT youngest/JJS people/NNS that/WDT live/VBP over/IN here/RB ./.","[ [ I, + I'm, ] + I'm ] probably [ the, + one of the ] youngest people that live over here. /"
+bk,A,I/PRP see/VBP ./.,I see. /
+sd,B,"Most/JJS people/NNS are/VBP ,/, are/VBP ,/, retired/JJ","Most people [ are, + are, ] retired /"
+sd,B,"or/CC ,/, or/CC ,/, or/CC ,/, you/PRP know/VBP ,/, they/PRP 're/VBP ,/, they/PRP 're/VBP in/IN their/PRP$ forties/NNS or/CC ,/, or/CC whatever/WP ./.","[ [ {C or, } + {C or, } ] + {C or, } ] {D you know, } [ they're, + they're ] in their forties [ or, + or ] whatever. /"
+sd,B,"So/UH and/CC I/PRP 'm/VBP in/IN my/PRP$ twenties/NNS ,/,","[ {C So } + {C and } ] I'm in my twenties, /"
+sd,B,"so/RB I/PRP ,/, I/PRP 'm/VBP ,/, I/PRP 'm/VBP out/RB more/RBR than/IN they/PRP are/VBP ,/,","{C so } [ [ I, + I'm, ] + I'm ] out more than they are, /"
+sd,B,but/CC --/:,{C but } --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: they/PRP 're/VBP at/IN home/NN at/IN night/NN ,/,","-- they're at home at night, /"
+sd,B,so/RB I/PRP really/RB do/VBP n't/RB worry/VB about/IN anything/NN ./.,{C so } I really don't worry about anything. /
+sv,A,"Well/UH ,/, I/PRP think/VBP you/PRP hit/VBP on/IN one/CD point/NN there/EX is/VBZ you/PRP know/VBP each/DT other/JJ ./.","{D Well, } I think you hit on one point there is you know each other. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP in/IN a/DT neighborhood/NN where/WRB we/PRP try/VBP to/TO keep/VB up/RP with/IN everything/NN ./.","[ I'm, + I'm ] in a neighborhood where we try to keep up with everything. /"
+sd,A,"Uh/UH ,/, I/PRP am/VBP ,/, oh/UH ,/, about/RB three/CD blocks/NNS off/IN a/DT major/JJ road/NN and/CC ,/, uh/UH ,/, a/DT couple/NN of/IN blocks/NNS off/IN another/DT road/NN that/DT kind/RB of/RB runs/VBZ ,/,","{F Uh, } I am, {F oh, } about three blocks off a major road and, {F uh, } a couple of blocks off another road that kind of runs, - /"
+sd,A,"I/PRP guess/VBP you/PRP would/MD say/VB the/DT neighborhood/NN road/NN ,/, it/PRP runs/VBZ between/IN the/DT high/JJ school/NN and/CC the/DT ,/, the/DT commercial/JJ districts/NNS","I guess you would say the neighborhood road, it runs between the high school and [ the, + the ] commercial districts /"
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP 'm/VBP over/IN the/DT northeast/JJ part/NN of/IN Dallas/NNP ./.","{C and, } {F uh, } I'm over the northeast part of Dallas. /"
+sd,A,"It/PRP 's/BES a/DT ,/, in/IN a/DT nice/JJ neighborhood/NN ./.","It's [ a, + in a ] nice neighborhood. /"
+sd,A,"The/DT houses/NNS here/RB ,/, uh/UH ,/, before/IN the/DT recession/NN were/VBD running/VBG two/CD hundred/CD thousand/CD or/CC so/RB","The houses here, {F uh, } before the recession were running two hundred thousand or so /"
+sd,A,"and/CC ,/, course/NN ,/, everything/NN 's/BES down/RB ten/CD to/IN twenty/CD percent/NN now/RB ./.","{C and, } course, everything's down ten to twenty percent now. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"see/UH ,/, that/DT 's/BES the/DT same/JJ thing/NN here/RB ./.","{D see, } that's the same thing here. /"
+sd,A,"But/CC we/PRP have/VBP ,/, uh/UH ,/,","{C But } we have, {F uh, } - /"
+sd,A,"one/CD ,/, one/CD thing/NN that/WDT effects/VBZ us/PRP is/VBZ we/PRP have/VBP apartments/NNS that/WDT are/VBP probably/RB about/RB a/DT half/JJ mile/NN away/RB","[ one, + one ] thing that effects us is we have apartments that are probably about a half mile away /"
+sd,A,"and/CC now/RB the/DT economy/NN is/VBZ bad/JJ ,/,","{C and } now the economy is bad, /"
+sd,A,they/PRP have/VBP trouble/NN keeping/VBG those/DT full/JJ,they have trouble keeping those full /
+sd,A,"so/RB they/PRP 've/VBP dropped/VBN the/DT ,/, uh/UH ,/,","{C so } they've dropped the, {F uh, } - /"
+sd,A,they/PRP 're/VBP not/RB nearly/RB as/RB selective/JJ as/IN they/PRP used/VBD to/TO be/VB ./.,they're not nearly as selective as they used to be. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC ,/, course/NN ,/, that/WDT 's/BES kind/RB of/RB like/IN a/DT cancer/NN in/IN an/DT apartment/NN complex/NN ./.","{C And, } course, that's kind of like a cancer in an apartment complex. /"
+sv,A,You/PRP start/VBP letting/VBG that/DT happen/VB and/CC they/PRP go/VBP down/RB,You start letting that happen and they go down /
+sv,A,and/CC then/RB before/IN you/PRP know/VBP it/PRP you/PRP have/VBP drugs/NNS and/CC a/DT lot/NN of/IN other/JJ things/NNS,{C and then } before you know it you have drugs and a lot of other things /
+sv,A,"so/UH ,/, uh/UH ,/, I/PRP 'm/VBP sure/JJ that/DT aggravates/VBZ it/PRP also/RB ./.","{C so, } {F uh, } I'm sure that aggravates it also. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"But/CC ,/, unemployment/NN now/RB in/IN Dallas/NNP ,/, or/CC in/IN Texas/NNP is/VBZ up/IN around/IN six/CD point/NN ,/,","{C But, } unemployment now in Dallas, or in Texas is up around six point, -/"

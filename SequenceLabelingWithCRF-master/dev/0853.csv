@@ -1,0 +1,92 @@
+act_tag,speaker,pos,text
+sv,A,"Actually/RB ,/, to/TO tell/VB you/PRP the/DT truth/NN ,/, I/PRP think/VBP ,/, uh/UH ,/, jury/NN selection/NN is/VBZ a/DT ,/, uh/UH ,/, prime/JJ ,/, uh/UH ,/, discussion/NN topic/NN in/IN terms/NNS of/IN possible/JJ improvements/NNS on/IN ,/, uh/UH ,/, uh/UH ,/, finding/VBG of/IN ,/, uh/UH ,/, guilt/NN ./.","{D Actually, } to tell you the truth, I think, {F uh, } jury selection is a, {F uh, } prime, {F uh, } discussion topic in terms of possible improvements on, {F uh, } {F uh, } finding of, {F uh, } guilt. /"
+aa,B,"Uh/UH ,/, I/PRP certainly/RB ca/MD n't/RB argue/VB with/IN that/DT ./.","{F Uh, } I certainly can't argue with that. /"
+sv,B,"Definitely/RB does/VBZ need/VB some/DT improvements/NNS ./. Uh/UH ,/,","Definitely does need some improvements. {F Uh, } /"
+x,A,./.,<Throat_clearing>.
+sv,B,and/CC the/DT lawyers/NNS can/MD throw/VB people/NNS out/RB for/IN no/DT reason/NN whatsoever/WRB just/RB because/IN they/PRP want/VBP to/TO ./.,{C and } the lawyers can throw people out for no reason whatsoever just because they want to. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,I/PRP think/VBP there/EX 's/BES a/DT limit/NN on/IN that/DT ./.,I think there's a limit on that. /
+sd,A,"The/DT ,/, uh/UH ,/, the/DT ,/, uh/UH --/:","[ The, + {F uh, } the, ] {F uh } --"
+sd,B,"I/PRP think/VBP it/PRP 's/BES ,/,","I think it's,"
++,A,"--/: peremptory/JJ challenges/NNS are/VBP limited/VBN to/IN ,/, I/PRP do/VBP n't/RB know/VB how/WRB many/JJ ,/,","-- peremptory challenges are limited to, I don't know how many, /"
+%,A,"but/CC you/PRP can/MD ,/,","{C but } you can, -/"
++,B,"Four/CD or/CC five/CD ,/,","Four or five, /"
+h,B,I/PRP ca/MD n't/RB remember/VB which/WDT ./.,I can't remember which. /
+sd,B,I/PRP was/VBD on/IN a/DT jury/NN trial/NN last/JJ year/NN,I was on a jury trial last year /
+sd,B,"only/RB I/PRP got/VBD kicked/JJ out/RP as/IN ,/, uh/UH ,/, the/DT last/JJ selection/NN that/WDT the/DT ,/, uh/UH ,/, defense/NN got/VBD ./.","only I got kicked out as, {F uh, } the last selection <siren> that the, {F uh, } defense got. /"
+b,A,"Um/UH ./. Yeah/UH ,/,","{F Um. } Yeah, /"
+sd,A,it/PRP seems/VBZ to/IN me/PRP I/PRP 'm/VBP always/RB challenged/VBN peremptorily/RB also/RB when/WRB I/PRP go/VBP to/IN these/DT things/NNS ./.,it seems to me I'm always challenged peremptorily also when I go to these things. /
+sd,A,I/PRP think/VBP I/PRP have/VBP a/DT severe/JJ demeanor/NN or/CC something/NN ./.,I think I have a severe demeanor or something. /
+%,B,Um/UH ./.,{F Um. } /
+%,A,"Uh/UH ,/,","{F Uh, } /"
+%,B,"That/DT ,/, uh/UH ,/,","That, {F uh, } -/"
+sv,A,"But/CC ,/, typically/RB ,/, you/PRP know/VBP ,/, basic-/RB ,/, uh/UH ,/, typically/RB ,/, uh/UH ,/, everyone/NN gets/VBZ involved/VBN in/IN ,/, uh/UH ,/, the/DT jury/NN process/NN","{C But, } [ [ typically, + {D you know, } basic-, ] + {F uh, } typically, ] {F uh, } everyone gets involved in, {F uh, } the jury process /"
+sv,A,"and/CC I/PRP suppose/VBP an/DT elitist/NN might/MD say/VB ,/, well/UH ,/, you/PRP really/RB want/VBP someone/NN who/WP is/VBZ well/RB educated/JJ to/TO be/VB able/JJ to/TO ,/, to/TO winnow/VB the/DT facts/NNS from/IN the/DT ,/, from/IN the/DT prejudice/NN ./.","{C and } I suppose an elitist might say, {D well, } you really want someone who is well educated to be able [ to, + to ] winnow the facts [ from the, + from the ] prejudice. /"
+aa,B,"Right/UH ,/,","Right, /"
+sv,B,but/CC it/PRP still/RB has/VBZ to/TO be/VB a/DT group/NN of/IN your/PRP$ peers/NNS ./.,{C but } it still has to be a group of your peers. /
+b,A,Right/UH ./.,Right. /
+%,B,See/VB ./.,{D See. } -/
+%,A,"So/RB ,/,","{D So, } -/"
+sd,B,"So/RB ,/, if/IN it/PRP 's/BES your/PRP$ peers/NNS and/CC you/PRP 're/VBP not/RB educated/JJ --/:","{C So, } if it's your peers and you're not educated --"
+sv,A,So/RB if/IN you/PRP 're/VBP a/DT --/:,{C So } if you're a --
++,B,"--/: then/RB ,/,","-- then, -/"
++,A,"--/: nincompoop/NN on/IN trial/NN ,/, you/PRP 'd/MD ,/, you/PRP 'd/MD have/VB to/TO have/VB --/:","-- nincompoop on trial, [ you'd, + you'd ] have to have --"
+sv,B,You/PRP want/VBP --/:,[ You want -- +
++,A,"--/: nincompoops/NNS to/IN ,/, uh/UH ,/,","-- nincompoops to, {F uh, } -/"
++,B,--/: you/PRP want/VBP a/DT nincompoop/NN jury/NN because/IN they/PRP 'll/MD sympathize/VB with/IN you/PRP a/DT bit/NN --/:,-- you want ] a nincompoop jury because they'll sympathize with you a bit --
+%,A,Um/UH ./.,{F Um. } /
++,B,--/: as/RB well/RB as/IN hopefully/RB being/VBG honest/JJ people/NNS and/CC do/VBP their/PRP$ best/JJS to/TO comply/VB with/IN the/DT facts/NNS as/IN they/PRP were/VBD presented/VBN to/IN them/PRP ./.,-- as well as hopefully being honest people and do their best to comply with the facts as they were presented to them. /
+sv,B,"So/RB ,/, that/DT 's/BES why/WRB the/DT defense/NN is/VBZ there/RB picking/VBG through/IN them/PRP ,/, whereas/IN at/IN the/DT same/JJ time/NN ,/, the/DT ,/, uh/UH ,/, the/DT prosecutor/NN sitting/VBG there/EX picking/VBG through/IN them/PRP because/IN he/PRP wants/VBZ somebody/NN who/WP will/MD give/VB him/PRP ,/, uh/UH ,/, a/DT guilty/JJ verdict/NN if/IN the/DT facts/NNS warrant/VB ./.","{C So, } that's why the defense is there picking through them, whereas at the same time, [ the, + {F uh, } the ] prosecutor sitting there picking through them because he wants somebody who will give him, {F uh, } a guilty verdict if the facts warrant. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"So/RB ,/, uh/UH ,/, I/PRP think/VBP the/DT jury/NN selection/NN process/NN is/VBZ pretty/RB neat/JJ ,/,","{C So, } {F uh, } I think the jury selection process is pretty neat, /"
+sv,B,but/CC I/PRP do/VBP n't/RB think/VB that/IN the/DT jury/NN ought/MD to/TO be/VB the/DT ones/NNS picking/VBG the/DT punishment/NN --/:,{C but } I don't think that the jury ought to be the ones picking the punishment --
+%,A,Um/UH ./.,{F Um. } /
++,B,--/: afterwards/RB ./.,-- afterwards. /
+sv,B,I/PRP think/VBP that/DT should/MD be/VB left/VBN up/IN to/IN people/NNS who/WP have/VBP some/DT knowledge/NN in/IN the/DT subject/NN and/CC more/JJR knowledge/NN than/IN a/DT jury/NN would/MD have/VB ./.,I think that should be left up to people who have some knowledge in the subject and more knowledge than a jury would have. /
+qy,B,"M-/XX ,/, you/PRP 're/VBP talking/VBG about/IN ,/, the/DT person/NN 's/HVS already/RB been/VBN found/VBN guilty/JJ ,/, right/RB --/:","[ M-, + ] you're talking about, the person's already been found guilty, right -- /"
+ny,A,"Uh-huh/UH ,/,","Uh-huh, /"
+ny,A,uh-huh/UH ./.,uh-huh. /
+sd,B,"--/: and/CC many/JJ times/NNS I/PRP 've/VBP seen/VBN on/IN trials/NNS they/PRP have/VBP on/IN T/NN V/NN ,/, the/DT jury/NN will/MD make/VB a/DT recommendation/NN as/IN to/IN leniency/NN or/CC as/IN to/IN the/DT death/NN penalty/NN or/CC whatever/WDT ,/,","-- {C and } many times I've seen on trials they have on T V, the jury will make a recommendation as to leniency or as to the death penalty or whatever, /"
+sv,B,"but/CC I/PRP think/VBP that/IN it/PRP should/MD be/VB up/IN to/IN the/DT judge/NN and/CC the/DT ,/, uh/UH ,/, lawyers/NNS to/TO make/VB the/DT decision/NN as/IN to/IN what/WP the/DT actual/JJ penalty/NN will/MD be/VB ./.","{C but } I think that it should be up to the judge and the, {F uh, } lawyers to make the decision as to what the actual penalty will be. /"
+%,A,Um/UH ./.,{F Um. } /
+sv,B,Maybe/RB just/RB the/DT judge/NN because/IN they/PRP 're/VBP the/DT people/NNS who/WP know/VBP what/WP the/DT system/NN is/VBZ --/:,Maybe just the judge <sniffing> because they're the people who know what the system is --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: and/CC what/WP it/PRP 's/BES all/DT about/IN --/:,-- and what it's all about --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: and/CC believe/VBP in/IN the/DT system/NN ./.,-- and believe in the system. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Uh/UH ,/, and/CC I/PRP think/VBP that/DT would/MD provide/VB a/DT more/RBR fair/JJ sentencing/NN procedure/NN ./.","{F Uh, } {C and } I think that would provide a more fair sentencing procedure."
+aap_am,A,"Well/UH ,/, I/PRP suppose/VBP you/PRP may/MD be/VB right/JJ on/IN that/DT ./.","{D Well, } I suppose you may be right on that. /"
++,B,As/IN opposed/VBN to/IN an/DT emotional/JJ sentencing/NN procedure/NN ./.,As opposed to an emotional sentencing procedure.
+sd,A,"Matter/NN of/IN fact/NN ,/, I/PRP 've/VBP heard/VBN that/IN ,/,","Matter of fact, [ I've heard that, +"
++,B,"Also/RB ,/, may/MD be/VB a/DT more/RBR consistent/JJ sentencing/NN procedure/NN ./.","Also, may be a more consistent sentencing procedure. /"
++,A,"I/PRP 've/VBP heard/VBN that/IN some/DT of/IN the/DT information/NN ,/, uh/UH ,/, is/VBZ prevented/VBN from/IN reaching/VBG the/DT jury/NN ,/, like/IN ,/, uh/UH ,/, mitigating/VBG circumstances/NNS or/CC ,/, or/CC preceding/VBG ,/, uh/UH ,/, criminal/JJ record/NN or/CC things/NNS of/IN this/DT nature/NN that/WDT ,/,","I've heard that ] some of the information, {F uh, } is prevented from reaching the jury, like, {F uh, } mitigating circumstances [ or, + or ] preceding, {F uh, } criminal record or things of this nature that, -/"
+sd,B,"Well/UH ,/, preceding/VBG criminal/JJ record/NN ,/, according/VBG to/IN the/DT judicial/JJ process/NN has/VBZ nothing/NN to/TO do/VB with/IN the/DT current/JJ crime/NN ./.","{D Well, } preceding criminal record, according to the judicial process has nothing to do with the current crime. /"
+sd,B,"But/CC when/WRB it/PRP comes/VBZ to/IN ,/, uh/UH ,/, sentencing/VBG for/IN punishment/NN ,/, of/IN course/NN ,/, if/IN the/DT person/NN 's/HVS never/RB done/VBN anything/NN bad/JJ before/IN ,/, according/VBG to/IN the/DT judicial/JJ system/NN ,/, then/RB they/PRP 're/VBP going/VBG to/TO lean/VB towards/IN a/DT slightly/RB more/RBR lenient/JJ side/NN ,/,","{C But } when it comes to, {F uh, } sentencing for punishment, of course, if the person's never done anything bad before, according to the judicial system, then they're going to lean towards a slightly more lenient side, /"
+sd,B,and/CC the/DT jury/NN 's/BES supposed/VBN to/TO be/VB notified/VBN of/IN criminal/JJ records/NNS when/WRB it/PRP comes/VBZ to/TO sentencing/VBG by/IN jury/NN ./.,{C and } the jury's supposed to be notified of criminal records when it comes to sentencing by jury. /
+bh,A,"Oh/UH ,/, is/VBZ it/PRP ?/.","{F Oh, } is it? /"
+sd,A,"Oh/UH ,/, I/PRP did/VBD n't/RB realize/VB that/DT ./.","{F Oh, } I didn't realize that. /"
+%,A,Okay/UH ./.,Okay. /
+sd,B,"At/IN least/JJS in/IN California/NNP ,/, they/PRP 're/VBP supposed/JJ to/TO be/VB ./.","At least in California, they're supposed to be. /"
+sd,B,"Not/RB during/IN the/DT trial/NN ,/,","Not during the trial, /"
+sd,B,during/IN the/DT trial/NN as/IN to/IN whether/IN they/PRP 're/VBP guilty/JJ or/CC not/RB has/VBZ nothing/NN to/TO do/VB with/IN their/PRP$ background/NN ./.,during the trial as to whether they're guilty or not has nothing to do with their background. /
+b,A,Right/UH ./.,Right. /
+sv,B,"But/CC when/WRB it/PRP comes/VBZ to/IN what/WP kind/NN of/IN sentence/NN you/PRP 're/VBP going/VBG to/TO lay/VB down/RP ,/, I/PRP think/VBP that/IN ,/, uh/UH ,/, that/IN they/PRP should/MD ./.","{C But } when it comes to what kind of sentence you're going to lay down, I think [ that, + {F uh, } that ] they should. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB know/VB that/IN they/PRP always/RB have/VBP because/IN I/PRP never/RB sat/VBD all/PDT the/DT way/NN through/IN a/DT jury/NN trial/NN ./.","[ I don't, + I don't ] know that they always have because I never sat all the way through a jury trial. /"
+sv,B,They/PRP get/VBP too/RB boring/JJ ./.,They get too boring. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+bf,A,"So/RB ,/, you/PRP ,/, what/WP you/PRP 're/VBP saying/VBG is/VBZ this/DT ,/, if/IN there/EX is/VBZ the/DT second/JJ offense/NN ,/, then/RB you/PRP execute/VBP them/PRP ./.","{C So, } [ you, + what you're ] saying is this, if there is the second offense, then you execute them. /"
+sv,B,"Well/UH ,/, if/IN it/PRP 's/BES a/DT second/JJ offense/NN ,/, the/DT punishment/NN should/MD certainly/RB be/VB more/RBR severe/JJ than/IN a/DT first/JJ offense/NN ,/, because/IN obviously/RB ,/, the/DT rehabilitation/NN process/NN did/VBD not/RB work/VB the/DT first/JJ time/NN ./.","{D Well, } if it's a second offense, the punishment should certainly be more severe than a first offense, because obviously, the rehabilitation process did not work the first time. /"
+%,A,Um/UH ./.,{F Um. } /
+bf,B,So/RB you/PRP got/VBD to/TO give/VB them/PRP either/CC more/JJR time/NN in/IN the/DT system/NN or/CC a/DT different/JJ process/NN that/WDT will/MD hopefully/RB work/VB better/RB ./.,{C So } you got to give them either more time in the system or a different process that will hopefully work better. /
+sd,B,"When/WRB it/PRP comes/VBZ down/IN to/IN things/NNS like/IN alternative/JJ sentencing/NN ,/, I/PRP 'm/VBP all/DT for/IN that/DT for/IN ,/, uh/UH ,/, small/JJ crimes/NNS ,/, infractions/NNS and/CC misdemeanors/NNS or/CC parking/NN tickets/NNS or/CC traffic/NN tickets/NNS that/WDT have/VBP gone/VBN to/IN warrant/NN ,/,","When it comes down to things like alternative sentencing, I'm all for that for, {F uh, } small crimes, infractions and misdemeanors or parking tickets or traffic tickets that have gone to warrant, /"
+sv,B,you/PRP give/VBP them/PRP the/DT option/NN of/IN working/VBG off/IN their/PRP$ time/NN doing/VBG civil/JJ service/NN sort/RB of/RB things/NNS ./.,you give them the option of working off their time doing civil service sort of things. /
+qo,A,"What/WP about/IN ,/, uh/UH ,/, white/JJ collar/NN crimes/NNS like/IN ,/, uh/UH ,/, theft/NN of/IN trade/NN secrets/NNS ./.","What about, {F uh, } white collar crimes like, {F uh, } theft of trade secrets. /"
+sv,B,I/PRP think/VBP those/DT ought/MD to/TO be/VB punished/VBN a/DT whole/JJ lot/NN worse/JJR than/IN they/PRP are/VBP ./.,I think those ought to be punished a whole lot worse than they are. /
+bh,A,"Oh/UH ,/, really/RB ?/.","{F Oh, } really? /"
+ny,B,Yeah/UH ./.,Yeah. /
+qw,A,Like/IN what/WP ?/.,Like what? /
+sd,B,"Well/UH ,/, uh/UH ,/, say/VB ,/, embezzlement/NN ,/, right/RB ./.","{D Well, } {F uh, } say, embezzlement, right. /"
+%,A,"Ri-/XX ,/,","Ri-, -/"
+sd,B,"You/PRP get/VBP a/DT guy/NN down/IN the/DT street/NN who/WP comes/VBZ up/RB ,/, uh/UH ,/, carrying/VBG a/DT kni-/XX ,/,","You get a guy down the street who comes up, {F uh, } carrying a kni-, -/"

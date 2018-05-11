@@ -1,0 +1,158 @@
+act_tag,speaker,pos,text
+x,B,./.,<Child_talking> <talking> <baby_crying>.
+"fo_o_fw_""_by_bc",A,Okay/UH ./.,<Clicking> Okay. /
+sv,A,"Uh/UH ,/, so/UH your/PRP$ ,/, you/PRP ,/, I/PRP guess/VBP you/PRP 're/VBP probably/RB in/IN the/DT same/JJ ,/, uh/UH ,/, same/JJ situation/NN uh/UH ,/, we/PRP 're/VBP in/IN ./.","{F Uh, } {D so } [ [ your, + you, ] + I guess you're ] probably in the [ same, + {F uh, } same ] situation {F uh, } we're in. /"
+sd,A,We/PRP 're/VBP kind/RB of/RB past/VBN having/VBG to/TO provide/VB child/NN care/NN ./.,We're kind of past having to provide child care. /
+sd,A,"Our/PRP$ ,/, our/PRP$ kids/NNS are/VBP grown/JJ up/RP ./.","[ Our, + our ] kids are grown up. /"
+sd,A,We/PRP do/VBP n't/RB have/VB any/DT grandchildren/NNS yet/RB ./.,We don't have any grandchildren yet. /
+%,A,"But/CC ,/, uh/UH ,/, uh/UH ,/, they/PRP 're/VBP ,/,","{C But, } {F uh, } {F uh, } they're, -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qw,B,How/WRB old/JJ are/VBP your/PRP$ children/NNS ?/.,How old are your children? /
+sd,A,"Uh/UH ,/, one/CD 's/BES twenty-six/CD","{F Uh, } one's twenty-six /"
+sd,A,"and/CC the/DT other/JJ is/VBZ ,/, uh/UH ,/, twenty/CD ,/, twenty-one/CD ./.","{C and } the other is, {F uh, } [ twenty, + twenty-one. ] /"
+b,B,Uh-huh/UH ./.,Uh-huh </baby_crying>. /
+sd,A,"So/RB they/PRP 're/VBP ,/, uh/UH ,/, uh/UH ,/,","{C So } [ [ they're, + {F uh, } {F uh, }"
+^2,B,"Well/UH ,/, they/PRP 're/VBP going/VBG to/TO be/VB getting/VBG there/RB ./.","{D Well, } they're going to be getting there. /"
++,A,"They/PRP 're/VBP ,/, they/PRP 're/VBP getting/VBG there/RB ./.","They're, ] + they're ] getting there. /"
+sd,A,"You/PRP know/VBP ,/, there/EX 's/BES no/DT --/:","{D You know, } there's [ [ no + --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: no/DT ,/, no/DT prospects/NNS right/RB away/RB for/IN anything/NN to/TO happen/VB ./.","-- no, ] + no ] prospects right away for anything to happen. /"
+b,B,"U-/UH ,/, uh-huh/UH ./.","[ U-, + uh-huh. ] /"
+b,B,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+%,A,"But/CC ,/, uh/UH ,/,","{C But, } {F uh, } -/"
+sd,B,"I/PRP have/VBP ,/, uh/UH ,/, five/CD children/NNS ./.","I have, {F uh, } five children. /"
+sd,B,I/PRP have/VBP a/DT eighteen/CD year/NN old/JJ son/NN ./.,I have a eighteen year old son. /
+sd,B,"The/DT rest/NN of/IN my/PRP$ girls/NNS are/VBP like/IN twenty-three/CD ,/, twenty-six/CD ,/, twenty-eight/CD ,/, and/CC twenty-nine/CD ./.","The ((rest)) of my girls are {D like } twenty-three, twenty-six, twenty-eight, and twenty-nine. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC I/PRP have/VBP three/CD granddaughters/NNS right/RB now/RB ./.,{C And } I have three granddaughters right now. /
+b,A,Oh/UH ./.,Oh. /
+%,B,"And/CC ,/, uh/UH ,/, I/PRP ,/, uh/UH ,/,","{C And, } {F uh, } I, {F uh, } - /"
+sd,B,one/CD 's/BES in/IN Iowa/NNP ./.,<sigh> one's in Iowa. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, she/PRP 's/BES ,/, she/PRP 's/BES a/DT teacher/NN","{C And, } {F uh, } [ she's, + she's ] a teacher /"
+sd,B,"and/CC what/WP she/PRP does/VBZ is/VBZ she/PRP ,/,","{C and } what she does is she,"
+x,A,./.,<Noise>.
++,B,teaches/VBZ at/IN a/DT preschool/NN ./.,teaches at a preschool. /
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+%,B,"And/CC ,/, and/CC so/RB she/PRP kind/RB of/RB ,/,","[ {C And, } + {C and so } ] she kind of, - /"
+sd,B,"and/CC they/PRP let/VBP her/PRP bring/VB her/PRP$ ,/, her/PRP$ little/JJ daughter/NN in/RB for/IN free/JJ ./.","{C and } they let her bring [ her, + her ] little daughter in for free. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"And/CC then/RB ,/, so/RB MUMBLEx/XX","[ {C And then, } + {C so } ] (( )) - /"
+sd,B,but/CC she/PRP just/RB works/VBZ part-time/JJ ./.,{C but } she just works part-time. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Then/RB I/PRP have/VBP another/DT daughter/NN in/IN ,/, uh/UH ,/, Bountiful/NNP ,/, Utah/NNP","Then I have another daughter in, {F uh, } Bountiful, Utah /"
+sd,B,and/CC she/PRP has/VBZ to/TO work/VB full-time/JJ,{C and } she has to work full-time /
+sd,B,and/CC it/PRP 's/BES just/RB tearing/VBG her/PRP apart/RB ./.,{C and } it's just tearing her apart. /
+sd,B,She/PRP has/VBZ a/DT private/JJ baby-sitter/NN ./.,She has a private baby-sitter. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC ,/, uh/UH ,/, the/DT baby/NN just/RB screams/VBZ ./.","{C And, } {F uh, } the baby just screams. /"
+sd,B,"I/PRP mean/VBP ,/, the/DT baby/NN is/VBZ like/IN seventeen/CD months/NNS","{E I mean, } the baby is {D like } seventeen months /"
+sd,B,and/CC she/PRP just/RB screams/VBZ ./.,{C and } she just screams. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,Well/UH even/RB if/IN she/PRP knows/VBZ that/IN they/PRP 're/VBP fixing/VBG to/TO get/VB ready/JJ to/TO go/VB over/IN there/RB ./.,{D Well } even if she knows that they're fixing to get ready to go over there. - /
+sd,B,They/PRP 're/VBP not/RB even/RB there/RB yet/RB --/:,They're not even there yet --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: you/PRP know/VBP ./.,-- {D you know. } /
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,It/PRP 's/BES hard/JJ ./.,It's hard. /
+%,A,"We/PRP ,/,","We, -/"
+sd,B,"And/CC ,/, and/CC then/RB I/PRP have/VBP my/PRP$ ,/, uh/UH ,/, uh/UH ,/, I/PRP have/VBP a/DT seven/CD month/NN old/JJ granddaughter/NN","[ {C And, } + {C and then } ] [ I have my, + {F uh, } {F uh, } I have a ] seven month old granddaughter /"
+sd,B,"and/CC ,/, uh/UH ,/, her/PRP$ mother/NN stays/VBZ home/RB","{C and, } {F uh, } her mother stays home /"
+sd,B,"and/CC she/PRP ,/, they/PRP live/VBP ,/, they/PRP live/VBP with/IN us/PRP ./. You/PRP know/VBP ,/, in/IN ,/, as/IN Orange/NNP County/NNP --/:","{C and } [ [ she, + they ] live, + they live ] with us. {D You know, } [ in, + ] as Orange County --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: is/VBZ really/RB expensive/JJ ./.,-- is really expensive. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,They/PRP live/VBP with/IN us/PRP,They live with us /
+sd,B,"and/CC so/RB ,/, of/IN course/NN ,/, we/PRP love/VBP it/PRP ./. Because/IN we/PRP get/VBP to/TO see/VB this/DT cute/JJ little/JJ baby/NN all/PDT the/DT time/NN ./.","{C and so, } of course, we love it. Because we get to see this cute little baby all the time. /"
+%,B,"But/CC ,/, uh/UH ,/, uh/UH ,/, she/PRP just/RB ,/,","{C But, } {F uh, } {F uh, } she just, - /"
+sd,B,"uh/UH ,/, she/PRP used/VBD to/TO work/VB in/IN pre/JJ ,/, in/IN the/DT preschool/NN and/CC ,/, and/CC ,/, and/CC child/NN care/NN","{F uh, } she used to work [ in pre, + in the preschool ] [ [ and, + and, ] + and ] child care /"
+sd,B,and/CC she/PRP says/VBZ after/IN working/VBG in/IN there/RB,{C and } she says after working in there - /
+sd,B,"and/CC ,/, and/CC ,/, you/PRP know/VBP ,/, here/RB she/PRP was/VBD a/DT provider/NN","[ {C and, } + {C and, } ] {D you know, } here she was a provider /"
+sv,B,"but/CC ,/, you/PRP know/VBP ,/, there/EX 's/BES only/RB so/RB much/JJ one/CD person/NN can/MD do/VB ./.","{C but, } {D you know, } there's only so much one person can do. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,She/PRP said/VBD it/PRP 's/BES so/RB awful/JJ ./.,She said it's so awful. /
+sd,B,"She/PRP said/VBD she/PRP 'll/MD never/RB put/VB her/PRP$ child/NN in/IN a/DT ,/, in/IN a/DT ,/, in/IN a/DT preca-/XX ,/, in/IN a/DT p-/NN ,/, in/IN a/DT preschool/NN ./.","She said she'll never put her child [ [ [ [ in a, + in a, ] + in a preca-, ] + in a p-, ] + in a preschool. ] /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,I/PRP 'm/VBP sure/JJ there/EX must/MD be/VB some/DT good/JJ ones/NNS around/IN here/RB somewhere/RB ./.,I'm sure there must be some good ones around here somewhere. /
+b,A,Huh/UH ./.,Huh. /
+sv,B,"But/CC it/PRP 's/BES really/RB ,/, it/PRP 's/BES really/RB ,/, really/RB very/RB difficult/JJ","{C But } [ it's really, + it's [ really, + really ] ] very difficult /"
+%,B,"and/CC ,/,","{C and, } -/"
+b,A,Yeah/UH ./.,Yeah. /
+qw,A,What/WP did/VBD you/PRP do/VB when/WRB your/PRP$ kids/NNS were/VBD growing/VBG up/RP ?/.,What did you do when your kids were growing up? /
+%,A,"Were/VBD you/PRP ,/,","Were you, -/"
+%,B,"Well/UH ,/, when/WRB ,/, when/WRB","{D Well, } [ when, + when ] - /"
+sd,B,"the/DT ,/, uh/UH ,/, the/DT first/JJ ,/, uh/UH ,/, ten/CD years/NNS ,/, see/UH first/JJ ten/CD or/CC twelve/CD years/NNS ,/, I/PRP stayed/VBD home/RB ./.","[ the, + {F uh, } the ] [ first, {F uh, } ten years, + {D see } first ten ] or twelve years, I stayed home. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, then/RB after/IN that/DT I/PRP ,/, I/PRP went/VBD to/TO work/VB ./.","{C And, } {F uh, } {C then } after that [ I, + I ] went to work. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, uh/UH ,/, uh/UH ,/, a/DT couple/NN of/IN times/NNS I/PRP just/RB ,/, uh/UH ,/, uh/UH ,/, you/PRP know/VBP ,/,","{C And, } {F uh, } {F uh, } {F uh, } a couple of times I just, {F uh, } {F uh, } {D you know, } - /"
+sd,B,"th-/XX ,/, then/RB I/PRP had/VBD one/CD job/NN","[ th-, + then ] I had one job /"
+sd,B,and/CC then/RB that/DT job/NN ran/VBD out/RP because/IN it/PRP was/VBD kind/RB of/RB a/DT government/NN seeded/VBN type/NN job/NN ./.,{C and then } that job ran out because it was kind of a government seeded type job. /
+sd,B,"And/CC then/RB ,/, and/CC then/RB like/IN about/RB ,/, later/RB I/PRP ,/, I/PRP tried/VBD to/TO get/VB the/DT baby/NN to/IN a/DT baby-sitter/NN ./.","[ {C And then, } + {C and then } ] {D like } [ about, + ] later [ I, + I ] tried to get the baby to a baby-sitter. /"
+sd,B,"Supposed/VBN to/TO be/VB good/JJ ,/, uh/UH ,/, recommended/VBN person/NN from/IN the/DT church/NN","Supposed to be good, {F uh, } recommended person from the church - /"
+sd,B,and/CC I/PRP knew/VBD her/PRP personally/RB ./.,{C and } I knew her personally. /
+sd,B,She/PRP had/VBD two/CD kids/NNS of/IN her/PRP$ own/JJ and/CC everything/NN ./.,She had two kids of her own and everything. /
+sd,B,But/CC I/PRP quit/VBD my/PRP$ job/NN because/IN I/PRP could/MD n't/RB stand/VB how/WRB she/PRP was/VBD taking/VBG care/NN of/IN my/PRP$ child/NN ./.,{C But } I quit my job because I couldn't stand how she was taking care of my child. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP mean/VBP ,/, first/JJ of/IN all/DT ,/, uh/UH ,/, her/PRP$ children/NNS were/VBD sick/JJ all/PDT the/DT time/NN ./.","{E I mean, } first of all, {F uh, } her children were sick all the time. /"
+sd,B,"So/RB when/WRB my/PRP$ son/NN stayed/VBD over/IN there/RB ,/, he/PRP got/VBD sick/JJ ./.","{C So } when my son stayed over there, he got sick. /"
+b^m,A,"He/PRP got/VBD sick/JJ ,/,","He got sick, /"
+b,A,yeah/UH ./.,yeah. /
+sd,B,"Same/JJ thing/NN ,/, same/JJ thing/NN that/IN the/DT ,/, her/PRP$ kids/NNS had/VBD ,/,","[ Same thing, + same thing ] that [ the, + her ] kids had, /"
+^g,B,right/UH ?/.,right? /
+b^m,A,Right/UH ./.,Right. /
+%,A,"Well/UH ,/,","{D Well, } -/"
+sd,B,"And/CC so/RB ,/, uh/UH ,/, we/PRP did/VBD n't/RB take/VB her/PRP over/IN there/RB until/IN like/IN about/RB eleven/CD o'clock/RB ./.","{C And so, } {F uh, } we didn't take her over there until {D like } about eleven o'clock. /"
+sd,B,"Then/RB he/PRP ,/, she/PRP 'd/MD take/VB my/PRP$ son/NN and/CC her/PRP$ daughter/NN over/IN t-/IN ,/, to/IN kindergarten/NN ./.","{C Then } [ he, + she'd ] take my son and her daughter over [ t-, + to ] kindergarten. /"
+%,B,"But/CC s-/XX ,/,","{C But } s-, - /"
+sd,B,"that/DT day/NN ,/, uh/UH ,/, I/PRP was/VBD saying/VBG now/RB he/PRP ,/, he/PRP 's/BES sick/JJ ./.","that day, {F uh, } I was saying now [ he, + he's ] sick. /"
+sd,B,"And/CC she/PRP goes/VBZ well/UH ,/, she/PRP goes/VBZ ,/, he/PRP has/VBZ the/DT same/JJ thing/NN that/WDT all/DT my/PRP$ kids/NNS have/VBP ./.","{C And } [ she goes + {D well, } she goes, ] he has the same thing that all my kids have. /"
+sd,B,"That/DT 's/BES what/WP he/PRP got/VBD ,/, you/PRP know/VBP ./.","That's what he got, {D you know. } /"
+sd,B,"Goes/VBZ ,/, well/UH ,/, okay/UH ,/,","Goes, {D well, } okay, /"
+sd,B,so/RB it/PRP 's/BES not/RB like/IN he/PRP 's/BES going/VBG to/TO infect/VB her/PRP$ kids/NNS ./.,{C so } it's not like he's going to infect her kids. /
+sd,B,"But/CC then/RB what/WP happened/VBD was/VBD ,/, is/VBZ ,/, I/PRP said/VBD ,/, uh/UH ,/, he/PRP just/RB threw/VBD up/RP","{C But } then what happened [ was, + is, ] I said, {F uh, } he just threw up /"
+sd,B,and/CC kindergarten/NN starts/VBZ at/IN eleven/CD thirty/CD,{C and } kindergarten starts at eleven thirty /
+sd,B,so/RB she/PRP said/VBD well/UH she/PRP 'll/MD keep/VB him/PRP home/RB,{C so } she said {D well } she'll keep him home /
+sd,B,and/CC he/PRP 'll/MD probably/RB just/RB sleep/VB anyway/RB ./.,{C and } he'll probably just sleep anyway. /
+x,A,./.,<Noise>.
+qh,B,"Well/UH ,/, you/PRP know/VBP ,/, what/WP","{D Well, } you know, what /"
+sd,B,"that/DT woman/NN sent/VBD her/PRP ,/, sent/VBD him/PRP to/IN kindergarten/NN ./.","that woman [ sent her, + sent him ] to kindergarten. /"
+sd,B,She/PRP sent/VBD him/PRP to/IN kindergarten/NN ./.,She sent him to kindergarten. /
+sd,B,"As/RB soon/RB as/IN he/PRP went/VBD there/RB ,/, the/DT teacher/NN took/VBD one/CD look/NN at/IN him/PRP","As soon as he went there, the teacher took one look at him /"
+sd,B,and/CC he/PRP threw/VBD up/RP again/RB,{C and } he threw up again /
+sd,B,"and/CC they/PRP put/VBD him/PRP in/IN the/DT nursery/NN ,/, uh/UH ,/, they/PRP put/VBD him/PRP in/IN the/DT nurse/NN 's/POS office/NN ./.","{C and } [ they put him in the nursery, + {F uh, } they put him in the nurse's office. ] /"
+ba,A,"Guess/VBP so/RB ,/,","((Guess so)), /"
+b,A,yeah/UH ./.,yeah. /
+sd,B,"And/CC then/RB what/WP happened/VBD was/VBD ,/, is/VBZ ,/, you/PRP know/VBP ,/, they/PRP gave/VBD her/PRP a/DT call/NN because/IN they/PRP knew/VBD that/IN she/PRP was/VBD my/PRP$ baby-sitter/NN ./.","{C And then } what happened [ was, + is, ] {D you know, } they gave her a call because they knew that she was my baby-sitter. /"
+sd,B,Called/VBD her/PRP,Called her - /
+sd,B,"and/CC they/PRP said/VBD ,/, uh/UH ,/, that/IN he/PRP 's/BES sick/JJ ./.","{C and } they said, {F uh, } <swallowing> that he's sick. /"
+sd,B,Well/UH she/PRP was/VBD n't/RB home/RB ./.,{D Well } she wasn't home. /
+%,A,Huh/UH ./.,{F Huh. } /
+sd,B,"I/PRP mean/VBP her/PRP ,/, all/DT her/PRP$ kids/NNS were/VBD sick/JJ","{E I mean } [ her, + all her ] kids were sick /"
+sd,B,"but/CC she/PRP was/VBD n't/RB home/RB ,/, right/UH ./.","{C but } she wasn't home, {D right. } /"
+sd,B,"And/CC her/PRP$ ,/, and/CC her/PRP$ ,/, her/PRP$ daughter/NN that/WDT was/VBD in/IN kindergarten/NN with/IN him/PRP also/RB did/VBD not/RB go/VB to/IN school/NN because/IN she/PRP was/VBD sick/JJ ./.","[ {C And } her, + {C and } [ her, + her ] ] daughter that was in kindergarten with him also did not go to school because she was sick. /"
+qh,B,"Now/UH why/WRB did/VBD n't/RB he/PRP ,/, why/WRB did/VBD n't/RB she/PRP keep/VB him/PRP home/RB with/IN her/PRP ?/.","{D Now } [ why didn't he, + why didn't she ] keep him home with her? /"
+nn,B,"No/UH ,/,","No, /"
+sd,B,she/PRP did/VBD n't/RB do/VB that/DT ./.,she didn't do that. /
+sd,B,"So/RB ,/, it/PRP got/VBD to/IN the/DT point/NN where/WRB he/PRP 's/BES ,/, he/PRP 's/BES supposed/VBN to/TO get/VB out/IN of/IN ,/, uh/UH ,/, kindergarten/NN like/IN about/RB two/CD thirty/CD ./.","{C So, } it got to the point where [ he's, + he's ] supposed to get out of, {F uh, } kindergarten {D like } about two thirty. /"
+sd,B,And/CC I/PRP had/VBD to/TO leave/VB work/RB ./.,{C And } I had to leave work. /
+sd,B,"It/PRP was/VBD ,/, it/PRP was/VBD five/CD o'clock/RB in/IN the/DT evening/NN","[ It was, + it was ] five o'clock in the evening /"
+sd,B,and/CC I/PRP found/VBD out/RP he/PRP was/VBD still/RB there/RB at/IN school/NN ./.,{C and } I found out he was still there at school. /
+sd,B,And/CC they/PRP were/VBD calling/VBG me/PRP,{C And } they were calling me /
+sd,B,and/CC they/PRP said/VBD somebody/NN 's/HVS got/VBN to/TO pick/VB him/PRP up/RP ./.,{C and } they said somebody's got to pick him up. /
+sd,B,"And/CC I/PRP kept/VBD thinking/VBG that/IN she/PRP was/VBD going/VBG to/TO get/VB picked/VBN up/RP ,/, she/PRP was/VBD going/VBG to/TO pick/VB him/PRP up/RP because/IN she/PRP only/RB lives/VBZ in/IN like/IN two/CD blocks/NNS away/RB from/IN the/DT school/NN ./.","{C And } I kept thinking that [ she was going to get picked up, + she was going to pick him up ] because she only lives [ in + ] {D like } two blocks away from the school. /"
+sd,B,I/PRP was/VBD trying/VBG to/TO get/VB my/PRP$ husband/NN to/TO come/VB and/CC pick/VB him/PRP up/RP and/CC all/PDT that/DT kind/NN of/IN stuff/NN ./.,I was trying to get my husband to come and pick him up and all that kind of stuff. /
+sd,B,And/CC he/PRP had/VBD a/DT hundred/CD and/CC four/CD fever/NN ./.,{C And } he had a hundred and four fever. /
+sd,B,"They/PRP could/MD n't/RB ,/, uh/UH ,/, give/VB him/PRP anything/NN because/IN they/PRP 're/VBP not/RB allowed/VBN to/TO at/IN school/NN and/CC everything/NN ./.","They couldn't, {F uh, } give him anything because they're not allowed to at school and everything. /"
+b,A,Right/UH ./.,Right. /
+sd,B,I/PRP was/VBD so/RB furious/JJ ./.,I was so furious. /
+sd,B,"I/PRP ,/, I/PRP quit/VBP that/DT job/NN","[ I, + I ] quit that job /"
+sd,B,and/CC I/PRP stayed/VBD home/RB for/IN awhile/RB longer/JJR ./.,{C and } I stayed home for awhile longer. /
+sd,B,"Then/RB I/PRP went/VBD and/CC got/VBD a/DT ,/, uh/UH ,/, a/DT job/NN in/IN real/JJ estate/NN where/WRB I/PRP can/MD kind/RB of/RB adjust/VB my/PRP$ time/NN a/DT little/JJ bit/NN better/RB ./.","Then I went and got [ a, + {F uh, } a ] job in real estate where I can kind of adjust my time a little bit better. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+bf,A,a/DT little/RB more/JJR flexibility/NN ./.,a little more flexibility. /
+bf,A,You/PRP can/MD come/VB and/CC go/VB ./.,You can come and go. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"but/CC ,/, uh/UH ,/, I/PRP have/VBP n't/RB had/VBN any/DT good/JJ ,/, really/RB very/RB good/JJ experience/NN with/IN child/NN care/NN ./.","{C but, } {F uh, } I haven't had any [ good, + really very good ] experience with child care </child_talking> </talking>. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"When/WRB ,/, when/WRB our/PRP$ kids/NNS were/VBD small/JJ we/PRP had/VBD a/DT couple/NN of/IN ,/, uh/UH ,/, good/JJ ,/, good/JJ women/NNS who/WP ,/, uh/UH ,/, would/MD often/RB c/VB ,/, uh/UH ,/, get/VB them/PRP to/TO come/VB to/IN the/DT house/NN ./.","[ When, + when ] our kids were small we had a couple of, {F uh, } [ good, + good ] women who, {F uh, } would often [ c-, + {F uh, } get them to come ] to the house. /"

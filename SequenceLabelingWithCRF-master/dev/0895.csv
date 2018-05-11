@@ -1,0 +1,148 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",B,Hello/UH ./.,Hello. /
+sd,A,"MUMBLEx/XX I/PRP pressed/VBD the/DT button/NN one/CD ,/,","(( )) I pressed the button one, /"
+sd,A,so/RB we/PRP 're/VBP recording/VBG right/RB now/RB ./.,{C so } we're recording right now. /
+fa,A,I/PRP 'm/VBP sorry/JJ ./.,I'm sorry <laughter>. /
+bd,B,That/DT 's/BES okay/JJ ./.,That's okay. /
+sd,B,I/PRP 'm/VBP Bill/NNP from/IN Raleigh/NNP ./.,I'm Bill from Raleigh. /
+b,A,"Okay/UH ,/,","Okay, /"
+sd,A,"and/CC I/PRP 'm/VBP Melanie/NNP from/IN Harrisville/NNP ,/, Utah/NNP ./.","{C and } I'm Melanie from Harrisville, Utah. /"
+sd,B,"Oh/UH ,/, another/DT one/CD from/IN a/DT different/JJ state/NN besides/IN Texas/NNP ./.","{F Oh, } another one from a different state besides Texas. /"
+b,A,Yeah/UH ./.,Yeah. /
+b,A,"Um/UH ,/, okay/UH ,/,","<laughter> {F Um, } okay, /"
+sd,A,"Bill/NNP ,/, we/PRP 're/VBP talking/VBG about/IN family/NN reunions/NNS ./.","Bill, we're talking about family reunions. /"
+b,B,Right/UH ./.,Right. /
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/, um/UH ,/,","Okay, {F um, } /"
+qy,A,have/VBP you/PRP ever/RB had/VBN to/TO plan/VB a/DT family/NN reunion/NN ?/.,have you ever had to plan a family reunion? /
+ny,B,"Uh/UH ,/, yes/UH","{F Uh, } yes /"
+nn,B,"and/CC no/UH ,/,","{C and } no, /"
+sd,B,"it/PRP was/VBD n't/RB really/RB a/DT fa-/NN ,/, a/DT planning/NN one/NN ,/,","it wasn't really [ a fa-, + a planning ] one, /"
+sd,B,"but/CC it/PRP was/VBD kind/RB of/RB ,/, uh/UH ,/, it/PRP was/VBD a/DT birthday/NN --/:","{C but } [ it was kind of, + {F uh, } it was ] a birthday -- /"
+bk,A,Oh/UH ./.,Oh. /
+sd,B,--/: and/CC I/PRP brought/VBD a/DT lot/NN of/IN family/NN together/RB then/RB ./.,-- {C and } I brought a lot of family together then. /
+bk,A,Uh-huh/UH ./.,Uh-huh. /
+qo,A,And/CC how/WRB did/VBD you/PRP feel/VB it/PRP went/VBD ?/.,{C And } how did you feel it went? /
+sd,B,It/PRP went/VBD pretty/RB good/JJ ./.,It went pretty good. /
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 've/VBP worked/VBN in/IN hotels/NNS ,/,","[ I'm, + I've ] worked in hotels, /"
+sd,B,"so/RB I/PRP ,/, I/PRP kind/RB of/RB know/VBP how/WRB to/TO do/VB these/DT things/NNS ./.","{C so } [ I, + I ] kind of know how to do these things. /"
+bk,A,Oh/UH ./.,Oh. /
+sd,B,"I/PRP used/VBD to/IN ,/, you/PRP know/VBP ./.","I used to, {D you know. } /"
+qy^d,A,"All/PDT this/DT planning/NN and/CC ,/, and/CC getting/VBG together/RB and/CC such/JJ ./.","All this planning [ and, + and ] getting together and such. /"
+^h,A,"Um/UH ,/, oh/UH ,/, let/VB 's/PRP see/VB what/WP else/RB ./.","{F Um, } {F oh, } let's see what else. /"
+sd,B,"Usually/RB when/WRB we/PRP have/VBP kind/RB of/RB our/PRP$ family/NN reunion/NN it/PRP 's/BES my/PRP$ grandmother/NN 's/POS birthday/NN ,/,","Usually when we have kind of our family reunion it's my grandmother's birthday, /"
+sd,B,and/CC --/:,[ {C and } -- +
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC it/PRP 's/BES all/DT of/IN like/IN ,/, she/PRP ,/, she/PRP comes/VBZ from/IN a/DT big/JJ family/NN ./.","-- {C and } ] it's all of like, [ she, + she ] comes from a big family. /"
+sd,B,She/PRP has/VBZ like/IN seven/CD sisters/NNS I/PRP think/VBP ./.,She has like seven sisters I think. /
+ba,A,"Oh/UH ,/, boy/UH ./.","{F Oh, } boy <laughter>. /"
+sd,B,They/PRP show/VBP up/RP and/CC all/DT their/PRP$ kids/NNS ./.,They show up and all their kids. /
+%,B,"And/CC then/RB all/DT ,/, she/PRP has/VBZ ,/, uh/UH ,/,","{C And then } all, she has, {F uh, } - /"
+%,B,"I/PRP have/VBP like/IN ,/, uh/UH ,/,","I have {D like, } {F uh, } - /"
+^h,B,"let/VB 's/PRP see/VB ,/,","let's see, /"
+sd,B,"she/PRP has/VBZ four/CD sons/NNS and/CC two/CD daughters/NNS ,/,","she has four sons and two daughters, /"
+sd,B,and/CC --/:,{C and } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: they/PRP show/VBP up/RP and/CC all/DT their/PRP$ kids/NNS ,/,","-- they show up and all their kids, /"
+sd,B,"so/RB it/PRP 's/BES a/DT pretty/RB big/JJ reunion/NN ,/,","{C so } it's a pretty big reunion, /"
+sd,B,"it/PRP 's/BES about/RB two/CD hundred/CD people/NNS ,/, maybe/RB ./.","it's about two hundred people, maybe. /"
+ba,A,"Oh/UH ,/, my/PRP$ word/NN ./.","{F Oh, } my word. /"
+qo,A,"Well/UH ,/, what/WP did/VBD you/PRP find/VB was/VBD most/RBS helpful/JJ in/IN planning/VBG the/DT birthday/NN get/GW together/^NN ?/.","<laughter> {D Well, } what did you find was most helpful in planning the birthday get together? /"
+sd,B,"Um/UH ,/, the/DT ,/, probably/RB the/DT biggest/JJS challenge/NN was/VBD getting/VBG a/DT place/NN where/WRB everyone/NN ,/, you/PRP know/VBP ,/, could/MD eat/VB comfortably/RB and/CC ,/, and/CC everything/NN ,/, uh/UH ./.","{F Um, } [ the, + probably the ] biggest challenge was getting a place where everyone, {D you know, } could eat comfortably [ and, + and ] everything, {F uh. } /"
+bk,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP guess/VBP probably/RB the/DT most/RBS helpful/JJ thing/NN was/VBD that/IN ,/, um/UH ,/, for/IN the/DT rent/NN ,/, we/PRP rented/VBD like/IN a/DT ,/, a/DT rescue/NN squad/NN building/NN or/CC something/NN --/:","I guess probably the most helpful thing was that, {F um, } for the rent, we rented {D like } [ a, + a ] rescue squad building or something --"
+bk,A,Oh/UH ./.,Oh. /
++,B,--/: like/IN that/DT ./.,-- like that. /
+bk,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, each/DT one/CD of/IN the/DT ,/, everybody/NN that/WDT showed/VBD up/RP donated/VBD some/DT money/NN for/IN the/DT rent/NN and/CC for/IN ,/, for/IN like/IN soft/JJ drinks/NNS","{C And, } {F uh, } [ each one of the, + everybody ] that showed up donated some money for the rent and [ for, + for ] {D like } soft drinks /"
+sd,B,and/CC --/:,[ {C and } + --
+bk,A,Oh/UH ./.,Oh. /
++,B,--/: and/CC so/RB nobody/NN like/UH really/RB got/VBD stuck/VBN with/IN the/DT bill/NN ./.,-- {C and so } ] nobody {D like } really got stuck with the bill. /
+ba,A,"Oh/UH ,/, that/DT 's/BES good/JJ ./.","{F Oh, } that's good. /"
+sd,B,"And/CC each/DT person/NN in/IN the/DT family/NN ,/, you/PRP know/VBP ,/, brought/VBD a/DT dish/NN ,/, or/CC something/NN ./.","{C And } each person in the family, {D you know, } brought a dish, or something. /"
+bk,A,"Uh-huh/UH ,/,","Uh-huh, /"
+qy,A,"and/CC then/RB did/VBD you/PRP have/VB a/DT main/JJ meal/NN ,/,","{C and then } did you have a main meal, /"
+%,A,"or/CC did/VBD everyone/NN just/RB bring/VB ,/,","{C or } did everyone just bring, - /"
+qy^d,A,it/PRP was/VBD just/RB pot/NN luck/NN ./.,it was just pot luck. /
+na,B,It/PRP was/VBD kind/RB of/RB pot/NN luck/NN ./.,It was kind of pot luck. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"You/PRP know/VBP ,/, everybody/NN brought/VBD their/PRP$ specialties/NNS ,/, I/PRP guess/VBP you/PRP would/MD say/VB ./.","{D You know, } everybody brought their specialties, I guess you would say. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,"yeah/UH ,/,","yeah, /"
+qy^d,A,show/VBP off/RP a/DT little/JJ bit/NN ./.,show off a little bit <laughter>. /
+ny,B,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC of/IN course/NN my/PRP$ grandmother/NN 's/POS food/NN was/VBD ,/, as/IN always/RB ,/, gone/VBN first/RB --/:","{C And } of course my grandmother's food was, as always, gone first --"
+bk,A,Oh/UH ./.,Oh. /
++,B,--/: because/IN she/PRP 's/BES such/PDT a/DT great/JJ cook/NN ./.,-- because she's such a great cook. /
+bk,A,Oh/UH ./.,Oh. /
+qw,A,Now/UH how/WRB old/JJ is/VBZ she/PRP ?/.,Now how old is she? /
+sd,B,"Uh/UH ,/, she/PRP 's/BES eighty-six/CD ./.","{F Uh, } she's eighty-six. /"
+ba,A,"Oh/UH ,/, goodness/UH ./.","{F Oh, } goodness. /"
+qy,A,"Is/VBZ she/PRP pretty/RB spry/JJ ,/, is/VBZ she/PRP ,/, you/PRP know/VBP ,/, pretty/RB ./.","[ Is she pretty spry, + is she, {D you know, } pretty. ] /"
+%,B,"Now/UH she/PRP does/VBZ ,/,","Now she does, - /"
+na,B,she/PRP looks/VBZ probably/RB like/IN she/PRP 's/BES in/IN her/PRP$ early/JJ sixties/NNS --/:,she looks probably like she's in her early sixties -- /
+ba,A,"Oh/UH ,/, wow/UH ./.","{F Oh, } wow. /"
+sd,B,"--/: and/CC if/IN she/PRP did/VBD n't/RB have/VB arthritis/NN ,/, she/PRP 'd/MD get/VB around/RB better/RBR --/:","-- {C and } if she didn't have arthritis, she'd get around better --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: than/IN me/PRP as/IN a/DT matter/NN of/IN fact/NN ./.,-- than me as a matter of fact <laughter>. /
+bk,A,Oh/UH ./.,Oh. /
+ba,A,"Oh/UH ,/, that/DT 's/BES neat/JJ ,/, that/IN she/PRP 's/BES in/IN good/JJ health/NN ,/, and/CC that/IN ,/, at/IN that/DT age/NN ./.","<laughter> {F Oh, } that's neat, that she's in good health, and [ that, + ] at that age. /"
+%,A,Yeah/UH ./.,Yeah. /
+b^m,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,My/PRP$ nickname/NN for/IN her/PRP is/VBZ Honey/NNP Woman/NNP ./.,My nickname for her is Honey Woman. /
+sd,B,That/DT 's/BES what/WP I/PRP call/VBP her/PRP ./.,That's what I call her. /
+b,A,Really/UH ./.,Really. /
+ba,A,Well/UH that/DT sounds/VBZ fun/JJ ./.,<laughter> {D Well } that sounds fun. /
+sd,A,"Well/UH ,/, I/PRP I/PRP had/VBD a/DT real/JJ challenge/NN of/IN planning/VBG a/DT family/NN reunion/NN a/DT few/JJ years/NNS ago/RB ,/,","{D Well, } [ I + <smack> I ] had a real challenge of planning a family reunion a few years ago, /"
+%,A,"and/CC there/EX were/VBD ,/,","{C and } there were, - /"
+sd,A,"we/PRP sent/VBD out/RB five/CD hundred/CD ,/, uh/UH ,/, announcements/NNS ,/, because/IN our/PRP$ family/NN is/VBZ quite/RB large/JJ ,/, like/IN your/PRP$ ,/, your/PRP$ family/NN there/RB ./.","we sent out five hundred, {F uh, } announcements, because our family is quite large, like [ your, + your ] family there. /"
+sd,A,"And/CC so/RB that/DT was/VBD a/DT real/JJ challenge/NN ,/,","{C And so } that was a real challenge, /"
+sd,A,"and/CC I/PRP was/VBD president/NN of/IN our/PRP$ family/NN reunion/NN for/IN two/CD years/NNS ,/,","{C and } I was president of our family reunion for two years, /"
+sd,A,"and/CC I/PRP was/VBD n't/RB very/RB MUMBLEx/XX at/IN that/DT duty/NN ,/, for/IN two/CD years/NNS in/IN a/DT row/NN ,/,","{C and } I wasn't very (( )) at that duty, for two years in a row, <laughter> /"
+sd,A,but/CC I/PRP found/VBD that/IN advance/NN planning/NN was/VBD the/DT key/NN to/IN success/NN ./.,{C but } I found that advance planning was the key to success. /
+sv,B,"Uh/UH ,/, also/RB one/CD thing/NN that/WDT 's/BES helpful/JJ ,/,","{F Uh, } also one thing that's helpful, /"
+qy^d,B,and/CC I/PRP do/VBP n't/RB know/VB if/IN your/PRP$ family/NN 's/BES spread/VBN out/RP or/CC whatever/WP --/:,{C and } I don't know if your family's spread out or whatever -- /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: but/IN most/JJS of/IN ,/, all/DT my/PRP$ family/NN lives/VBZ like/IN in/IN the/DT same/JJ county/NN","-- {C but } [ most of, + all ] my family lives {D like } in the same county /"
+%,B,"so/RB ,/,","{C so } <laughter>, -/"
+ba,A,"Oh/UH ,/, that/DT 's/BES wonderful/JJ ,/, though/RB ./.","{F Oh, } that's wonderful, though <laughter>. -/"
+ad,B,But/CC it/PRP 's/BES just/RB kind/RB of/RB like/IN get/VB on/IN the/DT telephone/NN,{C But } it's just kind of like get on the telephone /
+^q,B,"and/CC ,/,","{C and, }"
+x,A,./.,<Laughter>.
++,B,it/PRP 's/BES so/RB and/CC such/JJ days/NNS from/IN such/JJ and/CC such/JJ date/NN --/:,it's so and such days from such and such date -- /
+b,A,Oh/UH ./.,Oh. /
+sv,B,--/: and/CC everybody/NN just/RB shows/VBZ up/RP ./.,-- {C and } everybody just shows up. /
+aa,A,"Oh/UH ,/, well/UH ,/, that/DT is/VBZ ,/, that/DT is/VBZ helpful/JJ ./.","{F Oh, } {D well, } [ that is, + that is ] helpful. /"
+%,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"our/PRP$ family/NN ranges/VBZ from/IN ,/, oh/UH ,/, goodness/UH ,/, well/UH ,/, Australia/NNP ,/,","our family ranges from, {F oh, } goodness, {D well, } Australia, /"
+sd,A,"I/PRP have/VBP a/DT brother/NN lives/VBZ in/IN Australia/NNP ,/, to/IN ,/, uh/UH ,/, Boise/NNP ,/, Idaho/NNP ,/, and/CC ,/, and/CC ,/, uh/UH ,/, all/DT kinds/NNS of/IN places/NNS ./.","I have a brother lives in Australia, to, {F uh, } Boise, Idaho, [ and, + and, ] {F uh, } all kinds of places. /"
+sv,B,"I/PRP would/MD say/VB you/PRP 're/VBP spread/VBN out/RP ,/, then/RB ./.","I would say you're spread out, then. /"
+aa,A,We/PRP are/VBP ./.,We are <laughter>. /
+sd,B,"Uh/UH ,/, my/PRP$ immediate/JJ family/NN ,/, you/PRP know/VBP ,/, my/PRP$ ,/, my/PRP$ parents/NNS and/CC my/PRP$ brothers/NNS and/CC sisters/NNS ,/, I/PRP guess/VBP we/PRP 're/VBP the/DT ones/NNS that/WDT have/VBP the/DT gypsy/NN blood/NN or/CC whatever/WP ,/,","{F Uh, } my immediate family, {D you know, } [ my, + my ] parents and my brothers and sisters, I guess we're the ones that have the gypsy blood or whatever, /"
+sd,B,because/IN my/PRP$ dad/NN was/VBD in/IN the/DT Army/NNP,{C because } my dad was in the Army /
+sd,B,and/CC we/PRP 're/VBP --/:,{C and } [ we're -- +
+b,A,Oh/UH ./.,Oh. /
++,B,--/: we/PRP 're/VBP pretty/RB strung/JJ out/RP all/RB over/IN ./.,-- we're ] pretty strung out all over. /
+sd,B,"But/CC since/IN they/PRP 've/VBP moved/VBN back/RB to/IN Carolinas/NNPS ,/, we/PRP still/RB are/VBP the/DT only/JJ ones/NNS do/VBP not/RB live/VB in/IN --/:","{C But } since they've moved back to Carolinas, we still are the only ones do not live [ in + --"
+%,A,In/IN ./.,In. -/
++,B,--/: in/IN Yantsen/NNP County/NNP ./.,-- in ] Yantsen County. /
+b,A,Oh/UH ./.,Oh. /
+sd,B,"I/PRP live/VBP in/IN Raleigh/NNP ,/,","I live in Raleigh, /"
+sd,B,"and/CC then/RB my/PRP$ ,/, my/PRP$ parents/NNS live/VBP in/IN Greenville/NNP ,/,","{C and then } [ my, + my ] parents live in Greenville, /"
+sd,B,and/CC I/PRP have/VBP one/CD brother/NN and/CC his/PRP$ wife/NN --/:,{C and } I have one brother and his wife --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: live/VBP in/IN Greenville/NNP ,/, and/CC ,/, uh/UH ,/, another/DT brother/NN that/WDT lives/VBZ in/IN ,/, outside/IN of/IN Fayetteville/NNP ./.","-- live in Greenville, and, {F uh, } another brother that lives [ in, + outside of ] Fayetteville. /"
+sd,B,"So/RB I/PRP mean/VBP ,/, we/PRP 're/VBP ,/, we/PRP 're/VBP spread/VBN out/RP ,/,","{C So } {E I mean, } [ we're, + we're ] spread out, /"
+sd,B,but/CC --/:,{C but } --
+ba,A,Boy/UH ./.,Boy. /
++,B,"--/: everybody/NN else/RB is/VBZ centralized/JJ in/IN ,/, in/IN ,/, my/PRP$ home/NN town/NN ,/, Waynesboro/NNP","-- everybody else is centralized [ in, + in, ] my home town, Waynesboro /"
+%,B,so/RB ./.,{C so. } -/
+ba,A,"Oh/UH ,/, my/PRP$ gosh/UH ./.","{F Oh, } my gosh. /"
+sd,B,Nobody/NN moves/VBZ away/RB except/IN us/PRP ./.,Nobody moves away except us <laughter>. /
+qy^d,A,They/PRP must/MD really/RB like/VB it/PRP there/RB ./.,<Laughter> They must really like it there. /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP got/VBD out/RB as/RB soon/RB as/IN I/PRP graduated/VBD ./.,I got out as soon as I graduated. /
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Oh/UH ./.,<laughter> Oh. /
+sd,B,"Just/RB like/IN this/DT town/NN is/VBZ too/RB small/JJ for/IN me/PRP ,/,","Just like this town is too small for me, /"
+^q,B,Good-bye/UH ./.,Good-bye. /
+qy^d,A,"Oh/UH ,/, you/PRP 're/VBP ready/JJ to/TO move/VB on/IN to/IN bi-/XX ,/,","{F Oh, } <laughter> you're ready to move on to bi-, -/"

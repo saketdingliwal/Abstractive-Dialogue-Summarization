@@ -1,0 +1,188 @@
+act_tag,speaker,pos,text
+qy,A,"Uh/UH ,/, do/VBP you/PRP have/VB a/DT pet/NN Randy/NNP ?/.","{F Uh, } do you have a pet Randy? /"
+ny,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,B,currently/RB we/PRP have/VBP a/DT poodle/NN ./.,currently we have a poodle. /
+qy,A,"A/DT poodle/NN ,/, miniature/JJ or/CC ,/, uh/UH ,/, full/JJ size/NN ?/.","A poodle, miniature or, {F uh, } full size? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"uh/UH ,/, it/PRP 's/BES ,/, uh/UH miniature/JJ ./.","{F uh, } it's, {F uh } miniature. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP read/VBD somewhere/RB that/IN ,/, the/DT poodles/NNS is/VBZ one/CD of/IN the/DT ,/, the/DT most/RBS intelligent/JJ dogs/NNS ,/, uh/UH ,/, around/RB ./.","I read somewhere that, the poodles is one of [ the, + the ] most intelligent dogs, {F uh, } around. /"
+sd,B,"Well/UH ,/, um/UH ,/, I/PRP would/MD n't/RB ,/, uh/UH ,/, I/PRP definitely/RB would/MD n't/RB dispute/VB that/IN ,/,","{D Well, } {F um, } [ I wouldn't, + {F uh, } I definitely wouldn't ] dispute that, /"
+sd,B,"it/PRP ,/, it/PRP 's/BES actually/RB my/PRP$ wife/NN 's/POS dog/NN ,/, uh/UH ,/, I/PRP ,/, I/PRP became/VBD part/NN owner/NN six/CD months/NNS ago/RB when/WRB we/PRP got/VBD married/VBN ,/,","[ it, + it's ] actually my wife's dog, {F uh, } [ I, + I ] became part owner six months ago when we got married, /"
+sd,B,"but/CC ,/, uh/UH ,/, it/PRP ,/, uh/UH ,/, definitely/RB responds/VBZ to/IN ,/, uh/UH ,/, to/IN authority/NN","{C but, } {F uh, } it, {F uh, } definitely responds [ to, + {F uh, } to ] authority /"
+sd,B,"and/CC ,/, I/PRP 've/VBP had/VBN dogs/NNS in/IN the/DT past/JJ","{C and, } I've had dogs in the past /"
+sd,B,"and/CC ,/, uh/UH ,/, it/PRP seems/VBZ ,/, it/PRP seems/VBZ to/TO ,/, uh/UH ,/, respond/VB real/RB well/RB ,/,","{C and, } {F uh, } [ it seems, + it seems ] to, {F uh, } respond real well, /"
+%,B,"it/PRP ,/, it/PRP","it, it - /"
+sd,B,"she/PRP 's/HVS ,/, she/PRP 's/HVS picked/VBN up/RP a/DT lot/NN of/IN things/NNS ,/, uh/UH ,/, just/RB ,/, just/RB by/IN ,/, uh/UH ,/, teaching/VBG by/IN force/NN ,/, I/PRP guess/VBP is/VBZ what/WP I/PRP 'd/MD like/VB to/TO say/VB ./.","[ she's, + she's ] picked up a lot of things, {F uh, } [ just, + just ] by, {F uh, } teaching by force, I guess is what I'd like to say. /"
+b,A,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+qw,A,"So/RB ,/, you/PRP ,/, you/PRP 've/VBP only/RB known/VBN the/DT dog/NN ,/, wh-/XX ,/, how/WRB long/JJ did/VBD you/PRP say/VB ./.","{C So, } [ you, + you've ] only known the dog, [ wh-, + ] how long did you say. /"
+sd,B,"Well/UH ,/, about/RB a/DT year/NN I/PRP guess/VBP ./.","{D Well, } about a year I guess. /"
+qy,A,"Oh/UH ,/, well/UH ,/, uh/UH ,/, is/VBZ it/PRP ,/,","{F Oh, } {D well, } {F uh, } is it, - /"
+qw,A,"uh/UH ,/, uh/UH ,/, how/WRB old/JJ is/VBZ the/DT dog/NN ?/.","{F uh, } {F uh, } how old is the dog? /"
+sd,B,"It/PRP just/RB turned/VBD two/CD ,/, I/PRP believe/VBP ./.","It just turned two, I believe. /"
+bf,A,"Oh/UH ,/, it/PRP 's/BES still/RB just/RB a/DT pup/NN ./.","{F Oh, } it's still just a pup. /"
+aa,B,"Pretty/RB much/JJ ,/,","Pretty much, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+aa,B,yeah/UH ./.,yeah. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP have/VBP a/DT ,/, uh/UH ,/, well/UH a/DT mutt/NN ,/, myself/PRP ./.","I have a, {F uh, } {D well } a mutt, myself. /"
+sd,A,"I/PRP call/VBP it/PRP a/DT ,/, uh/UH ,/, uh/UH ,/, Chowperd/NNP ./.","I call it a, {F uh, } {F uh, } (( Chowperd )) . /"
+b,B,Okay/UH ./.,Okay. /
+sd,A,"It/PRP 's/BES ,/, uh/UH ,/, part/NN Chow/NNP and/CC part/NN Shepherd/NNP","It's, {F uh, } part Chow and part Shepherd /"
+%,A,"and/CC it/PRP ,/,","{C and } it, - /"
+sd,A,"as/IN I/PRP understand/VBP it/PRP ,/, uh/UH ,/, both/DT sides/NNS of/IN the/DT ,/, were/VBD thoroughbreds/NNS ./.","as I understand it, {F uh, } both sides of the, were thoroughbreds. - /"
+sd,A,"So/RB ,/, she/PRP 's/BES a/DT genuine/JJ Chowperd/NNP ./.","{C So, } she's a genuine (( Chowperd )) . /"
+ba,B,"Oh/UH ,/, that/DT sounds/VBZ interesting/JJ ./.","{F Oh, } that sounds interesting. /"
+sd,A,"She/PRP has/VBZ the/DT ,/, the/DT color/NN and/CC the/DT black/JJ to-/NN ,/, tongue/NN of/IN a/DT Chow/NNP ,/,","She has [ the, + the ] color and the black [ to-, + tongue ] of a Chow, /"
+sd,A,"but/CC ,/, uh/UH ,/, she/PRP has/VBZ the/DT shap-/NN ,/, the/DT shape/NN of/IN the/DT ,/, uh/UH ,/, uh/UH ,/, Shepherd/NNP ./.","{C but, } {F uh, } she has [ the shap-, + the shape ] of the, {F uh, } {F uh, } Shepherd. /"
+ba,B,"Oh/UH ,/, that/DT 's/BES ,/, that/DT 's/BES neat/JJ ./.","{F Oh, } [ that's, + that's ] neat. /"
+qw,B,"How/WRB ,/, about/RB how/WRB big/JJ then/RB ?/.","[ How, + about how ] big then? /"
+sd,A,"Oh/UH ,/, she/PRP weighs/VBZ in/RP at/IN about/RB fifty/CD pounds/NNS ,/,","{F Oh, } she weighs in at about fifty pounds, /"
+sd,A,so/RB she/PRP 's/BES a/DT medium/JJ size/NN ./.,{C so } she's a medium size. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+aa,B,Most/JJS definitely/RB ./.,Most definitely. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"and/CC right/RB from/IN day/NN one/CD ,/, she/PRP was/VBD teaching/VBG me/PRP ./.","{C and } right from day one, she was teaching me./"
+aa,B,"Oh/UH ,/, I/PRP would/MD n't/RB doubt/VB it/PRP ,/,","{F Oh, } I wouldn't doubt it, /"
+aa,B,yeah/UH ./.,yeah. /
+sd,A,She/PRP 's/BES the/DT most/RBS intelligent/JJ dog/NN I/PRP 've/VBP ever/RB seen/VBN ./.,<Laughter> She's the most intelligent dog I've ever seen. /
+sd,A,"Course/NN ,/, I/PRP 'm/VBP a/DT little/RB prejudiced/JJ ,/, of/IN course/NN ./.","Course, I'm a little prejudiced, of course. /"
+ba,B,"Well/UH that/DT 's/BES understandable/JJ ,/,","{D Well } that's understandable, /"
+%,B,"yeah/UH ,/,","yeah, /"
+%,B,"it/PRP 's/BES ,/, uh/UH ,/,","it's, {F uh, } -/"
+sd,A,"You/PRP know/VBP ,/, the/DT first/JJ time/NN I/PRP brought/VBD her/PRP$ home/NN ,/, she/PRP was/VBD only/RB ,/, uh/UH ,/, was/VBD it/PRP six/CD weeks/NNS old/JJ ./.","<Throat_clearing> {D You know, } the first time I brought her home, she was only, {F uh, } was it six weeks old. /"
+sd,A,And/CC I/PRP spread/VBD the/DT newspapers/NNS out/RP in/IN the/DT kitchen/NN area/NN ./.,{C And } I spread the newspapers out in the kitchen area. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"But/CC ,/, uh/UH ,/, next/JJ morning/NN ,/, she/PRP let/VBD me/PRP know/VB in/IN no/DT uncertain/JJ terms/NNS that/IN she/PRP wanted/VBD to/TO use/VB the/DT bathroom/NN ./.","{C But, } {F uh, } next morning, she let me know in no uncertain terms that she wanted to use the bathroom. /"
+b,B,Okay/UH ./.,Okay. /
+sd,A,"So/RB ,/, on/IN next/JJ night/NN ,/, I/PRP spread/VBD the/DT newspaper/NN in/IN the/DT bathroom/NN","{C So, } on next night, I spread the newspaper in the bathroom /"
+sd,A,and/CC she/PRP used/VBD them/PRP there/RB ./.,{C and } she used them there. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,"But/CC it/PRP was/VBD n't/RB too/RB long/JJ until/IN she/PRP ,/, uh/UH ,/, found/VBD out/RP she/PRP could/MD wait/VB until/IN I/PRP let/VBP her/PRP out/RB in/IN the/DT morning/NN ./.","{C But } it wasn't too long until she, {F uh, } found out she could wait until I let her out in the morning. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC since/IN then/RB ,/, I/PRP ,/, I/PRP live/VBP alone/RB ,/,","{C And } since then, [ I, + I ] live alone, /"
+b,B,Okay/UH ./.,Okay. /
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP live/VBP in/IN motor/NN home/NN ,/,","{C and, } {F uh, } I live in motor home, /"
+sd,A,"by/IN the/DT way/NN ,/, I/PRP 'm/VBP ,/, uh/UH ,/, an/DT R/NN V/NN ,/, full/GW time/^RB R/NN V/NN -er/NN ,/,","by the way, I'm, {F uh, } an [ R V, + full time R V -er, ] /"
+sd,A,"and/CC it/PRP 's/BES ,/, it/PRP 's/BES such/PDT a/DT pleasure/NN to/TO come/VB home/NN at/IN night/NN","{C and } [ it's, + it's ] such a pleasure to come home at night /"
+sd,A,"and/CC you/PRP can/MD see/VB her/PRP$ smiling/VBG from/IN ear/NN to/IN ear/NN ,/, she/PRP 's/BES so/RB happy/JJ to/TO see/VB me/PRP ./.","{C and } you can see her smiling from ear to ear, she's so happy to see me. /"
+aa,B,"Yeah/UH ,/,","<Laughter> Yeah, /"
+aa,B,definitely/UH ./.,definitely. /
+qy^d,A,"And/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB if/IN you/PRP get/VBP that/DT kind/NN of/IN greeting/NN or/CC not/RB ./.","{C And, } {F uh, } I don't know if you get that kind of greeting or not. /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP can/MD honestly/RB say/VB we/PRP do/VBP ,/, uh/UH ,/, we/PRP ,/, uh/UH ,/, just/RB recently/RB put/VBD a/DT security/NN system/NN in/IN our/PRP$ house/NN","I can honestly say we do, {F uh, } we, {F uh, } just recently put a security system in our house /"
+sd,B,"and/CC so/RB now/RB ,/, uh/UH ,/, in/IN order/NN to/TO ,/, uh/UH ,/, to/TO accommodate/VB the/DT motion/NN detectors/NNS we/PRP have/VBP to/TO keep/VB her/PRP$ ,/, uh/UH ,/, uh/UH ,/, locked/VBN up/RP in/IN the/DT ,/, the/DT master/NN bedroom/NN during/IN the/DT day/NN","{C and so } now, {F uh, } in order [ to, + {F uh, } to ] accommodate the motion detectors we have to keep her, {F uh, } {F uh, } locked up in [ the, + the ] master bedroom during the day /"
+sd,B,"and/CC then/RB she/PRP 's/HVS got/VBN the/DT ,/, the/DT bedroom/NN and/CC the/DT bathroom/NN to/IN ,/, for/IN free/JJ run/NN during/IN the/DT day/NN","{C and then } she's got [ the, + the ] bedroom and the bathroom [ to, + ] for free run during the day /"
+sd,B,"but/CC ,/,","{C but, }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"we/PRP 've/VBP always/RB got/VBN ,/, uh/UH ,/, got/VBN a/DT nose/NN and/CC tongue/NN pressed/VBN up/IN against/IN the/DT window/NN when/WRB we/PRP come/VBP walking/VBG up/IN to/IN the/DT front/JJ door/NN ./.","we've always [ got, + {F uh, } got ] a nose and tongue pressed up against the window when we come walking up to the front door. /"
+x,A,,<Laughter>.
+sd,B,She/PRP 's/BES definitely/RB ready/JJ to/TO get/VB out/RB and/CC run/VB around/RB ./.,She's definitely ready to get out and run around./
+b,B,Really/UH ./.,Really. /
+sd,A,"Uh/UH ,/, she/PRP 'd/MD rather/RB sle/VB ,/, sleep/VB outside/RB on/IN the/DT ,/, the/DT cold/JJ ground/NN at/IN night/NN ./.","{F Uh, } she'd rather [ sle-, + sleep ] outside on [ the, + the ] cold ground at night. /"
+ba,B,Oh/UH wow/UH ./.,{F Oh } wow. /
+sd,A,"But/CC ,/, uh/UH ,/, I/PRP do/VBP make/VB her/PRP$ come/VB in/RB ./.","{C But, } {F uh, } I do make her come in. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC I/PRP feed/VBP her/PRP$ indoors/RB ,/, that/DT 's/BES to/TO lure/VB her/PRP in/RB ,/,","And I feed her indoors, that's to lure her in, /"
+sd,A,"but/CC during/IN the/DT day/NN I/PRP have/VBP her/PRP on/IN a/DT ,/, uh/UH ,/, on/IN a/DT leash/NN ,/,","{C but } during the day I have her [ on a, + {F uh, } on a ] leash,"
+b,B,Okay/UH ./.,Okay. /
++,A,"which/WDT is/VBZ ,/, uh/UH ,/, on/IN sort/RB of/RB a/DT run/NN ./.","which is, {F uh, } on sort of a run. /"
+sd,A,"I/PRP have/VBP a/DT ,/, a/DT thirty/CD foot/NN cable/NN ,/,","I have [ a, + a ] thirty foot cable,"
+b,B,Okay/UH ./.,Okay. /
++,A,"running/VBG from/IN one/CD stake/NN to/IN another/DT ,/,","running from one stake to another, /"
+sd,A,"and/CC then/RB attached/VBN to/IN that/DT is/VBZ a/DT ,/, uh/UH ,/, twelve/CD foot/NN leash/NN ,/,","{C and then } attached to that is a, {F uh, } twelve foot leash, /"
+b,B,Okay/UH ./.,Okay. /
+sd,A,so/RB she/PRP can/MD cover/VB quite/PDT an/DT area/NN ./.,{C so } she can cover quite an area. /
+aa,B,Most/JJS definitely/RB ./.,Most definitely. /
+sd,A,"And/CC ,/, uh/UH ,/, she/PRP 's/BES the/DT best/JJS ,/, uh/UH ,/, burglar/NN alarm/NN going/VBG ./.","{C And, } {F uh, } she's the best, {F uh, } burglar alarm going. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+aa,B,yeah/UH,<laughter> yeah /
+sv,B,"that/DT 's/BES ,/, uh/UH ,/, definite/JJ security/NN involved/VBN in/IN ,/, uh/UH ,/, in/IN a/DT dog/NN like/IN that/DT ./.","that's, {F uh, } definite security involved [ in, + {F uh, } in ] a dog like that. /"
+aa,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+%,A,"she/PRP ,/, uh/UH ,/,","she, {F uh, } - /"
+sd,A,"it/PRP 's/BES the/DT strangest/JJS thing/NN ,/, though/RB ,/, uh/UH ,/, children/NNS ,/, no/DT matter/NN how/WRB strange/JJ they/PRP are/VBP ,/, or/CC how/WRB new/JJ they/PRP might/MD be/VB can/MD walk/VB ,/, uh/UH ,/, right/RB up/IN to/IN her/PRP$ ,/,","it's the strangest thing, though, {F uh, } children, no matter how strange they are, or how new they might be can walk, {F uh, } right up to her, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"but/CC adults/NNS ,/, if/IN they/PRP 're/VBP strange/JJ to/IN her/PRP$ ,/, or/CC ,/, or/CC they/PRP look/VBP suspicious/JJ or/CC something/NN ,/, boy/UH she/PRP acts/VBZ like/IN she/PRP wants/VBZ to/TO chew/VB their/PRP$ leg/NN off/RP ./.","{C but } adults, if they're strange to her, [ or, + or ] they look suspicious or something, {D boy } she acts like she wants to chew their leg off. /"
+ba,B,Wow/UH ./.,Wow. /
+sd,A,"And/CC I/PRP have/VBP not/RB discovered/VBN yet/RB where/WRB the/DT ,/, the/DT line/NN is/VBZ between/IN children/NNS and/CC adults/NNS ./.","{C And } I have not discovered yet where [ the, + the ] line is between children and adults. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+ba,B,that/DT 's/BES interesting/JJ ./.,that's interesting. /
+sd,A,"But/CC ,/, uh/UH ,/, she/PRP is/VBZ a/DT great/JJ comfort/NN to/IN me/PRP ./.","{C But, } {F uh, } she is a great comfort to me. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP know/VBP our/PRP$ dog/NN has/VBZ had/VBN ,/, uh/UH ,/, some/DT different/JJ reactions/NNS ,/,","I know our dog has had, {F uh, } some different reactions, /"
+sd,B,she/PRP 's/HVS never/RB really/RB been/VBN around/IN children/NNS,she's never really been around children /
+sd,B,"and/CC ,/, uh/UH ,/, if/IN ,/, if/IN the/DT child/NN is/VBZ ,/, is/VBZ pretty/RB straight/GW forward/^JJ ,/, um/UH ,/, she/PRP 's/BES fine/JJ ./.","{C and, } {F uh, } [ if, + if ] the child [ is, + is ] pretty straight forward, {F um, } she's fine. /"
+sd,B,"If/IN ,/, if/IN a/DT child/NN is/VBZ a/DT little/RB intimidated/JJ ,/, she/PRP 'll/MD jump/VB around/RB and/CC ,/, and/CC yip/VB and/CC bark/VB quite/PDT a/DT bit/NN ,/,","[ If, + if ] a child is a little intimidated, she'll jump around [ and, + and ] yip and bark quite a bit, /"
+sd,B,"and/CC if/IN the/DT child/NN gets/VBZ scared/JJ ,/, uh/UH ,/, she/PRP 's/BES still/RB trying/VBG to/TO play/VB ,/, but/CC she/PRP does/VBZ n't/RB completely/RB understand/VB what/WP 's/BES going/VBG on/RP","{C and } if the child gets scared, {F uh, } she's still trying to play, but she doesn't completely understand what's going on /"
+sd,B,"and/CC we/PRP 've/VBP had/VBN a/DT little/JJ confusion/NN with/IN ,/, with/IN ,/, uh/UH ,/, with/IN younger/JJR kids/NNS ./.","{C and } we've had a little confusion [ with, + with, ] {F uh, } with younger kids. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"But/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, that/DT 's/BES ,/,","{C But, } {F uh, } {D you know, } that's, - /"
+sv,B,it/PRP 's/BES a/DT matter/NN of/IN exposure/NN really/RB ./.,it's a matter of exposure really. /
+sd,B,"Um/UH ,/, we/PRP ,/, uh/UH ,/, took/VBD her/PRP$ home/NN to/IN ,/, uh/UH ,/, my/PRP$ family/NN 's/POS place/NN in/IN South/NNP Dakota/NNP ,/,","{F Um, } we, {F uh, } took her home to, {F uh, } my family's place in South Dakota, /"
+sd,B,and/CC she/PRP was/VBD the/DT one/NN that/WDT was/VBD intimidated/JJ then/RB ./.,{C and } she was the one that was intimidated then. /
+sd,B,"There/RB was/VBD about/RB seven/CD kids/NNS ranging/VBG from/IN about/RB ,/, uh/UH ,/, three/CD years/NNS to/IN ten/CD years/NNS running/VBG around/IN the/DT house/NN all/RB at/IN one/CD time/NN ,/,","There was about seven kids ranging from about, {F uh, } three years to ten years running around the house all at one time,"
+b,A,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
++,B,you/PRP know/VBP come/VB to/TO visit/VB Grandpa/NNP and/CC Grandma/NNP,{D you know } come to visit Grandpa and Grandma /
+sd,B,"and/CC ,/, the/DT dog/NN kind/RB of/RB ,/, kind/RB of/RB felt/VBD out/IN of/IN place/NN then/RB because/IN she/PRP was/VBD ,/, she/PRP was/VBD being/VBG fed/VBN ,/, and/CC everything/NN else/RB from/IN all/DT directions/NNS ./.","{C and, } the dog [ kind of, + kind of ] felt out of place then because [ she was, + she was ] being fed, and everything else from all directions. /"
+sd,B,She/PRP really/RB did/VBD n't/RB know/VB how/WRB to/TO handle/VB herself/PRP ./.,She really didn't know how to handle herself. /
+bf,A,You/PRP mean/VBP she/PRP did/VBD n't/RB appreciate/VB all/PDT that/DT attention/NN ./.,You mean she didn't appreciate all that attention./
+ar,B,"She/PRP really/RB did/VBD ,/,","She really did, /"
+%,B,"she/PRP just/RB ,/, uh/UH ,/,","she just, {F uh, } - /"
+sd,B,"she/PRP ,/, she/PRP was/VBD alm-/XX ,/, she/PRP was/VBD just/RB inundated/VBN with/IN ,/, with/IN all/PDT the/DT attention/NN ./.","[ [ she, + she ] was alm-, + she was ] just inundated [ with, + with ] all the attention. /"
+sd,B,"Uh/UH ,/, she/PRP ,/, she/PRP kind/RB of/RB ,/, she/PRP kind/RB of/RB sat/VBD and/CC MUMBLEx/XX it/PRP all/DT in/RB for/IN a/DT little/JJ while/IN","{F Uh, } [ [ she, + she ] kind of, + she kind of ] sat and (( )) it all in for a little while - /"
+sd,B,"and/CC then/RB she/PRP 'd/MD go/VB get/VB back/RB in/RB and/CC try/VB to/TO play/VB and/CC ,/, and/CC what/WP not/RB ,/,","{C and then } she'd go get back in and try to play [ and, + and ] what not, /"
+sd,B,"but/CC ,/, uh/UH ,/, it/PRP was/VBD ,/, it/PRP was/VBD just/RB such/PDT a/DT ,/, such/JJ a/DT new/JJ experience/NN for/IN her/PRP$ ./.","{C but, } {F uh, } [ it was, + it was ] just [ such a, + such a ] new experience for her. /"
+sd,B,"She/PRP 's/HVS only/RB been/VBN around/RB one/CD and/CC ,/, and/CC sometimes/RB two/CD people/NNS at/IN the/DT most/RBS","She's only been around one [ and, + and ] sometimes two people at the most /"
+%,B,"so/RB ,/, uh/UH ./.","{C so, } {F uh. } -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qw,A,What/WP 's/BES her/PRP$ name/NN by/IN the/DT way/NN ?/.,What's her name by the way? /
+br,B,"Uh/UH ,/, pardon/UH ?/.","{F Uh, } pardon? /"
+qw,A,"What/WP ,/, what/WP do/VBP you/PRP call/VB the/DT dog/NN ?/.","[ What, + what ] do you call the dog? /"
+sd,B,"Oh/UH ,/, it/PRP 's/BES ,/, uh/UH ,/, Mitzi/NNP ./.","{F Oh, } it's, {F uh, } Mitzi. /"
+b^m,A,Mitzi/NNP ./.,Mitzi. /
+aa,B,Yeah/UH ./.,Yeah. /
+sd,A,Mine/PRP is/VBZ Gin/NNP ./.,Mine is Gin. /
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,A,"As/IN in/IN ,/, uh/UH ,/, martini/NN ./.","As in, {F uh, } martini. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Actually/UH ,/, it/PRP 's/BES Gin/NNP two/CD ./.","<Laughter> {D Actually, } it's Gin two. /"
+bk,B,"I/PRP ,/, I/PRP see/VBP ./.","[ I, + I ] see. /"
+sd,A,"Because/IN ,/, uh/UH ,/, when/WRB I/PRP was/VBD a/DT teenager/NN ,/, in/IN high/JJ school/NN ,/, I/PRP had/VBD Gin/NNP one/CD ,/,","{C Because, } {F uh, } when I was a teenager, in high school, I had Gin one, /"
+sd,A,"but/CC then/RB when/WRB I/PRP went/VBD out/IN in/IN the/DT world/NN ,/, I/PRP could/MD n't/RB take/VB her/PRP with/IN me/PRP ./.","{C but } then when I went out in the world, I couldn't take her with me. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+sd,B,"I/PRP had/VBD ,/, uh/UH ,/, a/DT similar/JJ ,/, uh/UH ,/, experience/NN ./.","I had, {F uh, } a similar, {F uh, } experience. /"
+sd,B,"I/PRP ,/, I/PRP grew/VBD up/RP on/IN a/DT farm/NN","[ I, + I ] grew up on a farm /"
+sd,B,"so/RB I/PRP always/RB had/VBD ,/, uh/UH ,/, outdoor/JJ pets/NNS","{C so } I always had, {F uh, } outdoor pets /"
+sd,B,"and/CC ,/,","{C and, }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"uh/UH ,/, the/DT dog/NN I/PRP had/VBD when/WRB I/PRP moved/VBD to/IN Dallas/NNP about/RB five/CD years/NNS ago/RB was/VBD a/DT ,/, uh/UH ,/, Springer/NNP Spaniel/NNP ,/, black/JJ Lab/NNP cross/NN ./.","{F uh, } the dog I had when I moved to Dallas about five years ago was a, {F uh, } Springer Spaniel, black Lab cross. /"
+sd,B,"And/CC he/PRP was/VBD a/DT real/RB ,/, a/DT real/RB lovable/JJ type/NN ,/,","{C And } he was [ a real, + a real ] lovable type,"
+b,A,Oh/UH yeah/UH ./.,{F Oh } yeah. /
++,B,"but/CC ,/, uh/UH ,/, definitely/RB not/RB an/DT apartment/NN type/NN animal/NN","but, {F uh, } definitely not an apartment type animal /"
+sd,B,"so/RB he/PRP ,/, uh/UH ,/, he/PRP had/VBD to/TO stay/VB home/NN ./.","{C so } [ he, + {F uh, } he ] had to stay home. /"
+"fo_o_fw_""_by_bc",A,"Oh/UH ,/, what/WP a/DT shame/NN ./.","{F Oh, } what a shame. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+sd,B,it/PRP really/RB was/VBD ./.,it really was. /
+sd,B,"He/PRP ,/, uh/UH ,/, apparently/RB had/VBD a/DT tough/JJ time/NN with/IN it/PRP for/IN a/DT little/JJ while/IN","He, {F uh, } apparently had a tough time with it for a little while /"
+sd,B,"and/CC then/RB he/PRP ,/, he/PRP got/VBD ,/, he/PRP came/VBD to/TO accept/VB the/DT fact/NN that/DT Mom/NNP and/CC Dad/NNP were/VBD his/PRP$ company/NN from/IN then/RB on/RB ,/,","{C and then } [ [ he, + he ] got, + he came ] to accept the fact that Mom and Dad were his company from then on, /"
+%,B,"but/CC ,/, uh/UH ./.","{C but, } {F uh. } -/"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+"fo_o_fw_""_by_bc",A,oh/UH well/UH ./.,{F oh } {D well. } /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Well/UH Randy/UH ,/, we/PRP 've/VBP just/RB about/IN used/VBN up/RP our/PRP$ time/NN here/RB ,/,","{D Well } Randy, we've just about used up our time here, /"
+aa,B,Okay/UH ./.,Okay. /
+sv,A,and/CC I/PRP must/MD say/VB it/PRP was/VBD interesting/JJ ./.,{C and } I must say it was interesting. /
+aa,B,Most/JJS definitely/RB ./.,Most definitely. /
+sv,A,I/PRP enjoyed/VBD talking/VBG about/IN pets/NNS with/IN you/PRP ./.,I enjoyed talking about pets with you. /
+ba,B,Well/UH that/DT 's/BES great/JJ ./.,{D Well } that's great. /
+fc,A,Maybe/RB we/PRP 'll/MD get/VB together/RB again/RB in/IN the/DT future/NN ./.,Maybe we'll get together again in the future. /
+fc,B,That/DT sounds/VBZ real/RB good/JJ ./.,That sounds real good. /
+fc,A,Take/VB care/NN now/RB ./.,Take care now. /
+fc,B,You/PRP too/RB ./.,You too. /
+fc,A,Bye/UH ./.,Bye. /

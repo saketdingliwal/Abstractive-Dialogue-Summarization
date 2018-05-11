@@ -1,0 +1,114 @@
+act_tag,speaker,pos,text
+qy,A,Do/VBP you/PRP have/VB any/DT hobbies/NNS ?/.,Do you have any hobbies? /
+ny,B,"Yes/UH ,/,","Yes, /"
+sd,B,I/PRP do/VBP ./.,I do. /
+qw,A,What/WP are/VBP yours/PRP$ ?/.,What are yours? /
+sd,B,China/NNP painting/NN and/CC ceramics/NNS ./.,China painting and ceramics. /
+ba,A,"Ooh/UH ,/, how/WRB great/JJ ./.","{F Ooh, } how great. /"
+sd,B,I/PRP enjoy/VBP it/PRP ./.,I enjoy it. /
+b,B,Uh-huh/UH ./.,Uh-huh <<faint>>. /
+"fo_o_fw_""_by_bc",A,"Oh/UH ,/, uh/UH ,/, ceramic/JJ painting/NN ./.","{F Oh, } {F uh, } ceramic painting. /"
+sd,B,I/PRP enjoy/VBP the/DT china/NN more/RBR ./.,I enjoy the china more. /
+b^m,A,The/DT china/NN more/RBR ./.,The china more. /
+sd,B,"And/CC now/RB that/IN I/PRP have/VBP my/PRP$ eyes/NNS ,/, corrected/VBN to/IN the/DT point/NN that/WDT I/PRP can/MD see/VB the/DT delicate/JJ part/NN of/IN china/NN painting/NN ,/, I/PRP do/VBP enjoy/VB it/PRP ./.","{C And } now that I have my eyes, <laughter> corrected to the point that I can see <breathing> the delicate part of china painting, I do enjoy it. /"
+qw,A,How/WRB did/VBD you/PRP ever/RB get/VB into/IN that/DT ?/.,How did you ever get into that? /
+sv,A,That/DT sounds/VBZ so/RB interesting/JJ ./.,That sounds so interesting. /
+sd,B,"My/PRP$ husband/NN kept/VBD begging/VBG me/PRP ,/,","My husband <breathing> kept begging me, /"
+sd,B,"and/CC he/PRP 's/HVS been/VBN dead/JJ now/RB for/IN twenty/CD years/NNS ,/,","{C and } he's been dead now for twenty years, /"
+sd,B,so/RB you/PRP understand/VBP that/IN this/DT was/VBD a/DT long/JJ time/NN ago/RB ./.,{C so } you understand that this was a long time ago. /
+sd,B,"But/CC he/PRP finally/RB brought/VBD me/PRP the/DT china/NN ,/, the/DT book/NN ,/, the/DT brushes/NNS and/CC he/PRP said/VBD I/PRP have/VBP made/VBN arrangements/NNS for/IN your/PRP$ lessons/NNS ./.","{C But } he finally brought me the china, the book, the brushes and he said I have made arrangements for your lessons. /"
+ba,A,"How/WRB marvel/JJ ,/,","How marvel-, - /"
+%,A,"I/PRP ,/,","I, -/"
+sd,B,And/CC I/PRP said/VBD I/PRP 'll/MD do/VB it/PRP for/IN three/CD months/NNS,{C And } I said I'll do it for three months /
+sd,B,"and/CC if/IN I/PRP do/VBP n't/RB like/VB it/PRP ,/, that/DT 's/BES it/PRP ./.","{C and } if I don't like it, that's it. /"
+sd,B,"Well/UH ,/, I/PRP painted/VBD an/DT awful/JJ lot/NN until/IN his/PRP$ death/NN ,/, which/WDT was/VBD several/JJ years/NNS ./.","{D Well, } I painted <laughter> an awful lot until his death, which was several years. /"
+sd,B,"And/CC it/PRP has/VBZ just/RB been/VBN the/DT most/RBS relaxing/JJ ,/, enjoyable/JJ ,/, self-satisfying/JJ thing/NN I/PRP 've/VBP had/VBN ./.","{C And } it has just been the most relaxing, enjoyable <breathing>, self-satisfying thing I've had. /"
+%,B,"I/PRP ,/,","I, -/"
+qy,A,"Now/UH ,/, do/VBP you/PRP do/VB it/PRP just/RB for/IN yourself/PRP ,/,","{D Now, } do you do it just for yourself, /"
+qrr,A,"or/CC do/VBP you/PRP do/VB it/PRP to/TO give/VB as/IN gifts/NNS ,/,","{C or } do you do it to give as gifts, /"
+qrr,A,or/CC do/VBP you/PRP actually/RB sell/VB it/PRP ?/.,{C or } do you actually sell it? /
+sd,B,I/PRP have/VBP sold/VBN quite/PDT a/DT bit/NN ./.,I have sold quite a bit. /
+sd,B,"I/PRP give/VBP a/DT lot/NN to/IN our/PRP$ two/CD daughters/NNS that/WDT are/VBP grown/VBN and/CC have/VBP their/PRP$ home/NN ,/,","I give a lot to our two daughters that are grown and have their home <breathing>, /"
+sd,B,and/CC then/RB I/PRP just/RB have/VBP the/DT rest/NN of/IN my/PRP$ house/NN with/IN lot/NN of/IN hand/NN painting/NN in/IN it/PRP ./.,{C and then } I just have the rest of my house with lot of hand painting in it. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ba,A,"Oh/UH ,/, that/DT sounds/VBZ mar-/XX ,/,","{F Oh, } that sounds mar-, - /"
+qy,A,"now/UH ,/, do/VBP you/PRP work/VB outside/IN of/IN the/DT home/NN ?/.","{D now, } do you work outside of the home? /"
+sd,B,I/PRP have/VBP just/RB retired/VBN ./.,I have just retired. /
+bf,A,You/PRP 've/VBP just/RB retired/VBN ./.,You've just retired. /
+aa,B,Yes/UH ./.,Yes. /
+sv,A,"Oh/UH ,/, oh/UH ,/, what/WP a/DT great/JJ --/:","{F Oh, } {F oh, } what a <laughter> great --"
+arp_nd,B,"No/UH ,/,","No, /"
+sd,B,"it/PRP 's/BES not/RB ,/,","it's not, /"
++,A,--/: hobby/NN ./.,-- hobby <laughter>. /
+%,A,"I/PRP ,/,","I, -/"
+sd,B,"It/PRP 's/BES a/DT great/JJ hobby/NN ,/,","<Laughter> It's a great hobby, /"
+ad,B,but/CC do/VB n't/RB retire/VB ./.,{C but } don't retire <laughter>. /
+b^m,A,Do/VB n't/RB retire/VB ./.,Don't retire. /
+b,B,"Oh/UH ,/,","{F Oh, } /"
+sd,A,"Well/UH ,/, see/UH ,/, I/PRP do/VBP n't/RB ,/,","{D Well, } {D see, } I don't, - /"
+sd,A,"I/PRP never/RB ,/, uh/UH ,/, returned/VBD to/IN work/NN for/IN the/DT p-/XX ,/,","I never, {F uh, } returned to work for the p-, - /"
+sd,A,I/PRP have/VBP stayed/VBD home/RB for/IN about/RB the/DT last/JJ nine/CD years/NNS ./.,I have stayed home for about the last nine years. /
+%,B,"Oh/UH ,/, have/VBP ,/, well/UH ,/,","{F Oh, } have, {D well, } -/"
+sd,A,"We/PRP 've/VBP transferred/VBN around/IN ,/,","We've transferred around, /"
+sd,A,"and/CC our/PRP$ last/JJ area/NN was/VBD in/IN a/DT rural/JJ section/NN right/RB on/IN the/DT lake/NN ,/, uh/UH ,/, on/IN Lake/NNP Erie/NNP ./.","{C and } our last area was in a rural section right on the lake, {F uh, } on Lake Erie. /"
+sd,A,"So/RB the/DT lake/NN life/NN appealed/VBD to/IN me/PRP ,/,","{C So } the lake life appealed to me, /"
+sd,A,and/CC my/PRP$ husband/NN 's/BES working/VBG,{C and } my husband's working /
+sd,A,and/CC he/PRP left/VBD it/PRP up/IN to/IN me/PRP if/IN I/PRP worked/VBD or/CC not/RB ./.,{C and } he left it up to me if I worked or not. /
+ba,B,Wow/UH ./.,Wow. /
+sd,A,"So/RB ,/, in/IN my/PRP$ spare/JJ time/NN ,/, I/PRP love/VBP to/TO sew/VB ./.","{C So, } in my spare time, I love to sew. /"
+sd,A,"There/EX are/VBP n't/RB too/RB many/JJ people/NNS around/IN anymore/RB that/WDT really/RB enjoy/VBP sewing/NN ,/,","There aren't too many people around anymore that really enjoy sewing, /"
+sd,A,but/CC I/PRP do/VBP make/VB all/DT my/PRP$ own/JJ clothes/NNS,{C but } I do make all my own clothes /
+sd,A,"and/CC we/PRP recently/RB purchased/VBD a/DT new/JJ home/NN ,/,","{C and } we recently purchased a new home, /"
+sd,A,"so/RB I/PRP enjoy/VBP doing/VBG my/PRP$ ,/, uh/UH ,/, toppers/NNS for/IN my/PRP$ window/NN applications/NNS --/:","{C so } I enjoy <breathing> doing my, {F uh, } toppers for my window applications --"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
++,A,--/: and/CC things/NNS like/IN that/DT ./.,-- and things like that. /
+sd,A,"But/CC ,/, uh/UH ,/, just/RB when/WRB I/PRP thought/VBD I/PRP really/RB enjoyed/VBD my/PRP$ hobby/NN ,/, yours/PRP$ sounds/VBZ great/JJ ./.","{C But, } {F uh, } just when I thought I really enjoyed my hobby, yours sounds great <laughter>. /"
+sd,B,"Well/UH ,/, my/PRP$ sister/NN is/VBZ the/DT seamstress/NN of/IN the/DT two/CD of/IN us/PRP ./.","<Laughter> {D Well, } my sister is the seamstress of the two of us. /"
+sd,B,"And/CC ,/, but/CC she/PRP does/VBZ n't/RB china/GW paint/^VB","[ {C And, } + {C but } ] she doesn't china paint /"
+sd,B,so/RB we/PRP both/DT have/VBP our/PRP$ expertise/NN side/NN ./.,{C so } we both have our expertise side. /
+ba,A,That/DT is/VBZ excellent/JJ ./.,That is excellent. /
+qw,B,What/WDT part/NN of/IN Ohio/NNP are/VBP you/PRP in/IN ?/.,What part of Ohio are you in? /
+sd,A,"We/PRP 're/VBP in/IN the/DT sub-/NN ,/, I/PRP 'm/VBP in/IN the/DT suburb/NN of/IN Cleveland/NNP","[ We're in the sub-, + I'm in the suburb ] of Cleveland /"
+sd,A,"and/CC I/PRP 'm/VBP about/RB ,/, uh/UH ,/, fifteen/CD miles/NNS ,/, probably/RB ,/, from/IN downtown/NN Cleveland/NNP ,/, something/NN like/IN that/DT ./.","{C and } I'm about, {F uh, } fifteen miles, probably, from downtown Cleveland, something like that. /"
+sd,A,And/CC Cleveland/NNP is/VBZ located/VBN right/RB on/IN Lake/NNP Erie/NNP,{C And } Cleveland is located right on Lake Erie /
+sd,A,"and/CC prior/IN to/IN this/DT ,/, we/PRP were/VBD fifty/CD miles/NNS west/RB from/IN here/RB ./.","{C and } prior to this, we were fifty miles west from here. /"
+sd,A,So/RB we/PRP were/VBD right/RB on/IN the/DT lake/NN ./.,{C So } we were right on the lake. /
+sd,A,And/CC Cleveland/NNP is/VBZ n't/RB all/RB as/RB bad/JJ as/IN what/WP you/PRP 've/VBP heard/VBN ./.,{C And } Cleveland isn't all as bad as what you've heard <laughter>. /
+%,B,"Oh/UH ,/, what/WP 's/BES that/DT ,/,","{F Oh, } what's that, -/"
+sd,A,"And/CC you/PRP do/VBP find/VB people/NNS ,/, uh/UH ,/, into/IN the/DT crafts/NNS and/CC the/DT things/NNS that/WDT ,/, uh/UH ,/, various/JJ things/NNS for/IN spare/JJ time/NN ,/,","{C And } you do find people, {F uh, } into the crafts and [ the things that, + {F uh, } various things ] for spare time, /"
+sd,A,"but/CC ,/, I/PRP have/VBP never/RB heard/VBN and/CC I/PRP have/VBP actually/RB never/RB run/VBN into/IN anyone/NN into/IN the/DT china/NN painting/NN","{C but, } I have never heard and I have actually never run into anyone into the china painting /"
+sd,A,and/CC I/PRP 'm/VBP just/RB intrigued/JJ with/IN it/PRP ./.,{C and } I'm just intrigued with it. /
+sd,B,"If/IN you/PRP ever/RB start/VBP ,/, be/VB sure/JJ and/CC start/VB with/IN a/DT large/JJ piece/NN that/WDT you/PRP can/MD ,/, I/PRP mean/VBP a/DT large/JJ flat/JJ plate/NN ./.","If you ever start, be sure and start with [ a large piece that you can, + {E I mean } a large flat plate. ] /"
+sd,B,"Um/UH ,/, that/DT way/NN you/PRP can/MD get/VB the/DT feel/NN of/IN ,/,","{F Um, } that way you can get the feel of, - /"
+sd,B,you/PRP 're/VBP not/RB cramped/JJ on/IN these/DT smaller/JJR objects/NNS ./.,you're not cramped on these smaller objects. /
+b,A,"Right/UH ,/,","Right, /"
+sd,A,where/WRB you/PRP 're/VBP getting/VBG into/IN the/DT delicate/JJ work/NN ./.,where you're getting into the delicate work. /
+ba,B,That/DT 's/BES right/JJ ./.,That's right. /
+qw,A,"Now/UH ,/, do/VBP you/PRP ,/, where/WRB did/VBD you/PRP first/RB get/VB your/PRP$ lessons/NNS from/IN ?/.","{D Now, } [ do you, + where did you ] first get your lessons from? /"
+sd,B,"In/IN Abilene/NNP ,/, Texas/NNP ./.","In Abilene, Texas. /"
+qy^d,A,"Through/IN a/DT ,/, uh/UH ,/, an/DT adult/NN ed/NN ,/, or/CC strictly/RB a/DT china/NN type/NN ,/,","Through [ a, + {F uh, } an ] adult ed, or strictly a china type, /"
+sd,B,She/PRP just/RB taught/VBD china/NN painting/NN ./.,She just taught china painting. /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+%,B,"and/CC ,/,","{C and, } -/"
+ba,A,"Oh/UH ,/, how/WRB marvelous/JJ ./.","{F Oh, } how marvelous. /"
+sd,B,"Then/RB ,/, then/RB we/PRP had/VBD so/RB much/JJ fun/NN there/RB ,/,","[ Then, + then ] we had so much fun there, /"
+sd,B,"I/PRP had/VBD a/DT friend/NN from/IN Albany/NNP ,/, which/WDT is/VBZ about/RB thirty-six/CD miles/NNS away/RB ,/,","I had a friend from Albany, which is about thirty-six miles away, /"
+sd,B,"and/CC we/PRP would/MD meet/VB every/DT Thursday/NNP morning/NN at/IN our/PRP$ instructor/NN 's/POS home/NN ,/, because/IN she/PRP did/VBD our/PRP$ firing/NN for/IN us/PRP ,/,","{C and } we would meet every Thursday morning at our instructor's home, because she did our firing for us, /"
+sd,B,and/CC she/PRP would/MD help/VB us/PRP,{C and } she would help us /
+sd,B,"and/CC we/PRP bought/VBD lots/NNS of/IN equipment/NN from/IN her/PRP ,/, supplies/NNS","{C and } we bought lots of equipment from her, supplies /"
+sd,B,and/CC it/PRP was/VBD just/RB such/PDT a/DT delightful/JJ time/NN ./.,{C and } it was just such a delightful time. /
+%,B,"And/CC then/RB after/IN I/PRP ,/,","{C And then } after I, -/"
+ba,A,"Oh/UH ,/, and/CC it/PRP 's/BES so/RB nice/JJ ,/,","{F Oh, } {C and } it's so nice, /"
+br,B,Beg/VBP pardon/NN ?/.,Beg pardon? /
+sv,A,"It/PRP must/MD be/VB so/RB nice/JJ for/IN you/PRP ,/, now/RB that/IN you/PRP 're/VBP retired/JJ ./.","It must be so nice for you, now that you're retired. /"
+sd,B,I/PRP have/VBP been/VBN a/DT little/JJ bit/NN negligent/JJ about/IN it/PRP because/IN I/PRP was/VBD so/RB tired/JJ when/WRB I/PRP had/VBD to/TO go/VB to/IN work/NN after/IN my/PRP$ husband/NN 's/POS death/NN ./.,I <breathing> have been a little bit negligent about it because I was so tired when I had to go to work after my husband's death. /
+sd,B,"So/RB I/PRP have/VBP put/VBN it/PRP aside/RB for/IN a/DT little/JJ while/NN ,/,","{C So } I have put it aside for a little while, /"
+sd,B,"but/CC I/PRP 'm/VBP ,/, I/PRP have/VBP just/RB found/VBN me/PRP an/DT instructor/NN to/TO get/VB started/VBN again/RB ,/,","{C but } [ I'm, + I ] have just found me an instructor to get started again, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+ba,A,"Oh/UH ,/, is/VBZ n't/RB that/DT great/JJ ./.","{F Oh, } isn't that great. /"
+sd,A,"And/CC you/PRP 'll/MD probably/RB really/RB ,/, uh/UH ,/, re/VB ,/, regain/VB your/PRP$ enthusiasm/NN for/IN it/PRP --/:","{C And } you'll probably really, {F uh, } [ re-, + regain ] your enthusiasm for it --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: once/IN you/PRP get/VBP into/IN a/DT ,/, a/DT class/NN again/RB ./.","-- once you get into [ a, + a ] class again. /"
+sd,B,"Of/IN course/NN ,/, I/PRP just/RB have/VBP one/CD beautiful/JJ p-/NNS ,/, with/IN peonies/NNS ,/, uh/UH ,/, umbrella/NN stand/NN ,/,","Of course, I just have one beautiful [ p-, + with peonies, ] {F uh, } umbrella stand, /"
+sd,B,and/CC I/PRP have/VBP two/CD daughters/NNS,{C and } I have two daughters /
+%,B,"and/CC they/PRP 're/VBP both/DT ,/,","{C and } they're both, -/"

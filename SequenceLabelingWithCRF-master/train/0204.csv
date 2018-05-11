@@ -1,0 +1,320 @@
+act_tag,speaker,pos,text
+qy,A,"Well/UH ,/, do/VBP you/PRP own/VB a/DT P/NN C/NN ?/.","{D Well, } do you own a P C? /"
+nn,B,"No/UH ,/,","No, /"
+sd,B,"I/PRP do/VBP n't/RB ,/,","I don't, /"
+sd,B,"I/PRP have/VBP one/CD at/IN ,/, uh/UH ,/,","I have one at, {F uh, } - /"
+sd,B,"the/DT company/NN I/PRP work/VBP for/IN furnishes/VBZ ,/,","the company I work for furnishes, /"
+sd,B,so/IN I/PRP can/MD work/VB at/IN home/NN ./.,{C so } I can work at home. /
+ba,A,"Oh/UH ,/, wow/UH ./.","{F Oh, } wow. /"
+sd,B,"And/CC it/PRP 's/BES just/RB an/DT old/JJ ,/, old/JJ compact/NN ,/, that/WDT is/VBZ super/RB slow/JJ","{C And } it's just an [ old, + old ] compact, that is super slow /"
+sd,B,"and/CC ,/, but/CC it/PRP does/VBZ ,/, it/PRP does/VBZ its/PRP$ job/NN ,/,","[ {C and, } + {C but } ] [ it does, + it does ] its job, /"
+%,B,so/RB ./.,{C so. } -/
+qw,A,What/WDT processor/NN does/VBZ it/PRP have/VB in/IN it/PRP ?/.,What processor does it have in it? /
+no,B,"Um/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","{F Um, } I don't know, /"
+sd,B,it/PRP 's/BES so/RB old/JJ ./.,it's so old. /
+%,B,"It/PRP 's/BES one/CD of/IN ,/,","It's one of, -/"
+qw,A,Oh/UH what/WDT kind/RB of/RB work/NN do/VBP you/PRP do/VB on/IN it/PRP ?/.,{F Oh } <laughter> what kind of work do you do on it? /
+sd,B,"Um/UH ,/, I/PRP do/VBP ,/, um/UH ,/, television/NN ratings/NNS","{F Um, } I do, {F um, } television ratings /"
+sd,B,"and/CC I/PRP process/VBP some/DT ratings/NNS and/CC put/VBP ,/, do/VBP graphics/NNS for/IN their/PRP$ television/NN stations/NNS ,/,","{C and } I process some ratings and [ put, + do ] graphics for their television stations,"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
++,B,"MUMBLEx/XX their/PRP$ clients/NNS ,/,","(( )) their clients, /"
+%,B,so/RB ./.,{C so. } -/
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"It/PRP 's/BES basically/RB just/JJ data/NN entry/NN and/CC running/VBG ,/, you/PRP know/VBP ,/, some/DT ,/, some/DT software/NN","It's basically just data entry and running, {D you know, } [ some, + some ] software /"
+sd,B,"so/RB it/PRP does/VBZ n't/RB really/RB have/VB to/TO be/VB anything/NN sophisticated/JJ ,/, you/PRP know/VBP ./.","{C so } it doesn't really have to be anything sophisticated, {D you know. } /"
+b,A,"Huh/UH ,/, yeah/UH ,/,","{F Huh, } yeah, /"
+sd,A,I/PRP do/VBP n't/RB own/VB a/DT P/NN C/NN,I don't own a P C /
+sd,A,"but/CC I/PRP 've/VBP ,/, I/PRP 've/VBP ,/, yeah/UH ,/, I/PRP work/VBP for/IN T/NNP I/NNP","{C but } [ [ I've, + I've, ] + {D yeah, } I ] work for T I /"
+%,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"my/PRP$ husband/NN does/VBZ ,/, too/RB ,/,","my husband does, too, /"
+%,B,so/RB ./.,{C so. } -/
+sd,A,"Well/UH ,/, I/PRP have/VBP ,/, uh/UH ,/, pretty/RB ,/, fa/JJ ,/, a/DT fairly/RB fancy/JJ one/NN ,/,","{D Well, } I have, {F uh, } [ [ pretty, + fa-, ] + a fairly ] fancy one, /"
+sd,A,it/PRP 's/BES a/DT T/NNP I/NNP model/NN ./.,it's a T I model. /
+sd,A,"It/PRP 's/BES an/DT S/NNP P/NNP one/CD thousand/CD which/WDT ,/, has/VBZ a/DT ,/, it/PRP has/VBZ a/DT fast/JJ processor/NN in/IN it/PRP ,/, a/DT three/CD eighty-six/CD ./.","It's an S P one thousand which, [ has a, + [ it + ] has a ] fast processor in it, a three eighty-six. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"And/CC I/PRP ,/,","{C And } I, - /"
+sd,A,"the/DT ,/, the/DT job/NN that/WDT I/PRP do/VBP ,/,","[ the, + the ] job that I do, - /"
+sd,A,I/PRP do/VBP a/DT lot/NN of/IN training/VBG of/IN our/PRP$ customers/NNS for/IN new/JJ products/NNS ./.,I do a lot of training of our customers for new products. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC I/PRP have/VBP to/TO develop/VB ,/, uh/UH ,/, functional/JJ specs/NNS and/CC ,/, disk/NN and/CC desk/NN top/NN publishing/NN and/CC everything/NN ,/,","{C And } I have to develop, {F uh, } functional (( specs )) [ and + <noise>, (( disk )) and ] (( desk )) top publishing and everything, /"
+sd,A,"so/RB it/PRP 's/BES ,/,","{C so } [ it's, +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"it/PRP 's/BES kind/RB of/RB fun/JJ ,/,","it's ] kind of fun, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP mean/VBP ,/, I/PRP ,/, I/PRP always/RB say/VBP that/IN I/PRP need/VBP to/TO buy/VB a/DT computer/NN for/IN the/DT house/NN","{E I mean, } [ I, + I ] always say that I need to buy a computer for the house /"
+sd,A,but/CC I/PRP just/RB have/VBP n't/RB got/VBN around/IN to/TO doing/VBG it/PRP yet/RB ./.,{C but } I just haven't got around to doing it yet. /
+b,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,B,"I/PRP 'd/MD like/VB to/TO have/VB one/CD for/IN the/DT house/NN ,/, too/RB ,/,","I'd like to have one for the house, too, /"
+sd,B,"but/CC sometimes/RB MUMBLEx/XX my/PRP$ husband/NN ,/, my/PRP$ husband/NN says/VBZ usually/RB ,/, I/PRP work/VBP on/IN the/DT computer/NN all/DT day/NN at/IN work/NN ,/,","{C but } sometimes (( )) [ my husband, + my husband ] says usually, I work on the computer all day at work, /"
+^q,B,"I/PRP do/VBP n't/RB want/VB to/TO come/VB home/RB and/CC have/VB to/TO work/VB on/IN one/CD ,/, too/RB ./.","I don't want to come home and have to <laughter> work on one, (( too )) . /"
+qw,A,"Your/PRP$ husband/NN ,/, what/WDT ,/, what/WDT group/NN is/VBZ your/PRP$ husband/NN in/IN ?/.","Your husband, [ what, + what ] group is your husband in? /"
+sd,B,"Um/UH ,/, something/NN with/IN the/DT defense/NN ./.","{F Um, } something with the defense. /"
+b,A,"Oh/UH ,/, MUMBLEx/XX ?/.","Oh, (( )) ? /"
+br,B,Huh/UH ?/.,{F Huh? } /
+qy^d,A,Defense/NN systems/NNS and/CC electronics/NN group/NN ?/.,Defense systems and electronics group? /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"something/NN like/IN that/DT ,/,","something like that, /"
+%,B,"yeah/UH ,/,","yeah, /"
+sd,B,"they/PRP 've/VBP changed/VBN their/PRP$ name/NN so/RB many/JJ times/NNS I/PRP 've/VBP lost/VBN track/NN ,/,","they've changed their name so many times I've lost track, /"
+%,B,so/RB ./.,{C so. } -/
+b,A,I/PRP see/VBP ./.,I see. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,He/PRP works/VBZ up/IN in/IN Plano/NNP ./.,He works up in Plano. /
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+%,B,So/UH ./.,{D So } <<very faint>>. -/
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP work/VBP on/IN ,/, uh/UH ,/, printers/NNS and/CC ,/,","I work on, {F uh, } printers and,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"the/DT peripheral/JJ products/NNS division/NN ,/, basically/RB ,/, uh/UH ,/,","the peripheral products division, basically, {F uh, } /"
+sd,A,"I/PRP work/VBP in/IN the/DT airline/NN ,/, ma-/NN ,/, marketing/NN group/NN ./.","I work in the airline, [ ma-, + marketing ] group. /"
+b,B,Oh/UH ./.,Oh. /
+%,A,"So/RB ,/, we/PRP ,/, we/PRP do/VBP a/DT lot/NN of/IN ,/,","{C So, } [ we, + we ] do a lot of, -/"
+sd,B,I/PRP did/VBD n't/RB even/RB know/VB they/PRP had/VBD anything/NN like/IN that/DT ./.,I didn't even know they had anything like that. /
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+%,B,"Man/UH ,/,","Man, /"
+%,B,"there/EX 's/BES so/RB ,/,","there's so, - /"
+%,B,"they/PRP 're/VBP ,/,","they're, - /"
+sd,B,"I/PRP learned/VBD so/RB many/JJ things/NNS that/WDT they/PRP ,/, they/PRP do/VBP ,/,","I learned so many things that [ they, + they ] do, /"
+sd,B,"they/PRP 're/VBP into/IN so/RB many/JJ different/JJ things/NNS ,/,","they're into so many different things, /"
+%,B,so/RB ./.,{C so. } -/
+x,A,./.,<Laughter>.
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"I/PRP just/RB kind/RB of/RB ,/,","I just kind of, - /"
+%,B,"MUMBLEx/XX in/IN for/IN a/DT while/NN ,/, you/PRP know/VBP ,/,","(( )) in for a while, {D you know, } - /"
+sd,B,"he/PRP had/VBD a/DT ,/, he/PRP had/VBD ,/, uh/UH ,/, one/CD of/IN those/DT ,/, what/WP are/VBP they/PRP ,/, top/RB secret/JJ things/NNS ,/,","[ he had a, + he had, ] {F uh, } one of those, what are they, top secret things,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"you/PRP know/VBP ,/, where/WRB he/PRP could/MD n't/RB talk/VB about/IN what/WP he/PRP did/VBD ,/, so/RB ./.","{D you know, } where he couldn't talk about what he did, [ so. + ]"
+b,A,Yeah/UH ./.,Yeah. /
++,B,For/IN a/DT while/NN,For a while /
+sd,B,but/CC then/RB he/PRP switched/VBD jobs/NNS ./.,{C but } then he switched jobs. /
+sd,B,I/PRP do/VBP n't/RB understand/VB half/PDT the/DT stuff/NN he/PRP does/VBZ,I don't understand half the stuff he does /
+%,B,"and/CC ,/, I/PRP have/VBP ,/, uh/UH ,/,","{C and, } I have, {F uh, } -/"
+qy,A,Is/VBZ he/PRP a/DT programmer/NN ?/.,Is he a programmer? /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+bk,A,I/PRP see/VBP ./.,I see. /
+sd,B,"Software/NN design/NN engineer/NN ,/, so/UH ,/, as/IN they/PRP call/VBP it/PRP ,/,","Software design engineer, [ so, + ] as they call it, /"
+%,B,so/RB ./.,{C so. } - /
+sd,B,"But/CC I/PRP have/VBP a/DT degree/NN in/IN information/NN management/NN ,/,","{C But } I have a degree in information management,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"which/WDT is/VBZ computer/NN ,/, you/PRP know/VBP ,/,","which is computer, {D you know, } /"
+b,A,Right/UH ./.,Right. /
+sd,B,"it/PRP 's/BES basically/RB the/DT ,/, more/RBR the/DT bus-/NN ,/, business/NN end/NN of/IN it/PRP than/IN the/DT programming/NN end/NN of/IN it/PRP ,/, you/PRP know/VBP ./.","it's basically the, more the [ bus-, + business ] end of it than the programming end of it, {D you know. } /"
+b,A,Right/UH ./.,Right. /
+sd,B,"So/UH ,/, but/CC I/PRP 've/VBP been/VBN at/IN it/PRP for/IN ,/, you/PRP know/VBP ,/, five/CD years/NNS ,/,","[ {C So, } + {C but } ] I've been at it for, {D you know, } five years, /"
+sd,B,so/RB ./. Everything/NN 's/HVS changed/VBN so/RB much/RB I/PRP probably/RB could/MD n't/RB even/RB get/VB a/DT job/NN right/RB now/RB ./.,{C so. } Everything's changed so much I probably couldn't even <laughter> get a job right now. /
+sd,B,"It/PRP seems/VBZ like/IN it/PRP 's/HVS changed/VBN so/RB much/RB ,/,","It seems like it's changed so much, /"
+sd,B,"so/RB ,/, you/PRP know/VBP ,/, they/PRP 've/VBP made/VBN such/JJ advances/NNS in/IN computers/NNS ,/,","{C so, } {D you know, } they've made such advances in computers, /"
+%,B,so/RB ./.,{C so. } -/
+ba,A,Really/UH ./.,Really. /
+qy,A,"So/UH ,/, uh/UH ,/, does/VBZ your/PRP$ husband/NN ever/RB use/VB ,/, uh/UH ,/, a/DT laptop/NN or/CC a/DT notebook/NN ?/.","{C So, } {F uh, } does your husband ever use, {F uh, } a laptop or a notebook? /"
+qy,A,Does/VBZ he/PRP bring/VBP a/DT little/JJ one/NN home/RB with/IN him/PRP,Does he bring a little one home with him /
+%,A,"or/CC ,/,","{C or, } -/"
+nn,B,"No/UH ,/,","No, /"
+nn,B,"huh-uh/UH ,/,","huh-uh, /"
+sd,B,"sometimes/RB he/PRP bri-/XX ,/, he/PRP brought/VBD home/RB a/DT ,/, uh/UH ,/, a/DT portable/JJ one/NN ,/,","sometimes [ he bri-, + he brought ] home [ a, + {F uh, } a ] portable one, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"but/CC ,/, uh/UH ,/, it/PRP ,/, it/PRP quit/VBD working/VBG","{C but, } {F uh, } [ it, + it ] quit working /"
+sd,B,"so/RB he/PRP brought/VBD it/PRP ,/, brought/VBD it/PRP back/RB","{C so } [ he brought it, + brought it back ] /"
+sd,B,and/CC he/PRP just/RB has/VBZ n't/RB brought/VBD another/DT one/NN home/RB ./.,{C and } he just hasn't brought another one home. /
+sd,B,"But/CC they/PRP did/VBD give/VB him/PRP a/DT new/JJ computer/NN at/IN work/NN ,/,","{C But } they did give him a new computer at work, /"
+%,B,so/RB ./.,{C so. } -/
+b,A,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"we/PRP ,/, we/PRP build/VBP ,/, uh/UH ,/, laptop/NN and/CC notebook/NN computers/NNS here/RB in/IN Temple/NNP also/RB ./.","[ we, + we ] build, {F uh, } laptop and notebook computers here in Temple also. /"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,A,"And/CC those/DT are/VBP really/RB handy/JJ ,/,","{C And } those are really handy, /"
+sd,A,"I/PRP mean/VBP ,/, we/PRP ,/, they/PRP ,/, they/PRP have/VBP modems/NNS in/IN them/PRP ,/, you/PRP can/MD send/VB a/DT fax/NN from/IN your/PRP$ P/NN C/NN ,/,","{E I mean, } [ we, + [ they, + they ] ] have modems in them, you can send a fax from your P C, /"
+ba,B,"Oh/UH ,/, how/WRB nice/JJ ,/,","{F Oh, } how nice, /"
+%,A,"but/CC they/PRP 're/VBP ,/, they/PRP 're/VBP really/RB ,/,","{C but } [ they're, + they're ] really, -/"
+"fo_o_fw_""_by_bc",B,"no/UH ,/,","no, /"
+sd,B,"he/PRP does/VBZ n't/RB have/VB one/CD of/IN those/DT ,/,","he doesn't have one of those, /"
+%,B,so/RB ./.,{C so. } -/
+br,A,What/WP 's/BES that/DT ?/.,What's that? /
+sd,B,He/PRP does/VBZ n't/RB have/VB one/CD of/IN those/DT ./.,He doesn't have one of those. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"they/PRP 're/VBP ,/, they/PRP 're/VBP pretty/RB handy/JJ because/IN ,/, you/PRP know/VBP ,/, when/WRB I/PRP travel/VBP ,/, it/PRP 's/BES easy/JJ to/TO check/VB messages/NNS ,/,","[ they're, + they're ] pretty handy because, {D you know, } when I travel, it's easy to check messages, /"
+sd,A,"just/RB ,/, you/PRP know/VBP ,/,","just, {D you know, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,plug/VB in/RP the/DT phone/NN to/IN your/PRP$ computer/NN and/CC dial/VB in/RP,plug in the phone to your computer and dial in /
+%,A,"and/CC ,/,","{C and, } -/"
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"Well/UH ,/, my/PRP$ husband/NN does/VBZ n't/RB have/VB to/TO travel/VB ,/,","{D Well, } my husband doesn't have to travel, /"
+%,B,so/UH ./.,{C so. } -/
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP just/RB found/VBD out/RP I/PRP 'm/VBP going/VBG to/IN Denver/NNP Sunday/NNP night/NN again/RB ./.,I just found out I'm going to Denver Sunday night again. /
+ba,B,"Oh/UH ,/, boy/UH ./.","{F Oh, } boy. /"
+%,B,"Well/UH at/IN least/JJS you/PRP get/VBP to/TO ,/,","{D Well } at least you get to, -/"
+sd,A,"So/RB that/DT kind/RB of/RB reeks/VBZ havoc/NN with/IN plans/NNS ,/,","{C So } that kind of reeks havoc with plans, /"
+x,B,./.,<Laughter>.
+sd,A,"but/CC ,/, it/PRP ,/, it/PRP 's/BES really/RB not/RB enough/RB to/TO become/VB a/DT big/JJ hassle/NN ./.","{C but, } [ it, + it's ] really not enough to become a big hassle. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ba,B,"Well/UH ,/, that/DT 's/BES good/JJ ./.","{D Well, } that's good. /"
+sd,B,Some/DT people/NNS enjoy/VBP the/DT travel/NN,Some people enjoy the travel /
+sd,B,"but/CC I/PRP do/VBP n't/RB think/VB I/PRP 'd/MD like/VB it/PRP ,/, if/IN he/PRP traveled/VBD a/DT lot/NN ./.","{C but } I don't think I'd like it, <<very faint>> if (( he traveled a lot )) . /"
+b,A,I/PRP see/VBP ./.,I see. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP would/MD love/VB to/TO have/VB a/DT computer/NN ,/,","I would love to have a computer, /"
+%,B,"they/PRP ,/,","they, - /"
+sd,B,but/CC they/PRP 're/VBP so/RB expensive/JJ ./.,{C but } they're so expensive. /
+h,A,"Well/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","{D Well, } I don't know, /"
+%,A,"there/RB ,/, you/PRP can/MD get/VB ,/, well/UH ,/,","there, you can get, {D well, } - /"
+sd,A,"depends/VBZ on/IN what/WP you/PRP consider/VBP expensive/JJ ,/,","depends on what you consider expensive, /"
+%,A,"I/PRP mean/VBP ,/,","{E I mean, } -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"you/PRP can/MD get/VB real/RB high/RB powered/JJ stuff/NN now/RB for/IN under/IN two/CD thousand/CD dollars/NNS ,/, where/WRB ,/, you/PRP know/VBP ,/, just/RB a/DT few/JJ years/NNS ago/RB it/PRP would/MD have/VB been/VBN six/CD ,/, seven/CD ,/, eight/CD ,/, nine/CD thousand/CD dollars/NNS ./.","you can get real high powered stuff now for under two thousand dollars, where, {D you know, } just a few years ago it would have been six, seven, eight, nine thousand dollars. /"
+b,B,"Yeah/UH ./. You/PRP know/VBP ,/,","Yeah. {D You know, /"
+sv,B,"I/PRP guess/VBP it/PRP 's/BES not/RB ,/, it/PRP 's/BES all/DT ,/, you/PRP know/VBP ,/, it/PRP 's/BES ,/, inexpensive/JJ compared/VBN to/IN what/WP it/PRP used/VBD to/TO be/VB","} I guess [ [ it's not, + it's all, ] + {D you know, } it's, inexpensive ] compared to what it used to be /"
+sv,B,but/CC it/PRP 's/BES a/DT lot/NN to/TO put/VB into/IN one/CD ./.,{C but } it's a lot to put into one. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"it/PRP 's/BES still/RB ,/, I/PRP mean/VBP ,/,","it's still, {E I mean, } - /"
+sv,A,"you/PRP know/VBP ,/, two/CD thousand/CD dollars/NNS is/VBZ n't/RB just/RB ,/, just/RB pocket/NN change/NN to/IN a/DT lot/NN of/IN people/NNS ./.","{D you know, } two thousand dollars isn't [ just, + just ] pocket change to a lot of people <laughter>. /"
+ba,B,That/DT 's/BES right/JJ ./.,That's right <laughter>. /
+aa,B,"No/UH ,/,","No, /"
+sv,B,it/PRP 's/BES not/RB ./.,it's not. /
+sv,B,"It/PRP 's/BES ,/, it/PRP 's/BES not/RB pocket/NN change/NN ,/,","[ It's, + it's ] not pocket change, /"
+sv,B,so/RB it/PRP 's/BES major/JJ MUMBLEx/XX ./.,{C so } it's major (( )) . /
+sd,B,"Maybe/RB when/WRB the/DT kids/NNS get/VBP in/IN school/NN that/DT will/MD be/VB ,/, you/PRP know/VBP ,/,","Maybe when the kids get in school that will be, {D you know, } - /"
+sd,B,"when/WRB they/PRP start/VBP needing/VBG something/NN ,/, you/PRP know/VBP ,/, then/RB that/DT will/MD be/VB different/JJ","when they start needing something, {D you know, } then that will be different /"
+%,B,"but/CC ,/,","{C but, } -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"when/WRB I/PRP started/VBD at/IN ,/, uh/UH ,/, T/NNP I/NNP ,/, I/PRP was/VBD a/DT Summer/NN development/NN student/NN ,/,","when I started at, {F uh, } T I, I was a Summer development student,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,and/CC finishing/VBG up/RP at/IN school/NN,and finishing up at school /
+sd,A,"and/CC so/RB those/DT papers/NNS really/RB ,/,","{C and so } those papers really, - /"
+sd,A,"I/PRP mean/VBP ,/, it/PRP was/VBD nice/JJ having/VBG access/NN to/IN the/DT ,/,","{E I mean, } it was nice having access to the,"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,"equipment/NN to/IN ,/, uh/UH ,/,","equipment to, {F uh, } -/"
+b,B,"Yes/UH ,/,","Yes, /"
+sd,B,I/PRP remember/VBP that/DT ./.,I remember that. /
+sd,B,I/PRP had/VBD to/TO do/VB some/DT of/IN my/PRP$ husband/NN 's/POS papers/NNS because/IN I/PRP had/VBD access/NN to/IN one/CD,I had to do some of my husband's papers because I had access to one /
+sd,B,"but/CC ,/, you/PRP know/VBP ,/, he/PRP ,/, his/PRP$ was/VBD more/RBR for/IN scientific/JJ stuff/NN than/IN for/IN word/NN processing/NN ,/, you/PRP know/VBP ,/,","{C but, } {D you know, } [ he, + his ] was more for scientific stuff than for word processing, {D you know, } /"
+%,B,"so/RB ,/,","{C so, } -/"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP did/VBD a/DT lot/NN of/IN his/PRP$ papers/NNS ./.,I did a lot of his papers. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"they/PRP come/VBP in/IN real/RB handy/JJ ,/,","they come in real handy, /"
+sd,B,that/WDT was/VBD a/DT lifesaver/NN ./.,that was a lifesaver. /
+qw,A,"Well/UH ,/, how/WRB many/JJ different/JJ types/NNS of/IN packages/NNS do/VBP you/PRP use/VB ?/.","{D Well, } how many different types of packages do you use? /"
+qy^d,B,At/IN home/NN ?/.,At home? /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"Um/UH ,/, all/DT I/PRP ,/,","{F Um, } all I, - /"
+sd,B,"the/DT packages/NNS I/PRP ,/, I/PRP do/VBP n't/RB really/RB use/VB ,/,","the packages [ I, + I ] don't really use, /"
+sd,B,I/PRP MUMBLEx/XX what/WP I/PRP use/VBP that/DT MUMBLEx/XX outside/JJ development/NN that/WDT we/PRP use/VBP most/JJS of/IN it/PRP 's/BES just/RB stuff/NN that/WDT 's/HVS been/VBN written/VBN in/IN house/NN that/WDT I/PRP use/VBP ./.,[ I + (( )) what I ] use that (( )) outside development that we use most of it's just stuff that's been written in (( house )) that I use. /
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+b,A,Yeah/UH ./.,Yeah. /
+b,A,"Golly/UH ,/,","Golly, /"
+%,A,"I/PRP 've/VBP got/VBN ,/,","I've got, - /"
+sd,A,"up/IN ,/, up/IN at/IN work/NN anyway/RB ,/, I/PRP use/VBP WordPerfect/NNP and/CC Lotus/NNP and/CC ,/,","[ up, + up ] at work anyway, I use WordPerfect and Lotus [ [ and, +"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP know/VBP those/DT two/CD ./.,I know those two. /
++,A,"and/CC MUMBLEx/XX which/WDT is/VBZ ,/, uh/UH ,/, uh/UH ,/, a/DT ,/, a/DT line-draw/JJ package/NN ./.","and ] + ] (( )) which is, {F uh, } {F uh, } [ a, + a ] line-draw package. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,B,"I/PRP 've/VBP just/RB used/VBN WordPerfect/NNP and/CC Lotus/NNP and/CC ,/, the/DT most/JJS ./.","I've just used WordPerfect and Lotus [ and, + ] the most. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,"You/PRP probably/RB use/VBP MUMBLEx/XX or/CC something/NN like/IN that/DT ,/,","You probably use (( )) or something like that,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"for/IN your/PRP$ ,/, uh/UH ,/, data/NN entry/NN stuff/NN that/WDT you/PRP 're/VBP ,/,","for your, {F uh, } data entry stuff that your,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,talking/VBG about/IN ./.,talking about. /
+sd,B,"A/DT lot/NN of/IN the/DT data/NN entry/NN stuff/NN they/PRP used/VBD ,/, uh/UH ,/, survey/NN system/NN and/CC ,/, and/CC ,/, um/UH ,/, you/PRP know/VBP ,/, just/RB in-house/JJ programs/NNS to/TO do/VB what/WP they/PRP needed/VBD ./.","A lot of the data entry stuff they used, {F uh, } survey system [ and, + and, ] {F um, } {D you know, } just in-house programs to do what they needed. /"
+%,B,"I/PRP work/VBP ,/,","I work, -/"
+qy,A,"Do/VBP you/PRP get/VB ,/, do/VBP you/PRP work/VB at/IN home/NN all/PDT the/DT time/NN","[ Do you get, + do you work ] at home all the time /"
+%,A,"or/CC just/RB ,/,","{C or } just, -/"
+nn,B,"Well/UH ,/, no/UH ,/,","{D Well, } no, /"
+sd,B,"I/PRP worked/VBD for/IN this/DT company/NN before/IN I/PRP had/VBD my/PRP$ first/JJ daughter/NN ,/,","I worked for this company before I had my first daughter, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"and/CC they/PRP just/RB wanted/VBD me/PRP to/TO continue/VB working/VBG for/IN them/PRP at/IN home/NN doing/VBG other/JJ things/NNS ,/,","{C and } they just wanted me to continue working for them at home doing other things, /"
+%,B,so/RB ./.,{C so. } -/
+sv,A,"Oh/UH ,/, that/DT ,/, that/DT was/VBD ,/, that/DT worked/VBD out/RP pretty/RB good/RB then/RB ./.","{F Oh, } [ [ that, + that was, ] + that ] worked out pretty good then. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,it/PRP did/VBD ./.,it did. /
+sd,B,"You/PRP know/VBP ,/, I/PRP do/VBP n't/RB do/VB ,/, I/PRP do/VBP n't/RB really/RB do/VBP n't/RB do/VB basic/NN ,/, a/DT lot/NN of/IN what/WP I/PRP used/VBD to/TO do/VB ,/,","{D You know, } [ I don't do, + I don't really don't do ] [ basic, + ] a lot of what I used to do, /"
+sd,B,"I/PRP just/RB do/VBP ,/, you/PRP know/VBP ,/, something/NN really/RB minor/JJ","I just do, {D you know, } something really minor /"
+sv,B,"but/CC ,/,","{C but, }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"it/PRP 's/BES something/NN that/WDT nobody/NN else/RB wants/VBZ to/TO do/VB ,/,","it's something that nobody else wants to do, /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,and/CC it/PRP 's/BES time/NN consuming/JJ ./.,{C and } it's time consuming. /
+%,B,"So/RB ,/,","{C So, } -/"
+qy,A,"So/RB ,/, it/PRP keeps/VBZ you/PRP in/IN the/DT company/NN ,/, huh/UH ?/.","{C So, } it keeps you in the company, {F huh? } /"
+na,B,"That/DT 's/BES right/JJ ,/, you/PRP know/VBP ,/,","That's right, {D you know, } /"
+sd,B,"it/PRP gives/VBZ me/PRP a/DT paycheck/NN ,/, you/PRP know/VBP ,/,","it gives me a paycheck, {D you know, } /"
+sd,B,"it/PRP 's/BES only/JJ like/UH the/DT work/NN 's/BES only/RB ,/, you/PRP know/VBP ,/, three/CD weeks/NNS ./.","[ it's only {D like } + the work's only, ] {D you know, } three weeks. /"
+sd,B,"Goes/VBZ for/IN like/IN three/CD to/IN four/CD weeks/NNS three/CD times/NNS a/DT year/NN ,/,","Goes for {D like } three to four weeks three times a year, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"you/PRP know/VBP ,/, it/PRP 's/BES not/RB something/NN that/WDT 's/BES continual/JJ because/IN ,/, you/PRP know/VBP ,/, the/DT television/NN ratings/NNS do/VBP n't/RB come/VB out/RP ,/, you/PRP know/VBP ,/, all/PDT the/DT time/NN ./.","{D you know, } it's not something that's continual because, {D you know, } the television ratings don't come out, {D you know, } all the time. /"
+sd,B,"They/PRP only/RB come/VBP out/RP four/CD times/NNS a/DT year/NN ,/,","They only come out four times a year, /"
+%,B,so/RB but/CC ./.,{D so } {C but. } -/
+b,A,Yeah/UH ./.,Yeah. /
+ba,A,Boy/UH,Boy /
+sd,A,"I/PRP tell/VBP you/PRP if/IN I/PRP could/MD bring/VB a/DT computer/NN home/RB and/CC do/VB stuff/NN here/RB ,/, I/PRP 'd/MD get/VB all/DT kinds/NNS of/IN stuff/NN done/VBN ./.","I tell you if I could bring a computer home and do stuff here, I'd get all kinds of stuff done. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,Phone/NN 's/BES always/RB ringing/VBG,Phone's always ringing /
+%,A,"and/CC ,/,","{C and, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,people/NNS always/RB asking/VBG me/PRP to/TO do/VB something/NN else/RB ./.,people always asking me to do something else. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP 've/VBP got/VBN a/DT lot/NN of/IN ,/,","I've got a lot of, - /"
+sd,A,"especially/RB right/RB now/RB ,/, we/PRP 've/VBP got/VBN several/JJ new/JJ products/NNS coming/VBG out/RP ,/,","especially right now, we've got several new products coming out, /"
+sd,A,and/CC I/PRP 've/VBP got/VBN lots/NNS of/IN documentation/NN I/PRP need/VBP to/TO review/VB and/CC some/DT I/PRP need/VBP to/TO revise/VB ./.,{C and } I've got lots of documentation I need to review and some I need to revise. /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+qy,B,will/MD they/PRP let/VB you/PRP take/VB a/DT computer/NN home/NN to/IN work/NN ?/.,will they let you take a computer home to work? /
+ny,A,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+sd,A,"but/CC ,/, you/PRP know/VBP ,/, I/PRP need/VBP to/TO be/VB at/IN the/DT office/NN ,/, too/RB ./.","{C but, } {D you know, } I need to be at the office, too. /"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,A,"You/PRP know/VBP ,/, I/PRP 've/VBP just/RB got/VBN to/TO deal/VB ,/, with/IN all/PDT those/DT other/JJ things/NNS that/WDT happen/VBP","{D You know } <laughter>, I've just got to deal, with all those other things that happen /"
+sd,A,"but/CC ,/,","{C but, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,a/DT P/NN C/NN at/IN the/DT house/NN would/MD really/RB take/VB a/DT lot/NN of/IN the/DT load/NN off/IN ./.,a P C at the house would really take a lot of the load off. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+ba,B,I/PRP bet/VBP ./.,I bet. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"my/PRP$ hu-/NN ,/, he/PRP took/VBD one/CD home/RB when/WRB they/PRP ,/, when/WRB they/PRP had/VBD it/PRP ,/, you/PRP know/VBP ,/, they/PRP had/VBD a/DT big/JJ deadline/NN coming/VBG up/RP","my hu-, he took one home [ when they, + when ] [ they had it, + {D you know, } they had a ] big deadline coming up /"
+sd,B,"and/CC it/PRP was/VBD looking/VBG a/DT little/RB touchy/JJ to/TO meet/VB ,/,","{C and } it was looking a little touchy to meet, /"
+%,B,so/RB ./.,{C so. } -/
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,A,"well/UH ,/, I/PRP 've/VBP ,/, I/PRP 've/VBP done/VBN that/DT before/RB on/IN ,/, a/DT couple/NN times/NNS ./.","{D well, } [ I've, + I've ] done that before on, a couple times. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,But/CC that/DT would/MD make/VB it/PRP just/RB that/RB much/RB easier/JJR,{C But } that would make it just that much easier /
+sd,A,"instead/IN of/IN bringing/VBG home/RB a/DT computer/NN ,/, you/PRP just/RB bring/VB home/NN a/DT few/JJ floppy/JJ disks/NNS ,/, you/PRP know/VBP ./.","instead of bringing home a computer, you just bring home a few floppy disks, {D you know. } /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+ba,B,that/DT 's/BES right/JJ ./.,that's right. /
+sd,B,"I/PRP thought/VBD that/DT would/MD be/VB ,/, you/PRP know/VBP ,/,","I thought that would be, {D you know, } - /"
+sd,B,because/IN it/PRP 's/BES real/RB nice/JJ with/IN this/DT because/IN I/PRP do/VBP n't/RB even/RB have/VB to/TO go/VB into/IN the/DT office/NN,{C because } it's real nice with this because I don't even have to go into the office /
+sd,B,"I/PRP 've/VBP maybe/RB been/VBN into/IN the/DT office/NN once/RB in/IN the/DT past/JJ three/CD years/NNS ,/, you/PRP know/VBP ./.","I've maybe been into the office once in the past (( three )) years, {D you know. } /"
+ba,A,"Oh/UH ,/, my/UH ./.","{F Oh, } my. /"
+sd,B,"They/PRP just/RB ,/, um/UH ,/, they/PRP just/RB send/VBP me/PRP everything/NN and/CC pick/VBP it/PRP up/RP courier/NN or/CC whatever/WDT ,/,","[ They just, + {F um, } they just ] send me everything and pick it up courier or whatever, /"
+%,B,"so/RB ,/, you/PRP know/VBP ./.","{C so, } {D you know. } -/"
+ba,A,Man/UH that/WDT sounds/VBZ really/RB nice/JJ ./.,Man that sounds really nice. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"It/PRP is/VBZ real/RB nice/JJ ,/, you/PRP know/VBP ,/,","It is real nice, {D you know, } /"
+sd,B,"I/PRP just/RB deal/VBP with/IN them/PRP on/IN the/DT telephone/NN ,/,","I just deal with them on the telephone, /"
+sd,B,half/PDT the/DT people/NNS do/VBP n't/RB even/RB know/VB who/WP they/PRP 're/VBP talking/VBG to/IN ./.,half the people don't even know who they're talking to. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"But/CC I/PRP ,/, you/PRP know/VBP ,/, worked/VBD ,/,","{C But } I, {D you know, } worked, - /"
+sd,B,"I/PRP know/VBP most/JJS of/IN them/PRP ,/, well/UH ,/,","I know most of them, {D well, } /"
+h,B,"I/PRP ca/MD n't/RB say/VB that/IN ,/,","I can't say that, /"
+sd,B,a/DT lot/NN of/IN people/NNS changed/VBD around/RP there/RB,a lot of people changed around there /
+sd,B,"but/CC ,/, most/JJS people/NNS know/VBP who/WP I/PRP am/VBP ,/,","{C but, } most people know who I am, /"
+sd,B,"but/CC I/PRP do/VBP n't/RB know/VB who/WP they/PRP are/VBP ,/, you/PRP know/VBP ./.","{C but } I don't know who they are, {D you know. } /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,A/DT lot/NN of/IN them/PRP just/RB know/VBP me/PRP by/IN name/NN and/CC phone/NN voice/NN ./.,<Laughter> A lot of them just know me by name and phone voice. /
+b,A,Right/UH ./.,Right. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP 've/VBP got/VBN a/DT lot/NN of/IN folks/NNS that/WDT I/PRP 've/VBP worked/VBN with/IN like/IN that/DT as/RB well/RB ./.,I've got a lot of folks that I've worked with like that as well. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"you/PRP just/RB know/VBP them/PRP by/IN the/DT telephone/NN ,/,","you just know them by the telephone, /"
+fc,B,"so/RB ./. But/CC ,/, well/UH ,/, it/PRP 's/HVS been/VBN good/JJ talking/VBG to/IN you/PRP ,/,","{C so. } {C But, } {D well, } it's been good talking to you, /"
+sv,B,I/PRP think/VBP we/PRP 've/VBP MUMBLEx/XX got/VBN the/DT subject/NN ./.,I think (( we've )) (( )) (( got )) the subject <laughter>. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,we/PRP sort/RB of/RB stayed/VBD to/IN the/DT topic/NN anyway/RB ./.,we sort of stayed to the topic anyway. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,we/PRP tried/VBD ./.,we tried. /
+sd,B,It/PRP 's/BES hard/JJ to/TO sometimes/RB ./.,It's hard to sometimes. /
+b,A,"Okay/UH ,/,","Okay, /"
+fc,A,"well/UH ,/, we/PRP 'll/MD talk/VB to/IN you/PRP later/RB ./.","{D well, } we'll talk to you later. /"
+fc,B,"Okay/UH ,/, well/UH ,/, thanks/UH ,/,","Okay, {D well, } thanks, /"
+fc,B,"bye/UH ,/, bye/UH ./.","bye, bye. /"
+fc,A,Bye/UH ./.,Bye. /

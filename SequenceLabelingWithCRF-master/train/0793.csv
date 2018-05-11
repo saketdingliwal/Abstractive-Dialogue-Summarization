@@ -1,0 +1,109 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/, well/UH ,/, um/UH ,/,","Okay, {D well, } {F um, } -/"
+qw,B,What/WDT kind/NN of/IN music/NN do/VBP you/PRP like/VB ?/.,What kind of music do you like? /
+^h,A,"I/PRP ,/, um/UH ,/, I/PRP was/VBD thinking/VBG about/IN it/PRP for/IN a/DT long/JJ time/NN ,/,","[ I, {F um, } + I ] was thinking about it for a long time, /"
+sd,A,and/CC I/PRP like/VBP basically/RB almost/RB every/DT form/NN of/IN music/NN and/CC type/NN of/IN music/NN ./.,{C and } I like basically almost every form of music and type of music. /
+sd,A,"Um/UH ,/, I/PRP do/VBP n't/RB have/VB a/DT whole/JJ lot/NN of/IN dislikes/NNS ./.","{F Um, } I don't have a whole lot of dislikes. /"
+sd,A,"I/PRP ,/, um/UH ,/, like/VBP jazz/NN ,/, um/UH ,/, especially/RB the/DT blues/NNS ,/,","I, {F um, } like jazz, {F um, } especially the blues, /"
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP like/VBP ,/, uh/UH ,/, a/DT lot/NN of/IN the/DT ,/, uh/UH ,/, of/IN course/NN the/DT classics/NNS ,/, um/UH ,/, everything/NN back/RB from/IN Bach/NNP and/CC ,/, and/CC Beethoven/NNP and/CC Chopin/NNP and/CC ,/, um/UH ,/, just/RB in/IN general/JJ everything/NN ./.","{C and, } {F uh, } I like, {F uh, } a lot of [ the, + {F uh, } of course the ] classics, {F um, } everything back from Bach [ and, + and ] Beethoven and Chopin and, {F um, } just in general everything. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Um/UH ,/, I/PRP enjoy/VBP ,/, uh/UH ,/, a/DT lot/NN of/IN the/DT ,/, the/DT modern/JJ forms/NNS ,/, um/UH ,/, uh/UH ,/,","{F Um, } I enjoy, {F uh, } a lot of [ the, + the ] modern forms, {F um, } {F uh, } /"
+qy,B,"Do/VBP you/PRP like/VB ,/, like/IN rock/NN and/CC those/DT kind/NN of/IN things/NNS --/:","Do you like, {D like } rock and those kind of things --"
+b,A,"Right/UH ,/,","Right, /"
+b,A,right/UH ./.,right. /
++,B,--/: punk/NN even/RB ./.,-- punk even. /
+^h,A,"Uh/UH ,/, well/UH ,/,","{F Uh, } {D well, }"
+x,B,./.,<Laughter>.
++,A,"that/DT gets/VBZ ,/,","that gets, - /"
+sd,A,"some/DT of/IN the/DT punk/NN ,/, um/UH ,/, when/WRB I/PRP was/VBD in/IN high/JJ school/NN ,/, that/DT was/VBD ,/, uh/UH ,/, one/CD of/IN the/DT big/JJ things/NNS ,/, was/VBD punk/NN music/NN ,/,","some of the punk, {F um, } when I was in high school, that was, {F uh, } one of the big things, was punk music, /"
+sv,A,"and/CC ,/, uh/UH ,/, a/DT lot/NN of/IN it/PRP is/VBZ ,/, has/VBZ a/DT lot/NN to/TO say/VB ,/, or/CC some/DT of/IN it/PRP has/VBZ a/DT lot/NN to/TO say/VB ,/, the/DT music/NN does/VBZ ,/, the/DT lyrics/NNS do/VBP ,/,","{C and, } {F uh, } [ a lot of it [ is, + has ] a lot to say, + {E or } some of it has a lot to say, ] [ the music does, + the lyrics do, ] /"
+%,A,"but/CC the/DT ,/, the/DT actual/JJ ,/,","{C but } [ the, + the ] actual, -/"
+ar,B,"I/PRP do/VBP n't/RB think/VB they/PRP have/VBP a/DT whole/JJ lot/NN to/TO say/VB ,/, even/RB ./.","I don't think they have a whole lot to say, even <laughter>. /"
+sv,A,"Uh/UH ,/, well/UH ,/, it/PRP ,/, it/PRP 's/BES ,/, it/PRP 's/BES ,/, it/PRP really/RB expresses/VBZ some/DT of/IN the/DT opinions/NNS of/IN ,/, of/IN the/DT people/NNS who/WP enjoy/VBP the/DT music/NN --/:","{F Uh, } {D well, } [ [ [ it, + it's, ] + it's, ] + it ] really expresses some of the opinions [ of, + of ] the people who enjoy the music -- /"
+aap_am,B,"Yeah/UH ,/,","Yeah, /"
+aap_am,B,I/PRP guess/VBP ./.,I guess. /
+sv,A,"--/: um/UH ,/, but/CC as/RB far/RB as/IN a/DT musical/JJ art/NN form/NN ,/, I/PRP just/RB do/VBP n't/RB see/VB a/DT whole/JJ lot/NN of/IN art/NN to/IN it/PRP ./.","-- {F um, } {C but } as far as a musical art form, I just don't see a whole lot of art to it <laughter>. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,Um/UH ./.,{F Um. } /
+qy,B,Do/VBP you/PRP like/VB rap/NN ?/.,Do you like rap? /
+no,A,"Um/UH ,/, some/DT of/IN it/PRP ,/, um/UH ,/,","{F Um, } some of it, {F um, } /"
+h,A,it/PRP depends/VBZ ./.,it depends. /
+sd,A,"I/PRP like/VBP ,/, uh/UH ,/, the/DT rap/NN ,/, the/DT two/CD types/NNS of/IN rap/NN I/PRP like/VBP ,/, or/CC I/PRP enjoy/VBP to/TO listen/VB to/IN ,/, and/CC one/CD is/VBZ the/DT ,/, the/DT rap/NN that/WDT is/VBZ just/RB funny/JJ ,/, um/UH ,/,","[ I like, {F uh, } the rap, + the two types of rap [ I like, + {E or } I enjoy ] ] to listen to, and one is [ the, + the ] rap that is just funny, {F um, } /"
+sd,A,and/CC they/PRP usually/RB do/VBP a/DT lot/NN of/IN satire/NN --/:,{C and } they usually do a lot of satire -- /
+b,B,Yeah/UH --/:,Yeah -- /
+%,A,--/: um/UH ./.,-- {F um. } /
+sd,B,--/: that/DT kind/NN I/PRP kind/RB of/RB like/VBP ./.,-- that kind I kind of like. /
+b,A,Right/UH ./.,Right. /
+sv,B,Some/DT of/IN it/PRP is/VBZ kind/RB of/RB --/:,Some of it is kind of --
+b,A,"Right/UH ,/,","Right, /"
+^2,A,the/DT monotonous/JJ --/:,[ the monotonous -- +
++,B,"--/: pointless/JJ ,/,","-- pointless, /"
+aa,B,yeah/UH ./.,yeah. /
++,A,"--/: the/DT monotonous/JJ ,/,","-- the monotonous, ] - /"
+aa,A,no/UH,no /
+sv,A,"that/DT 's/BES not/RB ,/,","that's not, - /"
+sd,A,I/PRP do/VBP n't/RB enjoy/VB that/DT at/IN all/DT --/:,I don't enjoy that at all --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: when/WRB they/PRP 're/VBP just/RB talking/VBG about/IN ,/, well/UH ,/, I/PRP 'm/VBP better/JJR than/IN you/PRP ,/, and/CC blah/UH ,/, blah/UH ,/, blah/UH ./.","-- when they're just talking about, {D well, } I'm better than you, and blah, blah, blah. /"
+sd,A,I/PRP do/VBP n't/RB like/VB --/:,I don't like --
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
++,A,--/: that/DT ./.,-- that. /
+sd,A,"I/PRP like/VBP the/DT funny/JJ ,/, satire/NN ,/,","I like the funny, satire, /"
+sv,A,"and/CC then/RB some/DT of/IN it/PRP is/VBZ ,/, some/DT of/IN it/PRP actually/RB gets/VBZ into/IN some/DT serious/JJ discussions/NNS of/IN problems/NNS in/IN our/PRP$ ,/, in/IN --/:","{C and then } [ some of it is, + some of it actually gets ] into some serious discussions of problems [ in our, + in --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: urban/JJ society/NN ./.,-- urban society. ] /
+sv,A,It/PRP really/RB does/VBZ ./.,It really does. /
+sd,A,"It/PRP talks/VBZ about/IN ,/, um/UH ,/, race/NN relations/NNS and/CC police/NN relations/NNS","It talks about, {F um, } race relations and police relations /"
+%,A,"and/CC ,/, um/UH ,/, that/DT ,/, that/DT --/:","{C and, } {F um, } [ that, + that ] -- -/"
+sd,B,--/: I/PRP guess/VBP I/PRP do/VBP n't/RB really/RB care/VB to/TO listen/VB to/IN rap/NN that/RB much/JJ except/IN for/IN once/RB in/IN a/DT while/NN some/DT of/IN the/DT funny/JJ --/:,-- I guess I don't really care to listen to rap that much except for once in a while some of the funny --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: more/JJR satire/NN kind/NN some/DT times/NNS ./.,-- more satire kind some times. /
+sd,B,"Um/UH ,/, I/PRP 'm/VBP ,/, with/IN you/PRP though/RB ,/,","{F Um, } I'm, with you though, /"
+sd,B,I/PRP like/VBP classical/JJ --/:,I like classical -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: um/UH ,/, I/PRP do/VBP n't/RB like/VB to/TO listen/VB to/IN it/PRP all/PDT the/DT time/NN ,/, but/CC ,/, um/UH ,/, some/DT of/IN the/DT time/NN ,/, anyway/RB ./.","-- {F um, } I don't like to listen to it all the time, but, {F um, } some of the time, anyway. /"
+sd,B,"I/PRP like/VBP easy/JJ listening/VBG ,/, just/RB kind/RB of/RB ,/, you/PRP know/VBP ,/,","I like easy listening, just kind of, {D you know, } - /"
+sd,B,I/PRP guess/VBP I/PRP do/VBP n't/RB care/VB much/RB for/IN rock/NN and/CC roll/NN any/DT more/RBR ./.,I guess I don't care much for rock and roll any more. /
+sd,B,"I/PRP used/VBD to/TO like/VB it/PRP all/RB right/JJ ,/,","I used to like it all right, /"
+sd,B,but/CC I/PRP do/VBP n't/RB really/RB care/VB to/TO listen/VB to/IN it/PRP any/DT more/RBR for/IN some/DT reason/NN ./.,{C but } I don't really care to listen to it any more for some reason. /
+^h,B,"Um/UH ,/, let/VB 's/PRP see/VB ./.","{F Um, } let's see. /"
+sd,B,"Country/JJ western/JJ ,/, uh/UH ,/, I/PRP 'm/VBP not/RB quite/RB as/RB big/JJ on/IN that/DT ./.","Country western, {F uh, } I'm not quite as big on that. /"
+sv,B,"Some/DT of/IN it/PRP 's/BES okay/JJ ,/, uh/UH --/:","Some of it's okay, {F uh } -- /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"that/DT 's/BES ,/, that/DT 's/BES about/RB my/PRP$ opinion/NN of/IN that/DT ./.","[ that's, + that's ] about my opinion of that <laughter>. /"
+b,B,--/: yeah/UH ./.,-- yeah <laughter>. /
+sv,A,"It/PRP 's/BES ,/, it/PRP 's/BES okay/JJ ,/, um/UH ,/,","[ It's, + it's ] okay, {F um, } /"
+sd,B,"Some/DT of/IN it/PRP kind/RB of/RB falls/VBZ in/IN the/DT rap/NN category/NN I/PRP guess/VBP ,/,","Some of it kind of falls in the rap category I guess, /"
+%,B,so/RB ./.,{D so } <laughter>. -/
+sv,A,"Um/UH ./. The/DT thing/NN about/IN country/JJ western/JJ that/WDT I/PRP do/VBP n't/RB enjoy/VB is/VBZ is/VBZ ,/, does/VBZ n't/RB seem/VB to/TO be/VB any/DT imagination/NN behind/IN it/PRP --/:","{F Um. } The thing about country western that I don't enjoy [ is + is, ] doesn't seem to be any imagination behind it -- /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"--/: the/DT ,/, one/CD country/JJ and/CC western/JJ song/NN sounds/VBZ like/IN every/DT other/JJ ,/,","-- [ the, + ] one country and western song sounds like every other,"
+sv,B,"a/DT lot/NN of/IN them/PRP ,/,","a lot of them,"
++,A,country/JJ and/CC western/JJ --/:,country and western -- /
++,B,"sound/VBP ,/, uh/UH ,/, really/RB similar/JJ ,/,","sound, {F uh, } really similar, /"
+aa,B,yeah/UH ./.,yeah. /
+sv,A,"--/: and/CC so/RB the/DT ,/, the/DT musicians/NNS do/VBP n't/RB get/VB to/TO really/RB get/VB into/IN their/PRP$ music/NN ./.","-- {C and so } [ the, + the ] musicians don't get to really get into their music. /"
+sv,A,They/PRP just/RB play/VBP a/DT certain/JJ number/NN of/IN chords/NNS --/:,They just play a certain number of chords -- /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"--/: the/DT drummer/NN plays/VBZ a/DT certain/JJ beat/NN ,/,","-- the drummer plays a certain beat, /"
+sv,A,and/CC you/PRP have/VBP a/DT country/JJ and/CC western/JJ song/NN --/:,{C and } you have a country and western song -- /
+%,B,Um/UH ./.,{F Um. } /
+%,A,"--/: and/CC ,/,","-- {C and, } -/"
+sv,B,"Well/UH ,/, that/DT 's/BES kind/RB of/RB the/DT way/NN I/PRP feel/VBP about/IN rock/NN and/CC roll/NN sometimes/RB ,/, too/RB ,/, I/PRP guess/VBP ./.","{D Well, } that's kind of the way I feel about rock and roll sometimes, too, I guess. /"
+sv,B,"They/PRP do/VBP n't/RB really/RB ,/,","They don't really, - /"
+sv,B,"has/VBZ kind/RB of/RB the/DT same/JJ sound/NN over/RB and/CC over/RB ,/,","has kind of the same sound over and over, /"
+sv,B,and/CC the/DT other/JJ thing/NN I/PRP do/VBP n't/RB like/VB about/IN it/PRP is/VBZ they/PRP have/VBP a/DT tendency/NN to/TO play/VB the/DT instrumental/NN so/RB loud/RB that/IN you/PRP ca/MD n't/RB understand/VB what/WP the/DT lyrics/NNS are/VBP --/:,{C and } the other thing I don't like about it is they have a tendency to play the instrumental so loud that you can't understand what the lyrics are -- /
+b,A,Um/UH ./.,{F Um. }
+sv,B,--/: you/PRP ca/MD n't/RB understand/VB what/WP they/PRP 're/VBP saying/VBG on/IN some/DT of/IN those/DT songs/NNS --/:,-- you can't understand what they're saying on some of those songs --
++,A,Right/UH ./.,Right. /
++,B,"--/: which/WDT probably/RB is/VBZ just/RB as/RB well/RB on/IN some/DT of/IN them/PRP ,/, too/RB ./.","-- which probably is just as well on some <laughter> of them, too. /"
+b,A,Yeah/UH ./.,<Laughter> Yeah. /
+sd,A,"And/CC I/PRP ca/MD n't/RB say/VB that/IN I/PRP like/VBP a/DT lot/NN of/IN the/DT modern/JJ ,/, the/DT very/RB ,/, very/RB --/:","{C And } I can't say that I like a lot of [ the modern, + the [ very, + very ] --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: modern/JJ ,/, uh/UH ,/, rock/NN and/CC roll/NN ,/,","-- modern, ] {F uh, } rock and roll, /"
+sd,A,"but/CC I/PRP ,/, I/PRP definitely/RB ,/, I/PRP really/RB enjoy/VBP the/DT fifties/NNS ,/, the/DT sixties/NNS and/CC a/DT lot/NN ,/, some/DT of/IN the/DT seventies/NNS --/:","{C but } [ [ I, + I definitely, ] + I really ] enjoy the fifties, the sixties and [ a lot, + some ] of the seventies --"
+b,B,Yeah/UH --/:,Yeah -- /
++,A,--/: rock/NN and/CC roll/NN --/:,-- rock and roll -- /
+bf,B,--/: earlier/JJR things/NNS ./.,-- earlier things. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, I/PRP really/RB enjoy/VBP ,/, especially/RB the/DT sixties/NNS .../:","-- {C and, } {F uh, } I really enjoy, especially the sixties ... /"

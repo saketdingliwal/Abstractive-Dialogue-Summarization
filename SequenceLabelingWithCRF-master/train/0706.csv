@@ -1,0 +1,118 @@
+act_tag,speaker,pos,text
+qy,A,MUMBLEx/XX Are/VBP you/PRP there/RB ?/.,(( )) Are you there? /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Okay/UH ,/,","Okay, /"
+ad,A,now/UH tell/VB me/PRP your/PRP$ favorite/JJ team/NN ./.,{D now } tell me your favorite team. /
+qy,B,"Uh/UH ,/, baseball/NN ?/.","{F Uh, } baseball? /"
+ny,A,Yes/UH ./.,Yes. /
+sd,B,"Well/UH ,/, I/PRP 've/VBP been/VBN kind/RB of/RB ,/, been/VBN intrigued/VBN with/IN the/DT Rangers/NNS ,/, uh/UH ,/, more/RBR so/RB with/IN ,/, uh/UH ,/, uh/UH ,/, their/PRP$ management/NN than/IN anything/NN else/RB ./.","<Lipsmack> {D Well, } I've [ been + kind of <breathing>, been ] intrigued with the Rangers, {F uh, } more so with, {F uh, } {F uh, } their management than anything else. /"
+sd,B,"I/PRP ,/, I/PRP do/VBP n't/RB follow/VB baseball/NN that/RB ,/, that/RB closely/RB ,/,","[ I, + I ] don't follow baseball [ that, + that ] closely, /"
+sd,B,"but/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, since/IN I/PRP live/VBP here/RB so/RB close/RB to/IN Arlington/NNP ,/, uh/UH ,/, that/DT 's/BES the/DT team/NN that/WDT I/PRP 've/VBP been/VBN kind/RB of/RB following/VBG ./.","{C but, } {F uh, } {D you know, } since I live here so close to Arlington, {F uh, } that's the team that I've been kind of following. /"
+b,A,Okay/UH ./.,Okay. /
+sv,A,I/PRP think/VBP it/PRP 's/BES a/DT little/JJ bit/NN late/RB in/IN the/DT season/NN for/IN them/PRP to/TO assign/VB us/PRP,I think it's a little bit late in the season for them to assign us - /
+qw,A,"where/WRB do/VBP you/PRP think/VB they/PRP 're/VBP headed/VBN ,/,","where do you think they're headed, /"
+ad,A,so/RB we/PRP 'll/MD have/VB to/TO talk/VB about/IN the/DT future/NN --/:,{C so } we'll have to talk about the future --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: with/IN the/DT Rangers/NNPS ./.,-- with the Rangers. /
+aa,B,Right/UH ./.,Right. /
+qo,A,"What/WP are/VBP your/PRP$ thinkings/NNS on/IN what/WP they/PRP can/MD do/VB ,/, what/WP they/PRP 'll/MD be/VB able/JJ to/TO do/VB ?/.","What are your thinkings on what they can do, what they'll be able to do? /"
+sv,B,"Well/UH ,/, I/PRP think/VBP that/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, with/IN ,/, uh/UH ,/, so/RB much/JJ controversy/NN over/IN Ruben/NNP Sierra/NNP not/RB signing/VBG and/CC asking/VBG us/PRP for/IN so/RB much/JJ money/NN ,/, it/PRP 's/BES ,/, um/UH ,/, you/PRP know/VBP ,/, I/PRP think/VBP","{D Well, } I think that, {F uh, } {D you know, } with, {F uh, } so much controversy over Ruben Sierra not signing and asking us for so much money, it's, {F um, } {D you know, } I think <breathing> - /"
+sd,B,"I/PRP 'm/VBP not/RB real/RB sure/JJ about/IN th-/DT ,/,","I'm not real sure about th-, - /"
+qy,B,"do/VB you/PRP know/VBP anything/NN about/IN Ruben/NNP Sierra/NNP 's/POS ,/, uh/UH ,/,","do you know anything about Ruben Sierra's, {F uh, } /"
+arp_nd,A,"Well/UH ,/, I/PRP heard/VBD tonight/RB on/IN the/DT news/NN that/IN he/PRP is/VBZ willing/JJ to/TO come/VB down/RB ./.","{D Well, } I heard tonight on the news that he is willing to come down."
+b,B,Yeah/UH,Yeah /
+bf,B,"that/IN ,/,","that,"
++,A,"on/IN his/PRP$ ,/,","on his, -/"
++,B,"he/PRP was/VBD willing/JJ to/TO come/VB down/RB a/DT little/JJ bit/NN and/CC ,/,","he was willing to come down a little bit [ and, + ]"
+aa,A,Yes/UH ./.,Yes. /
+b^m,A,"And/CC the/DT Rangers/NNPS go/VBP up/RB a/DT little/JJ bit/NN ,/,","{C And } the Rangers go up a little bit, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,"but/CC a/DT little/JJ bit/NN from/IN three/CD ,/, you/PRP know/VBP ,/, from/IN thirty/CD million/CD dollars/NNS or/CC thirty-five/CD mil-/CD ,/,","{C but } a little bit [ from three, + {D you know, } from thirty ] million dollars or thirty-five mil-, <breathing> - /"
+sv,B,that/DT 's/BES a/DT lot/NN of/IN money/NN ./.,that's a lot of money. /
+sv,A,"I/PRP think/VBP the/DT entire/JJ baseball/NN ,/,","I think the entire baseball, - /"
+%,A,"yeah/UH ,/,","yeah, /"
+sv,A,they/PRP 're/VBP the/DT ones/NNS that/WDT probably/RB are/VBP paying/VBG the/DT highest/JJS ./.,they're the ones that probably are paying the highest. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,they/PRP are/VBP ./.,they are. /
+sv,A,And/CC I/PRP think/VBP this/DT is/VBZ absolutely/RB ridiculous/JJ ./.,{C And } I think this is absolutely ridiculous. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+"fo_o_fw_""_by_bc",A,No/UH ./.,No. /
+sv,B,"And/CC I/PRP really/RB think/VBP ,/, I/PRP really/RB think/VBP that/IN ,/, uh/UH ,/, that/IN they/PRP ought/MD to/TO ,/,","{C And } [ I really think, + I really think ] [ that, + {F uh, } that ] they ought to, - /"
+sv,B,I/PRP 'm/VBP not/RB real/RB sure/JJ that/IN they/PRP should/MD pay/VB him/PRP that/RB much/JJ money/NN ./.,I'm not real sure that they should pay him that much money. /
+sv,B,"I/PRP think/VBP they/PRP should/MD ,/, uh/UH ,/, uh/UH ,/, pay/VB him/PRP what/WP his/PRP$ salary/NN is/VBZ going/VBG to/TO be/VB ,/, uh/UH ,/, and/CC let/VB him/PRP ,/,","I think they should, {F uh, } {F uh, } pay him what his salary is going to be, {F uh, } and let him, - /"
+sd,B,because/IN he/PRP 's/HVS got/VBN one/CD more/JJR year/NN before/IN he/PRP turns/VBZ into/IN a/DT free/JJ agent/NN ./.,{C because } he's got one more year before he turns into a free agent. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+qh,B,"And/CC then/RB ,/, uh/UH ,/, who/WP knows/VBZ ,/,","{C And then, } {F uh, } who knows, /"
+sv,B,"if/IN he/PRP produces/VBZ next/JJ year/NN ,/, they/PRP may/MD have/VB to/TO end/VB up/RP paying/VBG him/PRP anyway/RB ,/,","if he produces next year, they may have to end up paying him anyway, /"
+sv,B,"but/CC if/IN he/PRP does/VBZ n't/RB ,/, then/RB his/PRP$ market/NN value/NN will/MD go/VB down/RP","{C but } if he doesn't, then his market value will go down /"
+sv,B,"and/CC they/PRP can/MD pick/VB him/PRP up/RP for/IN ,/, for/IN a/DT lot/RB less/JJR than/IN ,/,","{C and } they can pick him up [ for, + for ] a lot less [ than, +"
+%,A,MUMBLEx/XX ./.,(( )) .
++,B,"than/IN they/PRP would/MD ,/, uh/UH ,/, if/IN they/PRP paid/VBD him/PRP the/DT si-/CD ,/, you/PRP know/VBP ,/, the/DT six/CD million/CD dollars/NNS a/DT year/NN this/DT year/NN ./.","than ] they would, {F uh, } if they paid him [ the si-, + {D you know, } the six ] million dollars a year this year. /"
+sd,A,"What/WP I/PRP saw/VBD on/IN the/DT news/NN today/NN ,/, that/IN","What I saw on the news today, that - /"
+sd,A,"Bu-/NNP ,/, Buechele/NNP was/VBD back/RB just/RB to/TO visit/VB ./.","[ Bu-, + Buechele ] was back just to visit. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,I/PRP 'm/VBP awful/RB sorry/JJ he/PRP 's/BES not/RB still/RB ./.,I'm awful sorry he's not still. -/
+aa,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,B,"but/CC you/PRP know/VBP ,/, what/WP ,/, he/PRP ,/,","{C but } {D you know, } what, he, - /"
+sv,B,that/WDT was/VBD a/DT great/JJ deal/NN for/IN him/PRP ./.,that was a great deal for him. /
+aa,A,"Oh/UH ,/, I/PRP 'm/VBP sure/JJ it/PRP was/VBD ./.","{F Oh, } I'm sure it was. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,it/PRP was/VBD a/DT great/JJ deal/NN for/IN him/PRP,it was a great deal for him /
+sd,B,"and/CC ,/, and/CC ,/, uh/UH ,/, he/PRP just/RB signed/VBD on/RP ,/, uh/UH ,/,","[ {C and, } + {C and, } ] {F uh, } he just signed on, {F uh, } /"
+sd,B,"I/PRP think/VBP it/PRP was/VBD like/IN a/DT five/CD year/NN deal/NN with/IN ,/, uh/UH --/:","I think it was like a five year deal with, {F uh } --"
+^2,A,Pittsburgh/NNP ./.,Pittsburgh. /
++,B,--/: Pittsburgh/NNP ./.,-- Pittsburgh. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"So/UH ,/, you/PRP know/VBP ,/, he/PRP 's/BES real/RB happy/JJ there/RB ./.","{C So, } {D you know, } he's real happy there. /"
+sv,B,"As/RB far/RB as/IN the/DT Rangers/NNPS are/VBP concerned/VBN ,/, I/PRP think/VBP ,/, I/PRP think/VBP they/PRP need/VBP some/DT ,/, definitely/RB need/VBP some/DT pitching/NN ./.","As far as the Rangers are concerned, [ I think, + I think ] they [ need some, + definitely need some ] pitching. /"
+aa,A,"Yes/UH ,/, sir/NN ./.","Yes, sir. /"
+%,B,"Uh/UH ,/, and/CC so/RB I/PRP ,/, you/PRP know/VBP I/PRP ,/,","{F Uh, } {C and so } [ I, + {D you know } I, ] -/"
+qo,A,"Well/UH ,/, what/WP do/VBP you/PRP think/VB of/IN Howse/NNP ,/, who/WP is/VBZ the/DT coach/NN for/IN the/DT pitchers/NNS ?/.","{D Well, } what do you think of Howse, who is the coach for the pitchers? /"
+br,B,The/DT pitching/NN coach/NN ?/.,The pitching coach? /
+aa,A,Yes/UH ./.,Yes. /
+sd,B,"Well/UH ,/, you/PRP know/VBP ,/, I/PRP was/VBD just/RB looking/VBG at/IN the/DT news/NN tonight/NN ,/,","{D Well, } {D you know, } I was just looking at the news tonight, /"
+sd,B,"and/CC they/PRP showed/VBD a/DT ,/, a/DT ,/, a/DT black/JJ guy/NN that/WDT was/VBD go/VBG ,/, was/VBD helping/VBG out/RP ,/, uh/UH ,/,","{C and } they showed [ [ a, + a, ] + a ] black guy that [ was go-, + was helping ] out, {F uh, }"
+^2,A,His/PRP$ assistant/NN ./.,His assistant. /
++,B,His/PRP$ assistant/NN ./.,His assistant. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC I/PRP think/VBP that/DT 's/BES a/DT ,/, a/DT great/JJ addition/NN ./.","{C And } I think that's [ a, + a ] great addition. /"
+sv,B,"I/PRP mean/VBP ,/, he/PRP seemed/VBD to/TO know/VB what/WP he/PRP was/VBD doing/VBG","{E I mean, } he seemed to know what he was doing /"
+%,B,"and/CC ,/, and/CC ,/, uh/UH ,/,","[ {C and, } + {C and, } ] {F uh, } -/"
+sd,A,I/PRP really/RB wish/VBP they/PRP could/MD see/VB fit/VB to/TO get/VB rid/VBN of/IN Howse/NNP ./.,I really wish they could see fit to get rid of Howse. /
+qy,B,"Oh/UH ,/, you/PRP do/VBP n't/RB like/VB Howse/NNP ,/, huh/UH ?/.","{F Oh, } you don't like Howse, {F huh? } /"
+nn,A,"No/UH ,/,","No, /"
+nn,A,"no/UH ,/,","no, /"
+sd,A,I/PRP really/RB do/VBP n't/RB ./.,I really don't. /
+x,B,./.,<Laughter>.
+sd,A,"And/CC I/PRP 'm/VBP not/RB going/VBG to/TO stand/VB up/RP ,/, you/PRP know/VBP on/IN my/PRP$ ,/,","{C And } I'm not going to stand up, {D you know } on my,"
+x,B,./.,<Laughter>.
++,A,"soapbox/NN and/CC say/VB that/DT ,/,","soapbox and say that, /"
+x,B,./.,<Breathing>.
+sd,A,"but/CC I/PRP 'm/VBP ,/,","{C but } I'm,"
+x,B,./.,<Breathing>.
++,A,not/RB fond/JJ of/IN Howse/NNP,not fond of Howse /
+sd,A,and/CC I/PRP 'm/VBP not/RB fond/JJ of/IN Grieves/NNPS ./.,{C and } I'm not fond of Grieves. /
+br,B,"Oh/UH ,/, Tom/NNP Grieve/NNP ?/.","{F Oh, } Tom Grieve? /"
+aa,A,Yeah/UH ./.,Yeah. /
+b,B,Yeah/UH ./.,<Lipsmack> Yeah. /
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP not/RB sure/JJ that/IN ,/, um/UH ,/, that/IN they/PRP 're/VBP ready/JJ to/TO get/VB rid/VBN of/IN ,/, of/IN ,/, uh/UH ,/, Tom/NNP Grieve/NNP yet/RB ,/,","[ I'm, + I'm ] not sure [ that, + {F um, } that ] they're ready to get rid [ of, + of, ] {F uh, } Tom Grieve yet, /"
+sd,B,"but/CC Howse/NNP might/MD be/VB a/DT different/JJ ,/, uh/UH ,/, situation/NN ,/,","{C but } Howse might be a different, {F uh, } situation, /"
+sv,B,"and/CC I/PRP think/VBP you/PRP 're/VBP probably/RB right/JJ ,/, that/IN they/PRP ,/, that/IN they/PRP need/VBP some/DT ,/, you/PRP know/VBP ,/, some/DT changes/NNS in/IN ,/, uh/UH ,/, pitching/NN coach/NN ,/, maybe/RB","{C and } I think you're probably right, [ that they, + that they ] need [ some, + {D you know, } some ] changes in, {F uh, } pitching coach, maybe /"
+%,B,"and/CC ,/, um/UH ,/,","{C and, } {F um, } -/"
+sd,A,"Well/UH ,/, I/PRP 'm/VBP just/RB gullible/JJ enough/RB that/IN I/PRP think/VBP Bobby/NNP Valentine/NNP is/VBZ ,/, um/UH ,/, uh/UH ,/, doing/VBG all/RB right/JJ","{D Well, } I'm just gullible enough that I think Bobby Valentine is, {F um, } {F uh, } doing all right /"
+%,A,"and/CC I/PRP 'm/VBP sure/JJ ,/,","{C and } I'm sure, -/"
+qy,B,"You/PRP do/VBP ,/, huh/UH ?/.","You do, {F huh? } /"
+arp_nd,A,"Well/UH ,/,","{D Well <laughter>, } /"
+sd,B,"That/DT 's/BES contrary/JJ to/IN ,/, uh/UH ,/, popular/JJ belief/NN ,/, you/PRP know/VBP ./.","<Laughter> That's contrary to, {F uh, } popular belief, {D you know } <laughter>. /"
+aa,A,"Oh/UH ,/, I/PRP know/VBP ,/,","<Laughter> {F Oh, } I know, /"
+sd,A,"I/PRP know/VBP so/RB ,/,","I know so, /"
+sd,A,"but/CC I/PRP would/MD like/VBP so/RB much/RB for/IN these/DT Rangers/NNPS to/TO get/VB their/PRP$ act/NN together/RB and/CC give/VB ,/, um/UH ,/, oh/UH ,/, uh/UH ,/, Nolan/NNP Ryan/NNP the/DT support/NN he/PRP needs/VBZ ./.","{C but } I would like so much for these Rangers to get their act together {C and } give, {F um, } <lipsmack> {F oh, } {F uh, } Nolan Ryan the support he needs. /"
+aa,B,"Oh/UH ,/, I/PRP know/VBP ./.","<Breathing> {F Oh, } I know <breathing>. /"
+sv,B,"You/PRP know/VBP ,/, it/PRP 's/BES too/RB bad/JJ that/IN ,/, uh/UH ,/, it/PRP has/VBZ to/TO be/VB a/DT forty-two/CD year/NN old/JJ guy/NN to/TO ,/, to/TO lead/VB the/DT ,/, uh/UH ,/, the/DT Rangers/NNPS ,/, you/PRP know/VBP ./.","{D You know, } it's too bad that, {F uh, } it has to be a forty-two year old guy [ to, + to ] lead [ the, + {F uh, } the ] Rangers, {D you know. } /"
+aa,A,I/PRP understand/VBP ./.,I understand. /
+sv,B,"They/PRP need/VBP to/TO have/VB some/DT ,/, some/DT young/JJ guys/NNS that/WDT can/MD take/VB the/DT lead/NN","They need to have [ some, + some ] young guys that can take the lead /"
+%,B,"and/CC ,/, and/CC ,/,","[ {C and, } + {C and, } ] - /"
+%,B,"uh/UH ,/,","{F uh, }"
+sd,A,"Well/UH ,/, I/PRP just/RB oh/UH ,/, I/PRP have/VBP so/RB many/JJ mixed/JJ emotions/NNS about/IN all/PDT this/DT ./.","{D Well, } [ I just + <laughter> {F oh, } I ] have so many mixed emotions about all this. /"
++,B,Yeah/UH ./.,Yeah. /
+sv,A,"But/CC I/PRP think/VBP with/IN their/PRP$ new/JJ stadium/NN ,/, they/PRP should/MD go/VB and/CC let/VB ,/,","{C But } I think with their new stadium, they should go and let, -/"

@@ -1,0 +1,230 @@
+act_tag,speaker,pos,text
+x,A,,<Laughter>.
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Um/UH ,/, I/PRP guess/VBP we/PRP 're/VBP supposed/VBN to/TO talk/VB about/IN music/NN ./.","{F Um, } I guess we're supposed to talk about music. /"
+aa,B,Okay/UH ./.,Okay. /
+oo_co_cc,A,"And/CC ,/, uh/UH ,/, let/VB me/PRP go/VB ahead/RB and/CC push/VB one/CD here/RB ./.","{C And, } {F uh, } let me go ahead and push one here. /"
+qy,A,"Uh/UH ,/, do/VBP you/PRP ha/VB ,/,","<tone> {F Uh, } do you ha-, - /"
+qy,A,are/VBP you/PRP a/DT musician/NN yourself/PRP ?/.,are you a musician yourself? /
+na,B,"Uh/UH ,/, well/UH ,/, I/PRP sing/VBP ./.","{F Uh, } {D well, } I sing. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,I/PRP do/VBP n't/RB play/VB an/DT instrument/NN ./.,I don't play an instrument. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Where/WRB ,/,","Where, - /"
+qy,A,"do/VBP you/PRP sing/VB in/IN ,/, in/IN a/DT choir/NN or/CC a/DT choral/JJ group/NN ?/.","do you sing [ in, + in ] a choir or a choral group? /"
+ng,B,"Oh/UH ,/, not/RB right/RB now/RB ./.","{F Oh, } not right now. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qw,A,What/WDT kind/NN of/IN singing/NN do/VBP you/PRP like/VB to/TO do/VB ?/.,What kind of singing do you like to do? /
+sd,B,"Oh/UH ,/, pretty/RB much/JJ anything/NN ./.","<Talking> {F Oh, } pretty much anything. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+qy,A,"Um/UH ,/, are/VBP you/PRP ,/, uh/UH ,/, are/VBP ,/, are/VBP ,/, have/VBP you/PRP ,/, have/VBP you/PRP been/VBN singing/VBG a/DT long/JJ time/NN","{F Um, } [ [ [ are you, {F uh, } + [ are, + are, ] ] + have you, ] + have you ] been singing a long time /"
+qrr,A,or/CC have/VBP you/PRP studied/VBN ?/.,{C or } have you studied? /
+ny,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"A/DT long/JJ time/NN out/RB ,/, all/RB through/IN college/NN and/CC everything/NN I/PRP was/VBD in/IN the/DT choirs/NNS ./.","A long time out, all through college and everything I was in the choirs. /"
+b,A,Right/UH ./.,Right. /
+sd,B,And/CC I/PRP 've/VBP had/VBN some/DT classical/JJ vocal/JJ training/NN ./.,{C And } I've had some classical vocal training. /
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+ba,A,"Oh/UH ,/, great/JJ ./.","{F Oh, } great. /"
+qy,A,"Did/VBD ,/, did/VBD you/PRP do/VB that/DT in/IN ,/, uh/UH ,/, Texas/NNP ,/, or/CC somewhere/RB else/RB ?/.","[ Did, + did ] you do that in, {F uh, } Texas, or somewhere else? /"
+nn,B,"No/UH ,/,","No, /"
+sd,B,I/PRP was/VBD in/IN Europe/NNP ./.,I was in Europe. /
+b,A,Oh/UH ./.,Oh. /
+qw,A,Whereabouts/WRB ?/.,Whereabouts? /
+sd,B,"In/IN ,/, uh/UH ,/, in/IN Germany/NNP ./.","[ In, + {F uh, } in ] Germany. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+ba,A,"Oh/UH ,/, that/DT 's/BES wonderful/JJ ./.","{F Oh, } that's wonderful. /"
+sd,A,"Um/UH ,/, well/UH ,/, I/PRP likewise/RB sang/VBD in/IN high/JJ school/NN and/CC in/IN college/NN in/IN choirs/NNS ,/,","{F Um, } {D well, } I likewise sang in high school and in college in choirs, /"
+sd,A,"and/CC then/RB I/PRP did/VBD n't/RB sing/VB in/IN a/DT choral/JJ group/NN ,/, um/UH ,/, until/IN after/IN I/PRP was/VBD ,/, uh/UH ,/, married/JJ ,/,","{C and then } I didn't sing in a choral group, {F um, } until after I was, {F uh, } married, /"
+sd,A,"and/CC I/PRP sang/VBD in/IN a/DT couple/NN of/IN ,/, uh/UH ,/, community/NN choirs/NNS ,/, and/CC then/RB um/UH ,/, waited/VBD for/IN a/DT while/NN ,/,","{C and } I sang in a couple of, {F uh, } community choirs, and then <breathing> {F um, } waited for a while, /"
+sd,A,"and/CC now/RB I/PRP 've/VBP ,/, for/IN about/RB the/DT last/JJ eight/CD years/NNS I/PRP 've/VBP sung/VBN in/IN a/DT church/NN choir/NN here/RB ,/,","{C and } now [ I've, + for about the last eight years I've ] sung in a church choir here,"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,in/IN Texas/NNP ./.,in Texas. /
+sd,A,"And/CC ,/, um/UH ,/, so/RB I/PRP ,/, I/PRP enjoy/VBP ,/,","{C And, } {F um, } {C so } [ I, + I ] enjoy,"
+x,B,,<Throat_clearing>.
++,A,"just/RB the/DT chorals/NNS singing/VBG a/DT lot/NN ,/,","(( just )) the chorals singing a lot,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,as/IN well/UH ./.,as well. /
+qy,A,"Um/UH ,/, are/VBP you/PRP a/DT soprano/NN ,/, alto/NN ,/, or/CC ,/,","{F Um, } are you a soprano, alto, or, -/"
+sd,B,Soprano/NN ./.,Soprano. /
+b^m,A,A/DT soprano/NN ./.,A soprano. /
+sd,A,"Yeah/UH ,/, so/RB am/VBP I/PRP ./.","Yeah, so am I. /"
+qy,A,"Do/VBP you/PRP ,/,","Do you, - /"
+qw,A,"and/CC ,/, uh/UH ,/, what/WDT kind/NN of/IN music/NN do/VBP you/PRP like/VB to/TO sing/VB ?/.","{C and, } {F uh, } what kind of music do you like to sing? /"
+sd,A,"Um/UH ,/, you/PRP were/VBD saying/VBG you/PRP had/VBD classical/JJ training/NN ./.","{F Um, } you were saying you had classical training. /"
+qy,A,"Do/VBP you/PRP have/VB a/DT particular/JJ composer/NN that/WDT you/PRP like/VBP or/CC ,/,","Do you have a particular composer that you like or,"
+%,B,"Oh/UH ,/, well/UH ,/,","{F Oh, } {D well, } /"
++,A,a/DT particular/JJ type/NN ?/.,a particular (( type )) ? /
+sd,B,"as/RB far/RB as/IN opera/NN goes/VBZ ,/, I/PRP 'm/VBP ,/, I/PRP think/VBP most/RBS fond/JJ of/IN Verdi/NNP ./.","as far as opera goes, I'm, I think most fond of Verdi. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+x,B,,<Noise>.
+sd,A,"I/PRP 've/VBP been/VBN listening/VBG to/IN ,/, um/UH ,/, some/DT ,/, uh/UH ,/, some/DT advertisements/NNS for/IN MADAM/NNP BUTTERFLY/NNP ,/,","I've been listening to, {F um, } [ some, + {F uh, } some ] advertisements for MADAM BUTTERFLY, /"
+sd,A,"and/CC I/PRP 'm/VBP wondering/VBG if/IN you/PRP ,/, if/IN you/PRP have/VBP ever/RB done/VBN anything/NN like/IN that/DT ,/,","{C and } I'm wondering [ if you, + if you ] have ever done anything like that, /"
+qy,A,"have/VBP you/PRP ever/RB done/VBN any/DT ,/, uh/UH ,/, if/IN ,/,","[ have you ever done any, {F uh, } + [ if, +"
+nn,B,"No/UH ,/,","No, /"
+nn,B,"no/UH ,/,","no, /"
++,A,if/IN you/PRP had/VBD done/VBN MADAM/NNP BUTTERFLY/NNP ./.,if ] you had done MADAM BUTTERFLY. ] /
+sd,B,"I/PRP have/VBP n't/RB done/VBN ,/, uh/UH ,/,","I haven't done, <noise> {F uh, } - /"
+sd,B,"I/PRP 'd/MD love/VB to/TO ,/,","I'd love to, /"
+b,A,Yes/UH ./.,Yes. /
+sd,B,"but/CC ,/, um/UH ,/, that/DT 's/BES ,/, uh/UH ,/, Puccini/NNP ,/, I/PRP think/VBP ,/,","{C but, } {F um, } that's, {F uh, } Puccini, I think, /"
+^g,B,right/UH ?/.,right? /
+ny,A,"Uh-huh/UH ,/,","Uh-huh, /"
+ny,A,"yes/UH ,/,","yes, /"
+ny,A,uh-huh/UH ./.,uh-huh. /
+sd,A,"Um/UH ,/, MADAM/NNP BUTTERFLY/NNP was/VBD ,/, um/UH ,/,","{F Um, } MADAM BUTTERFLY was, {F um, }"
+x,B,,<Cough>.
++,A,"in/IN Dallas/NNP ,/,","in Dallas, /"
+sd,A,"it/PRP 's/HVS been/VBN two/CD or/CC three/CD years/NNS ago/RB now/RB ,/,","it's been two or three years ago now, /"
+sd,A,"and/CC then/RB I/PRP went/VBD to/TO see/VB that/DT ,/,","{C and then } I went to see that, /"
+sd,A,"and/CC ,/,","{C and, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,it/PRP was/VBD really/RB wonderful/JJ ./.,it was really wonderful. /
+sd,A,"It/PRP was/VBD particularly/RB well/RB ,/,","It was particularly well, - /"
+sd,A,"the/DT acting/NN was/VBD particularly/RB nice/JJ ,/, I/PRP thought/VBD ,/,","the acting was particularly nice, I thought, /"
+sd,A,"and/CC ,/, um/UH ,/, so/RB ,/,","{C and, } {F um, } {C so, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,it/PRP was/VBD quite/RB popular/JJ ./.,it was quite popular. /
+sd,A,"Um/UH ,/, you/PRP do/VBP n't/RB play/VB ,/, um/UH ,/, an/DT instrument/NN","{F Um, } you don't play, {F um, } an instrument /"
+qy,A,"so/RB ,/,","{C so, }"
++,A,"uh/UH ,/, um/UH ,/, have/VBP you/PRP ever/RB wanted/VBN to/TO ,/, like/IN guitar/NN or/CC piano/NN or/CC ,/,","{F uh, } {F um, } have you ever wanted to, {D like } guitar or piano or <laughter>, -/"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH ./.,yeah. /
+sv,A,"That/DT ,/, I/PRP think/VBP that/DT 's/BES always/RB a/DT good/JJ instrument/NN for/IN anybody/NN who/WP sings/VBZ or/CC does/VBZ ,/, you/PRP know/VBP ,/, some/DT other/JJ kind/NN of/IN instrument/NN ,/,","[ That, + I think that's ] always a good instrument for anybody who sings or does, {D you know, } some other kind of instrument, /"
+sv,A,"I/PRP think/VBP piano/NN is/VBZ always/RB good/JJ background/NN ,/,","I think piano is always good background, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,beginner/NN ./.,beginner. - /
+sd,A,"Um/UH ,/, I/PRP played/VBD piano/NN all/DT through/IN ,/, well/UH ,/, I/PRP guess/VBP from/IN the/DT time/NN I/PRP was/VBD fi-/CD ,/, five/CD until/IN I/PRP graduated/VBD from/IN college/NN ,/,","{F Um, } I played piano [ all through, + ] {D well, } I guess from the time I was [ fi-, + five ] until I graduated from college, /"
+sd,A,"and/CC ,/, uh/UH ,/, then/RB I/PRP was/VBD a/DT piano/NN teacher/NN for/IN a/DT while/NN while/IN my/PRP$ husband/NN was/VBD in/IN graduate/NN school/NN ,/,","{C and, } {F uh, } {C then } I was a piano teacher for a while while my husband was in graduate school, /"
+sd,A,"so/RB ,/, um/UH ,/, that/DT was/VBD the/DT instrument/NN both/DT of/IN my/PRP$ children/NNS started/VBD on/RP ,/,","{C so, } {F um, } that was the instrument both of my children started on, /"
+sd,A,but/CC neither/DT of/IN them/PRP stayed/VBD with/IN it/PRP ./.,{C but } neither of them stayed with it <laughter>. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"One/CD of/IN them/PRP ,/, um/UH ,/, turned/VBD into/IN a/DT violist/NN ,/,","One of them, {F um, } turned into a violist, /"
+sd,A,"and/CC the/DT other/JJ one/NN is/VBZ ,/, the/DT boy/NN is/VBZ ,/, um/UH ,/, guitar/NN and/CC ,/, and/CC percussion/NN ,/,","{C and } the other one [ is, + the boy is, ] {F um, } guitar [ and, + and ] percussion, /"
+%,A,so/RB ./.,{C so. } -/
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Um/UH ,/, but/CC the/DT ,/,","{F Um, } {C but } the, - /"
+sv,A,"I/PRP ,/, I/PRP think/VBP that/IN the/DT piano/NN background/NN is/VBZ very/RB ,/, um/UH ,/, useful/JJ ,/,","[ I, + I ] think that the piano background is very, {F um, } useful, /"
+sv,A,"and/CC ,/, um/UH ,/, I/PRP 'm/VBP sure/JJ that/IN it/PRP ,/, for/IN you/PRP ,/, it/PRP would/MD have/VB been/VBN great/JJ to/TO be/VB able/JJ to/TO accompany/VB yourself/PRP ,/,","{C and, } {F um, } I'm sure that [ it, + for you, it ] would have been great to be able to accompany yourself,"
+aa,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,just/RB for/IN practicing/NN and/CC so/RB on/RB ./.,just for practicing and so on. /
+x,B,,<Throat_clearing>.
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,A,Do/VBP you/PRP have/VB any/DT other/JJ kind/NN of/IN music/NN that/WDT you/PRP like/VBP ?/.,Do you have any other kind of music that you like? /
+sd,B,"Um/UH ,/, oh/UH ,/, I/PRP like/VBP to/TO listen/VB to/IN all/DT different/JJ kinds/NNS of/IN music/NN ./.","{F Um, } {F oh, } I like to listen to all different kinds of music. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,A,"I/PRP have/VBP a/DT ,/,","I have a, - /"
+sd,A,"I/PRP used/VBD to/TO work/VB with/IN a/DT fellow/NN who/WP had/VBD ,/, um/UH ,/,","I used to work with a fellow who had, {F um, } - /"
+sd,A,"although/IN this/DT was/VBD a/DT computer/NN company/NN ,/, he/PRP had/VBD his/PRP$ ,/, uh/UH ,/, P/NNP H/NNP D/NNP in/IN musical/JJ ,/, uh/UH ,/, I/PRP guess/VBP it/PRP was/VBD in/IN composition/NN ,/, actually/RB ,/, from/IN University/NNP of/IN North/NNP Texas/NNP ,/,","although this was a computer company, he had his, {F uh, } P H D in musical, {F uh, } I guess it was in composition, {D actually, } from University of North Texas, /"
+sd,A,"and/CC ,/, uh/UH ,/, yet/RB when/WRB I/PRP would/MD go/VB into/IN his/PRP$ ,/,","{C and, } {F uh, } {D yet } when I would go into [ his, +"
+x,B,,<Music>.
++,A,"his/PRP$ office/NN every/DT now/RB and/CC then/RB ,/, you/PRP never/RB knew/VBD what/WDT kind/NN of/IN music/NN he/PRP 'd/MD be/VB playing/VBG on/IN the/DT radio/NN ./.","his ] office every now and then, you never knew what kind of music he'd be playing on the radio </music> <laughter>. /"
+sd,A,"It/PRP may/MD be/VB country/NN ,/,","It may be country, /"
+sd,A,"it/PRP might/MD be/VB classical/JJ ,/,","it might be classical, /"
+sd,A,"it/PRP might/MD be/VB rock/NN ,/, you/PRP know/VBP --/:","it might be rock, {D you know } -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: it/PRP was/VBD just/RB ,/, he/PRP said/VBD that/IN ,/, that/DT just/RB about/RB what/WP you/PRP said/VBD ,/, that/IN he/PRP just/RB liked/VBD all/DT kinds/NNS of/IN music/NN ./.","-- it was just, he said [ that, + that ] just about what you said, that he just liked all kinds of music. /"
+b,B,Yeah/UH,Yeah /
+x,B,./.,<noise>.
+sd,A,"And/CC that/DT was/VBD ,/, that/DT was/VBD neat/JJ for/IN ,/, for/IN me/PRP to/TO hear/VB that/IN somebody/NN is/VBZ ,/,","{C And } [ that was, + that was ] neat [ for, + for ] me to hear that somebody is, -/"
+sd,B,"There/EX 's/BES ,/, you/PRP know/VBP ,/, some/DT of/IN the/DT really/RB totally/RB country/NN stuff/NN ,/, I/PRP do/VBP n't/RB really/RB particularly/RB like/VB","There's, {D you know, } some of the really totally country stuff, I don't really particularly like /"
+%,B,"but/CC ,/,","{C but, } -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
+qy,A,"Um/UH ,/, do/VBP you/PRP have/VB any/DT plans/NNS to/TO ,/, uh/UH ,/, do/VBP anything/NN with/IN your/PRP$ music/NN in/IN the/DT near/JJ future/NN","{F Um, } do you have any plans to, {F uh, } do anything with your music in the near future /"
+%,A,"or/CC ,/,","{C or, } -/"
+sd,B,"Well/UH ,/, I/PRP have/VBP ,/, I/PRP have/VBP like/IN ,/, we/PRP ,/,","{D Well, } <breathing> [ I have, + I have ] {D like, } we, - /"
+sd,B,I/PRP wish/VBP I/PRP could/MD --/:,I wish I could -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: but/CC I/PRP ,/, I/PRP do/VBP n't/RB really/RB know/VB how/WRB to/TO go/VB about/IN it/PRP without/IN having/VBG a/DT degree/NN","-- {C but } [ I, + I ] don't really know how to go about it without having a degree /"
+%,B,"or/CC ,/,","{C or, } -/"
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"um/UH ,/,","{F um } <phone_ringing>, /"
+sd,A,"I/PRP know/VBP that/IN there/EX are/VBP ,/, if/IN you/PRP 're/VBP interested/JJ in/IN choral/JJ singing/NN ,/,","I know that there are, if you're interested in choral singing, - /"
+sd,A,"I/PRP 'm/VBP not/RB sure/JJ where/WRB ,/,","I'm not sure where,"
+x,B,,<Phone_ringing>.
++,A,"you/PRP are/VBP in/IN Texas/NNP ,/,","you are in Texas, /"
+sd,A,"but/CC I/PRP do/VBP know/VB that/IN some/DT communities/NNS have/VBP ,/,","{C but } I do know that some communities have,"
+x,B,,<Phone_ringing>.
++,A,"uh/UH ,/, community/NN choruses/NNS","{F uh, } community choruses /"
+sv,A,"and/CC ,/,","{C and, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"uh/UH ,/, that/DT 's/BES often/RB a/DT good/JJ way/NN to/TO get/VB back/RB into/IN it/PRP again/RB ./.","{F uh, } that's often a good way to get back into it again. /"
+sv,A,"Um/UH ,/, it/PRP 's/BES not/RB r-/XX ,/, terribly/RB demanding/JJ ./.","{F Um, } it's not [ r-, + ] terribly demanding. /"
+sd,A,"You/PRP might/MD have/VB to/TO audition/VB ,/,","You might have to audition, /"
+sv,A,"but/CC that/DT probably/RB would/MD n't/RB be/VB a/DT problem/NN ,/,","{C but } that probably wouldn't be a problem, /"
+sd,A,"but/CC ,/, um/UH ,/, there/EX usually/RB ,/, you/PRP know/VBP ,/,","{C but, } {F um, } <lipsmack> there usually, {D you know, } - /"
+sd,A,that/IN they/PRP take/VBP tours/NNS and/CC things/NNS like/IN that/DT,that they take tours and things like that - /
+sd,A,and/CC you/PRP get/VBP to/TO know/VB --/:,{C and } you get to know --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: you/PRP know/VBP ,/, people/NNS socially/RB as/RB well/RB as/IN ,/, as/IN in/IN a/DT musical/JJ setting/NN ,/,","-- {D you know, } people socially as well [ as, + as ] in a musical setting, /"
+sv,A,so/RB --/:,{C so } --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: that/DT 's/BES always/RB fun/JJ ./.,-- that's always fun. /
+sd,A,"I/PRP think/VBP that/DT 's/BES ,/, well/UH ,/, that/DT 's/BES one/CD reason/NN why/WRB I/PRP have/VBP enjoyed/VBN my/PRP$ choir/NN so/RB much/JJ ,/, is/VBZ that/IN not/RB only/RB do/VBP we/PRP sing/VB wonderful/JJ music/NN ,/,","I think [ that's, + {D well, } that's ] one reason why I have enjoyed my choir so much, is that not only do we sing wonderful music, /"
+sd,A,"but/CC we/PRP 've/VBP gotten/VBN to/TO know/VB each/DT other/JJ quite/RB well/UH ,/, um/UH ,/, in/IN ,/, on/IN a/DT ,/, a/DT social/JJ level/NN ,/,","{C but } we've gotten to know each other quite well, {F um, } [ in, + ] on [ a, + a ] social level, /"
+sd,A,"and/CC ,/,","[ {C and, } +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,and/CC I/PRP think/VBP we/PRP sing/VBP better/RBR because/IN of/IN that/DT ./.,{C and } ] I think we sing better because of that. /
+sd,A,"I/PRP think/VBP ,/, you/PRP know/VBP ,/,","[ I think, + {D you know, }"
+ba,B,That/DT 's/BES good/JJ ./.,That's good. /
++,A,"I/PRP think/VBP we/PRP sing/VBP more/JJR like/IN ,/, uh/UH ,/, people/NNS who/WP trust/VBP each/DT other/NN ,/,","I think ] we sing more like, {F uh, } people who trust each other <laughter>,"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,yeah/UH ./.,yeah. /
++,A,which/WDT is/VBZ really/RB nice/JJ ./.,which is really nice. /
+qw,A,"So/RB ,/, whereabouts/WRB in/IN ,/,","{D So, } whereabouts in,"
+x,B,,<Throat_clearing>.
++,A,"Texas/NNP are/VBP you/PRP ,/, if/IN I/PRP could/MD ask/VB ?/.","Texas are you, if I could ask? /"
+sd,B,"Oh/UH ,/, I/PRP 'm/VBP in/IN Flower/NNP Mound/NNP ./.","{F Oh, } I'm in Flower Mound. /"
+b^m,A,"Flower/NNP Mound/NNP ,/,","Flower Mound, /"
+bk,A,okay/UH ./.,okay. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Well/UH ,/, I/PRP 'm/VBP in/IN Plano/NNP ,/,","{D Well, } I'm in Plano, /"
+sd,A,"so/RB ,/, um/UH ,/, we/PRP 're/VBP just/RB not/RB too/RB far/RB apart/RB ,/, actually/RB ./.","{C so, } {F um, } we're just not too far apart, {D actually. } /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,that/DT 's/BES pretty/RB close/RB ./.,that's pretty close. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"It/PRP was/VBD funny/JJ ,/, um/UH ,/, uh/UH ,/,","It was funny, {F um, } <lipsmack> {F uh, } /"
+%,A,"it/PRP 's/BES ,/, you/PRP know/VBP ,/,","it's, {D you know, } - /"
+sd,A,"I/PRP talk/VBP to/TO people/NNS all/RB over/IN ,/, uh/UH ,/, Texas/NNP ,/, um/UH ,/, and/CC only/RB one/CD person/NN outside/IN of/IN the/DT coun-/NN ,/, uh/UH ,/, of/IN the/DT state/NN ,/,","I talk to people all over, {F uh, } Texas, {F um, and only one person outside [ of the coun-, + {F uh, } of the state, ] /"
+sd,A,"so/RB I/PRP 'm/VBP always/RB asking/VBG where/WRB ,/, where/WRB in/IN the/DT state/NN ,/, you/PRP know/VBP ,/, the/DT person/NN is/VBZ from/IN if/IN they/PRP 're/VBP in/IN Texas/NNP ./.","{C so } I'm always asking [ where, + where ] in the state, {D you know, } the person is from if they're in Texas. /"
+b,B,Yeah/UH ./.,Yeah. /
+qy,A,"Um/UH ,/, are/VBP ,/, do/VBP you/PRP have/VB a/DT family/NN ?/.","{F Um, } [ are, + do ] you have a family? /"
+na,B,"Um/UH ,/, I/PRP 'm/VBP married/JJ ./.","{F Um, } I'm married. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy^d,A,"I/PRP was/VBD wondering/VBG if/IN your/PRP$ ,/, if/IN your/PRP$ spouse/NN ,/,","I was wondering [ if your, + if your ] spouse, - /"
+qrr,A,"or/CC if/IN ,/, you/PRP know/VBP ,/, if/IN you/PRP had/VBD ,/, uh/UH ,/, other/JJ musical/JJ people/NNS in/IN your/PRP$ family/NN ./.","{C or } [ if, + {D you know, } if ] you had, {F uh, } other musical people in your family. /"
+br,B,I/PRP 'm/VBP sorry/JJ ?/.,<Noise> I'm sorry? /
+qy^d,A,"Uh/UH ,/, if/IN you/PRP have/VBP other/JJ people/NNS in/IN your/PRP$ family/NN who/WP are/VBP also/RB musical/JJ ./.","{F Uh, } if you have other people in your family who are also musical. /"
+na,B,"Oh/UH ,/, a/DT little/JJ bit/NN ./.","{F Oh, } a little bit. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+x,B,,<Throat_clearing>.
+qy,A,Do/VBP you/PRP come/VB by/IN it/PRP naturally/RB ?/.,Do you come by it naturally? /
+qy,A,"Was/VBD your/PRP$ ,/, were/VBD your/PRP$ parents/NNS that/DT musical/JJ ?/.","[ Was your, + were your ] parents that musical? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP think/VBP so/RB ./.,I think so. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
+sv,A,"That/DT often/RB is/VBZ the/DT case/NN ,/, um/UH ,/,","That often is the case, {F um, } /"
+%,A,"the/DT ,/, you/PRP know/VBP ,/,","the, {D you know, } - /"
+sv,A,"it/PRP 's/BES ,/, it/PRP ,/, sometimes/RB it/PRP will/MD skip/VB ./.","[ [ it's, + it, ] + sometimes it ] will skip. /"
+sd,A,"Like/IN my/PRP$ husband/NN is/VBZ not/RB musical/JJ at/IN all/DT ,/,","Like my husband is not musical at all, /"
+sd,A,"but/CC his/PRP$ mother/NN is/VBZ very/RB musical/JJ ,/,","{C but } his mother is very musical, /"
+sd,A,"and/CC ,/, um/UH ,/, and/CC his/PRP$ children/NNS are/VBP very/RB musical/JJ ,/,","[ {C and, } + {F um, } {C and } ] his children are very musical, /"
+sv,A,"so/RB you/PRP never/RB know/VBP where/WRB the/DT talent/NN is/VBZ going/VBG to/TO show/VB up/RP ,/, I/PRP guess/VBP ,/, sometimes/RB ./.","{C so } <laughter> you never know where the talent is going to show up, I guess, sometimes. /"
+sd,A,"So/RB ,/, um/UH ,/, well/UH ,/, I/PRP 'm/VBP not/RB sure/JJ how/WRB long/JJ we/PRP 've/VBP talked/VBN ./.","{C So, } {F um, } {D well, } I'm not sure how long we've talked. /"
+%,B,"I/PRP think/VBP ,/,","I think, -/"
+sd,A,"I/PRP have/VBP n't/RB paid/VBN ,/, have/VBP n't/RB been/VBN paying/VBG attention/NN to/IN the/DT ,/, to/IN the/DT clock/NN ./.","I [ haven't paid, + haven't been paying ] attention [ to the, + to the ] clock. /"
+sd,A,"But/CC ,/, uh/UH ,/, I/PRP 'll/MD bet/VB we/PRP 've/VBP done/VBN ,/, we/PRP 've/VBP done/VBN at/IN least/JJS five/CD minutes/NNS ./.","{C But, } {F uh, } I'll bet [ we've done, + we've done ] at least five minutes. /"
+sd,B,Probably/RB ./.,Probably <laughter>. /
+fc,A,"Well/UH ,/, I/PRP 've/VBP enjoyed/VBN talking/VBG with/IN you/PRP ,/,","<Laughter> {D Well, } I've enjoyed talking with you,"
+fc,B,Okay/UH ./.,Okay. /
++,A,"uh/UH ,/, Becky/NNP ,/,","{F uh, } Becky, /"
+fc,A,"and/CC ,/, um/UH ,/, maybe/RB we/PRP 'll/MD talk/VB again/RB ./.","{C and, } {F um, } maybe we'll talk again. /"
+fc,B,"All/RB right/JJ ,/,","All right, /"
+ft,B,thanks/UH ./.,thanks. /
+fc,A,Uh-huh/UH ./.,Uh-huh. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

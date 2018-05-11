@@ -1,0 +1,123 @@
+act_tag,speaker,pos,text
+sd,A,"Well/UH ,/, I/PRP 've/VBP been/VBN real/RB ,/, um/UH ,/, thinking/VBG I/PRP 'd/MD love/VB to/TO buy/VB a/DT new/JJ car/NN ,/,","{D Well, } I've been [ real, + ] {F um, } <baby> thinking I'd love to buy a new car,"
+b,B,Oh/UH ./.,Oh <laughter>. /
++,A,"right/RB now/RB ,/, if/IN I/PRP could/MD afford/VB it/PRP ./.","right now, if I could afford it. /"
+sd,A,But/CC we/PRP have/VBP two/CD cars/NNS right/RB now/RB,{C But } we have two cars right now /
+sd,A,"and/CC we/PRP 're/VBP still/RB paying/VBG on/RP them/PRP ,/,","{C and } we're still paying on them, /"
+sd,A,but/CC I/PRP would/MD love/VB to/TO have/VB one/CD of/IN these/DT new/JJ mini/JJ vans/NNS ./.,{C but } I would love to have one of these new mini vans. /
+sd,A,I/PRP 've/VBP got/VBN two/CD little/JJ ones/NNS,I've got two little ones /
+sd,A,and/CC I/PRP think/VBP that/DT would/MD be/VB just/RB the/DT perfect/JJ family/NN car/NN ./.,{C and } I think that would be just the perfect family car <dishes>. /
+%,B,"I/PRP ,/,","I, - /"
+sd,B,right/RB now/RB my/PRP$ car/NN is/VBZ terminally/RB ill/JJ --/:,right now my car is terminally ill -- /
+b,A,Oh/UH ./.,Oh <laughter>. /
+sd,B,"--/: so/RB I/PRP am/VBP really/RB looking/VBG at/IN ,/, uh/UH ,/, facing/VBG the/DT purchase/NN of/IN a/DT car/NN ./.","-- {C so } I am really [ looking at, + ] {F uh, } facing the purchase of a car. /"
+%,B,"And/CC ,/,","{C And, } -/"
+x,A,,<Dishes>.
+sd,B,"uh/UH ,/, what/WP I/PRP would/MD like/VB to/TO have/VB is/VBZ so/RB totally/RB impractical/JJ for/IN me/PRP that/DT ,/,","{F uh, } what I would like to have is so totally impractical for me that,"
+x,A,,<Dishes>.
++,B,I/PRP wo/MD n't/RB do/VB it/PRP ./.,I won't do it. /
+%,B,"But/CC ,/,","{C But } <laughter>, -/"
+qw,A,What/WP is/VBZ it/PRP ?/.,What is it? /
+sd,B,"Uh/UH ,/, well/UH ,/, I/PRP would/MD like/VB for/IN one/CD time/NN in/IN my/PRP$ life/NN to/TO have/VB a/DT convertible/NN ./.","{F Uh, } {D well, } I would like for one time in my life to have a convertible. /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,"And/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP do/VBP n't/RB even/RB like/VB the/DT wind/NN blowing/VBG in/IN on/IN me/PRP","{C And, } {F uh, } {D you know, } I don't even like the wind blowing in on me /"
+sd,B,so/RB I/PRP do/VBP n't/RB know/VB why/WRB I/PRP think/VBP I/PRP want/VBP one/CD,{C so } I don't know why I think I want one /
+sd,B,but/CC I/PRP do/VBP ./.,{C but } I do. /
+x,A,,<Laughter>.
+sd,B,"Uh/UH ,/, I/PRP will/MD probably/RB stay/VB with/IN a/DT foreign/JJ make/NN ./.","{F Uh, } I will probably stay with a foreign make. /"
+x,A,,<Noise>.
+sd,B,I/PRP 've/VBP had/VBN real/RB good/JJ luck/NN with/IN them/PRP ./.,I've had real good luck with them. /
+b,A,Yeah/UH ./.,<Noise> Yeah. /
+%,A,"We/PRP have/VBP ,/, um/UH ,/, we/PRP have/VBP ,/,","[ We have, + {F um, } we have, ] - /"
+sd,A,we/PRP went/VBD out/RB to/TO buy/VB an/DT American/JJ car/NN,<noise> we went out to buy an American car /
+sd,A,"so/RB we/PRP bought/VBD ,/, um/UH ,/, a/DT Chevy/NNP Nova/NNP about/RB three/CD years/NNS ago/RB ./.","{C so } we bought, {F um, } a Chevy Nova about three years ago. /"
+sd,A,"And/CC ,/, and/CC we/PRP opened/VBD up/RP the/DT ,/, the/DT hood/NN","[ {C And, } + {C and } ] we opened up [ the, + the ] hood /"
+sd,A,"and/CC it/PRP said/VBD Toyota/NNP ,/, made/VBN in/IN Japan/NNP ,/, right/RB across/IN the/DT front/NN of/IN all/PDT the/DT engine/NN parts/NNS ./.","{C and } it said Toyota, made in Japan, right across the front of all the engine parts <laughter>. /"
+bh,B,Is/VBZ that/DT right/JJ ?/.,Is that right? /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Toyota/NNP ,/, uh/UH ,/,","Toyota, {F uh, } /"
+sd,A,"well/UH ,/, the/DT Chevy/NNP Nova/NNP is/VBZ the/DT same/JJ car/NN as/IN the/DT Toyota/NNP Camry/NNP ./.","{D well, } the Chevy Nova is the same car as the Toyota Camry. /"
+sd,A,"Uh/UH ,/, at/IN that/DT time/NN was/VBD the/DT same/JJ car/NN","{F Uh, } at that time was the same car /"
+sd,A,so/RB they/PRP just/RB put/VBP different/JJ names/NNS on/IN them/PRP depending/VBG on/IN who/WP they/PRP 're/VBP being/VBG shipped/VBN to/IN ./.,{C so } they just put different names on them depending on who they're being shipped to. /
+b,B,"Oh/UH ,/,","{F Oh, } /"
+%,A,"I/PRP thought/VBD that/DT was/VBD pretty/RB n-/XX ,/,","I thought that was pretty n-, -/"
+sd,B,"well/UH ,/, I/PRP did/VBD n't/RB realize/VB it/PRP ./.","{D well, } I didn't realize it. /"
+sd,B,"I/PRP knew/VBD that/IN one/CD of/IN the/DT ,/, that/IN Nissan/NNP which/WDT is/VBZ Toyota/NNP had/VBD ,/, uh/UH ,/, joined/VBN with/IN ,/, had/VBD a/DT plant/NN over/IN here/RB ./.","I knew [ that one of the, + that ] Nissan which is Toyota [ had, {F uh, } joined with, + had ] a plant over here. /"
+x,A,,<Dishes>.
+sd,B,"but/CC I/PRP ,/, I/PRP never/RB thought/VBD of/IN ,/,","{C but } I, I never thought of, -/"
+b,A,Yeah/UH ./.,Yeah. /
+ba,B,"I/PRP know/VBP ,/, uh/UH ,/,","I know, {F uh, } /"
+sv,B,you/PRP think/VBP it/PRP 's/BES a/DT Chevrolet/NNP in/IN the/DT good/JJ old/JJ U/NNP S/NNP A/NNP ./.,you think it's a Chevrolet in the good old U S A. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,A,"That/DT 's/BES why/WRB we/PRP were/VBD so/RB surprised/JJ to/TO see/VB Toyota/NNP written/VBN ,/, I/PRP mean/VBP ,/, imprinted/VBN on/IN the/DT engine/NN ./.","That's why we were so surprised to see Toyota [ written, + {E I mean, } imprinted ] on the engine. /"
+sd,A,It/PRP was/VBD real/RB interesting/JJ ./.,It was real interesting. /
+b,B,Huh/UH ./.,Huh. /
+%,A,"But/CC ,/, uh/UH ,/, I/PRP ,/,","{C But, } {F uh, } I, - /"
+sv,A,"with/IN so/RB many/JJ options/NNS now/RB available/JJ ,/, you/PRP know/VBP ,/, where/WRB ,/, where/WRB cars/NNS are/VBP concerned/JJ ,/, it/PRP just/RB seems/VBZ like/IN there/EX is/VBZ ,/, there/EX 's/BES almost/RB too/RB much/JJ of/IN a/DT choice/NN anymore/RB ./.","with so many options now available, <children> {D you know, } [ where, + where ] cars are concerned, it just seems like [ there is, + there's ] almost too much of a choice anymore. /"
+sd,A,"You/PRP know/VBP ,/, there/EX 's/BES so/RB many/JJ different/JJ options/NNS and/CC so/RB many/JJ different/JJ prices/NNS and/CC who/WP has/VBZ this/DT cash/NN back/RB and/CC whatever/WDT ./.","{D You know, } there's so many different options and so many different prices and who has this cash back and whatever. /"
+sv,A,"I/PRP think/VBP that/IN if/IN I/PRP were/VBD really/RB serious/JJ about/IN looking/VBG for/IN another/DT car/NN ,/, I/PRP would/MD take/VB into/IN consideration/NN the/DT price/NN naturally/RB ./.","I think that if I were really serious about looking for another car, I would take into consideration the price naturally. /"
+sv,A,"But/CC ,/, um/UH ,/, you/PRP know/VBP ,/, I/PRP would/MD really/RB want/VB something/NN that/WDT I/PRP would/MD want/VB for/IN that/RB much/JJ money/NN ./. For/IN ten/CD or/CC twelve/CD or/CC fifteen/CD thousand/CD dollars/NNS or/CC whatever/WDT ./.","{C But, } {F um, } </dishes> {D you know, } I would really want something that I would want <child> for that much money. For ten or twelve or fifteen thousand dollars <child_talking> or whatever. /"
+aa,B,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+sv,B,and/CC that/DT 's/BES minimum/JJ ./.,{C and } that's minimum. /
+aa,A,"Oh/UH ,/, yea-/UH ,/,","{F Oh, } yea-, - /"
+aa,A,definitely/UH ./.,definitely <laughter>. /
+sd,B,"It/PRP ,/, you/PRP know/VBP it/PRP 's/BES ,/,","[ [ It, + {D you know } it's, ] +"
+x,A,,<Child_crying>.
++,B,"it/PRP 's/BES a/DT major/JJ purchase/NN ,/,","it's ] a major purchase,"
+x,A,,<Dishes>.
++,B,now/UH ./.,now. /
+sv,B,"What/WP we/PRP used/VBD to/TO pay/VB for/IN homes/NNS is/VBZ now/RB what/WP a/DT car/NN ,/,","What we used to pay for homes is now what a car,"
+x,A,,<Dishes>.
++,B,can/MD cost/VB ./.,can cost. /
+sv,A,"I/PRP can/MD not/RB imagine/VB that/IN ,/, you/PRP know/VBP ,/, somebody/NN ,/,","I cannot <rustling> imagine that, {D you know, } <clicking> somebody, - /"
+sd,A,"I/PRP heard/VBD a/DT commercial/NN or/CC something/NN about/IN a/DT sixty/CD thousand/CD dollar/NN car/NN about/IN ,/, oh/UH ,/, it/PRP would/MD ,/, how/WRB ,/,","I heard a commercial or something about a sixty thousand dollar car about, {F oh, } [ it would, + ] how,"
+x,B,,<Cough>.
++,A,"exciting/JJ it/PRP is/VBZ to/TO make/VB that/DT kind/NN of/IN a/DT purchase/NN ,/,","exciting it is to make that kind of a purchase, /"
+sv,A,"and/CC I/PRP thought/VBD ,/, I/PRP do/VBP n't/RB think/VB I/PRP 'd/MD find/VB that/DT exciting/JJ ./.","{C and } I thought, I don't think I'd find that exciting <dishes>. /"
+sd,A,"I/PRP 'd/MD be/VB wondering/VBG ,/, you/PRP know/VBP ,/, here/RB I/PRP am/VBP buying/VBG this/DT expensive/JJ of/IN a/DT car/NN and/CC my/PRP$ house/NN is/VBZ n't/RB worth/JJ that/RB much/JJ money/NN ./.","I'd be wondering, {D you know, } here I am buying this expensive of a car and my house isn't worth that much money <laughter>. /"
+sv,B,"If/IN they/PRP held/VBD their/PRP$ value/NN ,/, that/DT would/MD be/VB one/CD thing/NN ./.","If they held their value, that would be one thing. /"
+aa,A,That/DT 's/BES true/JJ ./.,That's true. /
+sv,B,"But/CC when/WRB you/PRP consider/VBP that/IN when/WRB you/PRP drive/VBP them/PRP off/IN of/IN the/DT show/NN lot/NN ,/,","{C But } when you consider that when you drive them off of the show lot,"
+x,A,,<Child>.
++,B,they/PRP 're/VBP immediately/RB two/CD thousand/CD dollars/NNS depreciated/VBN ./.,they're immediately two thousand dollars depreciated. /
+b,A,Yeah/UH ./.,</Child> Yeah. /
+qy,B,"And/CC ,/, you/PRP know/VBP ,/, that/IN ,/,","{C And, } {D you know, } that, - /"
+sd,B,"I/PRP do/VBP n't/RB know/VB that/IN ,/,","<sigh> I don't know that,"
+x,A,,<Baby_talking>.
++,B,"I/PRP 'll/MD go/VB with/IN ,/,","I'll go with, - /"
+sd,B,I/PRP 've/VBP bought/VBN a/DT new/JJ car/NN the/DT last/JJ three/CD that/WDT I/PRP 've/VBP bought/VBN,I've bought a new car the last three that I've bought /
+sd,B,and/CC I/PRP do/VBP n't/RB know/VB that/IN I/PRP 'll/MD buy/VB a/DT brand/NN new/JJ one/CD again/RB ./.,{C and } I don't know that I'll buy a brand new one again. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"Well/UH ,/, we/PRP had/VBD a/DT pretty/RB ,/,","{D Well, } we had a pretty, - /"
+sd,A,we/PRP bought/VBD our/PRP$ Chevrolet/NNP brand/JJ new/JJ,we bought our Chevrolet brand new /
+sd,A,and/CC then/RB we/PRP bought/VBD a/DT used/JJ car/NN ./.,{C and then } we bought a used car </baby_talking>. /
+t3,A,"Just/RB a/DT minute/NN ,/,","<<Talks to baby>> Just a minute, /"
+t3,A,I/PRP 'll/MD change/VB your/PRP$ diaper/NN ./.,I'll change your diaper. /
+x,B,,<Laughter>.
+sd,A,"Then/RB we/PRP bought/VBD our/PRP$ ,/, our/PRP$ next/JJ car/NN used/JJ","Then we bought [ our, + our ] next car used /"
+sd,A,"and/CC ,/, uh/UH ,/, we/PRP had/VBD better/JJR luck/NN with/IN our/PRP$ used/JJ car/NN ,/,","{C and, } {F uh, } we had better luck with our used car, /"
+sd,A,and/CC I/PRP like/VBP it/PRP more/JJR ./.,{C and } I like it more. /
+sd,A,It/PRP cost/VBP us/PRP less/JJR money/NN,It cost us less money /
+sd,A,and/CC we/PRP got/VBD more/JJR features/NNS and/CC air-conditioning/NN and/CC whatever/WDT on/IN it/PRP then/RB we/PRP did/VBD on/IN our/PRP$ brand/NN new/JJ one/CD for/IN twice/RB as/RB much/JJ money/NN ./.,{C and } we got more features and air-conditioning and whatever on it then we did on our brand new one for twice as much money. /
+sd,B,"Well/UH ,/, I/PRP 'm/VBP ,/, I/PRP 'm/VBP seriously/RB considering/VBG going/VBG that/DT route/NN instead/IN of/IN a/DT brand/NN new/JJ car/NN ./.","{D Well, } [ I'm, + I'm ] seriously considering going that route instead of a brand new car. /"
+sv,A,"If/IN you/PRP can/MD find/VB one/CD that/WDT 's/BES r-/XX ,/, uh/UH ,/, you/PRP know/VBP ,/, reliable/JJ ./.","If you can find one that's [ r-, + {F uh, } {D you know, } reliable ] <baby_talking>. - /"
+sv,A,If/IN you/PRP can/MD get/VB someone/NN that/WDT you/PRP trust/VBP to/TO buy/VB one/CD from/IN,If you can get someone that you trust to buy one from <noise> - /
+sv,A,"or/CC ,/, you/PRP know/VBP ,/, make/VB sure/JJ that/IN you/PRP can/MD have/VB it/PRP checked/VBN out/RP well/RB enough/RB ./.","{C or, } <baby_talking> {D you know, } make sure that you can have it checked out well enough <child_talking> <breathing>. /"
+ar,A,"Uh/UH ,/, I/PRP would/MD n't/RB ./.","{F Uh, } I wouldn't <baby_crying>. -/"
+sv,B,and/CC they/PRP do/VBP n't/RB drive/VB them/PRP that/RB much/NN ./.,{C and } they don't drive them that much. /
+x,A,,<Child_talking>.
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Sh/XX ,/,","Sh , -/"
+sv,B,Six/CD thousand/CD is/VBZ just/RB getting/VBG broken/VBN in/RP for/IN them/PRP ./.,Six thousand is just getting broken in for them. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,And/CC if/IN I/PRP can/MD find/VB one/CD or/CC a/DT repossession/NN ./.,{C And } if I can find one or a repossession. -/
+%,A,"That/DT 's/BES ,/,","That's, - /"
+sd,A,we/PRP bought/VBD one/CD like/IN that/DT ./.,we bought one like that. /
+sv,B,"And/CC with/IN the/DT banks/NNS being/VBG in/IN such/JJ financial/JJ ,/, you/PRP know/VBP ,/, problems/NNS now/RB that/IN people/NNS ,/,","{C And } with the banks being in such financial, {D you know, } problems now that people, - /"
+sv,B,you/PRP can/MD find/VB the/DT banks/NNS willing/JJ to/TO sell/VB you/PRP a/DT car/NN ./.,you can find the banks willing to sell you a car. /
+b,A,Uh-huh/UH,Uh-huh /
+sd,A,./. We/PRP bought/VBD one/CD car/NN that/DT way/NN,<baby_crying>. We bought one car that way /
+%,A,"and/CC had/VBD ,/,","{C and } had, - /"
+sd,A,we/PRP bought/VBD it/PRP real/RB reasonably/RB,we bought it real reasonably /
+sd,A,"and/CC it/PRP was/VBD in/IN real/RB nice/JJ condition/NN so/RB ,/, because/IN apparently/RB whatever/WDT the/DT bank/NN get/VB .../:","{C and } it was in real nice condition [ so, + ] because apparently whatever the bank get ... -/"

@@ -1,0 +1,345 @@
+act_tag,speaker,pos,text
+qy^d,A,You/PRP said/VBD you/PRP have/VBP four/CD cats/NNS ?/.,You said you have four cats? /
+ny,B,"Yes/UH ,/,","Yes, /"
+sd,B,I/PRP have/VBP four/CD cats/NNS ./.,I have four cats. /
+qw,A,How/WRB old/JJ are/VBP they/PRP ?/.,How old are they? /
+sd,B,"Well/UH they/PRP range/VBP from/IN ,/, let/VB 's/PRP see/VB about/RB a/DT year/NN and/CC a/DT half/NN to/IN nine/CD years/NNS old/JJ ./.","{D Well } they range from, let's see about a year and a half to nine years old. /"
+b,A,Oh/UH gosh/UH ./.,{F Oh } gosh. /
+b,B,Yes/UH ./.,Yes. /
+sd,A,"I/PRP have/VBP n't/RB had/VBN my/PRP$ oldest/JJS one/NN quite/RB nine/CD years/NNS ,/,","I haven't had my oldest one quite nine years, /"
+sd,A,I/PRP 've/VBP had/VBN him/PRP probably/RB five/CD years/NNS ./.,I've had him probably five years. /
+bk,B,"Oh/UH okay/UH ,/,","{F Oh } okay, /"
+sd,B,you/PRP get/VBP so/RB attached/JJ to/IN them/PRP ./.,you get so attached to them. /
+aa,A,"Oh/UH yes/UH ,/,","{F Oh } yes, /"
+sd,A,I/PRP love/VBP my/PRP$ cats/NNS ./.,I love my cats. /
+sd,A,"I/PRP lost/VBD one/CD ,/, one/CD time/NN ,/, uh/UH ,/,","I lost one, one time, {F uh, } /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,the/DT first/JJ one/CD I/PRP got/VBD ./.,the first one I got. /
+sd,A,"He/PRP jumped/VBD off/IN the/DT balcony/NN actually/RB ,/, of/IN a/DT second/JJ story/NN apartment/NN ./.","He jumped off the balcony actually, of a second story apartment. /"
+ba,B,Oh/UH no/UH ./.,{F Oh } no. /
+sd,A,"And/CC he/PRP 'd/MD never/RB been/VBN outside/RB ,/, like/IN ,/, you/PRP know/VBP ,/, by/IN himself/PRP outside/RB ./.","{C And } he'd never been outside, {D like, } {D you know, } by himself outside. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC it/PRP started/VBD raining/VBG,{C And } it started raining /
+sd,A,and/CC I/PRP was/VBD hysterical/JJ ./.,{C and } I was hysterical. /
+%,A,"I/PRP was/VBD ,/, I/PRP was/VBD ,/,","[ I was, + I was, ] - /"
+sd,A,"I/PRP mean/VBP ,/, you/PRP would/MD have/VB thought/VBN a/DT child/NN had/VBD died/VBN ./.","{E I mean, } you would have thought a child had died. /"
+b,B,"Yes/UH ,/,","Yes, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+sd,A,"I/PRP called/VBD everyone/NN I/PRP knew/VBD ,/,","I called everyone I knew, /"
+sd,A,I/PRP had/VBD every/DT friend/NN I/PRP knew/VBD in/IN the/DT apartment/NN searching/VBG for/IN this/DT cat/NN ./.,I had every friend I knew in the apartment searching for this cat. /
+b,B,"Yes/UH ,/,","Yes, /"
+ba,B,I/PRP understand/VBP ./.,I understand. /
+sd,A,"And/CC they/PRP laughed/VBD at/IN me/PRP ,/,","{C And } they laughed at me, /"
+sd,A,they/PRP thought/VBD that/DT was/VBD so/RB hysterical/JJ ./.,they thought that was so hysterical. /
+ba,B,"Oh/UH no/UH ,/,","{F Oh } no, /"
+ba,B,"I/PRP understand/VBP ,/,","I understand, /"
+sd,B,"we/PRP ,/, uh/UH ,/, we/PRP 've/VBP gone/VBN through/IN the/DT same/JJ things/NNS with/IN ours/PRP$ ,/,","[ we, + {F uh, } we've ] gone through the same things with ours, /"
+sd,B,"we/PRP 've/VBP had/VBN ,/, you/PRP know/VBP ,/, they/PRP 've/VBP been/VBN ill/JJ ,/,","[ we've had, + {D you know, } they've been ] ill, /"
+sd,B,"I/PRP mean/VBP I/PRP take/VBP off/RP work/NN ,/,","{E I mean } I take off work,"
+b,A,Oh/UH yeah/UH ./.,{F Oh } yeah. /
++,B,"to/TO take/VB care/NN of/IN my/PRP$ cats/NNS ,/, you/PRP know/VBP ,/,","to take care of my cats, {D you know, } /"
+sd,B,my/PRP$ boss/NN thinks/VBZ I/PRP 'm/VBP absolutely/RB crazy/JJ ./.,my boss thinks I'm absolutely crazy. /
+x,A,./.,<Laughter>.
+sd,B,And/CC then/RB we/PRP had/VBD a/DT baby/NN,{C And then } we had a baby /
+sd,B,"and/CC it/PRP 's/BES like/RB ,/, all/RB right/JJ who/WP comes/VBZ first/RB the/DT cat/NN or/CC the/DT baby/NN ./.","{C and } it's like, all right who comes first the cat or the baby. /"
+bf,A,The/DT cat/NN was/VBD here/RB first/JJ,The cat was here first /
+sd,A,"so/RB ./. I/PRP know/VBP ,/,","{C so } <laughter>. I know, /"
+sv,A,it/PRP 's/BES hard/JJ ./.,it's hard. /
+sd,B,"And/CC ,/, and/CC then/RB when/WRB we/PRP go/VBP to/TO sleep/VB at/IN night/NN ,/, you/PRP know/VBP ,/, it/PRP 's/BES like/IN my/PRP$ husband/NN and/CC I/PRP have/VBP to/TO try/VB to/TO get/VB any/DT space/NN on/IN the/DT bed/NN because/IN we/PRP have/VBP all/DT four/CD of/IN them/PRP up/IN there/RB with/IN us/PRP ./.","[ {C And, } + {C and then } ] when we go to sleep at night, {D you know, } it's like my husband and I have to try to get any space on the bed because we have all four of them up there with us. /"
+ba,A,"Oh/UH ,/, how/WRB funny/JJ ./.","{F Oh, } how funny. /"
+sd,B,"It/PRP 's/BES like/IN all/DT right/JJ ,/, whose/WP$ corners/NNS is/VBZ this/DT one/NN ./.","It's like all right, whose corners is this one. /"
+ba,A,"That/DT 's/BES sweet/JJ ,/,","<Laughter> That's sweet, /"
+sd,A,"I/PRP have/VBP the/DT two/CD ,/,","I have the two, /"
+sd,A,the/DT other/JJ two/CD cats/NNS I/PRP have/VBP are/VBP outdoor/JJ cats/NNS ./.,the other two cats I have are outdoor cats. /
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,A,"And/CC they/PRP did/VBD n't/RB used/VBN to/TO be/VB actually/RB ,/,","{C And } they didn't used to be actually, /"
+sd,A,"but/CC they/PRP got/VBD kind/RB of/RB wild/JJ and/CC were/VBD n't/RB doing/VBG very/RB well/RB inside/RB ,/,","{C but } they got kind of wild and weren't doing very well inside, /"
+sd,A,so/RB I/PRP put/VBD them/PRP outside/RB once/IN I/PRP got/VBD a/DT house/NN,{C so } I put them outside once I got a house /
+sd,A,"and/CC they/PRP 're/VBP doing/VBG great/JJ out/IN there/RB ,/,","{C and } they're doing great out there, /"
+sd,A,they/PRP love/VBP it/PRP ./.,they love it. /
+sd,A,"But/CC the/DT other/JJ one/NN ,/, the/DT first/JJ one/NN I/PRP got/VBD he/PRP does/VBZ n't/RB want/VB anything/NN to/TO do/VB with/IN outside/RB unless/IN you/PRP 're/VBP there/RB ./.","{C But } [ the other one, + the first one ] I got he doesn't want anything to do with outside unless you're there. /"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,A,Other/JJ than/IN that/IN he/PRP gets/VBZ scared/JJ to/IN death/NN ./.,Other than that he gets scared to death. /
+sd,A,If/IN you/PRP shut/VBP that/DT door/NN he/PRP goes/VBZ into/IN hiding/VBG ./.,If you shut that door he goes into hiding. /
+ba,B,Oh/UH no/UH ./.,{F Oh } no. /
+sd,A,I/PRP think/VBP it/PRP 's/BES from/IN the/DT time/NN he/PRP jumped/VBD off/IN the/DT balcony/NN ./.,I think it's from the time he jumped off the balcony <laughter>. /
+aa,B,"Yes/UH ,/,","Yes, /"
+aa,B,"uh-huh/UH ,/,","uh-huh, /"
+sv,B,that/WDT 's/BES it/PRP ./.,that's it <laughter>. /
+sd,A,And/CC Lord/NNP knows/VBZ what/WP happened/VBD to/IN him/PRP ./.,{C And } Lord knows what happened to him. /
+sd,A,He/PRP 's/HVS probably/RB been/VBN through/IN all/DT kinds/NNS of/IN nightmares/NNS ./.,<laughter> He's probably been through all kinds of nightmares. /
+aa,B,"Right/UH ,/,","Right, /"
+bf,B,traumatized/JJ for/IN life/NN here/RB ./.,traumatized for life here. /
+aap_am,A,Probably/UH ./.,Probably. /
+b,B,"Oh/UH yeah/UH ,/,","{F Oh } yeah, /"
+%,B,"we/PRP 've/VBP ,/,","we've, - /"
+sd,B,all/DT four/CD of/IN ours/PRP$ are/VBP house/NN cats/NNS ./.,all four of ours are house cats. /
+bh,A,Are/VBP they/PRP ./.,Are they. /
+sd,B,"We/PRP started/VBD out/RP with/IN two/CD ,/, with/IN two/CD outdoor/JJ cats/NNS","We started out [ with two, + with two ] outdoor cats /"
+sd,B,but/CC our/PRP$ neighbor/NN decided/VBD he/PRP did/VBD n't/RB like/VB cats/NNS and/CC shot/VBD one/CD of/IN them/PRP ./.,{C but } our neighbor decided he didn't like cats and shot one of them. /
+ba,A,Oh/UH no/UH ./.,{F Oh } no. /
+sd,B,"Oh/UH well/UH he/PRP lived/VBD through/IN it/PRP ,/,","{F Oh } {D well } he lived through it, /"
+sd,B,"oh/UH ,/, I/PRP could/MD n't/RB believe/VB it/PRP ./.","{F oh, } I couldn't believe it. /"
+sd,B,We/PRP went/VBD through/IN like/IN twenty-two/CD hundred/CD dollars/NNS worth/JJ of/IN vet/NN bills/NNS ./.,We went through {D like } twenty-two hundred dollars worth of vet bills. /
+ba,A,Oh/UH my/PRP$ gosh/UH ./.,{F Oh } my gosh. /
+sd,B,"The/DT ,/, the/DT cat/NN almost/RB died/VBD ,/,","[ The, + the ] cat almost died, /"
+sd,B,"and/CC but/CC he/PRP turned/VBD out/RP to/TO be/VB such/PDT a/DT wonderful/JJ cat/NN ,/,","[ {C and } + {C but } ] he turned out to be such a wonderful cat, /"
+sd,B,oh/UH he/PRP loves/VBZ life/NN now/RB ./.,{F oh } he loves life now. /
+ba,A,"Oh/UH ,/, I/PRP imagine/VBP ./.","{F Oh, } I imagine. /"
+sd,B,"And/CC he/PRP 's/BES like/IN oh/UH ,/, thank/VBP you/PRP so/RB much/RB ./.","{C And } he's like {F oh, } thank you so much. /"
+sd,A,"I/PRP wonder/VBP how/WRB many/JJ of/IN his/PRP$ lives/NNS he/PRP missed/VBD ,/, when/WRB that/DT happened/VBD ./.","I wonder how many of his lives he missed, when that happened. /"
+aa,B,"I/PRP know/VBP ,/,","I know, /"
+sd,B,we/PRP wondered/VBD about/IN that/DT ./.,we wondered about that. /
+sd,B,"But/CC ,/, uh/UH ,/, oh/UH that/DT was/VBD a/DT traumatic/JJ experience/NN for/IN us/PRP too/RB ./.","{C But, } {F uh, } {F oh } that was a traumatic experience for us too. /"
+ba,A,"Oh/UH ,/, I/PRP can/MD imagine/VB ,/,","{F Oh, } I can imagine, /"
+qw,A,what/WP did/VBD he/PRP shoot/VB him/PRP with/IN ./.,what did he shoot him with. /
+sd,B,"Uh/UH ,/, well/UH ,/, uh/UH ,/, from/IN what/WP we/PRP can/MD tell/VB it/PRP was/VBD a/DT pellet/NN gun/NN","{F Uh, } {D well, } {F uh, } from what we can tell it was a pellet gun /"
+sd,B,and/CC then/RB he/PRP started/VBD chasing/VBG him/PRP with/IN a/DT bull/NN whip/NN ./.,{C and then } he started chasing him with a bull whip. /
+ba,A,Oh/UH my/PRP$ gosh/UH ./.,{F Oh } my gosh. /
+sv,A,People/NNS are/VBP crazy/JJ ./.,People are crazy. /
+aa,B,"Oh/UH yes/UH ,/,","{F Oh } yes, /"
+sv,B,absolutely/RB nuts/NNS ./.,absolutely nuts. /
+sd,B,"But/CC ,/, uh/UH ,/, luckily/RB enough/RB ,/, you/PRP know/VBP ,/, we/PRP found/VBD the/DT cat/NN in/IN time/NN and/CC ,/, uh/UH ,/, rushed/VBD him/PRP to/IN the/DT vet/NN","{C But, } {F uh, } luckily enough, {D you know, } we found the cat in time and, {F uh, } rushed him to the vet /"
+sd,B,and/CC it/PRP took/VBD us/PRP about/RB six/CD weeks/NNS of/IN in/IN and/CC out/IN of/IN the/DT vet/NN and/CC surgery/NN,{C and } it took us about six weeks of in and out of the vet and surgery /
+%,B,"and/CC ,/,","{C and, }"
+ba,A,Oh/UH Lord/NNP ./.,{F Oh } Lord. /
++,B,"tod-/XX ,/,","tod-, - /"
+sd,B,I/PRP mean/VBP he/PRP started/VBD off/RP as/IN a/DT stray/NN,{E I mean } he started off as a stray /
+sd,B,and/CC then/RB we/PRP did/VBD all/PDT this/DT for/IN him/PRP ./.,{C and then } we did all this for him <laughter>. /
+ba,A,Oh/UH man/UH ./.,{F Oh } man. /
+sd,B,"But/CC oh/UH ,/, he/PRP 's/HVS been/VBN a/DT wonderful/JJ cat/NN ./.","{C But } {F oh, } he's been a wonderful cat. /"
+ba,A,I/PRP imagine/VBP ./.,I imagine. /
+sv,A,They/PRP usually/RB are/VBP after/IN something/NN like/IN that/DT happens/VBZ to/IN them/PRP ./.,They usually are after something like that happens to them. /
+sv,A,It/PRP seems/VBZ to/TO mellow/VB them/PRP or/CC something/NN ./.,It seems to mellow them or something. /
+aa,B,Oh/UH yes/UH ./.,{F Oh } yes. /
+sd,B,"But/CC ,/, uh/UH ,/, we/PRP would/MD n't/RB ha/VB ,/, we/PRP would/MD n't/RB have/VB them/PRP ,/,","{C But, } {F uh, } [ we wouldn't ha-, + we wouldn't have ] them, - /"
+sd,B,"I/PRP mean/VBP ,/, I/PRP do/VBP n't/RB see/VB us/PRP without/IN pets/NNS ,/, without/IN cats/NNS ./.","{E I mean, } I don't see us without pets, without cats. /"
+aa,A,No/UH ./.,No. /
+sd,B,"There/EX 's/BES just/RB ,/, uh/UH ,/, there/EX 's/BES this/DT ,/, they/PRP just/RB fill/VBP this/DT void/NN ./.","[ [ There's just, + {F uh, } there's this, ] + they just fill this ] void. /"
+aa,A,"Oh/UH yeah/UH ,/,","{F Oh } yeah, /"
+sd,A,"I/PRP ke/VBP ,/, I/PRP keep/VBP talking/VBG about/IN getting/VBG rid/VBN of/IN my/PRP$ outdoor/JJ cats/NNS because/IN I/PRP feel/VBP like/IN I/PRP do/VBP n't/RB ,/, I/PRP ca/MD n't/RB take/VB care/NN of/IN them/PRP as/RB well/RB because/IN they/PRP 're/VBP outside/JJ ,/,","[ I ke-, + I keep ] talking about getting rid of my outdoor cats because I feel like [ I don't, + I can't ] take care of them as well because they're outside, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"and/CC it/PRP worries/VBZ me/PRP that/IN one/CD day/NN one/CD of/IN them/PRP wo/MD n't/RB come/VB back/RB ,/,","{C and } it worries me that one day one of them won't come back, /"
+aa,B,Yes/UH ./.,Yes. /
+sd,A,"and/CC I/PRP feel/VBP like/IN they/PRP need/VBP a/DT big/JJ home/NN ,/, a/DT nice/JJ place/NN where/WRB someone/NN can/MD have/VB the/DT time/NN to/TO play/VB with/IN them/PRP and/CC things/NNS ./.","{C and } I feel like they need a big home, a nice place where someone can have the time to play with them and things. /"
+sd,A,But/CC I/PRP ca/MD n't/RB give/VB them/PRP up/RP ./.,{C But } I can't give them up. /
+aa,B,Oh/UH no/UH ./.,{F Oh } no. /
+sd,A,"I/PRP just/RB ,/, I/PRP go/VBP hysterical/JJ when/WRB they/PRP do/VBP n't/RB come/VB home/NN ./.","[ I just, + I ] go hysterical when they don't come home. /"
+aa,B,Right/UH,Right /
+bf,B,"and/CC you/PRP worry/VBP about/IN ,/, oh/UH ,/, who/WP 's/BES taking/VBG care/NN of/IN them/PRP ./.","{C and } you worry about, {F oh, } who's taking care of them. /"
+aa,A,"Oh/UH ,/, oh/UH yeah/UH ,/,","{F Oh, } {F oh } yeah, /"
+sd,A,and/CC every/DT time/NN you/PRP see/VBP one/CD hit/VBN on/IN the/DT side/NN of/IN the/DT road/NN you/PRP say/VBP is/VBZ that/DT my/PRP$ cat/NN ./.,{C and } every time you see one hit on the side of the road you say is that my cat. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC you/PRP go/VBP crazy/JJ thinking/VBG it/PRP might/MD be/VB yours/PRP$ ./.,{C And } you go crazy thinking it might be yours. /
+aa,B,"Right/UH ,/,","Right, /"
+sd,B,well/UH I/PRP did/VBD n't/RB realize/VB my/PRP$ husband/NN was/VBD such/PDT a/DT sucker/NN for/IN animals/NNS until/IN I/PRP brought/VBD one/CD home/NN one/CD night/NN ./.,{D well } I didn't realize my husband was such a sucker for animals until I brought one home one night. /
+sd,B,"We/PRP ,/, we-/PRP ,/, I/PRP had/VBD one/CD that/WDT had/VBD ,/, we/PRP had/VBD ,/, we/PRP had/VBD to/TO put/VB to/TO sleep/VB he/PRP got/VBD so/RB sick/JJ ./.","[ [ We, + we-, ] + I ] had one [ [ that had, + we had, ] + we had ] to put to sleep he got so sick. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, well/UH I/PRP fell/VBP in/IN love/NN with/IN this/DT ,/, uh/UH ,/, it/PRP 's/BES a/DT Chinchilla/NNP Persian/NNP ,/,","{C And, } {F uh, } {D well } I fell in love with this, {F uh, } it's a Chinchilla Persian,"
+ba,A,Ugh/UH !/.,Ugh! /
++,B,"and/CC ,/, uh/UH ,/, brought/VBD him/PRP home/NN ,/,","and, {F uh, } brought him home, /"
+sd,B,"and/CC oh/UH ,/, my/PRP$ husband/NN just/RB died/VBD ./.","{C and } {F oh, } my husband just died. /"
+b,A,Really/UH ./.,Really. /
+sd,B,It/PRP was/VBD like/IN we/PRP ca/MD n't/RB take/VB it/PRP back/RB,It was like we can't take it back /
+^q,B,"you/PRP 've/VBP got/VBN ,/, we/PRP 've/VBP got/VBN to/TO keep/VB it/PRP now/RB ./.","[ you've got, + we've got ] to keep it now. /"
+bf,A,"It/PRP 's/BES here/RB now/RB ,/,","<Laughter> It's here now, /"
+bf,A,we/PRP have/VBP to/TO keep/VB it/PRP ./.,we have to keep it. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"my/PRP$ ,/, my/PRP$ first/JJ one/CD that/WDT I/PRP got/VBD ,/,","[ my, + my ] first one that I got, - /"
+sd,A,I/PRP had/VBD just/RB moved/VBN away/RB from/IN home/NN and/CC got/VBD my/PRP$ own/JJ apartment/NN ./.,I had just moved away from home and got my own apartment. /
+sd,A,"It/PRP took/VBD me/PRP about/RB two/CD weeks/NNS to/TO realize/VB ,/, that/DT was/VBD real/RB lonely/JJ ./.","It took me about two weeks to realize, that was real lonely. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,"uh-huh/UH ,/,","uh-huh, /"
+b,B,yes/UH ./.,yes. /
+sd,A,So/RB I/PRP found/VBD this/DT one/NN,{C So } I found this one /
+sd,A,"and/CC ,/, uh/UH ,/, actually/RB it/PRP was/VBD on/IN a/DT sign/NN at/IN Taco/NNP Bell/NNP drive-thru/NN that/WDT said/VBD free/JJ kittens/NNS ./.","{C and, } {F uh, } actually it was on a sign at Taco Bell drive-thru that said free kittens. /"
+b,B,Oh/UH uh-huh/UH ./.,{F Oh } uh-huh. /
+sd,A,"And/CC I/PRP thought/VBD well/UH that/DT 's/BES interesting/JJ ,/,","{C And } I thought <beep> well that's interesting, /"
+^q,A,I/PRP 'll/MD call/VB them/PRP ./.,I'll call them. /
+b,B,Right/UH ./.,Right. /
+sd,A,And/CC he/PRP was/VBD the/DT only/JJ one/CD left/JJ,{C And } he was the only one left /
+sd,A,and/CC his/PRP$ mother/NN had/VBD been/VBN killed/VBN coming/VBG back/RB across/IN the/DT road/NN to/TO make/VB sure/JJ she/PRP 'd/MD gotten/VBN all/DT her/PRP$ kittens/NNS ./.,{C and } his mother had been killed coming back across the road to make sure she'd gotten all her kittens. /
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,A,"And/CC he/PRP was/VBD the/DT last/JJ one/CD she/PRP carried/VBD across/IN ,/, you/PRP know/VBP ,/,","{C And } he was the last one she carried across, {D you know, } /"
+sd,A,the/DT whole/JJ big/JJ sad/JJ story/NN ./.,the whole big sad story. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,"So/RB of/IN course/NN ,/, I/PRP had/VBD to/TO take/VB him/PRP ./.","{C So } of course, I had to take him. /"
+sd,A,I/PRP felt/VBD so/RB sorry/JJ for/IN him/PRP after/IN that/DT ./.,I felt so sorry for him after that. /
+b,B,"Right/UH ,/,","Right, /"
+b,B,right/UH ./.,right. /
+sd,A,"And/CC he/PRP is/VBZ ,/, uh/UH ,/, you/PRP can/MD tell/VB he/PRP was/VBD weaned/VBN too/RB young/JJ because/IN he/PRP 'll/MD nurse/VB on/IN your/PRP$ ears/NNS and/CC your/PRP$ fingers/NNS ./.","{C And } [ he is, + {F uh, } you can tell he was ] weaned too young because he'll nurse on your ears and your fingers. /"
+ba,B,Oh/UH no/UH ./.,{F Oh } no. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"he/PRP ,/,","he, - /"
+sd,A,I/PRP asked/VBD the/DT vet/NN why/WRB he/PRP did/VBD that/DT,I asked the vet why he did that /
+sd,A,"and/CC he/PRP said/VBD he/PRP was/VBD probably/RB weaned/VBN too/RB young/JJ ,/, which/WDT he/PRP was/VBD ,/, because/IN his/PRP$ mom/NN was/VBD killed/VBN ,/,","{C and } he said he was probably weaned too young, which he was, because his mom was killed, /"
+%,A,so/UH ./.,{C so. } -/
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,But/CC he/PRP is/VBZ the/DT lovingest/JJS cat/NN ./.,{C But } he is the lovingest cat. /
+sd,A,"Everybody/NN ,/, people/NNS who/WP do/VBP n't/RB even/RB like/IN cats/NNS ,/, like/VBP him/PRP ./.","[ Everybody, + people who don't even like cats, ] like him. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"He/PRP never/RB meows/VBZ ,/,","He never meows, /"
+sd,A,"he/PRP ,/, he/PRP does/VBZ n't/RB have/VB any/DT front/JJ claws/NNS ,/,","[ he, + he ] doesn't have any front claws, /"
+sd,A,"I/PRP had/VBD him/PRP declawed/JJ ,/,","I had him declawed, /"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,A,but/CC he/PRP does/VBZ n't/RB bite/VB anybody/NN,{C but } he doesn't bite anybody /
+sd,A,"he/PRP 's/BES just/RB ,/, he/PRP 's/BES just/RB kind/RB of/RB there/RB ,/, real/RB friendly/JJ and/CC docile/JJ ./.","[ he's just, + he's just ] kind of there, real friendly and docile. /"
+ba,B,Oh/UH that/DT 's/BES good/JJ ./.,{F Oh } that's good. /
+sd,B,"Oh/UH we/PRP just/RB ,/, uh/UH ,/, just/RB love/VBP them/PRP ./.","{F Oh } we [ just, + {F uh, } just ] love them. /"
+sd,B,"They/PRP ,/, uh/UH ,/, you/PRP know/VBP ,/, get/VBP to/IN feeling/NN so/RB lovey/JJ and/CC dovey/JJ","They, {F uh, } {D you know, } get to feeling so lovey and dovey /"
+sd,B,and/CC they/PRP 'll/MD come/VB up/RB and/CC just/RB start/VB kneading/VBG in/IN our/PRP$ chest/NN,{C and } they'll come up {C and } just start kneading in our chest /
+sd,B,"and/CC it/PRP 's/BES like/IN oh/UH ,/, your/PRP$ claws/NNS need/VBP trimming/NN ./.","{C and } it's like {F oh, } your claws need trimming. /"
+aa,A,"Oh/UH yeah/UH ,/,","<Laughter> {F Oh } yeah, /"
+aa,A,"yeah/UH ,/,","yeah, /"
+sd,A,"we/PRP do/VBP ,/, we/PRP call/VBP that/DT doing/VBG biscuits/NNS ,/,","[ we do, + we call ] that doing biscuits, /"
+b,B,"Oh/UH yes/UH ,/,","{F Oh } yes, /"
+b,B,yes/UH ./.,yes. /
+sd,A,it/PRP looks/VBZ like/IN they/PRP 're/VBP kneading/VBG bread/NN ./.,"it looks like their kneading bread <laughter>. / *[[spelling ""their"" should be ""they're""]]"
+sd,B,Oh/UH it/PRP just/RB drives/VBZ us/PRP nuts/NNS ./.,{F Oh } it just drives us nuts. /
+sd,A,"Oh/UH ,/, I/PRP just/RB love/VBP cats/NNS ./.","{F Oh, } I just love cats. /"
+sd,A,"I/PRP like/VBP dogs/NNS ,/,","I like dogs, /"
+sv,A,"they/PRP 're/VBP okay/JJ ,/,","they're okay, /"
+sd,A,"I/PRP had/VBD ,/,","[ I had, +"
+b,B,"Um/UH ,/, yeah/UH ./.","{F Um, } yeah. /"
++,A,I/PRP had/VBD a/DT dog/NN when/WRB I/PRP lived/VBD at/IN home/NN,I had ] a dog when I lived at home /
+sv,A,but/CC they/PRP 're/VBP a/DT lot/RB more/JJR trouble/NN than/IN cats/NNS actually/RB ./.,{C but } they're a lot more trouble than cats actually. /
+aa,B,They/PRP really/RB are/VBP ./.,They really are. /
+sv,B,The/DT cats/NNS are/VBP so/RB independent/JJ,The cats are so independent /
+sv,B,and/CC they/PRP have/VBP so/RB much/RB more/JJR personality/NN than/IN a/DT dog/NN ./.,{C and } they have so much more personality than a dog. /
+aa,A,"Oh/UH yeah/UH ,/,","{F Oh } yeah, /"
+sv,A,they/PRP do/VBP ./.,they do. /
+sv,B,"And/CC ,/, but/CC oh/UH ,/, they/PRP 're/VBP so/RB much/JJ fun/NN to/TO watch/VB them/PRP play/VB ./.","[ {C And, } + {C but } ] {F oh, } they're so much fun to watch them play. /"
+aa,A,Oh/UH they/PRP are/VBP ./.,{F Oh } they are. /
+sd,A,"I/PRP love/VBP it/PRP ,/,","I love it, /"
+sv,A,"it/PRP 's/BES so/RB funny/JJ to/TO get/VB more/JJR than/IN one/CD cat/NN together/RB ,/, because/IN it/PRP brings/VBZ out/RB their/PRP$ personalities/NNS ./.","it's so funny to get more than one cat together, because it brings out their personalities. /"
+b,B,Yes/UH ./.,Yes. /
+sv,A,And/CC they/PRP just/RB act/VBP so/RB funny/JJ ./.,{C And } they just act so funny. /
+sd,B,"Oh/UH ,/, we/PRP 've/VBP got/VBN ,/,","{F Oh, } we've got, - /"
+sd,B,"well/UH the/DT two/CD that/WDT were/VBD outside/JJ ,/, they/PRP 're/VBP like/JJ brothers/NNS ,/,","{D well } the two that were outside, they're like brothers, /"
+sd,B,I/PRP mean/VBP I/PRP 've/VBP never/RB seen/VBN two/CD cats/NNS so/RB close/RB ./.,{E I mean } I've never seen two cats so close. /
+b,A,Really/UH ./.,Really. /
+sd,B,"And/CC ,/, uh/UH ,/, they/PRP ,/, uh/UH ,/, will/MD get/VB to/IN playing/VBG chase/NN through/IN the/DT house/NN ,/,","{C And, } {F uh, } they, {F uh, } will get to playing chase through the house, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"and/CC it/PRP is/VBZ hysterical/JJ ,/, I/PRP mean/VBP","{C and } it is hysterical, {E I mean } /"
+sd,B,and/CC then/RB the/DT other/JJ two/CD cats/NNS will/MD follow/VB in/IN pursuit/NN ./.,{C and then } the other two cats will follow in pursuit. /
+sd,B,It/PRP 's/BES like/IN this/DT train/NN ./.,It's like this train. /
+bf,A,A/DT train/NN of/IN cats/NNS running/VBG around/RB ./.,<Laughter> A train of cats running around. /
+sd,B,I/PRP mean/VBP it/PRP sounds/VBZ like/IN a/DT train/NN ./.,{E I mean } it sounds like a train. /
+sd,B,We/PRP have/VBP wooden/JJ floors/NNS,We have wooden floors /
+sd,B,and/CC so/RB it/PRP just/RB sort/RB of/RB echoes/VBZ through/IN the/DT house/NN ./.,{C and so } it just sort of echoes through the house <laughter>. /
+ba,A,"Oh/UH how/WRB funny/JJ ,/,","{F Oh } how funny, /"
+ba,A,I/PRP can/MD imagine/VB ./.,I can imagine. /
+%,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP would/MD n't/RB give/VB anything/NN for/IN my/PRP$ cats/NNS ./.,I wouldn't give anything for my cats. /
+sd,A,I/PRP love/VBP them/PRP to/IN death/NN ./.,I love them to death. /
+aa,B,"Oh/UH no/UH ,/,","{F Oh } no, /"
+sv,B,"they/PRP 're/VBP just/RB ,/, they/PRP 're/VBP ,/, they/PRP 're/VBP just/RB ,/, uh/UH ,/, they/PRP 're/VBP wonderful/JJ ,/, uh/UH ./.","[ [ they're just, + [ they're, + they're ] just, ] + {F uh, } they're ] wonderful, {F uh. } /"
+qw,A,What/WP are/VBP your/PRP$ cats/NNS '/POS names/NNS ./.,What are your cats' names. /
+sd,B,"Uh/UH ,/, we/PRP have/VBP ,/, uh/UH ,/, Bonzo/NNP ,/, Bear/NNP ,/, Poindexter/NNP ,/, and/CC Felix/NNP ./.","{F Uh, } we have, {F uh, } Bonzo, Bear, Poindexter, and Felix. /"
+ba,A,"Oh/UH ,/, how/WRB sweet/JJ ./.","{F Oh, } how sweet. /"
+qw,B,And/CC what/WP do/VBP you/PRP have/VB ./.,{C And } what do you have. /
+sd,A,"I/PRP have/VBP Xanadu/NNP and/CC Precious/NNP ,/, and/CC Rascal/NNP ./.","I have Xanadu and Precious, and Rascal. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,Precious/NNP and/CC Rascal/NNP are/VBP brother/NN and/CC sister/NN,Precious and Rascal are brother and sister /
+sd,A,and/CC they/PRP do/VBP n't/RB look/VB a/DT thing/NN a/GW like/^JJ ./.,{C and } they don't look a thing a like. /
+sd,A,Nothing/NN ./.,Nothing. /
+sd,A,"Precious/NNP is/VBZ a/DT medium/JJ hair/NN yellow/JJ cat/NN ,/,","Precious is a medium hair yellow cat, /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,yeah/UH ./.,yeah. /
+sd,A,and/CC Rascal/NNP is/VBZ a/DT black/JJ and/CC white/JJ short/JJ hair/NN ./.,{C and } Rascal is a black and white short hair. /
+b^m,B,Nothing/NN ./.,Nothing. /
+sd,A,"They/PRP do/VBP n't/RB look/VB a/DT thing/NN a/GW like/^JJ ,/,","They don't look a thing a like, /"
+ba,B,"Not/RB a/DT thing/NN ,/, goodness/NN gracious/JJ ./.","Not a thing, goodness gracious. /"
+sd,A,and/CC they/PRP came/VBD from/IN the/DT same/JJ litter/NN and/CC everything/NN ./.,{C and } they came from the same litter and everything. /
+sd,B,"We/PRP have/VBP ,/, uh/UH ,/, uh/UH ,/, tortoise/NN which/WDT is/VBZ a/DT black/NN and/CC ,/, and/CC orange/NN ./.","We have, {F uh, } {F uh, } tortoise which is a black [ and, + and ] orange. /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,And/CC she/PRP 's/BES so/RB ugly/JJ ./.,{C And } she's so ugly. /
+bf,A,"So/RB ugly/JJ she/PRP 's/BES cute/JJ ,/,","<Laughter> So ugly she's cute, /"
+^g,A,right/JJ ./.,right. /
+ny,B,"Yes/UH ,/,","Yes, /"
+ny,B,uh-huh/UH ./.,uh-huh. /
+sd,B,I/PRP mean/VBP you/PRP ca/MD n't/RB help/VB but/CC love/VB her/PRP ./.,{E I mean } you can't help but love her. /
+sd,B,"She/PRP 's/BES ,/, she/PRP 's/BES the/DT oldest/JJS one/CD and/CC ,/, but/CC ,/, uh/UH ,/, very/RB possessive/JJ ./.","[ She's, + she's ] the oldest one [ and, + but, ] {F uh, } very possessive. /"
+b,A,Really/UH ./.,Really. /
+sd,B,I/PRP mean/VBP it/PRP 's/BES like/IN nobody/NN messes/VBZ with/IN her/PRP$ mamma/NN ./.,{E I mean } it's like nobody messes with her mamma. /
+b,A,Oh/UH ./.,Oh. /
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP mean/VBP ,/, it/PRP comes/VBZ bedtime/NN","{C And, } {F uh, } {E I mean, } it comes bedtime /"
+sd,B,and/CC she/PRP 's/BES right/RB there/RB ./.,{C and } she's right there. /
+qy,A,Is/VBZ she/PRP the/DT oldest/JJS one/NN ?/.,Is she the oldest one? /
+ny,B,"Yeah/UH ,/,","<Talking> Yeah, /"
+sd,B,she/PRP 's/BES the/DT oldest/JJS ./.,she's the oldest. /
+%,B,"And/CC she/PRP ,/,","{C And } she, - /"
+sd,B,well/RB in/IN fact/NN I/PRP got/VBD her/PRP when/WRB I/PRP moved/VBD out/IN of/IN the/DT house/NN also/RB ./.,{D well } in fact I got her when I moved out of the house also. /
+b,A,Really/UH ./.,Really. /
+b,B,"And/CC so/RB yeah/UH ,/,","{C And so } yeah, /"
+%,B,"it/PRP 's/BES ,/, uh/UH ,/,","it's, {F uh, } - /"
+sd,B,"would/MD n't/RB have/VB ,/,","wouldn't have, - /"
+sd,B,"I/PRP mean/VBP ,/, oh/UH ,/, if/IN something/NN happens/VBZ to/IN her/PRP ./.","{E I mean, } {F oh, } if something happens to her. /"
+aa,A,Oh/UH I/PRP know/VBP,{F Oh } I know /
+sv,A,it/PRP 's/BES like/IN the/DT end/NN of/IN the/DT world/NN ./.,it's like the end of the world. /
+sd,B,It/PRP will/MD be/VB ./.,<Noise> It will be. /
+sd,A,I/PRP know/VBP that/DT 's/BES how/WRB I/PRP am/VBP about/IN Xanadu/NNP ./.,I know that's how I am about Xanadu. /
+ba,B,"Oh/UH ,/, goodness/UH ./.","{F Oh, } goodness. /"
+sv,B,You/PRP get/VBP so/RB attached/JJ to/IN them/PRP ./.,You get so attached to them. /
+aa,A,Oh/UH definitely/UH ./.,{F Oh } definitely. /
+sd,B,My/PRP$ mother/NN has/VBZ dogs/NNS,My mother has dogs /
+sd,B,"and/CC I/PRP 'm/VBP like/JJ ,/, no/UH ./.","{C and } I'm like, no. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,This/DT is/VBZ nothing/NN like/IN cats/NNS ./.,This is nothing like cats. /
+sd,A,You/PRP can/MD walk/VB a/DT dog/NN,You can walk a dog /
+sv,A,and/CC that/DT 's/BES okay/JJ for/IN weekend/NN,{C and } that's okay for weekend /
+sv,A,but/CC cats/NNS are/VBP good/JJ all/PDT the/DT time/NN ./.,{C but } cats are good all the time. /
+aa,B,"Right/UH ,/,","Right, /"
+sd,B,"I/PRP 'm/VBP so/RB glad/JJ my/PRP$ husband/NN is/VBZ a/DT cat/NN person/NN because/IN if/IN he/PRP was/VBD a/DT dog/NN person/NN ,/, no/UH ,/, it/PRP would/MD n't/RB have/VB worked/VBN ./.","I'm so glad my husband is a cat person because if he was a dog person, no, it wouldn't have worked. /"
+b^m,A,"It/PRP would/MD n't/RB have/VB ,/,","It wouldn't have, /"
+aa,A,no/UH,no /
+sv,A,that/DT would/MD be/VB a/DT problem/NN ./.,that would be a problem <laughter>. /
+sd,B,Oh/UH that/DT 's/BES one/CD of/IN the/DT requirements/NNS I/PRP asked/VBD him/PRP ./.,<Laughter> {F Oh } that's one of the requirements I asked him. /
+sd,B,"I/PRP said/VBD ,/, now/RB you/PRP do/VBP like/VB cats/NNS ,/, right/JJ ./.","I said, {D now } you do like cats, right. /"
+%,B,"We/PRP do/VBP n't/RB li-/XX ,/,","We don't li-, -/"
+qy,A,"Have/VBP you/PRP seen/VBN those/DT ,/, uh/UH ,/,","Have you seen those, {F uh, } - /"
+qy,A,do/VBP you/PRP ever/RB read/VB COSMO/NNP ./.,do you ever read COSMO. /
+ny,B,"Yes/UH ,/,","Yes, /"
+ny,B,uh-huh/UH ./.,uh-huh. /
+sd,A,There/EX was/VBD cartoon/NN in/IN COSMO/NNP about/RB a/DT year/NN or/CC two/CD ago/RB,There was cartoon in COSMO about a year or two ago /
+sd,A,and/CC it/PRP had/VBD this/DT man/NN sitting/VBG on/IN a/DT couch/NN with/IN his/PRP$ date/NN,{C and } it had this man sitting on a couch with his date /
+sd,A,"and/CC there/EX were/VBD cats/NNS hanging/VBG all/DT over/IN him/PRP ./. Hanging/VBG on/IN his/PRP$ clothes/NNS ,/, you/PRP know/VBP ,/,","{C and } there were cats hanging all over him. Hanging on his clothes, {D you know, } /"
+sd,A,they/PRP had/VBD ripped/VBD him/PRP up/RB,they had ripped him up /
+sd,A,and/CC the/DT couch/NN was/VBD ripped/VBN up/RB and/CC down/RB at/IN the/DT bottom/NN,{C and } the couch was ripped up and down at the bottom /
+sd,A,"he/PRP said/VBD ,/, of/IN course/NN I/PRP love/VBP cats/NNS ./.","he said, of course I love cats. /"
+x,B,./.,<Laughter>.
+sd,A,"And/CC they/PRP were/VBD just/RB all/DT over/IN him/PRP and/CC sitting/VBG on/IN his/PRP$ head/NN ,/, the/DT whole/JJ nine/CD yards/NNS ./.","{C And } they were just all over him and sitting on his head, the whole nine yards. /"
+sd,A,It/PRP was/VBD so/RB funny/JJ ./.,It was so funny. /
+b,B,"Oh/UH yeah/UH ,/,","{F Oh } yeah, /"
+sd,B,"oh/UH ,/, the/DT whole/JJ time/NN I/PRP was/VBD pregnant/JJ they/PRP kept/VBD saying/VBG ,/, are/VBP you/PRP getting/VBG rid/VBN of/IN your/PRP$ cats/NNS ,/,","{F oh, } the whole time I was pregnant they kept saying, are you getting rid of your cats, /"
+^q,B,are/VBP you/PRP getting/VBG rid/VBN of/IN your/PRP$ cats/NNS ./.,are you getting rid of your cats. /
+^q,B,You/PRP ca/MD n't/RB be/VB pregnant/JJ and/CC have/VB cats/NNS ./.,You can't be pregnant and have cats. /
+sd,B,"I/PRP 'm/VBP like/JJ ,/, uh/UH ,/, no/UH ,/, no/UH ,/, no/UH ./.","I'm like, {F uh, } no, no, no. /"
+^q,A,Watch/VB me/PRP ./.,<Laughter> Watch me. /
+aa,B,"Right/UH ,/,","Right, /"
+^q,B,the/DT child/NN will/MD learn/VB to/TO like/VB cats/NNS ./.,the child will learn to like cats.
+aa,A,Definitely/UH ./.,Definitely. /
++,B,"and/CC deal/VB with/IN them/PRP ,/,","and deal with them, /"
+^q,B,"I/PRP 'm/VBP sorry/JJ ,/,","I'm sorry, /"
+^q,B,we/PRP are/VBP not/RB getting/VBG rid/VBN of/IN the/DT cats/NNS ./.,we are not getting rid of the cats. /
+sd,A,Oh/UH I/PRP would/MD n't/RB either/RB ./.,{F Oh } I wouldn't either. /
+sd,A,There/EX 'd/MD be/VB no/DT way/NN ./.,There'd be no way. /
+sd,B,The/DT whole/JJ family/NN was/VBD so/RB disappointed/JJ ./.,The whole family was so disappointed <laughter>. /
+b,A,"Oh/UH really/UH ,/,","{F Oh } really, <laughter> /"
+"fo_o_fw_""_by_bc",A,oh/UH well/UH ./.,{F oh } {D well. } -/
+b,B,Right/UH ./.,Right. /
+"fo_o_fw_""_by_bc",A,"That/DT 's/BES life/NN ,/,","That's life, /"
+"fo_o_fw_""_by_bc",A,that/DT 's/BES how/WRB life/NN goes/VBZ ./.,that's how life goes. /
+aa,B,"Right/UH ,/, uh/UH ,/,","Right, {F uh, } /"
+aa,B,"but/CC yes/UH ,/,","{C but } yes, /"
+sd,B,"we/PRP just/RB ,/, just/RB love/VBP them/PRP to/IN death/NN ./.","we [ just, + just ] love them to death. /"
+aa,A,"I/PRP know/VBP ,/,","I know, /"
+sd,A,I/PRP love/VBP mine/PRP$ too/RB ./.,I love mine too. /
+fc,A,"Well/UH ,/, it/PRP 's/HVS been/VBN nice/JJ talking/VBG to/IN you/PRP ./.","{D Well, } it's been nice talking to you. /"
+fc,B,"Well/UH it/PRP was/VBD nice/RB talking/VBG to/IN you/PRP too/RB ,/,","{D Well } it was nice talking to you too, /"
+fc,B,I/PRP enjoyed/VBD it/PRP ./.,I enjoyed it. /
+fc,A,Me/PRP to/RB ./.,Me to. /
+fc,A,"Bye/UH ,/,","Bye, /"
+fc,A,bye/UH ./.,bye. /
+fc,B,"Bye/UH ,/,","Bye, /"
+fc,B,bye/UH ./.,bye. /

@@ -1,0 +1,240 @@
+act_tag,speaker,pos,text
+sd,A,"Well/UH ,/, the/DT weather/NN has/VBZ been/VBN ,/, certainly/RB has/VBZ been/VBN hot/JJ","{D Well, } the weather [ has been, + certainly has been ] hot /"
+sd,A,and/CC it/PRP 's/HVS been/VBN humid/JJ ./.,{C and } it's been humid. /
+sd,A,"I/PRP do/VBP n't/RB remember/VB a/DT year/NN in/IN a/DT long/JJ time/NN that/IN the/DT humidity/NN has/VBZ stayed/VBN up/RB this/RB high/JJ for/IN ,/, uh/UH ,/, this/RB late/JJ into/IN ,/, uh/UH ,/,","I don't remember a year in a long time that the humidity has stayed up this high [ for, + {F uh, } this late into, ] {F uh, } - /"
+sd,A,"well/UH ,/, it/PRP 's/BES not/RB really/RB late/JJ into/IN the/DT summer/NN ,/,","{D well, } it's not really late into the summer, /"
+sd,A,"but/CC the/DT ,/, the/DT humidity/NN has/VBZ hung/VBN around/RP all/DT of/IN June/NNP ./.","{C but } [ the, + the ] humidity has hung around all of June. /"
+b,B,Yeah/UH ./.,Yeah. /
+qy,B,Are/VBP you/PRP native/JJ to/IN this/DT area/NN ?/.,Are you native to this area? /
+nn,A,"No/UH ,/,","No, /"
+sd,A,"I/PRP grew/VBD up/RP in/IN Michigan/NNP ,/,","I grew up in Michigan, /"
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
++,A,"But/CC I/PRP 've/VBP been/VBN ,/, I/PRP 've/VBP been/VBN in/IN Texas/NNP for/IN fifteen/CD years/NNS ./.","{C But } ] [ I've been, + I've been ] in Texas for fifteen years. / *[[sd]]"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/UH ,/, uh/UH ,/, but/CC ,/, you/PRP know/VBP ,/, I/PRP know/VBP the/DT summers/NNS get/VBP hot/JJ","[ {C So, } + {F uh, } {C but, } ] {D you know, } I know the summers get hot /"
+%,A,but/CC --/:,{C but } --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: it/PRP certainly/RB ,/, uh/UH ,/,","-- it certainly, {F uh, } - /"
+sd,A,this/DT humidity/NN has/VBZ just/RB really/RB hung/VBN on/RP there/RB ./.,this humidity has just really hung on there. /
+aa,B,Yeah/UH ./.,Yeah. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"it/PRP seemed/VBD like/IN ,/, well/UH ,/, you/PRP know/VBP ,/, last/JJ year/NN was/VBD so/RB strange/JJ having/VBG all/PDT those/DT heavy/NN ,/, heavy/NN rains/NNS in/IN April/NNP","it seemed like, {D well, } {D you know, } last year was so strange having all those heavy, heavy rains in April /"
+sv,B,and/CC this/DT year/NN we/PRP really/RB did/VBD n't/RB have/VB heavy/NN rains/NNS until/IN May/NNP ./.,{C and } this year we really didn't have heavy rains until May. /
+sv,B,Kind/RB of/RB like/IN pushed/VBD the/DT season/NN back/RB a/DT little/RB farther/RBR,Kind of like pushed the season back a little farther /
+sv,B,and/CC now/RB it/PRP 's/BES kind/RB of/RB lingering/VBG with/IN kind/RB of/RB still/RB a/DT bit/NN of/IN humidity/NN,{C and } now it's kind of lingering with kind of still a bit of humidity /
+sd,B,"and/CC it/PRP just/RB tried/VBD to/TO rain/VB ,/,","{C and } it just tried to rain, /"
+sd,B,"I/PRP mean/VBP ,/, I/PRP was/VBD coming/VBG in/RB from/IN my/PRP$ car/NN just/RB a/DT few/JJ minutes/NNS ago/RB","{E I mean, } I was coming in from my car just a few minutes ago /"
+sd,B,and/CC it/PRP was/VBD trying/VBG to/TO rain/VB which/WDT --/:,{C and } it was trying to rain which --
+aa,A,Yes/UH ./.,Yes. /
++,B,--/: seems/VBZ strange/JJ to/TO have/VB it/PRP raining/VBG in/IN July/NNP ./.,-- seems strange to have it raining in July. /
+sv,B,"Normally/RB we/PRP do/VBP n't/RB have/VB too/RB much/JJ ,/, uh/UH ,/, humidity/NN or/CC ,/, or/CC ,/, uh/UH ,/, rainy/JJ time/NN when/WRB it/PRP 's/BES past/IN June/NNP ./.","Normally we don't have too much, {F uh, } humidity [ or, + or, ] {F uh, } rainy time when it's past June. /"
+aa,A,"Oh/UH ,/, that/DT 's/BES right/JJ ,/,","{F Oh, } that's right, /"
+aa,A,that/DT 's/BES right/JJ ./.,that's right. /
+sd,A,"I/PRP can/MD remember/VB it/PRP not/RB ,/,","I can remember it not, - /"
+sd,A,it/PRP 's/BES really/RB August/NNP that/IN it/PRP happens/VBZ ./.,it's really August that it happens. /
+sd,A,You/PRP get/VBP those/DT great/JJ big/JJ cracks/NNS in/IN the/DT ground/NN where/WRB it/PRP 's/HVS been/VBN so/RB dry/JJ --/:,You get those great big cracks in the ground where it's been so dry -- /
+b,B,Right/UH ./.,Right. /
+sd,A,--/: and/CC it/PRP just/RB gets/VBZ so/RB dry/JJ,-- {C and } it just gets so dry /
+sd,A,"and/CC ,/, the/DT earth/NN opens/VBZ up/RP ./.","{C and, } the earth opens up. /"
+sd,A,I/PRP can/MD remember/VB the/DT first/JJ year/NN I/PRP moved/VBD here/RB --/:,I can remember the first year I moved here -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC it/PRP did/VBD n't/RB rain/VB ,/,","-- {C and } it didn't rain, /"
+sd,A,I/PRP moved/VBD here/RB like/UH in/IN late/JJ August/NNP,I moved here {D like } in late August /
+sd,A,and/CC it/PRP did/VBD n't/RB rain/NN from/IN August/NNP until/IN December/NNP,{C and } it didn't rain from August until December /
+sd,A,"and/CC ,/,","{C and, }"
+x,B,./.,<Laughter>.
++,A,I/PRP went/VBD home/RB and/CC told/VBD it/PRP just/RB does/VBZ n't/RB rain/VB in/IN Texas/NNP ./.,I went home and told it just doesn't rain in Texas. /
+sd,A,"I/PRP mean/VBP it/PRP was/VBD great/JJ after/IN growing/VBG up/RP in/IN Michigan/NNP and/CC not/RB ,/, and/CC al-/XX ,/, you/PRP know/VBP ,/, every/DT day/NN was/VBD cloudy/JJ ,/,","{E I mean } it was great after growing up in Michigan [ and not, + and ] [ al-, + {D you know, } every ] day was cloudy, /"
+sd,A,almost/RB every/DT day/NN was/VBD cloudy/JJ,almost every day was cloudy /
+sd,A,"and/CC I/PRP ,/, you/PRP sort/RB of/RB forget/VB how/WRB much/JJ it/PRP did/VBD rain/VB","{C and } [ I, + you ] sort of forget how much it did rain /"
+sd,A,"and/CC coming/VBG here/RB and/CC then/RB it/PRP did/VBD n't/RB rain/VB ,/,","{C and } coming here and then it didn't rain, /"
+sd,A,it/PRP was/VBD just/RB wonderful/JJ ./.,it was just wonderful. /
+b,B,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+sd,B,"see/UH I/PRP ,/, I/PRP lived/VBD in/IN ,/, uh/UH ,/, Ohio/NNP mainly/RB ./.","{D see } [ I, + I ] lived in, {F uh, } Ohio mainly. /"
+sd,B,"I/PRP lived/VBD in/IN ,/, uh/UH ,/, Pontiac/NNP just/RB a/DT little/JJ while/NN before/IN I/PRP came/VBD --/:","I lived in, {F uh, } Pontiac just a little while before I came --"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,B,--/: down/IN here/RB,-- down here /
+sv,B,"and/CC ,/, you/PRP know/VBP ,/, so/RB many/JJ times/NNS when/WRB you/PRP were/VBD trying/VBG to/TO schedule/VB outdoor/JJ activities/NNS ,/, you/PRP just/RB never/RB knew/VBD if/IN it/PRP was/VBD going/VBG to/TO be/VB a/DT go/NN or/CC not/RB because/IN of/IN the/DT weather/NN ./.","{C and, } {D you know, } so many times when you were trying to schedule outdoor activities, you just never knew if it was going to be a go or not because of the weather. /"
+sv,B,It/PRP might/MD rain/VB on/IN your/PRP$ little/JJ parade/NN ./.,It might rain on your little parade. /
+aa,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+aa,A,that/DT 's/BES right/JJ ./.,that's right. /
+sd,B,"You/PRP know/VBP ,/, and/CC here/RB it/PRP was/VBD like/UH ,/, pretty/RB much/RB you/PRP could/MD schedule/VB some/DT activity/NN outside/IN anytime/RB","{D You know, } {C and } here it was like, pretty much you could schedule some activity outside anytime /"
+sv,B,and/CC you/PRP really/RB did/VBD n't/RB have/VB too/RB much/RB of/IN a/DT chance/NN of/IN it/PRP getting/VBG rained/VBD out/RP ./.,{C and } you really didn't have too much of a chance of it getting rained out. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,You/PRP could/MD pretty/RB much/RB do/VB whatever/WDT you/PRP wanted/VBD to/TO do/VB ./.,You could pretty much do whatever you wanted to do. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+qw,B,What/WP part/NN of/IN Michigan/NNP were/VBD you/PRP living/VBG in/IN ?/.,What part of Michigan were you living in? /
+sd,A,"Oh/UH ,/, I/PRP grew/VBD up/RP in/IN Dearborn/NNP --/:","{F Oh, } I grew up in Dearborn --"
+bk,B,Okay/UH ./.,Okay. /
++,A,"--/: which/WDT is/VBZ a/DT suburb/NN of/IN ,/, of/IN Detroit/NNP ./.","-- which is a suburb [ of, + of ] Detroit. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sv,A,"You/PRP probably/RB know/VBP where/WRB that/DT is/VBZ because/IN I/PRP know/VBP where/WRB Pontiac/NNP is/VBZ ,/,","You probably know where that is because I know where Pontiac is, /"
+x,B,./.,<Laughter>.
++,A,"Anyway/UH ,/,","<Laughter> Anyway, - /"
+%,A,yeah/UH ./.,yeah. /
+qw,B,What/WP brought/VBD you/PRP down/IN here/RB ?/.,What brought you down here? /
+sd,A,"Oh/UH ,/, a/DT teaching/NN job/NN ./.","{F Oh, } a teaching job. /"
+qy,B,So/UH you/PRP teach/VBP in/IN Plano/NNP schools/NNS ?/.,{C So } you teach in Plano schools? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP did/VBD ,/, I/PRP did/VBD for/IN a/DT while/NN ,/,","[ I did, + I did ] for a while, /"
+ny,A,uh-huh/UH ./.,uh-huh. /
+sd,A,"So/RB ,/, I/PRP 'm/VBP home/RB with/IN ,/, home/RB with/IN two/CD children/NNS ,/,","{C So, } I'm [ home with, + home with ] two children, /"
+b,B,Oh/UH ./.,Oh. /
++,A,"So/UH ,/,","{C So, } ] -/"
+bk,B,Okay/UH ./.,Okay <<faint>>. /
+sd,A,New/JJ career/NN ./.,[ New career. +
+bk,B,Okay/UH ./.,Okay. /
++,A,New/JJ career/NN,New career ] /
+%,A,"but/CC ,/, uh/UH ,/, anyway/UH ,/,","{C but, } {F uh, } anyway, - /"
+%,A,"so/RB that/DT kind/NN of/IN ,/, uh/UH ,/,","{C so } that kind of, {F uh, } - /"
+sd,A,"well/UH ,/, I/PRP had/VBD been/VBN down/IN here/RB to/TO visit/VB","{D well, } I had been down here to visit /"
+sd,A,"so/RB I/PRP MUMBLEx/XX school/NN and/CC said/VBD hey/UH ,/, let/VB 's/PRP ,/, you/PRP know/VBP ,/, find/VB a/DT place/NN that/WDT has/VBZ a/DT nice/JJ job/NN","{C so } I (( )) school and said hey, let's, {D you know, } find a place that has a nice job /"
+sd,A,"and/CC ,/, uh/UH ,/, that/DT 's/BES how/WRB it/PRP worked/VBD out/RP ./.","{C and, } {F uh, } that's how it worked out. /"
+b,B,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+sv,B,"I/PRP think/VBP a/DT lot/NN of/IN people/NNS were/VBD ,/, uh/UH ,/, leaving/VBG Michigan/NNP all/DT about/RB the/DT time/NN I/PRP came/VBD here/RB in/IN the/DT early/JJ eighties/NNS","I think a lot of people were, {F uh, } leaving Michigan all about the time I came here in the early eighties /"
+sv,B,and/CC it/PRP seemed/VBD like/IN it/PRP was/VBD almost/RB a/DT mass/NN exodus/NN ./.,{C and } it seemed like it was almost a mass exodus. /
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,"You/PRP know/VBP ,/, the/DT ,/, the/DT little/JJ joke/NN about/IN ,/, will/MD the/DT last/JJ person/NN leaving/VBG Michigan/NNP just/RB turn/VB out/RP the/DT light/NN ./.","You know, [ the, + the ] little joke about, will the last person leaving Michigan just turn out the light <laughter>. /"
+sv,A,"Oh/UH ,/, well/UH ,/, it/PRP 's/BES a/DT nice/JJ place/NN ,/, you/PRP know/VBP ,/,","{F Oh, } {D well, } it's a nice place, {D you know, } /"
+sv,A,"I/PRP mean/VBP it/PRP 's/BES ,/, it/PRP 's/BES a/DT nice/JJ ,/, that/DT 's/BES a/DT nice/JJ place/NN ,/, though/RB ./.","{E I mean } [ [ it's, + it's a nice, ] + that's a nice ] place, though. /"
+sd,B,"Well/UH ,/, you/PRP know/VBP ,/, I/PRP ,/, I/PRP said/VBD I/PRP lived/VBD in/IN ,/, uh/UH ,/, the/DT Pontiac/NNP ./.","{D Well, } {D you know, } [ I, + I ] said I lived in, {F uh, } the Pontiac. /"
+sd,B,"I/PRP did/VBD n't/RB live/VB in/IN the/DT city/NN of/IN Pontiac/NNP ,/,","I didn't live in the city of Pontiac, /"
+sd,B,I/PRP lived/VBD to/IN the/DT west/NN of/IN it/PRP ./.,I lived to the west of it. /
+sd,B,"Uh/UH ,/, I/PRP forget/VBP the/DT ,/, the/DT county/NN ,/,","{F Uh, } I forget [ the, + the ] county, /"
+sd,B,but/CC you/PRP know/VBP where/WRB all/PDT the/DT lakes/NNS are/VBP around/IN there/RB ./.,{C but } {D you know } where all the lakes are around there. /
+bk,A,"Okay/UH ,/,","Okay, /"
+h,A,sort/RB of/RB ./.,sort of. /
+sd,B,I/PRP lived/VBD in/IN an/DT apartment/NN complex/NN on/IN one/CD of/IN the/DT lakes/NNS ./.,I lived in an apartment complex on one of the lakes. /
+sd,B,It/PRP was/VBD real/RB close/RB to/IN where/WRB I/PRP worked/VBD ./.,It was real close to where I worked. /
+sd,B,It/PRP was/VBD only/RB like/UH four/CD miles/NNS to/IN work/NN,It was only {D like } four miles to work /
+sd,B,and/CC it/PRP was/VBD wonderful/JJ being/VBG on/IN the/DT lake/NN like/IN that/DT ./.,{C and } it was wonderful being on the lake like that. /
+sd,B,"You/PRP know/VBP ,/, in/IN the/DT summer/NN ,/, you/PRP feel/VBP like/IN you/PRP 're/VBP ,/, you/PRP know/VBP ,/, on/IN a/DT vacation/NN all/PDT the/DT time/NN because/IN you/PRP 're/VBP right/RB on/IN a/DT lake/NN","{D You know, } in the summer, you feel like you're, {D you know, } on a vacation all the time because you're right on a lake /"
+sd,B,"and/CC everybody/NN 's/BES ,/, you/PRP know/VBP ,/, out/RB enjoying/VBG the/DT water/NN and/CC such/JJ ,/,","{C and } everybody's, {D you know, } out enjoying the water and such, /"
+sd,B,"and/CC ,/, uh/UH ,/, in/IN the/DT winter/NN time/NN the/DT lakes/NNS froze/VBD over/RB ,/,","{C and, } {F uh, } in the winter time the lakes froze over, /"
+sd,B,you/PRP could/MD still/RB kind/RB of/RB go/VB sledding/NN and/CC such/JJ out/IN there/RB,you could still kind of go sledding and such out there /
+sd,B,but/CC I/PRP thought/VBD it/PRP was/VBD just/RB really/RB neat/JJ to/TO be/VB out/IN there/RB on/IN all/PDT those/DT lakes/NNS ./.,{C but } I thought it was just really neat to be out there on all those lakes. /
+sd,B,There/EX 's/BES lots/NNS of/IN really/RB small/JJ ones/NNS out/IN there/RB ./.,There's lots of really small ones out there. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"You/PRP know/VBP ,/, like/IN maybe/RB a/DT mile/NN ,/, two/CD long/RB ./.","{D You know, } {D like } maybe a mile, two long. /"
+sd,A,Yeah/UH ./.,Yeah. /
+sv,B,"That/DT 's/BES enough/JJ to/TO ,/, uh/UH ,/, do/VB some/DT boating/NN --/:","That's enough to, {F uh, } do some boating -- /"
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+sd,B,--/: and/CC it/PRP was/VBD lots/RB of/IN fun/NN ./.,-- {C and } it was lots of fun. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+b,B,Um/UH ./.,{F Um. } /
++,A,"Which/WDT is/VBZ ,/,","Which is, - /"
+sd,A,"well/UH ,/, I/PRP think/VBP it/PRP 's/BES ,/, I/PRP think/VBP it/PRP 's/BES toward/IN Ann/NNP Arbor/NNP ,/,","{D well, } [ I think it's, + I think it's ] toward Ann Arbor, /"
+sd,A,"so/RB it/PRP 's/BES probably/RB out/RB in/IN that/DT direction/NN ,/,","{C so } it's probably out in that direction, /"
+sd,A,but/CC that/DT 's/BES the/DT only/RB one/NN I/PRP probably/RB could/MD name/VB --/:,{C but } that's the only one I probably could name --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: after/IN all/PDT these/DT years/NNS,-- after all these years <laughter> /
+%,A,"so/RB ,/,","[ {C so, } +"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
++,A,"But/CC ,/, uh/UH ,/,","{C But, } ] {F uh, } -/"
+sd,B,"But/CC it/PRP was/VBD ,/, yeah/UH ,/, just/RB lots/NNS of/IN little/JJ lakes/NNS","{C But } it was, {D yeah, } just lots of little lakes /"
+sd,B,"and/CC ,/, of/IN course/NN ,/, it/PRP was/VBD ,/, you/PRP know/VBP ,/, a/DT little/RB more/RBR expensive/JJ to/TO live/VB on/IN the/DT lake/NN ,/,","{C and, } of course, it was, {D you know, } a little more expensive to live on the lake, /"
+sd,B,but/CC I/PRP just/RB thought/VBD that/DT was/VBD grand/JJ ./.,{C but } I just thought that was grand. /
+sv,B,"And/CC I/PRP think/VBP a/DT lot/NN of/IN people/NNS did/VBD n't/RB really/RB know/VB that/IN there/EX were/VBD all/PDT those/DT lakes/NNS out/IN there/RB unless/IN you/PRP were/VBD from/IN that/DT area/NN and/CC kind/RB of/RB spotted/VBD them/PRP ,/,","{C And } I think a lot of people didn't really know that there were all those lakes out there unless you were from that area and kind of spotted them, /"
+sd,B,but/CC there/EX was/VBD quite/RB a/DT few/JJ lakes/NNS all/RB around/IN there/RB ./.,{C but } there was quite a few lakes all around there. /
+sv,B,"It/PRP seemed/VBD like/IN ,/, it/PRP was/VBD almost/RB like/IN you/PRP were/VBD living/VBG on/IN an/DT island/NN","[ It seemed like, + it was almost like ] you were living on an island /"
+sd,B,there/EX was/VBD so/RB much/JJ water/NN around/RB where/WRB I/PRP was/VBD ./.,there was so much water around where I was. /
+sd,B,"I/PRP said/VBD I/PRP was/VBD n't/RB close/RB to/IN downtown/NN Pontiac/NNP ,/,","(( I said )) I wasn't close to downtown Pontiac, /"
+sd,B,"I/PRP was/VBD way/NN out/RB to/IN the/DT west/NN maybe/RB four/CD or/CC five/CD miles/NNS from/IN ,/, from/IN the/DT city/NN limits/NNS","I was way out to the west maybe four or five miles [ from, + from ] the city limits /"
+sd,B,and/CC it/PRP was/VBD really/RB nice/JJ out/IN there/RB ./.,{C and } it was really nice out there. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"We/PRP had/VBD ,/, uh/UH ,/, Pine/NNP Knob/NNP --/:","We had, {F uh, } Pine Knob --"
+b,A,Oh/UH ./.,Oh. /
++,B,"--/: you/PRP know/VBP ,/, to/TO go/VB skiing/VBG --/:","-- {D you know, } to go skiing --"
+b,A,Right/UH ./.,Right. /
++,B,--/: and/CC stuff/NN ./.,-- and stuff. /
+b,A,Right/UH ./.,Right. /
+sd,B,So/RB there/EX were/VBD things/NNS around/IN there/RB ./.,{C So } there were things around there. /
+sd,B,Really/RB was/VBD pretty/RB nice/JJ ./.,Really was pretty nice. /
+ba,A,"Sure/UH ,/,","Sure, /"
+ba,A,"sure/UH ,/,","sure, /"
+qy,A,"and/CC d-/XX ,/, is/VBZ n't/RB that/DT where/WRB they/PRP have/VBP a/DT summer/NN music/NN festival/NN there/RB ,/, too/RB ?/.","{C and } [ d-, + isn't ] that where they have a summer music festival there, too? /"
+na,B,"Right/RB ,/,","Right, /"
+na,B,right/RB,right /
+sd,B,in/IN the/DT summertime/NN they/PRP have/VBP musicals/NNS there/RB,in the summertime they have musicals there /
+sd,B,and/CC in/IN the/DT winter/NN time/NN they/PRP make/VBP snow/NN and/CC have/VBP a/DT ski/JJ slope/NN ./.,{C and } in the winter time they make snow and have a ski slope. /
+bk,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+bk,A,that/DT 's/BES right/JJ ./.,that's right. /
+%,A,"I/PRP know/VBP ,/, we/PRP used/VBD to/TO ,/,","I know, we used to, - /"
+sd,A,"we/PRP ,/, we/PRP did/VBD n't/RB do/VB a/DT lot/NN of/IN it/PRP ,/,","[ we, + we ] didn't do a lot of it, /"
+%,A,but/CC we/PRP did/VBD ./.,{C but } [ we did. +
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
++,A,"We/PRP did/VBD ,/,","We did, ] /"
+sv,A,so/RB those/DT are/VBP always/RB fun/NN ./.,{C so } those are always fun. /
+sd,A,"And/CC Alpine/NNP ,/, was/VBD it/PRP Alpine/NNP was/VBD another/DT ski/NN slope/NN --/:","{C And } Alpine, was it Alpine was another ski slope --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: that/IN we/PRP went/VBD to/IN ,/,","-- that we went to, /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,uh-huh/UH ./.,uh-huh. /
++,A,It/PRP was/VBD nice/JJ ./.,It was nice. /
+sd,A,"I/PRP always/RB tell/VBP people/NNS that/IN in/IN the/DT winter/NN we/PRP use/^VBD ,/, we/PRP used/VBD to/TO ,/, uh/UH ,/,","I always tell people <laughter> that in the winter [ we use, + we used ] to, {F uh, } - /"
+sd,A,"my/PRP$ dad/NN would/MD kind/NN of/IN bank/VB up/RP the/DT snow/NN in/IN the/DT backyard/NN and/CC turn/VB the/DT hose/NN on/IN ,/, you/PRP know/VBP ,/, make/VB a/DT pond/NN in/IN the/DT backyard/NN for/IN us/PRP ./.","my dad would kind of bank up the snow in the backyard and turn the hose on, {D you know, } make a pond in the backyard for us. /"
+b,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sd,A,"So/UH but/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, we/PRP probably/RB did/VBD some/DT ice/NN skating/NN on/IN it/PRP ,/,","[ {C So } + {C but, } ] {F uh, } {D you know, } we probably did some ice skating on it, /"
+%,A,"but/CC then/RB it/PRP chipped/VBD ,/, chipped/VBD","{C but } then it [ chipped, + chipped ] /"
+sd,A,"and/CC ,/, you/PRP know/VBP ,/, it/PRP would/MD melt/VB or/CC whatever/WDT and/CC get/VB pretty/RB uneven/JJ","{C and, } {D you know, } it would melt or whatever and get pretty uneven /"
+%,A,"so/RB ,/,","{C so, } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sd,B,We/PRP used/VBD to/TO have/VB a/DT,We used to have a - /
+sd,B,"Christmas/NNP time/NN ,/, uh/UH ,/, some/DT of/IN our/PRP$ relatives/NNS would/MD come/VB up/RB from/IN Alabama/NNP ,/,","Christmas time, {F uh, } some of our relatives would come up from Alabama, /"
+sd,B,and/CC I/PRP think/VBP most/JJS times/NNS we/PRP would/MD have/VB snow/NN around/RB Christmas/NNP,{C and } I think most times we would have snow around Christmas /
+sd,B,and/CC the/DT kids/NNS when/WRB they/PRP were/VBD young/JJ would/MD just/RB go/VB nuts/NNS ./.,{C and } the kids when they were young would just go nuts. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"You/PRP know/VBP ,/, because/IN they/PRP were/VBD from/IN Alabama/NNP where/WRB it/PRP never/RB snowed/VBD --/:","{D You know, } {C because } they were from Alabama where it never snowed -- /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,"--/: and/CC they/PRP just/RB had/VBD a/DT grand/JJ time/NN watching/VBG the/DT snow/NN and/CC getting/VBG out/IN there/RB and/CC playing/VBG in/IN it/PRP ,/, you/PRP know/VBP ,/, eternally/RB ./.","-- {C and } they just had a grand time watching the snow and getting out there and playing in it, {D you know, } eternally. /"
+b,A,Oh/UH ./.,Oh. /
+x,B,./.,<Laughter>.
+b,A,"Oh/UH ,/, right/UH ,/,","{F Oh, } right, /"
+b,A,right/UH ./.,right. /
+sv,A,"If/IN only/RB it/PRP would/MD make/VB nice/JJ snow/NN here/RB in/IN Texas/NNP ,/, we/PRP 'd/MD be/VB okay/JJ at/IN Christmas/NNP time/NN ./.","If only it would make nice snow here in Texas, we'd be okay at Christmas time. /"
+sd,B,"My/PRP$ first/JJ winter/NN here/RB ,/,","My first winter here, - /"
+sd,B,"I/PRP ,/, I/PRP came/VBD down/RB in/IN ,/, uh/UH ,/, early/JJ eighty-two/CD","[ I, + I ] came down in, {F uh, } early eighty-two /"
+sd,B,"and/CC there/EX was/VBD just/RB a/DT freak/JJ snowfall/NN early/RB one/CD morning/NN in/IN December/NNP be-/IN ,/, couple/NN days/NNS before/IN Christmas/NNP ./.","{C and } there was just a freak snowfall early one morning in December [ be-, + couple days before ] Christmas. /"
+sd,B,"It/PRP lasted/VBD only/RB a/DT few/JJ hours/NNS ,/,","It lasted only a few hours, /"
+sd,B,like/UH --/:,{D like } --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: by/IN noon/NN it/PRP was/VBD gone/VBN ./.,-- by noon it was gone. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC I/PRP remember/VBP getting/VBG up/RP and/CC somebody/NN telling/VBG me/PRP ,/, hey/UH ,/, better/RB wait/VB to/TO go/VB to/IN work/NN because/IN the/DT roads/NNS are/VBP all/DT ,/, you/PRP know/VBP ,/, snow/NN ./.","{C And } I remember getting up and somebody telling me, hey, better wait to go to work because the roads are all, {D you know, } snow <laughter>. /"
+sd,B,"And/CC I/PRP was/VBD laughing/VBG ,/, going/VBG yeah/UH ,/, right/UH ,/, that/DT 's/BES a/DT good/JJ practical/JJ joke/NN ,/,","{C And } I was laughing, going yeah, right, that's a good practical joke, /"
+^q,B,ha/UH ha/UH ./.,ha ha. /
+x,A,./.,<Laughter>.
+sd,B,"They/PRP said/VBD ,/, no/UH really/RB ,/, there/EX 's/BES snow/NN","They said, no really, there's snow /"
+sd,B,"and/CC there/EX was/VBD ,/, but/CC a/DT very/RB short/JJ time/NN","{C and } there was, but a very short time /"
+sd,B,and/CC the/DT weather/NN got/VBD warm/JJ so/RB quick/RB --/:,{C and } the weather got warm so quick -- /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,--/: it/PRP just/RB melted/VBD it/PRP all/RB away/RB ./.,-- it just melted it all away. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,"yeah/UH ,/,","yeah, /"
+aa,A,I/PRP know/VBP ./.,I know. /
+sv,B,"Course/NN ,/, when/WRB we/PRP get/VBP an/DT ice/NN storm/NN ,/, that/WDT 's/BES not/RB too/RB much/JJ fun/NN ./.","{C Course, } when we get an ice storm, that's not too much fun. /"
+aa,A,"No/UH ,/,","No, /"
+sv,A,"that/DT 's/BES not/RB fun/NN either/CC ,/,","that's not fun either, /"
+sv,A,"so/UH ,/, uh/UH ,/, I/PRP ,/, I/PRP just/RB as/RB soon/RB have/VB all/PDT the/DT slushy/JJ snow/NN on/IN the/DT streets/NNS than/IN have/VB the/DT ice/NN on/IN the/DT streets/NNS","{C so, } {F uh, } [ I, + I ] just as soon have all the slushy snow on the streets than have the ice on the streets /"
+%,A,"so/UH ,/,","[ {C so, } +"
+x,B,./.,<Laughter>.
++,A,"But/CC ,/, uh/UH ,/, well/UH we/PRP have/VBP ,/,","{C But, } ] {F uh, } {D well } we have, - /"
+sd,A,"our/PRP$ house/NN is/VBZ kind/RB of/RB on/IN a/DT little/JJ hill/NN ,/,","our house is kind of on a little hill, /"
+sd,A,"so/UH ,/, uh/UH ,/, we/PRP get/VBP the/DT sled/NN out/IN","{C so, } {F uh, } we get the sled out /"
+sd,A,"and/CC ,/, uh/UH ,/, the/DT kids/NNS go/VBP down/IN the/DT hi-/NN ,/, the/DT hill/NN on/IN the/DT sleds/NNS when/WRB it/PRP 's/BES icy/JJ ,/,","{C and, } {F uh, } the kids go down [ the hi-, + the hill ] on the sleds when it's icy, /"
+sd,A,I/PRP mean/VBP they/PRP just/RB go/VBP down/IN the/DT ice/NN ./.,{E I mean } they just go down the ice. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC if/IN it/PRP 's/BES cold/JJ ,/, we/PRP say/VBP ,/, okay/UH ,/, out/RB you/PRP go/VBP ./.","<Laughter> {C And } if it's cold, we say, okay, out you go. /"
+x,B,./.,<Laughter> <noise>.
+sd,A,I/PRP think/VBP we/PRP must/MD be/VB the/DT only/JJ people/NNS on/IN the/DT block/NN that/WDT make/VBP use/NN of/IN that/DT cold/JJ weather/NN and/CC get/VBP out/IN there/RB ./.,I think we must be the only people on the block that make use of that cold weather and get out there. /
+aa,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,B,"I/PRP think/VBP it/PRP 's/BES fun/NN ,/,","I think it's fun, /"
+sd,B,even/RB the/DT couple/NN of/IN ice/NN storms/NNS I/PRP 've/VBP gotten/VBN out/IN there/RB in/IN my/PRP$ ski/NN pants/NNS or/CC something/NN and/CC still/RB just/RB been/VBN out/RB and/CC enjoying/VBG it/PRP a/DT little/JJ bit/NN ./.,even the couple of ice storms I've gotten out there in my ski pants or something and still just been out and enjoying it a little bit. /
+sv,B,"I/PRP mean/VBP ,/, sometimes/RB the/DT ice/NN is/VBZ pretty/RB bad/JJ ,/,","{E I mean, } sometimes the ice is pretty bad, /"
+sv,B,"but/CC if/IN you/PRP get/VBP on/IN the/DT ,/, the/DT ,/, uh/UH ,/, grassy/JJ kind/NN of/IN part/NN ,/, you/PRP get/VBP a/DT little/JJ bit/NN of/IN traction/NN ,/, you/PRP know/VBP ,/, not/RB slip/VB and/CC fall/VB ./.","{C but } if you get on the, the, {F uh, } grassy kind of part, you get a little bit of traction, {D you know, } not slip and fall. /"
+%,B,"I/PRP mean/VBP ,/, first/JJ ,/,","{E I mean, } first, -/"

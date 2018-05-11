@@ -1,0 +1,86 @@
+speaker,pos
+Libby,"hi/NN all/DT ,/,"
+Libby,"As/IN outlined/VBN at/IN the/DT face/NN to/TO face/VB meet/NN ,/, I/PRP have/VBP been/VBN working/VBG on/IN methods/NNS of/IN getting/VBG coordinate/JJ information/NN about/IN the/DT locations/NNS of/IN Semantic/NNP web/NN researchers/NNS and/CC groups/NNS ./."
+Libby,I/PRP wrote/VBD to/TO the/DT list/NN asking/VBG for/IN data:/NN
+Libby,
+Libby,so/IN we/PRP will/MD have/VB to/TO see/VB how/WRB that/DT pans/VBZ out/RP ./.
+Libby,Please/VB do/VB add/VB yourselves/NNS if/IN you/PRP have/VBP not/RB already/RB there/RB (I/JJ just/RB did/VBD a/DT few/JJ as/IN
+Libby,"There/EX are/VBP some/DT SVG/NNP demos/NN ,/, developed/VBN from/IN ones/NNS by/IN Jim/NNP Ley/NNP ,/, displaying/VBG the/DT information/NN we/PRP have/VBP already/RB ,/, which/WDT I/PRP constructed/VBD as/IN examples:/NN"
+Libby,
+Libby,"So/RB ,/, now/RB we/PRP have/VBP to/TO decide/VB on/IN the/DT map/NN which/WDT we/PRP will/MD use/VB to/TO overlay/VB the/DT dots/NNS on/IN ./."
+Libby,"We/PRP want/VBP something/NN that/WDT will/MD highlight/VB Europe/NNP ,/, especially/RB since/IN on/IN a/DT world/NN map/NN ,/, Europe/NNP is/VBZ too/RB small/JJ to/TO really/RB show/VB up/RP on/IN provide/IN the/DT level/NN of/IN detail/NN we/PRP require/VBP ./."
+Libby,"At/IN ILRT/NNP ,/, Caroline/NNP Meek/NNP ,/, Dan/NNP and/CC I/PRP have/VBP had/VBN discussions/NNS with/IN a/DT designer/NN ,/, and/CC he/PRP has/VBZ pointed/VBN us/PRP at/IN some/DT examples/NNS ,/, and/CC we/PRP have/VBP narrowed/VBN it/PRP down/RP to/TO two/CD that/IN we/PRP rather/RB like:/VBD"
+Libby,
+Libby,"which/WDT has/VBZ the/DT advantage/NN of/IN showing/VBG Europe/NNP as/IN part/NN of/IN the/DT world/NN (we/NN could/MD get/VB rid/JJ of/IN the/DT arm/NN of/IN the/DT globe/NN that/WDT is/VBZ showing/VBG ,/, and/CC alter/RB the/DT"
+Libby,and/CC
+Libby,"which/WDT would/MD be/VB technically/RB simpler/JJ to/TO do/VB ,/, but/CC shows/VBZ Europe/NNP in/IN isolation/NN (I/NNS do/VBP like/IN the/DT colour/NN scheme/NN"
+Libby,Do/VBP people/NNS have/VB a/DT preference/NN for/IN one/CD style/NN over/IN the/DT other/JJ ?/.
+Libby,Could/MD you/PRP let/VB us/PRP know/VB today/NN if/IN possible/JJ ?/.
+Libby,We/PRP need/VBP to/TO specify/VB the/DT map/NN as/RB soon/RB as/IN possible/JJ in/IN order/NN to/TO get/VB postcards/NNS printed/VBN for/IN www2003/NN ./.
+Libby,"thanks/NNS ,/,"
+Libby,Libby/NN
+Libby,Here's/NNP a/DT nice/JJ similar/JJ idea:/NN
+Libby,
+"Dickinson,",
+"Dickinson,",
+"Dickinson,",
+"Dickinson,","cannot/NNS say/VBP I/PRP am/VBP particularly/RB grabbed/VBN by/IN either/DT of/IN them/PRP ,/, but/CC if/IN you/PRP have/VBP to/TO pick/VB one/CD I/PRP would/MD go/VB for/IN the/DT map/NN ,/, not/RB the/DT globe/NN ./."
+"Dickinson,",Is/VBZ there/EX any/DT reason/NN it/PRP has/VBZ to/TO be/VB geographically/RB accurate/JJ ?/.
+"Dickinson,","Perhaps/RB a/DT schematic/JJ ,/, analogous/JJ to/TO the/DT London/NNP Underground/NNP map/NN of/IN London/NNP ,/, would/MD allow/VB you/PRP to/TO convey/VB the/DT sense/NN of/IN spatial/JJ distribution/NN without/IN getting/VBG hung/NN up/RB on/IN the/DT scale/NN problem/NN ./."
+"Dickinson,","Of/IN course/NN ,/, you/PRP may/MD not/RB consider/VB that/IN a/DT helpful/JJ suggestion/NN given/VBN the/DT short/JJ timescale/NN"
+"Dickinson,","Cheers/NNS ,/,"
+"Dickinson,",Ian/NN
+Dan,"*/NN Dickinson/NNP ,/, Ian/NNP J/NNP"
+Dan,
+Dan,
+Dan,
+Dan,
+Dan,
+Dan,
+Dan,
+Dan,
+Dan,"One/CD advantage/NN of/IN being/VBG geographically/JJ accurate/NN is/VBZ it/PRP simplifies/VBZ our/PRP$ lives/NNS when/WRB we/PRP try/VBP to/TO plot/VB SW/NNP researchers/NNS ,/, groups/NNS ,/, events/NNS etc/VBP on/IN the/DT"
+Dan,"I/PRP prefer/VBP the/DT map/NN to/TO the/DT globe/NN ,/, fwiw/NN ./."
+Dan,Dan/NNP
+Libby,"yeah/NN ,/, sorry/VB it/PRP is/VBZ such/JJ a/DT rush/NN ./."
+Libby,It/PRP took/VBD a/DT long/JJ time/NN to/TO write/VB the/DT document/NN explaining/VBG how/WRB to/TO write/VB the/DT RDF/NNP ./.
+Libby,At/IN this/DT stage/NN we/PRP really/RB need/VB examples/NNS to/TO show/VB the/DT designer/NN though/IN
+Libby,"-/: I/PRP shall/MD pass/VB your/PRP$ comments/NNS along/IN to/TO him/PRP ,/, see/VB if/IN he/PRP has/VBZ anything/NN like/IN that/DT ./."
+Libby,What/WP do/VBP not/RB you/PRP like/VBP about/IN them/PRP in/IN particular/JJ ?/.
+Libby,thanks/NNS for/IN the/DT feedback/NN
+Libby,Libby/NN
+Libby,"On/IN Fri/NNP ,/, 25/CD Apr/NNP 2003/CD ,/, Dickinson/NNP ,/, Ian/NNP J/NNP wrote:/NN"
+Libby,
+Libby,
+Libby,
+Libby,
+Libby,
+Libby,
+Libby,
+Libby,
+Libby,
+Libby,
+"Dickinson,","Hi/NNP Libby/NNP ,/,"
+"Dickinson,",
+"Dickinson,",The/DT globe/NN is/VBZ too/RB visually/RB busy/JJ for/IN a/DT background/NN and/CC if/IN you/PRP decrease/VBP the/DT opacity/NN I/PRP think/VBP you/PRP will/MD lose/VB too/RB much/JJ of/IN the/DT important/JJ bits/NNS (like/IN where/WRB the/DT UK/NNP is/VBZ
+"Dickinson,","The/DT map/NN would/MD be/VB OK/JJ as/IN a/DT backdrop/NN for/IN the/DT FOAF/NNP map/NN if/IN it/PRP was/VBD but/CC it/PRP misses/VBZ out/RP the/DT rest/NN of/IN the/DT world/NN ,/, as/IN you/PRP said/VBD yourself/PRP ,/, and/CC there/EX is/VBZ a/DT big/JJ blue/NN empty/JJ space/NN on/IN the/DT left/NN"
+"Dickinson,","The/DT atlantic/NN is/VBZ just/RB too/RB if/IN you/PRP keep/VBP it/PRP to/TO scale/VB ,/, hence/VB my/PRP$ suggestion/NN to/TO use/VB more/JJR of/IN a/DT schematic/JJ approach/NN ./."
+"Dickinson,","I/PRP guess/VBP you/PRP need/VBP the/DT cartographical/JJ equivalent/NN of/IN an/DT ellipsis/NN ,/, whatever/WDT that/DT might/MD be/VB !/."
+"Dickinson,","Cheers/NNS ,/,"
+"Dickinson,",Ian/NN
+"Dickinson,",qv/NN judge]/NN ruled/VBD that/IN the/DT guilty/JJ party/NN was/VBD 'life/JJ itself'/NN for/IN failing/VBG
+"Dickinson,","to/TO be/VB either/RB beautiful/JJ or/CC true""/NN"
+Libby,thanks/NNS Ian/NNP ./.
+Libby,I/PRP broadly/RB agree/VBP with/IN you/PRP ./.
+Libby,"For/IN though/NN ,/, that/WDT might/MD work/VB in/IN our/PRP$ favour/NN ,/, as/IN we/PRP can/MD put/VB a/DT logo/NN a/DT slogan/NN there/RB ./."
+Libby,Libby/NN
+Libby,"On/IN Fri/NNP ,/, 25/CD Apr/NNP 2003/CD ,/, Dickinson/NNP ,/, Ian/NNP J/NNP wrote:/NN"
+Libby,
+Libby,
+Libby,
+Libby,
+Libby,
+Libby,
+Libby,
+Libby,
+Libby,

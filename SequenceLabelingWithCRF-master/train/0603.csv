@@ -1,0 +1,178 @@
+act_tag,speaker,pos,text
+^h,B,"Well/UH ,/, let/VB me/PRP see/VB ,/,","{D Well, } let me see, /"
+qw,B,what/WP have/VBP you/PRP seen/VBN lately/RB ?/.,what have you seen lately? /
+sd,A,"Well/UH ,/, uh/UH ,/, CITY/NN SLICKERS/NNS ,/, and/CC STAR/NN TREK/NN FIVE/CD ./.","{D Well, } {F uh, } CITY SLICKERS, and STAR TREK FIVE. /"
+qy,B,FIVE/CD ?/.,FIVE? /
+ny,A,"Yeah/UH ,/,","Yeah <laughter>, /"
+ny,A,yeah/UH ./.,yeah. /
+%,B,"Y-/XX ,/,","Y-, - /"
+qy,B,"only/RB ,/, only/RB five/CD ?/.","[ only, + only ] five? /"
+ny,A,Yeah/UH ./.,Yeah. /
+x,B,./.,<Laughter>.
+sd,A,I/PRP thought/VBD I/PRP 'd/MD better/RB see/VB that/DT one/CD before/IN I/PRP go/VBP and/CC see/VB six/CD ./.,I thought I'd better see that one before I go and see six. /
+ar,B,"Well/UH ,/, no/UH ,/,","<Throat_clearing> {D Well, } no, /"
+sv,B,did/VBD n't/RB need/VB to/TO ./.,didn't need to. /
+aa,A,"No/UH ,/,","No, /"
+sd,A,I/PRP found/VBD that/DT out/RP ./.,I found that out <laughter>. /
+x,B,./.,<Laughter>.
+qo,A,How/WRB about/IN yourself/PRP ?/.,How about yourself? /
+sd,B,I/PRP just/RB saw/VBD the/DT latest/JJS one/CD ./.,I just saw the latest one. /
+qw,A,How/WRB is/VBZ it/PRP ?/.,How is it? /
+sd,B,It/PRP was/VBD fantastic/JJ ./.,It was fantastic. /
+sd,A,"Oh/UH ,/, I/PRP ca/MD n't/RB wait/VB ./.","{F Oh, } I can't wait. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"it/PRP 's/BES ,/,","it's, - /"
+sd,B,the/DT lines/NNS in/IN there/RB were/VBD just/RB perfect/JJ ./.,the lines in there were just perfect. /
+sd,B,"I/PRP mean/VBP ,/, it/PRP was/VBD classic/JJ TREK/NN ./.","{E I mean, } it was classic TREK. /"
+qy,A,"Now/RB ,/, does/VBZ the/DT old/JJ STAR/NN TREK/NN guys/NNS meet/VBP the/DT new/JJ guys/NNS ?/.","{D Now, } does the old STAR TREK guys meet the new guys? /"
+nn,B,"No/UH ,/,","No, /"
+nn,B,huh-uh/UH ./.,huh-uh. /
+b,A,"No/UH ,/,","No, /"
+qy^d,A,it/PRP 's/BES just/RB the/DT old/JJ guys/NNS still/RB ./.,it's just the old guys still. /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,it/PRP was/VBD just/RB a/DT rumor/NN that/IN that/DT would/MD happen/VB this/DT time/NN ./.,it was just a rumor that that would happen this time. /
+sv,B,"However/RB ,/, the/DT rumor/NN is/VBZ ,/, is/VBZ that/IN it/PRP will/MD happen/VB next/JJ ,/, happen/VB next/JJ time/NN","However, the rumor [ is, + is ] that it will [ happen next, + happen next ] time /"
+%,B,"so/RB ,/,","{C so, } -/"
+sd,A,"You/PRP know/VBP ,/, that/DT I/PRP read/VBD in/IN PEOPLE/NNP or/CC somewhere/RB ,/, no/UH ,/, it/PRP was/VBD U/NNP S/NNP A/NNP TODAY/NNP --/:","You know, that I read in [ PEOPLE or somewhere, + {E no, } it was U S A TODAY ] -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: that/IN they/PRP said/VBD they/PRP were/VBD n't/RB going/VBG to/TO do/VB anymore/RB ./.,-- that they said they weren't going to do anymore. /
+sd,A,That/DT was/VBD it/PRP ./.,That was it. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"But/CC ,/,","{C But, } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"uh/UH ,/, except/IN that/IN the/DT rumor/NN is/VBZ ,/, is/VBZ that/IN they/PRP still/RB might/MD ,/,","{F uh, } except that the rumor [ is, + is ] that they still might, /"
+sv,B,but/CC it/PRP may/MD not/RB include/VB the/DT entire/JJ crew/NN,{C but } it may not include the entire crew /
+sv,B,and/CC it/PRP will/MD be/VB a/DT next/JJ generation/NN meets/VBZ this/DT generation/NN ./.,{C and } it will be a next generation meets this generation <throat_clearing>. /
+b,A,Huh/UH ./.,{F Huh. } /
+%,B,"So/UH ,/,","{D So, } -/"
+qw^d,A,"I/PRP 'm/VBP not/RB sure/JJ what/WP the/DT difference/NN in/IN light/NN years/NNS between/IN the/DT new/JJ generation/NN and/CC the/DT ,/, the/DT old/JJ guys/NNS was/VBD ./.","I'm not sure what the difference in light years between the new generation and [ the, + the ] old guys was. /"
+sd,B,I/PRP think/VBP it/PRP 's/BES a/DT hundred/CD years/NNS ./.,I think it's a hundred years. /
+b,A,Huh/UH ./.,{F Huh. } /
+sd,B,Somewhere/RB in/IN that/DT range/NN ./.,Somewhere in that range. /
+sd,B,"Considering/VBG that/IN Spock/NNP was/VBD on/IN an/DT ,/, uh/UH ,/, you/PRP know/VBP ,/, couple/NN weeks/NNS ago/RB --/:","Considering that Spock was on [ an, + ] {F uh, } {D you know, } couple weeks ago --"
+aa,A,"Oh/UH ,/, that/DT 's/BES right/JJ ./.","{F Oh, } that's right. /"
++,B,"--/: and/CC that/IN the/DT ,/, the/DT very/RB first/JJ episode/NN of/IN NEXT/JJ GENERATION/NN ,/, they/PRP had/VBD McCoy/NNP ./.","-- and that [ the, + the ] very first episode of NEXT GENERATION, they had McCoy. /"
+bh,A,Is/VBZ that/DT right/JJ ?/.,Is that right? /
+qy,A,He/PRP was/VBD --/:,He was --
+%,B,"And/CC ,/,","{C And, } -/"
++,A,--/: a/DT doctor/NN --/:,-- a doctor --
+ny,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: still/RB ?/.,-- still? /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"well/UH ,/, you/PRP know/VBP ,/, he/PRP was/VBD rear/JJ admiral/NN ,/, whatever/WP ,/, you/PRP know/VBP ,/,","{D well, } {D you know, } he was rear admiral, whatever, {D you know, } /"
+sd,B,and/CC he/PRP just/RB kind/RB of/RB hobbled/VBD down/IN the/DT halls/NNS real/RB slow/JJ ./.,{C and } he just kind of hobbled down the halls real slow. /
+sv,B,Vulcans/NNPS age/VBP a/DT lot/NN better/RB ./.,Vulcans age a lot better <laughter>. /
+aa,A,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+qy,A,"he/PRP did/VBD n't/RB look/VB too/RB bad/JJ ,/, did/VBD he/PRP ?/.","he didn't look too bad, did he? /"
+nn,B,"No/UH ,/,","No, /"
+nn,B,huh-uh/UH ./.,huh-uh. /
+sd,B,"Matter/NN of/IN fact/NN ,/, he/PRP looks/VBZ just/RB as/IN about/IN as/RB old/JJ and/CC the/DT ,/, uh/UH ,/, NEXT/JJ GENERATION/NN as/IN he/PRP does/VBZ in/IN the/DT latest/JJS STAR/NN TREK/NN ./.","Matter of fact, he looks just as about as old and the, {F uh, } NEXT GENERATION as he does in the latest STAR TREK <laughter>. /"
+ba,B,Imagine/VB that/DT ./.,Imagine that. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+ba,A,that/DT 's/BES amazing/JJ ./.,that's amazing. /
+x,B,./.,<Laughter>.
+qy,A,"But/CC ,/, did/VBD they/PRP have/VB some/DT pretty/RB good/JJ special/JJ effects/NNS ?/.","{C But, } did they have some pretty good special effects? /"
+na,B,"Oh/UH ,/, excellent/JJ ,/, excellent/JJ special/JJ effects/NNS ./.","<Throat_clearing> {F Oh, } excellent, excellent special effects. /"
+sv,B,"But/CC I/PRP think/VBP the/DT script/NN was/VBD ,/, you/PRP know/VBP ,/, just/RB incredible/JJ compared/VBN to/IN the/DT last/JJ one/NN ./.","{C But } I think the script was, {D you know, } just incredible compared to the last one. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"FIVE/CD was/VBD ,/, the/DT script/NN was/VBD bad/JJ ,/, bad/JJ ,/, bad/JJ ./.","[ FIVE was, + the script was ] bad, bad, bad <laughter>. /"
+qh,B,"Well/UH ,/, you/PRP know/VBP why/WRB ?/.","{D Well, } you know why? /"
+nn,A,"No/UH ,/,","No, /"
+sd,A,I/PRP do/VBP n't/RB ./.,I don't. /
+qw,A,Why/WRB ?/.,Why? /
+sd,B,"Uh/UH ,/, William/NNP Shatner/NNP wrote/VBD it/PRP ./.","{F Uh, } William Shatner wrote it. /"
+bh,A,"Oh/UH ,/, is/VBZ that/DT right/JJ ?/.","{F Oh, } is that right? /"
+sd,B,"And/CC even/RB worse/JJR ,/, he/PRP directed/VBD it/PRP ./.","{C And } even worse, he directed it. /"
+b,A,"Uh/UH ,/,","{F Uh, } /"
+x,B,./.,<Laughter>.
+sv,A,"L-/NNP ,/, Leonard/NNP ,/, s-/XX ,/, Nimoy/NNP ,/, he/PRP does/VBZ a/DT lot/NN better/RB ./.","[ L-, + Leonard, ] [ s-, + ] Nimoy, he does a lot better. /"
+aa,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,B,"he/PRP ,/, in/IN fact/NN ,/, uh/UH ,/, he/PRP did/VBD n't/RB direct/VB this/DT one/CD ./.","[ he, + in fact, {F uh, } he ] didn't direct this one. /"
+sd,B,He/PRP produced/VBD this/DT one/CD ./.,He produced this one <throat_clearing>. /
+sd,B,"But/CC he/PRP directed/VBD the/DT one/CD before/RB ,/, uh/UH ,/, I/PRP think/VBP STAR/NN TREK/NN FOUR/CD ,/, something/NN like/IN that/DT ./.","{C But } he directed the one before, {F uh, } I think STAR TREK FOUR, something like that. /"
+sd,A,"IN/IN SEARCH/NN OF/IN SPOCK/NNP ,/, or/CC ,/, no/UH ,/, JOURNEY/NN HOME/RB ,/, I/PRP think/VBP that/DT was/VBD ./.","[ IN SEARCH OF SPOCK, + {E or, } {E no, } JOURNEY HOME, ] I think that was. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,uh-huh/UH ./.,uh-huh. /
+qy,A,"Are/VBP ,/, you/PRP 're/VBP a/DT real/JJ life/NN Trekkie/NN ?/.","[ Are, + you're ] a real life Trekkie? /"
+%,B,"L-/XX ,/,","L-, - /"
+na,B,I/PRP think/VBP so/RB ./.,I think so <laughter>. /
+sd,A,I/PRP really/RB like/VBP them/PRP ./.,I really like them. /
+sd,A,"I/PRP ,/, I/PRP would/MD n't/RB go/VB so/RB far/RB as/IN being/VBG a/DT Trekkie/NN ,/,","[ I, + I ] wouldn't go so far as being a Trekkie, /"
+%,A,but/CC --/:,{C but } -- -/
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,"--/: uh/UH ,/,","-- {F uh, } /"
+sd,B,"Well/UH ,/, I/PRP 've/VBP gone/VBN to/TO ,/, you/PRP know/VBP ,/, one/CD for/IN real/JJ live/JJ Trek/NNP Convention/NNP","{D Well, } I've gone to, {D you know, } one for real live Trek Convention /"
+%,B,"but/CC ,/,","{C but, } -/"
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP saw/VBD James/NNP Doohan/NNP ,/, you/PRP know/VBP ,/, the/DT guy/NN that/WDT plays/VBZ ,/, uh/UH ,/, Scotty/NNP ./.","I saw James Doohan, {D you know, } the guy that plays, {F uh, } Scotty. /"
+qy,A,"Huh/UH ,/, did/VBD you/PRP get/VB to/TO talk/VB to/IN him/PRP ?/.","{F Huh, } did you get to talk to him? /"
+nn,B,No/UH ./.,No <laughter>. /
+sd,A,It/PRP was/VBD --/:,It was --
+qy^d,B,Not/RB in/IN a/DT crowd/NN like/IN that/DT ./.,Not in a crowd like that. /
++,A,--/: crowded/JJ ./.,-- crowded. /
+b,B,Huh-uh/UH ./.,Huh-uh. /
+nn,A,No/UH ./.,No. /
+sd,B,"It/PRP was/VBD like/IN ,/, uh/UH ,/, want/VB an/DT autograph/NN ,/, want/VB to/TO stand/VB in/IN line/NN for/IN about/RB four/CD hours/NNS ./.","It was like, {F uh, } want an autograph, want to stand in line for about four hours. /"
+b,A,Yeah/UH ./.,Yeah. /
+x,B,./.,<Laughter>.
+ba,A,Wow/UH ./.,Wow. /
+sd,B,It/PRP was/VBD a/DT pretty/RB crowded/JJ place/NN ./.,<Throat_clearing> It was a pretty crowded place. /
+sd,A,Huh/UH ./. They/PRP have/VBP some/DT good/JJ management/NN principals/NNS in/IN this/DT NEW/JJ GENERATION/NN ./.,{F Huh. } They have some good management principals in this NEW GENERATION. /
+b,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+b,B,"yeah/UH ,/,","yeah, /"
+%,B,"I/PRP ,/,","I, - /"
+sd,B,"it/PRP 's/BES ,/, it/PRP 's/BES kind/RB of/RB funny/JJ ./.","[ it's, + it's ] kind of funny. /"
+sd,B,"I/PRP ,/, uh/UH ,/, was/VBD reading/VBG in/IN ,/, uh/UH ,/, a/DT book/NN ./. Uh/UH ,/, trying/VBG to/TO think/VB ,/,","I, {F uh, } was reading in, {F uh, } a book. {F Uh, } trying to think, - /"
+sd,B,"I/PRP ca/MD n't/RB quite/RB remember/VB the/DT name/NN of/IN the/DT book/NN ,/,","I can't quite remember the name of the book, /"
+sd,B,"but/CC it/PRP was/VBD ,/, it/PRP was/VBD saying/VBG do/VBP n't/RB do/VB STAR/NN TREK/NN management/NN style/NN ./.","{C but } [ it was, + it was ] saying don't do STAR TREK management style. /"
+sd,B,"And/CC they/PRP were/VBD referring/VBG to/IN ,/, you/PRP know/VBP ,/, Captain/NNP Kirk/NNP ,/,","{C And } they were referring to, {D you know, } Captain Kirk, /"
+sd,B,"every/DT time/NN he/PRP left/VBD the/DT Enterprise/NNP ,/, everything/NN went/VBD to/IN hell/NN ./.","every time he left the Enterprise, everything went to hell. /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,And/CC nothing/NN got/VBD righted/VBN until/IN he/PRP got/VBD back/RB up/RB on/IN the/DT ship/NN ./.,<Laughter> {C And } nothing got righted until he got back up on the ship <laughter>. /
+b,A,"Right/UH ,/,","Right, /"
+qy^d,A,"so/RB he/PRP kind/RB of/RB was/VBD a/DT cowboy/NN type/NN ,/, too/RB ./.","{C so } he kind of was a cowboy type, too. /"
+ny,B,Uh-huh/UH,Uh-huh /
+qy^d,A,Made/VBD all/PDT the/DT decisions/NNS,Made all the decisions /
+sv,A,"but/CC ,/, uh/UH ,/, Jean/NNP Luke/NNP does/VBZ more/JJR of/IN a/DT ,/, a/DT ,/,","{C but, } {F uh, } Jean Luke does more of [ a, + a, ]"
+x,B,./.,<Throat_clearing>.
++,A,committee/NN type/NN of/IN management/NN ./.,committee type of management. /
+aa,B,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+sv,B,"uh/UH ,/, it/PRP 's/BES definitely/RB a/DT lot/NN better/RB ./. A/DT lot/NN more/RBR realistic/JJ really/RB ./.","{F uh, } it's definitely a lot better <laughter>. A lot more realistic really. /"
+qw,A,What/WDT other/JJ movies/NNS have/VBP you/PRP seen/VBN ?/.,What other movies have you seen? /
+sd,B,"Uh/UH ,/, saw/VBD THE/DT ADDAMS/NNP FAMILY/NN last/JJ week/NN ./.","{F Uh, } saw THE ADDAMS FAMILY last week. /"
+qw,A,"Oh/UH ,/, how/WRB was/VBD that/DT ?/.","{F Oh, } how was that? /"
+sd,B,It/PRP was/VBD pretty/RB good/JJ ./.,<Throat_clearing> It was pretty good. /
+sd,B,"Uh/UH ,/, there/EX were/VBD a/DT few/JJ things/NNS different/JJ than/IN the/DT old/JJ series/NN ,/,","{F Uh, } there were a few things different than the old series, /"
+sd,B,"but/CC on/IN the/DT ,/, on/IN the/DT whole/JJ ,/, it/PRP was/VBD pretty/RB similar/JJ ./. And/CC ,/, a/DT lot/NN of/IN fun/NN ./.","{C but } [ on the, + on the ] whole, it was pretty similar. And, <breathing> a lot of fun. /"
+qy,A,"Lots/NNS of/IN little/JJ funny/JJ spots/NNS ,/, huh/UH ./.","Lots of little funny spots, {F huh. } /"
+ny,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+ny,B,yeah/UH ./.,yeah. /
+qy,A,Did/VBD they/PRP have/VB Thing/NNP,Did they have Thing /
+%,A,"and/CC ,/,","{C and, } -/"
+ny,B,"Oh/UH ,/, yes/UH ,/,","{F Oh, } yes, /"
+sd,B,"in/IN fact/NN ,/, Thing/NNP has/VBZ a/DT big/JJ ,/, much/RB bigger/JJR role/NN than/IN he/PRP does/VBZ in/IN the/DT series/NN ./.","in fact, Thing has a [ big, + much bigger ] role than he does in the series. /"
+sd,B,"I/PRP mean/VBP ,/, you/PRP know/VBP ,/, there/EX is/VBZ lots/NNS of/IN areas/NNS where/WRB Thing/NNP saves/VBZ the/DT day/NN ./.","{E I mean, } {D you know, } there is lots of areas where Thing saves the day. /"
+bh,A,Really/UH ?/.,Really? /
+sd,B,And/CC he/PRP runs/VBZ around/RB a/DT lot/NN ./.,{C And } he runs around a lot. /
+%,A,"How/WRB did/VBD ,/,","How did, - /"
+qw^d,A,I/PRP 've/VBP always/RB wondered/VBN how/WRB he/PRP gets/VBZ around/RB ./.,I've always wondered how he gets around. /
+sd,B,"Uh/UH ,/, you/PRP know/VBP ,/, just/RB finger/NN hopping/NN ./.","{F Uh, } {D you know, } just finger hopping. /"
+qy,A,"But/CC he/PRP 's/BES in/IN a/DT box/NN ,/, right/UH ?/.","{C But } he's in a box, right? /"
+nn,B,"No/UH ,/,","<Laughter> No, /"
+nn,B,"no/UH ,/,","no, /"
+nn,B,"no/UH ,/,","no, /"
+sd,B,"in/IN fact/NN ,/, it/PRP 's/BES funny/JJ ./.","in fact, it's funny. /"
+sd,B,"He/PRP never/RB did/VBD ,/, does/VBZ come/VB in/RB out/IN of/IN a/DT box/NN ,/, I/PRP do/VBP n't/RB think/VB ./.","He never [ did, + does ] come in out of a box, I don't think. /"
+%,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,he/PRP was/VBD just/RB kind/RB of/RB walking/VBG around/RB ./.,he was just kind of walking around. /
+qy,A,Did/VBD n't/RB he/PRP used/VBN to/IN ?/.,Didn't he used to? /
+ng,B,Not/RB really/RB ./.,Not really. /
+sd,B,He/PRP was/VBD always/RB --/:,He was always --
+bk,A,Oh/UH ./.,Oh. /
++,B,--/: in/IN the/DT box/NN before/RB ./.,-- in the box before. /
+bk,A,"Oh/UH ,/, that/DT 's/BES ,/, yeah/UH ,/, that/DT 's/BES ,/, okay/UH ./.","{F Oh, } [ that's, + {D yeah, } that's, ] okay. /"
+b,B,Yeah/UH ./.,Yeah. /
+b^m,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,that/DT 's/BES what/WP I/PRP was/VBD thinking/VBG ./.,that's what I was thinking. /

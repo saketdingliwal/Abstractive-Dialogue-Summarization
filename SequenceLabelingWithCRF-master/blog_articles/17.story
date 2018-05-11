@@ -1,0 +1,17 @@
+Hey - unlike some parasites around here who live off the service of others , S1 served Uncle Sam and fought for S1's  freedom of speech right . If S2 do not like it S2 can take a hike . Sodom and Gomorrah liberals are a scourge to decent people everywhere . p . Why do S2 lie about what people have said ? They can serve and say whatever they want . But they need to stay in the closet or else they are out of here . there is consequences on earth and in the hereafter for the stiff-necked crowd . Show S2 where S2 lied . S2 appreciated . Obviously , they cannot say what ever they want , and if they say the wrong thing , they are kicked out . That is not freedom of speech . Why should there be consequences on earth , because S1 believe that it is wrong according to S1's  religious book ? News flash for ya : Not everyone believes S1's  religious book , and as such , not everyone feels obligated to abide by S1's  book . Thankfully , S1 and S1's  like-minded crowd of bigots are a dying breed . S2 agreed . Because that is all the oil spill in the gulf is to S1 . a big joke . If S2 do not know by now it will not help to point S2 there again . that is stupid . Being in denial has never stopped God's wrath before . Take another lap around Mt . Sinai , sport . Again with no evidence of what S1 claim . S2 asked S1 to show S2 where S2 lied . S2 can give plenty of examples where S1 have . s . Any time S2 think S2 can document a New Testament person , place , or event as fiction , then hop out here . Otherwise S2 are about as believable as his highness , Obama . Thankfully , no . However , S1 should understand that under our system of government , the power comes from the people . S2's  fight is not against S1 specifically , but against bigots who feel that they can use their personal religious beliefs to dictate what others may or may not do . If S1 find yourself included in that category , then theres nothing S2 can do to help S1 . S2 agreed . S1 fail the reading comprehension test . S2 used the word " believe " , not proof or evidence . Likewise , S1 believe in the NT , yet S1 cannot furnish any proof or evidence in support of it . S2 have no reason to justify S2's  beliefs to S1 . S1 have no right to dictate S1's  beliefs to S2 .
+@highlight
+S1 and S2 are debating the issue of freedom of speech and gay rights.
+@highlight
+S1 is against gay rights and believes they earned their freedom of speech through serving in the military.
+@highlight
+S2 believes everyone has the freedom of speech and is against speaking out towards other kinds of people.
+@highlight
+S1 is very rude and constantly being immature towards S2.
+@highlight
+S2 states that we are granted freedom of speech by the constitution, and S1 responds with immature remarks and questions.
+@highlight
+S2 points out that S1 has no evidence of any sort for his arguments and that believing in the bible should not be a reason to dictate everyone else's rights.
+@highlight
+Also, S2 adds that he doesn't need to prove his beliefs the same way S1 shouldn't dictate his beliefs.
+@highlight
+S1 seems to be ignorant to the actual context of the conversation while S2 is in belief that S1 shouldn't use his beliefs to dictate the rights of other individuals.

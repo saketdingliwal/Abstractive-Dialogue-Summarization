@@ -1,0 +1,102 @@
+act_tag,speaker,pos,text
+sv,A,"Uh/UH ,/, I/PRP guess/VBP my/PRP$ feelings/NNS are/VBP that/IN ,/, uh/UH ,/, we/PRP almost/RB have/VBP a/DT universal/JJ health/NN care/NN system/NN ,/, uh/UH ,/, to/IN a/DT great/JJ degree/NN ,/, except/IN that/IN now/RB I/PRP read/VBP where/WRB we/PRP 've/VBP left/VBN out/RP about/RB thirty-four/CD million/CD people/NNS ./.","<Music> {F Uh, } I guess my feelings are that, {F uh, } we almost have a universal health care system, {F uh, } to a great degree, except that now I read where we've left out about thirty-four million people. /"
+b,B,Oh/UH ./.,<Noise> <talking> Oh. /
+sv,A,"And/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB exactly/RB how/WRB we/PRP 're/VBP going/VBG to/TO cover/VB many/JJ of/IN these/DT people/NNS ,/, because/IN I/PRP 'm/VBP sure/JJ that/IN some/DT of/IN them/PRP do/VBP n't/RB ,/, uh/UH ,/, do/VBP n't/RB have/VB the/DT wherewithal/NN to/TO do/VB it/PRP themselves/PRP ,/,","{C And, } {F uh, } I don't know exactly how we're going to cover many of these people, because I'm sure that some of them [ don't, + {F uh, } don't ] have the wherewithal to do it themselves, /"
+sv,A,"so/RB ,/, uh/UH ,/, I/PRP ,/, I/PRP have/VBP a/DT feeling/NN ,/, since/IN I/PRP have/VBP just/RB about/RB as/RB good/JJ a/DT health/NN care/NN coverage/NN that/WDT anybody/NN can/MD get/VB ,/, that/IN this/DT ,/, uh/UH ,/, then/RB becomes/VBZ an/DT obligation/NN of/IN the/DT government/NN ,/,","{C so, } {F uh, } [ I, + I ] have a feeling, since I have just about as good a health care coverage that anybody can get, that this, {F uh, } then becomes an obligation of the government, /"
+sv,A,"because/IN it/PRP 's/BES going/VBG to/TO become/VB an/DT obligation/NN of/IN either/DT state/NN ,/, local/JJ or/CC federal/JJ government/NN ,/, anyway/UH ./.","{C because } it's going to become an obligation of either state, local or federal government, anyway. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"because/IN when/WRB people/NNS ca/MD n't/RB pay/VB ,/, they/PRP end/VBP up/RP going/VBG to/IN clinics/NNS or/CC ,/, you/PRP know/VBP ,/, to/IN public/JJ hospitals/NNS ,/, and/CC that/DT kind/NN of/IN thing/NN ,/,","{C because } when people can't pay, they end up going to clinics or, {D you know, } to public hospitals, and that kind of thing, /"
+%,B,"and/CC ,/, you/PRP know/VBP ,/,","{C and, } {D you know, } -/"
+sv,A,"Well/UH ,/, it/PRP seems/VBZ to/IN me/PRP that/IN ,/, that/IN I/PRP 'm/VBP paying/VBG anyway/RB ,/, because/IN when/WRB I/PRP go/VBP ,/, or/CC my/PRP$ insurance/NN carrier/NN ,/, anyway/UH ,/, when/WRB I/PRP pay/VBP something/NN ,/, the/DT bills/NNS seem/VBP inordinately/RB high/JJ ./.","{D Well, } it seems to me [ that, + that ] I'm paying anyway, because [ when I go, + {A or my insurance carrier, anyway, } when I pay ] something, the bills seem inordinately high. /"
+aa,B,"Oh/UH ,/, definitely/UH ./.","{F Oh, } definitely. /"
+sv,A,"And/CC the/DT reason/NN that/IN they/PRP 're/VBP inordinately/RB high/JJ is/VBZ because/IN that/DT has/VBZ ,/,","{C And } the reason that they're inordinately high is because that has,"
+x,B,,<Talking>.
++,A,to/TO cover/VB the/DT costs/NNS for/IN the/DT indigent/JJ people/NNS who/WP apparently/RB --/:,to cover the costs for the indigent people who apparently --
+b,B,Right/UH ./.,Right. /
++,A,--/: do/VBP n't/RB have/VB the/DT money/NN or/CC the/DT wherewithal/NN to/TO do/VB that/DT ./.,-- don't have the money or the wherewithal to do that. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sv,A,"It/PRP would/MD seem/VB to/TO spread/VB it/PRP out/RP a/DT little/RB better/RBR if/IN the/DT employers/NNS who/WP ,/, uh/UH ,/, employ/VBP these/DT people/NNS ,/, and/CC pay/VBP them/PRP ,/, uh/UH ,/, you/PRP know/VBP ,/, subminimum/JJ wages/NNS or/CC whatever/WP ,/,","It would seem to spread it out a little better if the employers who, {F uh, } employ these people, and pay them, {F uh, } {D you know, } subminimum wages or whatever,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"were/VBD asked/VBN to/TO sh/VB ,/, share/VB their/PRP$ fair/JJ burden/NN of/IN this/DT too/RB ,/, just/RB as/IN my/PRP$ employer/NN is/VBZ ./.","were asked to [ sh-, + share ] their fair burden of this too, just as my employer is. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sv,A,"And/CC myself/PRP ,/, I/PRP guess/VBP ./.","<Talking> And myself, I guess. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,that/DT sounds/VBZ like/IN a/DT good/JJ idea/NN ./.,that sounds like a good idea. /
+sd,B,"My/PRP$ only/JJ concern/NN is/VBZ what/WP happens/VBZ when/WRB you/PRP turn/VBP things/NNS over/IN to/IN the/DT government/NN ,/,","My only concern is what happens when you turn things over to the government, /"
+h,B,I/PRP do/VBP n't/RB know/VB ./.,I don't know <laughter>. /
+qw,A,Well/UH --/:,{D Well } --
+qh,B,"Do/VBP they/PRP wind/VB up/RP with/IN more/JJR red/JJ tape/NN ,/, and/CC more/JJR problems/NNS then/RB ?/.","Do they wind up with more red tape, and more problems then? /"
++,A,"--/: well/UH ,/, who/WP ,/, who/WP else/RB is/VBZ going/VBG to/TO do/VB this/DT ,/, then/RB ?/.","-- {D well, } [ who, + who ] else is going to do this, then? /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sd,A,"I/PRP mean/VBP ,/, it/PRP 's/HVS worked/VBN successfully/RB in/IN Europe/NNP ./.","{E I mean, } it's worked successfully in Europe. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP 've/VBP heard/VBN all/PDT these/DT stories/NNS about/IN ,/,","I've heard all these stories about, /"
+sd,A,"I/PRP travel/VBP extensively/RB and/CC spend/VBP ,/, uh/UH ,/, maybe/RB half/PDT a/DT year/NN in/IN Europe/NNP every/DT year/NN ,/,","I travel extensively and spend, {F uh, } maybe half a year in Europe every year, /"
+b,B,Oh/UH ./.,Oh. /
+sv,A,"and/CC I/PRP find/VBP that/IN the/DT health/NN care/NN programs/NNS there/RB ,/, uh/UH ,/, are/VBP administered/VBN with/IN ,/, uh/UH ,/, at/IN least/JJS people/NNS I/PRP talk/VBP to/IN ,/, with/IN ,/, uh/UH ,/, a/DT great/JJ deal/NN of/IN integrity/NN ,/,","{C and } I find that the health care programs there, {F uh, } are administered [ with, + {F uh, } {A at least people I talk to, } with, ] {F uh, } a great deal of integrity, /"
+sv,A,"and/CC ,/, uh/UH ,/, people/NNS do/VBP n't/RB seem/VB to/TO be/VB reluctant/JJ to/TO use/VB them/PRP to/IN any/DT degree/NN ./.","{C and, } {F uh, } people don't seem to be reluctant to use them to any degree. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"As/IN a/DT matter/NN of/IN fact/NN ,/, if/IN I/PRP 'm/VBP injured/JJ or/CC have/VBP an/DT emergency/NN when/WRB I/PRP 'm/VBP ,/, say/UH in/IN Germany/NNP or/CC France/NNP ,/, uh/UH ,/, that/IN ,/, I/PRP 'm/VBP automatically/RB taken/VBN care/NN of/IN ,/,","As a matter of fact, if I'm injured or have an emergency when I'm, say in Germany or France, {F uh, } that, I'm automatically taken care of, /"
+ba,B,Wow/UH ./.,Wow. /
+sd,A,I/PRP mean/VBP I/PRP do/VBP n't/RB even/RB have/VB to/TO pay/VB ./.,{E I mean } I don't even have to pay. /
+%,A,"A-/XX ,/,","A-, -/"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"Well/UH ,/, I/PRP think/VBP part/NN of/IN the/DT ,/, the/DT tremendous/JJ benefit/NN of/IN that/DT is/VBZ that/IN there/EX 's/BES so/RB many/JJ people/NNS who/WP wait/VBP now/RB because/IN they/PRP do/VBP n't/RB have/VB the/DT money/NN ,/, until/IN ,/, you/PRP know/VBP ,/, they/PRP have/VBP no/DT preventative/JJ measures/NNS ./.","{D Well, } I think part of [ the, + the ] tremendous benefit of that is that there's so many people who wait now because they don't have the money, until, {D you know, } they have no preventative measures <laughter>. /"
+sv,B,"People/NNS ,/, um/UH ,/, you/PRP know/VBP ,/, just/RB go/VBP on/RP and/CC on/RP and/CC on/RP ./.","People, {F um, } {D you know, } just go on and on and on. /"
+sv,B,"I/PRP mean/VBP ,/, so/RB many/JJ people/NNS do/VBP n't/RB even/RB get/VB prenatal/JJ care/NN","{E I mean, } so many people don't even get prenatal care /"
+sv,B,"or/CC ,/, and/CC it/PRP just/RB extends/VBZ with/IN i-/XX ,/, if/IN it/PRP ,/, w/WP ,/, what/WP would/MD be/VB a/DT minor/JJ problem/NN to/TO deal/VB with/IN if/IN they/PRP had/VBD a/DT help/NN available/JJ early/RB on/RP","[ {C or, } + {C and } ] it just extends [ with + ] [ [ i-, + if it, ] + [ w-, + what ] ] would be a minor problem to deal with if they had [ a + ] help available early on /"
+"fo_o_fw_""_by_bc",B,"becomes/VBZ just/RB this/DT horrendous/JJ ,/, you/PRP know/VBP ,/, burden/NN on/IN the/DT taxpayers/NNS ./.","becomes just this horrendous, {D you know, } burden on the taxpayers. - /"
+sd,B,"They/PRP 're/VBP saying/VBG now/RB that/IN one/CD out/IN of/IN every/DT ten/CD child/NN born/VBN i-/IN ,/, in/IN public/JJ hospitals/NNS is/VBZ addicted/JJ to/TO crack/NN ./.","They're saying now that one out of every ten child born [ i-, + in ] public hospitals is addicted to crack. /"
+sd,A,"Well/UH I/PRP ,/,","{D Well } [ I, +"
+^g,B,"Well/UH ,/, you/PRP know/VBP ?/.","{D Well, } {D you know } <laughter>? /"
++,A,"uh/UH ,/, uh/UH ,/, I/PRP know/VBP it/PRP ./.","{F uh, } {F uh, } I ] know it. /"
+sd,A,"I/PRP have/VBP a/DT solution/NN ,/, you/PRP see/VBP ./.","I have a solution, {D you see. } /"
+%,A,"M-/PRP$ ,/, my/PRP$ solution/NN ,/,","[ M-, + my ] solution, - /"
+sd,A,"even/IN though/IN I/PRP 'm/VBP rapidly/RB approaching/VBG the/DT ,/, uh/UH ,/, the/DT age/NN when/WRB I/PRP 'll/MD qualify/VB for/IN Medicare/NNP and/CC Medicaid/NNP ,/, I/PRP ,/, I/PRP ,/,","even though I'm rapidly approaching [ the, + {F uh, } the ] age when I'll qualify for Medicare and Medicaid, [ I, + I, ] - /"
+sd,A,"my/PRP$ mother/NN and/CC father/NN both/DT ,/, uh/UH ,/, uh/UH ,/,","my mother and father both, {F uh, } {F uh, } - /"
+sd,A,"well/UH ,/, my/PRP$ father/NN 's/BES not/RB living/VBG but/CC my/PRP$ mother/NN is/VBZ ,/,","{E well, } my father's not living but my mother is, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"and/CC they/PRP are/VBP ,/, um/UH ,/, of/IN an/DT advanced/JJ years/NNS ,/,","{C and } they are, {F um, } of an advanced years, /"
+sd,A,"and/CC when/WRB I/PRP see/VBP the/DT money/NN that/WDT 's/BES poured/VBN down/IN the/DT ,/, down/IN the/DT drain/NN on/IN Medicare/NNP and/CC Medicaid/NNP ,/,","{C and } when I see the money that's poured [ down the, + down the ] drain on Medicare and Medicaid, - /"
+sv,A,"I/PRP mean/VBP ,/, the/DT ,/,","{E I mean, } the,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"absolute/RB uncontrollable/JJ situation/NN that/WDT we/PRP find/VBP ourselves/PRP in/IN ,/,","absolute uncontrollable situation that we find ourselves in, - /"
+sv,A,"and/CC the/DT extraordinary/JJ amounts/NNS ,/,","{C and } the extraordinary amounts, - /"
+sd,A,"I/PRP know/VBP that/IN ,/,","I know that, - /"
+sd,A,"because/IN those/DT people/NNS vote/VBP ,/,","{C because } those people vote, /"
+sv,A,"I/PRP mean/VBP ,/, they/PRP 're/VBP the/DT ones/NNS who/WP get/VBP out/RP and/CC vote/VBP ,/,","{E I mean, } they're the ones who get out and vote, /"
+sv,A,"that/DT 's/BES what/WP 's/BES robbing/VBG a/DT poor/JJ mother/NN of/IN the/DT p/JJ ,/, prenatal/JJ care/NN ./.","that's what's robbing a poor mother of the [ p-, + prenatal ] care. /"
+sv,A,"The/DT young/JJ people/NNS are/VBP n't/RB getting/VBG the/DT proper/JJ care/NN that/WDT they/PRP need/VBP ,/, and/CC nutrition/NN ,/, I/PRP think/VBP ,/,","The young people aren't getting the proper care that they need, and nutrition, I think, /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sv,A,"and/CC we/PRP 're/VBP spending/VBG on/IN these/DT useless/JJ ,/, many/JJ times/NNS useless/JJ and/CC inordinately/RB complex/JJ unnecessary/JJ tests/NNS in/IN hospitals/NNS for/IN older/JJR people/NNS ./.","{C and } we're spending on these [ useless, + many times useless ] and inordinately complex unnecessary tests in hospitals for older people. /"
+ba,B,"Oh/UH ,/, it/PRP 's/BES unbelievable/JJ how/WRB much/JJ you/PRP go/VBP through/IN ./.","{F Oh, } it's unbelievable how much you go through. /"
+sd,B,"When/WRB I/PRP just/RB had/VBD a/DT problem/NN with/IN my/PRP$ neck/NN and/CC they/PRP ended/VBD up/RP doing/VBG a/DT seven/CD hundred/CD dollar/NN CAT/NN scan/NN ,/, and/CC ,/, I/PRP mean/VBP ,/, a/DT chiropractor/NN got/VBD it/PRP in/IN one/CD time/NN ,/,","When I just had a problem with my neck and they ended up doing a seven hundred dollar CAT scan, [ and, + ] {E I mean, } a chiropractor got it in one time <laughter>, /"
+ba,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+sv,A,"I/PRP mean/VBP ,/, it/PRP does/VBZ ,/,","{E I mean, } it does,"
+sv,B,it/PRP was/VBD just/RB strange/JJ ./.,it was just strange. /
++,A,"seem/VB like/IN we/PRP 're/VBP ,/, th-/XX ,/, th-/XX ,/, th-/XX ,/,","seem like we're, [ [ th-, + th-, ] + th-, ] - /"
+sd,A,"now/UH I/PRP noticed/VBD just/RB the/DT other/JJ day/NN in/IN the/DT paper/NN that/IN ,/, that/IN Medicare/NNP will/MD be/VB based/VBN ,/, payments/NNS will/MD be/VB based/VBN not/RB ,/, uh/UH ,/, just/RB on/IN cost/NN ,/, but/CC on/IN cost/NN effectiveness/NN ./.","now I noticed just the other day in the paper [ that, + that ] [ Medicare will be based, + payments will be based ] not, {F uh, } just on cost, but on cost effectiveness. /"
+%,A,"So/RB I/PRP gue/VBP ,/,","{C So } I gue-, -/"
+sv,B,"Oh/UH ,/, well/UH ,/, that/DT should/MD help/VB ./.","{F Oh, } {D well, } that should help. /"
+h,A,"Well/UH ,/, I/PRP do/VBP n't/RB know/VB ,/, uh/UH ,/,","{D Well, } I don't know, {F uh, } /"
+sd,A,we/PRP 'll/MD see/VB how/WRB that/DT goes/VBZ ./.,we'll see how that goes. /
+b,B,Yeah/UH,Yeah /
+x,B,./.,<laughter>.
+sv,A,"I/PRP think/VBP that/DT was/VBD just/RB a/DT regulation/NN that/WDT was/VBD up/RP for/IN comment/NN ,/,","I think that was just a regulation that was up for comment, /"
+sd,A,but/CC we/PRP 'll/MD see/VB what/WP happens/VBZ ./.,{C but } we'll see what happens. /
+ba,B,Oh/UH I/PRP see/VBP ./.,{F Oh } I see <laughter>. /
+ba,B,"Oh/UH ,/, gosh/UH ./.","{F Oh, } gosh. /"
+sd,A,"Well/UH ,/, listen/UH ,/, uh/UH ,/, I/PRP think/VBP I/PRP 've/VBP ,/, I/PRP 've/VBP exhausted/VBN my/PRP$ ,/, uh/UH ,/, self/NN on/IN ,/,","{D Well, } listen, {F uh, } I think [ I've, + I've ] exhausted my, {F uh, } self on, - /"
+sd,A,at/IN least/JJS I/PRP 've/VBP blown/VBN off/RP steam/NN of/IN the/DT way/NN I/PRP feel/VBP about/IN it/PRP ./.,at least I've blown off steam of the way I feel about it. /
+b,B,"Okay/UH ,/,","Okay, /"
+b,B,well/UH ./.,{D well } <laughter>. -/
+qy,A,Okay/UH ?/.,Okay? /
+na,B,"Okay/UH ,/,","Okay, /"
+ft,B,thank/VB you/PRP ./.,thank you. /
+fc,B,Bye-bye/UH ./.,Bye-bye </noise> </talking>. /
+fc,A,See/VB you/PRP next/JJ time/NN ./.,See you next time. /
+fc,A,Bye/UH ./. ./.,Bye. </music>. /

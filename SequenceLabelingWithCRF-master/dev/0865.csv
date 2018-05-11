@@ -1,0 +1,92 @@
+act_tag,speaker,pos,text
+fp,A,"Hi/UH ,/,","Hi, /"
+fp,A,"my/PRP$ name/NN is/VBZ Donna/NNP ,/,","my name is Donna, /"
+fp,A,"and/CC I/PRP 'm/VBP calling/VBG ,/, calling/VBG from/IN Plano/NNP ,/, Texas/NNP ./.","{C and } I'm [ calling, + calling ] from Plano, Texas. /"
+fp,B,I/PRP 'm/VBP Jay/NNP in/IN Dallas/NNP ./.,I'm Jay in Dallas. /
+bk,A,"Oh/UH ,/, okay/UH ,/, um/UH ,/,","{F Oh, } okay, {F um, } /"
+sd,A,"I/PRP ,/, um/UH ,/, find/VBP exercise/NN kind/RB of/RB a/DT task/NN ,/, I/PRP guess/VBP I/PRP 'd/MD say/VB ./.","I, {F um, } find exercise kind of a task, I guess I'd say. /"
+sd,A,"I/PRP go/VBP to/IN aerobics/NN two/CD days/NNS a/DT week/NN ,/,","I go to aerobics <child_yelling> two days a week, /"
+sd,A,but/CC I/PRP also/RB have/VBP three/CD kids/NNS at/IN home/NN,{C but } I also have <child_yelling> three kids at home /
+sd,A,so/RB they/PRP keep/VBP me/PRP pretty/RB busy/JJ ./.,{C so } they keep me pretty busy. /
+bf,B,That/DT keeps/VBZ you/PRP plenty/RB of/IN exercise/NN MUMBLEx/XX ./.,That keeps you plenty of exercise (( )) . /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"that/DT gives/VBZ me/PRP plenty/RB of/IN exercise/NN ,/,","that gives me plenty of exercise, /"
+sd,A,"but/CC I/PRP enjoy/VBP ,/, um/UH ,/, walking/VBG outside/RB and/CC bicycling/VBG once/RB in/IN a/DT while/NN with/IN the/DT family/NN ./.","{C but } I enjoy, {F um, } <child_yelling> walking outside and <child_yelling> bicycling once in a while with the family. /"
+ad,A,Excuse/VB me/PRP ./.,Excuse me <noise> <<muffled sound as if hand over the phone>>. /
+t3,A,That/DT 's/BES fine/JJ ./.,That's fine. /
+t3,A,And/CC yourself/PRP ./.,And yourself. /
+%,B,"Well/UH ,/, I/PRP ,/, uh/UH ,/, I/PRP have/VBP ,/,","{D Well, } [ I, + {F uh, } I ] have, - /"
+sd,B,"I/PRP walked/VBD and/CC run/VBP ev-/DT ,/, um/UH ,/, almost/RB every/DT morning/NN ./.","I walked and run [ ev-, + {F um, } almost every ] morning. /"
+sd,B,"I/PRP 've/VBP sort/RB of/RB stopped/VBN here/RB with/IN the/DT weather/NN change/NN ,/,","I've sort of stopped here with the weather change, /"
+sd,B,"but/CC ,/, uh/UH ,/, it/PRP 's/BES about/IN a/DT thirty/CD minute/NN exercise/NN every/DT morning/NN ./.","{C but, } {F uh, } it's about a thirty minute exercise every morning. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b^m,A,every/DT morning/NN ./.,every morning. /
+sd,A,"Well/UH ,/, my/PRP$ husband/NN swims/VBZ every/DT day/NN at/IN lunch/NN ,/, which/WDT he/PRP loves/VBZ doing/VBG --/:","{D Well, } my husband swims every day at lunch, which he loves doing -- /"
+ba,B,"Oh/UH ,/, that/DT would/MD ,/,","{F Oh, } that would, - /"
+ba,B,that/DT 's/BES fantastic/JJ exercise/NN ./.,that's fantastic exercise. /
+aa,A,"--/: yeah/UH ,/,","-- yeah, /"
+sd,A,he/PRP does/VBZ it/PRP every/DT day/NN like/IN a/DT ritual/NN ./.,he does it every day like a ritual. /
+sd,A,"Once/RB in/IN a/DT while/NN or/CC if/IN he/PRP has/VBZ a/DT business/NN meeting/NN or/CC if/IN he/PRP ,/, um/UH ,/, someone/NN invites/VBZ him/PRP to/IN lunch/NN ,/, he/PRP 'll/MD ,/, he/PRP 'll/MD not/RB go/VB ,/,","Once in a while or if he has a business meeting or if [ he, + {F um, } someone invites him ] to lunch, [ he'll, + he'll ] not go, /"
+sd,A,"but/CC he/PRP goes/VBZ ,/, um/UH ,/, every/DT ,/, every/DT day/NN ,/,","{C but } he goes, {F um, } [ every, + every ] day, /"
+sd,A,"and/CC then/RB he/PRP ru/VBZ ,/, he/PRP 's/BES a/DT runner/NN ,/, too/RB ./.","{C and then } [ he ru-, + he's a runner, ] too. /"
+sd,A,He/PRP runs/VBZ three/CD mornings/NNS a/DT week/NN,He runs three mornings a week /
+sd,A,"he/PRP gets/VBZ up/RP about/RB five/CD and/CC ,/, and/CC --/:","he gets up about five [ and, + and ] --"
+b,B,Um/UH ./.,{F Um. } /
++,A,"--/: does/VBZ his/PRP$ ,/, his/PRP$ deal/NN ,/,","-- does [ his, + his ] deal, /"
+sd,A,"and/CC some/DT days/NNS he/PRP does/VBZ n't/RB ,/,","{C and } some days he doesn't, /"
+sd,A,but/CC then/RB maybe/RB he/PRP 'll/MD catch/VB up/RP on/IN the/DT weekend/NN and/CC go/VB for/IN a/DT run/NN ./.,{C but } then maybe he'll catch up on the weekend and go for a run. /
+ba,B,All/RB right/JJ ./.,All right. /
+%,A,"And/CC ,/, um/UH ,/, we/PRP MUMBLEx/XX ./.","{C And, } {F um, } we (( )) . -/"
+sd,B,"I/PRP 'd/MD rather/RB get/VB a/DT bicycle/NN ,/,","I'd rather get a bicycle, /"
+sd,B,"but/CC I/PRP have/VBP an/DT ex-/NN ,/, I/PRP had/VBD an/DT exercise/NN bike/NN in/IN the/DT house/NN ,/, but/CC did/VBD n't/RB seem/VB to/TO use/VB it/PRP enough/RB ,/,","{C but } [ I have an ex-, + I had an exercise ] bike in the house, but didn't seem to use it enough, /"
+sd,B,"so/RB somebody/NN sold/VBD it/PRP in/IN a/DT garage/NN sale/NN ,/,","{C so } somebody sold it in a garage sale, /"
+sd,B,"and/CC so/RB ,/, uh/UH --/:","[ {C and so, } + {F uh } --"
+b,A,Oh/UH ./.,Oh. /
++,B,"--/: but/CC I/PRP 'd/MD like/VB to/TO get/VB a/DT bike/NN and/CC just/RB do/VB ,/, uh/UH ,/, do/VB biking/NN outside/NN ./.","-- {C but } ] I'd like to get a bike and just [ do, + {F uh, } do ] biking outside. /"
+sd,A,"The/DT ,/, the/DT ,/, the/DT bicycling/NN is/VBZ nice/JJ especially/RB with/IN the/DT weather/NN around/IN here/RB ,/,","[ [ The, + the, ] + the ] bicycling is nice especially with the weather around here, /"
+sd,A,"and/CC I/PRP know/VBP ,/, um/UH ,/, uh/UH ,/, we/PRP ,/, we/PRP both/DT of/IN ,/, my/PRP$ husband/NN and/CC I/PRP both/DT do/VBP it/PRP to/TO just/RB keep/VB the/DT pounds/NNS off/RB ./.","{C and } I know, {F um, } {F uh, } [ [ [ we, + we ] + both of, ] + my husband and I both + ] do it to just <child_yelling> keep the pounds off. /"
+sd,A,"We/PRP 're/VBP getting/VBG up/RP in/IN age/NN ,/, I/PRP guess/VBP ,/, in/IN our/PRP$ late/JJ thirties/NNS","We're getting up in age, I guess, in our late thirties /"
+sv,A,so/RB we/PRP need/VBP to/TO --/:,{C so } we need to --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: keep/VB exercising/VBG just/RB to/TO be/VB able/JJ to/TO ,/, uh/UH ./.","-- keep exercising just to be able to, {F uh. } -/"
+sv,B,"It/PRP keeps/VBZ going/VBG ,/,","It keeps going, /"
+sd,B,"because/RB I/PRP 'm/VBP fifty-five/JJ ,/,","{C because } I'm fifty-five, /"
+sv,B,"and/CC it/PRP ,/, uh/UH ,/, it/PRP just/RB gets/VBZ worse/JJR ./.","{C and } [ it, + {F uh, } it ] just gets worse. /"
+sv,B,"You/PRP still/RB want/VBP to/TO eat/VB ,/,","You still want to eat, /"
+%,B,"and/CC ,/, uh/UH --/:","[ {C and, } + {F uh } --"
+aa,A,"Oh/UH ,/, I/PRP know/VBP ./.","{F Oh, } I know. /"
++,B,"--/: but/IN you/PRP just/RB ,/,","-- {C but } ] you just, - /"
+sv,B,"I/PRP think/VBP you/PRP feel/VBP better/RB ,/, too/RB ,/, if/IN you/PRP get/VBP on/IN some/DT program/NN like/IN that/DT ,/,","I think you feel better, too, if you get on some program like that, /"
+%,B,"but/CC ,/, uh/UH ./.","{C but, } {F uh. } -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP go/VBP to/IN this/DT aerobics/NN class/NN two/CD mornings/NNS a/DT week/NN ,/,","I go to this aerobics class two mornings a week, /"
+sd,A,and/CC I/PRP take/VBP my/PRP$ three/CD year/NN old/NN with/IN me/PRP ./.,{C and } I take my three year old with me. /
+sd,A,There/EX 's/BES a/DT nursery/NN there/RB ./.,There's a nursery there. /
+sd,A,And/CC it/PRP 's/BES kind/RB of/RB another/DT day/NN out/RB for/IN her/PRP --/:,{C And } it's kind of another day out for her --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: to/TO ,/, um/UH ,/, have/VB little/JJ friends/NNS ,/,","-- to, {F um, } have little friends, /"
+sd,A,"and/CC ,/, um/UH ,/, I/PRP ,/, I/PRP enjoy/VBP the/DT socialization/NN of/IN it/PRP ,/, you/PRP know/VBP ,/,","{C and, } {F um, } [ I, + I ] enjoy the socialization of it, {D you know, } /"
+sd,A,getting/VBG to/TO see/VB the/DT same/JJ women/NNS every/DT --/:,getting to see the same women every --
+b,B,Right/UH ./.,Right. /
++,A,"--/: morning/NN ,/,","-- morning, /"
+sd,A,"but/CC um/UH ,/, there/EX are/VBP some/DT parts/NNS during/IN that/DT exercise/NN that/IN I/PRP think/VBP ,/, I/PRP can/MD not/RB do/VB another/DT --/:","{C but } {F um, } there are some parts during that exercise that I think, I cannot do <laughter> another --"
+b,B,Oh/UH ./.,Oh. /
++,A,--/: second/NN of/IN this/DT ./.,-- second of this. /
+aa,B,"I/PRP know/VBP it/PRP ,/, it/PRP ,/, it/PRP ,/, some/DT of/IN it/PRP is/VBZ so/RB tough/JJ --/:","I know [ [ [ it, + it, ] + it, ] + some of it ] is so tough -- /"
+aa,A,It/PRP is/VBZ ./.,It is. /
+sv,B,"--/: and/CC ,/, uh/UH ,/, especially/RB when/WRB somebody/NN 's/BES ,/, uh/UH ,/, planning/VBG lunch/NN for/IN you/PRP and/CC they/PRP know/VBP what/WP ,/, what/WP 's/BES good/JJ for/IN you/PRP ,/,","-- {C and, } {F uh, } especially when somebody's, {F uh, } planning lunch for you and they know [ what, + what's ] good for you, /"
+sv,B,"I/PRP think/VBP when/WRB we/PRP do/VBP it/PRP ourselves/PRP ,/,","I think when we do it ourselves, /"
+sv,B,we/PRP take/VBP the/DT easy/JJ way/NN sometimes/RB ./.,we take the easy way sometimes. /
+aa,A,"That/DT 's/BES true/JJ ,/,","That's true, /"
+aa,A,that/DT 's/BES true/JJ ./.,that's true. /
+%,B,So/UH ./.,{C So. } -/
+%,A,Well/UH ./.,{D Well. } /
+%,B,So/UH anyway/RB --/:,{D So } anyway -- -/
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/, well/UH ./.","Okay, {D well. } /"
+fc,B,--/: thank/VB you/PRP for/IN calling/VBG ./.,-- thank you for calling. /
+fc,A,"Yes/UH ,/,","Yes, /"
+fc,A,thank/VB you/PRP for/IN participating/VBG ./.,thank you for participating. /
+fc,B,All/RB right/JJ ./.,All right. /
+fc,A,Thank/VB you/PRP ./.,Thank you. /
+fc,A,Bye/UH ./.,Bye. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

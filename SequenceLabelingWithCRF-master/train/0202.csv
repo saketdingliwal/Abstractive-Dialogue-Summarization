@@ -1,0 +1,305 @@
+act_tag,speaker,pos,text
+fp,A,"Hi/UH ,/,","Hi, /"
+fp,A,how/WRB are/VBP you/PRP today/NN ?/.,how are you today? /
+fp,B,I/PRP 'm/VBP great/JJ ./.,I'm great <laughter>. /
+fp,A,Good/UH ./.,Good. /
+sd,A,"Well/UH as/IN a/DT matter/NN of/IN fact/NN I/PRP 'm/VBP ,/, before/IN we/PRP started/VBD this/DT conversation/NN I/PRP was/VBD working/VBG on/IN my/PRP$ P/NN C/NN at/IN home/NN ./.","{D Well } as a matter of fact [ I'm, + before we started this conversation I was ] working on my P C at home. /"
+b,B,Yeah/UH ./.,Yeah. /
+qy,A,Do/VBP you/PRP have/VB one/CD ?/.,Do you have one? /
+nn,B,"No/UH ,/,","No, /"
+sd,B,I/PRP do/VBP n't/RB have/VB one/CD at/IN home/NN ./.,I don't have one at home. /
+sd,B,"I/PRP work/VBP with/IN one/CD on/IN ,/, at/IN work/NN --/:","I work with one [ on, + at ] work --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: continually/RB ,/, you/PRP know/VBP ,/,","-- continually, {D you know, } /"
+sd,B,but/CC I/PRP do/VBP not/RB have/VB one/CD of/IN my/PRP$ own/JJ at/IN home/NN ./.,{C but } I do not have one of my own at home. /
+%,A,"Do/VBP you/PRP have/VB ,/,","Do you have, -/"
+qo,B,"What/WP do/VBP you/PRP have/VB ,/, at/IN home/NN ?/.","What do you have, at home? /"
+%,A,"We/PRP have/VBP an/DT ,/, um/UH ,/,","We have an, {F um, } - /"
+sd,A,"actually/RB it/PRP 's/BES a/DT T/NNP I/NNP computer/NN ,/,","{D actually } it's a T I computer, /"
+sd,A,but/CC it/PRP is/VBZ the/DT I/NNP B/NNP M/NNP --/:,{C but } it is the I B M --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: um/UH ,/, clone/NN ./.","-- {F um, } clone. /"
+sd,A,It/PRP 's/BES not/RB the/DT T/NNP I/NNP P/NN C/NN --/:,It's not the T I P C --
+b,B,Right/UH ./.,Right. /
++,A,--/: from/IN back/RB when/WRB ./.,-- from back when. /
+bf,B,From/IN the/DT oldies/NNS but/CC the/DT goodies/NNS ./.,From the oldies but the goodies. /
+aa,A,Right/UH ./.,Right. /
+sd,B,"It/PRP 's/BES probably/RB pretty/RB close/RB to/IN what/WP I/PRP have/VBP ,/, because/IN I/PRP have/VBP the/DT same/JJ kind/NN of/IN thing/NN at/IN work/NN ./.","It's probably pretty close to what I have, because I have the same kind of thing at work. /"
+sd,B,"I/PRP have/VBP a/DT three/CD eighty-six/CD S/NNP X/NNP which/WDT is/VBZ T/NNP I/NNP computer/NN ,/,","I have a three eighty-six S X which is T I computer, /"
+sd,B,"but/CC everything/NN in/IN ,/, is/VBZ in/IN I/NNP B/NNP M/NNP mode/NN ./.","{C but } everything [ in, + is in ] I B M mode. /"
+%,B,So/RB ./.,{C So. } -/
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,that/DT 's/BES what/WP we/PRP have/VBP ./. Um/UH ./.,that's what we have. {F Um. } /
+qy,B,Do/VBP you/PRP use/VB it/PRP a/DT lot/NN at/IN home/NN ?/.,Do you use it a lot at home? /
+na,A,"Well/UH ,/, I/PRP really/RB do/VBP ./.","{D Well, } I really do. /"
+sd,A,"I/PRP ,/, um/UH ,/, am/VBP an/DT accountant/NN","I, {F um, } am an accountant /"
+sd,A,"and/CC ,/,","[ {C and, } +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,but/CC I/PRP work/VBP at/IN home/NN ./.,{C but } ] I work at home. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy^d,B,So/RB you/PRP 're/VBP on/IN it/PRP a/DT lot/NN ./.,{C So } you're on it a lot. /
+arp_nd,A,So/RB I/PRP use/VBP it/PRP for/IN that/DT quite/RB often/RB ./.,{C So } I use it for that quite often. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"We/PRP have/VBP ,/, you/PRP know/VBP ,/, used/VBN some/DT of/IN it/PRP for/IN some/DT personal/JJ things/NNS ./.","We have, {D you know, } used some of it for some personal things. /"
+sd,A,We/PRP keep/VBP track/NN of/IN personal/JJ budgets/NNS and/CC things/NNS like/IN that/DT on/IN it/PRP ./.,We keep track of personal budgets and things like that on it. /
+%,A,"I/PRP ,/,","I, - /"
+sd,A,"since/IN it/PRP 's/BES tax/NN season/NN ,/, I/PRP 'm/VBP doing/VBG a/DT lot/NN of/IN taxes/NNS ,/,","since it's tax season, I'm doing a lot of taxes, /"
+sd,A,"so/RB I/PRP do/VBP a/DT lot/NN of/IN ,/, um/UH ,/, a/DT lot/NN of/IN that/DT work/NN on/IN it/PRP as/RB well/RB ./.","{C so } I do [ a lot of, + {F um, } a lot of ] that work on it as well. /"
+sd,B,I/PRP was/VBD amazed/JJ when/WRB I/PRP took/VBD our/PRP$ taxes/NNS to/IN our/PRP$ tax/NN person/NN,I was amazed when I took our taxes to our tax person /
+sd,B,and/CC she/PRP works/VBZ out/IN of/IN her/PRP$ home/NN also/RB ./.,{C and } she works out of her home also. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC the/DT ,/, uh/UH ,/, software/NN that/WDT does/VBZ the/DT taxes/NNS is/VBZ just/RB incredible/JJ ./.","{C And } the, {F uh, } software that does the taxes is just incredible. /"
+aa,A,Oh/UH it/PRP is/VBZ ./.,{F Oh } it is. /
+%,B,"You/PRP know/VBP ,/, I/PRP mean/VBP ,/, she/PRP just/RB ,/, you/PRP know/VBP ,/,","{D You know, } {E I mean, } she just, {D you know, } - /"
+sd,B,"I/PRP expected/VBD to/TO go/VB and/CC ,/, you/PRP know/VBP ,/, drop/VB the/DT stuff/NN off/RP and/CC go/VB back/RB two/CD weeks/NNS later/RB ./.","I expected to go and, {D you know, } drop the stuff off and go back two weeks later. /"
+sd,B,"And/CC ,/, you/PRP know/VBP ,/, she/PRP had/VBD it/PRP done/VBN and/CC out/RP in/IN twenty/CD minutes/NNS on/IN her/PRP$ little/JJ P/NN C/NN ./.","{C And, } {D you know, } she had it done and out in twenty minutes on her little P C. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,you/PRP can/MD ./.,you can. /
+sd,B,It/PRP was/VBD great/JJ ./.,It was great. /
+aa,A,"Yes/UH ,/,","Yes, /"
+sd,A,"you/PRP can/MD ,/,","you can, /"
+aa,A,that/DT 's/BES right/JJ ./.,that's right. /
+ba,B,That/DT 's/BES wonderful/JJ ./.,That's wonderful. /
+sd,B,"I/PRP have/VBP often/RB thought/VBN that/IN ,/, that/IN having/VBG one/CD at/IN home/NN would/MD be/VB neat/JJ ./.","I have often thought [ that, + that ] having one at home would be neat. /"
+sd,B,I/PRP just/RB do/VBP n't/RB know/VB if/IN we/PRP would/MD really/RB use/VB it/PRP that/RB much/JJ ./. You/PRP know/VBP ./.,I just don't know if we would really use it that much. {D You know. } /
+%,A,"We/PRP really/RB ,/,","We really, - /"
+sd,A,"we/PRP deci-/XX ,/, we/PRP did/VBD n't/RB decide/VB to/TO get/VB one/CD until/IN I/PRP started/VBD working/VBG at/IN home/NN ./.","[ we deci-, + we didn't decide ] to get one until I started working at home. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Then/RB ,/, you/PRP know/VBP ,/, then/RB ,/, we/PRP thought/VBD ,/, well/UH we/PRP can/MD use/VB it/PRP for/IN ,/, you/PRP know/VBP ,/, some/DT personal/JJ things/NNS ./.","[ Then, + {D you know, } then, ] we thought, {D well } we can use it for, {D you know, } some personal things. /"
+%,A,"We/PRP di-/XX ,/,","We di-, - /"
+sd,A,"for/IN us/PRP it/PRP really/RB took/VBD ,/, you/PRP know/VBP ,/, a/DT business/NN application/NN --/:","for us it really took, {D you know, } a business application --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: to/TO justify/VB the/DT expense/NN of/IN it/PRP ./.,-- to justify the expense of it. /
+aa,B,"Oh/UH ,/, definitely/UH ,/,","{F Oh, } definitely, /"
+aa,B,definitely/UH ./.,definitely. /
+sd,B,"I/PRP know/VBP my/PRP$ stepfather/NN bought/VBD my/PRP$ mother/NN a/DT little/JJ personal/JJ computer/NN ,/, oh/UH ,/, I/PRP guess/VBP ,/, probably/RB three/CD years/NNS ago/RB for/IN Christmas/NNP ,/,","I know my stepfather bought my mother a little personal computer, {F oh, } I guess, probably three years ago for Christmas, /"
+sd,B,"and/CC ,/, you/PRP know/VBP ,/, it/PRP 's/HVS got/VBN some/DT stuff/NN on/IN it/PRP ./.","{C and, } {D you know, } it's got some stuff on it. /"
+sd,B,"It/PRP 's/HVS got/VBN a/DT nice/JJ little/JJ word/NN processing/NN software/NN on/IN it/PRP ,/, you/PRP know/VBP ,/, and/CC some/DT budgeting/NN type/NN things/NNS and/CC stuff/NN ./.","It's got a nice little word processing software on it, {D you know, } and some budgeting type things and stuff. /"
+sd,B,And/CC I/PRP do/VBP n't/RB think/VB she/PRP 's/HVS ever/RB touched/VBN it/PRP --/:,{C And } I don't think she's ever touched it --
+b,A,Really/UH ./.,Really. /
++,B,--/: you/PRP know/VBP ./.,-- {D you know. } /
+sv,B,"It/PRP just/RB ,/, it/PRP just/RB seems/VBZ like/IN a/DT lot/NN of/IN trouble/NN for/IN something/NN at/IN home/NN ./.","[ It just, + it just ] seems like a lot of trouble for something at home. /"
+sd,B,"You/PRP know/VBP ,/, she/PRP always/RB seems/VBZ to/TO have/VB better/JJR things/NNS to/TO do/VB than/IN to/TO try/VB to/TO sit/VB down/RB and/CC figure/VB out/RP how/WRB to/TO use/VB her/PRP$ computer/NN you/PRP know/VBP ./.","{D You know, } she always seems to have better things to do than to try to sit down and figure out how to use her computer <laughter> {D you know. } /"
+%,B,So/RB ./.,{C So. } -/
+aa,A,Right/UH ./.,Right. /
+sv,A,She/PRP could/MD just/RB as/RB easily/RB do/VB those/DT things/NNS by/IN hand/NN ./.,She could just as easily do those things by hand. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,just/RB as/IN quickly/RB ./.,just as quickly. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Now/UH I/PRP know/VBP my/PRP$ boss/NN has/VBZ bought/VBN the/DT software/NN ,/, um/UH ,/, that/WDT he/PRP can/MD ,/, that/WDT his/PRP$ checkbook/NN is/VBZ on/IN ,/, on/IN --/:","Now I know my boss has bought the software, {F um, } [ that he can, + that his ] checkbook is [ [ on, + on ] + --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: on/IN a/DT disk/NN ,/,","-- on ] a disk, /"
+sd,B,"and/CC he/PRP goes/VBZ in/RB and/CC prin/VBZ ,/, and/CC types/VBZ his/PRP$ checks/NNS on/IN the/DT screen/NN and/CC then/RB hits/VBZ print/NN ,/,","{C and } he goes in [ and prin-, + and types ] his checks on the screen and then hits print, /"
+sd,B,"and/CC they/PRP print/VBP out/RP on/IN the/DT checks/NNS ,/,","{C and } they print out on the checks, /"
+sd,B,and/CC he/PRP 's/HVS ordered/VBN envelopes/NNS with/IN the/DT windows/NNS in/IN the/DT right/JJ places/NNS --/:,{C and } he's ordered envelopes with the windows in the right places --
+ba,A,Oh/UH my/PRP$ gosh/UH ./.,{F Oh } my gosh. /
++,B,"--/: you/PRP know/VBP ,/,","-- {D you know, } /"
+sd,B,"and/CC he/PRP just/RB whips/VBZ ,/, out/RP ,/, you/PRP know/VBP ,/,","{C and } he just whips, out, {D you know, } - /"
+sd,B,"I/PRP saw/VBD him/PRP yesterday/NN morning/NN over/IN there/RB ,/,","I saw him yesterday morning over there, /"
+sd,B,"and/CC ,/, and/CC he/PRP paid/VBD his/PRP$ monthly/JJ bills/NNS ,/,","[ {C and, } + {C and } ] he paid his monthly bills, /"
+sd,B,"and/CC he/PRP just/RB ,/, you/PRP know/VBP ,/, wrote/VBD all/PDT the/DT checks/NNS on/IN the/DT screen/NN and/CC hit/VBD print/NN","{C and } he just, {D you know, } wrote all the checks on the screen and hit print /"
+sd,B,"and/CC it/PRP printed/VBD out/RP like/UH ten/CD checks/NNS ,/,","{C and } it printed out {D like } ten checks, /"
+%,B,"and/CC he/PRP just/RB ,/, you/PRP know/VBP ,/,","{C and } he just, {D you know, } - /"
+sd,B,"they/PRP 're/VBP perforated/JJ ,/,","they're perforated, /"
+sd,B,and/CC he/PRP just/RB ripped/VBD them/PRP off/RP ./.,{C and } he just ripped them off. /
+sd,B,They/PRP go/VBP through/IN just/RB a/DT continuous/JJ thing/NN on/IN the/DT printer/NN --/:,They go through just a continuous thing on the printer -- /
+b,A,Right/UH ./.,Right. /
+sd,B,--/: and/CC he/PRP ripped/VBD them/PRP off/RP and/CC stuck/VBD them/PRP in/IN the/DT envelopes/NNS,-- {C and } he ripped them off and stuck them in the envelopes /
+sd,B,and/CC there/RB they/PRP went/VBD ./.,{C and } there they went. /
+sd,B,"You/PRP know/VBP ,/, and/CC he/PRP said/VBD ,/, you/PRP know/VBP ,/, I/PRP can/MD balance/VB my/PRP$ checkbook/NN in/IN seconds/NNS ,/, you/PRP know/VBP --/:","{D You know, } {C and } he said, {D you know, } I can balance my checkbook in seconds, {D you know } --"
+b,A,Right/UH ./.,Right. /
++,B,"--/: because/IN it/PRP 's/BES all/DT in/IN the/DT computer/NN ,/, you/PRP know/VBP ./.","-- because it's all in the computer, {D you know. } /"
+%,B,So/RB ./.,{C So. } -/
+sv,A,And/CC you/PRP know/VBP there/EX 's/BES not/RB going/VBG to/TO be/VB those/DT adding/NN mistakes/NNS that/WDT we/PRP all/DT make/VBP ./.,{C And } {D you know } there's not going to be those adding mistakes that we all make. /
+aa,B,That/DT 's/BES exactly/RB why/WRB ./.,That's exactly why. /
+sd,B,"He/PRP said/VBD ,/, you/PRP know/VBP ,/, he/PRP said/VBD ,/, used/VBD to/TO be/VB I/PRP always/RB sat/VBD looking/VBG for/IN those/DT ,/, you/PRP know/VBP ./.","[ He said, + {D you know, } he said, ] used to be I always sat looking for those, {D you know. } /"
+sd,B,He/PRP said/VBD this/DT way/NN there/EX is/VBZ n't/RB any/DT ./.,He said this way there isn't any. /
+^q,B,"You/PRP know/VBP ,/, it/PRP does/VBZ it/PRP for/IN you/PRP ./.","{D You know, } it does it for you. /"
+%,B,"So/RB ./. This/DT ,/, you/PRP know/VBP ,/,","{C So. } This, {D you know, } - /"
+sv,B,"there/EX are/VBP some/DT definitely/RB ,/, some/DT ,/, some/DT advantages/NNS to/IN it/PRP ./.","there are [ some + definitely, [ some, + some ] ] advantages to it. /"
+sv,B,"It/PRP 's/BES just/RB a/DT matter/NN of/IN ,/, like/IN you/PRP say/VBP ,/, are/VBP the/DT advantages/NNS ,/, does/VBZ it/PRP justify/VB the/DT cost/NN ,/, if/IN you/PRP 're/VBP using/VBG it/PRP strictly/RB for/IN personal/JJ business/NN ./.","It's just a matter of, like you say, [ are the advantages, + ] does it justify the cost, if you're using it strictly for personal business. /"
+%,B,So/RB ./.,{C So. } -/
+aa,A,Right/UH ./.,Right <Child>. /
+sv,A,"I/PRP ,/, I/PRP think/VBP in/IN most/JJS cases/NNS I/PRP 'd/MD have/VB to/TO say/VB no/UH ./.","[ I, + I ] think in most cases I'd have to say no. /"
+sv,A,Not/RB unless/IN somebody/NN really/RB enjoys/VBZ it/PRP ./.,Not unless somebody really enjoys it.
+b,B,Right/UH ./.,Right. /
++,A,Or/CC perhaps/RB is/VBZ using/VBG it/PRP for/IN education/NN ./.,Or perhaps is using it for education. /
+sd,A,"I/PRP have/VBP a/DT four/CD year/NN old/JJ son/NN ,/,","I have a four year old son, /"
+sd,A,and/CC we/PRP have/VBP some/DT education/NN programs/NNS that/WDT he/PRP likes/VBZ ./.,{C and } we have some education programs that he likes. /
+sd,A,A/DT little/JJ Sesame/NNP Street/NNP one/NN --/:,A little Sesame Street one -- /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,"yeah/UH ,/,","yeah, /"
+sd,A,"--/: and/CC we/PRP have/VBP another/DT one/NN that/WDT plays/VBZ music/NN ,/,","-- {C and } we have another one that plays music, /"
+sd,A,and/CC he/PRP really/RB likes/VBZ that/DT one/NN ./.,{C and } he really likes that one. /
+sv,B,As/IN he/PRP grows/VBZ up/RP he/PRP 'll/MD be/VB even/RB more/JJR and/CC more/JJR too/RB ./.,As he grows up he'll be even more and more too. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+ba,B,That/DT 'll/MD be/VB great/JJ ./.,That'll be great. /
+%,A,"And/CC yeah/UH ,/,","{C And } yeah, /"
+%,A,"on/IN ,/,","on, - /"
+sd,A,"now/RB I/PRP think/VBP about/IN it/PRP ,/,","now I think about it, /"
+sv,A,"I/PRP guess/VBP for/IN ,/, for/IN kids/NNS like/IN ,/, as/IN they/PRP get/VBP older/RBR ,/,","I guess [ for, + for ] kids {D like, } as they get older, - /"
+sv,A,especially/RB now/RB --/:,especially now --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: when/WRB they/PRP get/VBP to/IN junior/JJ high/JJ school/NN ,/, high/JJ school/NN ,/, and/CC even/RB college/NN ./.","-- when they get to junior [ high school, + high school, ] and even college. - /"
+sd,A,"I/PRP mean/VBP ,/, my/PRP$ sister/NN went/VBD to/IN college/NN ,/, started/VBD about/RB three/CD years/NNS ago/RB ,/,","{E I mean, } my sister went to college, started about three years ago, <child> /"
+sd,A,"and/CC she/PRP had/VBD to/TO have/VB a/DT ,/, a/DT computer/NN ./.","{C and } she had to have [ a, + a ] computer. /"
+b,B,Really/UH ./.,Really. /
+sd,A,"I/PRP mean/VBP ,/, it/PRP was/VBD like/IN a/DT necessity/NN ./.","{E I mean, } it was like a necessity. /"
+b,B,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+%,B,I/PRP ./.,I. -/
+sd,A,She/PRP could/MD n't/RB imagine/VB going/VBG through/IN college/NN without/IN a/DT computer/NN ./.,She couldn't imagine going through college without a computer. /
+sd,B,Well/UH I/PRP 'm/VBP going/VBG through/IN right/RB now/RB ./.,{D Well } I'm going through right now. /
+sd,B,"I/PRP 'm/VBP ,/, you/PRP know/VBP ,/, going/VBG part/GW time/^RB in/IN the/DT evenings/NNS ,/,","I'm, {D you know, } going part time in the evenings, /"
+%,B,"and/CC ,/, you/PRP know/VBP ,/, I/PRP do/VBP ,/,","{C and, } {D you know, } I do, - /"
+%,B,"yeah/UH ,/,","yeah, /"
+sd,B,everything/NN has/VBZ to/TO be/VB typed/JJ ./.,everything has to be typed. /
+sd,B,"I/PRP mean/VBP ,/, they/PRP require/VBP it/PRP ./.","{E I mean, } they require it. /"
+sd,B,You/PRP have/VBP to/TO type/VB it/PRP --/:,You have to type it --
+b,A,Right/UH ./.,Right. /
++,B,"--/: you/PRP know/VBP ,/,","-- {D you know, } /"
+sd,B,"and/CC ,/, and/CC so/RB I/PRP 'm/VBP up/IN here/RB ,/, you/PRP know/VBP ,/, nights/NNS and/CC weekends/NNS you/PRP know/VBP ,/, working/VBG on/IN the/DT little/JJ p-/XX ,/, on/IN the/DT P/NN C/NN up/IN here/RB ,/, you/PRP know/VBP ,/, typing/VBG stuff/NN ./.","[ {C and, } + {C and so } ] I'm up here, {D you know, } nights and weekends {D you know, } working [ on the little p-, + on the P C ] up here, {D you know, } typing stuff. /"
+sd,B,"So/RB I/PRP can/MD see/VB where/WRB it/PRP would/MD be/VB a/DT great/JJ advantage/NN to/TO have/VB one/CD at/IN home/NN ,/, you/PRP know/VBP ,/, if/IN you/PRP were/VBD going/VBG to/IN school/NN ./.","{C So } I can see where it would be a great advantage to have one at home, {D you know, } if you were going to school. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+qy^d,A,"any/DT more/RBR I/PRP do/VBP n't/RB even/RB know/VB if/IN they/PRP have/VBP ,/, if/IN a/DT college/NN kid/NN would/MD have/VB a/DT typewriter/NN ./.","any more I don't even know [ if they have, + if a college kid would have ] a typewriter <laughter>. /"
+%,B,"Well/UH ,/, you/PRP ,/,","{D Well, } you, - /"
+no,B,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+sv,A,"Probably/RB not/RB even/RB ,/,","Probably not even, /"
+nn,A,no/UH ./.,no. /
+nn,B,"No/UH ,/,","No, /"
+nn,B,"no/UH ,/,","no, /"
+sv,B,and/CC they/PRP probably/RB used/VBD to/TO have/VB it/PRP ./.,{C and } they probably used to have it. /
+sd,B,"I/PRP just/RB finished/VBD a/DT ,/, a/DT major/JJ research/NN paper/NN a/DT couple/NN of/IN weeks/NNS ago/RB ,/,","I just finished [ a, + a ] major research paper a couple of weeks ago, /"
+sd,B,and/CC I/PRP could/MD n't/RB imagine/VB not/RB having/VBG that/DT thing/NN on/IN a/DT disk/NN --/:,{C and } I couldn't imagine not having that thing on a disk --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: where/WRB I/PRP could/MD go/VB back/RB in/IN and/CC move/VB stuff/NN around/RB and/CC change/VB it/PRP ./.,-- where I could go back in and move stuff around and change it. /
+sd,B,"I/PRP ,/, I/PRP do/VBP n't/RB know/VB what/WP they/PRP used/VBD to/TO do/VB before/IN they/PRP ,/,","[ I, + I ] don't know what they used to do <laughter> before they, -/"
+sd,A,"Well/UH ,/, unfortunately/RB in/IN our/PRP$ family/NN ,/, my/PRP$ husband/NN and/CC I/PRP went/VBD through/IN college/NN together/RB","{D Well, } {D unfortunately } in our family, my husband and I went through college together /"
+sd,A,and/CC then/RB he/PRP went/VBD on/RB and/CC got/VBD his/PRP$ Master/NN 's/POS degree/NN while/IN I/PRP was/VBD working/VBG ./.,{C and then } he went on and got his Master's degree while I was working. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC I/PRP 'm/VBP the/DT better/JJR typist/NN ,/,","{C And } I'm the better typist,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"of/IN us/PRP ,/,","of us, /"
+sd,A,"and/CC we/PRP just/RB had/VBD a/DT regular/JJ old/JJ typewriter/NN ,/, not/RB even/RB a/DT correcting/VBG one/NN back/RB then/RB ./.","{C and } we just had a regular old typewriter, not even a correcting one back then. /"
+qy^d,B,Oh/UH --/:,{F Oh } --
+sd,A,"It/PRP was/VBD n't/RB that/RB long/RB ago/RB ,/,","It wasn't that long ago, /"
+sd,A,but/CC --/:,{C but } --
++,B,--/: and/CC you/PRP had/VBD to/TO type/VB all/DT of/IN his/PRP$ papers/NNS ./.,-- {C and } you had to type all of his papers. /
++,A,--/: I/PRP typed/VBD his/PRP$ Master/NN 's/POS papers/NNS and/CC things/NNS on/IN a/DT typewriter/NN ./.,-- I typed his Master's papers and things on a typewriter. /
+ba,B,"Oh/UH gosh/UH ,/,","{F Oh } gosh, /"
+sd,A,"Oh/UH boy/UH ,/, to/TO have/VB a/DT computer/NN back/RB then/RB ./.","{F Oh } boy, to have a computer back then. /"
+sv,B,"Oh/UH ,/, cut/VB your/PRP$ time/NN in/IN half/JJ at/IN least/JJS ./.","{F Oh, } cut your time in half at least. /"
+aa,A,At/IN least/JJS ./.,At least. /
+b^m,B,At/IN least/JJS ./.,At least. /
+%,A,"I/PRP mean/VBP ,/,","{E I mean, } /"
+sv,A,"and/CC then/RB of/IN course/NN you/PRP have/VBP some/DT changes/NNS to/TO make/VB ,/, and/CC do/VB the/DT whole/JJ thing/NN over/RB ./.","{C and then } of course you have some changes to make, and do the whole thing over. /"
+sv,A,"You/PRP take/VBP out/RB a/DT sentence/NN ,/,","You take out a sentence, /"
+sv,A,"on/IN a/DT computer/NN you/PRP take/VBP it/PRP out/RB ,/, bleep/UH ,/, print/VBP it/PRP out/RP ,/, fine/UH ./.","on a computer you take it out, {D bleep, } print it out, fine. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Take/VBP out/RB a/DT sentence/NN on/IN a/DT piece/NN of/IN paper/NN ,/,","Take out a sentence on a piece of paper, -/"
+sv,B,You/PRP do/VBP the/DT whole/JJ thing/NN over/RB ./.,You do the whole thing over. /
+b,A,Right/UH ./.,Right. /
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
+sd,B,"You/PRP know/VBP ,/, I/PRP remember/VBP when/WRB I/PRP was/VBD working/VBG in/IN high/JJ school/NN ,/, you/PRP know/VBP ,/, I/PRP was/VBD working/VBG in/IN an/DT office/NN ,/, right/RB after/IN I/PRP got/VBD out/IN of/IN high/JJ school/NN","{D You know, } I remember when I was working in high school, {D you know, } I was working in an office, right after I got out of high school /"
+sd,B,I/PRP continued/VBD working/VBG there/RB for/IN probably/RB another/DT year/NN ./.,I continued working there for probably another year. /
+sd,B,And/CC we/PRP did/VBD everything/NN on/IN a/DT typewriter/NN --/:,{C And } we did everything on a typewriter --
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,B,--/: everything/NN ./.,-- everything. /
+sv,B,"But/CC it/PRP 's/BES amazing/JJ ,/, you/PRP know/VBP ,/,","{C But } it's amazing, {D you know, } /"
+sv,B,"then/RB ,/, when/WRB ,/, where/WRB ,/, you/PRP know/VBP ,/, someone/NN would/MD have/VB you/PRP type/VB a/DT letter/NN ,/, they/PRP did/VBD it/PRP right/RB ,/, they/PRP did/VBD it/PRP right/RB ./.","then, when, [ where, + ] {D you know, } someone would have you type a letter, [ they did it right, + they did it right. ] /"
+%,B,"I/PRP mean/VBP ,/, they/PRP were/VBD ,/,","{E I mean, } they were, -/"
+sv,A,The/DT first/JJ time/NN ./.,The first time. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,they/PRP sit/VBP there/RB,they sit there /
+sv,B,"and/CC they/PRP go/VBP ,/, is/VBZ this/DT really/RB what/WP I/PRP want/VBP to/TO say/VB ,/,","{C and } they go, is this really what I want to say, /"
+sv,B,and/CC you/PRP typed/VBD it/PRP,{C and } you typed it /
+sv,B,"and/CC that/DT was/VBD it/PRP ,/,","{C and } that was it, /"
+sv,B,"and/CC now/RB ,/, you/PRP know/VBP people/NNS just/RB send/VBP it/PRP back/RB over/RB and/CC over/RB and/CC over/RB and/CC over/RB ./.","{C and } now, {D you know } people just send it back over and over and over and over. /"
+sv,A,"That/DT 's/BES probably/RB one/CD of/IN the/DT problems/NNS and/CC frustrations/NNS that/WDT it/PRP 's/HVS brought/VBN about/IN ,/, because/IN people/NNS do/VBP feel/VB like/IN ,/, Oh/UH well/UH ,/, we/PRP can/MD just/RB change/VB it/PRP ./.","That's probably one of the problems and frustrations that it's brought about, because people do feel like, {F Oh } {D well, } we can just change it. /"
+^q,B,"Well/UH ,/, we/PRP 'll/MD try/VB this/DT out/RP and/CC see/VB what/WP it/PRP looks/VBZ like/IN ./.","{D Well, } we'll try this out and see what it looks like. /"
+b,B,Yeah/UH ./.,Yeah. /
+b^m,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"use/VBP it/PRP as/IN a/DT ,/, just/RB a/DT ,/,","use it as [ a, + just a, ] -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,instead/IN of/IN knowing/VBG what/WP they/PRP want/VBP to/TO say/VB --/:,instead of knowing what they want to say --
+b,A,Right/UH ./.,Right. /
++,B,"--/: before/IN they/PRP eve-/XX ,/, they/PRP just/RB ,/, you/PRP know/VBP ,/, play/VBP with/IN it/PRP ,/, and/CC ,/, which/WDT in/IN a/DT way/NN is/VBZ nice/JJ to/TO be/VB able/JJ to/TO do/VB ,/,","-- before [ they eve-, + they just, ] {D you know, } play with it, [ and, + which ] in a way is nice to be able to do, /"
+sv,B,"but/CC ,/, you/PRP know/VBP ,/, it/PRP ,/, it/PRP gets/VBZ a/DT little/JJ out/IN of/IN hand/NN sometimes/RB ./.","{C but, } {D you know, } [ it, + it ] gets a little out of hand sometimes. /"
+sd,B,"I/PRP 've/VBP seen/VBN it/PRP get/VB out/IN of/IN hand/NN up/IN here/RB ,/, you/PRP know/VBP --/:","I've seen it get out of hand up here, {D you know } --"
+b,A,Oh/UH yeah/UH ./.,{F Oh } yeah. /
++,B,"--/: where/WRB we/PRP 've/VBP got/VBN a/DT secretary/NN that/WDT sits/VBZ over/IN here/RB that/WDT 's/BES keeping/VBG metrics/NNS right/RB now/RB ,/, and/CC keeping/VBG up/RP ,/, you/PRP know/VBP ,/, of/IN all/PDT the/DT letters/NNS I/PRP type/VBP ,/, how/WRB many/JJ cha-/XX ,/, how/WRB many/JJ of/IN them/PRP do/VBP I/PRP make/VBP changes/NNS on/IN ./. And/CC on/IN each/DT letter/NN ,/, what/WDT types/NNS of/IN changes/NNS ./.","-- where we've got a secretary that sits over here that's keeping metrics right now, and keeping up, {D you know, } of all the letters I type, [ how many cha-, + how many ] of them do I make changes on. And on each letter, what types of changes. /"
+qh,B,Are/VBP they/PRP typos/NNS ?/.,Are they typos? /
+qh,B,Are/VBP they/PRP because/IN I/PRP could/MD n't/RB read/VB it/PRP,Are they because I couldn't read it /
+qh,B,"or/CC people/NNS just/RB change/VBP a/DT ,/, like/UH ,/, one/CD word/NN because/IN they/PRP think/VBP it/PRP sounds/VBZ better/RBR ,/, or/CC whatever/WP ./.","{C or } people just change [ a, + {D like, } one ] word because they think it sounds better, or whatever. /"
+sd,B,"And/CC ,/, you/PRP know/VBP ,/, she/PRP 's/BES also/RB keeping/VBG a/DT percentage/NN ,/, you/PRP know/VBP ,/, what/WP percentage/NN of/IN letters/NNS am/VBP I/PRP retyping/VBG for/IN whatever/WDT reason/NN ./.","{C And, } {D you know, } she's also keeping [ a percentage, + {D you know, } what percentage ] of letters am I retyping for whatever reason. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC there/EX 's/BES like/IN one/CD week/NN ,/, she/PRP did/VBD retypes/NNS on/IN ninety/CD percent/NN of/IN what/WP she/PRP typed/VBD --/:","{C And } there's {D like } one week, she did retypes on ninety percent of what she typed --"
+ba,A,I/PRP believe/VBP it/PRP ./.,I believe it. /
++,B,"--/: you/PRP know/VBP ,/,","-- {D you know, } /"
+sv,B,"and/CC it/PRP 's/BES like/IN ,/, you/PRP know/VBP ,/, it/PRP 's/BES ridiculous/JJ","{C and } [ it's like, + {D you know, } it's ] ridiculous /"
+sd,B,"and/CC that/DT was/VBD ,/, that/DT was/VBD the/DT high/JJ week/NN ,/,","{C and } [ that was, + that was ] the high week, /"
+sv,B,but/CC it/PRP 's/BES running/VBG about/RB seventy/CD --/:,{C but } it's running about seventy --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: which/WDT is/VBZ still/RB ridiculous/JJ to/TO have/VB to/TO make/VB changes/NNS to/IN seventy/CD percent/NN of/IN everything/NN that/WDT she/PRP types/VBZ ./.,-- which is still ridiculous to have to make changes to seventy percent of everything that she types. /
+sv,A,"Well/UH ,/, it/PRP 's/BES good/JJ that/IN she/PRP does/VBZ that/DT ,/, I/PRP mean/VBP ,/, bring/VB it/PRP to/IN people/NNS 's/POS attention/NN ./.","{D Well, } it's good that she does that, {E I mean, } bring it to people's attention. /"
+aa,B,"Well/UH ,/, that/DT 's/BES exactly/RB right/JJ ./.","{D Well, } that's exactly right. /"
+sd,B,"You/PRP know/VBP ,/, she/PRP keeps/VBZ ,/, you/PRP know/VBP keeps/VBZ several/JJ weeks/NNS '/POS worth/NN of/IN data/NNS and/CC then/RB in/IN addition/NN is/VBZ keeping/VBG copies/NNS of/IN all/PDT the/DT changes/NNS to/TO show/VB ,/, you/PRP know/VBP ,/, look/VB ,/, this/DT did/VBD n't/RB really/RB need/VB to/TO be/VB changed/VBN ./.","{D You know, } she [ keeps, + {D you know } keeps ] several weeks' worth of data and then in addition is keeping copies of all the changes to show, {D you know, } look, this didn't really need to be changed. /"
+^q,B,"You/PRP know/VBP ,/, this/DT is/VBZ ridiculous/JJ and/CC you/PRP know/VBP ,/, changing/VBG ,/, add/VB this/DT time/NN to/IN now/RB ./.","{D You know, } this is ridiculous and {D you know, } changing, add this time to now. /"
+x,A,./.,<Laughter>.
+sd,B,"You/PRP know/VBP ,/, I/PRP mean/VBP ,/, that/DT 's/BES the/DT kind/NN of/IN things/NNS ,/, you/PRP know/VBP ,/, that/WDT she/PRP 's/BES keeping/VBG and/CC showing/VBG ,/, that/IN ,/, this/DT was/VBD a/DT big/JJ waste/NN of/IN time/NN ,/, it/PRP was/VBD a/DT waste/NN of/IN paper/NN ,/, it/PRP was/VBD a/DT waste/NN ,/, you/PRP know/VBP --/:","{D You know, } {E I mean, } that's the kind of things, {D you know, } that she's keeping and showing, that, this was a big waste of time, it was a waste of paper, it was a waste, {D you know } --"
+b,A,"Right/UH ,/,","Right, /"
++,B,--/: to/TO change/VB something/NN like/IN that/DT ./.,-- to change something like that. /
+sv,B,"So/RB ./. Anyway/RB ,/, maybe/RB ,/, you/PRP know/VBP ,/, maybe/RB it/PRP 'll/MD ,/, it/PRP 'll/MD help/VB in/IN some/DT way/NN ,/,","{D So. } Anyway, [ maybe, + {D you know, } maybe ] [ it'll, + it'll ] help in some way, /"
+h,B,but/CC I/PRP do/VBP n't/RB know/VB ./.,{C but } I don't know. /
+sv,B,"There/EX ,/, there/EX definitely/RB even/RB with/IN the/DT few/JJ disadvantages/NNS like/IN that/DT are/VBP far/RB better/JJR than/IN the/DT alternative/NN ./.","[ There, + there ] definitely even with the few disadvantages like that are far better than the alternative. /"
+%,A,"Oh/UH I/PRP have/VBP to/TO ,/,","{F Oh } I have to, -/"
+sv,B,Without/IN a/DT doubt/NN ./.,Without a doubt. /
+sv,B,Without/IN a/DT doubt/NN ./.,Without a doubt. /
+sd,B,"Well/UH ,/, I/PRP would/MD like/VB to/TO get/VB one/CD at/IN home/NN some/DT day/NN ./.","{D Well, } I would like to get one at home some day. /"
+sd,B,"We/PRP 've/VBP got/VBN a/DT two/CD year/NN old/JJ son/NN ,/,","We've got a two year old son, /"
+sd,B,"and/CC so/RB ,/, you/PRP know/VBP ,/, some/DT day/NN I/PRP would/MD like/VB to/TO get/VB ,/, even/RB just/RB like/IN the/DT video/NN tell/VB ,/, or/CC something/NN like/IN that/DT ,/, you/PRP know/VBP ,/, just/RB to/TO ,/, to/TO be/VB able/JJ to/TO pull/VB in/RP sources/NNS from/IN outside/RB would/MD be/VB wonderful/JJ ./.","{C and so, } {D you know, } some day I would like to get, even just {D like } the video [ tell, + ] or something like that, {D you know, } just [ to, + to ] be able to pull in sources from outside would be wonderful. /"
+%,B,"You/PRP know/VBP so/RB ,/,","{D You know } {C so, } -/"
+sv,A,"Especially/RB when/WRB they/PRP 're/VBP in/IN school/NN ,/, I/PRP think/VBP they/PRP would/MD get/VB a/DT lot/NN out/IN of/IN it/PRP ./.","Especially when they're in school, I think they would get a lot out of it. /"
+aa,B,"Oh/UH ,/, I/PRP do/VBP too/RB ,/,","{F Oh, } I do too, /"
+aa,B,I/PRP do/VBP too/RB ./.,I do too. /
+sv,B,"The/DT on/GW line/^JJ encyclopedia/NN just/RB sounds/VBZ wonderful/JJ ,/,","The on line encyclopedia just sounds wonderful, /"
+sv,B,"you/PRP know/VBP ,/, that/DT sounds/VBZ like/IN such/PDT a/DT great/JJ idea/NN ,/,","{D you know, } that sounds like such a great idea, /"
+sv,B,"you/PRP know/VBP ,/, it/PRP 'd/MD be/VB kind/RB of/RB fun/JJ to/TO be/VB able/JJ to/TO play/VB with/IN it/PRP ./.","{D you know, } it'd be kind of fun to be able to play with it. /"
+sd,B,"So/UH ./. I/PRP know/VBP ,/, my/PRP$ father/NN had/VBD a/DT P/NN C/NN ,/,","{D So. } I know, my father had a P C, /"
+sd,B,and/CC when/WRB we/PRP were/VBD in/IN high/JJ school/NN it/PRP was/VBD always/RB fun/JJ ./.,{C and } when we were in high school it was always fun. /
+sd,B,"We/PRP could/MD ,/, um/UH ,/, link/VB in/RP ,/,","We could, {F um, } link in, /"
+sd,B,and/CC I/PRP do/VBP n't/RB even/RB remember/VB now/RB what/WP it/PRP was/VBD called/VBN ./.,{C and } I don't even remember now what it was called. /
+sd,B,"But/CC you/PRP could/MD link/VB in/RP and/CC talk/VB to/IN other/JJ peo-/NNS ,/, talk/VB to/IN people/NNS all/RB over/IN the/DT country/NN ,/, you/PRP know/VBP ./.","{C But } you could link in and [ talk to other peo-, + talk to people ] all over the country, {D you know. } /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, like/IN ,/, you/PRP have/VBP your/PRP$ own/JJ little/JJ code/NN name/NN ,/, you/PRP know/VBP ,/,","{C And, } {D like, } you have your own little code name, {D you know, } /"
+sd,B,"and/CC you/PRP 'd/MD type/VB in/RB du/UH du/UH du/UH ,/, Hi/UH how/WRB are/VBP you/PRP ,/, du/UH du/UH du/UH ,/,","{C and } you'd type in du du du, Hi how are you, du du du, /"
+sd,B,"and/CC they/PRP 'd/MD type/VB back/RB and/CC everybody/NN ,/,","{C and } they'd type back and everybody, /"
+sd,B,"and/CC you/PRP 'd/MD have/VB five/CD or/CC six/CD or/CC seven/CD people/NNS talking/VBG to/IN each/DT other/JJ at/IN the/DT same/JJ time/NN ,/,","{C and } you'd have five or six or seven people talking to each other at the same time, /"
+sd,B,"and/CC everything/NN everybody/NN said/VBD prints/VBZ out/RP on/IN your/PRP$ screen/NN as/IN they/PRP 're/VBP typing/VBG it/PRP ,/,","{C and } everything everybody said prints out on your screen as they're typing it, /"
+sd,B,"and/CC it/PRP was/VBD just/RB great/JJ fun/NN ,/, you/PRP know/VBP ,/,","{C and } it was just great fun, {D you know, } /"
+sd,B,"It/PRP was/VBD very/RB expensive/JJ ,/, because/IN the/DT whole/JJ time/NN you/PRP were/VBD on/IN there/EX you/PRP were/VBD on/IN long/JJ distance/NN ,/, you/PRP know/VBP ./.","It was very expensive, because the whole time you were on there you were on long distance, {D you know. } /"
+sd,B,It/PRP was/VBD like/IN a/DT --/:,It was like a --
+b,A,Ooh/UH ./.,Ooh. /
++,B,--/: long/JJ distance/NN phone/NN call/NN ./.,-- long distance phone call. /
+sd,B,"So/RB ,/, we/PRP were/VBD each/DT limited/VBN to/IN like/IN twenty/CD minutes/NNS a/DT day/NN ,/, you/PRP know/VBP ,/,","{C So, } we were each limited to {D like } twenty minutes a day, {D you know, } /"
+%,B,so/RB ./.,{C so. } -/
+b,A,"Ooh/UH ,/,","Ooh, /"
+sv,A,that/DT still/RB could/MD add/VB up/RP ./.,that still could add up. /
+aa,B,Oh/UH it/PRP added/VBD up/RP big/JJ ./.,{F Oh } it added up big. /
+sd,B,"Well/UH ,/, you/PRP know/VBP ,/, we/PRP ,/, my/PRP$ parents/NNS were/VBD divorced/VBN","{D Well, } {D you know, } [ we, + my parents ] were divorced /"
+sd,B,"and/CC so/RB the/DT time/NN we/PRP were/VBD like/UH visiting/VBG our/PRP$ father/NN in/IN the/DT summer/NN time/NN ,/, you/PRP know/VBP ,/,","{C and so } the time we were {D like } visiting our father in the summer time, {D you know, } /"
+sd,B,so/RB he/PRP felt/VBD like/IN he/PRP could/MD splurge/VB and/CC let/VB us/PRP do/VB it/PRP ./.,{C so } he felt like he could splurge and let us do it. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"I/PRP 'm/VBP sure/JJ we/PRP would/MD not/RB have/VB been/VBN allowed/JJ to/TO do/VB that/DT under/IN normal/JJ situations/NNS ,/, you/PRP know/VBP ./.","I'm sure we would not have been allowed to do that under normal situations, {D you know. } /"
+sv,B,"But/CC when/WRB you/PRP 're/VBP doing/VBG the/DT guilty/JJ father/NN complex/NN ,/, you/PRP know/VBP ,/, because/IN he/PRP 's/BES not/RB there/RB to/TO watch/VB us/PRP grow/VB ,/,","{C But } when you're doing the guilty father complex, {D you know, } because he's not there to watch us grow,"
+x,A,./.,<Laughter>.
++,B,you/PRP can/MD kind/RB of/RB get/VB all/DT kinds/NNS of/IN stuff/NN ./.,you can kind of get all kinds of stuff. /
+x,A,./.,</Laughter>.
+ba,B,That/DT 's/BES sad/JJ ./.,<Laughter> That's sad. /
+fc,B,"Well/UH ,/, it/PRP was/VBD nice/JJ to/TO talk/VB to/IN you/PRP ./.","{D Well, } it was nice to talk to you. /"
+fc,A,"Yeah/UH ,/,","Yeah, /"
+fc,A,you/PRP too/RB ./.,you too. /
+%,B,"Have/VB a/DT ,/,","Have a, -/"
+fc,A,Have/VB a/DT nice/JJ day/NN ./.,Have a nice day. /
+fc,B,You/PRP too/RB ./.,You too. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /
+fc,B,Bye/UH ./.,Bye. /

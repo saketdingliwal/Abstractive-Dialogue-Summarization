@@ -1,0 +1,158 @@
+act_tag,speaker,pos,text
+sd,A,"Well/UH ,/, I/PRP 'm/VBP talking/VBG to/IN you/PRP from/IN Dallas/NNP ./.","{D Well, } I'm talking to you from Dallas. /"
+qw,A,What/WDT part/NN of/IN the/DT country/NN are/VBP you/PRP in/RB ?/.,What part of the country are you in? /
+sd,B,"Oh/UH ,/, boy/UH ,/, this/DT is/VBZ going/VBG to/IN be/VB tough/JJ ,/, I/PRP 'm/VBP in/IN Plano/NNP ./.","<Talking> {F Oh, } {D boy, } this is going to be tough, I'm in Plano <laughter>. /"
+ad,A,"Well/UH ,/, we/PRP can/MD ,/, uh/UH ,/, complain/VB together/RB or/CC swear/VB we/PRP can/MD complain/VB together/RB about/IN the/DT humidity/NN ./.","<Laughter> {D Well, } we can, {F uh, } complain together (( or swear )) we can complain together about the humidity <laughter>. /"
+aa,B,Exactly/UH ./.,Exactly. /
+qy^d,B,I/PRP guess/VBP the/DT weather/NN has/VBZ n't/RB been/VBN too/RB different/JJ between/IN us/PRP ./.,I guess the weather hasn't been too different between us. /
+nn,A,"No/UH ,/,","No, /"
+ng,A,"I/PRP do/VBP n't/RB think/VB so/RB ,/,","I don't think so, /"
+ng,A,"I/PRP would/MD n't/RB think/VB ,/,","I wouldn't think, /"
+%,A,yeah/UH ./.,yeah. /
+%,A,"I/PRP ,/,","I, -/"
+%,B,"W/WDT ,/,","W-, - /"
+qw,B,what/WDT part/NN of/IN Dallas/NNP are/VBP you/PRP from/RB ?/.,what part of Dallas are you from? /
+sd,A,Far/RB north/JJ Dallas/NNP ./.,Far north Dallas <laughter>. /
+b^m,B,"Oh/UH ,/, north/JJ Dallas/NNP ./.","{F Oh, } north Dallas. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,about/RB a/DT half/PDT a/DT mile/NN from/IN Plano/NNP ./.,about a half a mile from Plano <laughter>. /
+ba,B,"Well/UH ,/, jeez/UH ./.","{D Well, } jeez. /"
+sd,A,"So/RB we/PRP 're/VBP in/IN the/DT ,/,","{C So } we're in the, -/"
+qy^d,B,Well/UH then/RB you/PRP 've/VBP been/VBN getting/VBG quite/RB a/DT bit/NN of/IN rain/NN also/RB ./.,{D Well } then you've been getting quite a bit of rain also. /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"it/PRP 's/HVS been/VBN very/RB ,/, very/RB rainy/JJ ,/, I/PRP know/VBP ./.","it's been very, very rainy, I know. /"
+%,A,Oh/UH --/:,{F Oh } -- /
+bh,B,How/WRB about/IN that/DT ./.,How about that. /
+qw,B,How/WRB does/VBZ it/PRP compare/VBP to/IN the/DT years/NNS past/NN ?/.,How does it compare to the years past? /
+sd,A,"--/: um/UH ,/, I/PRP do/VBP n't/RB know/VB ,/, I/PRP have/VBP n't/RB lived/VBN here/RB ,/, let/VB 's/PRP see/VB ,/, we/PRP m-/XX ,/, lived/VBD out/IN of/IN state/NN in/IN Wisconsin/NNP","-- {F um, } I don't know, I haven't lived here, {A let's see, } we [ m-, + ] lived out of state in Wisconsin /"
+sd,A,"and/CC we/PRP just/RB c-/XX ,/,","{C and } we just c-, - /"
+sd,A,"we/PRP lived/VBD here/RB ten/CD years/NNS ago/RB ,/,","we lived here ten years ago, /"
+sd,A,"and/CC when/WRB we/PRP first/RB lived/VBD here/RB ,/, we/PRP l-/XX ,/, we/PRP were/VBD in/IN Garland/NNP ,/, East/NNP Richardson/NNP ,/,","{C and } when we first lived here, [ we l-, + ] we were in Garland, East Richardson,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"and/CC ,/, um/UH ,/, does/VBZ n't/RB seem/VB like/IN it/PRP was/VBD quite/RB as/IN humid/JJ ./.","and, {F um, } doesn't seem like it was quite as humid. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"And/CC ,/, I/PRP do/VBP n't/RB know/VB ,/, then/RB we/PRP went/VBD ,/, we/PRP lived/VBD in/IN ,/, uh/UH ,/, Madison/NNP ,/, Wisconsin/NNP for/IN five/CD years/NNS ,/, um/UH ,/, for/IN my/PRP$ husband/NN 's/POS schooling/NN ,/, a-/XX ,/, graduate/NN schooling/NN ,/,","{C And, } I don't know, then [ we went, + ] we lived in, {F uh, } Madison, Wisconsin for five years, {F um, } for my husband's [ schooling, a-, + graduate schooling, ] /"
+%,A,"and/CC it/PRP just/RB ,/,","{C and } it just, - /"
+sd,A,"it/PRP 's/BES a/DT lot/NN cleaner/JJR up/IN there/RB ,/,","it's a lot cleaner up there, /"
+sd,A,"but/CC ,/, um/UH ,/, it/PRP 's/BES a/DT lot/NN colder/JJR too/RB ./.","{C but, } {F um, } it's a lot colder too. /"
+b,B,Huh/UH ./.,Huh. /
+qw,B,"Well/UH ,/, what/WP brought/VBD you/PRP guys/NNS down/IN to/IN Texas/NNP then/RB ?/.","{D Well, } what brought you guys down to Texas then? /"
+sd,A,"Uh/UH ,/, his/PRP$ job/NN ,/, he/PRP came/VBD back/RB to/TO start/VB work/NN again/RB for/IN a/DT different/JJ company/NN ,/,","{F Uh, } his job, he came back to start work again for a different company, /"
+sd,A,"so/RB ,/, said/VBD ,/,","{C so, } said,"
+bh,B,How/WRB about/IN that/DT ./.,How about that. /
++,A,"Here/RB ,/, here/RB 's/BES a/DT g-/XX ,/,","Here, here's a g-, - /"
+^q,A,here/RB we/PRP are/VBP again/RB ./.,here we are again. /
+ba,B,That/DT 's/BES great/JJ ./.,That's great. /
+sd,A,"It/PRP just/RB seems/VBZ a/DT little/RB more/RBR humid/JJ than/IN it/PRP ,/,","It just seems a little more humid than it, - /"
+sd,A,"I/PRP do/VBP n't/RB ever/RB remember/VB ,/, of/IN course/NN ,/, you/PRP know/VBP ,/, you/PRP only/RB remember/VBP the/DT good/JJ stuff/NN ,/,","I don't ever remember, of course, {D you know, } you only remember the good stuff, /"
+sd,A,"but/CC ,/, um/UH ,/, I/PRP just/RB do/VBP n't/RB remember/VB the/DT humidity/NN ./.","{C but, } {F um, } I just don't remember the humidity. /"
+b,B,Right/UH ./.,Right. /
+sv,B,Well/UH --/:,{D Well } --
+sd,A,"This/DT much/JJ rain/NN ,/, and/CC this/DT much/JJ humidity/NN ./.","This much rain, and this much humidity. /"
++,B,"--/: definitely/UH ,/, I/PRP 'm/VBP sure/JJ ,/, the/DT winters/NNS are/VBP more/RBR mild/JJ here/RB ./.","-- {D definitely, } I'm sure, the winters are more mild here. /"
+aa,A,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,A,they/PRP are/VBP ./.,they are. /
+sd,A,"Actually/UH ,/, though/RB ,/, it/PRP was/VBD a/DT lot/NN rainier/JJR here/RB in/IN the/DT winter/NN ,/, uh/UH ,/, we/PRP came/VBD back/RB last/JJ August/NNP ./.","{D Actually, } though, it was a lot rainier here in the winter, {F uh, } we came back last August. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"It/PRP 's/BES just/RB a/DT lot/NN rainier/JJR than/IN I/PRP remember/VBP it/PRP ,/, all/DT th-/IN ,/, through/IN the/DT seasons/NNS ,/, you/PRP know/VBP ./.","It's just a lot rainier than I remember it, all [ th-, + ] through the seasons, {D you know. } /"
+b,B,Sure/UH ./.,Sure. /
+%,A,"Um/UH ,/,","{F Um, } /"
+sd,B,"It/PRP seems/VBZ that/RB progressive/JJ ,/,","It seems that progressive, - /"
+sd,B,"I/PRP 've/VBP ,/, been/VBN down/RB here/RB five/CD years/NNS ,/, just/RB over/IN five/CD years/NNS now/RB ,/, that/IN ,/, every/DT spring/NN and/CC summer/NN seems/VBZ to/TO get/VB more/JJR and/CC more/RBR rainy/JJ ./.","I've, been down here five years, just over five years now, that, every spring and summer seems to get more and more rainy. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,and/CC I/PRP think/VBP it/PRP 's/BES because/IN it/PRP 's/BES just/RB getting/VBG more/RBR crowded/JJ and/CC more/RBR polluted/JJ ./.,{C and } I think it's because it's just getting more crowded and more polluted. /
+sv,A,I/PRP really/RB do/VBP think/VB that/DT 's/BES part/NN of/IN it/PRP ./.,I really do think that's part of it. /
+b,B,Huh/UH ./.,Huh. /
+sd,A,"Um/UH ,/, uh/UH ,/, in/IN ,/, in/IN Wisconsin/NNP and/CC Minnesota/NNP ,/, when/WRB they/PRP get/VBP winters/NNS it/PRP 's/BES ,/, um/UH ,/, th-/XX ,/, the/DT winters/NNS are/VBP bad/JJ ,/, but/CC not/RB what/WP you/PRP hear/VBP about/IN ./.","{F Um, } {F uh, } [ in, + in ] Wisconsin and Minnesota, when they get winters [ it's, + ] {F um, } [ th-, + ] the winters are bad, but not what you hear about. /"
+sv,A,"It/PRP 's/BES just/RB like/IN down/RB here/RB ,/, when/WRB you/PRP hear/VBP ,/, when/WRB people/NNS here/RB think/VBP it/PRP 's/BES a/DT hundred/CD and/CC six/CD ,/, people/NNS up/IN north/RB think/VBP it/PRP 's/BES a/DT hundred/CD and/CC sixty/CD down/RB here/RB ./.","It's just like down here, [ when you hear, + ] when people here think it's a hundred and six, people up north think it's a hundred and sixty down here. /"
+b^m,B,A/DT hundred/CD and/CC sixty/CD ./.,A hundred and sixty. /
+sd,A,"Hundre-/CD ,/,","Hundre-, - /"
+sd,A,I/PRP 'm/VBP making/VBG that/DT up/RP ./.,I'm making that up. /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,right/UH ./.,right. /
+sd,A,"You/PRP know/VBP ,/, when/WRB it/PRP 's/BES only/RB like/IN ninety-five/CD ./.","{D You know, } when it's only {D like } ninety-five. /"
+b,B,Sure/UH ./.,Sure. /
+sv,A,"Um/UH ,/, it/PRP 's/BES just/RB like/IN up/IN there/RB ,/, when/WRB you/PRP hear/VBP it/PRP 's/BES forty/CD below/RB ,/, it/PRP 's/BES probably/RB really/RB only/RB five/CD below/RB ./.","{F Um, } it's just like up there, when you hear it's forty below, it's probably really only five below. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"Um/UH ,/, and/CC it/PRP 's/BES so/RB dry/JJ ,/, that/IN it/PRP 's/BES ,/, it/PRP 's/BES like/IN going/VBG to/IN Ar-/NNP ,/,","{F Um, } {C and } it's so dry, that [ it's, + it's ] like going to Ar-, - /"
+sd,A,"well/UH ,/, probably/RB what/WP y-/XX ,/, Arizona/NNP used/VBD to/TO be/VB like/IN ,/, you/PRP know/VBP ,/,","{D well, } probably what [ y-, + ] Arizona used to be like, {D you know, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"it/PRP 's/BES just/RB dry/JJ and/CC cool/JJ ,/,","it's just dry and cool, /"
+sv,A,"so/RB it/PRP 's/BES not/RB ,/, it/PRP 's/BES not/RB what/WP you/PRP think/VBP it/PRP is/VBZ ./.","{C so } [ it's not, + it's not ] what you think it is. /"
+aa,B,True/UH ./.,True. /
+ar,A,"Um/UH ,/, no/UH ,/,","{F Um, } no, /"
+sd,A,"there/EX have/VBP been/VBN times/NNS ,/, though/RB ,/, when/WRB it/PRP gets/VBZ so/RB frigid/JJ that/DT you/PRP ,/,","there have been times, though, when it gets so frigid that you <laughter>,"
+x,B,,<Laughter>.
++,A,you/PRP ca/MD n't/RB stand/VB it/PRP ./.,you can't stand it. /
+qw,A,Where/WRB did/VBD you/PRP move/VB here/RB from/RB ?/.,Where did you move here from? /
+sd,B,Colorado/NNP ./.,Colorado. /
+%,A,"Well/UH ,/, there/EX ,/,","{D Well, } there, - /"
+sv,A,"you/PRP could/MD talk/VB about/IN that/DT ,/, that/DT 's/BES ,/,","you could talk about [ [ that, + that's, ] +"
+aa,B,"Oh/UH sure/UH ,/, I/PRP ,/, I/PRP 'm/VBP uh/UH ,/,","{F Oh } sure, [ [ I, + I'm {F uh, } ] +"
++,A,"that/DT 's/BES a/DT strange/JJ state/NN for/IN ,/,","that's ] a strange state for, -/"
++,B,"I/PRP 'm/VBP very/RB familiar/JJ ,/,","I'm ] very familiar, - /"
+sd,B,my/PRP$ grandparents/NNS and/CC all/DT my/PRP$ relatives/NNS are/VBP from/IN Wisconsin/NNP ./.,my grandparents and all my relatives are from Wisconsin. /
+bk,A,"Oh/UH ,/, there/EX you/PRP go/VBP ,/, okay/UH ./.","{F Oh, } there you go, okay. /"
+sd,B,"So/RB ,/, I/PRP 'm/VBP ,/, uh/UH ,/, quite/RB familiar/JJ with/IN how/WRB it/PRP is/VBZ up/IN there/RB ,/,","{C So, } I'm, {F uh, } quite familiar with how it is up there, /"
+%,B,"and/CC if/IN you/PRP ,/,","{C and } if you, - /"
+sv,B,"kind/RB of/RB interesting/JJ ,/, uh/UH ,/, the/DT people/NNS down/RB here/RB typically/RB do/VBP n't/RB think/VB it/PRP gets/VBZ above/IN ,/, you/PRP know/VBP ,/, fifty/CD degrees/NNS ./.","kind of interesting, {F uh, } the people down here typically don't think it gets above, {D you know, } fifty degrees <laughter>. /"
+aa,A,This/DT is/VBZ very/RB true/JJ ./.,<Laughter> This is very true. /
+sd,B,"And/CC it/PRP 's/BES always/RB snow/NN ,/, you/PRP know/VBP ,/,","{C And } it's always snow, {D you know, } /"
+%,B,"but/CC ,/, uh/UH ,/,","{C but, } {F uh, } -/"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,"right/UH ,/,","right, /"
+sd,A,"well/UH actually/RB ,/, the/DT summers/NNS up/IN there/RB ,/, we/PRP thought/VBD ,/, were/VBD the/DT most/RBS beautiful/JJ time/NN of/IN the/DT year/NN ./.","{D well } {D actually, } the summers up there, we thought, were the most beautiful time of the year. /"
+aa,B,Oh/UH yes/UH ./.,{F Oh } yes. /
+sd,A,"Um/UH ,/, in/IN terms/NNS of/IN Colorado/NNP ,/, I/PRP know/VBP my/PRP$ husband/NN likes/VBZ to/TO camp/VB and/CC backpack/VB and/CC all/PDT the/DT stuff/NN I/PRP do/VBP n't/RB like/VB ,/, um/UH ,/,","{F Um, } in terms of Colorado, I know my husband likes to camp and backpack and all the stuff I don't like, {F um, } /"
+x,B,,<Laughter>.
+%,A,"but/CC I/PRP 'd/MD ,/,","{C but } I'd, - /"
+sd,A,"used/VBD to/TO go/VB on/IN ,/,","used to go on, - /"
+sd,A,I/PRP worked/VBD for/IN a/DT mortgage/NN company/NN in/IN Wisconsin/NNP,I worked for a mortgage company in Wisconsin /
+sd,A,"and/CC I/PRP did/VBD a/DT lot/NN of/IN business/NN in/IN ,/, uh/UH ,/, um/UH ,/, Colo-/NNP ,/, well/UH ,/, Denver/NNP ,/,","{C and } I did a lot of business in, {F uh, } {F um, } [ Colo-, + ] {D well, } Denver, /"
+sd,A,"and/CC that/DT 's/BES ,/, that/DT 's/BES probably/RB one/CD of/IN the/DT stranger/JJR things/NNS ,/, when/WRB you/PRP see/VBP the/DT air/NN inversions/NNS ,/,","{C and } [ that's, + that's ] probably one of the stranger things, when you see the air inversions,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,and/CC then/RB you/PRP go/VBP into/IN the/DT mountains/NNS,and then you go into the mountains /
+sd,A,and/CC it/PRP 's/BES snowy/JJ,{C and } it's snowy /
+sd,A,"and/CC col-/XX ,/, uh/UH ,/, it/PRP just/RB was/VBD a/DT very/RB mixed/JJ bag/NN in/IN terms/NNS of/IN Colorado/NNP ./.","{C and } [ col-, + ] {F uh, } it just was a very mixed bag in terms of Colorado. /"
+aa,B,Oh/UH sure/UH ./.,{F Oh } sure. /
+sd,B,"My/PRP$ parents/NNS just/RB live/VBP ,/, uh/UH ,/, thirty/CD miles/NNS south/JJ of/IN Denver/NNP","My parents just live, {F uh, } thirty miles south of Denver /"
+sd,B,"and/CC it/PRP can/MD be/VB sunny/JJ and/CC ,/, and/CC no/DT problem/NN in/IN Denver/NNP","{C and } it can be sunny [ and, + and ] no problem in Denver /"
+sd,B,and/CC they/PRP 'll/MD be/VB having/VBG snow/NN ./.,{C and } they'll be having snow <throat_clearing>. /
+bh,A,Is/VBZ n't/RB that/DT strange/JJ ?/.,Isn't that strange? /
+sd,B,"So/RB it/PRP 's/BES pretty/RB amazing/JJ ,/, it/PRP can/MD be/VB that/RB drastic/JJ in/IN just/RB a/DT short/JJ distance/NN ./.","{C So } it's pretty amazing, it can be that drastic in just a short distance <throat_clearing>. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"and/CC then/RB things/NNS like/IN torn-/NNS ,/,","{C and then } things like torn-, - /"
+qy,A,"are/VBP there/RB tornadoes/NNS in/IN Colorado/NNP ,/, yes/UH or/CC n-/UH ,/, I/PRP do/VBP n't/RB ,/,","are there tornadoes in Colorado, yes or n-, I don't, -/"
+na,B,"Uh/UH ,/, it/PRP 's/BES getting/VBG to/TO be/VB more/JJR and/CC more/JJR of/IN a/DT possibility/NN ./.","{F Uh, } it's getting to be more and more of a possibility. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"It/PRP used/VBD to/TO be/VB no/DT problem/NN ,/, just/RB because/IN it/PRP was/VBD such/PDT a/DT ,/, a/DT rugged/JJ terrain/NN and/CC with/IN trees/NNS everywhere/RB ,/,","It used to be no problem, just because it was such [ a, + a ] rugged terrain and with trees everywhere, /"
+sd,B,"but/CC now/RB ,/,","{C but } now,"
+bf,A,"The/DT mountains/NNS ,/,","The mountains, /"
+%,A,yeah/UH ./.,yeah. /
++,B,as/IN they/PRP start/VBP to/TO clear/VB more/JJR things/NNS out/RB ./.,as they start to clear more things out. /
+%,A,"Even/RB ,/, I/PRP mean/VBP ,/,","Even, {E I mean, } - /"
+sd,A,"I/PRP 'm/VBP originally/RB from/IN Pittsburgh/NNP ,/, Pennsylvania/NNP ,/,","I'm originally from Pittsburgh, Pennsylvania, /"
+sd,A,"and/CC I/PRP can/MD tell/VB you/PRP that/IN ,/, um/UH ,/, they/PRP 've/VBP even/RB had/VBN ,/,","{C and } I can tell you that, {F um, } they've even had, - /"
+sd,A,"in/IN eastern/JJ Ohio/NNP and/CC western/JJ Pennsylvania/NNP ,/, they/PRP 've/VBP even/RB had/VBN ,/, I/PRP 'm/VBP going/VBG to/TO say/VB ,/, mini/GW tornadoes/^NNS for/IN lack/NN of/IN a/DT better/JJR word/NN ./.","in eastern Ohio and western Pennsylvania, they've even had, I'm going to say, mini tornadoes for lack of a better word. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, and/CC that/DT 's/BES just/RB a/DT part/NN of/IN the/DT country/NN that/WDT it/PRP 's/BES rolling/JJ hillside/NN ./.","[ {C And, } + {C and } ] that's just a part of the country that it's rolling hillside. /"
+sd,A,"That/DT was/VBD unheard/JJ of/RP ,/, you/PRP know/VBP ,/, twenty/CD years/NNS ago/RB ./.","That was unheard of, {D you know, } twenty years ago. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"Um/UH ,/, so/RB I/PRP do/VBP n't/RB know/VB what/WP 's/BES happening/VBG ,/, if/IN it/PRP 's/BES ,/, you/PRP know/VBP ,/, we/PRP are/VBP ,/, the/DT greenhouse/NN ,/, I/PRP do/VBP n't/RB really/RB know/VB ./.","{F Um, } {C so } I don't know what's happening, if it's, {D you know, } we are, the greenhouse, I don't really know. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,me/PRP neither/RB ./.,me neither. /
+sv,A,"It/PRP 's/BES just/RB ,/, you/PRP know/VBP ./.","It's just, {D you know. }"
+%,B,"But/CC ,/,","{C But, } -/"
++,A,"It/PRP 's/BES definitely/RB not/RB as/IN ,/, um/UH ,/,","It's definitely not as, {F um, } - /"
+sd,A,"I/PRP know/VBP I/PRP associate/VBP the/DT pollution/NN with/IN weather/NN in/IN general/NN ,/,","I know I associate the pollution with weather in general, /"
+sd,A,"so/RB I/PRP guess/VBP one/CD thing/NN we/PRP do/VBP miss/VB ,/, is/VBZ that/DT 's/BES a/DT smaller/JJR town/NN ,/,","{C so } I guess one thing we do miss, is that's a smaller town, /"
+sd,A,"and/CC it/PRP w-/XX ,/, it/PRP was/VBD ,/,","{C and } [ it w-, + it was, ] - /"
+sd,A,"it/PRP just/RB seemed/VBD a/DT little/JJ bit/NN more/RBR pleasant/JJ in/IN terms/NNS of/IN the/DT atmosphere/NN ,/, you/PRP know/VBP ./.","it just seemed a little bit more pleasant in terms of the atmosphere, {D you know. } /"
+aa,B,"Sure/UH ,/,","Sure, /"
+aa,B,sure/UH ./.,sure. /
+fc,B,"Well/UH ,/, it/PRP 's/HVS been/VBN good/JJ talking/NN to/IN you/PRP ./.","{D Well, } it's been good talking to you. /"
+fc,A,You/PRP too/RB ./.,You too. /
+fc,B,Good-bye/UH ./.,Good-bye </talking>. /
+fc,A,Okay/UH ./.,Okay. /
+fc,B,Good-bye/UH ./.,Good-bye. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /

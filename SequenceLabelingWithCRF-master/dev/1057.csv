@@ -1,0 +1,196 @@
+act_tag,speaker,pos,text
+ad,A,Go/VB ahead/RB ./.,Go ahead. /
+sd,B,"Oh/UH ,/, um/UH ,/, uh/UH ,/, I/PRP usually/RB do/VBP n't/RB get/VB to/TO hea/VB ,/, hear/VB any/DT of/IN the/DT current/JJ events/NNS probably/RB until/IN about/RB the/DT ten/CD o'clock/RB news/NN ./.","{F Oh, } {F um, } {F uh, } I usually don't get to [ hea-, + hear ] any of the current events probably until about the ten o'clock news. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"Uh/UH ,/, you/PRP know/VBP ,/, being/VBG ,/, uh/UH ,/,","{F Uh, } {D you know, } being, {F uh, } - /"
+sd,B,"I/PRP mean/VBP ,/, by/IN the/DT time/NN you/PRP get/VBP off/RP work/NN ,/, go/VBP by/RB and/CC pick/VB up/RP the/DT ,/, uh/UH ,/, baby/NN from/IN the/DT baby/NN sitter/NN ,/, it/PRP 's/BES ,/, you/PRP know/VBP ,/, after/IN six/CD","{E I mean, } by the time you get off work, go by and pick up the, {F uh, } baby from the baby sitter, it's, {D you know, } after six /"
+sd,B,"and/CC by/IN the/DT time/NN everything/NN is/VBZ settled/VBN in/RP ,/,","{C and } by the time everything is settled in, /"
+sd,B,it/PRP 's/BES ten/CD o'clock/RB before/IN I/PRP can/MD catch/VB up/RP on/IN anything/NN ./.,it's ten o'clock before I can catch up on anything. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP guess/VBP that/DT 's/BES the/DT way/NN I/PRP am/VBP too/RB ./.,I guess that's the way I am too. /
+sd,A,"I/PRP ,/, sometimes/RB I/PRP hear/VBP some/DT things/NNS on/IN ,/, on/IN the/DT radio/NN ./.","[ I, + sometimes I ] hear some things [ on, + on ] the radio. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,oh/UH yeah/UH ./.,{F oh } yeah. /
+sd,A,I/PRP only/RB get/VBP the/DT newspaper/NN on/IN the/DT weekends/NNS,I only get the newspaper on the weekends /
+%,A,"so/RB ,/,","{C so } <sigh>, -/"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,B,"Oh/UH ,/, I/PRP do/VBP n't/RB even/RB have/VB ,/, ge-/XX ,/, time/NN to/TO read/VB the/DT newspaper/NN except/IN in/IN passing/VBG ,/,","{F Oh, } I don't even have, [ ge-, + ] time to read the newspaper except in passing, -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"you/PRP know/VBP ,/, I/PRP 'll/MD look/VB over/IN my/PRP$ husband/NN 's/POS shoulder/NN and/CC see/VB what/WP 's/BES going/VBG on/RP ./.","{D you know, } I'll look over my husband's shoulder and see what's going on. /"
+sd,A,"I/PRP ,/,","[ I, +"
+%,B,"But/CC ,/, uh/UH ,/,","{C But, } {F uh, } -/"
++,A,I/PRP guess/VBP occasionally/RB I/PRP 'll/MD hear/VB someone/NN at/IN work/NN say/VB something/NN though/RB ./.,I ] guess occasionally I'll hear someone at work say something though. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"We/PRP have/VBP ,/, uh/UH ,/, a/DT news/NN thing/NN on/IN the/DT computer/NN that/WDT ,/, uh/UH ,/, that/WDT I/PRP 'll/MD ,/, I/PRP 'll/MD try/VB to/TO look/VB at/IN every/DT day/NN ./.","We have, {F uh, } a news thing on the computer [ that, + {F uh, } that ] [ I'll, + I'll ] try to look at every day. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, it/PRP ,/, it/PRP 's/BES pretty/RB much/JJ headline/NN news/NN ./.","{C And, } {F uh, } [ it, + it's ] pretty much headline news. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Which/WDT is/VBZ n't/RB ,/, you/PRP know/VBP ,/, pretty/RB much/RB what/WP we/PRP loo/VBP ,/, look/VBP for/IN anyway/RB ./.","Which isn't, {D you know, } pretty much what we [ loo-, + look ] for anyway. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"But/CC ,/, uh/UH ./. I/PRP ,/, do/VBP you/PRP think/VB that/IN the/DT quality/NN of/IN the/DT ,/, uh/UH ,/, the/DT ,/, you/PRP know/VBP ,/, the/DT news/NN events/NNS that/WDT you/PRP get/VBP are/VBP ,/,","{C But, } {F uh. } [ I, + ] do you think that the quality of [ [ the, + {F uh, } the, ] + {D you know, } the ] news events that you get are, - /"
+qo,B,what/WP do/VBP you/PRP think/VB about/IN it/PRP ?/.,what do you think about it? /
+sv,A,"Well/UH I/PRP ,/, I/PRP guess/VBP it/PRP 's/BES pretty/RB good/JJ ./.","{D Well } [ I, + I ] guess it's pretty good. /"
+%,A,"And/CC ,/, and/CC like/IN the/DT Dallas/NNP area/NN ,/,","[ {C And, } + {C and } ] like the Dallas area, -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"and/CC I/PRP ,/, I/PRP guess/VBP when/WRB you/PRP 're/VBP in/IN a/DT big/JJ metropolitan/JJ area/NN like/IN this/DT ,/,","{C and } [ I, + I ] guess when you're in a big metropolitan area like this, /"
+sv,A,"there/EX 's/BES ,/, I/PRP guess/VBP ,/, a/DT lot/NN of/IN pressure/NN in/IN that/DT business/NN to/TO ,/,","there's, I guess, a lot of pressure in that business to,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,borderline/JJ at/IN that/DT ./.,borderline at that. /
+sv,B,"Well/UH ,/, you/PRP know/VBP ,/, there/EX 's/BES a/DT lot/NN of/IN competition/NN in/IN the/DT media/NN ./.","{D Well, } {D you know, } there's a lot of competition in the media. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,And/CC sometimes/RB I/PRP think/VBP it/PRP too/RB much/RB trying/VBG to/TO figure/VB out/RP who/WP 's/BES going/VBG to/TO get/VB the/DT best/JJS headlines/NNS ./. And/CC that/IN they/PRP 'll/MD run/VB a/DT topic/NN into/IN the/DT ground/NN ./.,{C And } sometimes I think it too much trying to figure out who's going to get the best headlines. And that they'll run a topic into the ground. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"And/CC ,/, uh/UH ./. You/PRP know/VBP ,/, they/PRP try/VBP to/TO play/VB public/NN 's/POS opinion/NN ./. Which/WDT I/PRP think/VBP is/VBZ awful/JJ ,/, because/IN it/PRP usually/RB works/VBZ ./.","{C And, } {F uh. } {D You know, } they try to play public's opinion. Which I think is awful, because it usually works. /"
+aa,A,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,A,true/UH ./.,true. /
+sv,A,"I/PRP 'll/MD bet/VB that/DT was/VBD the/DT case/NN of/IN the/DT ,/, the/DT war/NN in/IN the/DT Middle/NNP East/NNP ./.","I'll bet that was the case of [ the, + the ] war in the Middle East. /"
+aa,B,"Yes/UH ,/,","Yes, /"
+aa,B,uh-huh/UH ./.,uh-huh. /
+%,B,"That/IN ,/,","That, - /"
+sv,B,"uh/UH ,/, l-/NNS ,/, lots/NNS of/IN new/JJ ,/, uh/UH ,/, newsmen/NNS were/VBD created/VBN during/IN that/DT","{F uh, } [ l-, + lots ] of new, {F uh, } newsmen were created during that /"
+sv,B,"so/RB ,/, it/PRP will/MD be/VB interesting/JJ to/TO see/VB what/WP happens/VBZ ./.","{C so, } it will be interesting to see what happens. /"
+aa,A,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,A,true/UH ./.,true. /
+^h,A,"Trying/VBG to/TO think/VB what/WP else/RB is/VBZ ,/,","Trying to think what else [ is, +"
+x,B,./.,<Laughter>.
++,A,./.,<Laughter>.
+b,B,Right/UH ./.,Right. /
++,A,is/VBZ current/JJ ./.,is ] current. /
+b,B,"Uh/UH ,/, uh/UH ,/,","{F Uh, } {F uh, } /"
+sd,A,"Well/UH ,/, um/UH ,/, I/PRP do/VBP n't/RB know/VB what/WP to/TO say/VB ./.","{D Well, } {F um, } I don't know what to say <laughter>. /"
+x,B,./.,<Laughter>.
+ba,A,"Uh/UH ,/, that/DT 's/BES a/DT bad/JJ one/CD ,/,","{F Uh, } that's a bad one, /"
+%,A,"they/PRP ,/, uh/UH ,/,","they, {F uh, } - /"
+sv,A,"looks/VBZ like/IN we/PRP 're/VBP going/VBG to/TO have/VB an/DT income/NN tax/NN in/IN Texas/NNP ,/,","looks like we're going to have an income tax in Texas, /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP hate/VBP to/TO see/VB that/DT ,/,","I hate to see that, /"
+%,B,"but/CC it/PRP 's/BES ,/, uh/UH ,/, i-/XX ,/, that/IN ,/, you/PRP know/VBP ,/, if/IN what/WP it/PRP 's/BES going/VBG to/TO take/VB ,/,","{C but } [ [ [ it's, + {F uh, } i-, ] + that, ] + {D you know, } if what it's ] going to take, - /"
+sv,B,"well/UH ,/, you/PRP know/VBP ,/, we/PRP can/MD deduct/VB that/DT from/IN our/PRP$ income/NN tax/NN ,/, our/PRP$ federal/JJ income/NN tax/NN ./.","{D well, } {D you know, } we can deduct that from [ our income tax, + our federal income tax. ] /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"But/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, but/CC we/PRP need/VBP good/JJ schools/NNS ./.","[ {C But, } + {F uh, } {D you know, } {C but } ] we need good schools. /"
+sv,B,"Uh/UH ,/, we/PRP 're/VBP more/RBR involved/JJ in/IN that/DT now/RB ./.","{F Uh, } we're more involved in that now. /"
+sv,B,"And/CC ,/, I/PRP ,/, I/PRP ,/, I/PRP ,/, I/PRP think/VBP it/PRP 's/BES better/JJR for/IN everybody/NN if/IN we/PRP had/VBD better/JJR schools/NNS ./.","{C And, } [ [ [ I, + I, ] + I, ] + I ] think it's better for everybody if we had better schools. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,that/DT 's/BES true/JJ ./.,that's true. /
+%,B,"So/UH ,/,","{D So, } -/"
+sv,A,"I/PRP would/MD think/VB they/PRP could/MD find/VB a/DT better/JJR way/NN to/TO fund/VB it/PRP though/RB ,/,","I would think they could find a better way to fund it though, /"
+%,A,"but/CC they/PRP have/VBP n't/RB for/IN ,/,","{C but } they haven't for, -/"
+aa,B,No/UH ./.,No. /
+sd,B,"You/PRP know/VBP ,/, I/PRP wish/VBP they/PRP could/MD have/VB gotten/VBN a/DT lottery/NN ./.","{D You know, } I wish they could have gotten a lottery. /"
+sv,A,"Well/UH ,/, they/PRP 're/VBP struggling/VBG with/IN it/PRP ./.","{D Well, } they're struggling with it. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,"I/PRP think/VBP ,/, you/PRP know/VBP ,/, the/DT lottery/NN could/MD have/VB helped/VBN ,/, with/IN that/DT ./.","I think, {D you know, } the lottery could have helped, with that. /"
+sv,B,"I/PRP mean/VBP ,/, it/PRP would/MD n't/RB have/VB been/VBN as/RB painful/JJ as/IN what/WP we/PRP would/MD 've/VBP paid/VBN in/IN state/NN income/NN tax/NN ./.","{E I mean, } it wouldn't have been as painful as what we would've paid in state income tax. /"
+sv,B,"I/PRP mean/VBP ,/, probably/RB would/MD have/VB paid/VBN the/DT same/JJ amount/NN","{E I mean, } <laughter> probably would have paid the same amount /"
+sv,B,"but/CC ,/, you/PRP know/VBP ,/, it/PRP 's/BES not/RB the/DT idea/NN of/IN your/PRP$ paying/VBG ,/, uh/UH ,/, income/NN tax/NN ./.","{C but, } {D you know, } it's not the idea of your paying, {F uh, } income tax. /"
+aa,A,Uh-huh/UH ./.,Uh-huh. /
+ba,A,True/UH ./.,True. /
+%,B,"So/UH ,/,","{D So, } -/"
+sv,A,"I/PRP ,/, I/PRP 'm/VBP not/RB sure/JJ there/EX 's/BES a/DT positive/JJ solution/NN for/IN that/DT ./.","[ I, + I'm ] not sure there's a positive solution for that. /"
+aa,B,No/UH ./.,No. /
+sv,B,It/PRP 'll/MD be/VB interesting/JJ to/TO see/VB what/WP happens/VBZ ./.,It'll be interesting to see what happens. /
+^h,A,Trying/VBG to/TO think/VB what/WP else/RB is/VBZ current/JJ ./.,Trying to think what else is current. /
+sd,B,"I/PRP ,/, you/PRP know/VBP ,/, I/PRP have/VBP n't/RB seen/VBN the/DT news/NN in/IN a/DT couple/NN of/IN days/NNS ./.","[ I, + {D you know, } I ] haven't seen the news <laughter> in a couple of days. /"
+%,B,"So/RB it/PRP ,/, uh/UH ,/,","{C So } it, {F uh, } - /"
+sd,B,I/PRP 'm/VBP a/DT little/RB behind/JJ on/IN things/NNS ./.,I'm a little behind on things. /
+sd,A,"Well/UH ,/, the/DT other/JJ thing/NN I/PRP can/MD think/VB of/IN is/VBZ ,/, uh/UH ,/, what/WP is/VBZ still/RB going/VBG on/RP in/IN Iraq/NNP --/:","{D Well, } the other thing I can think of is, {F uh, } what is still going on in Iraq --"
+b,B,"Yes/UH ,/,","Yes, /"
+ba,B,"that/DT 's/BES ,/, that/DT 's/BES sad/JJ ./.","[ that's, + that's ] sad. /"
++,A,--/: and/CC the/DT Kurd/NNP refugees/NNS ./.,-- and the Kurd refugees. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"They/PRP ,/, uh/UH ,/, yeah/UH ,/, they/PRP had/VBD to/TO choose/VB between/IN the/DT better/JJR of/IN the/DT two/CD ,/, two/CD bad/JJ situations/NNS ,/,","[ They, + {F uh, } {D yeah, } they ] had to choose between the better of the [ two, + two ] bad situations, /"
+sd,B,"and/CC ,/,","{C and, }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"uh/UH ,/, I/PRP do/VBP n't/RB know/VB what/WP I/PRP 've/VBP would/MD have/VB done/VBN in/IN the/DT situation/NN ./.","{F uh, } I don't know what I've would have done in the situation. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"it/PRP begins/VBZ to/TO make/VB you/PRP wonder/VB why/WRB we/PRP did/VBD n't/RB go/VB ahead/RB and/CC go/VB on/IN in/IN and/CC ,/,","it begins to make you wonder why we didn't go ahead and go on in and,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,finish/VB the/DT job/NN while/IN we/PRP were/VBD in/IN there/RB ./.,finish the job while we were in there. /
+aa,B,Right/UH ./.,Right. /
+sd,B,"But/CC I/PRP understand/VBP why/WRB Bush/NNP ,/, you/PRP know/VBP ,/, does/VBZ n't/RB want/VB to/TO go/VB in/RB and/CC ,/, and/CC uh/UH ,/, take/VB sides/NNS ./.","{C But } I understand why Bush, {D you know, } doesn't want to go in [ and, + and ] {F uh, } take sides. /"
+sv,B,"I/PRP mean/VBP ,/, because/IN that/DT would/MD definitely/RB look/VB like/IN another/DT Korea/NNP ,/,","{E I mean, } {C because } that would definitely look like another Korea, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"and/CC he/PRP 'd/MD have/VB all/PDT these/DT people/NNS jumping/VBG down/RP his/PRP$ back/NN ,/, even/RB though/IN I/PRP 'd/MD agree/VB with/IN it/PRP ./.","{C and } he'd have all these people jumping down his back, even though I'd agree with it. /"
+sv,B,"I/PRP think/VBP he/PRP ought/MD to/TO ,/, should/MD 've/VBP gone/VBN in/IN there/RB and/CC blew/VBN them/PRP away/RB ./.","I think he [ ought to, + should've ] gone in there and blew them away. /"
+sv,A,"Seems/VBZ to/TO have/VB helped/VBN him/PRP though/IN ,/,","Seems to have helped him though,"
+aa,B,"Yeah/UH ,/, it/PRP ,/, it/PRP ,/,","Yeah, [ [ it, + it, ] +"
++,A,popularity/NN wise/RB ./.,popularity wise. /
++,B,it/PRP did/VBD a/DT lot/NN ./.,it ] did a lot. /
+sv,B,He/PRP did/VBD a/DT real/RB good/JJ job/NN I/PRP believe/VBP ./.,He did a real good job I believe. /
+sd,B,"I/PRP have/VBP ,/, uh/UH ,/, in-laws/NNS that/WDT live/VBP in/IN Saudi/NNP Arabia/NNP that/WDT stayed/VBD there/RB during/IN all/DT of/IN it/PRP too/RB ./.","I have, {F uh, } in-laws that live in Saudi Arabia that stayed there during all of it too. /"
+b,A,Hm/UH ./.,{F Hm. } /
+%,B,"It/PRP ,/, uh/UH ,/, it/PRP ,/, uh/UH ,/, you/PRP know/VBP ,/,","[ It, + {F uh, } it, ] {F uh, } {D you know, } - /"
+sd,B,"we/PRP ,/, so/RB we/PRP kept/VBD very/RB much/RB abreast/JJ of/IN what/WP was/VBD going/VBG on/RP ./.","[ we, + {C so } we ] kept very much abreast of what was going on. /"
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"Were/VBD ,/, were/VBD they/PRP in/IN any/DT of/IN the/DT areas/NNS where/WRB they/PRP ,/,","[ [ Were, + were ] they + in any of the areas where they, ]"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,they/PRP were/VBD on/IN,they were [ on +
++,A,some/DT of/IN the/DT Scuds/NNS ?/.,some of the Scuds? /
++,B,"the/DT ,/, the/DT ,/, ne/JJ ,/, near/RB ,/, uh/UH ,/, Dahran/NNP ./.","[ the, + the, ] [ ne-, + near, ] ] {F uh, } Dahran."
+b,A,Um/UH ./.,{F Um. } /
++,B,"On/IN the/DT ,/,","[ On the, +"
+b,A,Um-hum/UH ./.,Um-hum. /
++,B,"on/IN the/DT wes/JJ ,/, east/JJ coast/NN ./.","on the ] [ wes-, + east ] coast. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,They/PRP were/VBD just/RB north/RB of/IN it/PRP ./.,They were just north of it.
+b,A,Um/UH ./.,{F Um. } /
++,B,"Probably/RB about/RB a/DT hundred/CD fifty/CD miles/NNS ,/, hundred/CD miles/NNS from/IN uh/UH ,/, the/DT Kuwaiti/JJ border/NN ./.","Probably about a hundred fifty miles, hundred miles from {F uh, } the Kuwaiti border. /"
+sd,B,"Uh/UH ,/, and/CC they/PRP stayed/VBD active/JJ was/VBD the/DT ,/, uh/UH ,/, the/DT military/NN there/RB ./. Taking/VBG supplies/NNS out/IN to/IN them/PRP in/IN the/DT desert/NN ./.","{F Uh, } {C and } they stayed active was [ the, + {F uh, } the ] military there. Taking supplies out to them in the desert. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"It/PRP was/VBD ,/, it/PRP was/VBD a/DT new/JJ situation/NN ./.","[ It was, + it was ] a new situation. /"
+aa,A,Yeah/UH ./.,Yeah. /
+ba,A,I/PRP 'll/MD bet/VB ./.,I'll bet. /
+sd,B,I/PRP do/VBP n't/RB really/RB have/VB much/RB more/JJR to/TO say/VB ./.,I don't really have much more to say <laughter>. /
+sd,A,I/PRP do/VBP n't/RB know/VB anything/NN else/RB that/WDT 's/BES current/JJ other/JJ than/IN the/DT weather/NN,I don't know anything else that's current other than the weather /
+%,A,"and/CC ,/,","{C and, } -/"
+aa,B,"You/PRP 're/VBP right/JJ ,/,","You're right, /"
+sv,B,"and/CC that/DT 's/BES ,/, that/DT 's/BES awful/JJ in/IN Texas/NNP ./.","{C and } [ that's, + that's ] awful in Texas <laughter>. /"
+qy,A,"Have/VBP ,/, have/VBP you/PRP all/DT been/VBN getting/VBG rain/NN storms/NNS down/IN there/RB ?/.","[ Have, + have ] you all been getting rain storms down there? /"
+na,B,"We/PRP got/VBD some/DT awful/JJ rain/NN ,/, uh/UH ,/, the/DT other/JJ morning/NN ./.","We got some awful rain, {F uh, } the other morning. /"
+sd,B,And/CC today/NN 's/HVS just/RB been/VBN real/RB drizzly/JJ ./.,{C And } today's just been real drizzly. /
+sd,A,"We/PRP did/VBD ,/, we/PRP did/VBD last/JJ night/NN ./. Uh/UH ,/, some/DT real/RB massive/JJ thunderstorms/NNS ./.","[ We did, + we did ] last night. {F Uh, } some real massive thunderstorms. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Apparently/RB ,/, I/PRP ,/, I/PRP do/VBP n't/RB know/VB if/IN it/PRP was/VBD just/RB the/DT strong/JJ winds/NNS or/CC some/DT small/JJ tornadoes/NNS up/IN this/DT way/NN too/RB ./.","Apparently, [ I, + I ] don't know if it was just the strong winds or some small tornadoes up this way too. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,Caused/VBD some/DT damage/NN ./.,Caused some damage. /
+bh,B,It/PRP did/VBD ?/.,It did? /
+sd,A,We/PRP may/MD get/VB some/DT more/JJR tonight/NN ./.,We may get some more tonight. /
+sd,B,"Oh/UH ,/, well/UH ./. We/PRP ,/, we/PRP 've/VBP just/RB got/VBN slight/JJ chances/NNS of/IN rain/NN ./.","{F Oh, } {D well. } [ We, + we've ] just got slight chances of rain. /"
+sd,B,"But/CC ,/, uh/UH ,/, we/PRP had/VBD the/DT ,/, we/PRP had/VBD the/DT hard/JJ thunderstorms/NNS the/DT other/JJ morning/NN ./.","{C But, } {F uh, } [ we had the, + we had the ] hard thunderstorms the other morning. /"
+sd,B,Course/NN while/IN everybody/NN was/VBD getting/VBG ready/JJ to/TO go/VB to/IN work/NN ./. Making/VBG nice/JJ traffic/NN jams/NNS ./.,Course while everybody was getting ready to go to work. Making nice traffic jams. /
+%,B,"So/RB ,/,","{C So } <<faintly>>, -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Well/UH the/DT ,/, the/DT ground/NN here/RB is/VBZ so/RB flat/JJ ,/,","{D Well } [ the, + the ] ground here is so flat, /"
+sd,A,"and/CC it/PRP 's/BES all/RB saturated/JJ now/RB ,/,","{C and } it's all saturated now, /"
+b,B,Oh/UH ./.,Oh <<faintly>>. /
+sd,A,we/PRP 're/VBP getting/VBG some/DT flooding/NN ./.,we're getting some flooding. /
+b,B,"Right/UH ,/,","Right, /"
+t1,B,"uh/UH ,/, when/WRB was/VBD it/PRP ,/, last/JJ week/NN ,/, we/PRP had/VBD all/PDT the/DT rain/NN ?/.","{F uh, } when was it, last week, we had all the rain? /"
+%,B,"But/CC ,/, uh/UH ,/,","{C But, } {F uh, } - /"
+sd,B,"we/PRP ,/, I/PRP think/VBP we/PRP had/VBD about/RB eight/CD inches/NNS ./.","[ we, + I think we ] had about eight inches. /"
+b,A,Hm/UH ./.,{F Hm. } /
+sd,B,It/PRP was/VBD between/IN six/CD and/CC eight/CD inches/NNS here/RB where/WRB we/PRP are/VBP ./.,It was between six and eight inches here where we are. /
+ba,A,Goodness/UH ./.,Goodness. /
+sd,B,"And/CC ,/, uh/UH ,/, it/PRP ,/, you/PRP walk/VBP out/RB on/IN the/DT ground/NN ,/,","{C And, } {F uh, } [ it, + ] you walk out on the ground, - /"
+%,B,"I/PRP mean/VBP you/PRP ,/,","{E I mean } you, - /"
+sd,B,"I/PRP mean/VBP ,/, it/PRP 's/BES awful/JJ ./.","{E I mean, } it's awful. /"
+sd,B,It/PRP 's/BES just/RB so/RB soggy/JJ ./.,It's just so soggy. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,It/PRP 's/BES a/DT lot/NN more/RBR humid/JJ down/IN that/DT way/NN ./.,It's a lot more humid down that way. /
+b,B,Yeah/UH ./.,Yeah <laughter>. /
+sv,A,"In/IN fact/NN ,/, miserable/JJ ./.","In fact, miserable. /"
+sd,B,"Well/UH ,/, today/NN it/PRP was/VBD ,/, I/PRP mean/VBP ,/, the/DT air/NN was/VBD just/RB so/RB sticky/JJ ,/, so/RB damp/JJ ./.","{D Well, } today [ it was, + {E I mean, } the air was ] just so sticky, so damp. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP think/VBP there/EX were/VBD places/NNS around/IN downtown/NN Fort/NNP Worth/NNP last/JJ night/NN they/PRP got/VBD three/CD inches/NNS in/IN a/DT real/RB short/JJ period/NN of/IN time/NN ,/, like/IN an/DT hour/NN or/CC so/RB just/RB ,/,","I think there were places around downtown Fort Worth last night they got three inches in a real short period of time, like an hour or so just,"
+ba,B,Goodness/UH ./.,Goodness. /
++,A,a/DT bunch/NN ./.,a bunch. /
+fc,A,"Well/UH ,/, I/PRP guess/VBP that/DT 's/BES it/PRP ./.","{D Well, } I guess that's it <laughter>. /"
+fc,B,Right/UH ./.,<Laughter> Right. /
+fc,B,"Well/UH it/PRP 's/BES ,/,","{D Well } it's, /"
+fc,A,That/DT 's/BES about/RB as/RB much/JJ as/IN we/PRP can/MD do/VB with/IN current/JJ events/NNS ./.,That's about as much as we can do with current events. /
+fc,B,Right/UH ./.,Right. /
+fc,B,"Well/UH ,/, it/PRP was/VBD nice/JJ talking/VBG to/IN you/PRP ./.","{D Well, } it was nice talking to you. /"
+fc,A,"Good/JJ talking/VBG to/IN you/PRP ,/, Michelle/NNP ./.","Good talking to you, Michelle. /"
+fc,B,All/RB right/JJ ./.,All right. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /

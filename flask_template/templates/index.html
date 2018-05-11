@@ -1,0 +1,131 @@
+<html>
+    <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" href="http://www.cse.iitd.ac.in/nlpdemo/web/public/css/bootstrap.css">
+	 <link rel="stylesheet" href="http://www.cse.iitd.ac.in/nlpdemo/web/public/css/bootstrap-responsive.css">
+    <style type="text/css">
+      /* <![CDATA[ */
+        .head {
+          font-weight: bold;
+          width: 150px;
+          border-width: 1px;
+          border-style: solid;
+          border-color: lightgrey;
+          padding: 4px;
+          margin-bottom: 0px;
+        }
+        .item {
+          width: 144px;
+          border-width: 1px;
+          border-style: solid;
+          border-color: lightgrey;
+          padding: 4px;
+          padding-left: 10px;
+          margin-bottom: 0px;
+        }
+        table {
+          border-width: 1px;
+          border-spacing: 0px;
+          border-style: outset;
+          border-color: gray;
+          border-collapse: collapse;
+          background-color: white;
+        }
+        th {
+          border-width: 1px;
+          padding: 6px;
+          border-style: inset;
+          border-color: gray;
+          background-color: PowderBlue;
+          -moz-border-radius: 0px 0px 0px 0px;
+        }
+        td {
+          border-width: 1px;
+          padding: 6px;
+          border-style: inset;
+          border-color: gray;
+          background-color: white;
+          -moz-border-radius: 0px 0px 0px 0px;
+        }
+      /* ]]> */
+    </style>
+  <style type="text/css"></style><style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+</style>
+<script type="text/javascript" language="javascript">
+function load_menu (e) {
+//window.alert(1);
+  var xmlhttp;
+  xmlhttp=new XMLHttpRequest();
+  xmlhttp.open("GET","http://www.cse.iitd.ac.in/nlpdemo/menu/menu.html",true);
+  xmlhttp.send();
+  xmlhttp.onreadystatechange=function()
+  {
+	//window.alert(2);
+//window.alert("xmlhttp.readyState");
+	//window.alert(xmlhttp.readyState);
+//window.alert("xmlhttp.status");
+	//window.alert(xmlhttp.status);
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+	//window.alert(3);
+      document.getElementById("divMenu").innerHTML=xmlhttp.responseText;
+    }
+  }
+}
+
+</script>
+
+    </head>
+     <body  onload="javascript:load_menu()">
+	 <div>
+      		 <div id="divMenu" style="width: 200px; float: left;">
+              	</div>
+		<div class="container">
+			<div style="height: 20px"></div>
+			<div id="content">
+		  		<h1> Add your title here </h1>
+				<a href="http://www.cse.iitd.ac.in/nlpdemo">(link to main page)</a>
+
+				<p>
+				    <u><span style="font-size:22px;"></span></u></p>
+				<p> Usage instructions -</p>
+
+				<form action="" method="post" name="query">
+					<p class="form form-reset">
+            Please enter your input:<br>
+            <input name="input_text" size="100" type="text" /></p>
+            <input name="submit_btn" type="submit" value="Submit" /></p>
+
+          </p>
+				</form>
+
+        <p> Result = {{ result }} </p>
+				<br>
+				<pre style="background-color: transparent; border: 0">
+				</pre>
+			</div>
+      <div id="project-details">
+        <p> Project Report can be found <a href="report.pdf" target="_blank"> here. </a> </p>
+        <p> Credits: This work was done as part of <a href="http://www.cse.iitd.ac.in/~mausam/courses/col772/spring2018/" target="_blank"> COL772: Natural Language Processing - Spring 2018 </a> by <a href="" target="_blank">Student1 </a> and <a href="" target="_blank"> Student 2 </a> </p>
+        <p> Instructor: <a href="http://www.cse.iitd.ac.in/~mausam/" target="_blank"> Prof. Mausam </a> </p>
+        <p> Copyright &copy; 2018, <a href="http://www.iitd.ac.in" target="_blank"> IIT Delhi </a>, All Rights Reserved. </p>
+      </div>
+		</div>
+	</div>
+
+<!--<div id="feedly-mini" title="feedly Mini tookit"></div></body></html>-->
+       
+    </body>
+</html>

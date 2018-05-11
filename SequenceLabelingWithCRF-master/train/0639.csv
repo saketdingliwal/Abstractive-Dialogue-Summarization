@@ -1,0 +1,159 @@
+act_tag,speaker,pos,text
+sd,A,"Uh/UH ,/, I/PRP work/VBP at/IN T/NNP I/NNP","{F Uh, } I work at T I /"
+sd,A,"and/CC we/PRP have/VBP ,/, uh/UH ,/, of/IN course/NN ,/, started/VBN drug/NN testing/NN ,/, uh/UH ,/, random/JJ drug/NN testing/NN here/RB","{C and } we have, {F uh, } of course, started [ drug testing, + {F uh, } <lipsmack> random drug testing ] here /"
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP have/VBP n't/RB gotten/VBN called/VBN yet/RB ,/,","{C and, } {F uh, } I haven't gotten called yet, /"
+sv,A,"but/CC ,/, uh/UH ,/, I/PRP feel/VBP that/IN it/PRP 's/BES probably/RB pre-/RB ,/, it/PRP 's/BES pretty/RB good/JJ if/IN ,/, if/IN they/PRP feel/VBP like/IN there/EX is/VBZ a/DT vast/JJ majority/NN of/IN the/DT people/NNS at/IN the/DT company/NN doing/VBG drugs/NNS ./.","{C but, } {F uh, } I feel that [ it's probably pre-, + it's pretty ] good [ if, + if ] they feel like there is a vast majority of the people at the company doing drugs. /"
+qy,B,Do/VBP they/PRP feel/VB that/DT way/NN ?/.,Do they feel that way? /
+sd,A,"Uh/UH ,/, I/PRP think/VBP that/IN they/PRP thought/VBD that/IN there/EX was/VBD a/DT lot/NN of/IN drug/NN usage/NN here/RB at/IN T/NNP I/NNP ,/,","{F Uh, } I think that they thought that there was a lot of drug usage here at T I, /"
+sd,A,"but/CC I/PRP think/VBP our/PRP$ latest/JJS sat-/NN ,/, statistic/NN said/VBD something/NN like/IN ninety-nine/CD point/NN nine/CD eight/CD percent/NN were/VBD ,/, uh/UH ,/, testing/VBG negative/JJ on/IN all/PDT the/DT dru-/NN ,/, --/:","{C but } I think our latest [ sat-, + statistic ] said something like ninety-nine point nine eight percent were, {F uh, } testing negative [ on all the dru-, -- +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: on/IN ,/, on/IN all/PDT the/DT testing/NN ./.","-- [ on, + on ] all the testing. ] /"
+sv,B,"Well/UH ,/, I/PRP ,/, I/PRP think/VBP it/PRP 's/BES a/DT good/JJ idea/NN just/RB because/IN I/PRP 'm/VBP opposed/JJ to/IN --/:","<Lipsmack> {D Well, } [ I, + I ] think it's a good idea just because I'm opposed to --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: to/IN the/DT drugs/NNS ./.,-- to the drugs. /
+sv,B,I/PRP think/VBP it/PRP can/MD cause/VB a/DT lot/NN of/IN problems/NNS even/RB though/IN they/PRP think/VBP they/PRP can/MD handle/VB it/PRP ./.,I think it can cause a lot of problems even though they think they can handle it. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"It/PRP 's/BES ,/, uh/UH ,/,","It's, {F uh, } - /"
+h,B,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,B,I/PRP do/VBP n't/RB really/RB liken/VB it/PRP to/IN alcohol/NN,I don't really liken it to alcohol /
+sv,B,"but/CC ,/, yet/RB that/DT can/MD be/VB carried/VBN to/IN an/DT extreme/NN ,/, too/RB ./.","{C but, } yet that can be carried to an extreme, too. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,So/RB I/PRP think/VBP it/PRP 's/BES a/DT good/JJ idea/NN,{C So } I think it's a good idea /
+sv,B,and/CC I/PRP think/VBP just/RB the/DT idea/NN that/IN you/PRP know/VBP that/IN you/PRP may/MD be/VB tested/VBN --/:,{C and } I think just the idea [ that + {D you know } that ] you may be tested --
+b,A,Right/UH ./.,Right. /
++,B,"--/: might/MD keep/VB you/PRP off/RP of/IN them/PRP or/CC get/VB you/PRP off/IN of/IN them/PRP because/IN you/PRP 're/VBP ,/,","-- might keep you off of them or get you off of them because you're, - /"
+sd,B,"I/PRP do/VBP n't/RB know/VB that/IN their/PRP$ job/NN would/MD be/VB at/IN risk/NN ,/,","I don't know that their job would be at risk, /"
+sd,B,because/IN I/PRP think/VBP they/PRP may/MD put/VB them/PRP into/IN some/DT sort/NN of/IN a/DT program/NN to/TO get/VB them/PRP off/IN of/IN drugs/NNS ./.,{C because } I think they may put <beep> them into some sort of a program to get them off of drugs. /
+b,A,Right/UH ./.,Right. /
+sv,B,"I/PRP would/MD think/VB that/IN ,/,","I would think that, - /"
+qy,B,is/VBZ that/DT how/WRB they/PRP do/VBP it/PRP at/IN T/NNP I/NNP maybe/RB ./.,is that how they do it at T I maybe. /
+%,B,"That/DT ,/,","That, -/"
+na,A,"Right/UH ,/,","Right, /"
+%,A,I/PRP,I - /
+sd,A,"at/IN T/NNP I/NNP ,/, if/IN you/PRP get/VBP called/VBN in/RP and/CC you/PRP test/VBP positive/JJ for/IN drugs/NNS ,/, then/RB you/PRP 're/VBP put/VBN on/IN a/DT program/NN","at T I, if you get called in and you test positive for drugs, then you're put on a program /"
+sd,A,"and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, you/PRP go/VBP through/IN the/DT program/NN","{C and, } {F uh, } {D you know, } you go through the program /"
+sd,A,"and/CC then/RB you/PRP 're/VBP called/VBN like/UH six/CD months/NNS after/IN you/PRP complete/VBP the/DT pro-/NN ,/, program/NN --/:","{C and then } <beep> you're called like six months after you complete the [ pro-, + program ] -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC if/IN you/PRP test/VBP positive/JJ ,/, then/RB you/PRP 're/VBP terminated/VBN ./.","-- {C and } if you test positive, then you're terminated. /"
+sd,B,"Well/UH ,/, ,/, I/PRP guess/VBP I/PRP ,/, I/PRP draw/VBP a/DT hard/JJ line/NN ,/,","{D Well, } <noise> <lipsmack>, I guess [ I, + I ] draw a hard line <laughter>, /"
+sd,B,"but/CC ,/, you/PRP know/VBP ,/, I/PRP would/MD ,/, I/PRP 'm/VBP ,/, I/PRP 'm/VBP in/IN favor/NN of/IN ,/, of/IN that/DT type/NN of/IN thing/NN ./.","{C but, } {D you know, } [ [ I would, + I'm, ] + I'm ] in favor [ of, + of ] that type of thing."
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,uh-huh/UH ./.,uh-huh. /
++,B,"That/DT ,/, uh/UH ,/, you/PRP ,/, you/PRP have/VBP people/NNS out/IN there/RB that/WDT are/VBP responsible/JJ for/IN certain/JJ things/NNS --/:","That, {F uh, } [ you, + <laughter> you ] have people out there that are responsible for certain things -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: and/CC you/PRP expect/VBP them/PRP to/TO do/VB their/PRP$ job/NN,-- {C and } you expect them to do their job /
+sd,B,and/CC --/:,{C and } --
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
++,B,"--/: it/PRP ,/, it/PRP is/VBZ possible/JJ that/IN ,/, you/PRP know/VBP ,/, that/IN they/PRP ca/MD n't/RB do/VB as/RB good/JJ a/DT job/NN ,/, uh/UH ,/, as/IN they/PRP might/MD do/VB ./.","-- [ it, + it ] is possible [ that, + {D you know, } that ] they can't do as good a job, {F uh, } as they might do. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Oh/UH ,/, and/CC ,/, of/IN course/NN they/PRP can/MD also/RB cause/VB injury/NN to/IN other/JJ people/NNS ./.","{F Oh, } {C and, } of course they can also cause injury to other people. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"If/IN they/PRP 're/VBP ,/, if/IN they/PRP 're/VBP not/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, fully/RB functional/JJ mentally/RB while/IN they/PRP 're/VBP doing/VBG their/PRP$ job/NN ./. They/PRP could/MD cause/VB --/:","[ If they're, + if they're ] not, {F uh, } {D you know, } fully functional mentally while they're doing their job. They could cause --"
+aa,B,"Right/UH ,/,","Right, /"
+"fo_o_fw_""_by_bc",B,and/CC you/PRP never/RB know/VBP --/:,{C and } you never know -- /
++,A,"--/: you/PRP know/VBP ,/, serious/JJ injury/NN to/IN --/:","-- {D you know, } serious injury to --"
+sv,B,--/: they/PRP could/MD just/RB go/VB off/IN the/DT deep/JJ end/NN --/:,-- they could just go off the deep end --
++,A,"--/: oth-/DT ,/, another/DT people/NNS ./.","-- [ oth-, + another ] people. /"
++,B,"--/: on/IN ,/, on/IN a/DT ,/, on/IN something/NN --/:","-- [ [ on, + on a, ] + on something ] --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: uh/UH ,/, that/IN whatever/WP --/:","-- {F uh, } that <laughter> whatever --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: they/PRP 're/VBP taking/VBG at/IN the/DT time/NN,-- they're taking at the time - /
+sv,B,"and/CC ,/, and/CC it/PRP would/MD be/VB ,/, uh/UH ,/, you/PRP know/VBP ,/, out/IN of/IN the/DT question/NN ./.","[ {C and, } + {C and } ] it would be, {F uh, } {D you know, } out of the question. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Also/RB ,/, I/PRP guess/VBP you/PRP can/MD ,/, you/PRP know/VBP ,/, get/VB the/DT wrong/JJ kind/NN of/IN stuff/NN and/CC kill/VB yourself/PRP --/:","{C Also, } I guess you can, {D you know, } get the wrong kind of stuff and kill yourself --"
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
++,B,--/: just/RB by/IN having/VBG a/DT wrong/JJ mix/NN of/IN or/CC watered/VBD down/RP or/CC --/:,-- just by having a wrong mix of or watered down [ or + --
+b,A,Oh/UH yeah/UH ./.,{F Oh } yeah. /
++,B,"--/: or/CC whatever/WDT ,/, all/DT kinds/NNS ./.","-- or ] whatever, all kinds. /"
+sd,B,I/PRP sub/VBP in/IN the/DT schools/NNS --/:,I sub in the schools <laughter> -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: so/RB I/PRP 've/VBP ,/, you/PRP know/VBP ,/, had/VBN a/DT ,/,","-- {C so } I've, {D you know, } had a, - /"
+sd,B,they/PRP --/:,[ they -- +
+%,A,"So/UH ,/,","{D So, } -/"
++,B,--/: they/PRP talk/VBP a/DT lot/NN about/IN --/:,-- they ] talk a lot about --
+b,A,Right/UH ./.,Right. /
++,B,--/: drugs/NNS there/RB,-- drugs there /
+sd,B,and/CC I/PRP think/VBP it/PRP 's/BES good/JJ that/IN they/PRP 're/VBP trying/VBG to/TO start/VB some/DT programs/NNS down/IN in/IN the/DT elementary/JJ schools/NNS ./.,{C and } I think it's good that they're trying to start some programs down in the elementary schools. /
+b,A,Right/UH ./.,Right. /
+sv,B,"But/CC ,/, you/PRP know/VBP ,/, I/PRP think/VBP they/PRP can/MD test/VB all/DT they/PRP want/VBP for/IN drugs/NNS you/PRP know/VBP ,/,","{C But, } {D you know, } I think they can test all they want for drugs <laughter> {D you know, } /"
+sv,B,and/CC --/:,{C and } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: if/IN they/PRP need/VBP to/TO do/VB that/DT as/IN a/DT condition/NN for/IN employment/NN,-- if they need to do that as a condition for employment - /
+sd,B,and/CC I/PRP know/VBP many/JJ of/IN them/PRP are/VBP doing/VBG it/PRP ./.,{C and } I know many of them are doing it. /
+sd,B,I/PRP know/VBP my/PRP$ son/NN has/VBZ had/VBN to/TO do/VB it/PRP for/IN both/DT Sam/NNP 's/POS and/CC Wal-Mart/NNP --/:,I know my son has had to do it for both Sam's and Wal-Mart -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: and/CC I/PRP do/VBP n't/RB know/VB how/WRB many/JJ others/NNS are/VBP doing/VBG that/DT,-- {C and } I don't know how many others are doing that /
+sv,B,"and/CC ,/, and/CC I/PRP think/VBP that/DT 's/BES good/JJ --/:","[ {C and, } + {C and } ] I think that's good --"
+aa,A,"Oh/UH ,/, yes/UH ./.","{F Oh, } yes. /"
++,B,--/: because/RB --/:,-- because --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: so/RB many/JJ of/IN the/DT kids/NNS that/WDT are/VBP on/IN them/PRP are/VBP sort/RB of/RB bums/NNS that/WDT they/PRP need/VBP to/TO get/VB their/PRP$ life/NN straightened/VBN up/RP at/IN --/:,-- <Laughter> so many of the kids that are on them are sort of bums that they need to get their <laughter> life straightened up at --
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
++,B,--/: an/DT early/JJ age/NN,-- an early age /
+h,B,"and/CC ,/, uh/UH ,/, ,/, I/PRP do/VBP n't/RB know/VB ,/,","{C and, } {F uh, } <lipsmack> <breathing>, I don't know, /"
+sv,B,"it/PRP 's/BES just/RB a/DT problem/NN that/DT p-/XX ,/, no/DT one/NN is/VBZ sure/JJ just/RB how/WRB to/TO handle/VB --/:","it's just a problem that [ p-, + ] no one is sure just how to handle --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: I/PRP think/VBP ./.,-- I think. /
+sd,A,"You/PRP know/VBP ,/, I/PRP think/VBP personally/RB I/PRP 'm/VBP for/IN it/PRP ./.","{D You know, } I think personally I'm for it. /"
+sd,A,"There/EX 's/BES several/JJ reason/NN why/WRB I/PRP ,/, I/PRP could/MD think/VB of/IN right/RB now/RB why/WRB we/PRP should/MD n't/RB have/VB it/PRP such/IN as/IN drug/NN testing/NN ,/,","There's several reason why [ I, + I ] could think of right now why we shouldn't have it such as drug testing, /"
+sd,A,"they/PRP say/VBP ,/, runs/VBZ approximately/RB a/DT thousand/CD dollars/NNS a/DT person/NN every/DT time/NN you/PRP do/VBP it/PRP ./.","they say, runs approximately a thousand dollars a person every time you do it. /"
+bh,B,Really/UH ?/.,Really? /
+%,A,"And/CC ,/,","{C And, } -/"
+qy,B,It/PRP 's/BES that/RB high/JJ ?/.,It's that high? /
+ny,A,Yes/UH ./.,Yes. /
+ny,A,"And/CC ,/, oh/UH ,/, yeah/UH ,/,","{C And, } {F oh, } yeah, /"
+sd,A,it/PRP 's/BES very/RB expensive/JJ ./.,it's very expensive. /
+b,B,Oh/UH ./.,Oh. /
+%,A,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, } -/"
+sd,B,I/PRP did/VBD n't/RB realize/VB --/:,<Laughter> I didn't realize --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: it/PRP was/VBD that/RB expensive/JJ ./.,-- it was that expensive. /
+sd,A,It/PRP 's/BES not/RB like/IN a/DT normal/JJ urinalysis/NN --/:,It's not like a normal urinalysis -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: it/PRP 's/BES very/RB expensive/JJ to/TO run/VB them/PRP ./.,-- it's very expensive to run them. /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP did/VBD n't/RB get/VB a/DT raise/NN this/DT year/NN ,/,","{C And, } {F uh, } I didn't get a raise this year, /"
+sd,A,"because/RB ,/, nobody/NN in/IN our/PRP$ company/NN got/VBD a/DT raise/NN ./.","{C because, } nobody in our company got a raise. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"But/CC ,/, yet/RB --/:","{C But, } yet --"
+bf,B,Just/RB lucky/JJ to/TO have/VB jobs/NNS ./.,Just lucky to have jobs. /
++,A,--/: they/PRP spend/VBP all/PDT the/DT money/NN on/IN drug/NN testing/NN,-- they spend all the money on drug testing /
+sd,A,"and/CC if/IN they/PRP were/VBD n't/RB spending/VBG all/PDT the/DT money/NN on/IN drug/NN testing/NN ,/, people/NNS could/MD have/VB got/VBN a/DT raise/NN ./.","{C and } if they weren't spending all the money on drug testing, people could have got a raise. /"
+sd,A,"So/UH ,/, see/UH ,/, there/RB ,/, you/PRP know/VBP ,/, there/EX 's/BES different/JJ ,/,","{C So, } {D see, } [ there, + {D you know, } there's ] different, - /"
+sd,A,"I/PRP do/VBP n't/RB think/VB that/IN that/DT 's/BES ,/, that/IN ,/, I/PRP think/VBP that/DT 's/BES more/JJR of/IN a/DT personal/NN view/NN of/IN mine/NN --/:","[ I don't think that [ that's, + that, ] + I think that's ] more of a personal view of mine --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: other/JJ than/IN a/DT ,/, a/DT yes/UH ,/, sir/UH ,/, we/PRP should/MD have/VB drug/NN testing/NN because/IN there/EX 's/BES really/RB a/DT problem/NN","-- other than [ a, + a ] yes, sir, we should have drug testing because there's really a problem /"
+sd,A,and/CC I/PRP know/VBP that/DT ./.,{C and } I know that. /
+sd,A,"But/CC then/RB ,/, I/PRP have/VBP other/JJ views/NNS to/IN it/PRP ./.","{C But then, } I have other views to it. /"
+sd,B,"I/PRP just/RB ,/, I/PRP did/VBD n't/RB think/VB it/PRP was/VBD that/RB expensive/JJ because/IN my/PRP$ son/NN was/VBD in/IN probably/RB a/DT week/NN and/CC a/DT half/NN period/NN --/:","[ I just, + I ] didn't think it was that expensive because my son was in probably a week and a half period -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC Sam/NNP 's/POS and/CC Wal-Mart/NNP are/VBP ,/, are/VBP owned/VBN by/IN the/DT same/JJ people/NNS --/:","-- {C and } Sam's and Wal-Mart [ are, + are ] owned by the same people -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: he/PRP took/VBD one/CD for/IN ,/, for/IN ,/, uh/UH ,/, Wal-Mart/NNP --/:","-- he took one [ for, + for, ] {F uh, } Wal-Mart --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: for/IN job/NN hiring/NN,-- for job hiring /
+sd,B,and/CC then/RB Sam/NNP 's/POS called/VBN him/PRP,{C and then } Sam's called him /
+sd,B,"and/CC ,/, and/CC he/PRP took/VBD another/DT one/CD --/:","[ {C and, } + {C and } ] <laughter> he took another one -- /"
+b,A,Right/UH ./.,Right. /
+sd,B,"--/: and/CC I/PRP ,/, you/PRP know/VBP ,/, I/PRP do/VBP n't/RB know/VB why/WRB they/PRP both/DT made/VBD him/PRP do/VB that/DT --/:","-- {C and } [ I, + {D you know, } I ] don't know why they both made him do that --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: since/IN it/PRP was/VBD so/RB close/RB together/RB ./.,-- since it was so close together. /
+sd,B,"I/PRP can/MD see/VB if/IN ,/,","I can see if <breathing>, - /"
+sv,B,"because/RB ,/, you/PRP know/VBP ,/, if/IN it/PRP 's/BES a/DT thousand/CD dollars/NNS ,/, that/DT 's/BES a/DT thousand/CD dollars/NNS they/PRP wasted/VBD ./.","{C because, } {D you know, } if it's a thousand dollars, that's a thousand dollars they wasted. /"
+sd,A,Theirs/PRP might/MD not/RB run/VB a/DT thousand/CD dollars/NNS ./.,Theirs might not run a thousand dollars. / *[[Their's -> Theirs]]
+%,A,"Our/PRP$ ,/,","Our, - /"
+sd,A,"from/IN what/WP I/PRP understanding/VBG here/RB at/IN T/NNP I/NNP ,/, they/PRP run/VBP close/RB to/IN a/DT thousand/CD dollars/NNS an/DT employee/NN ./.","from what I understanding here at T I, they run close to a thousand dollars an employee. /"
+sd,B,"Well/UH ,/, maybe/RB they/PRP run/VBP ,/,","{D Well, } maybe they run, - /"
+h,B,"I/PRP do/VBP n't/RB know/VB ,/, you/PRP know/VBP ,/,","I don't know, {D you know, } /"
+h,B,that/DT 's/BES just/RB guessing/VBG it/PRP ./.,that's just guessing it. /
+sd,B,"Maybe/RB they/PRP run/VBP a/DT lot/NN of/IN other/JJ tests/NNS ,/,","Maybe they run a lot of other tests, /"
+sd,B,or/CC maybe/RB it/PRP 's/BES under/IN a/DT health/NN --/:,{C or } maybe it's under a health --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: type/NN program/NN that/IN it/PRP --/:,-- type program that [ [ it -- +
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: it/PRP ,/, it/PRP would/MD catch/VB a/DT lot/NN of/IN things/NNS ./.","-- it, ] + it ] would catch a lot of things. /"
+sd,B,"I/PRP ,/, I/PRP just/RB ca/MD n't/RB imagine/VB --/:","[ I, + I ] just can't imagine --"
+"fo_o_fw_""_by_bc",A,"But/CC ,/, no/RB","{C But, } no /"
+sd,A,"for/IN all/PDT the/DT ,/, the/DT pub-/NN ,/,","for all [ the, + the ] pub-, -/"
++,B,"--/: them/PRP screening/VBG all/PDT these/DT employees/NNS ,/, paying/VBG a/DT thousand/CD dollars/NNS to/TO get/VB them/PRP ./.","-- them screening all these employees, paying a thousand dollars to get them. /"
+%,A,"Oh/UH ,/, it/PRP 's/BES ,/,","{F Oh, } it's, -/"

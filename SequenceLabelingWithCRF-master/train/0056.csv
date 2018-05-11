@@ -1,0 +1,130 @@
+act_tag,speaker,pos,text
+qo,A,So/RB how/WRB do/VBP you/PRP feel/VB about/IN it/PRP ?/.,<Noise> <talking> {D So } how do you feel about it? /
+sv,B,"Uh/UH ,/, I/PRP ,/, I/PRP do/VBP n't/RB see/VB any/DT problem/NN with/IN ,/, with/IN testing/NN for/IN random/JJ drugs/NNS ./.","{F Uh, } [ I, + I ] don't see any problem [ with, + with ] testing for random drugs. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP ,/, I/PRP ,/, myself/PRP ,/, almost/RB ,/, uh/UH ,/, am/VBP in/IN favor/NN of/IN it/PRP ./.","[ I, + I, ] myself, almost, {F uh, } am in favor of it. /"
+sd,A,"Uh/UH ,/, I/PRP work/VBP at/IN Honeywell/NNP","{F Uh, } I work at Honeywell /"
+sd,A,"and/CC I/PRP went/VBD through/IN a/DT ,/, a/DT pretty/JJ ,/, I/PRP do/VBP n't/RB know/VB ,/, I/PRP went/VBD through/IN a/DT ,/, standard/JJ drug/NN testing/NN thing/NN before/IN I/PRP ,/, I/PRP was/VBD brought/VBN on/RB ./.","{C and } [ I went through [ a, + a ] pretty, + I don't know, I went through a, standard ] drug testing thing before [ I, + I ] was brought on. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,I/PRP think/VBP that/DT 's/BES pretty/RB standard/JJ ./.,I think that's pretty standard. /
+sd,A,At/IN least/JJS at/IN Honeywell/NNP it/PRP is/VBZ ./.,At least at Honeywell it is. /
+sv,A,"Uh/UH ,/, I/PRP think/VBP it/PRP 's/BES important/JJ to/TO insure/VB the/DT quality/NN and/CC ,/, and/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/, almost/RB the/DT goodness/NN of/IN character/NN ./. You/PRP know/VBP --/:","{F Uh, } I think it's important to insure the quality [ and, + and, ] {F uh, } I don't know, almost the goodness of character. {D You know } --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: that/DT kind/NN of/IN thing/NN ./.,-- that kind of thing. /
+qw,A,Where/WRB do/VBP you/PRP work/VB ?/.,Where do you work? /
+arp_nd,B,"Uh/UH ,/, well/UH I/PRP 'm/VBP a/DT graduate/JJ student/NN right/RB now/RB at/IN Carnegie/NNP Mellon/NNP ./.","{F Uh, } {D well } I'm a graduate student right now at Carnegie Mellon. /"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,B,"And/CC I/PRP ,/, I/PRP just/RB came/VBD from/IN Saint/NNP Paul/NNP ./.","{C And } [ I, + I ] just came from Saint Paul."
+b,A,Huh/UH ./.,{F Huh. } /
++,B,"Uh/UH ,/, interviewing/VBG with/IN Three/CD M/NNP ./.","{F Uh, } interviewing with Three M. /"
+ba,A,"Oh/UH ,/, great/UH ./.","{F Oh, } great. /"
+sd,B,"And/CC ,/, uh/UH ,/, they/PRP have/VBP a/DT policy/NN for/IN ,/, uh/UH ,/, testing/NN ./.","{C And, } {F uh, } they have a policy for, {F uh, } testing. /"
+sd,B,"If/IN you/PRP ,/, if/IN they/PRP make/VBP you/PRP an/DT offer/NN ,/, then/RB they/PRP 'll/MD test/VB you/PRP right/RB before/IN you/PRP start/VBP ./.","[ If you, + if they ] make you an offer, then they'll test you right before you start. /"
+b,A,Right/UH ./.,Right. /
+sv,B,"And/CC I/PRP guess/VBP the/DT only/JJ drawback/NN I/PRP can/MD see/VB to/IN ,/, to/IN drug/NN testing/NN is/VBZ in/IN ,/, in/IN case/NN you/PRP are/VBP on/IN some/DT sort/NN of/IN medication/NN that/WDT might/MD give/VB some/DT ,/, uh/UH ,/, sort/NN of/IN false/RB positive/JJ result/NN --/:","{C And } I guess the only <lipsmack> drawback I can see [ to, + to ] drug testing is [ in, + in ] case you are on some sort of medication that might give some, {F uh, } sort of false positive result --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: then/RB there/EX could/MD --/:,-- then there could --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: be/VB some/DT sort/NN of/IN problem/NN ./.,-- be some sort of problem. /
+%,B,"But/CC i-/XX ,/,","{C But } i-, -/"
+aa,A,Yeah/UH ./.,Yeah. /
+aa,A,"And/CC that/DT ,/, that/DT definitely/RB happens/VBZ ,/, you/PRP know/VBP ./.","{C And } [ that, + that ] definitely happens, {D you know. } /"
+sv,A,"I/PRP mean/VBP those/DT ,/, the/DT drug/NN tests/NNS ,/, sure/JJ they/PRP 're/VBP accurate/JJ","{E I mean } [ those, + the ] drug tests, sure they're accurate /"
+sv,A,but/CC there/EX 's/BES always/RB that/DT margin/NN of/IN error/NN ./.,{C but } there's always that margin of error. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC that/DT 's/BES ,/, that/DT 's/BES something/NN to/TO be/VB aware/JJ of/IN ./.","{C And } [ that's, + that's ] something to be aware of. /"
+sv,A,"Another/DT thing/NN is/VBZ ,/, a/DT lot/NN of/IN times/NNS ,/, you/PRP know/VBP ,/, they/PRP are/VBP n't/RB that/RB accurate/JJ ./.","Another thing is, a lot of times, {D you know, } they aren't that accurate. /"
+sv,A,They/PRP are/VBP n't/RB that/RB sensitive/JJ ./.,They aren't that sensitive. /
+qh,A,"Like/IN if/IN you/PRP 're/VBP on/IN a/DT prescription/NN drug/NN of/IN some/DT kind/NN ,/, you/PRP know/VBP ,/, what/WP are/VBP they/PRP going/VBG to/TO do/VB about/IN that/DT ./.","{D Like } if you're on a prescription drug of some kind, {D you know, } what are they going to do about that <laughter>. /"
+b,B,Yeah/UH ./.,Yeah <laughter>. /
+sd,A,"You/PRP know/VBP ,/, I/PRP was/VBD on/IN a/DT couple/NN of/IN different/JJ prescription/NN drugs/NNS when/WRB I/PRP was/VBD tested/VBN for/IN Honeywell/NNP","{D You know, } I was on a couple of different prescription drugs when I was tested for Honeywell /"
+sv,A,"and/CC ,/, uh/UH ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP know/VBP they/PRP did/VBD n't/RB catch/VB that/DT or/CC else/RB they/PRP would/MD have/VB said/VBN something/NN ./.","{C and, } {F uh, } {F uh, } {D you know, } I know they didn't catch that or else they would have said something. /"
+sv,A,"Uh/UH ,/, I/PRP 'm/VBP sure/JJ they/PRP screen/VBP for/IN just/RB a/DT particular/JJ few/JJ types/NNS ./.","{F Uh, } I'm sure they screen for just a particular few types. /"
+sd,A,Although/IN the/DT literature/NN they/PRP give/VBP with/IN you/PRP says/VBZ yeah/UH we/PRP do/VBP this/DT,Although the literature they give with you says {D yeah } we do this /
+sd,A,and/CC then/RB they/PRP list/VBP about/RB five/CD thousand/CD drugs/NNS they/PRP try/VBP to/TO test/VB for/IN ./.,{C and then } they list about five thousand drugs they try to test for. /
+b,B,Right/UH ./.,Right. /
+h,A,"Uh/UH ,/, I/PRP do/VBP n't/RB know/VB ./.","{F Uh, } I don't know. /"
+qw,A,"What/WDT ,/, what/WDT program/NN are/VBP you/PRP in/IN over/IN at/IN Carnegie/NNP Mellon/NNP ?/.","[ What, + what ] program are you in over at Carnegie Mellon? /"
+sd,B,"Uh/UH ,/, electrical/JJ engineering/NN ./.","{F Uh, } electrical engineering. /"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+ba,A,Great/UH ./.,Great. /
+%,A,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,A,I/PRP 'm/VBP a/DT graduate/JJ student/NN at/IN U/NNP C/NNP F/NNP in/IN Florida/NNP ./. University/NNP of/IN Central/NNP Florida/NNP ./.,I'm a graduate student at U C F in Florida. University of Central Florida. /
+ba,B,"Oh/UH ,/, wow/UH ./.","{F Oh, } (( wow )) . /"
+sd,A,And/CC this/DT is/VBZ actually/RB a/DT an/DT internship/NN up/IN here/RB ./.,{C And } this is actually a <laughter> an internship up here. /
+x,B,./.,<Laughter>.
+sd,A,"But/CC ,/, uh/UH ,/, they/PRP ,/, uh/UH ,/, even/RB for/IN interns/NNS they/PRP ,/, they/PRP do/VBP the/DT whole/JJ random/JJ drug/NN or/CC the/DT whole/JJ drug/NN testing/NN thing/NN ,/,","{C But, } {F uh, } [ they, + {F uh, } even for interns [ they, + they ] ] do the whole random drug or the whole drug testing thing, /"
+%,A,so/RB ./.,{C so. } -/
+qy,B,"They/PRP test/VBP you/PRP ,/, uh/UH ,/, before/IN they/PRP ,/, before/IN you/PRP start/VBP or/CC before/IN you/PRP even/RB --/:","They test you, {F uh, } [ before they, + before you ] start or before you even --"
+b,A,Right/UH ./.,Right. /
++,B,--/: interview/VBP,-- interview /
+%,B,"or/CC ,/,","{C or, } -/"
+%,A,"Uh/UH ,/, they/PRP essentially/RB ,/,","{F Uh, } they essentially, - /"
+nn,A,no/UH,no /
+t3,A,"I/PRP sure/RB do/VBP n't/RB ,/, uh/UH ,/,","I sure don't <<talking to someone else>>, <<resumes talking to B>> {F uh, } - /"
+sd,A,"they/PRP essentially/RB ,/, uh/UH ,/, they/PRP essentially/RB ,/, uh/UH ,/, made/VBD me/PRP the/DT offer/NN and/CC then/RB ,/, and/CC then/RB ,/, uh/UH ,/, did/VBD the/DT drug/NN testing/NN thing/NN after/IN that/DT ./.","[ they essentially, + {F uh, } they essentially, ] {F uh, } made me the offer [ and then, + and then, ] {F uh, } did the drug testing thing after that. /"
+sd,A,"So/RB ,/, uh/UH ,/, it/PRP was/VBD one/CD of/IN those/DT things/NNS where/WRB you/PRP go/VBP through/IN the/DT ,/, the/DT general/JJ battery/NN of/IN all/DT their/PRP$ tests/NNS","{C So, } {F uh, } it was one of those things where you go through [ the, + the ] general battery of all their tests /"
+sd,A,"and/CC ,/, and/CC then/RB ,/, they/PRP essentially/RB give/VBP you/PRP the/DT offer/NN --/:","[ {C and, } + {C and then, } ] they essentially give you the offer -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC then/RB at/IN that/DT point/NN they/PRP 'll/MD ,/, they/PRP 'll/MD ask/VB you/PRP to/TO go/VB to/IN a/DT drug/NN testing/NN and/CC things/NNS like/IN that/DT ./.","-- {C and then } at that point [ they'll, + they'll ] ask you to go to a drug testing and things like that. /"
+bk,B,Oh/UH ./.,Oh. /
+sd,A,"So/RB ,/, uh/UH ,/, there/EX 's/BES some/DT noise/NN on/IN this/DT end/NN ./.","{C So, } {F uh, } there's some noise on this end. /"
+sd,A,I/PRP 'm/VBP actually/RB in/IN a/DT mall/NN calling/VBG,I'm actually in a mall calling /
+%,A,so/RB,{C so } - /
+x,A,./.,<laughter>.
+b,B,Oh/UH ./.,Oh <laughter>. /
+qy,A,"You/PRP probably/RB wondered/VBD ,/, huh/UH ./.","You probably wondered, {F huh. } /"
+%,A,"But/CC ,/,","{C But, } -/"
+ny,B,Yeah/UH ./.,Yeah. /
+qw,B,"Wh/WP ,/, what/WP happens/VBZ if/IN you/PRP were/VBD to/TO fail/VB ?/.","[ Wh-, + what ] happens if you were to fail? /"
+qy,B,"Then/RB do/VBP they/PRP give/VB you/PRP like/UH one/CD ch-/NN ,/, one/CD more/JJR chance/NN or/CC two/CD more/JJR chances/NNS ?/.","Then do they give you {D like } [ one ch-, + one more ] chance or two more chances? /"
+ny,A,Yes/UH ./.,Yes. /
+ba,A,That/DT 's/BES a/DT good/JJ question/NN ./.,That's a good question. /
+sd,A,"I/PRP believe/VBP from/IN what/WP I/PRP remember/VBP of/IN the/DT literature/NN they/PRP gave/VBD ,/, uh/UH ,/, if/IN you/PRP fail/VBP I/PRP believe/VBP they/PRP give/VBP you/PRP one/CD more/JJR chance/NN ./.","I believe from what I remember of the literature they gave, {F uh, } if you fail I believe they give you one more chance. /"
+sd,A,They/PRP probably/RB give/VBP you/PRP a/DT chance/NN to/TO explain/VB yourself/PRP --/:,They probably give you a chance to explain yourself --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: and/CC then/RB maybe/RB give/VBP you/PRP another/DT chance/NN to/TO go/VB through/IN it/PRP ./.,-- and then maybe give you another chance to go through it. /
+sv,A,"But/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, once/RB again/RB ,/, those/DT things/NNS are/VBP not/RB that/RB accurate/JJ","{C But, } {F uh, } {D you know, } once again, those things are not that accurate /"
+sv,A,"so/RB there/EX 's/BES undoubtedly/RB a/DT proportion/NN of/IN people/NNS who/WP do/VBP fail/VB ,/, you/PRP know/VBP ./.","{C so } there's undoubtedly a proportion of people who do fail, {D you know. } /"
+%,A,"But/CC ,/, uh/UH ,/, wha-/XX ,/,","{C But, } {F uh, } (( wha-, )) - /"
+qy,A,are/VBP you/PRP working/VBG right/RB now/RB anywhere/RB,are you working right now anywhere /
+%,A,"or/CC ,/,","{C or, } -/"
+nn,B,"Uh/UH ,/, no/UH ./.","{F Uh, } no. /"
+bk,A,Okay/UH ./.,Okay. /
+sd,B,"I/PRP 'm/VBP just/RB about/RB to/TO finish/VB my/PRP$ Master/NN 's/POS in/IN May/NNP and/CC ,/, uh/UH --/:","I'm just about to finish my Master's in May and, {F uh } --"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+ba,A,Great/UH ./.,Great. /
++,B,--/: just/RB interviewing/VBG with/IN companies/NNS right/RB now/RB ./.,-- just interviewing with companies right now. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"That/DT was/VBD the/DT first/JJ time/NN I/PRP 'd/VBD ever/RB gotten/VBN any/DT kind/NN of/IN drug/NN screening/NN ,/, you/PRP know/VBP ./. Was/VBD ,/, was/VBD going/VBG to/IN Honeywell/NNP ./.","That was the first time I'd ever gotten any kind of drug screening, {D you know. } [ Was, + was ] going to Honeywell. /"
+sd,A,A/DT friend/NN of/IN mine/PRP is/VBZ also/RB a/DT doctoral/JJ student/NN down/IN there/RB ./.,A friend of mine is also a doctoral student down there. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC he/PRP 's/BES doing/VBG an/DT internship/NN with/IN I/NNP B/NNP M/NNP ./.,{C And } he's doing an internship with I B M. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,"And/CC ,/, uh/UH ,/, they/PRP ,/, basically/RB ,/, uh/UH ,/, did/VBD the/DT same/JJ exact/JJ thing/NN ./.","{C And, } {F uh, } they, basically, {F uh, } did the same exact thing. /"
+sd,A,"Uh/UH ,/, we/PRP both/DT got/VBD our/PRP$ internships/NNS at/IN the/DT same/JJ time/NN","{F Uh, } we both got our internships at the same time /"
+sd,A,and/CC we/PRP both/DT had/VBD to/TO go/VB through/IN drug/NN testing/NN at/IN the/DT same/JJ time/NN ./.,{C and } we both had to go through drug testing <<mispronounced>> at the same time. /
+sd,A,"So/RB ,/, one/CD of/IN those/DT things/NNS where/WRB we/PRP went/VBD through/IN a/DT kind/RB of/RB an/DT identical/JJ process/NN ./.","{C So, } one of those things where we went through a kind of an identical process. /"
+%,A,"But/CC ,/, uh/UH ,/,","{C But, } {F uh, } -/"
+qy,B,"Did/VBD ,/, do/VBP they/PRP test/VB you/PRP at/IN ,/, right/RB now/RB ,/, at/IN work/NN too/RB ?/.","[ Did, + do ] they test you [ at, + right now, at ] work too? /"
+nn,A,"No/UH ,/,","No, /"
+nn,A,no/UH ./.,no. /
+sd,A,That/DT 's/BES --/:,That's --
+bk,B,Okay/UH ./.,Okay. /
++,A,"--/: one/CD thing/NN they/PRP do/VBP n't/RB do/VB is/VBZ ,/, is/VBZ drug/NN testing/NN while/IN you/PRP 're/VBP on/IN the/DT job/NN ./.","-- one thing they don't do [ is, + is ] drug testing while you're on the job. /"
+sd,A,"Uh/UH ,/, I/PRP think/VBP ,/, I/PRP think/VBP the/DT unwritten/JJ rule/NN is/VBZ ,/, yeah/UH ,/, expect/VB it/PRP","{F Uh, } [ I think, + I think ] the unwritten rule is, {D yeah, } expect it /"
+sd,A,but/CC they/PRP do/VBP n't/RB do/VB it/PRP ./.,{C but } they don't do it. /
+bk,B,Oh/UH ./.,Oh <laughter>. /
+sv,A,"You/PRP know/VBP ,/, so/RB ./. That/DT 's/BES good/JJ I/PRP guess/VBP ./.","{D You know, } {C so. } That's good I guess. /"
+h,A,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+sd,A,"I/PRP mean/VBP ,/, I/PRP ,/, uh/UH ,/, I/PRP have/VBP gone/VBN to/IN a/DT couple/NN of/IN parties/NNS since/IN ,/, since/IN that/DT time/NN","{E I mean, } [ I, + {F uh, } I ] have gone to a couple of parties [ since, + since ] that time /"
+sd,A,"and/CC while/IN I/PRP do/VBP n't/RB do/VB any/DT drugs/NNS myself/PRP ,/, I/PRP 've/VBP seen/VBN some/DT people/NNS who/WP work/VBP there/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, smoking/VBG a/DT joint/NN or/CC whatever/WP ./.","{C and } while I don't do any drugs myself, I've seen some people who work there, {F uh, } {D you know, } smoking a joint or whatever. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, that/DT 's/BES the/DT kind/NN of/IN thing/NN that/WDT would/MD definitely/RB come/VB up/RP ,/, you/PRP know/VBP ./.","{C And, } {F uh, } {D you know, } that's the kind of thing that would definitely come up, {D you know. } /"
+nn,A,"But/CC no/UH ,/,","{C But } no, /"
+sd,A,"they/PRP do/VBP n't/RB ,/, they/PRP do/VBP n't/RB really/RB do/VB that/DT ./.","[ they don't, + they don't ] really do that. /"
+%,A,So/RB ./.,{C So. } -/
+ba,B,Wow/UH ./.,Wow. /
+qy,B,Is/VBZ it/PRP formal/JJ policy/NN that/IN they/PRP said/VBD they/PRP might/MD test/VB ?/.,Is it formal policy that they said they might test? /
+ny,A,Yeah/UH ./.,Yeah </noise> </talking>. /

@@ -1,0 +1,225 @@
+act_tag,speaker,pos,text
+fp,B,Hello/UH ./.,Hello. /
+fp,A,"Hello/UH ,/,","Hello, /"
+fp,B,Hi/UH ./.,Hi. /
+fp,A,Hello/UH,Hello /
+fp,A,this/DT is/VBZ Lois/NNS ./.,this is Lois. /
+fp,B,"Hi/UH ,/,","Hi, /"
+fp,B,"hi/UH ,/,","hi, /"
+fp,B,this/DT is/VBZ Lisa/NNP ./.,this is Lisa. /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP called/VBD you/PRP know/VBP ,/, from/IN that/DT ,/, the/DT ,/, the/DT T/NNP I/NNP Data/NNP Base/NNP Calling/NNP Instructions/NNPS ./.","{C And, } {F uh, } I called {D you know, } from [ [ that, + the, ] + the ] T I Data Base Calling Instructions. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP got/VBD a/DT call/NN yesterday/NN too/RB ./.,I got a call yesterday too. /
+sd,B,This/DT is/VBZ a/DT different/JJ subject/NN though/RB ./.,This is a different subject though. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"this/DT is/VBZ about/IN changes/NNS in/IN the/DT women/NNS in/IN the/DT ,/,","this is about changes in the women in the, -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"Uh/UH ,/, there/EX 's/BES really/RB a/DT lot/NN ,/, is/VBZ n't/RB there/RB ./.","{F Uh, } there's really a lot, isn't there. /"
+ny,B,Yeah/UH ./.,Yeah <laughter>. /
+sv,A,I/PRP think/VBP there/EX really/RB is/VBZ ./.,I think there really is. /
+sv,B,It/PRP 's/BES kind/RB of/RB an/DT easy/JJ thing/NN to/TO talk/VB about/IN ./.,It's kind of an easy thing to talk about. /
+qy,A,"Oh/UH ,/, I/PRP guess/VBP the/DT work/NN force/NN would/MD be/VB the/DT main/JJ ,/, would/MD n't/RB it/PRP ./.","{F Oh, } I guess the work force would be the main, wouldn't it. /"
+ny,B,"Yeah/UH ,/, uh/UH ,/,","Yeah, {F uh, } /"
+ad,B,I/PRP think/VBP you/PRP have/VBP to/TO push/VB one/CD,I think you have to push one /
+ad,B,and/CC then/RB we/PRP can/MD start/VB recording/VBG it/PRP ./.,{C and then } we can start recording it. /
+aa,A,Okay/UH ./.,Okay <tone>. /
+aa,A,All/RB right/JJ ./.,All right. /
+b,B,Okay/UH ./.,Okay. /
+qy,A,Are/VBP you/PRP ready/JJ now/RB ?/.,Are you ready now? /
+ny,B,Yes/UH ./.,Yes. /
+b,A,"Okay/UH ,/,","Okay, /"
+sv,A,"like/IN I/PRP said/VBD I/PRP guess/VBP it/PRP would/MD be/VB the/DT work/NN force/NN ,/, you/PRP know/VBP ,/, as/RB far/RB as/IN changes/NNS in/IN the/DT generations/NNS ./.","like I said I guess it would be the work force, {D you know, } as far as changes in the generations. /"
+aa,B,"Yes/UH ,/,","Yes, /"
+sd,B,"I/PRP know/VBP because/IN ,/, I/PRP know/VBP when/WRB my/PRP$ mother/NN was/VBD a/DT ,/, you/PRP know/VBP ,/, going/VBG into/IN the/DT work/NN force/NN there/RB was/VBD n't/RB very/RB many/JJ opportunities/NNS for/IN her/PRP ,/, I/PRP guess/VBP ,/,","I know because, I know when my mother was [ a, + ] {D you know, } going into the work force there wasn't very many opportunities for her, I guess, /"
+sd,B,she/PRP 's/BES in/IN her/PRP$ late/JJ forties/NNS ./.,she's in her late forties. /
+sd,B,You/PRP were/VBD expected/JJ to/TO stay/VB home/RB and/CC take/VB care/NN of/IN the/DT kids/NNS,You were expected to stay home and take care of the kids /
+sd,B,and/CC I/PRP 've/VBP never/RB faced/VBN that/DT at/IN all/DT ./.,{C and } I've never faced that at all. /
+aa,A,"Uh/UH ,/, no/UH ,/,","{F Uh, } no, /"
+sv,A,"I/PRP think/VBP no-/RB ,/, now/RB ,/, you/PRP go/VBP to/IN work/NN when/WRB they/PRP 're/VBP six/CD weeks/NNS old/JJ ,/,","I think [ no-, + now, ] you go to work when they're six weeks old,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"you/PRP know/VBP ,/,","{D you know, } /"
+sv,A,and/CC you/PRP stay/VBP there/RB ./.,{C and } you stay there. /
+sv,A,"And/CC I/PRP feel/VBP like/IN the/DT next/JJ generation/NN ,/, you/PRP 'll/MD probably/RB just/RB work/VB right/RB along/IN with/IN your/PRP$ husband/NN ,/, you/PRP know/VBP ./.","{C And } I feel like the next generation, you'll probably just work right along with your husband, {D you know. } /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"uh-huh/UH ,/,","uh-huh, /"
+sv,B,I/PRP think/VBP it/PRP 's/HVS definitely/RB gotten/VBN better/JJR ./.,I think it's definitely gotten better. /
+aa,A,"Oh/UH ,/, I/PRP do/VBP to/^RB ,/, much/JJ ./.","{F Oh, } I do to, much. /"
+sv,A,And/CC it/PRP 's/BES just/RB going/VBG to/TO get/VB better/JJR ./.,{C And } it's just going to get better. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,It/PRP really/RB is/VBZ ./.,It really is. /
+sd,B,"Because/IN women/NNS are/VBP in/IN every/DT field/NN now/RB ,/,","{C Because } women are in every field now, /"
+sd,B,I/PRP mean/VBP I/PRP ca/MD n't/RB think/VB of/IN a/DT field/NN that/WDT they/PRP 're/VBP not/RB involved/JJ in/IN ./.,{E I mean } I can't think of a field that they're not involved in. /
+sd,A,"Oh/UH ,/, I/PRP ca/MD n't/RB either/RB ,/, not/RB a/DT one/CD ./.","{F Oh, } I can't either, not a one. /"
+sd,B,"And/CC I/PRP know/VBP at/IN least/JJS in/IN the/DT medical/JJ field/NN ,/, it/PRP seems/VBZ like/IN they/PRP 've/VBP come/VBN out/RP with/IN a/DT lot/NN further/JJR advances/NNS as/RB far/RB as/IN female/JJ medications/NNS and/CC things/NNS since/IN women/NNS have/VBP gotten/VBN into/IN the/DT doctor/NN field/NN ./.","{C And } I know at least in the medical field, it seems like they've come out with a lot further advances as far as female medications and things since women have gotten into the doctor field. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,I/PRP do/VBP n't/RB think/VB that/IN men/NNS really/RB took/VBD the/DT time/NN to/TO work/VB on/IN that/DT sort/NN of/IN thing/NN ./.,I don't think that men really took the time to work on that sort of thing. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"even/RB in/IN Washington/NNP ,/, you/PRP know/VBP ,/,","even in Washington, {D you know, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,there/EX seems/VBZ to/TO be/VB a/DT lot/RB more/JJR women/NNS involved/JJ ./.,there seems to be a lot more women involved. /
+sv,B,"Hopefully/RB ,/, the/DT next/JJ generation/NN ,/, it/PRP wo/MD n't/RB even/RB be/VB an/DT issue/NN ,/,","Hopefully, the next generation, it won't even be an issue, /"
+sv,B,"I/PRP mean/VBP people/NNS will/MD just/RB look/VB at/IN you/PRP as/IN a/DT person/NN and/CC not/RB as/IN a/DT man/NN or/CC a/DT woman/NN ,/,","{E I mean } people will just look at you as a person and not as a man or a woman, /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
+sv,B,I/PRP think/VBP that/DT would/MD be/VB the/DT best/JJS goal/NN ./.,I think that would be the best goal. /
+aa,A,"Oh/UH ,/, I/PRP do/VBP too/RB ,/,","{F Oh, } I do too, /"
+bf,A,just/RB your/PRP$ qualifications/NNS,just your qualifications /
+bf,A,and/CC that/DT would/MD be/VB it/PRP ./.,{C and } that would be it. /
+aa,B,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,B,"exactly/UH ,/,","exactly, /"
+sv,B,"not/RB what/WDT color/NN you/PRP are/VBP ,/, how/WRB old/JJ you/PRP are/VBP ,/, what/WP you/PRP 're/VBP male/JJ or/CC female/JJ ./.","not what color you are, how old you are, what your male or female. /"
+sv,B,"That/DT would/MD be/VB wonderful/JJ ,/,","That would be wonderful, /"
+sv,B,"I/PRP guess/VBP it/PRP 's/BES kind/RB of/RB an/DT ideal/JJ world/NN though/RB ,/, huh/UH ./.","(( I guess )) it's kind of an ideal world though, {F huh } <laughter>. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"I/PRP kind/RB of/RB think/VBP ,/, maybe/RB in/IN time/NN ,/, that/IN ,/, you/PRP know/VBP ,/, you/PRP 'll/MD go/VB by/IN social/JJ security/NN numbers/NNS ,/, you/PRP know/VBP ,/,","I kind of think, maybe in time, that, {D you know, } you'll go by social security numbers, {D you know, } /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"and/CC that/DT way/NN they/PRP ca/MD n't/RB say/VB well/UH they/PRP picked/VBD a/DT male/NN over/IN a/DT female/NN ,/, female/JJ over/IN a/DT male/NN ,/, you/PRP know/VBP ,/,","{C and } that way they can't say {D well } they picked a male over a female, female over a male, {D you know, } /"
+aa,B,"Exactly/UH ,/,","Exactly, /"
+sv,B,"or/CC the/DT way/NN you/PRP look/VBP ,/,","or the way you look, /"
+sv,B,"or/CC the/DT way/NN you/PRP ,/, you/PRP know/VBP ,/,","or the way you, {D you know, } -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
+sv,B,your/PRP$ age/NN or/CC anything/NN ./.,your age or anything. /
+sv,B,I/PRP think/VBP that/DT would/MD be/VB a/DT wonderful/JJ way/NN to/TO do/VB it/PRP ./.,I think that would be a wonderful way to do it. /
+aa,A,I/PRP do/VBP to/TO,I do to /
+sv,A,"just/RB go/VB by/IN your/PRP$ social/JJ security/NN number/NN and/CC then/RB look/VB at/IN you/PRP qualifications/NNS that/WDT ,/, you/PRP know/VBP ,/, that/WDT you/PRP have/VBP ./.","just go by your social security number and then look at you qualifications [ that, + {D you know, } that ] you have. /"
+aa,B,"Uh-huh/UH ,/,","Uh-huh, /"
+%,B,"and/CC then/RB ,/,","{C and then, } -/"
+sv,A,"And/CC then/RB if/IN you/PRP get/VBP it/PRP ,/, you/PRP know/VBP then/RB ,/,","{C And then } if you get it, {D you know } then, -/"
+aa,B,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,B,"also/RB ,/, with/IN ,/, uh/UH ,/, women/NNS in/IN the/DT work/NN force/NN they/PRP 've/VBP gotten/VBN a/DT lot/NN more/JJR options/NNS as/RB far/RB as/IN ,/, you/PRP know/VBP ,/, what/WP 's/BES it/PRP called/VBN ,/, job/NN sharing/NN ./.","also, with, {F uh, } women in the work force they've gotten a lot more options as far as, {D you know, } what's it called, job sharing. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Like/IN if/IN you/PRP and/CC another/DT lady/NN were/VBD to/TO share/VB the/DT same/JJ full/JJ time/NN job/NN ,/,","{D Like } if you and another lady were to share the same full time job,"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,B,"or/CC ,/,","or, -/"
+sd,A,"As/IN a/DT matter/NN of/IN fact/NN ,/, that/DT 's/BES what/WP I/PRP 'm/VBP doing/VBG ./.","As a matter of fact, that's what I'm doing. /"
+bh,B,Is/VBZ it/PRP ./.,Is it. /
+ny,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,A,it/PRP sure/RB is/VBZ ./.,it sure is. /
+sv,B,That/DT would/MD be/VB great/JJ ./.,That would be great. /
+aa,A,It/PRP sure/RB is/VBZ ./.,It sure is. /
+sd,B,"Or/CC ,/, a/DT lot/NN of/IN women/NNS I/PRP know/VBP now/RB and/CC my/PRP$ ,/, uh/UH ,/, one/CD of/IN my/PRP$ supervisors/NNS ,/, when/WRB she/PRP went/VBD on/IN L/NNP O/NNP A/NNP to/TO have/VB her/PRP$ baby/NN ,/, we/PRP hooked/VBD up/RP ,/, uh/UH ,/, uh/UH ,/, a/DT terminal/NN at/IN her/PRP$ house/NN","{C Or, } a lot of women I know now and [ my, + {F uh, } one of my ] supervisors, when she went on L O A to have her baby, we hooked up, {F uh, } {F uh, } a terminal at her house /"
+sd,B,"and/CC she/PRP ,/, you/PRP know/VBP ,/, we/PRP could/MD send/VB her/PRP$ messages/NNS ,/,","and [ she, + {D you know, } we ] could send her messages, /"
+sd,B,"and/CC ,/, and/CC she/PRP kept/VBD in/IN touch/NN like/IN that/DT ,/,","[ {C and, } + {C and } ] she kept in touch like that,"
+b,A,Oh/UH ./.,Oh. /
++,B,"and/CC basically/RB ,/, just/RB worked/VBD out/IN of/IN her/PRP$ house/NN ./.","and basically, just worked out of her house. /"
+sd,B,"I/PRP would/MD just/RB take/VB her/PRP the/DT actual/JJ paperwork/NN once/RB ,/, uh/UH ,/, every/DT week/NN or/CC two/CD ,/,","I would just take her the actual paperwork once, {F uh, } every week or two, /"
+sd,B,and/CC that/DT worked/VBD out/RP great/RB too/RB ./.,{C and } that worked out great too. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH,yeah /
+sv,A,that/DT is/VBZ ./.,that is. /
+sv,B,"And/CC that/DT 's/BES a/DT real/RB attractive/JJ option/NN ,/, if/IN you/PRP have/VBP the/DT ,/, the/DT technology/NN for/IN it/PRP ./.","{C And } that's a real attractive option, if you have [ the, + the ] technology for it. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"All/DT it/PRP was/VBD ,/, was/VBD ,/, you/PRP know/VBP ,/,","All it [ was, + was, ] {D you know, } - /"
+sd,B,"I/PRP mean/VBP ,/, she/PRP just/RB used/VBD a/DT phone/NN modem/NN","{E I mean, } she just used a phone modem /"
+sd,B,"and/CC she/PRP was/VBD like/IN she/PRP was/VBD sitting/VBG in/IN the/DT office/NN ,/,","{C and } [ she was + {D like } she was ] sitting in the office, /"
+sv,B,"so/RB I/PRP think/VBP that/DT 's/BES real/RB nice/JJ too/RB ,/, to/TO come/VB up/RP with/IN different/JJ options/NNS ./.","{C so } I think that's real nice too, to come up with different options. /"
+qy,B,Do/VBP you/PRP like/VB the/DT job/NN sharing/NN ?/.,Do you like the job sharing? /
+na,A,"Oh/UH ,/, I/PRP do/VBP ,/,","{F Oh, } I do, /"
+bh,B,Do/VBP you/PRP ?/.,Do you? /
+sd,A,"I/PRP really/RB do/VBP ,/,","I really do, /"
+sd,A,I/PRP think/VBP it/PRP 's/BES great/JJ ./.,I think it's great. /
+qy,B,"Do/VBP you/PRP work/VB like/IN half/JJ days/NNS ,/, or/CC half/JJ weeks/NNS or/CC ,/,","Do you work like half days, or half weeks or, -/"
+sd,A,"Uh/UH ,/, well/UH like/IN ,/, one/CD week/NN she/PRP 'll/MD work/VB three/CD days/NNS and/CC I/PRP 'll/MD work/VB two/CD","{F Uh, } {D well } {D like, } one week she'll work three days and I'll work two /"
+sd,A,"and/CC she/PRP 'll/MD work/VB two/CD ,/,","{C and } she'll work two, /"
+ba,B,"Oh/UH ,/, oh/UH that/DT 's/BES great/JJ ,/,","{F Oh, } {F oh } that's great, /"
+sd,A,and/CC we/PRP just/RB share/VBP off/RP like/IN that/DT ./.,{C and } we just share off like that. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,B,Do/VBP you/PRP get/VB the/DT full/JJ benefits/NNS ?/.,Do you get the full benefits? /
+ny,A,"Uh-huh/UH ,/,","Uh-huh, /"
+ny,A,yeah/UH,yeah /
+sd,A,we/PRP get/VBP the/DT full/JJ benefits/NNS ./.,we get the full benefits. /
+ba,B,"Oh/UH ,/, that/DT 's/BES wonderful/JJ ./.","{F Oh, } that's wonderful. /"
+sd,A,But/CC we/PRP 've/VBP just/RB really/RB got/VBN a/DT wonderful/JJ system/NN that/WDT we/PRP 're/VBP working/VBG under/IN ./.,{C But } we've just really got a wonderful system that we're working under. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"especially/RB with/IN children/NNS ,/, and/CC so/RB many/JJ things/NNS going/VBG on/RP ,/,","especially with children, and so many things going on,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,that/DT would/MD be/VB great/JJ ./.,that would be great. /
+sd,A,"It/PRP really/RB is/VBZ ,/,","It really is, /"
+sd,A,"and/CC that/DT way/NN we/PRP 're/VBP not/RB really/RB missing/VBG any/GW thing/^NN out/RP ,/, you/PRP know/VBP ,/,","{C and } that way we're not really missing any thing out, {D you know, }"
+^2,B,"Either/DT way/NN ,/,","Either way, -/"
++,A,"of/IN MUMBLEx/XX children/NNS ,/,","of (( )) children, /"
+%,A,uh-huh/UH ./.,uh-huh. /
+aa,B,"yeah/UH ,/,","yeah, /"
+bf,B,"you/PRP have/VBP your/PRP$ career/NN and/CC your/PRP$ home/NN life/NN ,/,","you have your career and your home life, /"
+sv,B,"and/CC that/DT would/MD be/VB a/DT nice/JJ way/NN ,/, especially/RB if/IN you/PRP have/VBP young/JJ children/NNS ./.","{C and } that would be a nice way, especially if you have young children. /"
+sd,A,"Oh/UH ,/, it/PRP is/VBZ ,/,","{F Oh, } it is, /"
+sd,A,"it/PRP is/VBZ ,/,","it is, /"
+sd,A,"well/UH both/DT of/IN ours/PRP is/VBZ school/NN age/NN ,/,","{D well } both of ours is school age, /"
+sd,A,"but/CC we/PRP do/VBP n't/RB want/VB to/TO miss/VB any/DT of/IN those/DT P/NNP T/NNP A/NNP -s/NNPS and/CC ,/, you/PRP know/VBP ,/, all/DT of/IN that/DT ./.","{C but } we don't want to miss any of those P T A -s and, {D you know, } all of that. /"
+aa,B,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,B,"oh/UH ,/, no/UH ,/,","{F oh, } no, /"
+%,B,"I/PRP think/VBP ,/,","I think, - /"
+%,B,yeah/UH ./.,yeah. /
+sd,B,My/PRP$ son/NN 's/BES just/RB in/IN day-care/NN,My son's just in day-care /
+sd,B,but/CC even/RB that/IN they/PRP have/VBP extracurricular/JJ activities/NNS,{C but } even that they have extracurricular activities /
+sd,B,and/CC the/DT older/JJR they/PRP get/VBP the/DT more/JJR that/WDT you/PRP 're/VBP involved/JJ in/IN that/DT ./.,{C and } the older they get the more that you're involved in that. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"I/PRP think/VBP it/PRP 's/BES great/JJ ,/,","I think it's great, /"
+%,A,"I/PRP really/RB ,/,","I really, -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,A,and/CC I/PRP look/VBP for/IN more/JJR of/IN that/DT in/IN the/DT next/JJ generation/NN ./.,{C and } I look for more of that in the next generation. /
+sd,B,"I/PRP do/VBP too/RB ,/, especially/RB as/IN women/NNS get/VBP up/RP in/IN management/NN and/CC ,/, and/CC can/MD be/VB in/RP on/IN those/DT decision/NN making/NN ,/,","I do too, especially as women get up in management [ and, + and ] can be in on those decision making, - /"
+sd,B,"you/PRP know/VBP ,/, when/WRB that/DT subject/NN comes/VBZ up/RP they/PRP can/MD say/VB yes/UH ,/,","{D you know, } when that subject comes up they can say yes, /"
+sv,B,that/DT would/MD be/VB wonderful/JJ ./.,that would be wonderful. /
+aa,A,"Yes/UH ,/,","Yes, /"
+sd,A,"oh/UH ,/, I/PRP do/VBP too/RB ./.","{F oh, } I do too. /"
+sv,B,"Plus/CC ,/, I/PRP bet/VBP it/PRP cuts/VBZ ,/, cuts/VBZ down/RP on/IN your/PRP$ absenteeism/NN because/IN you/PRP 've/VBP got/VBN two/CD days/NNS off/RP that/WDT you/PRP can/MD do/VB everything/NN ,/,","Plus, I bet it [ cuts, + cuts ] down on your absenteeism because you've got two days off that you can do everything, /"
+sv,B,"so/IN you/PRP do/VBP n't/RB have/VB to/TO ,/, you/PRP know/VBP ,/, unless/IN you/PRP 're/VBP just/RB really/RB sick/JJ ,/, or/CC the/DT child/NN 's/BES sick/JJ ./.","{C so } you don't have to, {D you know, } unless you're just really sick, or the child's sick. /"
+sd,A,"Most/JJS of/IN the/DT time/NN now/RB ,/, you/PRP know/VBP ,/, it/PRP 's/BES just/RB the/DT weekend/NN ,/,","Most of the time now, {D you know, } it's just the weekend, /"
+sd,A,or/CC just/RB forget/VB it/PRP ./.,{C or } just forget it. /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,"oh/UH yeah/UH ,/,","{F oh } yeah, /"
+sd,B,"I/PRP have/VBP to/TO plan/VB way/NN in/IN advance/NN ,/, because/IN ,/,","I have to plan way in advance, because, - /"
+sd,B,"or/CC ,/, what/WP I/PRP 've/VBP done/VBN is/VBZ found/VBN like/UH doctors/NNS '/POS and/CC dentists/NNS '/POS office/NN with/IN extended/JJ hours/NNS ./.","{C or, } what I've done is found {D like } doctors' and dentists' office with extended hours. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"That/DT 's/HVS been/VBN real/RB helpful/JJ too/RB ,/,","That's been real helpful too, /"
+sd,B,like/IN my/PRP$ doctor/NN stays/NNS open/JJ til/IN nine/CD in/IN the/DT evening/NN ./.,{D like } my doctor stays open til nine in the evening. /
+sd,B,"So/RB that/DT 's/BES real/RB helpful/JJ ,/,","{C So } that's real helpful, /"
+sd,B,"so/RB you/PRP do/VBP n't/RB ,/, you/PRP know/VBP ,/, have/VB to/TO do/VB it/PRP during/IN office/NN hours/NNS ,/, run/VB out/RB on/IN your/PRP$ lunch/NN hour/NN ./.","{C so } you don't, {D you know, } have to do it during office hours, run out on your lunch hour. /"
+sd,B,"I/PRP do/VBP n't/RB know/VB how/WRB many/JJ times/NNS I/PRP 've/VBP done/VBN that/DT to/TO do/VB something/NN ,/,","I don't know how many times I've done that to do something,"
+b^m,A,"To/TO do/VB ,/,","To do, /"
+b,A,yeah/UH ./.,yeah. /
++,B,"post/NN office/NN or/CC the/DT bank/NN or/CC any/DT kind/NN of/IN errand/NN ,/,","post office or the bank or any kind of errand, /"
+%,B,so/RB ./.,{C so. } -/
+aa,A,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Well/UH I/PRP think/VBP we/PRP 've/VBP really/RB come/VBN a/DT long/JJ way/NN in/IN that/DT because/IN ,/,","{D Well } I think we've really come a long way in that because, -/"
+aa,B,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,B,"I/PRP guess/VBP I/PRP take/VBP it/PRP for/IN granted/JJ ,/, kind/RB of/RB ,/, because/IN ,/, I/PRP just/RB ,/,","I guess I take it for granted, kind of, because, I just, - /"
+sd,B,it/PRP 's/HVS always/RB been/VBN that/DT way/NN ./.,it's always been that way. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"But/CC I/PRP know/VBP ,/,","{C But } I know, -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"but/CC I/PRP can/MD rem/VB ,/, remember/VB back/RB growing/VBG up/RP ,/, my/PRP$ mother/NN ,/,","{C but } I can [ rem-, + remember ] back growing up, my mother, - /"
+%,A,I/PRP mean/VBP it/PRP was/VBD,{E I mean } it was - /
+sd,A,"she/PRP always/RB worked/VBD ,/,","she always worked, /"
+sd,A,but/CC it/PRP was/VBD n't/RB that/RB easy/JJ for/IN her/PRP to/TO just/RB take/VB off/RP ./.,{C but } it wasn't that easy for her to just take off. /
+aa,B,"Oh/UH no/UH ,/,","{F Oh } no, /"
+sd,B,"I/PRP can/MD remember/VB my/PRP$ mother/NN getting/VBG in/IN trouble/NN if/IN ,/, you/PRP know/VBP ,/, one/CD of/IN was/VBD sick/JJ ,/,","I can remember my mother getting in trouble if, {D you know, } one of was sick, /"
+sd,B,"and/CC I/PRP know/VBP she/PRP probably/RB did/VBD n't/RB make/VB hardly/RB anything/NN ,/, you/PRP know/VBP ,/, compared/JJ to/IN the/DT work/NN that/WDT she/PRP did/VBD ./.","{C and } I know she probably didn't make hardly anything, {D you know, } compared to the work that she did. /"
+aa,A,Oh/UH yeah/UH ./.,{F Oh } yeah. /
+sd,B,"I/PRP think/VBP there/EX is/VBZ still/RB some/DT discrimination/NN there/EX where/WRB as/IN ,/, you/PRP know/VBP ,/, men/NNS and/CC women/NNS work/VBP in/IN the/DT same/JJ job/NN ,/,","I think there is still some discrimination there where [ as, + ] {D you know, } men and women work in the same job, /"
+sd,B,"I/PRP think/VBP men/NNS get/VBP paid/VBN more/JJR ,/,","I think men get paid more, /"
+aa,A,"Oh/UH ,/, I/PRP do/VBP too/RB ./.","{F Oh, } I do too. /"
+sv,B,but/CC I/PRP think/VBP that/DT 's/BES improving/VBG ./.,{C but } I think that's improving. /
+sv,B,It/PRP 's/BES such/PDT a/DT slow/JJ process/NN,It's such a slow process /
+sv,B,"it/PRP 's/BES frustrating/JJ ,/,","it's frustrating, /"
+sv,B,"but/CC ,/,","{C but, }"
+b,A,"Yes/UH ,/,","Yes, /"
+b,A,yes/UH ./.,yes. /
++,B,you/PRP can/MD see/VB that/IN it/PRP 's/BES wrong/JJ,you can see that it's wrong /
+sv,B,"and/CC you/PRP just/RB want/VBP to/TO make/VB it/PRP right/JJ ,/,","{C and } you just want to make it right, /"
+sv,B,but/CC at/IN least/JJS the/DT wheels/NNS are/VBP moving/VBG forward/RB ./.,{C but } at least the wheels are moving forward. /
+aa,A,They/PRP really/RB are/VBP ./.,They really are. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"I/PRP think/VBP it/PRP 's/BES getting/VBG better/JJR ,/, not/RB worse/JJR ./.","I think it's getting better, not worse. /"
+fc,B,"Well/UH ,/, I/PRP should/MD probably/RB get/VB back/RB to/IN my/PRP$ job/NN ./.","{D Well, } I should probably get back to my job <laughter>. /"
+fc,A,"I/PRP know/VBP ,/,","I know, /"
+fc,A,I/PRP know/VBP the/DT feeling/NN ./.,<laughter> I know the feeling. /
+fc,B,Call/VB again/RB ./.,Call again. /
+fc,A,"Okay/UH ,/,","Okay, /"
+fc,A,I/PRP sure/RB will/MD ./.,I sure will. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /
+fc,B,"Okay/UH ,/,","Okay, /"
+fc,B,bye-bye/UH ./.,bye-bye. /

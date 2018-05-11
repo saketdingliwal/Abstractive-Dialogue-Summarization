@@ -1,0 +1,270 @@
+act_tag,speaker,pos,text
+sd,A,"I/PRP do/VBP n't/RB know/VB what/WP the/DT ,/, the/DT last/JJ thing/NN I/PRP 've/VBP done/VBN as/RB far/RB as/IN car/NN repairs/NNS go/VBP is/VBZ ,/, is/VBZ change/VB oil/NN and/CC filter/NN an/^CC ,/, and/CC that/DT kind/NN of/IN stuff/NN ./.","I don't know what [ the, + the ] last thing I've done as far as car repairs go [ is, + is ] change oil and filter [ an, + and ] that kind of stuff. /"
+sd,A,"I/PRP have/VBP n't/RB gotten/VBN really/RB involved/JJ in/IN anything/NN ,/, uh/UH ,/, extensive/JJ in/IN car/NN repairs/NNS in/IN ,/, oh/UH ,/, oh/UH ,/, probably/RB a/DT year/NN or/CC so/RB ./.","I haven't gotten really involved in anything, {F uh, } extensive in car repairs in, {F oh, } {F oh, } probably a year or so. /"
+sd,A,I/PRP think/VBP the/DT last/JJ thing/NN I/PRP did/VBD of/IN any/DT significance/NN was/VBD change/VB the/DT water/NN pump/NN on/IN an/DT Oldsmobile/NNP ./.,I think the last thing I did of any significance was change the water pump on an Oldsmobile. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP had/VBD a/DT similar/JJ thing/NN ,/, that/WDT I/PRP 've/VBP worked/VBN on/IN cars/NNS ever/RB since/IN I/PRP was/VBD ,/, uh/UH ,/, a/DT kid/NN ./.","I had a similar thing, that I've worked on cars ever since I was, {F uh, } a kid <laughter>. /"
+sd,B,"And/CC that/DT was/VBD some/DT time/NN ago/RB ,/,","{C And } that was some time ago, /"
+sd,B,"but/CC I/PRP 've/VBP gotten/VBN to/IN the/DT point/NN where/WRB ,/, uh/UH ,/, the/DT newer/JJR cars/NNS are/VBP getting/VBG so/RB complicated/JJ to/TO work/VB on/RP that/IN ,/, uh/UH ,/, oh/UH ,/, most/JJS of/IN the/DT cars/NNS","{C but } I've gotten to the point where, {F uh, } the newer cars are getting so complicated to work on that, {F uh, } {F oh, } most of the cars - /"
+sd,B,"I/PRP buy/VBP ,/, I/PRP try/VBP to/TO buy/VB as/IN simple/JJ a/DT car/NN as/IN possible/JJ ./.","[ I buy, + I try to buy ] as simple a car as possible. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+ba,A,I/PRP know/VBP what/WP you/PRP mean/VBP ./.,I know what you mean. /
+sd,B,"So/RB ,/, you/PRP know/VBP ,/, changing/VBG the/DT oil/NN ,/, changing/VBG the/DT spark/NN plugs/NNS","{C So, } {D you know, } changing the oil, changing the spark plugs - /"
+sv,B,"and/CC most/JJS of/IN them/PRP now/RB ,/, you/PRP know/VBP ,/, you/PRP do/VBP n't/RB go/VB through/IN the/DT ignition/NN stuff/NN anymore/RB because/IN that/DT 's/BES all/DT solid/JJ state/NN or/CC ,/,","{C and } most of them now, {D you know, } you don't go through the ignition stuff anymore because that's all solid state [ or, +"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+^2,A,"or/CC fuel/NN injected/JJ ,/,","or fuel injected, /"
+%,A,"and/CC so/RB there/EX 's/BES ,/,","{C and so } there's, -/"
++,B,or/CC fuel/NN injected/JJ,or ] fuel injected /
+sv,B,so/RB there/EX goes/VBZ the/DT carburetor/NN,{C so } there goes the carburetor /
+sv,B,"and/CC if/IN the/DT fuel/NN injection/NN system/NN breaks/VBZ down/RP ,/,","{C and } if the fuel injection system breaks down,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,there/EX 's/BES no/DT way/NN in/IN the/DT world/NN you/PRP 're/VBP going/VBG to/TO work/VB on/IN that/DT ./.,there's no way in the world you're going to work on that. /
+aa,A,No/UH,No /
+aa,A,there/EX 's/BES no/DT way/NN ./.,there's no way. /
+sd,A,"Somebody/NN once/RB said/VBD ,/, uh/UH ,/, I/PRP had/VBD a/DT car/NN that/WDT said/VBD fuel/NN injection/NN on/IN the/DT side/NN of/IN it/PRP","Somebody once said, {F uh, } I had a car that said fuel injection on the side of it /"
+sd,A,and/CC a/DT woman/NN asked/VBD me/PRP what/WP that/DT meant/VBD,{C and } a woman asked me what that meant /
+sd,A,and/CC I/PRP said/VBD that/DT means/VBZ that/IN I/PRP ca/MD n't/RB work/VB on/IN it/PRP ./.,{C and } I said that means that I can't work on it. /
+b,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+b,B,"yeah/UH ,/,","yeah, /"
+ba,B,basically/RB that/DT 's/BES it/PRP ./.,basically that's it. /
+sv,A,"You/PRP know/VBP ,/, they/PRP 've/VBP gotten/VBN so/RB complicated/JJ or/CC so/RB high/JJ tech/NN that/IN ,/, uh/UH ,/, the/DT guys/NNS ,/, average/JJ guys/NNS ca/MD n't/RB really/RB go/VB out/IN in/IN the/DT ,/, in/IN the/DT garage/NN and/CC do/VB a/DT whole/JJ lot/NN of/IN repairs/NNS ,/, uh/UH ./.","{D You know, } they've gotten so complicated or so high tech that, {F uh, } [ the guys, + average guys ] can't really go out [ in the, + in the ] garage and do a whole lot of repairs, {F uh. } /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP 've/VBP got/VBN ,/, uh/UH ,/, an/DT eighty-four/CD Chevy/NNP van/NN that/WDT 's/BES ,/, uh/UH ,/, a/DT one/CD ton/NN van/NN with/IN a/DT camper/NN conversion/NN on/IN it/PRP ./.","I've got, {F uh, } an eighty-four Chevy van that's, {F uh, } a one ton van with a camper conversion on it. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"It/PRP 's/HVS got/VBN the/DT ,/, the/DT ,/, the/DT good/JJ old/JJ three/CD fifty/CD ,/,","It's got [ [ the, + the, ] + the ] good old three fifty,"
+aa,A,Absolutely/UH ./.,Absolutely. /
++,B,standard/JJ engine/NN in/IN it/PRP ./.,standard engine in it. /
+sd,B,"Regular/JJ gas/NN engine/NN ,/,","Regular gas engine, /"
+sd,B,"and/CC that/DT engine/NN I/PRP understand/VBP ,/,","{C and } that engine I understand, /"
+sd,B,"I/PRP can/MD ,/, wo/VB ,/, I/PRP can/MD actually/RB work/VB on/IN that/DT engine/NN ./.","[ I can, wo-, + I can actually work ] on that engine. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP used/VBD to/TO have/VB ,/, uh/UH ,/, ch-/NNP ,/, Chevy/NNP van/NN ,/,","I used to have, {F uh, } [ ch-, + Chevy ] van, /"
+sd,A,"it/PRP was/VBD a/DT short/JJ van/NN ,/,","it was a short van,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"that/WDT had/VBD the/DT ,/, the/DT three/CD fifty/CD in/IN it/PRP ./.","that had [ the, + the ] three fifty in it. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC basically/RB it/PRP ,/, it/PRP was/VBD a/DT motor/NN","{C And } basically [ it, + it ] was a motor /"
+sd,A,"and/CC you/PRP did/VBD n't/RB have/VB all/PDT the/DT other/JJ junk/NN around/IN it/PRP ,/,","{C and } you didn't have all the other junk around it, /"
+b,B,Right/UH ./.,Right. /
+sd,A,and/CC you/PRP could/MD get/VB to/IN it/PRP to/TO work/VB on/IN it/PRP ./.,{C and } you could get to it to work on it. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP had/VBD to/TO change/VB the/DT water/NN pump/NN in/IN that/DT ,/, here/RB about/RB a/DT year/NN ago/RB ./.","I had to change the water pump in that, here about a year ago. /"
+sd,B,And/CC it/PRP was/VBD really/RB fairly/RB easy/JJ ./.,{C And } it was really fairly easy. /
+sd,B,Take/VB the/DT grill/NN out/RB and/CC the/DT radiator/NN out/RB,Take the grill out and the radiator out /
+sd,B,and/CC you/PRP can/MD just/RB stand/VB there/RB and/CC work/VB on/IN it/PRP ./.,{C and } you can just stand there and work on it. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"the/DT hardest/JJS part/NN about/IN ,/, uh/UH ,/, water/NN pump/NN changes/NNS is/VBZ getting/VBG all/PDT the/DT junk/NN off/IN ,/, before/IN you/PRP can/MD get/VB too/^IN it/PRP ./.","the hardest part about, {F uh, } water pump changes is getting all the junk off, before you can get too it. /"
+aa,B,Well/UH that/DT 's/BES true/JJ ./.,{D Well } that's true <laughter>. /
+aa,B,"You/PRP 're/VBP right/JJ ,/, you/PRP know/VBP ,/,","You're right, {D you know, } /"
+sv,B,"by/IN the/DT time/NN you/PRP 've/VBP finally/RB got/VBN down/IN to/IN it/PRP ,/,","by the time you've finally got down to it, - /"
+sd,B,I/PRP was/VBD hoping/VBG I/PRP could/MD remember/VB where/WRB all/PDT those/DT other/JJ things/NNS went/VBD ./.,I was hoping I could remember where all those other things went. /
+sd,A,"Well/UH that/DT 's/BES kind/RB of/RB the/DT way/NN I/PRP was/VBD ,/,","{D Well } that's kind of the way I was, /"
+sd,A,"I/PRP tried/VBD to/TO remember/VB as/IN I/PRP took/VBD stuff/NN off/IN where/WRB it/PRP went/VBD ,/,","I tried to remember as I took stuff off where it went, /"
+sd,A,and/CC I/PRP do/VBP n't/RB think/VB I/PRP had/VBD too/RB many/JJ nuts/NNS and/CC bolts/NNS left/VBN over/RP when/WRB I/PRP got/VBD it/PRP all/DT put/VBP back/RB together/RB ./.,{C and } I don't think I had too many nuts and bolts left over when I got it all put back together. /
+sd,B,A/DT few/JJ years/NNS ago/RB I/PRP had/VBD an/DT Oldsmobile/NNP diesel/NN,A few years ago I had an Oldsmobile diesel /
+%,B,"and/CC ,/, uh/UH ,/, the/DT ,/,","{C and, } {F uh, } the, - /"
+%,B,"uh/UH ,/, it/PRP ,/,","{F uh, } it, - /"
+sd,B,after/IN about/RB a/DT hundred/CD thousand/CD miles/NNS the/DT injector/NN pump/NN went/VBD out/RP on/IN it/PRP ./.,after about a hundred thousand miles the injector pump went out on it. /
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP bought/VBD it/PRP when/WRB we/PRP were/VBD living/VBG in/IN Lubbock/NNP ,/,","{C And, } {F uh, } I bought it when we were living in Lubbock, /"
+sd,B,"when/WRB I/PRP came/VBD back/RB here/RB ,/, I/PRP brought/VBD the/DT car/NN back/RB here/RB","when I came back here, I brought the car back here /"
+sv,B,"and/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/, diesels/NNS got/VBD pretty/RB unpopular/JJ","{C and, } {F uh, } I don't know, diesels got pretty unpopular /"
+sv,B,"and/CC you/PRP could/MD n't/RB sell/VB the/DT thi-/XX ,/,","{C and } you couldn't sell the thi-, - /"
+sv,B,"I/PRP mean/VBP ,/, though/IN for/IN what/WP you/PRP could/MD get/VB for/IN one/CD ,/,","{E I mean, } though for what you could get for one,"
++,B,you/PRP might/MD as/RB well/RB drive/VB it/PRP over/IN a/DT cliff/NN ./.,you might as well drive it over a cliff. /
+sd,B,"And/CC ,/, uh/UH ,/, the/DT injector/NN pump/NN went/VBD bad/JJ","{C And, } {F uh, } the injector pump went bad /"
+sd,B,so/RB I/PRP found/VBD a/DT outfit/NN down/IN here/RB to/TO rebuild/VB it/PRP ./.,{C so } I found a outfit down here to rebuild it.
++,B,"And/CC ,/, uh/UH ,/, i-/XX ,/, reinstalled/VBD that/DT","And, {F uh, } [ i-, + ] reinstalled that /"
+sd,B,and/CC that/DT was/VBD probably/RB one/CD of/IN the/DT most/RBS miserable/JJ things/NNS I/PRP had/VBD gotten/VBN into/IN in/IN a/DT long/JJ time/NN ./.,{C and } that was probably one of the most miserable things I had gotten into in a long time. /
+sd,A,I/PRP do/VBP n't/RB think/VB I/PRP 'd/MD know/VB where/WRB to/TO start/VB with/IN a/DT diesel/NN ./.,I don't think I'd know where to start with a diesel. /
+%,B,"Oh/UH ,/, well/UH ,/, it/PRP ,/, you/PRP know/VBP ,/, i-/XX ,/,","{F Oh, } {D well, } [ it, + {D you know, } i-, ] - /"
+sv,B,"diesels/NNS do/VBP n't/RB require/VB mechanics/NNS ,/,","diesels don't require mechanics, /"
+sv,B,they/PRP require/VBP plumbers/NNS ./.,they require plumbers. /
+aa,A,Well/UH that/DT 's/BES true/JJ ./.,{D Well } that's true. /
+%,B,"And/CC ,/, uh/UH ,/, ./.","{C And, } {F uh, } <laughter>. -/"
+sd,A,"I/PRP think/VBP the/DT onl-/RB ,/, closest/JJS thing/NN I/PRP 've/VBP come/VBN to/IN ,/, to/IN a/DT diesel/NN is/VBZ ,/, I/PRP 've/VBP worked/VBN for/IN a/DT tractor/NN repair/NN shop/NN ,/, uh/UH ,/, when/WRB I/PRP was/VBD in/IN high/JJ school/NN","I think the [ onl-, + closest ] thing I've come [ to, + to ] a diesel is, I've worked for a tractor repair shop, {F uh, } when I was in high school /"
+sd,A,"and/CC ,/, uh/UH ,/, we/PRP used/VBD to/TO overhaul/VB farm/NN tractors/NNS basically/RB ,/,","{C and, } {F uh, } we used to overhaul farm tractors basically, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"and/CC they/PRP were/VBD nearly/RB all/DT ,/, all/DT diesel/NN ,/,","{C and } they were nearly [ all, + all ] diesel, /"
+sd,A,"but/CC as/RB far/RB as/IN cars/NNS I/PRP 've/VBP never/RB ,/, never/RB been/VBN involved/JJ with/IN them/PRP ./.","{C but } as far as cars I've never, never been involved with them. /"
+sd,B,"Well/UH the/DT injector/NN nozzle/NN and/CC stuff/NN in/IN ,/, you/PRP know/VBP ,/, the/DT big/JJ diesel/NN farm/NN tractors/NNS ,/, you/PRP know/VBP ,/, what/WDT are/VBP about/RB the/DT size/NN of/IN your/PRP$ thumb/NN ,/,","{D Well } the injector nozzle and stuff in, {D you know, } the big diesel farm tractors, {D you know, } {D what } are about the size of your thumb, /"
+%,B,"and/CC the-/XX ,/,","{C and } the-, -/"
+b,A,"Well/UH ,/, ye-/UH ,/, yeah/UH ,/,","{D Well, } [ ye-, + yeah, ] /"
+sv,A,"and/CC you/PRP ca/MD ,/, you/PRP can/MD get/VB to/IN them/PRP ./.","{C and } [ you ca-, + you can ] get to them. /"
+aa,B,yeah/UH,yeah /
+aa,B,"you/PRP can/MD get/VB to/IN them/PRP ,/,","you can get to them, /"
+sd,B,"and/CC the/DT ones/NNS in/IN ,/, in/IN the/DT diesel/NN cars/NNS were/VBD little/JJ tiny/JJ things/NNS and/CC just/RB almost/RB impossible/JJ to/TO do/VB anything/NN with/IN ./.","{C and } the ones [ in, + in ] the diesel cars were little tiny things and just almost impossible to do anything with. /"
+%,A,"Well/UH I/PRP ,/,","{D Well } I, -/"
+sd,B,"I/PRP 've/VBP had/VBN a/DT lot/NN of/IN good/JJ service/NN out/IN of/IN that/DT car/NN ,/,","I've had a lot of good service out of that car, /"
+sd,B,"but/CC ,/, uh/UH ,/, uh/UH ,/, I/PRP finally/RB gave/VBD it/PRP to/IN my/PRP$ son/NN","{C but, } {F uh, } {F uh, } I finally gave it to my son /"
+sd,B,"and/CC he/PRP drove/VBD it/PRP literally/RB into/IN the/DT ground/NN ,/, you/PRP know/VBP ./.","{C and } he drove it literally into the ground, {D you know } <laughter>. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,He/PRP was/VBD out/IN at/IN Tech/NNP,He was out at Tech /
+sd,B,"and/CC he/PRP ,/, he/PRP finished/VBD it/PRP off/RP ./.","{C and } [ he, + he ] finished it off. /"
+aa,A,"I/PRP 'm/VBP ,/, I/PRP guess/VBP you/PRP 're/VBP right/JJ","[ I'm, + I ] guess you're right /"
+aa,A,"the/DT ,/, the/DT diesel/NN has/VBZ almost/RB fallen/VBN into/IN unpopular/JJ status/NN ./.","[ the, + the ] diesel has almost fallen into unpopular status. /"
+sd,A,I/PRP do/VBP n't/RB know/VB exactly/RB why/WRB ./.,I don't know exactly why. /
+%,A,One/CD of/IN the/DT reasons/NNS is/VBZ,One of the reasons is - /
+qh,A,"I/PRP ,/, I/PRP 'm/VBP beginning/VBG to/TO wonder/VB is/VBZ ,/, where/WRB do/VBP you/PRP get/VB gas/NN at/IN ./.","[ I, + I'm ] beginning to wonder [ is, + ] where do you get gas at. /"
+%,A,"I/PRP su-/XX ,/,","I su-, - /"
+qy^d,A,"I/PRP do/VBP n't/RB know/VB if/IN it/PRP 's/BES still/RB ,/, uh/UH ,/, limited/JJ like/IN it/PRP was/VBD ,/,","I don't know if it's still, {F uh, } limited like it was, /"
+sd,A,"I/PRP do/VBP n't/RB notice/VB it/PRP ,/, probably/RB because/IN I/PRP don/VBP ,/,","I don't notice it, probably because I don-, -/"
+qw,B,"What/WP ,/,","What, /"
+qy,B,the/DT availability/NN ?/.,the availability? /
+br,A,Huh/UH ?/.,{F Huh? } /
+qy,B,You/PRP mean/VBP the/DT diesel/NN availability/NN ?/.,You mean the diesel availability? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB notice/VB","[ I don't, + I don't ] notice /"
+sd,A,but/CC maybe/RB because/IN I/PRP 'm/VBP not/RB looking/VBG for/IN it/PRP ./.,{C but } maybe because I'm not looking for it. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"well/UH I/PRP 'd/VBD bought/VBN ,/, uh/UH ,/, a/DT G/NNP M/NNP C/NNP diesel/NN pickup/NN and/CC ,/, uh/UH ,/, loved/VBD that/DT thing/NN ,/, you/PRP know/VBP ,/,","{D well } I'd bought, {F uh, } a G M C diesel pickup and, {F uh, } loved that thing, {D you know, } /"
+sd,B,I/PRP really/RB liked/VBD it/PRP ./.,I really liked it. /
+sd,B,"But/CC it/PRP turns/VBZ out/RP a/DT pickup/NN was/VBD n't/RB what/WP I/PRP really/RB needed/VBD ,/,","{C But } it turns out a pickup wasn't what I really needed, /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"and/CC it/PRP was/VBD the/DT van/NN that/WDT I/PRP needed/VBD then/RB ,/, to/TO buy/VB the/DT ,/, you/PRP know/VBP ,/,","{C and } it was the van that I needed then, to buy the, {D you know, } - /"
+sd,B,traded/VBD it/PRP in/RP on/IN the/DT Chevy/NNP van/NN ./.,traded it in on the Chevy van. /
+sd,B,"But/CC ,/, uh/UH ,/, sure/RB enjoyed/VBD it/PRP ./.","{C But, } {F uh, } sure enjoyed it. /"
+qy,A,"But/CC yo-/PRP ,/, you/PRP got/VBD the/DT ,/, the/DT three/CD fifty/CD in/IN the/DT van/NN ?/.","{C But } [ yo-, + you ] got [ the, + the ] three fifty in the van? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+ny,B,yeah/UH,yeah /
+sd,B,the/DT three/CD fifty/CD regular/JJ gas/NN engine/NN ./.,the three fifty regular gas engine. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"that/DT 's/BES what/WP I/PRP like/VBP because/IN ,/, they/PRP 've/VBP got/VBN plenty/NN of/IN power/NN ,/,","that's what I like because, they've got plenty of power, /"
+sv,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"if/IN you/PRP treat/VBP them/PRP right/RB ,/, they/PRP 're/VBP not/RB the/DT gas/NN guzzlers/NNS I/PRP think/VBP that/IN they/PRP 've/VBP got/VBN the/DT reputation/NN to/TO be/VB ./.","if you treat them right, they're not the gas guzzlers I think that they've got the reputation to be. /"
+sv,A,"I/PRP 'm/VBP convinced/JJ that/IN ,/, uh/UH ,/, Detroit/NNP or/CC whoever/WP it/PRP is/VBZ made/VBN a/DT major/JJ mistake/NN ,/,","I'm convinced that, {F uh, } Detroit or whoever it is made a major mistake,"
+b,B,Yeah/UH,Yeah /
+%,B,"co-/XX ,/,","co-, -/"
++,A,years/NNS ago/RB when/WRB they/PRP stopped/VBD putting/VBG the/DT small/JJ V/SYM eights/NNS in/IN and/CC went/VBD to/IN the/DT fours/NNS and/CC some/DT of/IN the/DT sixes/NNS ./.,years ago when they stopped putting the small V eights in and went to the fours and some of the sixes. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"I/PRP 'm/VBP convinced/JJ that/IN the/DT small/JJ V/SYM eight/CD like/UH the/DT ,/, the/DT Mustang/NNP 's/POS original/JJ two/CD eighty-nine/CD or/CC some/DT of/IN the/DT Chevy/NNP two/CD eighty-threes/NNS ,/,","I'm convinced that the small V eight like [ the, + the ] Mustang's original two eighty-nine or some of the Chevy two eighty-threes,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,were/VBD good/JJ little/JJ V/SYM eight/CD engines/NNS that/WDT were/VBD not/RB gas/NN guzzlers/NNS,were good little V eight engines that were not gas guzzlers /
+sv,A,"but/CC they/PRP had/VBD enough/JJ power/NN t-/TO ,/, pull/VB all/PDT this/DT weight/NN ./.","{C but } they had enough power t-, pull all this weight. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,And/CC the/DT four/CD cylinders/NNS just/RB do/VBP n't/RB have/VB it/PRP ./.,{C And } the four cylinders just don't have it. /
+sd,B,"I/PRP think/VBP that/IN little/JJ ,/, the/DT little/JJ Chevy/NNP V/SYM eight/CD when/WRB it/PRP started/VBD out/IN in/IN sixty/CD ,/, in/IN fifty-five/CD ,/, I/PRP think/VBP was/VBD two/CD sixty-five/CD ,/, something/NN like/IN that/DT ./.","I think [ that little, + the little ] Chevy V eight when it started out [ in sixty, + in fifty-five, ] I think was two sixty-five, something like that. -/"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Little/RB ,/, you/PRP know/VBP ,/, not/RB whole/JJ lot/NN more/JJR than/IN the/DT ,/, than/IN the/DT ,/, than/IN the/DT six/CD cylinder/NN that/WDT I/PRP think/VBP was/VBD like/UH about/RB two/CD thirty-five/CD or/CC so/RB ./.","Little, {D you know, } not whole lot more [ [ than the, + than the, ] + than the ] six cylinder that I think was like about two thirty-five or so. - /"
+sv,B,"But/CC ,/, uh/UH ,/, they/PRP kept/VBD boring/VBG that/DT block/NN out/IN to/IN where/WRB you/PRP could/MD a/DT get/VB a/DT four/CD hundred/CD ,/, small/JJ block/NN four/CD hundred/CD that/WDT was/VBD ,/, uh/UH ,/, the/DT same/JJ block/NN ,/, you/PRP know/VBP ,/, just/RB ,/, just/RB kept/VBD boring/VBG it/PRP out/RB and/CC boring/VBG it/PRP out/RB and/CC stroking/VBG it/PRP a/DT little/JJ bit/NN more/RBR ,/, an/DT ./.","{C But, } {F uh, } <laughter> they kept boring that block out to where you could a get a [ four hundred, + small block four hundred ] that was, {F uh, } the same block, {D you know, } [ just, + just ] kept boring it out and boring it out and stroking it a little bit more, an. -/"
+sv,A,"I/PRP think/VBP those/DT gu-/XX ,/, those/DT little/JJ V/NN eights/NNS could/MD have/VB been/VBN made/VBN to/TO be/VB pretty/RB powerful/JJ little/JJ engines/NNS ,/, if/IN they/PRP would/MD have/VB gone/VBN with/IN it/PRP ,/,","I think [ those gu-, + those little ] V eights could have been made to be pretty powerful little engines, if they would have gone with it, /"
+%,A,but/CC ./.,{C but. } -/
+sv,B,"Well/UH that/DT was/VBD ,/, uh/UH ,/, that/DT was/VBD a/DT short/JJ stroke/NN engine/NN it/PRP could/MD really/RB wind/VB up/RP ./.","{D Well } [ that was, + {F uh, } that was ] a short stroke engine it could really wind up. /"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,"The/DT two/CD little/JJ cars/NNS I/PRP 've/VBP got/VBN now/RB ,/,","The two little cars I've got now, - /"
+sd,B,bought/VBD a/DT Mitsubishi/NNP Mirage/NNP here/RB a/DT couple/NN of/IN years/NNS ago/RB,bought a Mitsubishi Mirage here a couple of years ago /
+sd,B,"and/CC ,/, and/CC it/PRP was/VBD normally/RB carbureted/VBN","[ {C and, } + {C and } ] it was normally carbureted /"
+sd,B,"and/CC it/PRP 's/BES fairly/RB easy/JJ to/TO work/VB with/IN because/IN there/EX 's/BES not/RB just/RB a/DT whole/JJ lot/NN in/IN it/PRP to/TO go/VB wrong/RB ,/,","{C and } it's fairly easy to work with because there's not just a whole lot in it to go wrong,"
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"that/DT 's/BES kind/RB of/RB like/IN ,/,","that's kind of like, -/"
++,B,and/CC you/PRP know/VBP changing/VBG the/DT plugs/NNS and/CC stuff/NN ./.,[ and + ] {D you know } changing the plugs and stuff. /
+sd,A,"the/DT ,/, the/DT first/JJ ,/, well/UH my/PRP$ first/JJ car/NN was/VBD a/DT fifty-six/CD Mustang/NNP","[ [ the, + the ] first, + {D well } my first ] car was a fifty-six Mustang /"
+%,A,"and/CC ,/, uh/UH ,/, over/IN the/DT years/NNS ,/, uh/UH ,/, all/DT","{C and, } {F uh, } over the years, {F uh, } all - /"
+sd,A,"I/PRP had/VBD a/DT ,/, uh/UH ,/, Dodge/NNP pickup/NN several/JJ years/NNS ago/RB ,/,","I had a, {F uh, } Dodge pickup several years ago, /"
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP ca/MD n't/RB remember/VB the/DT size/NN of/IN the/DT engine/NN","{C and, } {F uh, } I can't remember the size of the engine /"
+sd,A,"it/PRP was/VBD a/DT three/CD oh/UH ,/, seven/CD or/CC something/NN like/IN that/DT ,/,","it was a three {F oh, } seven or something like that, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"but/CC ,/, uh/UH ,/, I/PRP remember/VBP working/VBG on/IN those/DT cars/NNS ,/,","{C but, } {F uh, } I remember working on those cars, /"
+sd,A,you/PRP 'd/MD open/VB the/DT hood/NN,you'd open the hood /
+sd,A,"and/CC there/EX was/VBD basically/RB nothing/NN in/IN there/RB but/CC an/DT engine/NN ,/,","{C and } there was basically nothing in there but an engine,"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,uh-huh/UH ./.,uh-huh. /
++,A,and/CC a/DT few/JJ things/NNS ./.,and a few things. /
+sv,A,"Now/RB ,/, you/PRP open/VBP the/DT hood/NN and/CC it/PRP 's/BES scary/JJ ./.","Now, you open the hood and it's scary. /"
+b,B,Yeah/UH ./.,Yeah. /
+aa,A,Like/IN you/PRP say/VBP it/PRP takes/VBZ a/DT plumber/NN to/TO figure/VB out/RP where/WRB all/PDT this/DT stuff/NN goes/VBZ ./.,Like you say it takes a plumber to figure out where all this stuff goes. /
+sd,B,"The/DT friend/NN of/IN ours/PRP$ over/IN here/RB ,/, he/PRP 's/HVS got/VBN ,/, uh/UH ,/, sixty-five/CD ,/, or/CC sixty-six/CD Mustang/NNP the/DT six/CD cylinder/NN ./.","The friend of ours over here, he's got, {F uh, } sixty-five, or sixty-six Mustang the six cylinder. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP was/VBD look/VB under/IN the/DT hood/NN of/IN that/DT the/DT other/JJ day/NN","{C And, } {F uh, } I was look under the hood of that the other day /"
+aa,B,"and/CC like/IN you/PRP say/VBP ,/, you/PRP can/MD see/VB the/DT road/NN ./.","{C and } like you say, you can see the road. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,It/PRP 's/BES amazing/JJ ./.,It's amazing. /
+sv,A,Well/UH if/IN you/PRP had/VBD to/IN you/PRP could/MD climb/VB up/IN in/IN there/RB and/CC do/VB what/WP you/PRP needed/VBD to/TO ./.,{D Well } if you had to you could climb up in there and do what you needed to. /
+sv,B,"You/PRP coul/MD ,/, yeah/UH ,/, you/PRP could/MD stand/VB in/IN there/RB if/IN you/PRP really/RB wanted/VBD to/TO ,/, I/PRP guess/VBP ./.","[ You coul-, + {D yeah, } you could ] stand in there if you really wanted to, I guess. /"
+sd,A,"My/PRP$ dad/NN 's/HVS got/VBN a/DT new/JJ ,/, um/UH ,/,","My dad's got a new, {F um, } - /"
+sd,A,"I/PRP guess/VBP it/PRP 's/BES an/DT eighty-nine/CD or/CC ninety/CD ,/, uh/UH ,/, Chrysler/NNP something/NN or/CC other/JJ ./.","I guess it's an eighty-nine or ninety, {F uh, } Chrysler something or other. /"
+sd,A,"It/PRP 's/BES one/CD of/IN those/DT transverse/JJ mounted/JJ V/SYM sixes/NNS ,/, front/JJ wheel/NN drive/NN ./.","It's one of those transverse mounted V sixes, front wheel drive. /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,"And/CC ,/, uh/UH ,/, he/PRP was/VBD showing/VBG it/PRP to/IN me/PRP","{C And, } {F uh, } he was showing it to me /"
+sd,A,and/CC we/PRP 're/VBP looking/VBG under/IN the/DT hood/NN and/CC everything/NN 's/BES nice/JJ and/CC clean/JJ,{C and } we're looking under the hood and everything's nice and clean /
+sd,A,"and/CC ,/, you/PRP know/VBP ,/, you/PRP can/MD see/VB the/DT three/CD spark/NN plugs/NNS there/RB in/IN the/DT front/NN ./.","{C and, } {D you know, } you can see the three spark plugs there in the front. /"
+sd,A,And/CC I/PRP said/VBD well/UH where/WRB are/VBP the/DT other/JJ three/CD ./.,{C And } I said {D well } where are the other three. /
+x,B,./.,<Laughter>.
+sd,A,And/CC he/PRP 'd/VBD never/RB really/RB thought/VBN about/IN it/PRP ./.,{C And } he'd never really thought about it. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC he/PRP says/VBZ well/UH ,/, hopefully/RB I/PRP wo/MD n't/RB have/VB to/TO change/VB them/PRP ,/, before/IN I/PRP trade/VBP it/PRP off/RP ./.","{C And } he says {D well, } hopefully I won't have to change them, before I trade it off. /"
+%,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,it/PRP 's/BES going/VBG to/TO be/VB a/DT problem/NN getting/VBG back/RB there/RB because/IN it/PRP was/VBD shoved/VBN right/RB up/IN against/IN the/DT fire/NN wall/NN ./.,it's going to be a problem getting back there because it was shoved right up against the fire wall. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,So/RB they/PRP just/RB about/RB complicated/VBD the/DT things/NNS so/RB much/RB that/IN shade/NN tree/NN mechanics/NNS ca/MD n't/RB do/VB much/JJ with/IN them/PRP ./.,{C So } they just about complicated the things so much that shade tree mechanics can't do much with them. /
+b,B,Yeah/UH ./.,Yeah. /
+%,B,"Well/UH when/WRB they/PRP went/VBD to/IN the/DT ,/,","{D Well } when they went to the, - /"
+sv,B,"started/VBN with/IN the/DT newer/JJR engines/NNS ,/, you/PRP know/VBP ,/,","started with the newer engines, {D you know, } /"
+sv,B,"when/WRB they/PRP started/VBD putting/VBG all/PDT that/DT pollution/NN control/NN stuff/NN on/IN the/DT older/JJR engines/NNS is/VBZ where/WRB they/PRP started/VBD getting/VBG into/IN so/RB much/JJ ,/, you/PRP know/VBP ,/, trouble/NN ./. Because/IN the/DT three/CD fifty/CD with/IN all/PDT the/DT ,/, you/PRP know/VBP ,/,","when they started putting all that pollution control stuff on the older engines is where they started getting into so much, {D you know, } trouble. Because the three fifty with all the, {D you know, } - /"
+%,B,"like/UH well/UH ,/, actually/RB ,/, I/PRP guess/VBP ,/, her-/XX ,/,","{D like } {D well, } actually, I guess, her-, - /"
+sd,B,within/IN a/DT couple/NN of/IN years/NNS ago/RB anyway/RB was/VBD the/DT last/JJ I/PRP 've/VBP paid/VBN any/DT attention/NN to/IN it/PRP ./.,within a couple of years ago anyway was the last I've paid any attention to it. /
+sd,B,"The/DT three/CD oh/UH five/CD was/VBD that/DT ,/, that/DT ,/,","The three oh five was [ that, + that, ]"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"V/SYM eight/CD that/WDT they/PRP put/VBD in/IN the/DT ,/, the/DT three/CD quarter/NN and/CC ,/, and/CC half/JJ ton/NN van/NN ./.","V eight that they put in [ the, + the ] three quarter [ and, + and ] half ton van. /"
+sd,B,"And/CC it/PRP had/VBD all/PDT the/DT air/NN pump/NN and/CC ,/, uh/UH ,/, uh/UH ,/,","{C And } it had all the air pump and, {F uh, } {F uh, }"
+b,A,Right/UH ./.,Right. /
++,B,"I/PRP do/VBP n't/RB know/VB ,/, all/PDT that/DT ,/, all/PDT that/DT stuff/NN ./.","{A I don't know, } [ all that, + all that ] stuff. /"
+b,A,Yeah/UH,Yeah /
+sd,A,the/DT anti-smog/JJ pumps/NNS ./.,the anti-smog pumps. /
+aa,B,And/CC all/PDT the/DT anti-smog/JJ stuff/NN ./.,{C And } all the anti-smog stuff. /
+sd,B,"And/CC ,/, uh/UH ,/, boy/UH that/DT was/VBD ,/, uh/UH ,/, really/RB a/DT mess/NN back/RB under/IN there/RB under/IN the/DT ,/, in/IN that/DT van/NN ./.","{C And, } {F uh, } boy that was, {F uh, } really a mess back under there [ under the, + ] in that van. /"
+sv,A,And/CC all/PDT that/DT stuff/NN loads/VBZ the/DT motor/NN down/RP ./.,{C And } all that stuff loads the motor down. /
+aa,B,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,B,uh-huh/UH ./.,uh-huh. /
+sv,A,So/RB it/PRP 's/BES trying/VBG to/TO push/VB the/DT weight/NN plus/CC have/VB all/PDT this/DT drain/NN on/IN it/PRP from/IN all/DT sorts/NNS of/IN belts/NNS and/CC things/NNS ./.,{C So } it's trying to push the weight plus have all this drain on it from all sorts of belts and things. /
+sv,A,But/CC that/DT 's/BES one/CD good/JJ thing/NN,{C But } that's one good thing /
+sd,A,"I/PRP 've/VBP got/VBN a/DT ,/, uh/UH ,/, eight/CD ninety/CD ,/, uh/UH ,/, Chevy/NNP Blazer/NNP now/RB","I've got a, {F uh, } eight ninety, {F uh, } Chevy Blazer now /"
+sd,A,"and/CC it/PRP 's/HVS got/VBN one/CD ,/, uh/UH ,/, belt/NN on/IN it/PRP a/DT serpentine/JJ belt/NN ./.","{C and } it's got one, {F uh, } belt on it a serpentine belt. /"
+qy^d,B,"Oh/UH ,/, it/PRP 's/BES that/DT one/NN that/WDT 's/BES about/RB ,/, uh/UH ,/, what/WP an/DT inch/NN and/CC a/PDT half/DT wide/JJ ./.","{F Oh, } it's that one that's about, {F uh, } what an inch and a half wide. /"
+ny,A,Yeah/UH ./.,Yeah. /
+qy^d,B,Got/VBD a/DT bunch/NN of/IN groves/NNS in/IN it/PRP ./.,Got a bunch of groves in it. /
+sd,A,I/PRP have/VBP n't/RB had/VBN to/TO replace/VB the/DT thing/NN yet/RB ./.,I haven't had to replace the thing yet. /
+sd,A,"It/PRP looks/VBZ like/IN it/PRP would/MD be/VB ,/, uh/UH ,/, better/JJR than/IN having/VBG ,/,","It looks like it would be, {F uh, } better than having, - /"
+sd,A,"I/PRP 've/VBP got/VBN an/DT ,/, an/DT Olds/NNP Toronado/NNP that/WDT ,/, I/PRP think/VBP 's/HVS got/VBN six/CD belts/NNS on/IN the/DT sucker/NN ./.","I've got an, an Olds Toronado that, I think's got six belts on the sucker. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC I/PRP had/VBD to/TO get/VB all/PDT those/DT off/RP ,/, you/PRP know/VBP ,/, when/WRB I/PRP was/VBD replace/VB that/DT ,/, uh/UH ,/, water/NN pump/NN ./.","{C And } I had to get all those off, {D you know, } when I was replace that, {F uh, } water pump. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP had/VBD to/TO struggle/VB with/IN that/DT for/IN a/DT while/NN to/TO figure/VB which/WDT belt/NN goes/VBZ where/WRB ./.","{C And, } {F uh, } I had to struggle with that for a while to figure which belt goes where. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,it/PRP 's/BES kind/RB of/RB like/IN the/DT inside/JJ dual/NN on/IN a/DT truck/NN ./.,it's kind of like the inside dual on a truck. /
+sv,B,"You/PRP know/VBP ,/, when/WRB one/CD of/IN them/PRP breaks/VBZ ,/,","{D You know, } when one of them breaks,"
+ba,A,Oh/UH man/UH ./.,{F Oh } man. /
++,B,"it/PRP 's/BES not/RB the/DT outside/JJ one/NN ,/,","it's not the outside one, /"
+sv,B,"it/PRP 's/BES ,/, it/PRP 's/BES the/DT ,/, it/PRP 's/BES usually/RB that/DT power/NN steering/NN be-/IN ,/,","[ [ it's, + it's the, ] + it's ] usually that power steering be-, - /"
+sv,B,or/CC something/NN that/WDT 's/BES way/RB back/RB in/IN there/RB ./.,{C or } something that's way back in there. /
+ba,A,"You/PRP bet/VBP ,/,","You bet, /"
+sv,A,everything/NN else/RB 's/HVS got/VBD to/TO come/VB off/RP first/RB ./.,everything else's got to come off first. /
+aa,B,Everything/NN 's/HVS got/VBN to/TO come/VB off/RP ./.,Everything's got to come off. /
+fc,A,"Well/UH ,/, it/PRP 's/BES a/DT pleasure/NN meeting/VBG you/PRP ./.","{D Well, } it's a pleasure meeting you. /"
+fc,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"and/CC we/PRP 'll/MD ,/, uh/UH ,/,","{C and } we'll, {F uh, } - /"
+fc,B,how/WRB many/JJ times/NNS have/VBP you/PRP done/VBN this/DT now/RB ?/.,how many times have you done this now? /
+%,B,"Is/VBZ this/DT ,/,","Is this, -/"
+fc,A,"Uh/UH ,/, I/PRP 've/VBP got/VBN ,/, uh/UH ,/, five/CD stickers/NNS here/RB from/IN T/NNP I/NNP ,/,","{F Uh, } I've got, {F uh, } five stickers here from T I, /"
+fc,A,"so/RB I/PRP guess/VBP I/PRP 've/VBP done/VBN probably/RB ,/, uh/UH ,/, I/PRP 'd/MD say/VB seven/CD or/CC eight/CD of/IN them/PRP ./.","{C so } I guess I've done probably, {F uh, } I'd say seven or eight of them. /"
+fc,B,"Yeah/UH ,/,","Yeah, /"
+fc,B,"I/PRP had/VBD n't/RB ,/, uh/UH ,/, had/VBD n't/RB ,/, not/RB gotten/VBN any/DT calls/NNS here/RB in/IN the/DT last/JJ ,/, uh/UH ,/,","I [ hadn't, {F uh, } + hadn't, ] [ not + ] gotten any calls here in the last, {F uh, } - /"
+fc,B,this/DT is/VBZ the/DT first/JJ one/NN in/IN a/DT week/NN or/CC so/RB ./.,this is the first one in a week or so. /
+fc,A,"Yeah/UH ,/,","Yeah, /"
+fc,A,"I/PRP have/VBP n't/RB gotten/VBN any/DT calls/NNS in/IN two/CD weeks/NNS ,/,","I haven't gotten any calls in two weeks, /"
+fc,A,"so/RB I/PRP do/VBP n't/RB know/VB ,/, if/IN ,/, if/IN it/PRP 's/BES tapering/VBG off/RP ,/, or/CC what/WP ./.","{C so } I don't know, [ if, + if ] it's tapering off, or what. /"
+fc,B,"If/IN ta-/XX ,/, it/PRP 's/BES winding/VBG down/RP or/CC what/WP ./.","If [ ta-, + ] it's winding down or what. /"
+fc,A,"I/PRP had/VBD a/DT difficult/JJ time/NN the/DT past/JJ couple/NN of/IN times/NNS of/IN getting/VBG ,/, uh/UH ,/, answers/NNS ./.","I had a difficult time the past couple of times of getting, {F uh, } answers. /"
+fc,B,Finding/VBG a/DT taker/NN ./.,Finding a taker. /
+%,A,"So/RB it/PRP sounds/VBZ ,/,","{C So } it sounds, - /"
+fc,A,"it/PRP 's/HVS taken/VBN them/PRP ten/CD ,/, fifteen/CD minutes/NNS at/IN a/DT time/NN ,/,","it's taken them [ ten, + fifteen ] minutes at a time, /"
+fc,A,"so/RB ,/, people/NNS are/VBP either/RB not/RB ,/,","{C so, } people are either not, - /"
+%,A,"no-/XX ,/,","no-, - /"
+fc,A,"maybe/RB they/PRP 're/VBP burnt/JJ out/RP or/CC ,/,","maybe they're burnt out or, - /"
+%,A,yeah/UH ./.,yeah. /
+fc,B,"Yeah/UH ,/, well/UH ./.","Yeah, {D well. } /"
+fc,A,Anyway/RB let/VB you/PRP go/VB ./.,{D Anyway } let you go. /
+fc,A,Thanks/NNS for/IN talking/VBG ./.,Thanks for talking. /
+fc,B,"Okay/UH ,/,","Okay, /"
+fc,B,all/RB right/JJ ./.,all right. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

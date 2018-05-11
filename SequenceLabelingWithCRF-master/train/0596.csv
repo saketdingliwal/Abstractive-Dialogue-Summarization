@@ -1,0 +1,181 @@
+act_tag,speaker,pos,text
+^2,A,"Well/UH ,/, uh/UH ,/, let/VB 's/PRP see/VB ,/,","{D Well, } {F uh, } let's see, /"
+^2,A,what/WDT type/NN of/IN car/NN do/VBP I/PRP want/VB ?/.,what type of car do I want? /
+sd,A,"Well/UH ,/, I/PRP 'd/MD like/VB to/TO have/VB a/DT Corvette/NNP ./.","{D Well, } I'd like to have a Corvette. /"
+ba,B,"Oh/UH ,/, wow/UH ./.","{F Oh, } wow. /"
+sd,A,"But/CC my/PRP$ ,/, uh/UH ,/, weekly/JJ wages/NNS do/VBP n't/RB apply/VB for/IN me/PRP to/TO have/VB that/DT kind/NN of/IN car/NN ,/,","<Laughter> {C But } my, {F uh, } weekly wages don't <laughter> apply for me to have that kind of car, /"
+%,A,so/RB --/:,{C so } -- -/
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: uh/UH ,/, I/PRP 'm/VBP engaged/JJ to/TO get/VB married/VBN","-- {F uh, } I'm engaged to get married /"
+sd,A,"so/RB ,/, I/PRP 'll/MD more/RBR likely/RB get/VB a/DT car/NN for/IN economic/JJ reasons/NNS ./.","{C so, } I'll more likely get a car for economic reasons. /"
+b,B,Right/UH ./.,Right. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"and/CC ,/, uh/UH ,/, so/RB ,/, uh/UH ,/, to/TO drive/VB back/RB and/CC forth/RB to/IN work/NN is/VBZ all/DT I/PRP 'll/MD need/VB a/DT car/NN for/IN pretty/RB much/RB ./.","[ {C and, } + {F uh, } {C so, } ] {F uh, } to drive back and forth to work is all I'll need a car for pretty much. /"
+sd,A,"And/CC we/PRP have/VBP a/DT truck/NN ,/,","{C And } we have a truck, /"
+sd,A,"so/RB probably/RB a/DT economic/JJ size/NN car/NN or/CC ,/, uh/UH ,/,","{C so } probably a economic size car or, {F uh, } -/"
+qw,B,What/WDT kind/NN of/IN a/DT car/NN do/VBP you/PRP have/VB now/RB ?/.,What kind of a car do you have now? /
+sd,A,Right/RB now/RB I/PRP have/VBP a/DT eighty-seven/CD Cavalier/NNP ./.,Right now I have a eighty-seven Cavalier. /
+sd,A,"It/PRP 's/BES a/DT piece/NN of/IN ,/,","It's a piece of <laughter>, -/"
+sd,B,"My/PRP$ car/NN is/VBZ really/RB old/JJ ,/, too/RB ,/,","<Laughter> My car is really old, too, /"
+sd,B,"because/RB ,/, uh/UH ,/, I/PRP drive/VBP out/IN of/IN town/NN a/DT lot/NN of/IN the/DT weekends/NNS --/:","{C because, } {F uh, } I drive out of town a lot of the weekends -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC ,/, uh/UH ,/, I/PRP would/MD like/VB my/PRP$ next/JJ car/NN to/TO have/VB good/JJ gas/NN mileage/NN ./.","-- {C and, } {F uh, } I would like my next car to have good gas mileage. /"
+b,A,Right/UH ./.,Right. /
+sd,B,"And/CC ,/, uh/UH ,/, same/JJ here/RB ,/, uh/UH ,/,","{C And, } {F uh, } same here, {F uh, } /"
+sd,B,"you/PRP know/VBP ,/, a/DT nice/JJ car/NN ,/, American/NNP made/VBN","{D you know, } a nice car, American made - /"
+sd,B,"and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, a/DT ,/, a/DT nice/JJ car/NN ,/, but/CC not/RB too/RB expensive/JJ ,/,","{C and, } {F uh, } {D you know, } [ a, + a ] nice car, {C but } not too expensive, - /"
+sd,B,"because/IN ,/, uh/UH ,/, I/PRP could/MD n't/RB afford/VB like/UH a/DT brand/NN new/JJ like/UH Lamborghini/NNP ./.","{C because, } {F uh, } I couldn't afford {D like } a brand new {D like } Lamborghini <laughter>. /"
+x,A,./.,<Laughter>.
+sd,B,"I/PRP hardly/RB drive/VBP ,/,","I hardly drive, /"
+%,A,"But/CC while/IN we/PRP 're/VBP talking/VBG ,/,","{C But } while we're talking, - /"
+b,A,right/UH ./.,right <laughter>. /
+sd,B,"While/IN we/PRP 're/VBP talking/VBG ,/, my/PRP$ next/JJ car/NN ,/, I/PRP 'd/MD like/VB to/TO be/VB sporty/JJ and/CC ,/, you/PRP know/VBP --/:","While we're talking, my next car, I'd like to be sporty and, {D you know } --"
+b,A,Right/UH ./.,Right. /
++,B,"--/: nice/JJ ,/,","-- nice, /"
+sd,B,"but/CC ,/, you/PRP know/VBP ,/, it/PRP 's/BES expensive/JJ","{C but, } {D you know, } it's expensive /"
+sd,B,"and/CC then/RB insurance/NN is/VBZ really/RB high/JJ for/IN that/DT ,/, too/RB","{C and then } insurance is really high for that, too /"
+sd,B,"so/RB ,/,","{C so, }"
+ba,A,"Oh/UH ,/, I/PRP know/VBP ./.","{F Oh, } I know. /"
++,B,"Something/NN with/IN a/DT ,/, that/DT 's/BES not/RB too/RB sporty/JJ because/IN of/IN insurance/NN ,/, then/RB","Something [ with a, + ] that's not too sporty because of insurance, then - /"
+x,B,./.,<laughter>. /
+b,A,"Right/UH ,/,","Right, /"
+^2,A,that/DT insurance/NN does/VBZ come/VBN into/IN play/NN ./.,that insurance does come into play. /
+sd,A,I/PRP forgot/VBD about/IN that/DT ./.,I forgot about that. /
+b,B,Yeah/UH ./.,Yeah. /
+qw^d,A,What/WDT kind/NN of/IN insurance/NN do/VBP you/PRP have/VB up/IN there/RB,What kind of insurance do you have up there /
+qrr,A,or/CC is/VBZ it/PRP real/RB high/JJ up/IN there/RB ?/.,{C or } is it real high up there? /
+nn,B,"Uh/UH ,/, no/UH","{F Uh, } no /"
+sd,B,mine/PRP just/RB got/VBD lowered/VBN because/IN I/PRP just/RB turned/VBD twenty-one/CD,mine just got lowered because I just turned twenty-one /
+sd,B,"and/CC ,/, uh/UH ,/, I/PRP 'm/VBP not/RB sure/JJ really/RB how/WRB much/JJ I/PRP pay/VBP ./.","{C and, } {F uh, } I'm not sure really how much I pay. /"
+%,B,"I/PRP just/RB ,/,","I just, - /"
+sd,B,"my/PRP$ mom/NN 's/BES helping/VBG me/PRP out/RP ,/, you/PRP know/VBP ,/, because/IN I/PRP 'm/VBP a/DT college/NN ,/, I/PRP 'm/VBP in/IN college/NN","my mom's helping me out, {D you know, } because [ I'm a college, + I'm in college ] /"
+sd,B,"and/CC ,/, uh/UH ,/, so/RB I/PRP just/RB give/VBP her/PRP the/DT money/NN --/:","[ {C and, } + {F uh, } {C so } ] I just give her the money <laughter> --"
+b,A,Right/UH ./.,Right. /
++,B,--/: and/CC take/VBP her/PRP$ word/NN for/IN it/PRP ./.,-- and take her word for it <laughter>. /
+b,A,"Right/UH ,/,","Right, /"
+sd,A,I/PRP mean/VBP that/DT insurance/NN is/VBZ high/JJ dollars/NNS ./.,{E I mean } that insurance is high dollars. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,"yeah/UH ,/,","yeah, /"
+sd,B,"it/PRP is/VBZ ,/,","it is, /"
+%,B,"so/RB ,/,","{C so, } -/"
+%,A,"But/CC ,/,","{C But, } -/"
+sd,B,"And/CC the/DT more/RBR expensive/JJ the/DT car/NN ,/, the/DT higher/JJR it/PRP is/VBZ","{C And } the more expensive the car, the higher it is /"
+sd,B,"so/RB ,/,","{C so, }"
+b,A,"Right/UH ,/,","Right, /"
+b,A,yeah/UH ./.,yeah. /
++,B,"Unless/IN I/PRP win/VBP the/DT lottery/NN ,/, I/PRP wo/MD n't/RB be/VB driving/VBG ,/,","Unless I win the lottery, I won't be driving,"
+x,A,./.,<Laughter>.
++,B,anything/NN too/RB expensive/JJ ./.,anything too expensive. /
+b,A,Right/UH ./.,Right. /
+sd,B,"I/PRP do/VBP n't/RB plan/VB on/IN buying/VBG a/DT car/NN for/IN many/JJ ,/, many/JJ years/NNS","I don't plan on buying a car for many, many years <laughter> /"
+%,B,"so/RB ,/,","{C so, } -/"
+b,A,"Right/UH ,/,","Right, /"
+b,A,yeah/UH ./.,yeah. /
+sd,B,I/PRP have/VBP to/TO make/VB this/DT one/CD last/VB as/IN long/RB as/IN I/PRP can/MD ./.,I have to make this one last as long as I can. /
+qw,A,What/WP 's/VBZ everybody/NN drive/VB up/IN there/RB ?/.,What's everybody drive up there? /
+qy^d,B,"Uh/UH ,/, in/IN Kenosha/NNP ?/. ./.","{F Uh, } in Kenosha? <Laughter>. /"
+na,A,"I/PRP mean/VBP in/IN Wisconsin/NNP ,/, they/PRP drive/VBP them/PRP little/JJ --/:","{E I mean } in Wisconsin, they drive them little --"
+%,B,"Oh/UH ,/, it/PRP just/RB is/VBZ ,/,","{F Oh, } it just is, -/"
++,A,--/: four/CD wheelers/NNS or/CC four/CD wheel/NN drive/NN,-- four wheelers or four wheel drive /
+qrr,A,"or/CC ,/, do/VBP you/PRP all/DT need/VBP four/CD wheel/NN drives/NNS up/IN there/RB because/IN of/IN snow/NN and/CC everything/NN ?/.","{C or, } do you all need four wheel drives up there because of snow and everything? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"we/PRP ,/, we/PRP have/VBP a/DT Jeep/NNP with/IN four/CD wheel/NN drive/NN because/IN ,/, uh/UH ,/, because/IN of/IN the/DT snow/NN ,/, you/PRP mean/VBP","[ we, + we ] have a Jeep with four wheel drive [ because, + {F uh, } because ] of the snow, you mean /"
+%,B,"or/CC ,/,","{C or, } -/"
+b,A,"Right/UH ,/,","Right, /"
+sd,A,"it/PRP never/RB snows/VBZ down/IN here/RB ,/,","it never snows down here, /"
+%,A,"so/RB ,/,","{C so, } -/"
+sd,B,"Well/UH ,/, we/PRP do/VBP n't/RB have/VB any/DT snow/NN here/RB now/RB ./.","<Laughter> {D Well, } we don't have any snow here now. /"
+bh,A,Really/UH ?/.,Really? /
+sd,B,It/PRP all/DT melted/VBD ./.,It all melted. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,there/EX is/VBZ no/DT snow/NN at/IN all/DT ./.,there is no snow at all. /
+sd,A,We/PRP have/VBP n't/RB had/VBN snow/NN yet/RB ./.,We haven't had snow yet. /
+sd,A,We/PRP usually/RB only/RB get/VBP like/UH once/RB a/DT year/NN or/CC so/RB ./.,We usually only get {D like } once a year or so. /
+b,B,Huh/UH ./.,{F Huh. } /
+qy,A,"Kind/RB of/RB strange/JJ to/IN you/PRP all/DT ,/, huh/UH ?/.","Kind of strange to you all, {F huh? } /"
+ny,B,Yeah/UH ./.,Yeah. /
+x,A,./.,<Laughter>.
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,it/PRP is/VBZ ./.,it is. /
+%,A,"Because/IN ,/, how/WRB ,/,","Because, how, - /"
+sd,A,it/PRP 's/BES like/IN seventy/CD degrees/NNS here/RB right/RB now/RB ./.,it's like seventy degrees here right now. /
+ad,B,"Oh/UH ,/, do/VB n't/RB tell/VB me/PRP that/DT ./.","{F Oh, } don't tell me that <laughter>. /"
+b,A,"Yep/UH ,/,","Yep, /"
+qw,A,"how/WRB ,/, how/WRB cold/JJ is/VBZ it/PRP there/RB ?/.","[ how, + how ] cold is it there? /"
+sd,B,"Well/UH ,/, actually/UH ,/, it/PRP 's/HVS been/VBN warm/JJ ,/,","{D Well, } {D actually, } it's been warm, /"
+sd,B,it/PRP 's/BES in/IN the/DT forties/NNS ./.,it's in the forties. /
+bh,A,Really/UH ?/.,Really? /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"and/CC that/DT 's/BES ,/, that/DT 's/BES really/RB warm/JJ ./.","{C and } [ that's, + that's ] really warm. /"
+b,A,Huh/UH ./.,Huh. /
+sd,B,"Uh/UH ,/, and/CC it/PRP 's/BES supposed/VBN to/TO rain/VB tomorrow/NN","{F Uh, } {C and } it's supposed to rain tomorrow /"
+%,B,"so/RB we/PRP ,/,","{C so } we, - /"
+sd,B,I/PRP 've/VBP only/RB seen/VBN snow/NN once/RB this/DT year/NN ./.,I've only seen snow once this year. /
+sd,B,And/CC it/PRP was/VBD really/RB bad/JJ,{C And } it was really bad /
+sd,B,and/CC then/RB it/PRP all/DT melted/VBD like/UH within/IN the/DT week/NN ./.,{C and then } it all melted {D like } within the week. /
+bh,A,Really/UH ?/.,Really? /
+sd,B,"And/CC now/RB there/EX is/VBZ no/DT snow/NN ,/,","{C And } now there is no snow, /"
+%,B,"so/RB ,/,","{C so, } -/"
+b,A,Huh/UH ./.,Huh. /
+qw,A,"But/CC ,/, um/UH ,/, so/RB what/WP ,/, what/WP is/VBZ your/PRP$ dream/NN car/NN ?/.","{C But, } {F um, } {D so } [ what, + what ] is your dream car? /"
+sd,B,"Uh/UH ,/, I/PRP have/VBP n't/RB really/RB thought/VBN about/IN it/PRP ./.","{F Uh, } I haven't really thought about it. /"
+sd,B,I/PRP 'm/VBP not/RB too/RB big/JJ on/IN cars/NNS ./.,I'm not too big on cars. /
+sd,B,"I/PRP mean/VBP ,/, I/PRP do/VBP n't/RB know/VB the/DT names/NNS and/CC stuff/NN ,/,","{E I mean, } I don't know the names and stuff, /"
+sd,B,but/CC if/IN I/PRP were/VBD to/TO go/VB to/IN a/DT car/NN lot/NN and/CC like/UH look/VB at/IN them/PRP --/:,{C but } if I were to go to a car lot and {D like } look at them --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: I/PRP would/MD pick/VB out/RP one/CD that/WDT ,/, you/PRP know/VBP looked/VBD really/RB nice/JJ ./.","-- <Laughter> I would pick out one that, {D you know } <laughter> looked really nice. /"
+qw,A,What/WP 's/BES your/PRP$ favorite/JJ color/NN ?/.,What's your favorite color? /
+qy^d,B,"Uh/UH ,/, for/IN a/DT car/NN ?/.","{F Uh, } for a car? /"
+ny,A,Yeah/UH ./.,Yeah. /
+sd,B,Probably/RB blue/JJ ./.,Probably blue.
+bh,A,Blue/JJ ?/.,Blue? /
++,B,"Like/UH if/IN it/PRP ,/, you/PRP know/VBP ,/, was/VBD just/RB an/DT average/JJ ,/, middle/JJ class/NN car/NN ./.","{D Like } if it, {D you know, } was just an average, middle class car. /"
+sd,B,"But/CC if/IN I/PRP were/VBD to/TO get/VB a/DT sports/NNS car/NN ,/, maybe/RB white/JJ or/CC red/JJ ./.","{C But } if I were to get a sports car, maybe white or red <laughter>. /"
+b,A,"Right/UH ,/,","Right <laughter>, /"
+b,A,right/UH ./.,right. /
+b,B,Yeah/UH ./.,<Cough> Yeah. /
+qw,A,"So/RB ,/, what/WDT kind/NN of/IN car/NN do/VBP you/PRP drive/VB right/RB now/RB ?/.","{D So, } what kind of car do you drive right now? /"
+sd,B,"Uh/UH ,/, it/PRP 's/BES a/DT Sky/NNP Hawk/NNP Buick/NNP ./.","{F Uh, } it's a Sky Hawk Buick. /"
+bh,A,Really/UH ?/.,Really? /
+sd,B,"Eighty-three/CD ,/,","Eighty-three, /"
+sd,B,I/PRP think/VBP ./.,I think. /
+bh,A,Really/UH ?/.,Really? /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"uh/UH ,/, like/IN eighty-two/CD thousand/CD miles/NNS ./.","{F uh, } like eighty-two thousand miles. /"
+bh,A,Really/UH ?/.,Really? /
+ny,B,Yeah/UH ./.,Yeah. /
+b,A,Oh/UH ./.,Oh. /
+sd,B,I/PRP 'm/VBP afraid/JJ it/PRP 's/BES not/RB going/VBG to/TO last/VB me/PRP that/RB long/JJ,I'm afraid it's not going to last me <laughter> that long /
+sd,B,"and/CC I/PRP hope/VBP it/PRP does/VBZ ,/, though/RB ./.","{C and } I hope it does, though. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,It/PRP 's/BES a/DT two/CD door/NN ./.,It's a two door. /
+sd,B,"I/PRP like/VBP ,/, I/PRP like/VBP smaller/JJR cars/NNS ./.","[ I like, + I like ] smaller cars. /"
+%,B,"They/PRP 're/VBP ,/,","They're, - /"
+sd,B,I/PRP find/VBP them/PRP more/RBR comfortable/JJ to/TO drive/VB ./.,I find them more comfortable to drive. /
+b,A,"Right/UH ,/,","Right, /"
+qy,A,does/VBZ everybody/NN have/VB their/PRP$ windows/NNS tinted/JJ up/IN there/RB ?/.,does everybody have their windows tinted up there? /
+nn,B,"Uh/UH ,/, no/UH ,/,","{F Uh, } no, /"
+sd,B,I/PRP do/VBP n't/RB see/VB too/RB many/JJ cars/NNS tinted/JJ ./.,I don't see too many cars tinted. /
+sd,A,Everybody/NN has/VBZ tinted/JJ down/IN here/RB ./.,Everybody has tinted down here. /
+ba,B,"Oh/UH ,/, I/PRP 'm/VBP sure/JJ ,/,","{F Oh, } I'm sure, /"
+b,B,yeah/UH ./.,yeah. /
+sd,B,"I/PRP could/MD ,/, I/PRP could/MD see/VB why/WRB ./.","[ I could, + I could ] see why. /"
+qy,A,"So/RB ,/, you/PRP been/VBN down/IN here/RB before/RB ?/.","{D So, } you been down here before? /"
+ny,B,Yep/UH ./.,Yep. /
+bh,A,Really/UH ?/.,Really? /
+%,B,"Uh/UH ,/,","{F Uh, } /"
+qy,A,Did/VBD you/PRP like/VB it/PRP ?/.,Did you like it? /
+sd,B,It/PRP was/VBD busy/JJ ./.,It was busy <laughter>. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,it/PRP 's/BES different/JJ --/:,it's different --
+b,B,"Yeah/UH ,/,","Yeah, /"
++,A,"--/: I/PRP bet/VBP ,/, huh/UH ./.","-- I bet, {F huh. } /"
+sd,B,It/PRP was/VBD nice/JJ ./.,It was nice. /
+sd,B,"I/PRP remember/VBP ,/, uh/UH ,/, swimming/VBG on/IN Easter/NNP day/NN","I remember, {F uh, } swimming on Easter day /"
+sd,B,"and/CC it/PRP was/VBD like/UH really/RB cold/JJ up/IN here/RB ,/,","{C and } it was {D like } really cold up here, /"
+sd,B,but/CC --/:,{C but } --
+b,A,Right/UH ./.,Right <laughter>. /
++,B,"--/: came/VBD back/RB with/IN a/DT little/JJ tan/NN ,/,","-- came back with a little tan, /"
+sd,B,so/RB that/DT was/VBD nice/JJ ./.,{C so } that was nice <laughter>. /
+%,A,"It/PRP 's/BES like/UH ,/, you/PRP know/VBP ,/,","It's {D like, } {D you know, } - /"
+sv,A,"everybody/NN freaks/VBZ out/RP when/WRB it/PRP sn/VBZ ,/,","everybody freaks out when it sn-, -/"

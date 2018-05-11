@@ -1,0 +1,222 @@
+act_tag,speaker,pos,text
+qy,B,Do/VBP you/PRP have/VB children/NNS ?/.,Do you have children? /
+ny,A,"Uh/UH ,/, yes/UH ,/,","{F Uh, } yes, /"
+ny,A,"yes/UH ,/,","yes, /"
+sd,A,I/PRP have/VBP a/DT daughter/NN ./.,I have a daughter. /
+bh,B,Do/VBP you/PRP ./.,Do you. /
+ny,A,Yeah/UH ./.,Yeah. /
+qw,B,How/WRB old/JJ is/VBZ she/PRP ?/.,How old is she? /
+sd,A,"She/PRP 's/BES only/RB about/RB ,/, uh/UH ,/, uh/UH ,/, a/DT little/RB less/JJR than/IN two/CD years/NNS old/JJ ./.","She's only about, {F uh, } {F uh, } a little less than two years old. /"
+qy^d,B,"Uh/UH ,/, I/PRP guess/VBP you/PRP have/VBP not/RB reached/VBN the/DT stage/NN where/WRB you/PRP need/VBP to/TO ,/, uh/UH ,/, promote/VB a/DT college/NN or/CC anything/NN ,/, huh/UH ./.","{F Uh, } <laughter> I guess you have not reached the stage where you need to, {F uh, } promote a college or anything, {F huh. } /"
+nn,A,No/UH ./.,No. /
+sd,B,"I/PRP 've/VBP got/VBN one/CD that/WDT 's/BES seven/CD and/CC one/CD that/WDT 's/BES three/CD ,/,","<Laughter> I've got one that's seven and one that's three, /"
+sd,B,"so/RB ,/, we/PRP ,/, uh/UH ,/, we/PRP started/VBD saving/VBG ,/,","{C so, } [ we, + {F uh, } we ] started saving, /"
+sd,B,but/CC that/DT 's/BES all/DT ./.,{C but } that's all. /
+b,A,Yeah/UH ./.,Yeah <laughter>. /
+qy,B,"So/RB ,/, do/VBP you/PRP ,/, is/VBZ there/EX ,/, are/VBP you/PRP planning/VBG to/TO ,/, like/IN ,/, encourage/VB your/PRP$ children/NNS to/TO go/VB to/IN a/DT particular/JJ school/NN ?/.","{D So, } [ [ do you, + is there, ] + are you ] planning to, {D like, } encourage your children to go to a particular school? /"
+nn,A,"Uh/UH ,/, ,/, no/UH ,/, uh/UH ,/, um/UH ,/,","<Sigh> {F Uh, } <sigh>, no, {F uh, } {F um, } /"
+nn,A,no/DT particular/JJ school/NN ./.,no particular school. /
+sv,A,"Uh/UH ,/, I/PRP think/VBP that/DT 's/BES really/RB a/DT decision/NN th/WDT ,/, that/WDT ,/,","{F Uh, } I think that's really a decision [ th-, + that, ] -/"
+qy^d,B,That/WDT you/PRP are/VBP going/VBG to/TO let/VB them/PRP make/VB ./.,That you are going to let them make. /
+%,A,"They/PRP ,/,","They, - /"
+arp_nd,A,"well/UH ,/, help/VBP them/PRP make/VB in/IN terms/NNS of/IN ,/, you/PRP know/VBP ,/, what/WP they/PRP are/VBP ,/, they/PRP are/VBP --/:","{D well, } help them make in terms of, {D you know, } what [ they are, + they are ] --"
+b,B,Right/UH ./.,Right. /
++,A,--/: wanting/VBG to/TO do/VB ./.,-- wanting to do. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"You/PRP know/VBP ,/, that/DT ,/, that/DT 's/BES a/DT big/JJ influence/NN ,/, I/PRP think/VBP and/CC ,/,","{D You know, } [ that, + that's ] a big influence, I think and,"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,yeah/UH ./.,yeah. /
++,A,"You/PRP know/VBP what/WP ,/, not/RB only/RB what/WP you/PRP can/MD afford/VB ,/, but/CC what/WP ,/, what/WP 's/BES going/VBG to/TO be/VB best/JJS for/IN them/PRP --/:","{D You know } [ what, + not only what ] you can afford, but [ what, + what's ] going to be best for them --"
+b,B,Right/UH ./.,Right. /
++,A,--/: in/IN terms/NNS of/IN what/WP their/PRP$ career/NN goals/NNS are/VBP ./.,-- in terms of what their career goals are. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"So/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, you/PRP need/VBP to/TO go/VB to/IN a/DT school/NN that/WDT handles/VBZ whatever/WDT it/PRP is/VBZ you/PRP want/VBP to/TO do/VB ./.","{C So, } {F uh, } {D you know, } you need to go to a school that handles whatever it is you want to do. /"
+aa,B,Yeah/UH ./.,Yeah. /
+qw,B,Where/WRB did/VBD you/PRP go/VB to/IN school/NN ?/.,Where did you go to school? /
+sd,A,"Uh/UH ,/, University/NNP of/IN Mississippi/NNP ./.","{F Uh, } University of Mississippi. /"
+bk,B,Oh/UH ./.,Oh. /
+qy,B,"Was/VBD that/DT local/JJ or/CC ,/, uh/UH ,/,","Was that local or, {F uh, } -/"
+sd,A,"Uh/UH ,/, well/UH ,/, it/PRP was/VBD ,/, well/UH ,/, it/PRP was/VBD within/IN the/DT state/NN ./.","{F Uh, } {D well, } [ it was, + <sigh> {D well, } it was ] within the state. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"But/CC it/PRP ,/, it/PRP was/VBD not/RB necessarily/RB local/JJ ,/, it/PRP was/VBD ,/,","{C But } [ it, + it ] was not necessarily local, it was, -/"
+b,B,Yeah/UH ./.,Yeah. /
+%,B,"But/CC I/PRP ,/, I/PRP mean/VBP ,/, so/RB what/WP 's/BES ,/, MUMBLEx/XX ,/,","{C But } [ I, + ] {E I mean, } so what's, (( )) , -/"
+qy,A,What/WP 's/BES the/DT criterion/NN for/IN choosing/VBG to/TO go/VB there/RB ?/.,What's the criterion for choosing to go there? /
+ny,B,Yeah/UH ./.,Yeah. /
+sd,A,"Uh/UH ,/, well/UH ,/, at/IN the/DT time/NN ,/, I/PRP was/VBD ,/, uh/UH ,/, thinking/VBG of/IN going/VBG pre/JJ med/NN --/:","{F Uh, } {D well, } at the time, I was, {F uh, } thinking of going pre med -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC in/IN the/DT state/NN ,/, uh/UH ,/, they/PRP had/VBD the/DT best/JJS pre/JJ med/NN uh/UH ,/, curriculum/NN for/IN the/DT ,/, uh/UH ,/, state/NN institutions/NNS ./.","-- {C and } in the state, {F uh, } they had the best pre med {F uh, } curriculum for the, {F uh, } state institutions. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"It/PRP was/VBD choice/NN between/IN there/RB and/CC ,/, uh/UH ,/, a/DT private/JJ college/NN --/:","It was choice between there and, {F uh, } a private college --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: that/WDT ,/, uh/UH ,/, was/VBD a/DT bit/NN more/RBR expensive/JJ ./.","-- that, {F uh, } was a bit more expensive. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"At/IN the/DT time/NN ,/, we/PRP really/RB could/MD not/RB afford/VB it/PRP","At the time, <sigh> we really could not afford it /"
+sd,A,so/RB --/:,{C so } --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: I/PRP ended/VBD up/RP going/VBG there/RB although/IN it/PRP was/VBD quite/PDT a/DT drive/NN away/RP for/IN me/PRP ./.,-- I ended up going there although it was quite a drive away for me. /
+%,A,"It/PRP ,/,","It, - /"
+sd,A,"uh/UH ,/, I/PRP enjoyed/VBD it/PRP ./.","{F uh, } I enjoyed it. /"
+qy,B,"So/RB you/PRP ,/, did/VBD you/PRP commute/VB everyday/JJ then/RB","{D So } [ you, + did you ] commute everyday then /"
+%,B,"or/CC ,/,","{C or, } -/"
+nn,A,No/UH ./.,No. /
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+nn,A,"No/UH ,/,","No, /"
+nn,A,"no/UH ,/,","no, /"
+sd,A,it/PRP was/VBD a/DT six/CD hour/NN drive/NN ./.,it was a six hour drive. /
+bk,B,"Oh/UH ,/, okay/UH ,/,","{F Oh, } okay, /"
+sd,B,"when/WRB you/PRP said/VBD it/PRP was/VBD quite/PDT a/DT ,/, quite/PDT a/DT way/NN away/RB ,/, I/PRP did/VBD not/RB know/VB it/PRP that/DT meant/VBD you/PRP had/VBD to/TO drive/VB like/IN an/DT hour/NN","when you said it was [ quite a, + quite a ] way away, I did not know [ it + that ] meant you had to drive like an hour /"
+%,B,"or/CC ,/,","{C or, } -/"
+sd,A,"MUMBLEx/XX MUMBLEx/XX I/PRP was/VBD ,/, uh/UH ,/, it/PRP was/VBD like/IN another/DT world/NN ./.","(( )) (( )) [ I was, + {F uh, } it was ] like another world. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Basically/RB ,/, it/PRP was/VBD a/DT ,/, no/UH it/PRP was/VBD a/DT ,/,","Basically, [ it was a, + {D no } it was a, ] - /"
+sd,A,"did/VBD not/RB get/VB home/RB that/RB often/RB ,/, you/PRP know/VBP ,/,","did not get home that often, {D you know, } /"
+sv,A,and/CC at/IN that/DT age/NN --/:,{C and } at that age --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: it/PRP 's/BES ,/, uh/UH ,/, it/PRP 's/BES kind/RB of/RB ,/, kind/RB of/RB difficult/JJ sometimes/RB ./.","-- [ it's, + {F uh, } it's ] [ kind of, + kind of ] difficult sometimes. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"Especially/RB ,/, if/IN you/PRP have/VBP not/RB been/VBN away/RB a/DT lot/NN --/:","Especially, if you have not been away a lot --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: that/RB extended/VBN ./.,-- that extended <sigh>. /
+qy,B,"So/RB ,/, did/VBD you/PRP go/VB there/RB ,/, like/UH ,/, straight/RB out/IN of/IN high/JJ school/NN ?/.","{D So, } did you go there, {D like, } straight out of high school? /"
+ny,A,Yeah/UH ./.,Yeah. /
+b^m,B,Yeah/UH ./.,Yeah. /
+sd,B,"Uh/UH ,/, see/UH I/PRP did/VBD not/RB get/VB my/PRP$ degree/NN until/IN later/RBR on/RP ,/,","{F Uh, } {D see } I did not get my degree until later on, /"
+sd,B,so/RB I/PRP just/RB finished/VBD mine/PRP a/DT couple/NN of/IN years/NNS ago/RB ./.,{C so } I just finished mine a couple of years ago. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP guess/VBP ,/, you/PRP know/VBP ,/, when/WRB you/PRP have/VBP to/TO do/VB it/PRP that/DT way/NN ,/, it/PRP makes/VBZ ,/, makes/VBZ your/PRP$ choices/NNS a/DT lot/NN easier/JJR","{C And, } {F uh, } {D you know, } I guess, {D you know, } when you have to do it that way, it [ makes, + makes ] your choices a lot easier /"
+%,B,"but/CC ,/,","{C but, } -/"
+aa,A,"Uh/UH ,/, that/DT 's/BES true/JJ ./.","{F Uh, } that's true. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"that/DT ,/, that/DT 's/BES like/IN ,/, you/PRP know/VBP ,/, when/WRB I/PRP went/VBD on/IN to/TO get/VB my/PRP$ ,/, my/PRP$ master/NN 's/POS --/:","[ that, + that's ] like, {D you know, } when I went on to get [ my, + my ] master's --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: I/PRP ,/, uh/UH ,/, basically/RB was/VBD ,/, you/PRP know/VBP ,/, it/PRP was/VBD where/WRB I/PRP was/VBD at/IN the/DT time/NN ./.","-- [ I, {F uh, } basically was, + {D you know, } it was where I was ] at the time. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"You/PRP know/VBP ,/, I/PRP was/VBD not/RB going/VBG to/TO try/VB to/TO pick/VB and/CC go/VB somewhere/RB else/RB --/:","{D You know, } I was not going to try to pick and go somewhere else --"
+b,B,"Right/UH ,/,","Right, /"
+b,B,right/UH ./.,right. /
++,A,--/: because/IN I/PRP was/VBD pretty/RB much/RB settled/JJ,-- because I was pretty much settled /
+sd,A,and/CC I/PRP was/VBD trying/VBG to/TO work/VB ./.,{C and } I was trying to work. /
+sv,A,"But/CC ,/, uh/UH ,/, so/RB when/WRB you/PRP are/VBP first/RB going/VBG to/IN school/NN that/IN ,/, you/PRP kind/RB of/RB have/VBP the/DT luxury/NN of/IN being/VBG able/JJ to/TO --/:","[ {C But, } + {F uh, } {C so } ] when you are first going to school [ that, + ] you kind of have the luxury of being able to --"
+aa,B,Exactly/UH ./.,Exactly. /
++,A,--/: have/VB some/DT latitude/NN in/IN choosing/VBG the/DT place/NN to/TO go/VB ./.,-- have some latitude in choosing the place to go. /
+b,B,Yeah/UH ./.,Yeah. /
+qw,B,"Wh/WDT ,/, which/WDT group/NN do/VBP you/PRP work/VB in/IN in/IN T/NNP I/NNP ?/.","[ Wh-, + which ] group do you work in in T I? /"
+sd,A,"Um/UH ,/, uh/UH ,/, the/DT computer/NN science/NN center/NN ./.","{F Um, } {F uh, } the computer science center. /"
+qw,B,"Oh/UH ,/, uh/UH ,/, where/WRB is/VBZ that/DT at/IN ?/.","{F Oh, } {F uh, } where is that at? /"
+sd,A,"Uh/UH ,/, north/JJ building/NN ./.","{F Uh, } north building. /"
+bk,B,I/PRP see/VBP ./.,I see. /
+qw,B,How/WRB long/RB do/VBP you/PRP work/VB for/IN T/NNP I/NNP ?/.,How long do you work for T I? /
+sd,A,"Uh/UH ,/, about/RB three/CD years/NNS ./.","{F Uh, } about three years. /"
+qy,B,"Did/VBD you/PRP work/VB somewhere/RB else/RB ,/,","Did you work somewhere else, /"
+bf,B,like/IN sounds/VBZ like/IN you/PRP got/VBD your/PRP$ master/NN 's/POS before/IN here/RB,{D like } sounds like you got your master's before here /
+%,B,"or/CC ,/,","{C or, } -/"
+ny,A,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,A,"I/PRP have/VBP ,/, uh/UH ,/, uh/UH ,/,","I have, {F uh, } {F uh, } /"
+ar,A,no/UH,no /
+sd,A,"actually/RB ,/, I/PRP mean/VBP I/PRP came/VBD straight/RB from/IN school/NN to/IN here/RB ./.","{D actually, } {E I mean } I came straight from school to here. /"
+bk,B,I/PRP see/VBP ./.,I see. /
+sd,A,"So/RB ,/, cause/IN this/DT was/VBD the/DT first/JJ ,/, first/JJ real/JJ job/NN after/IN getting/VBG my/PRP$ degree/NN ./.","{D So, } cause this was the [ first, + first ] real job after getting my degree. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,B,"After/IN your/PRP$ master/NN 's/POS or/CC after/IN your/PRP$ ,/,","After your master's or after your, -/"
+sd,A,After/IN my/PRP$ master/NN 's/POS ./.,After my master's. /
+bk,B,I/PRP see/VBP ./.,I see. /
+sd,A,"My/PRP$ undergraduate/NN degree/NN was/VBD not/RB in/IN ,/, not/RB in/IN what/WP my/PRP$ master/NN 's/POS was/VBD ./.","My undergraduate degree was [ not in, + not in ] what my master's was. /"
+b,B,I/PRP see/VBP ./.,I see. /
+sd,A,So/RB I/PRP made/VBD a/DT career/NN change/NN --/:,{C So } I made a career change --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: basically/RB ./.,-- basically. /
+b,B,I/PRP see/VBP ./.,I see. /
+^h,B,"Well/UH ,/, let/VB 's/PRP see/VB","{D Well, } let's see <laughter> /"
+%,B,"I/PRP ,/, have/VBP not/RB MUMBLEx/XX you/PRP know/VBP ,/,","I, have not (( )) {D you know, } - /"
+aa,B,"there/EX 's/BES a/DT lot/NN of/IN pluses/NNS and/CC minuses/NNS for/IN different/JJ schools/NNS ,/, you/PRP know/VBP ,/, just/RB like/IN you/PRP said/VBD ./.","there's a lot of pluses and minuses for different schools, {D you know, } just like you said. /"
+sv,B,"Uh/UH ,/, depending/VBG on/IN what/WP they/PRP want/VBP to/TO specialize/VB in/IN and/CC what/WP you/PRP can/MD afford/VB ,/, different/JJ things/NNS like/IN that/DT ,/,","{F Uh, } depending on what they want to specialize in and what you can afford, different things like that, /"
+sd,B,"so/RB I/PRP ,/, I/PRP have/VBP not/RB --/:","{C so } [ I, + I ] have not --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: really/RB made/VBN up/RP my/PRP$ mind/NN ,/, you/PRP know/VBP ,/, whether/IN to/TO encourage/VB them/PRP to/TO go/VB different/JJ places/NNS","-- really made up my mind, {D you know, } whether to encourage them to go different places /"
+%,B,"or/CC ,/,","{C or, } -/"
+sd,A,"One/CD day/NN I/PRP would/MD like/VB to/TO ,/, uh/UH ,/, you/PRP know/VBP ,/, the/DT ,/, uh/UH ,/,","(( One day )) I would like to, {F uh, } {D you know, } the, {F uh, } - /"
+sd,A,"I/PRP ,/, I/PRP like/VBP the/DT school/NN where/WRB I/PRP went/VBD ./.","[ I, + I ] like the school where I went. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP mean/VBP ,/, and/CC I/PRP would/MD not/RB hesitate/VB at/IN all/DT to/TO ,/, to/TO encourage/VB her/PRP to/TO go/VB there/RB --/:","{E I mean, } {C and } I would not hesitate at all [ to, + to ] encourage her to go [ there + --"
+b,B,Right/UH ./.,Right. /
++,A,--/: there/RB if/IN she/PRP wanted/VBD to/TO ./.,-- there ] if she wanted to. /
+b,B,Right/UH ./.,Right. /
+sd,A,"Or/CC the/DT school/NN where/WRB I/PRP got/VBD my/PRP$ master/NN 's/POS at/IN ,/, which/WDT ,/, which/WDT was/VBD a/DT different/JJ school/NN ./.","{C Or } the school where I got my master's at, [ which, + which ] was a different school. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP liked/VBD it/PRP almost/RB as/RB well/RB ./.","{C And, } {F uh, } I liked it almost as well. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, but/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, that/IN ,/, I/PRP 'm/VBP not/RB going/VBG to/TO hold/VB them/PRP to/IN that/DT --/:","{F Uh, } {C but, } {F uh, } {D you know, } that, I'm not going to hold them to that --"
+b,B,Right/UH ./.,Right. /
++,A,--/: just/RB because/IN I/PRP went/VBD there/RB ./.,-- just because I went there. /
+sv,A,"I/PRP ,/, you/PRP know/VBP ,/, think/VBP that/DT 's/BES --/:","I, {D you know, } think that's <sigh> -- -/"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: If/IN they/PRP want/VBP to/TO ,/, that/DT 's/BES fine/JJ ,/, but/CC --/:","-- If they want to, that's fine, but --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: otherwise/RB not/RB ./. Although/IN I/PRP ca-/XX ,/, uh/UH ,/, would/MD get/VB quite/PDT a/DT break/NN on/IN ,/, on/IN tuition/NN ./.","-- otherwise not. <sigh> Although I [ ca-, + {F uh, } would ] get quite a break on, on tuition <laughter>. /"
+qy^d,B,"Um/UH ,/, because/IN you/PRP went/VBD there/RB ./.","{F Um, } because you went there. /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"because/IN they/PRP ,/, uh/UH ,/, allow/VBP for/IN ,/, uh/UH ,/, uh/UH ,/, tuition/NN ,/, uh/UH ,/, break/NN for/IN out/IN of/IN state/NN students/NNS --/:","{C because } they, {F uh, } allow for, {F uh, } {F uh, } tuition, {F uh, } break for out of state students --"
+b,B,Um/UH ./.,{F Um. } /
++,A,--/: who/WP children/NNS of/IN alumnae/NNS ./.,-- who children of alumnae. /
+sd,B,I/PRP did/VBD n't/RB know/VB that/DT ./.,I didn't know that. /
+sd,A,Well/UH certain/JJ schools/NNS do/VBP it/PRP ./.,{D Well } certain schools do it. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,This/DT school/NN does/VBZ ./.,This school does. /
+%,A,"So/RB ,/, uh/UH ,/,","{C So, } {F uh, }"
+b,B,Huh/UH ./.,{F Huh. } /
++,A,"It/PRP 's/BES ,/, it/PRP MUMBLEx/XX ,/,","[ It's, + it (( )) ] , - /"
+sd,A,"I/PRP ,/, I/PRP was/VBD involved/VBN in/IN some/DT ,/, uh/UH ,/, oh/UH ,/, alumnae/NNS recruiting/NN ,/, uh/UH ,/, here/RB in/IN town/NN ,/, uh/UH ,/, recently/RB ,/, uh/UH ,/, well/UH last/JJ year/NN ./.","[ I, + I ] was involved in some, {F uh, } {F oh, } alumnae recruiting, {F uh, } here in town, {F uh, } recently, {F uh, } {D well } last year <sigh>. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, and/CC it/PRP was/VBD kind/RB of/RB fun/JJ ,/, because/IN you/PRP are/VBP trying/VBG to/TO to/TO ,/, trying/VBG to/TO get/VB people/NNS interested/JJ in/IN your/PRP$ school/NN ,/, you/PRP know/VBP ./.","{F Uh, } {C and } it was kind of fun, because you are [ trying [ to + <sigh> to, ] + trying to ] get people interested in your school, {D you know. } /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"And/CC they/PRP were/VBD ,/,","{C And } they were, - /"
+sd,A,"this/DT was/VBD a/DT college/NN night/NN at/IN a/DT ,/, at/IN a/DT high/JJ school/NN in/IN Richardson/NNP ./.","this was a college night [ at a, + at a ] high school in Richardson. /"
+%,A,"And/CC it/PRP was/VBD ,/,","{C And } it was, -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC there/EX were/VBD a/DT bunch/NN of/IN kids/NNS ,/, you/PRP know/VBP ,/, and/CC a/DT bunch/NN of/IN schools/NNS ./.","{C And } there were a bunch of kids, {D you know, } {C and } a bunch of schools. /"
+sv,A,"There/EX were/VBD a/DT hundred/CD schools/NNS ,/, probably/RB there/RB --/:","There were a hundred schools, probably there --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: all/DT competing/VBG for/IN the/DT same/JJ kids/NNS ./.,-- all competing for the same kids. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"It/PRP 's/BES kind/RB of/RB interesting/JJ to/TO ,/, to/TO ,/, to/TO talk/VB up/RP ,/, you/PRP know/VBP ,/, your/PRP$ ,/,","It's kind of interesting [ [ to, + to, ] + to ] talk up, {D you know, } your,"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+^2,B,"your/PRP$ own/JJ school/NN ,/,","your own school, /"
++,A,school/NN,school /
+sd,A,"And/CC ,/, I/PRP was/VBD surprised/JJ by/IN the/DT number/NN of/IN kids/NNS that/WDT came/VBD ,/, came/VBD by/RB and/CC had/VBD heard/VBN of/IN ,/, you/PRP know/VBP ,/, our/PRP$ school/NN ./.","{C And, } I was surprised by the number of kids that [ came, + came ] by and had heard of, {D you know, } our school."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"And/CC ,/, and/CC were/VBD interested/JJ in/IN it/PRP ./.","[ And, + and ] were interested in it. /"
+b,B,Um/UH ./.,{F Um. } /
+%,A,"Uh/UH ,/, you/PRP know/VBP ,/, we/PRP ,/, uh/UH ,/, MUMBLEx/XX","{F Uh, } {D you know, } we, {F uh, } (( )) - /"
+sv,A,"situations/NNS like/IN that/DT ,/, you/PRP do/VBP n't/RB realize/VB ,/, you/PRP know/VBP ,/, until/IN you/PRP start/VBP thinking/VBG about/IN it/PRP ,/, the/DT kinds/NNS of/IN MUMBLEx/XX advantages/NNS you/PRP school/NN may/MD have/VB over/IN others/NNS ./.","situations like that, you don't realize, {D you know, } until you start thinking about it, the kinds of (( )) advantages you school may have over others. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC so/RB ,/, I/PRP ,/, I/PRP was/VBD real/RB ,/, real/RB pleased/JJ with/IN that/DT ./.","{C And so, } [ I, + I ] was [ real, + real ] pleased with that. /"
+sd,A,That/DT worked/VBD out/RP so/RB well/RB ./.,That worked out so well. /
+b,B,Yeah/UH ./.,Yeah. /
+qy,B,So/RB did/VBD you/PRP drum/VB up/RP any/DT interest/NN then/RB,{D So } did you drum up any interest (( then )) /
+aap_am,A,I/PRP think/VBP so/RB ./.,I think so. /
+no,A,I/PRP do/VBP n't/RB know/VB offhand/RB,I don't know offhand /
+sd,A,"but/CC ,/, uh/UH ,/, it/PRP seemed/VBD like/IN there/EX were/VBD quite/PDT a/DT few/JJ --/:","{C but, } {F uh, } it seemed like there were quite a few --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: kids/NNS that/WDT were/VBD definitely/RB interested/JJ in/IN going/VBG there/RB ./.,-- kids that were definitely interested in going there. /
+sd,A,"So/RB ,/, there/EX ,/,","<sigh> {C So, } [ there, +"
+%,B,"And/CC that/DT ,/,","{C And } that, -/"
++,A,"There/EX was/VBD one/CD mother/NN who/WP ,/, uh/UH ,/, came/VBD by/IN right/RB ,/, even/RB ,/, before/IN we/PRP started/VBD ,/, who/WP ,/, who/WP obviously/RB was/VBD ,/, uh/UH ,/, very/RB interested/JJ in/IN getting/VBG her/PRP$ ,/, her/PRP$ daughter/NN in/RB or/CC ,/, or/CC having/VBG gotten/VBN her/PRP$ daughter/NN in/RB or/CC something/NN","There ] was one mother who, {F uh, } came by right, even, before we started, [ who, + who ] obviously was, {F uh, } very interested in getting [ her, + her ] daughter in [ or, + or ] having gotten her daughter in or something /"
+sd,A,and/CC she/PRP was/VBD wanting/VBG some/DT more/JJR information/NN ./.,{C and } she was wanting some more information. /
+sd,A,"But/CC she/PRP was/VBD ,/, her/PRP$ ,/, her/PRP$ daughter/NN was/VBD ,/, uh/UH ,/, a/DT ,/, a/DT ,/, ma-/NN ,/, ma-/NN ,/, dru-/NN ,/, a/DT majorette/NN or/CC something/NN ./.","{C But } [ she was, + [ her, + her ] daughter was, ] {F uh, } [ [ [ a, + a, ] + [ [ ma-, + ma-, ] + dru-, ] a ] majorette or something. +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"You/PRP know/VBP ,/, a/DT baton/NN twirler/NN or/CC something/NN --/:","{D You know, } a baton twirler or something ] -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC she/PRP was/VBD she/PRP was/VBD ,/, letting/VBG us/PRP know/VBP she/PRP ,/, MUMBLEx/XX how/WRB ,/, how/WRB good/JJ her/PRP$ daughter/NN was/VBD ./.","-- {C and } [ she was + <laughter> she was, ] letting us know [ she, + ] (( )) [ how, + how ] good her daughter was. /"
+x,B,./.,<Laughter>. -/
+sd,A,"She/PRP had/VBD cards/NNS printed/VBN up/RP ,/, actually/RB --/:","She had [ cards printed up, {D actually } --"
+b,B,"Oh/UH ,/, really/UH ./.","{F Oh, } really. /"
++,A,"--/: describing/VBG ,/, you/PRP know/VBP ,/, business/NN cards/NNS describing/VBG her/PRP$ daughter/NN 's/POS ,/, uh/UH ,/, you/PRP know/VBP ,/, she/PRP had/VBD won/VBN several/JJ different/JJ twirling/NN awards/NNS ,/, and/CC all/PDT this/DT ,/,","-- describing, + {D you know, } business cards describing ] her daughter's, {F uh, } {D you know, } she had won several different twirling awards, and all this, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"and/CC she/PRP was/VBD ,/, had/VBD these/DT business/NN cards/NNS she/PRP was/VBD passing/VBG out/RP","{C and } she [ was, + had ] these business cards she was passing out /"
+sd,A,and/CC it/PRP was/VBD quite/PDT a/DT production/NN ./.,{C and } it was <sigh> quite a production. /
+sv,A,I/PRP think/VBP some/DT parents/NNS go/VBP a/DT little/JJ bit/NN overboard/RB ./.,<laughter> I think some parents go a little bit overboard. /
+aa,B,Yeah/UH,Yeah /
+aa,B,it/PRP sounds/VBZ like/IN it/PRP ./.,it sounds like it. /
+b,A,Yes/UH ./.,<breathing> Yes. <exhaling> /
+sv,B,Well/UH you/PRP know/VBP I/PRP think/VBP Richardson/NNP is/VBZ probably/RB you/PRP know/VBP one/CD of/IN the/DT places/NNS that/WDT would/MD definitely/RB,{D Well } {D you know } I think Richardson is probably {D you know } one of the places that would definitely -/

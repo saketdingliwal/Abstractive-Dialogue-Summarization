@@ -1,0 +1,389 @@
+act_tag,speaker,pos,text
+qw,A,"Uh/UH ,/, what/WDT kind/NN of/IN house/NN do/VBP you/PRP live/VB in/IN ?/.","{F Uh, } what kind of house do you live in? /"
+sd,B,"Uh/UH ,/, we/PRP live/VBP in/IN a/DT one/CD story/NN ,/, just/RB like/IN a/DT style/NN home/NN ,/, you/PRP know/VBP ,/, the/DT standard/JJ Texas/NNP ,/, uh/UH ,/, Fox/NNP and/CC Jacobs/NNP ./.","{F Uh, } we live in a one story, just like a style home, {D you know, } the standard Texas, {F uh, } Fox and Jacobs. /"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+qy^d,A,"With/IN ,/,","[ With, +"
+qo,B,How/WRB about/IN you/PRP guys/NNS ?/.,How about you guys? /
++,A,with/IN a/DT yard/NN and/CC fence/NN ./.,with ] a yard and fence. /
+qy,B,"Are/VBP you/PRP in/IN a/DT ho-/NN ,/, apartment/NN or/CC a/DT home/NN ?/.","Are you in a [ ho-, + ] apartment or a home? /"
+sd,A,"I/PRP 'm/VBP in/IN an/DT apartment/NN in/IN ,/, uh/UH ,/, Plano/NNP ./.","I'm in an apartment in, {F uh, } Plano. /"
+sv,B,"Well/UH ,/, they/PRP say/VBP those/DT are/VBP easy/JJ to/TO fi/VB ,/, or/CC difficult/JJ to/TO find/VB ./.","{D Well, } they say those are [ easy to fi-, + {E or } difficult to find. ] /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,"they/PRP are/VBP ,/, if/IN ,/, uh/UH ,/,","they are, if, {F uh, } - /"
+sv,A,kind/RB of/RB depends/VBZ on/IN what/WP you/PRP 're/VBP looking/VBG for/RB ./.,kind of depends on what you're looking for. /
+sd,A,"Mine/PRP 's/BES just/RB a/DT one/CD bedroom/NN place/NN ,/,","Mine's just a one bedroom place, /"
+%,A,"that/WDT 's/BES ,/, uh/UH ,/,","that's, {F uh, } -/"
+qw,B,How/WRB are/VBP rents/NNS doing/VBG ?/.,How are rents doing? /
+sd,B,I/PRP have/VBP n't/RB looked/VBN at/IN rents/NNS in/IN a/DT long/JJ time/NN ./.,I haven't looked at rents in a long time. /
+sd,A,"Uh/UH ,/, it/PRP 's/BES hard/JJ for/IN me/PRP to/TO tell/VB ,/, because/IN I/PRP have/VBP n't/RB rented/VBN in/IN ,/, uh/UH ,/, probably/RB twenty/CD ,/, twenty-five/CD years/NNS --/:","{F Uh, } it's hard for me to tell, because I haven't rented in, {F uh, } probably twenty, twenty-five years -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"--/: and/CC ,/, uh/UH ,/, just/RB ,/,","-- {C and, } {F uh, } just, - /"
+sd,A,"I/PRP 'm/VBP getting/VBG back/RB into/IN apartment/NN life/NN ,/,","I'm getting back into apartment life, /"
+%,A,"and/CC it/PRP 's/BES ,/,","{C and } it's, -/"
+qw,B,"What/WP 's/BES a/DT ,/, what/WP 's/BES a/DT one/CD bedroom/NN ,/,","[ What's a, + what's a ] one bedroom, - /"
+qy,B,"are/VBP you/PRP in/IN a/DT ,/, um/UH --/:","are you in a, {F um } -- -/"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,B,"--/: well/UH ,/, Plano/NNP ,/,","-- {D well, } Plano, - /"
+sd,B,"most/RBS ,/, most/RBS complexes/NNS in/IN Plano/NNP are/VBP pretty/RB nice/JJ ,/,","[ most, + most ] complexes in Plano are pretty nice, /"
+sd,B,"so/RB you/PRP 're/VBP probably/RB in/IN a/DT ,/, you/PRP know/VBP ,/,","{C so } you're probably in a, {D you know, } -/"
+sd,A,"Well/UH ,/, they/PRP vary/VBP ,/, from/IN place/NN to/TO place/VB ,/,","{D Well, } they vary, from place to place, /"
+sd,A,"it/PRP 's/BES hard/JJ to/TO tell/VB ,/, you/PRP know/VBP ,/, how/WRB well/RB they/PRP 've/VBP been/VBN kept/VBN up/RP --/:","it's hard to tell, {D you know, } how well they've been kept up --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: how/WRB old/JJ they/PRP are/VBP ,/,","-- how old they are, /"
+sv,A,"and/CC these/DT are/VBP probably/RB ,/, oh/UH ,/, one/CD of/IN the/DT nicest/JJS that/WDT I/PRP found/VBD ,/,","{C and } these are probably, {F oh, } one of the nicest that I found, /"
+sd,A,"and/CC ,/, uh/UH ,/, they/PRP 're/VBP almost/RB five/CD hundred/CD a/DT month/NN for/IN --/:","{C and, } {F uh, } they're almost five hundred a month for --"
+ba,B,Ooh/NNP --/:,{F Ooh } --
++,A,--/: a/DT one/CD bedroom/NN place/NN ./.,-- a one bedroom place. /
++,B,"--/: that/WDT does/VBZ get/VB high/JJ ,/,","-- that does get high, /"
+%,B,"yeah/UH ,/,","yeah, /"
+%,B,"I/PRP mean/VBP ,/,","{E I mean, } /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"it/PRP does/VBZ ,/, considering/VBG that/IN ,/, you/PRP know/VBP ,/, you-/XX ,/, uh/UH ,/, house/NN payments/NNS are/VBP ,/,","it does, considering that, {D you know, } [ you-, + ] {F uh, } house payments are,"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP was/VBD going/VBG to/TO say/VB ,/,","I was going to say,"
++,A,"not/RB a/DT whole/JJ lot/NN more/JJR than/IN that/DT ,/,","not a whole lot more than that, /"
++,B,"our/PRP$ mortgage/NN is/VBZ ,/, is/VBZ between/IN ,/, depending/VBG on/IN ,/,","our mortgage [ is, + is ] between, depending on, - /"
+sd,B,"you/PRP know/VBP ,/, it/PRP drops/VBZ ,/, um/UH ,/,","{D you know, } it drops, {F um, } - /"
+sd,B,"seems/VBZ like/IN in/IN the/DT last/JJ six/CD months/NNS we/PRP ,/, um/UH ,/, got/VBD lucky/JJ","seems like in the last six months we, {F um, } got lucky /"
+sd,B,"and/CC we/PRP refinanced/VBD ,/,","{C and } we refinanced, /"
+%,B,"and/CC it/PRP ,/,","{C and } it, - /"
+sd,B,"but/CC it/PRP was/VBD like/IN eight/CD hundred/CD and/CC something/NN ,/,","{C but } it was like eight hundred and something, /"
+sd,B,but/CC it/PRP went/VBD down/IN to/IN like/IN seven/CD hundred/CD and/CC twenty/CD --/:,{C but } it went down to like seven hundred and twenty -- /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"--/: so/RB that/DT 's/BES really/RB not/RB ,/,","-- {C so } that's really not, - /"
+sd,B,I/PRP have/VBP friends/NNS that/WDT pay/VBP about/RB nine/CD hundred/CD dollars/NNS for/IN a/DT town/NN house/NN --/:,I have friends that pay about nine hundred dollars for a town house --
+ba,A,"Wow/UH ,/, that/DT 's/BES a/DT lot/NN for/IN a/DT townhouse/NN ./.","{D Wow, } that's a lot for a townhouse. /"
++,B,"--/: in/IN ,/,","-- in, - /"
+%,B,"yeah/UH ,/,","yeah, /"
+%,B,"in/IN ,/,","in, - /"
+sd,B,"actually/UH they/PRP 're/VBP near/RB Plano/NNP in/IN North/NNP Dallas/NNP too/RB ,/,","{D actually } they're near Plano in North Dallas too, /"
+sd,B,"but/CC I/PRP could/MD n't/RB believe/VB it/PRP ,/,","{C but } I couldn't believe it, /"
+%,B,"but/CC ,/, you/PRP know/VBP ,/,","{C but, } {D you know, } -/"
+sv,A,"But/CC that/DT 's/BES what/WP happens/VBZ when/WRB you/PRP get/VBP up/IN in/IN this/DT area/NN ,/, you/PRP know/VBP ,/, you/PRP got/VBD all/PDT these/DT companies/NNS are/VBP up/IN here/RB ,/,","{C But } that's what happens when you get up in this area, {D you know, } you got all these companies are up here, /"
+%,A,and/CC these/DT --/:,{C and } these -- -/
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"--/: and/CC ,/, I/PRP guess/VBP they/PRP know/VBP they/PRP 're/VBP going/VBG to/TO get/VB it/PRP ,/,","-- {C and, } I guess they know they're going to get it, /"
+sv,B,"And/CC then/RB I/PRP think/VBP that/IN ,/, um/UH ,/, nobody/NN was/VBD really/RB buying/VBG houses/NNS there/RB for/IN a/DT long/JJ time/NN there/RB because/IN of/IN just/RB ,/,","{C And then } I think that, {F um, } nobody was really buying houses there for a long time there because of just, - /"
+sd,B,"I/PRP mean/VBP ,/, we/PRP 've/VBP been/VBN in/IN ours/PRP for/IN about/RB ten/CD years/NNS ,/,","{E I mean, } we've been in ours for about ten years, /"
+sd,B,"but/CC ,/, uh/UH there/EX 's/BES no/DT investment/NN in/IN it/PRP ,/,","{C but, } {F uh } there's no investment in it, /"
+sv,B,you/PRP know/VBP --/:,{D you know } --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: all/DT it/PRP allows/VBZ you/PRP to/TO do/VB is/VBZ itemize/VB ,/,","-- all it allows you to do is itemize,"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,"that/DT 's/BES true/JJ ,/,","that's true, /"
+sv,A,you/PRP just/RB --/:,you just --
++,B,on/IN your/PRP$ --/:,[ on your -- +
++,A,--/: take/VBP off/RP your/PRP$ mortgage/NN interest/NN --/:,-- take off your mortgage interest -- /
++,B,--/: on/IN your/PRP$ taxes/NNS --/:,-- on your ] taxes --
+sd,A,"--/: and/CC that/DT 's/BES about/RB it/PRP ,/,","-- {C and } that's about it, /"
++,B,"--/: yeah/UH ,/,","-- yeah, /"
+aa,B,"that/DT 's/BES really/RB about/RB it/PRP ,/,","that's really about it, /"
+%,B,"it/PRP 's/BES ,/, uh/UH ,/,","it's, {F uh, } - /"
+qy,B,"have/VBP you/PRP ever/RB owned/VBN your/PRP$ own/JJ home/NN ,/,","have you ever owned your own home, /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP 've/VBP owned/VBN ,/, uh/UH ,/, several/JJ ,/, built/VBN several/JJ ,/,","I've owned, {F uh, } several, built several, /"
+qw^d,B,"So/RB you/PRP know/VBP what/WP it/PRP 's/BES like/IN ,/,","{C So } you know what it's like, /"
+%,B,"yeah/UH ,/,","yeah, /"
+sd,B,"it/PRP 's/BES like/IN ,/, when/WRB you/PRP first/JJ ,/,","it's like, when you first, - /"
+sd,B,"this/DT is/VBZ our/PRP$ third/JJ one/CD ,/,","this is our third one, /"
+%,B,"it/PRP 's/BES not/RB ,/, um/UH ,/,","it's not, {F um, } - /"
+sd,B,and/CC it/PRP 's/BES not/RB that/RB exciting/JJ after/IN a/DT while/NN ./.,{C and } it's not that exciting after a while <laughter>. /
+sv,A,"Well/UH and/CC especially/RB around/IN North/NNP Dallas/NNP ,/, or/CC at/IN least/JJS in/IN Plano/NNP area/NN ,/, they/PRP ,/, they/PRP basically/RB all/DT look/VBP alike/RB because/IN Fox/NNP and/CC Jacobs/NNP ,/,","{D Well } <laughter> {C and } especially around North Dallas, or at least in Plano area, [ they, + they ] basically all look alike because Fox and Jacobs, -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+bf,B,"suburban/JJ tract/NN ,/,","suburban tract, /"
+%,B,"yeah/UH ,/,","yeah, /"
+sd,B,"we/PRP ,/, uh/UH ,/, we/PRP lived/VBD out/IN of/IN state/NN for/IN a/DT while/NN and/CC came/VBD back/RB","[ we, + {F uh, } we ] lived out of state for a while and came back /"
+sd,B,"and/CC ,/, uh/UH ,/, we/PRP lived/VBD in/IN a/DT smaller/JJR city/NN ,/,","{C and, } {F uh, } we lived in a smaller city, /"
+sv,B,"and/CC now/RB we/PRP say/VBP ,/, Gee/UH ,/, Dallas/NNP really/RB is/VBZ big/JJ and/CC polluted/JJ ./.","{C and } now we say, {D Gee, } Dallas really is big and polluted <laughter>. /"
+aa,A,Is/VBZ n't/RB it/PRP ./.,Isn't it. /
+sd,A,"I/PRP can/MD remember/VB ,/,","I can remember, - /"
+sd,A,"I/PRP 've/VBP only/RB been/VBN here/RB eight/CD years/NNS ,/,","I've only been here eight years, /"
+sd,A,"but/CC I/PRP can/MD remember/VB coming/VBG to/IN work/NN from/IN ,/,","{C but } I can remember coming to work from, - /"
+sd,A,I/PRP used/VBD to/TO live/VB in/IN Wylie/NNP --/:,I used to live in Wylie -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC I/PRP could/MD see/VB downtown/NN Dallas/NNP ,/,","-- {C and } I could see downtown Dallas, /"
+sd,A,"and/CC now/RB there/EX 's/BES this/DT brown/JJ haze/NN over/IN it/PRP ,/,","{C and } now there's this brown haze over it, /"
+sd,A,and/CC --/:,{C and } --
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,it/PRP 's/BES really/RB --/:,[ it's really -- +
++,A,--/: it/PRP 's/BES moving/VBG north/RB ./.,-- it's moving north. /
++,B,"--/: it/PRP 's/BES really/RB sad/JJ because/IN they/PRP 're/VBP not/RB doing/VBG anything/NN ,/,","-- it's really ] sad because they're not doing anything, /"
+sv,B,"well/UH we/PRP 're/VBP getting/VBG off/RB the/DT subject/NN ,/, I/PRP guess/VBP ,/,","{D well } we're getting off the subject, I guess,/"
+sv,B,"but/CC just/RB like/IN with/IN housing/NN ,/, I/PRP mean/VBP ,/, they/PRP 're/VBP not/RB doing/VBG anything/NN about/IN pollution/NN ,/,","{C but } just like with housing, {E I mean, } they're not doing anything about pollution, /"
+sv,B,"they/PRP 're/VBP not/RB doing/VBG anything/NN about/IN ,/,","they're not doing anything about, - /"
+sv,B,"it/PRP 's/BES going/VBG to/TO look/VB like/IN ,/,","it's going to look like, - /"
+qy,B,have/VBP you/PRP ever/RB been/VBN to/IN Houston/NNP ?/.,have you ever been to Houston? /
+ny,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,B,"You/PRP know/VBP ,/, um/UH ,/, I/PRP used/VBD to/TO think/VB that/IN Dallas/NNP was/VBD better/JJR than/IN Houston/NNP because/IN their/PRP$ zoning/NN --/:","{D You know, } {F um, } I used to think that Dallas was better than Houston because their zoning --"
+b,A,"Yeah/UH ,/,","Yeah, /"
++,B,"--/: for/IN where/WRB you/PRP can/MD put/VB a/DT house/NN next/RB to/IN a/DT ,/,","-- for where you can put a house next to a, - /"
+sv,B,now/RB it/PRP looks/VBZ just/RB like/IN Houston/NNP to/IN me/PRP ./.,now it looks just like Houston to me. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,it/PRP does/VBZ ./.,it does. /
+qw,A,How/WRB long/JJ have/NN you/PRP been/VBN in/IN this/DT house/NN ?/.,How long have you been in this house? /
+sd,B,We/PRP 've/VBP been/VBN in/IN here/RB ten/CD years/NNS ./.,We've been in here ten years. /
+b^m,A,Ten/CD years/NNS ./.,Ten years. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"so/RB we/PRP 've/VBP got/VBN ,/, you/PRP know/VBP ,/, got/VBN some/DT investment/NN in/IN it/PRP ,/,","{C so } we've [ got, + {D you know, } got ] some investment in it, /"
+sv,B,"but/CC ,/, you/PRP really/RB do/VBP n't/RB get/VB anything/NN out/RP of/IN it/PRP ./.","{C but, } you really don't get anything out of it. /"
+aa,A,"No/UH ,/,","No, /"
+aa,A,you/PRP really/RB do/VBP n't/RB ./.,you really don't. /
+qy,A,"Were/VBD ,/, you/PRP said/VBD you/PRP were/VBD out/IN of/IN state/NN for/IN a/DT while/NN ,/, was/VBD that/DT a/DT smaller/JJR town/NN than/IN Dallas/NNP area/NN ./.","[ Were, + you said you were ] out of state for a while, was that a smaller town than Dallas area. /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"smaller/JJR ,/,","smaller, /"
+sd,B,"we/PRP were/VBD up/IN in/IN Pittsburgh/NNP ,/, Pennsylvania/NNP ./.","we were up in Pittsburgh, Pennsylvania. /"
+qw,A,How/WRB was/VBD it/PRP --/:,How was it -- -/
+sd,B,My/PRP$ home/NN town/NN ./.,My home town. /
+qw,A,--/: how/WRB were/VBD the/DT house/NN prices/NNS up/IN there/RB ?/.,-- how were the house prices up there? /
+sd,B,"The/DT prices/NNS ,/, actually/UH ,/, a/DT lot/NN better/JJR ,/, because/IN Pittsburgh/NNP is/VBZ about/RB the/DT size/NN ,/, I/PRP 've/VBP been/VBN trying/VBG to/TO think/VB ,/, like/IN a/DT Louisville/NNP ,/, or/CC Minneapolis/NNP ,/, that/DT type/NN of/IN size/NN ./.","The prices, {D actually, } a lot better, because Pittsburgh is about the size, {A I've been trying to think, } like a Louisville, or Minneapolis, that type of size. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC the/DT prices/NNS ,/, what/WP you/PRP get/VBP here/RB for/IN about/RB a/DT hundred/CD thousand/CD you/PRP could/MD get/VB there/RB for/IN about/RB seventy-five/CD ,/, eighty/CD ./.","{C And } the prices, what you get here for about a hundred thousand you could get there for about seventy-five, eighty. /"
+ba,A,Wow/UH ./.,Wow. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"it/PRP 's/BES really/RB ,/,","it's really, - /"
+sd,B,"and/CC we/PRP did/VBD n't/RB think/VB it/PRP was/VBD that/RB clean/JJ ,/,","{C and } we didn't think it was that clean, /"
+sv,B,"but/CC then/RB after/IN you/PRP 're/VBP gone/VBN for/IN a/DT while/NN ,/, it/PRP looks/VBZ cleaner/JJR ,/, you/PRP know/VBP --/:","{C but then } after you're gone for a while, <laughter> it looks cleaner, {D you know } -- /"
+b,A,"Oh/UH ,/, yeah/UH --/:","{F Oh, } yeah -- /"
+%,B,"--/: uh/UH ,/,","-- {F uh, } /"
+sd,A,"--/: well/UH ,/, you/PRP know/VBP ,/, a/DT lot/NN of/IN these/DT people/NNS that/WDT I/PRP 've/VBP talked/VBN to/IN that/WDT are/VBP coming/VBG down/RB from/IN ,/, uh/UH ,/, like/IN what/WP I/PRP call/VBP ,/, the/DT back/RB East/NNP --/:","-- {D well, } {D you know, } a lot of these people that I've talked to that are coming down from, {F uh, } {D like } what I call, the back East --"
+b,B,"Yeah/UH ,/,","Yeah, /"
++,A,"--/: especially/RB from/IN J/NNP C/NNP Penney/NNP ,/, uh/UH ,/, are/VBP selling/VBG two/CD and/CC three/CD hundred/CD thousand/CD dollar/NN houses/NNS up/IN there/RB and/CC buying/VBG a/DT hundred/CD and/CC fifty/CD ,/, hundred/CD and/CC seventy-five/CD thousand/CD dollar/NN houses/NNS down/IN here/RB ,/,","-- especially from J C Penney, {F uh, } are selling two and three hundred thousand dollar houses up there and buying a hundred and fifty, hundred and seventy-five thousand dollar houses down here, /"
+sv,A,and/CC they/PRP 've/VBP wound/VBN up/RP getting/VBG better/JJR houses/NNS here/RB than/IN they/PRP had/VBD there/RB --/:,{C and } they've wound up getting better houses here than they had there -- /
+sv,A,"--/: so/RB in/IN a/DT way/NN ,/, I/PRP guess/VBP it/PRP works/VBZ both/DT ways/NNS ./.","-- {C so } in a way, I guess it works both ways. /"
+%,B,"I/PRP guess/VBP it/PRP 's/BES ,/,","I guess it's, - /"
+%,B,"yeah/UH ,/,","yeah, /"
+sv,B,"but/CC ,/, and/CC here/RB I/PRP guess/VBP it/PRP depends/VBZ on/IN what/WP you/PRP want/VBP ,/,","[ {C but, } + {C and } ] here I guess it depends on what you want, /"
+sd,B,"you/PRP know/VBP ,/, here/RB ,/, MUMBLEx/XX I/PRP got/VBD a/DT lot/NN of/IN people/NNS that/WDT work/VBP for/IN J/NNP C/NNP Penney/NNP in/IN marketing/NN --/:","{D you know, } here, (( )) I got a lot of people that work for J C Penney in marketing -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"--/: and/CC a/DT lot/NN of/IN the/DT people/NNS that/WDT came/VBD from/IN that/DT area/NN ,/, probably/RB like/IN what/WP you/PRP 're/VBP talking/VBG about/IN ,/, they/PRP had/VBD no/DT ,/, um/UH ,/, they/PRP had/VBD a/DT lot/NN of/IN property/NN but/CC not/RB a/DT lot/NN of/IN house/NN ,/,","-- {C and } a lot of the people that came from that area, probably like what you're talking about, [ they had no, + {F um, } they had ] a lot of property but not a lot of house, /"
+sv,B,and/CC now/RB they/PRP have/VBP a/DT lot/NN of/IN house/NN and/CC hardly/RB any/DT yardage/NN around/IN it/PRP --/:,{C and } now they have a lot of house and hardly any yardage around it -- /
+aa,A,"That/DT 's/BES a/DT fact/NN ,/,","That's a fact, /"
+sv,B,"--/: but/CC ,/, but/CC they/PRP love/VBP it/PRP ./.","-- [ {C but, } + {C but } ] they love it. /"
+sv,B,"I/PRP mean/VBP ,/, they/PRP ,/, they/PRP ,/, they/PRP think/VBP they/PRP 're/VBP getting/VBG ,/,","{E I mean, } [ [ they, + they, ] + they ] think they're getting, - /"
+sv,B,"you/PRP know/VBP ,/, you/PRP say/VBP ,/, sun/NN room/NN to/IN them/PRP ,/, and/CC you/PRP enclose/VBP and/CC you/PRP can/MD sell/VB it/PRP ./.","{D you know, } you say, sun room to them, and you enclose and you can sell it <laughter>. /"
+aa,A,I/PRP guess/VBP that/DT 's/BES true/JJ ./.,<Laughter> I guess that's true. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,And/CC they/PRP do/VBP n't/RB have/VB to/TO worry/VB about/IN yard/NN upkeep/NN if/IN they/PRP do/VBP n't/RB hardly/RB have/VB any/DT ./.,{C And } they don't have to worry about yard upkeep if they don't hardly have any. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"and/CC a/DT lot/NN of/IN them/PRP I/PRP know/VBP ,/, a/DT couple/NN women/NNS that/WDT work/VBP there/RB ,/,","{C and } a lot of them I know, a couple women that work there, - /"
+sv,B,"and/CC they/PRP do/VBP n't/RB miss/VB ,/, in/IN Public/NNP Relations/NNPS ,/,","{C and } they don't miss, in Public Relations, - /"
+sv,B,"and/CC they/PRP do/VBP n't/RB miss/VB having/VBG a/DT basement/NN to/TO run/VB up/RB and/CC down/RB to/IN ,/, you/PRP know/VBP ,/,","{C and } they don't miss having a basement to run up and down to, {D you know, } /"
+aa,A,"That/DT 's/BES true/JJ ,/,","That's true, /"
+sd,A,there/EX 's/BES not/RB too/RB many/JJ basements/NNS in/IN Texas/NNP ./.,[ there's + ] not too many basements in Texas. /
+sd,B,"And/CC I/PRP said/VBD ,/, You/PRP have/VBP n't/RB heard/VBN about/IN tornados/NNS ./.","{C And } I said, You haven't heard about tornados <laughter>. /"
+x,A,,<Laughter>.
+qh,B,"How/WRB about/IN those/DT ,/, you/PRP know/VBP ,/,","How about those, {D you know, } /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"gosh/UH I/PRP remember/VBP when/WRB I/PRP was/VBD little/JJ ,/, uh/UH ,/, we/PRP did/VBD n't/RB have/VB a/DT ,/,","{D gosh } I remember when I was little, {F uh, } we didn't have a, - /"
+sd,A,"I/PRP lived/VBD ,/, grew/VBD up/RP in/IN southern/JJ Oklahoma/NNP --/:","I [ lived, + grew ] up in southern Oklahoma -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, people/NNS across/IN the/DT street/NN had/VBD a/DT cellar/NN ,/,","-- {C and, } {F uh, } people across the street had a cellar, /"
+sd,A,"and/CC we/PRP never/RB did/VBD ,/,","{C and } we never did, /"
+sd,A,"and/CC it/PRP 's/BES just/RB like/IN Dallas/NNP area/NN ,/, it/PRP was/VBD tornado/NN alley/NN up/IN there/RB ,/,","{C and } it's just like Dallas area, it was tornado alley up there, /"
+sd,A,"and/CC every/DT spring/NN mom/NN would/MD drag/VB me/PRP up/RP at/IN three/CD o'clock/RB ,/, four/CD o'clock/RB in/IN the/DT morning/NN and/CC pajamas/NNS and/CC teddy/NN bear/NN across/IN the/DT street/NN ,/,","{C and } every spring mom would drag me up at three o'clock, four o'clock in the morning and pajamas and teddy bear across the street, /"
+sd,A,"and/CC we/PRP 'd/MD go/VB into/IN the/DT cellar/NN ,/,","{C and } we'd go into the cellar, /"
+sd,A,and/CC I/PRP --/:,{C and } I --
+b,B,Yep/NNP ./.,Yep. /
++,A,"--/: to/IN this/DT day/NN ,/, I/PRP do/VBP n't/RB care/VB if/IN I/PRP go/VBP or/CC not/RB ,/,","-- to this day, I don't care if I go or not, /"
+sv,A,"you/PRP know/VBP ,/, if/IN it/PRP 's/BES going/VBG to/TO get/VB me/PRP ,/, it/PRP 's/BES get/VB me/PRP ./.","{D you know, } if it's going to get me, it's get me. /"
+aa,B,"That/DT 's/BES exactly/RB ,/, uh/UH ,/,","That's exactly, {F uh, } - /"
+%,B,"growing/VBG ,/,","growing, - /"
+sd,B,"I/PRP grew/VBD up/RP in/IN western/JJ Pennsylvania/NNP ,/, near/RB Pittsburgh/NNP ,/,","I grew up in western Pennsylvania, near Pittsburgh, /"
+sd,B,"and/CC ,/, uh/UH ,/, we/PRP used/VBD to/TO call/VB the/DT basements/NNS actual/JJ cellars/NNS ,/,","{C and, } {F uh, } we used to call the basements actual cellars, /"
+sd,B,"so/RB it/PRP 's/BES funny/JJ to/TO hear/VB that/DT word/NN ,/, because/IN I/PRP never/RB hear/VBP it/PRP ,/,","{C so } it's funny to hear that word, because I never hear it, /"
+sd,B,"you/PRP know/VBP ,/, it/PRP 's/BES like/IN the/DT back/JJ porch/NN used/VBD to/TO be/VB a/DT stoop/NN ,/, you/PRP know/VBP --/:","{D you know, } it's like the back porch used to be a stoop, {D you know } -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"--/: but/CC ,/, uh/UH ,/, um/UH ,/, the/DT housing/NN is/VBZ just/RB ,/,","-- {C but, } {F uh, } {F um, } the housing is just, - /"
+sd,B,"we/PRP like/VBP the/DT older/JJR houses/NNS ,/,","we like the older houses, /"
+sd,B,"and/CC I/PRP do/VBP n't/RB know/VB if/IN we/PRP 're/VBP going/VBG to/TO stay/VB here/RB or/CC not/RB ,/, depends/VBZ ,/,","{C and } I don't know if we're going to stay here or not, depends, /"
+qy,B,"you/PRP know/VBP ,/, I/PRP mean/VBP ,/,","{D you know, } {E I mean, } -/"
+qy,A,You/PRP ever/RB thought/VBD about/IN building/VBG a/DT house/NN ?/.,You ever thought about building a house? /
+br,B,Pardon/VB me/PRP ?/.,Pardon me? /
+qy,A,Have/VBP you/PRP ever/RB thought/VBD about/IN building/VBG a/DT house/NN ?/.,Have you ever thought about building a house? /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"actually/UH when/WRB we/PRP were/VBD up/IN north/RB ,/, um/UH ,/,","{D actually } when we were up north, {F um, } - /"
+sd,B,but/CC some/DT family/NN things/NNS changed/VBD,{C but } some family things changed /
+sd,B,"so/RB we/PRP ended/VBD up/RP come/VB back/RB down/IN here/RB ,/, and/CC all/DT that/DT ,/, because/IN it/PRP helped/VBD my/PRP$ husband/NN 's/POS work/NN ,/,","{C so } we ended up come back down here, and all that, because it helped my husband's work, /"
+sd,B,"but/CC ,/, um/UH ,/, we/PRP really/RB would/MD like/IN to/TO ,/,","{C but, } {F um, } we really would like to, /"
+sd,B,"but/CC we/PRP do/VBP n't/RB know/VB if/IN we/PRP 're/VBP going/VBG to/TO do/VB it/PRP unless/IN we/PRP stay/VBP here/RB ,/, you/PRP know/VBP ./.","{C but } we don't know if we're going to do it unless we stay here, {D you know. } /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,"that/DT 's/BES true/JJ ,/,","that's true, /"
+sv,A,"especially/RB when/WRB ,/,","especially when, - /"
+sv,A,"with/IN T/NNP I/NNP it/PRP 's/BES like/IN anybody/NN else/RB ,/, you/PRP never/RB know/VBP how/WRB long/JJ you/PRP 're/VBP going/VBG to/TO be/VB here/RB ,/, be/VB in/IN one/CD place/NN ,/, you/PRP know/VBP ,/,","with T I it's like anybody else, you never know how long you're going to [ be here, + be ] in one place, {D you know, } /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+ba,B,"it/PRP 's/BES real/RB tough/JJ ,/,","it's real tough, /"
+sd,B,"I/PRP mean/VBP ,/, the/DT economy/NN any/DT more/JJR ,/,","{E I mean, } the economy any more, - /"
+sv,B,"I/PRP mean/VBP ,/, I/PRP think/VBP everybody/NN just/RB lives/VBZ under/IN an/DT umbrella/NN ,/, the/DT uncertainty/NN with/IN housing/NN --/:","{E I mean, } I think everybody just lives under an umbrella, the uncertainty with housing --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: and/CC everything/NN ,/,","-- and everything, /"
+sd,B,"you/PRP know/VBP ,/, it/PRP 's/BES ,/,","{D you know, } it's, -/"
+qy,A,Do/VBP you/PRP work/VBP ?/.,Do you work? /
+br,B,Pardon/VB me/PRP ?/.,Pardon me? /
+qy,A,Do/VBP you/PRP work/VBP ?/.,Do you work? /
+ny,B,"Yes/UH ,/,","Yes, /"
+sd,B,I/PRP do/VBP ./.,I do. /
+qw,A,"Well/UH ,/, how/WRB do/VBP you/PRP handle/VB ,/,","{D Well, } how do you handle, - /"
+qy,A,do/VBP you/PRP have/VB kids/NNS ?/.,do you have kids? /
+nn,B,"No/UH ,/,","No, /"
+sd,B,we/PRP do/VBP n't/RB ./.,we don't. /
+sd,A,"So/RB you/PRP got/VBD ,/,","{C So } you got, - /"
+sd,A,"he/PRP 's/BES working/VBG and/CC working/VBG to/TO get/VB this/DT big/JJ house/NN to/TO take/VB care/NN of/IN ,/,","he's working and working to get this big house to take care of, - /"
+qw,A,how/WRB do/VBP you/PRP manage/VB both/DT of/IN those/DT ?/.,how do you manage both of those? /
+^h,B,"Uh/UH ,/, how/WRB do/VBP we/PRP take/VB care/NN of/IN the/DT house/NN ./.","{F Uh, } how do we take care of the house. /"
+sd,B,"Well/UH ,/, I/PRP do/VBP n't/RB have/VB a/DT Mexi/JJ ,/,","{D Well, } I don't have a Mexi-, - /"
+t1,B,"I/PRP do/VBP n't/RB ,/, should/MD n't/RB say/VB that/IN ,/,","I [ don't, + ] shouldn't say that, /"
+sd,B,I/PRP do/VBP n't/RB have/VB an/DT ethnic/JJ maid/NN ./.,I don't have an ethnic maid <laughter>. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP do/VBP n't/RB have/VB ,/,","I don't have, - /"
+sd,B,"we/PRP have/VBP some/DT friends/NNS that/WDT live/VBP near/RB North/NNP Dallas/NNP off/RP of/IN Campbell/NNP Road/NNP ,/,","we have some friends that live near North Dallas off of Campbell Road, /"
+sd,B,"and/CC they/PRP have/VBP like/IN a/DT four/CD thousand/CD square/NN foot/NN home/NN ,/,","{C and } they have like a four thousand square foot home, /"
+sd,B,"and/CC she/PRP 's/HVS got/VBN a/DT ,/, uh/UH ,/, a/DT live/VB out/IN nanny/NN ./. Um/UH ,/,","{C and } she's got [ a, + {F uh, } a ] live out nanny. {F Um, } /"
+sd,B,"but/CC any/DT rate/NN ,/, I/PRP do/VBP n't/RB have/VB any/DT of/IN that/DT ,/, um/UH ,/,","{C but } any rate, I don't have any of that, {F um, } /"
+h,B,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,B,"it/PRP 's/BES really/RB not/RB too/RB difficult/JJ with/IN no/DT children/NNS and/CC just/RB two/CD people/NNS ,/, you/PRP know/VBP ./.","it's really not too difficult with no children and just two people, {D you know. } /"
+qy^d,A,You/PRP basically/RB --/:,You basically --
+sd,B,"We/PRP have/VBP a/DT ,/,","We have a, -/"
++,A,"--/: can/MD take/VB care/NN of/IN everything/NN yourself/PRP ,/,","-- can take care of everything yourself, /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"we/PRP have/VBP a/DT dog/NN ,/,","we have a dog, /"
+sd,B,"and/CC we/PRP 're/VBP pretty/RB ,/,","{C and } we're pretty, - /"
+sd,B,"I/PRP mean/VBP ,/, we/PRP 're/VBP not/RB fanatically/RB neat/JJ ,/,","{E I mean, } we're not fanatically neat, /"
+sd,B,"but/CC ,/, um/UH ,/, we/PRP keep/VBP things/NNS up/RP ,/, you/PRP know/VBP --/:","{C but, } {F um, } we keep things up, {D you know } --"
+b,A,"Yeah/UH ,/,","Yeah, /"
++,B,--/: not/RB like/IN where/WRB there/EX is/VBZ three/CD feet/NNS of/IN weeds/NNS or/CC anything/NN in/IN the/DT yard/NN --/:,-- not like where there is three feet of weeds or anything in the yard --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: by/IN the/DT time/NN you/PRP need/VBP to/TO ,/, um/UH ,/, get/VB around/IN to/IN fertilizing/VBG and/CC cutting/VBG in/IN the/DT spring/NN ./.","-- by the time you need to, {F um, } get around to fertilizing and cutting in the spring. /"
+qw,A,"What/WP about/IN home/NN repairs/NNS and/CC stuff/NN ,/,","What about home repairs and stuff, /"
+qy,A,"do/VBP you/PRP have/VB to/TO do/VB all/DT that/DT yourself/PRP ,/,","do you have to do all that yourself, /"
+%,A,"or/CC ,/,","{C or, } -/"
+nn,B,"Um/UH ,/, no/UH ,/,","{F Um, } no, /"
+sd,B,"we/PRP 're/VBP pretty/RB much/JJ ,/, um/UH ,/,","we're pretty much, {F um, } - /"
+sd,B,"we/PRP ,/, we/PRP 've/VBP been/VBN around/IN long/JJ enough/RB as/IN a/DT couple/NN that/IN we/PRP learned/VBD a/DT long/JJ time/NN ago/RB not/RB to/TO wall/GW paper/^VB together/RB --/:","[ we, + we've ] been around long enough as a couple that we learned a long time ago not to wall paper together <laughter> --"
+aa,A,"Oh/UH ,/, you/PRP too/RB ./.","{F Oh, } you too. /"
++,B,--/: and/CC things/NNS like/IN that/DT ./.,-- and things like that. /
+sd,B,"Uh/UH ,/, we/PRP pretty/RB much/JJ hire/VBP ,/,","{F Uh, } we pretty much hire, - /"
+sd,B,we/PRP subcontract/VB mostly/JJ everything/NN --/:,we subcontract mostly everything --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: I/PRP mean/VBP other/JJ than/IN anything/NN that/WDT 's/BES not/RB a/DT ,/, um/UH ,/,","-- {E I mean } other than anything that's not a, {F um, } - /"
+sd,B,"I/PRP mean/VBP ,/, I/PRP know/VBP how/WRB to/TO fix/VB a/DT running/VBG toilet/NN --/:","{E I mean, } I know how to fix a running toilet -- /"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,"--/: he/PRP does/VBZ what/WP he/PRP needs/VBZ to/TO ,/,","-- he does what he needs to, /"
+sd,B,"but/CC mostly/RB if/IN it/PRP 's/BES something/NN major/JJ ,/, um/UH ,/, you/PRP know/VBP ,/, cleaning/VBG out/RP the/IN air/NN conditioning/NN ducts/NNS or/CC something/NN like/IN that/DT ,/, we/PRP just/RB hire/VBP out/RP to/TO do/VB that/DT ,/,","{C but } mostly if it's something major, {F um, } {D you know, } cleaning out the air conditioning ducts or something like that, we just hire out to do that, /"
+sv,A,"Sounds/VBZ like/IN you/PRP 've/VBP already/RB got/VBN the/DT makings/NNS for/IN being/VBG a/DT general/JJ contractor/NN ,/,","Sounds like you've already got the makings for being a general contractor, /"
+aa,B,"Yeah/UH ,/,","<Laughter> Yeah, /"
+bd,B,"no/DT thanks/NNS ,/,","no thanks, /"
+%,B,"I/PRP ,/,","I, -/"
+sv,A,"If/IN you/PRP do/VBP n't/RB wall/GW paper/^VB it/PRP well/RB together/RB ,/, you/PRP should/MD probably/RB not/RB build/VB a/DT house/NN together/RB ./.","If you don't wall paper it well together, you should probably not build a house together. /"
+qy,B,"Have/VBP you/PRP ever/RB done/VBN that/DT ,/,","Have you ever done that, /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP built/VBD three/CD houses/NNS in/IN my/PRP$ life/NN,I built three houses in my life /
+qo,B,And/CC how/WRB 'd/MD that/DT go/VB ?/.,{C And } how'd that go? /
+sd,A,the/DT building/NN process/NN was/VBD a/DT lot/NN of/IN fun/NN --/:,the building process was a lot of fun -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: but/CC puts/VBZ a/DT lot/NN of/IN strain/NN on/IN things/NNS ./.,-- {C but } puts a lot of strain on things. /
+sd,B,"Getting/VBG to/TO agree/VB to/IN things/NNS ,/, I/PRP 'm/VBP sure/JJ ,/,","Getting to agree to things, I'm sure, - /"
+sv,B,"and/CC I/PRP also/RB think/VBP that/IN once/RB you/PRP get/VBP to/TO be/VB ,/, um/UH ,/, you/PRP know/VBP ,/, certain/JJ ,/,","{C and } I also think that once you get to be, {F um, } {D you know, } certain, - /"
+sv,B,when/WRB you/PRP get/VBP to/TO be/VB thirty/CD something/NN and/CC thirty/CD something/NN gets/VBZ to/TO be/VB a/DT little/JJ bit/NN older/JJR --/:,when you get to be thirty something and thirty something gets to be a little bit older <laughter> --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: you/PRP start/VBP ,/, um/UH ,/,","-- you start, {F um, } - /"
+sv,B,the/DT dollar/NN value/NN on/IN things/NNS --/:,the dollar value on things --
+aa,A,You/PRP bet/VBP ./.,You bet. /
++,B,"--/: I/PRP ,/,","-- I, - /"
+sv,B,"you/PRP know/VBP ,/, I/PRP think/VBP people/NNS that/WDT own/VBP homes/NNS a/DT lot/NN in/IN North/NNP Dallas/NNP are/VBP very/RB materialistic/JJ ./.","{D you know, } I think people that own homes a lot in North Dallas are very materialistic. /"
+aa,A,"Oh/UH ,/, you/PRP bet/VBP ./.","{F Oh, } you bet. /"
+sd,B,"I/PRP know/VBP I/PRP 'm/VBP supposed/VBN to/TO talk/VB about/IN homes/NNS ,/,","I know I'm supposed to talk about homes, /"
+sv,B,"but/CC people/WDT that/IN ,/, the/DT people/NNS that/WDT own/VBP them/PRP are/VBP the/DT hom-/XX ,/, homes/NNS themselves/PRP ,/,","{C but } [ people that, + the people that ] own them are the [ hom-, + homes ] themselves, /"
+sv,B,"and/CC you/PRP know/VBP ,/, um/UH ,/, spending/NN sixteen/CD dollars/NNS a/DT yard/NN for/IN custom/NN draperies/NNS ,/, for/IN custom/NN drapes/NNS just/RB does/VBZ n't/RB ,/,","{C and } {D you know, } {F um, } spending sixteen dollars a yard for custom draperies, for custom drapes just doesn't <laughter>, -/"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,A,"Well/UH ,/, to/IN some/DT of/IN them/PRP I/PRP guess/VBP it/PRP does/VBZ n't/RB matter/VB ,/, you/PRP know/VBP ,/, that/DT maybe/RB --/:","{D Well, } to some of them I guess it doesn't matter, {D you know, } that maybe --"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"that/DT 's/BES ,/,","that's, -/"
++,A,"--/: they/PRP 've/VBP got/VBN enough/RB coming/VBG in/IN to/TO take/VB care/NN of/IN it/PRP ,/,","-- they've got enough coming in to take care of it, /"
+sd,B,"I/PRP mean/VBP ,/, and/CC ,/, and/CC you/PRP know/VBP ,/, you/PRP see/VBP a/DT lot/NN of/IN these/DT people/NNS that/WDT came/VBD east/RB from/IN ,/, uh/UH ,/, west/RB ,/, from/IN ,/, uh/UH ,/, from/IN New/NNP York/NNP with/IN Exxon/NNP or/CC J/NNP C/NNP Penney/NNP ,/,","{E I mean, } [ {C and, } + {C and } ] {D you know, } you see a lot of these people that came [ east from, + {F uh, } west, [ from, + {F uh, } from ] ] New York with Exxon or J C Penney, /"
+sv,B,and/CC it/PRP 's/BES just/RB a/DT hoot/NN to/TO watch/VB them/PRP ./.,{C and } it's just a hoot to watch them. /
+qy,A,"Are/VBP they/PRP ,/, they/PRP ,/,","Are [ they, + they, ] - /"
+sv,A,"as/RB far/RB as/IN they/PRP 're/VBP concerned/VBN ,/, they/PRP 've/VBP come/VB to/IN the/DT promised/JJ land/NN ,/,","as far as they're concerned, they've come to the promised land, /"
+sv,A,"you/PRP know/VBP ,/, they/PRP 've/VBP got/VBN it/PRP made/VBD ,/,","{D you know, } they've got it made, /"
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,"right/UH ,/,","right, /"
+aa,B,"exactly/UH ,/,","exactly, /"
+qy,B,"so/RB ,/, well/UH was/VBD it/PRP hard/JJ to/TO adjust/VB living/VBG in/IN an/DT apartment/NN after/IN being/VBG in/IN a/DT house/NN ./.","{C so, } {D well } was it hard to adjust living in an apartment after being in a house. /"
+ny,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,A,"because/IN you/PRP 're/VBP combine-/XX ,/, uh/UH ,/, confined/VBN by/IN space/NN ,/,","{C because } you're [ combine-, + ] {F uh, } confined by space, /"
+sd,A,"you/PRP know/VBP ,/, I/PRP had/VBD a/DT ,/,","{D you know, } I had a, - /"
+sd,A,I/PRP came/VBD out/IN of/IN a/DT thirty-one/CD hundred/CD square/NN foot/NN two/CD story/NN --/:,I came out of a thirty-one hundred square foot two story --
+ba,B,"Oh/UH ,/, my/UH goodness/UH --/:","{F Oh, } my goodness -- /"
++,A,--/: house/NN ./.,-- house. /
+b,B,--/: yeah/UH ./.,-- yeah. /
+sd,A,"And/CC I/PRP had/VBD room/NN for/IN everything/NN ,/,","{C And } I had room for everything, /"
+sd,A,in/IN fact/NN I/PRP had/VBD more/JJR room/NN than/IN knew/VBD what/WP to/TO do/VB with/IN ./.,in fact I had more room than knew what to do with. /
+h,A,I/PRP do/VBP n't/RB know/VB --/:,I don't know -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: just/RB seems/VBZ like/IN room/NN ,/, stuff/NN always/RB expands/VBZ to/TO fill/VB available/JJ space/NN ,/,","-- just seems like [ room, + stuff ] always expands to fill available space, /"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: uh/UH ./.,-- {F uh. }
+sv,B,"Well/UH ,/, in/IN a/DT way/NN you/PRP can/MD travel/VB light/JJ ./.","{D Well, } in a way you can travel light. /"
+%,A,"you/PRP can/MD ,/,","you can, - /"
+sv,A,"you/PRP know/VB ,/, you/PRP lear/VBP ,/, you/PRP adjust/VBP ,/, you/PRP figure/VBP out/RP ,/,","{D you know, } you lear-, you adjust, you figure out, /"
+qw,B,"How/WRB is/VBZ ,/, how/WRB is/VBZ apartment/NN dwelling/NN living/VBG in/IN terms/NNS of/IN general/JJ privacy/NN and/CC noise/NN and/CC things/NNS like/IN that/DT ?/.","[ How is, + how is ] apartment dwelling living in terms of general privacy and noise and things like that? /"
+sd,A,It/PRP 's/BES not/RB as/RB bad/JJ as/IN I/PRP thought/VBD it/PRP was/VBD --/:,It's not as bad as I thought it was -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: it/PRP 's/BES not/RB as/RB bad/JJ as/IN I/PRP remembered/VBD ,/, especially/RB going/VBG to/IN college/NN and/CC living/VBG in/IN apartments/NNS there/RB ,/, you/PRP know/VBP how/WRB noisy/JJ that/DT can/MD be/VB ./.","-- it's not as bad as I remembered, especially going to college and living in apartments there, you know how noisy that can be. /"
+aa,B,"Yes/UH ,/,","Yes, /"
+aa,B,I/PRP do/VBP ./.,I do. /
+sd,A,"Uh/UH ,/, there/EX seems/VBZ to/TO be/VB more/JJR a/DT mature/JJ crowd/NN in/IN ,/, uh/UH ,/, apartments/NNS ,/, at/IN least/JJS where/WRB I/PRP am/VBP ,/, uh/UH ,/, even/RB though/RB ,/, you/PRP know/VBP ,/, there/EX 's/BES kids/VBZ all/RB around/IN","{F Uh, } there seems to be more a mature crowd in, {F uh, } apartments, at least where I am, {F uh, } even though, {D you know, } there's kids all around /"
+sd,A,"and/CC there/EX 's/BES ,/, there/EX 's/BES traffic/NN","{C and } [ there's, + there's ] traffic /"
+sd,A,"and/CC there/EX 's/BES people/NNS running/VBG up/RB and/CC down/RB the/DT sidewalks/NNS and/CC stuff/NN like/IN that/DT ,/,","{C and } there's people running up and down the sidewalks and stuff like that, /"
+sd,A,"but/CC still/RB ,/, uh/UH ,/,","{C but } still, {F uh, } -/"
+qy^d,B,"Everybody/NN pretty/RB much/JJ kee/VBZ ,/, keeps/VBZ ,/, keeps/VBZ to/IN their/PRP$ own/JJ turf/NN ,/, so/RB to/TO speak/VB ./.","Everybody pretty much [ [ kee-, + keeps-, ] + keeps ] to their own turf, so to speak. /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"pretty/RB much/JJ ,/,","pretty much, /"
+sd,A,"and/CC ,/, uh/UH ,/, there/EX 's/BES never/RB really/RB any/DT ,/,","{C and, } {F uh, } there's never really any, - /"
+sd,A,"oh/UH I/PRP remember/VBP in/IN school/NN ,/,","{F oh } I remember in school, - /"
+%,A,"there/EX 's/BES just/RB ,/,","there's just, - /"
+sd,A,seem/VB like/IN there/EX was/VBD a/DT fight/NN or/CC a/DT party/NN or/CC something/NN going/VBG on/IN every/DT night/NN --/:,seem like there was a fight or a party or something going on every night -- /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: You/PRP do/VBP n't/RB run/VB into/IN that/DT up/IN here/RB ,/, I/PRP think/VBP ,/, I/PRP think/VBP because/IN there/EX 's/BES so/RB many/JJ ,/, uh/UH ,/, professional/JJ people/NNS ,/, if/IN you/PRP want/VBP to/TO call/VB them/PRP that/WDT --/:","-- You don't run into that up here, [ I think, + I think ] because there's so many, {F uh, } professional people, if you want to call them that --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: that/WDT go/VBP spend/VB all/DT day/NN at/IN work/NN,-- that go spend all day at work /
+sv,A,and/CC they/PRP want/VBP to/TO come/VB home/NN,{C and } they want to come home /
+sv,A,"and/CC they/PRP want/VBP some/DT quiet/NN ,/,","{C and } they want some quiet, /"
+bf,B,"Relax/VB and/CC try/VB to/TO go/VB to/TO sleep/VB ,/,","Relax and try to go to sleep, /"
+b,B,"really/UH ,/,","really, /"
+%,B,yeah/UH ./.,yeah. /
+sd,A,"You/PRP see/VBP a/DT lot/NN of/IN activity/NN outside/IN ,/, people/NNS riding/VBG bikes/NNS ,/, playing/VBG ball/NN ,/, or/CC jogging/NN","You see a lot of activity outside, people riding bikes, playing ball, or jogging /"
+sd,A,"or/CC they/PRP 're/VBP doing/VBG this/DT and/CC that/DT ,/,","{C or } they're doing this and that, /"
+sd,A,"and/CC they/PRP ,/, they/PRP 're/VBP trying/VBG to/TO ,/, to/TO unwind/VB ./.","{C and } [ they, + they're ] trying [ to, + to ] unwind. /"
+sv,B,"I/PRP think/VBP Plano/NNP in/IN general/NN is/VBZ getting/VBG a/DT little/RB more/JJR ,/,","I think Plano in general is getting a little more, - /"
+sv,B,well/UH it/PRP 's/HVS gotten/VBN so/RB big/JJ it/PRP 's/BES almost/RB a/DT town/NN in/IN it/PRP 's/POS own/JJ right/NN ./.,{D well } it's gotten so big it's almost a town in it's own right. /
+b,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,A,"it/PRP 's/BES a/DT hundred/CD and/CC what/WP ,/, eighty/CD thousand/CD ,/, something/NN like/IN that/DT ./.","it's a hundred and what, eighty thousand, something like that. /"
+b^m,B,"Or/CC something/NN ,/,","{C Or } something, /"
+%,B,"yeah/UH ,/,","yeah, /"
+%,B,"the/DT price/NN of/IN home/NN ,/,","the price of home, - /"
+sd,B,"now/UH we/PRP paid/VBD ,/, oh/UH ,/, we/PRP paid/VBD ,/, um/UH about/RB seventy-eight/CD nine/CD for/IN our/PRP$ house/NN like/IN I/PRP said/VBD ,/, about/RB a/DT decade/NN ago/RB ,/, not/RB even/RB ,/, about/RB nine/CD years/NNS ago/RB ,/,","{D now } [ we paid, + {F oh, } we paid, ] {F um } about seventy-eight nine for our house like I said, about a decade ago, not even, about nine years ago, /"
+sd,B,"and/CC ,/, I/PRP 'd/MD say/VB they/PRP appraised/VBN it/PRP ,/,","{C and, } I'd say they appraised it, - /"
+sd,B,"it/PRP 's/HVS gone/VBN up/RP ,/, you/PRP now/RB ,/, maybe/RB like/IN five/CD percent/NN --/:","[ it's + ] gone up, [ you now, + ] maybe like five percent -- /"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,B,"--/: so/RB it/PRP 's/BES an/DT investment/NN ,/,","-- {C so } it's an investment, /"
+sd,B,"but/CC it/PRP 's/BES something/NN that/WDT ,/,","{C but } it's something that, - /"
+sd,B,"you/PRP know/VBP ,/, when/WRB you/PRP 're/VBP first/RB married/JJ or/CC starting/VBG out/RP ,/, you/PRP think/VBP if/IN you/PRP really/RB have/VBP something/NN ,/,","{D you know, } when you're first married or starting out, you think if you really have something, /"
+sd,B,"but/CC you/PRP really/RB ,/,","{C but } you really, - /"
+sd,B,"it/PRP 's/BES just/RB real/RB ,/,","it's just real, - /"
+sv,B,"nowadays/RB ,/, with/IN the/DT way/NN the/DT income/NN tax/NN ,/, I/PRP think/VBP housing/VBG is/VBZ strictly/RB to/TO itemize/VB ./.","nowadays, with the way the income tax, I think housing is strictly to itemize. /"
+aa,A,"Oh/UH ,/, you/PRP bet/VBP ,/,","{F Oh, } you bet, /"
+sv,A,"and/CC the/DT thing/NN that/WDT ,/, that/WDT gets/VBZ me/PRP is/VBZ ,/, uh/UH ,/, you/PRP never/RB really/RB catch/VBP up/RP ,/, you/PRP never/RB really/RB finish/VBP doing/VBG things/NNS ,/,","{C and } the thing [ that, + that ] gets me is, {F uh, } you never really catch up, you never really finish doing things, /"
+sv,A,"and/CC ,/, uh/UH --/:","{C and, } {F uh } --"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"exactly/UH ,/,","exactly, /"
+%,B,"we/PRP ,/,","we, -/"
++,A,--/: you/PRP 're/VBP always/RB paying/VBG for/IN something/NN ./.,-- you're always paying for something. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"and/CC even/RB ,/,","{C and } even, - /"
+sd,B,"you/PRP know/VBP ,/, I/PRP mean/VBP ,/, like/UH we/PRP had/VBD ,/, I/PRP called/VBD them/PRP prefabs/NNS ,/, just/RB a/DT tract/NN home/NN ,/,","{D you know, } {E I mean, } {D like } we had, I called them prefabs, just a tract home, /"
+sd,B,"you/PRP know/VBP ,/, I/PRP mean/VBP ,/, we/PRP ,/, we/PRP had/VBD one/CD of/IN their/PRP$ homes/NNS that/WDT was/VBD nicer/JJR in/IN Pennsylvania/NNP ,/,","{D you know, } {E I mean, } [ we, + we ] had one of their homes that was nicer in Pennsylvania, /"
+sd,B,"but/CC ,/, um/UH ,/, it/PRP was/VBD an/DT older/JJR home/NN ,/,","{C but, } {F um, } it was an older home, /"
+sv,B,"but/CC then/RB ,/, you/PRP buy/VBP an/DT older/JJR home/NN and/CC you/PRP 're/VBP always/RB fixing/VBG things/NNS up/RP ,/,","{C but then, } you buy an older home and you're always fixing things up, /"
+aa,A,"Oh/UH ,/, you/PRP are/VBP ,/, constantly/RB ,/,","{F Oh, } you are, constantly, /"
+sv,A,"there/EX 's/BES always/RB something/NN going/VBG wrong/JJ ,/,","there's always something going wrong, /"
+%,B,"So/RB ,/, you/PRP know/VBP ,/,","{C So, } {D you know, } -/"

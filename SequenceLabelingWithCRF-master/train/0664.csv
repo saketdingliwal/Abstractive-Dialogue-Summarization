@@ -1,0 +1,312 @@
+act_tag,speaker,pos,text
+fp,A,"Hi/UH ,/, this/DT is/VBZ Judy/NNP ,/,","Hi, this is Judy, /"
+fp,A,I/PRP 'm/VBP from/IN Maryland/NNP,I'm from Maryland <noise> /
+fp,A,and/CC I/PRP 'm/VBP in/IN California/NNP visiting/VBG right/RB now/RB ./.,{C and } I'm in California visiting right now. /
+fp,B,"Hi/UH ,/, Judy/NNP ./.","Hi, Judy. /"
+fp,B,"This/DT is/VBZ Norma/NNP ,/,","This is Norma, /"
+fp,B,and/CC I/PRP live/VBP in/IN Virginia/NNP ./.,{C and } I live in Virginia <laughter>. /
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sv,B,We/PRP got/VBD a/DT great/JJ topic/NN ./.,We got a great topic <laughter>. /
+aa,A,I/PRP know/VBP ./.,<Laughter> I know. /
+sd,A,"I/PRP 'm/VBP sitting/VBG here/RB going/VBG oh/UH ,/, dear/UH ./.","I'm sitting here going {F oh, } dear <laughter>. /"
+x,B,,<Laughter>.
+qy,A,Should/MD we/PRP give/VB it/PRP a/DT try/NN ?/.,<Laughter> Should we give it a try? /
+na,B,I/PRP guess/VBP we/PRP might/MD as/IN well/RB ./.,I guess we might as well <laughter>. /
+bk,A,Okay/UH ./.,Okay <laughter>. /
+bk,A,Okay/UH ./.,Okay. /
+b^m,B,Okay/UH ./.,Okay. /
+%,A,"Well/UH ,/, um/UH ,/, so/UH ,/,","{D Well, } {F um, } {D so } <laughter>, -/"
+ad,B,"Let/VB you/PRP start/VB ,/,","Let you start <laughter>, /"
+qw,A,"So/UH ,/, so/UH what/WDT changes/NNS have/VBP you/PRP seen/VBN ?/. ./.","<Laughter> {D So, } {D so } what changes have you seen? <laughter>. /"
+t1,B,"What/WDT changes/NNS ,/, uh/UH ,/,","What changes, {F uh, } /"
+x,A,,<Laughter>.
+%,B,"I/PRP guess/VBP the/DT biggest/JJS ,/,","I guess the biggest, - /"
+qw^d,B,"I/PRP do/VBP n't/RB know/VB your/PRP$ age/NN Judy/NNP ,/,","I don't know your age Judy, /"
+sd,B,"but/CC ,/, uh/UH ,/, in/IN my/PRP$ lifetime/NN the/DT biggest/JJS is/VBZ in/IN more/JJR women/NNS working/VBG ,/,","{C but, } {F uh, } in my lifetime the biggest is in more women working,"
+aa,A,"Well/UH ,/, actually/UH ,/,","{D Well, } {D actually, }"
++,B,definitely/RB ./.,definitely. /
++,A,that/DT 's/BES what/WP I/PRP was/VBD thinking/VBG too/RB ./.,that's what I was thinking too. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC ,/, um/UH ,/, you/PRP know/VBP ,/, just/RB to/TO jump/VB ahead/RB a/DT little/JJ bit/NN","{C And, } {F um, } {D you know, } just to jump ahead a little bit - /"
+ad,A,but/CC then/RB we/PRP can/MD back/VB up/RP ./.,{C but } then we can back up. /
+qh,A,"Is/VBZ it/PRP ,/, perhaps/RB ,/, woman/NN in/IN politics/NN is/VBZ for/IN the/DT future/NN ./.","Is it, perhaps, woman in politics is for the future. /"
+sv,B,"For/IN the/DT fut-/NN ,/, well/UH ,/, yeah/UH ./.","[ For the fut-, + ] {D well, } yeah. /"
+sv,A,"Because/IN I/PRP do/VBP n't/RB see/VB that/DT really/RB yet/RB in/IN positions/NNS of/IN power/NN ,/, really/RB ./.","{C Because } I don't see that really yet in positions of power, really. /"
+aa,B,Right/UH ./.,Right. /
+aa,B,I/PRP do/VBP n't/RB see/VB them/PRP in/IN positions/NNS of/IN power/NN in/IN corporation/NN either/RB --/:,I don't see them in positions of power in corporation either <laughter> -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,--/: not/RB many/JJ ./.,-- not many. /
+aa,A,That/DT 's/BES true/JJ ./.,That's true. /
+aa,A,That/DT 's/BES true/JJ ./.,That's true. /
+qy,A,"Um/UH ,/, do/VBP you/PRP work/VB in/IN private/JJ corporation/NN or/CC government/NN ?/.","{F Um, } do you work in private corporation or government? /"
+sd,B,I/PRP did/VBD work/NN in/IN government/NN ./.,I did work in government. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC before/IN that/DT I/PRP worked/VBD in/IN a/DT bank/NN for/IN eight/CD years/NNS ./.,{C And } before that I worked in a bank for eight years. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b^m,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC now/RB I/PRP 'm/VBP retired/JJ ./.,{C And } now I'm retired. /
+%,A,"Oh/UH ,/, you/PRP ,/,","{F Oh, } you, -/"
+x,B,,<Laughter>.
+sv,A,That/DT 's/BES the/DT best/JJS status/NN ./.,<Laughter> That's the best status. /
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
+b,A,"Yes/UH ,/, um/UH ,/,","Yes, {F um, } /"
+%,A,"I/PRP do/VBP n't/RB ,/, I/PRP see/VBP ,/, um/UH ,/,","[ I don't, + I see, ] {F um, } - /"
+%,A,"and/CC ,/,","{C and, } -/"
+qw,B,"Which/WDT do/VBP you/PRP work/VB in/IN ,/, excuse/VB me/PRP ?/.","Which do you work in, {E excuse me? } /"
+sd,A,A/DT government/NN ./.,A government. /
+b^m,B,A/DT government/NN ./.,A government. /
+sd,A,And/CC I/PRP work/VBP in/IN academia/NN before/RB ./.,{C And } I work in academia before. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, um/UH ,/, actually/UH there/EX 's/BES one/CD ,/, um/UH ,/, woman/NN in/IN our/PRP$ ,/, I/PRP do/VBP n't/RB know/VB what/WP you/PRP 'd/MD call/VB it/PRP ,/, uh/UH ,/, institute/NN who/WP is/VBZ a/DT manager/NN","{C And, } {F um, } {D actually } there's one, {F um, } woman in our, {A I don't know what you'd call it, } {F uh, } institute who is a manager /"
+sd,A,"and/CC ,/, I/PRP mean/VBP ,/, in/IN a/DT since/^NN ,/, perhaps/RB ,/, um/UH ,/, a/DT lot/NN of/IN ,/, she/PRP gets/VBZ protected/VBN a/DT lot/NN because/IN it/PRP 's/BES almost/RB like/IN a/DT token/NN ./.","{C and, } {E I mean, } in a since, perhaps, {F um, } [ a lot of, + she gets protected a lot ] because it's almost like a token. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"And/CC ,/, and/CC it/PRP 's/BES sort/RB of/RB unfortunate/JJ because/IN ,/, I/PRP think/VBP that/IN they/PRP do/VBP n't/RB accept/VB her/PRP$ technically/RB","[ {C And, } + {C and } ] it's sort of unfortunate because, I think that they don't accept her technically /"
+sd,A,"and/CC ,/, but/CC she/PRP 's/BES a/DT good/JJ paper/NN pusher/NN ./.","[ {C and, } + {C but } ] she's a good paper pusher. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC it/PRP 's/BES in/IN a/DT technical/JJ position/NN really/RB ./.,{C And } it's in a technical position really. /
+sd,A,And/CC you/PRP know/VBP she/PRP should/MD be/VB more/RBR technical/JJ for/IN what/WP she/PRP does/VBZ ./.,{C And } {D you know } she should be more technical for what she does. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC I/PRP think/VBP that/DT 's/BES sort/RB of/RB unfortunate/JJ ,/,","{C And } I think that's sort of unfortunate,"
+b,B,Right/UH ./.,Right. /
++,A,"because/IN it/PRP does/VBZ n't/RB ,/, it/PRP does/VBZ n't/RB really/RB help/VB the/DT cause/NN in/IN the/DT long/JJ run/NN ./.","because [ it doesn't, + it doesn't ] really help the cause in the long run <laughter>. /"
+x,B,,<Laughter>.
+h,A,"But/CC ,/, um/UH ,/, you/PRP know/VBP ,/, I/PRP do/VBP n't/RB know/VB ./.","{C But, } {F um, } {D you know, } I don't know. /"
+sv,A,"And/CC ,/, and/CC teaching/VBG I/PRP still/RB see/VBP that/IN that/DT 's/BES where/WRB most/JJS of/IN the/DT woman/NN are/VBP ./.","[ {C And, } + {C and } ] teaching I still see that that's where most of the woman are. /"
+qy^d,B,In/IN teaching/NN ./.,In teaching. /
+na,A,In/IN teaching/NN ./.,In teaching. /
+sv,A,"And/CC ,/, you/PRP know/VBP ,/, and/CC it/PRP 's/HVS always/RB been/VBN that/DT way/NN ./.","[ {C And, } + {D you know, } {C and } ] it's always been that way. /"
+sv,B,But/CC not/RB at/IN the/DT college/NN level/NN ./.,{C But } not at the college level. /
+aa,A,Right/UH ./.,Right. /
+%,A,"Not/RB ,/, well/UH ,/,","Not, {D well, } -/"
+sd,B,We/PRP live/VBP in/IN a/DT college/NN town/NN,We live in a college town /
+sd,B,and/CC I/PRP worked/VBD at/IN the/DT university/NN for/IN a/DT while/NN ./.,{C and } I worked at the university for a while. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC there/EX are/VBP ,/, there/EX are/VBP woman/NN there/RB","{C And } [ there are, + there are ] woman there /"
+sd,B,but/CC they/PRP 're/VBP not/RB the/DT high/RB paid/VBN --/:,{C but } they're not the high paid --
+b,A,Uh-huh/UH ./.,Uh-huh. /
+^2,A,"Not/RB department/NN ,/,","Not department,"
++,B,"--/: professors/NNS that/WDT ,/,","-- professors that,"
++,A,chairmen/NNS ./.,chairmen. /
++,B,the/DT men/NNS are/VBP ./.,the men are <laughter>. /
+b,A,Yeah/UH ./.,Yeah. /
+bf,A,Not/RB the/DT deans/NNS and/CC things/NNS like/IN that/DT ./.,Not the deans and things like that. /
+ar,B,"Well/UH ,/, they/PRP did/VBD have/VB one/CD woman/NN dean/NN","{D Well, } they did have one woman dean /"
+sd,B,"but/CC ,/, and/CC I/PRP guess/VBP she/PRP ,/, she/PRP probably/RB did/VBD very/RB well/RB","[ {C but, } + {C and } ] I guess [ she, + she ] probably did very well /"
+sd,B,but/CC that/DT 's/BES the/DT minority/NN ./.,{C but } that's the minority. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b^m,A,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"Um/UH ,/, and/CC do/VBP you/PRP think/VB it/PRP 's/BES because/IN women/NNS are/VBP n't/RB qualified/JJ or/CC ,/, or/CC just/RB do/VBP n't/RB ,/, or/CC do/VBP n't/RB want/VB the/DT job/NN or/CC just/RB are/VBP n't/RB hired/VBN for/IN the/DT jobs/NNS ./.","{F Um, } {C and } do you think it's because women aren't qualified [ [ or, + or just don't, ] + or don't ] want the job or just aren't hired for the jobs. /"
+ng,B,None/NN of/IN the/DT above/JJ ./.,None of the above <laughter>. /
+x,A,,<Laughter>.
+sv,B,I/PRP think/VBP they/PRP are/VBP extremely/RB well/RB qualified/JJ ./.,I think they are extremely well qualified. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"Uh/UH ,/, I/PRP do/VBP n't/RB know/VB how/WRB ,/,","{F Uh, } I don't know how, -/"
+sv,A,They/PRP 're/VBP just/RB not/RB selected/VBN somehow/RB ./.,They're just not selected somehow. /
+aa,B,"I/PRP think/VBP they/PRP 're/VBP not/RB selected/VBN ,/,","I think they're not selected, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, of/IN course/NN ,/, at/IN this/DT university/NN ,/, uh/UH ,/,","{C And, } of course, at this university, {F uh, } - /"
+sd,B,"this/DT ,/, it/PRP 's/BES a/DT big/JJ engineering/NN school/NN","[ this, + it's ] a big engineering school /"
+sd,B,and/CC I/PRP do/VBP n't/RB think/VB there/EX are/VBP many/JJ women/NNS in/IN the/DT engineering/NN college/NN ./.,{C and } I don't think there are many women in the engineering college. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,And/CC that/DT 's/BES where/WRB the/DT high/JJ pay/NN is/VBZ ./.,{C And } that's where the high pay is. /
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+qw^d,A,But/CC I/PRP 'm/VBP wondering/VBG how/WRB many/JJ women/NNS actually/RB major/VBP in/IN engineering/NN ./.,{C But } I'm wondering how many women actually major in engineering. /
+sd,A,"Act-/UH ,/, but/CC ,/, you/PRP know/VBP ,/, I/PRP say/VBP that/DT","[ Act-, + {C but, } ] {D you know, } I say that /"
+sd,A,but/CC yet/RB I/PRP know/VBP too/RB ./.,{C but } yet I know too. /
+%,B,"Quite/PDT an/DT ,/,","Quite an, - /"
+sv,B,"well/UH ,/, I/PRP think/VBP there/EX are/VBP more/JJR than/IN there/EX used/VBD to/TO be/VB ./.","{D well, } I think there are more than there used to be. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,"I/PRP 'm/VBP sure/JJ there/EX are/VBP ,/, yeah/UH ./.","I'm sure there are, yeah. /"
+sv,B,"But/CC they/PRP may/MD not/RB go/VB into/IN teaching/NN ,/,","{C But } they may not go into teaching, /"
+aa,A,Uh-huh/UH ./.,Uh-huh. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP mean/VBP ,/, the/DT two/CD that/WDT I/PRP know/VBP obviously/RB are/VBP not/RB in/IN teaching/NN","{E I mean, } the two that I know obviously are not in teaching /"
+sd,A,"but/CC ,/,","{C but, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"um/UH ,/, it/PRP 's/BES ,/, it-/XX ,/, I/PRP suppose/VBP in/IN a/DT since/^NN I/PRP was/VBD surprised/VBN when/WRB they/PRP told/VBD me/PRP they/PRP majored/VBD in/IN engineering/NN ./.","{F um, } [ [ it's, + it-, ] + I ] suppose in a since I was surprised when they told me they majored in engineering. /"
+sd,A,I/PRP do/VBP n't/RB know/VB why/WRB ./.,I don't know why. /
+sd,A,"I/PRP ,/, but/CC I/PRP do/VBP n't/RB know/VB that/RB many/JJ men/NNS that/WDT have/VBP majored/VBN in/IN engineering/NN ,/,","[ I, + {C but } I ] don't know that many men that have majored in engineering,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,either/RB ./.,either. /
+sd,A,"I/PRP mean/VBP it/PRP 's/BES just/RB ,/, because/IN I/PRP 'm/VBP in/IN the/DT humanities/NNS it/PRP 's/BES just/RB ,/,","{E I mean } [ it's just, + because I'm in the humanities it's just, ] -/"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh <laughter>. /"
+sd,A,"You/PRP know/VBP ,/, it/PRP 's/BES not/RB ,/,","<Laughter> {D You know, } [ it's not, +"
+b,B,Yeah/UH ./.,Yeah. /
++,A,it/PRP 's/BES not/RB something/NN that/WDT I/PRP tend/VBP to/TO hear/VB about/IN ./.,it's not ] something that I tend to hear about. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,"But/CC ,/, um/UH ,/, yeah/UH ,/,","{C But, } {F um, } yeah, /"
+%,A,"it/PRP 's/BES a/DT ,/,","it's a, -/"
+sd,B,"Well/UH ,/, I/PRP met/VBD one/CD one/CD day/NN that/DT ,/, uh/UH ,/, had/VBD just/RB joined/VBN the/DT faculty/NN in/IN agricultural/JJ engineering/NN","{D Well, } I met one one day that, {F uh, } had just joined the faculty in agricultural engineering /"
+sd,B,and/CC that/DT really/RB surprised/VBD me/PRP ./.,{C and } that really surprised me. /
+ba,A,"Oh/UH ,/, that/DT 's/BES interesting/JJ ,/,","{F Oh, } that's interesting, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,Yeah/UH ./.,Yeah. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"I/PRP mean/VBP ,/, I/PRP ,/, I/PRP suppose/VBP that/IN ,/, that/IN it/PRP 's/BES difficult/JJ to/TO really/RB say/VBP why/WRB because/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, there/EX ,/, there/EX probably/RB are/VBP a/DT limited/JJ number/NN of/IN women/NNS who/WP are/VBP interested/JJ in/IN the/DT subject/NN and/CC well/RB qualified/VBN ./.","{E I mean, } [ I, + I ] suppose [ that, + that ] it's difficult to really say why because, {F uh, } {D you know, } [ there, + there ] probably are a limited number of women who are interested in the subject and well qualified. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC maybe/RB there/EX are/VBP n't/RB ,/, you/PRP know/VBP ,/, ./.","{C And } maybe there aren't, {D you know, } <laughter>. /"
+sv,A,Maybe/RB they/PRP do/VBP n't/RB apply/VB for/IN the/DT job/NN ./.,Maybe they don't apply for the job. /
+sd,B,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+sd,B,"I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB know/VB how/WRB many/JJ go/VBP on/RP and/CC get/VBP a/DT P/NNP H/NNP D/NNP in/IN engineering/NN ./.","[ I don't, + I don't ] know how many go on and get a P H D in engineering. /"
+b,A,Right/UH ./.,Right. /
+b,A,Right/UH ./.,Right. /
+sv,A,"Which/WDT could/MD be/VB ,/, you/PRP know/VBP ,/, part-/RB ,/, partially/RB cultural/JJ anyway/RB ./.","Which could be, {D you know, } [ part-, + partially ] cultural anyway. /"
+aa,B,That/DT could/MD be/VB ./.,That could be. /
+aa,B,That/DT 's/BES true/JJ ./.,That's true. /
+sv,A,"So/RB that/IN it/PRP might/MD be/VB circularly/RB being/VBG the/DT same/JJ problem/NN of/IN ,/, of/IN expecting/VBG not/RB to/TO get/VB hired/VBN for/IN the/DT good/JJ jobs/NNS anyway/RB ,/,","So that it might be circularly being the same problem [ of, + of ] expecting not to get hired for the good jobs anyway, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qh,A,so/RB why/WRB spend/VB your/PRP$ time/NN getting/VBG qualified/VBN ./.,{C so } why spend your time getting qualified. /
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
+sv,A,"It/PRP 's/BES a/DT ,/, it/PRP 's/BES a/DT rough/JJ ,/,","[ [ It's a, + it's a rough <laughter>, ] +"
+x,B,,<Laughter>.
++,A,"It/PRP 's/BES a/DT rough/JJ ,/, a/DT rough/JJ situation/NN ./.","It's [ a rough, a rough ] ] situation. /"
+sd,A,"Um/UH ,/, and/CC I/PRP guess/VBP what/WP I/PRP ,/, what/WP ,/, ama/VBZ ,/, amazes/VBZ me/PRP is/VBZ the/DT number/NN of/IN men/NNS who/WP are/VBP willing/JJ to/TO stay/VB home/RB with/IN the/DT kids/NNS","{F Um, } {C and } I guess [ what I, + what, [ ama-, + amazes ] ] me is the number of men who are willing to stay home with the kids /"
+sd,A,"or/CC and/CC ,/, in/IN our/PRP$ case/NN we/PRP actually/RB have/VBP one/CD father/NN who/WP works/VBZ part-time/JJ ,/, a/DT six/CD ,/,","[ {C or } + {C and, } ] in our case we actually have one father who works part-time, a six,"
+b,B,Oh/UH ./.,Oh. /
++,A,"hour/NN day/NN so/IN that/IN he/PRP can/MD take/VB the/DT kids/NNS ,/, kids/NNS or/CC kid/NN ,/, I/PRP 'm/VBP not/RB sure/JJ ,/,","hour day so that he can take the [ kids, + kids ] or kid, I'm not sure,"
+ba,B,"That/DT 's/BES interesting/JJ ,/,","That's interesting, /"
++,A,"to/IN school/VB in/IN the/DT morning/NN and/CC be/VB home/RB when/WRB the/DT children/NNS or/CC child/NN ,/,","to school in the morning and be home when the children or child,"
+x,B,,<Laughter>.
++,A,comes/VBZ home/RB in/IN the/DT afternoon/NN ./.,comes home in the afternoon. /
+qy,B,"Is/VBZ it/PRP ,/, uh/UH ,/, was/VBD she/PRP the/DT major/JJ wage/NN earner/NN ,/,","[ Is it, + {F uh, } was she ] the major wage earner, /"
+%,A,"This/DT is/VBZ ,/, uh/UH ,/,","This is, {F uh, } -/"
+qy,B,"I/PRP mean/VBP ,/, did/VBD she/PRP earn/VB more/JJR money/NN that/^IN he/PRP did/VBD","{E I mean, } did she earn more money that he did /"
+%,B,or/CC --/:,{C or } --
+no,A,"Well/UH ,/, see/UH ,/,","{D Well, } {D see, }"
++,B,--/: you/PRP know/VBP ./.,-- {D you know. } -/
++,A,I/PRP do/VBP n't/RB know/VB anything/NN about/IN the/DT family/NN,I don't know anything about the family /
+ny,A,"but/CC ,/, but/CC ,/, yeah/UH ,/,","[ {C but, } + {C but, } ] yeah, /"
+sd,A,"I/PRP would/MD imagine/VB she/PRP might/MD ./. Um/UH ,/,","I would imagine she might. {F Um, } /"
+sd,A,"because/IN he/PRP 's/BES ,/, you/PRP know/VBP ,/, he/PRP 's/BES a/DT really/RB nice/JJ guy/NN","{C because } [ he's, + {D you know, } he's ] a really nice guy /"
+sd,A,but/CC he/PRP did/VBD say/VB that/IN because/IN he/PRP was/VBD in/IN the/DT humanities/NNS and/CC he/PRP 's/BES now/RB working/VBG in/IN more/JJR of/IN a/DT technical/JJ situation/NN that/IN he/PRP had/VBD trouble/NN finding/VBG a/DT job/NN ./.,{C but } he did say that because he was in the humanities and he's now working in more of a technical situation that he had trouble finding a job. /
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,A,"So/RB that/IN maybe/RB he/PRP ,/, you/PRP know/VBP ,/, maybe/RB she/PRP was/VBD more/RBR qualified/JJ ./.","So that [ maybe he, + {D you know, } maybe she ] was more qualified. /"
+sv,A,"But/CC ,/, but/CC still/RB it/PRP 's/BES interesting/JJ that/IN ,/, you/PRP know/VBP ,/, he/PRP ,/,","[ {C But, } + {C but } ] still it's interesting that, {D you know, } [ he, +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"he/PRP 's/HVS been/VBN doing/VBG this/DT evidently/RB for/IN a/DT ,/, a/DT good/JJ number/NN of/IN years/NNS ./.","he's ] been doing this evidently for [ a, + a ] good number of years. /"
+x,B,,<Laughter>.
+sv,A,"And/CC ,/, uh/UH ,/, but/CC it/PRP 's/BES unusual/JJ ./.","[ {C And, } + {F uh, } {C but } ] it's unusual. /"
+sd,B,"Uh/UH ,/, I/PRP know/VBP one/CD ,/, uh/UH ,/, gal/NN","{F Uh, } I know one, {F uh, } gal /"
+sd,B,"that/DT 's/BES ,/, she/PRP 's/BES a/DT C/NNP P/NNP A/NNP ,/,","[ that's, + she's ] a C P A, /"
+sd,B,and/CC her/PRP$ husband/NN is/VBZ a/DT house/NN husband/NN ./.,{C and } her husband is a house husband. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Yeah/UH,Yeah /
+%,A,"I/PRP ,/,","I, -/"
+sd,B,And/CC then/RB they/PRP had/VBD a/DT child/NN,{C And then } they had a child /
+sd,B,"and/CC he/PRP ,/, he/PRP was/VBD still/RB the/DT house/NN husband/NN ./.","{C and } [ he, + he ] was still the house husband. /"
+sd,B,"He/PRP was/VBD n't/RB ,/,","He wasn't,"
+qy^d,A,"Oh/UH ,/, he/PRP was/VBD ,/,","{F Oh, } he was,"
++,B,"going/VBG to/TO ,/,","going to, -/"
++,A,even/RB before/IN they/PRP had/VBD children/NNS ./.,even before they had children. /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Even/RB before/IN that/DT ,/,","Even before that, /"
+na,B,right/UH ./.,right. /
+sv,A,"Oh/UH ,/, now/UH that/DT ,/, that/DT really/RB is/VBZ ./.","{F Oh, } {D now } [ that, + that ] really is <laughter>. -/"
+sd,B,She/PRP was/VBD a/DT little/RB perturbed/JJ about/IN it/PRP ./.,She was a little perturbed about it. /
+bh,A,"Oh/UH ,/, she/PRP was/VBD ./.","{F Oh, } she was. /"
+na,B,At/IN one/CD time/NN ./.,At one time. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP do/VBP n't/RB know/VB how/WRB ,/, she/PRP 's/HVS moved/VBN away/RB ./. I/PRP do/VBP n't/RB know/VB how/WRB it/PRP is/VBZ now/RB","[ I don't know how, + {A she's moved away. } I don't know how ] it is now /"
+sd,B,"but/CC I/PRP know/VBP ,/, uh/UH ,/, we/PRP 're/VBP ,/, we/PRP all/DT went/VBD out/RB one/CD evening/NN","{C but } I know, {F uh, } [ we're, + we ] all went out one evening /"
+sd,B,"and/CC after/IN work/NN and/CC ,/, uh/UH ,/, she/PRP was/VBD ,/, there/EX was/VBD an/DT underlying/VBG note/NN she/PRP was/VBD perturbed/JJ about/IN it/PRP ./.","[ {C and } <lipsmack> after work + {C and, } ] {F uh, } [ she was, + there was ] an underlying note she was perturbed about it. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"I/PRP mean/VBP I/PRP think/VBP that/DT would/MD be/VB ,/, it/PRP would/MD ,/, it/PRP would/MD strike/VB one/PRP as/IN strange/JJ if/IN there/EX 's/BES no/DT reason/NN for/IN --/:","{E I mean } I think [ [ that would be, + it would, ] + it would ] strike one as strange if there's no reason for --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: somebody/NN to/TO stay/VB home/RB that/DT ,/,","-- somebody to stay home that, -/"
+sv,B,I/PRP do/VBP n't/RB think/VB there/EX was/VBD a/DT valid/JJ reason/NN ./.,I don't think there was a valid reason <laughter>. /
+aa,A,Yeah/UH,Yeah /
+aa,A,./. That/DT 's/BES true/JJ ./.,<laughter>. That's true. /
+sd,B,"Because/IN her/PRP$ statement/NN was/VBD ,/, I/PRP told/VBD him/PRP let/VBP 's/PRP face/VB it/PRP","Because her statement was, I told him let's face it /"
+^q,B,you/PRP 're/VBP a/DT house/NN husband/NN,you're a house husband /
+^q,B,"that/DT 's/BES what/WP you/PRP 're/VBP going/VBG ,/, that/DT 's/BES what/WP you/PRP 'll/MD always/RB be/VB ./.","[ that's what your going, + that's what you'll ] always be. /"
+x,A,,<Laughter>.
+x,B,,<Laughter>.
+ad,A,"But/CC ,/, but/CC yet/RB ,/, you/PRP know/VBP we/PRP have/VBP to/TO think/VB about/IN that/DT","[ {C But, } + {C but } ] yet, {D you know } we have to think about that /"
+sv,A,"because/IN if/IN ,/, if/IN she/PRP had/VBD offered/VBN to/TO stay/VB home/RB we/PRP would/MD n't/RB have/VB thought/VBN anything/NN stran/JJ ,/,","{C because } [ if, + if ] she had offered to stay home we wouldn't have thought anything stran-, -/"
+sv,B,"She/PRP would/MD n't/RB have/VB be/VBN ,/,","She wouldn't have be, - /"
+aa,B,that/DT 's/BES right/JJ ./.,that's right. /
+aa,B,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,B,that/DT 's/BES right/JJ ./.,that's right. /
+sv,A,"So/UH ,/, so/UH we/PRP 're/VBP ,/,","{D So, } {D so } we're,"
+sv,B,"it/PRP would/MD ,/, it/PRP would/MD n't/RB have/VB been/VBN a/DT doubter/NN ./.","[ it would, + it wouldn't ] have been a (( doubter )) . -/"
++,A,carrying/VBG our/PRP$ own/JJ prejudice/NN ./.,carrying our own prejudice <laughter>. /
+aa,B,Uh-huh/UH ./.,<Laughter> Uh-huh. /
+aa,B,That/DT 's/BES true/JJ ./.,That's true. /
+b,A,Yeah/UH ./.,<Laughter> Yeah. /
+ba,A,"Oh/UH ,/, gee/UH ./.","{F Oh, } gee. /"
+x,B,,<Laughter>.
+sv,A,I/PRP guess/VBP we/PRP ca/MD n't/RB win/VB ./.,I guess we can't win <laughter>. /
+aa,B,Huh-uh/UH ./.,Huh-uh. /
+%,B,Oh/UH ./.,Oh. /
+sv,A,"Because/IN if/IN ,/, yeah/UH ,/, if/IN ,/, if/IN somebody/NN does/VBZ if/IN and/CC breaks/VBZ tradition/NN you/PRP 're/VBP surprised/JJ ./.","Because [ [ if, + yeah, if, ] + if ] somebody does if and breaks tradition you're surprised. /"
+%,A,But/CC if/IN ./.,{C But } if <laughter>. -/
+aa,B,That/DT 's/BES right/JJ ./.,That's right <laughter>. /
+ba,A,"Oh/UH ,/, dear/UH ./.","{F Oh, } dear. /"
+%,A,"So/UH ,/, so/UH ,/,","{D So, } {D so, } -/"
+sv,B,I/PRP think/VBP maybe/RB more/JJR men/NNS would/MD like/VB to/TO be/VB if/IN they/PRP --/:,I think maybe more men would like to be if they <laughter> --
+^2,A,If/IN they/PRP could/MD get/VB away/RP with/IN it/PRP ./.,If they could get away with it <laughter>. /
++,B,--/: were/VBD n't/RB put/VBN down/RP so/RB badly/RB ./.,-- weren't put down so badly <laughter>. /
+ba,A,"Oh/UH ,/, dear/UH ./.","<Laughter> {F Oh, } dear. /"
+sv,A,"You/PRP know/VBP ,/, well/UH ,/, uh/UH ,/, I/PRP mean/VBP it/PRP ,/, it/PRP 's/BES an/DT interesting/JJ topic/NN","{D You know, } {D well, } {F uh, } {E I mean } [ it, + it's ] an interesting topic /"
+sd,A,"yet/RB I/PRP must/MD say/VB it/PRP 's/BES not/RB one/NN that/WDT I/PRP 've/VBP given/VBN a/DT great/JJ deal/NN of/IN ,/,","yet I must say it's not one that I've given a great deal [ of, +"
+aa,B,Huh-uh/UH ./.,Huh-uh. /
++,A,of/IN thought/NN to/IN,of ] thought to /
+sd,A,"but/CC ,/, uh/UH ,/,","{C but, } {F uh, }"
+aa,B,"No/UH ,/,","No, /"
+sd,B,I/PRP did/VBD n't/RB ./.,I didn't. /
++,A,in/IN the/DT past/NN ./.,in the past. /
+sv,A,"It/PRP 's/BES ,/, um/UH ,/, one/CD of/IN those/DT things/NNS that/WDT ,/, you/PRP know/VBP ,/, seems/VBZ to/TO happen/VB ./.","It's, {F um, } one of those things that, {D you know, } seems to happen. /"
+qo,B,How/WRB do/VBP you/PRP feel/VB your/PRP$ career/NN has/VBZ gone/VBN ?/.,How do you feel your career has gone? /
+sd,A,"I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB feel/VB for/IN the/DT most/JJS part/NN that/IN I/PRP 've/VBP been/VBN discriminated/VBN against/IN ./.","[ I don't, + I don't ] feel for the most part that I've been discriminated against. /"
+bh,B,You/PRP do/VBP n't/RB ./.,You don't. /
+ba,B,That/DT 's/BES good/JJ ./.,That's good. /
+nn,A,No/UH ./.,No. /
+sd,A,I/PRP was/VBD a/DT department/NN chairman/NN ./.,I was a department chairman. /
+sd,A,"I/PRP ,/, but/CC I/PRP do/VBP n't/RB like/VB administration/NN ./.","[ I, + {C but } I ] don't like administration. /"
+bk,B,Oh/UH ./.,Oh. /
+sv,A,"So/RB then/RB I/PRP 'm/VBP ,/, uh/UH ,/, uh/UH ,/, probably/RB a/DT poor/JJ example/NN ,/, although/IN ,/, you/PRP know/VBP ,/, I/PRP was/VBD an/DT administrator/NN and/CC could/MD still/RB be/VB I/PRP suppose/VBP ./.","{D So } then I'm, {F uh, } {F uh, } probably a poor example, although, {D you know, } I was an administrator and could still be I suppose. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,I/PRP was/VBD discriminated/VBN against/IN very/RB definitely/RB in/IN banking/NN ./.,I was discriminated against very definitely in banking. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,It/PRP was/VBD terrible/JJ ./.,It was terrible. /
+bh,A,"Oh/UH ,/, really/UH ./.","{F Oh, } really. /"
+qy,A,"You/PRP were/VBD ,/, you/PRP were/VBD more/RBR ambitious/JJ than/IN they/PRP would/MD let/VB you/PRP be/VB ?/.","[ You were, + you were ] more ambitious than they would let you be? /"
+na,B,Right/UH ./.,Right. /
+sd,B,And/CC the/DT money/NN did/VBD n't/RB go/VB with/IN the/DT positions/NNS ./.,{C And } the money didn't go with the positions. /
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Yeah/UH ./.,Yeah. /
+%,A,"Well/UH ,/, I/PRP would/MD ,/,","{D Well, } I would, -/"
+sd,B,"The/DT promotion/NN ,/, promotions/NNS came/VBD","The [ promotion, + promotions ] came /"
+sd,B,"but/CC there/EX wer/VBP ,/, there/EX comparable/JJ pay/NN for/IN the/DT responsibility/NN ./.","{C but } [ there wer-, + there ] comparable pay for the responsibility. /"
+b,A,"Uh/UH ,/,","{F Uh, } /"
+sd,B,"And/CC I/PRP was/VBD told/VBN you/PRP do/VBP n't/RB need/VB as/RB much/JJ pay/NN as/IN I/PRP have/VBP because/IN your/PRP$ children/NNS are/VBP older/JJR than/IN my/PRP$ children/NNS ,/,","{C And } I was told you don't need as much pay as I have because your children are older than my children, /"
+sd,B,or/CC your/PRP$ husband/NN has/VBZ a/DT good/JJ job/NN,{C or } your husband has a good job /
+%,B,and/CC ./.,{C and } <laughter>. -/
+ba,A,"Oh/UH ,/, jeez/UH ./.","{F Oh, } jeez. /"
+x,B,,<Laughter>.
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"actually/UH in/IN a/DT since/^NN I/PRP suppose/VBP ,/, when/WRB I/PRP was/VBD hired/VBN into/IN the/DT government/NN ,/, um/UH ,/, at/IN ,/, I/PRP was/VBD taken/VBN advantage/NN of/IN","{D actually } in a since I suppose, when I was hired into the government, {F um, } [ at, + ] I was taken advantage of /"
+sv,A,"and/CC ,/, and/CC that/DT 's/BES true/JJ that/IN ,/, you/PRP know/VBP ,/, sometimes/RB other/JJ people/NNS get/VBP ,/, get/VBP higher/JJR increments/NNS ,/,","[ {C and, } + {C and } ] that's true that, {D you know, } sometimes other people [ get, + get ] higher increments,"
+%,B,"I/PRP thi/VBP ,/,","I thi-, - /"
+b,B,uh-huh/UH ./.,uh-huh. /
++,A,"for/IN ,/, you/PRP know/VBP ,/, even/RB ,/,","for, {D you know, } even, -/"
+sv,B,"I/PRP think/VBP we/PRP ,/, uh/UH ,/, are/VBP programmed/VBN to/TO just/RB take/VB it/PRP --/:","I think we, {F uh, } are programmed to just take it <laughter> --"
+b,A,Right/UH ./.,Right. /
++,B,--/: as/IN it/PRP comes/VBZ ./.,-- as it comes. /
+aa,A,Right/UH ./.,Right. /
+aa,A,That/DT 's/BES probably/RB true/JJ ./.,That's probably true. /
+sd,A,"I/PRP had/VBD n't/RB ,/, I/PRP had/VBD n't/RB thought/VBN about/IN it/PRP because/IN I/PRP do/VBP like/VB what/WP I/PRP do/VBP","[ I hadn't, + I hadn't ] thought about it because I do like what I do /"
+sd,A,"and/CC ,/,","{C and, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"uh/UH ,/, I/PRP just/RB sort/RB of/RB ignore/VBP the/DT administrative/JJ ,/,","{F uh, } I just sort of ignore the administrative,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"part/NN of/IN it/PRP since/IN I/PRP did/VBD n't/RB like/VB it/PRP when/WRB ,/, when/WRB I/PRP had/VBD to/TO do/VB it/PRP ./.","part of it since I didn't like it [ when, + when ] I had to do it. /"
+x,B,,<Laughter>.
+sv,A,"So/RB I/PRP ,/, I/PRP figure/VBP ,/, you/PRP know/VBP ,/, nobody/NN must/MD ,/, uh/UH ,/, nobody/NN must/MD like/VB it/PRP ./.","{D So } [ I, + I ] figure, {D you know, } [ nobody must, + {F uh, } nobody must ] like it. /"
+sv,A,It/PRP must/MD be/VB a/DT rotten/JJ job/NN for/IN everybody/NN ./.,It must be a rotten job for everybody <laughter>. /
+x,B,,<Laughter>.
+sd,A,But/CC I/PRP know/VBP some/DT people/NNS thrive/VBP on/IN it/PRP ./.,{C But } I know some people thrive on it <laughter>. /
+ba,A,"Oh/UH ,/, gee/UH ./.","{F Oh, } gee. /"
+fc,A,"Well/UH ,/, since/IN I/PRP do/VBP n't/RB have/VB a/DT whole/JJ lot/NN more/JJR to/TO say/VB on/IN the/DT topic/NN ./.","{D Well, } since I don't have a whole lot more to say on the topic. -/"
+%,B,"I/PRP do/VBP n't/RB ,/,","I don't, -/"

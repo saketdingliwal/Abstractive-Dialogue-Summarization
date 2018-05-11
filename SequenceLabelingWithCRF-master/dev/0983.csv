@@ -1,0 +1,123 @@
+act_tag,speaker,pos,text
+sd,A,"Well/UH ,/, I/PRP do/VBP n't/RB know/VB what/WP to/TO do/VB about/IN the/DT federal/JJ budget/NN ./.","{D Well, } I don't know what to do about the federal budget. /"
+sd,A,"Um/UH ,/, there/EX certainly/RB have/VBP been/VBN ideas/NNS surfaced/VBN ,/, uh/UH ,/, recently/RB ,/, uh/UH ,/, matter/NN of/IN fact/NN repeatedly/RB by/IN many/JJ people/NNS","{F Um, } there certainly have been ideas surfaced, {F uh, } recently, {F uh, } matter of fact repeatedly by many people /"
+qw^d,A,"and/CC I/PRP sort/RB of/RB wondered/VBD what/WDT your/PRP$ ,/, what/WDT thoughts/NNS you/PRP had/VBD on/IN that/DT area/NN ./.","{C and } I sort of wondered [ what your, + what ] thoughts you had on that area. /"
+sv,B,"The/DT ,/, the/DT first/JJ one/NN is/VBZ we/PRP need/VBP people/NNS in/IN there/RB that/WDT ,/, that/WDT understand/VBP ,/, uh/UH ,/, numbers/NNS ./. The/DT numbers/NNS that/WDT are/VBP being/VBG thrown/VBN around/IN when/WRB ,/, when/WRB we/PRP 're/VBP talking/VBG in/IN trillions/NNS of/IN dollars/NNS ./.","[ The, + the ] first one is we need people in there [ that, + that ] understand, {F uh, } numbers. The numbers that are being thrown around [ when, + when ] we're talking in trillions of dollars."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"Uh/UH ,/, which/WDT is/VBZ an/DT astronomical/JJ sum/NN","{F Uh, } which is an astronomical sum /"
+sv,B,"and/CC ,/, and/CC the/DT people/NNS that/WDT are/VBP talking/VBG this/DT numbers/NNS have/VBP no/DT concept/NN of/IN what/WP that/DT number/NN means/VBZ ./.","[ {C and, } + {C and } ] the people that are talking this numbers have no concept of what that number means. /"
+qy,A,"Now/UH are/VBP you/PRP ,/, are/VBP you/PRP talking/VBG about/IN the/DT elected/JJ people/NNS","{D Now } [ are you, + are you ] talking about the elected people /"
+qrr,A,or/CC are/VBP you/PRP talking/VBG about/IN others/NNS ?/.,{C or } are you talking about others? /
+sd,B,The/DT elected/JJ people/NNS ./.,The elected people. /
+ny,B,Yes/UH ./.,Yes. /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Our/PRP$ ,/, our/PRP$ ,/, our/PRP$ Senate/NNP and/CC Congress/NNP and/CC ,/, and/CC people/NNS that/WDT ,/, that/WDT deal/VBP everyday/RB and/CC ,/, and/CC what/WP 's/BES going/VBG to/TO be/VB done/VBN with/IN those/DT monies/NNS --/:","[ [ Our, + our, ] + our ] Senate and Congress [ and, + and ] people [ that, + that ] deal everyday [ and, + and ] what's going to be done with those monies --"
+b,A,Yes/UH ./.,Yes. /
++,B,"--/: um/UH ,/, and/CC do/VBP n't/RB really/RB understand/VB what/WP that/DT is/VBZ or/CC how/WRB a/DT budget/NN even/RB works/VBZ ./.","-- {F um, } and don't really understand what that is or how a budget even works. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Uh/UH ,/, we/PRP need/VBP to/TO elect/VB people/NNS that/WDT are/VBP more/JJR ,/, uh/UH ,/,","{F Uh, } we need to elect people that are more, {F uh, } - /"
+%,B,or/CC .../:,{C or } ... -/
+sd,A,"I/PRP 'm/VBP not/RB sure/JJ how/WRB you/PRP would/MD ach/VB ,/,","I'm not sure how you would ach-, - /"
+qw,A,how/WRB would/MD you/PRP achieve/VB that/DT ?/.,how would you achieve that? /
+%,A,"I/PRP mean/VBP if/IN ,/,","{E I mean } if, -/"
+sv,B,"Well/UH ,/, let/VB 's/PRP ,/, let/VB 's/PRP make/VB them/PRP have/VB a/DT degree/NN in/IN economy/NN ,/, uh/UH ,/, or/CC economics/NNS ./.","{D Well, } [ let's, + let's ] make them have a degree in [ economy, + {F uh, } {E or } economics. ] /"
+qy,A,"So/RB you/PRP would/MD trust/VB the/DT decision/NN making/NN dec-/XX ,/, economists/NNS ?/.","{C So } you would trust the decision making [ dec-, + ] economists? /"
+arp_nd,B,"Well/UH ,/,","{D Well } <laughter>, -/"
+sd,A,Sometimes/RB called/VBN the/DT dismal/JJ science/NN ./.,Sometimes called the dismal science. /
+b,B,Yeah/UH ./.,<Laughter> Yeah. /
+sd,B,"But/CC ,/, but/CC people/NNS that/WDT ,/, that/WDT know/VBP the/DT value/NN of/IN a/DT dollar/NN that/WDT understand/VBP the/DT value/NN of/IN a/DT dollar/NN ,/,","[ {C But, } + {C but } ] people [ [ that, + that ] know the value of a dollar + that understand the value of a dollar, ] /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Yes/UH ./.,Yes. /
+%,B,"um/UH ,/, and/CC wh-/XX ,/,","{F um, } {C and } wh-, - /"
+%,B,"in/IN ,/, in/IN ,/, in/IN","[ [ in, + in, ] + in ] - /"
+sv,B,"the/DT ,/, the/DT ,/, uh/UH ,/, lobbyists/NNS ,/,","[ the, + the, ] {F uh, } lobbyists,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"needs/VBZ them/PRP to/TO be/VB eliminated/VBN ,/, uh/UH ,/,","needs them to be eliminated, {F uh, }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"from/IN Congress/NNP ./. Um/UH ,/,","from Congress. {F Um, } -/"
+b,A,Yes/UH ./.,Yes. /
+sv,B,They/PRP do/VBP n't/RB make/VB pragmatic/JJ decisions/NNS ./.,They don't make pragmatic decisions. /
+sv,B,"They/PRP make/VBP a/DT decision/NN based/VBN on/IN consti-/NN ,/, constituency/NN --/:","They make a decision based on [ consti-, + constituency ] --"
+b,A,Yes/UH ./.,Yes. /
++,B,--/: instead/IN of/IN a/DT decision/NN based/VBN on/IN what/WP they/PRP really/RB believe/VBP ./.,-- instead of a decision based on what they really believe. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Um/UH ,/, you/PRP know/VBP ,/, th-/PRP ,/, or/CC they/PRP tack/VBP on/RP this/DT ,/, uh/UH ,/, pork/NN bellies/NNS and/CC ,/, and/CC do/VBP things/NNS that/WDT ,/, that/WDT are/VBP good/JJ for/IN their/PRP$ area/NN to/TO pass/VB something/NN that/WDT is/VBZ ,/, that/DT is/VBZ not/RB good/JJ for/IN the/DT country/NN ./.","{F Um, } {D you know, } [ th-, + ] {C or } they tack on this, {F uh, } pork bellies [ and, + and ] do things [ that, + that ] are good for their area to pass something [ that is, + that is ] not good for the country. /"
+b,A,Right/UH ./.,Right. /
+bf,A,"So/RB ,/, so/RB you/PRP would/MD favor/VB a/DT law/NN which/WDT said/VBD there/EX could/MD not/RB be/VB lobbyists/NNS ./.","[ {D So, } + {D so } ] you would favor a law which said there could not be lobbyists. /"
+sv,A,"I/PRP mean/VBP right/RB now/RB lobbyists/NNS require/VBP to/TO register/VB you/PRP 'd/MD just/RB say/VB ,/,","{E I mean } right now lobbyists require to register you'd just say,"
+na,B,"Oh/UH ,/, I/PRP ,/, I/PRP definitely/RB would/MD ./.","{F Oh, } [ I, + I ] definitely would. /"
+ny,B,Yeah/UH ./.,Yeah. /
+^2,B,Get/VB rid/VBN of/IN them/PRP ./.,Get rid of them. /
++,A,"Ma/VB ,/, make/VB them/PRP all/DT ./.","(( [ Ma-, + make ] them all )) . /"
+aa,B,"Totally/UH ./. Uh/UH ,/,","Totally. {F Uh, } /"
+qy^d,A,No/DT causes/NNS that/WDT you/PRP think/VBP the/DT lobbyists/NNS would/MD be/VB good/JJ for/IN ?/.,No causes that you think the lobbyists would be good for? /
+sv,B,"I/PRP ,/, I/PRP think/VBP that/IN any/DT company/NN or/CC anything/NN that/WDT wants/VBZ to/TO contribute/VB to/IN a/DT fund/NN --/:","[ I, + I ] think that any company or anything that wants to contribute to a fund --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: should/MD be/VB able/JJ to/TO do/VB that/DT ,/, and/CC be/VB registered/JJ with/IN what/WP they/PRP ever/RB contribute/VBP ./.","-- should be able to do that, and be registered with what they ever contribute. /"
+sv,B,But/CC they/PRP should/MD not/RB have/VB a/DT one-on-one/JJ relationship/NN with/IN the/DT people/NNS making/VBG the/DT decisions/NNS that/WDT affect/VBP them/PRP ./.,{C But } they should not have a one-on-one relationship with the people making the decisions that affect them. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"That/DT ,/, that/DT 's/BES a/DT conflict/NN of/IN interest/NN as/RB far/RB as/IN I/PRP 'm/VBP concerned/JJ ./.","[ That, + that's ] a conflict of interest as far as I'm concerned. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"When/WRB you/PRP are/VBP talking/VBG again/RB ,/, uh/UH ,/, billions/NNS and/CC trillions/NNS of/IN dollars/NNS --/:","When you are talking again, {F uh, } billions and trillions of dollars --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: uh/UH ,/, you/PRP 're/VBP ,/, you/PRP 're/VBP jeopardizing/VBG the/DT future/NN of/IN the/DT country/NN ,/, uh/UH ,/, for/IN today/NN ./.","-- {F uh, } [ you're, + you're ] jeopardizing the future of the country, {F uh, } for today. /"
+%,B,"That/DT ,/,","That, -/"
+sv,A,"So/RB ,/, uh/UH ,/, you/PRP talk/VBP about/IN jeopardizing/VBG the/DT future/NN ./.","{C So, } {F uh, } you talk about jeopardizing the future. /"
+qy,A,Would/MD you/PRP be/VB against/IN any/DT deficit/NN spending/NN ?/.,Would you be against any deficit spending? /
+na,B,"I/PRP ,/, I/PRP think/VBP to/TO bring/VB it/PRP in/IN line/NN you/PRP are/VBP going/VBG to/TO have/VB to/TO have/VB a/DT generation/NN that/WDT 's/BES going/VBG to/TO really/RB bite/VB the/DT bullet/NN to/TO bring/VB it/PRP in/IN line/NN ./.","[ I, + I ] think to bring it in line you are going to have to have a generation that's going to really bite the bullet to bring it in line. /"
+sv,B,You/PRP ca/MD n't/RB ease/VB into/IN it/PRP ./.,You can't ease into it. /
+sv,B,It/PRP took/VBD years/NNS and/CC years/NNS to/TO build/VB up/RP the/DT momentum/NN that/WDT 's/BES there/RB now/RB ./.,It took years and years to build up the momentum that's there now. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+h,B,"Uh/UH ,/, I/PRP ,/, I/PRP forget/VBP the/DT figures/NNS on/IN the/DT interest/NN rate/NN","{F Uh, } [ I, + I ] forget the figures on the interest rate /"
+sv,B,"but/CC it/PRP 's/BES something/NN like/IN ,/, uh/UH ,/, hundreds/NNS of/IN thousands/NNS of/IN dollars/NNS a/DT second/NN --/:","{C but } it's something like, {F uh, } hundreds of thousands of dollars a second --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: in/IN interest/NN ./.,-- in interest. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,Part/NN of/IN the/DT problem/NN is/VBZ we/PRP do/VBP n't/RB loan/VB from/IN ourselves/PRP ./.,Part of the problem is we don't loan from ourselves. /
+sv,B,"We/PRP ,/, we/PRP buy/VBP from/IN intimate/JJ international/JJ banking/NN ./.","[ We, + we ] buy from intimate international banking. /"
+sv,B,That/DT 's/BES why/WRB we/PRP have/VBP interest/NN ./.,That's why we have interest. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC ,/, and/CC I/PRP ,/, I/PRP ,/, I/PRP really/RB feel/VBP that/IN ,/, that/IN ,/, that/DT is/VBZ part/NN of/IN the/DT problem/NN that/IN we/PRP ,/, we/PRP 've/VBP let/VBN things/NNS get/VB so/RB out/IN of/IN control/NN that/IN ,/, that/IN we/PRP do/VBP n't/RB want/VB to/TO put/VB the/DT brakes/NNS on/IN them/PRP ./.","[ {C And, } + {C and } ] [ [ I, + I, ] + I ] really feel [ [ that, + that, ] + that ] is part of the problem that [ we, + we've ] let things get so out of control [ that, + that ] we don't want to put the brakes on them. /"
+qw,A,"But/CC wha/WDT ,/, what/WDT practical/JJ steps/NNS could/MD on-/NN ,/, could/MD one/NN take/VB ?/. Um/UH ,/,","{C But } [ wha-, + what ] practical steps [ could on-, + could one ] take? {F Um, } /"
+sd,B,"By/IN ,/, by/IN having/VBG a/DT ,/, a/DT ,/, a/DT budget/NN that/WDT is/VBZ ,/, is/VBZ feasible/JJ ,/, that/WDT is/VBZ reasonable/JJ ./.","[ By, + by ] having [ [ a, + a, ] + a ] budget [ that [ is, + is ] feasible, + that is reasonable. ] /"
+sv,A,"Well/UH ,/, but/CC everybody/NN will/MD say/VB that/IN he/PRP is/VBZ for/IN that/DT ./. Uh/UH ,/,","{D Well, } {C but } everybody will say that he is for that. {F Uh, } /"
+qw,A,"and/CC ,/,","{C and, }"
+ba,B,"Oh/UH ,/, of/IN course/NN ./.","{F Oh, } of course. /"
+b,B,Sure/UH ./.,(( Sure )) . /
++,A,"and/CC how/WRB will/MD you/PRP ,/,","{C and } how will you,"
+sv,B,And/CC then/RB add/VB on/IN to/IN it/PRP ./.,{C And then } add on to it. -/
++,A,make/VB that/DT actually/RB happen/VB ?/.,make that actually happen? /
+sv,B,You/PRP take/VB the/DT gross/JJ national/JJ income/NN --/:,You take the gross national income --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: and/CC you/PRP say/VBP our/PRP$ budget/NN is/VBZ X/SYM number/NN of/IN percent/NN of/IN this/DT gross/JJ national/JJ income/NN ./.,-- and you say our budget is X number of percent of this gross national income. /
+sv,B,One/CD thing/NN we/PRP could/MD do/VB is/VBZ give/VB a/DT ten/CD percent/NN income/NN tax/NN ./.,One thing we could do is give a ten percent income tax.
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"Across-the-board/RB ,/,","Across-the-board, /"
+sv,B,"everyone/NN no/DT matter/NN what/WP ,/,","everyone no matter what,"
+aa,A,Yep/UH ./.,Yep. /
++,B,pays/VBZ a/DT ten/CD percent/NN income/NN tax/NN ./.,pays a ten percent income tax. /
+ba,A,Sounds/VBZ like/IN a/DT good/JJ idea/NN ./.,Sounds like a good idea. /
+%,B,"Uh/UH ,/,","{F Uh, } /"
+qy,A,"Nothing/NN escapes/VBZ ,/, right/UH ?/.","Nothing escapes, right? /"
+qy^d,A,"No/UH ,/, no/UH ,/,","[ No, + no, ]"
+na,B,That/DT 's/BES right/JJ ./.,That's right. /
++,A,"deductions/NNS ,/, nothing/NN ./.","deductions, nothing. /"
+na,B,Right/UH ./.,Right. /
+sv,B,No/DT deductions/NNS ./.,No deductions. /
+sv,A,Just/RB ten/CD percent/NN ./.,Just ten percent. /
+bf,B,You/PRP pay/VBP a/DT ten/CD percent/NN income/NN tax/NN ./.,You pay a ten percent income tax. /
+aa,A,Yep/UH ./.,Yep. /
+sv,B,That/DT 's/BES what/WP you/PRP pay/VBP,That's what you pay /
+sv,B,"if/IN you/PRP make/VBP forty/CD million/CD dollars/NNS ,/, uh/UH ,/, then/RB you/PRP 're/VBP going/VBG to/TO pay/VB four/CD million/CD ./.","if you make forty million dollars, {F uh, } then you're going to pay four million. /"
+b,A,Right/UH ./.,Right. /
+%,B,"I-/IN ,/,","I-, - /"
+sv,B,"if/IN you/PRP make/VBP forty/CD dollars/NNS ,/, you/PRP 're/VBP going/VBG to/TO pay/VB four/CD dollars/NNS ./.","if you make forty dollars, you're going to pay four dollars. /"
+sv,B,"And/CC ,/, and/CC that/DT 's/BES it/PRP ./.","[ {C And, } + {C and } ] that's it. /"
+aa,A,Yep/UH ./.,Yep. /
+sv,A,"So/RB that/DT ,/, that/DT 's/BES it/PRP ./.","{C So } [ that, + that's ] it. /"
+%,A,That/DT 's/BES I/PRP mean/VBP,That's {E I mean } - /
+sv,A,"I/PRP ,/, I/PRP agree/VBP with/IN that/DT","[ I, + I ] agree with that /"
+sv,A,that/DT 's/BES a/DT good/JJ idea/NN,that's a good idea /
+qy,A,"and/CC is/VBZ it/PRP your/PRP$ expectation/NN that/IN that/DT would/MD raise/VB the/DT total/JJ revenues/NNS collected/VBN or/CC ,/, or/CC lower/VB them/PRP or/CC what/WP ?/.","{C and } is it your expectation that that would raise the total revenues collected [ or, + or ] lower them or what? /"
+arp_nd,B,I/PRP do/VBP n't/RB know/VB that/IN it/PRP would/MD or/CC would/MD n't/RB ./.,I don't know that it would or wouldn't. /

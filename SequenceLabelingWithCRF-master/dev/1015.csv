@@ -1,0 +1,177 @@
+act_tag,speaker,pos,text
+sd,B,"Uh/UH ,/, anyway/RB ,/, we/PRP 're/VBP supposed/VBN to/TO talk/VB about/IN recycling/NN ./. Basically/RB ,/, what/WP ,/, what/WP your/PRP$ personal/JJ opinion/NN is/VBZ on/IN it/PRP ./.","{F Uh, } {D anyway, } we're supposed to talk about recycling. {D Basically, } [ what, + what ] your personal opinion is on it. /"
+sd,B,"Uh/UH ,/, this/DT is/VBZ ,/, this/DT is/VBZ really/RB for/IN a/DT speech/NN research/NN project/NN they/PRP 're/VBP doing/VBG","{F Uh, } [ this is, + this is ] really for a speech research project they're doing /"
+h,B,"so/RB ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ./.","{C so, } {F uh, } I don't know. /"
+qy,B,Florida/NNP is/VBZ pretty/RB good/JJ about/IN recycling/NN is/VBZ n't/RB it/PRP ?/.,Florida is pretty good about recycling isn't it? /
+arp_nd,A,"Well/UH ,/, they/PRP just/RB kicked/VBD it/PRP off/RP down/IN here/RB in/IN ,/, in/IN Sarasota/NNP county/NN ./.","{D Well, } they just kicked it off down here [ in, + in ] Sarasota county. /"
+bh,B,"Oh/UH ,/, they/PRP did/VBD ?/.","{F Oh, } they did? /"
+sd,A,"Uh/UH ,/, they/PRP had/VBD been/VBN doing/VBG it/PRP ,/,","{F Uh, } <lipsmack> they had been doing it, /"
+sd,A,they/PRP started/VBD first/RB in/IN Sarasota/NNP City/NNP ./.,they started first in Sarasota City.
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"Uh/UH ,/, you/PRP know/VBP ,/, which/WDT makes/VBZ up/RP a/DT pretty/RB small/JJ portion/NN of/IN the/DT county/NN actually/RB ./.","{F Uh, } {D you know, } which makes up a pretty small portion of the county actually. /"
+b,B,Yeah/UH ./.,Yeah. /
+qy^d,A,"And/CC ,/, uh/UH ,/, they/PRP 've/VBP got/VBN these/DT ,/, I/PRP do/VBP n't/RB know/VB what/WP ,/, if/IN you/PRP 're/VBP familiar/JJ with/IN Sarasota/NNP county/NN at/IN all/DT ./.","{C And, } {F uh, } they've got these, I don't know what, if you're familiar with Sarasota county at all. /"
+ng,B,"Not/RB quite/RB ,/,","Not quite, /"
+nn,B,no/UH ./.,no. /
+%,A,"They/PRP 've/VBP got/VBN these/DT ,/, wh-/XX ,/,","They've got these, [ wh-, + ] - /"
+sd,A,"it/PRP 's/BES ,/, it/PRP 's/BES county/NN wide/JJ program/NN now/RB ./.","[ it's, + it's ] county wide program now. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC what/WP they/PRP 've/VBP done/VBN is/VBZ they/PRP 've/VBP broken/VBN everything/NN down/RP into/IN garbage/NN ./. Uh/UH ,/, yard/NN trash/NN ./.","{C And } what they've done is they've broken everything down into garbage. {F Uh, } yard trash."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"Plastic/NN ,/, cr-/XX ,/, cans/NNS and/CC glass/NN ./.","Plastic, [ cr-, + cans ] and glass."
+b,B,Okay/UH ./.,Okay. /
++,A,"And/CC then/RB ,/, uh/UH ,/, paper/NN ./.","And then, {F uh, } paper. /"
+b,B,Okay/UH ./.,Okay. /
+sd,A,"Which/WDT ,/, in/IN the/DT paper/NN ,/, it/PRP 's/BES just/RB ,/, uh/UH ,/, newspaper/NN and/CC corrugated/JJ cardboard/NN ./.","Which, in the paper, it's just, {F uh, } newspaper and corrugated cardboard."
+b,B,Yeah/UH ./.,Yeah. /
++,A,Is/VBZ the/DT only/JJ thing/NN you/PRP 're/VBP supposed/VBN to/TO put/VB in/IN there/RB ./.,Is the only thing you're supposed to put in there. /
+b,B,Okay/UH ./.,Okay. /
+sd,A,"No/DT slicks/NNS ./. Uh/UH ,/,","No slicks. {F Uh, } /"
+ba,B,"Oh/UH ,/, that/DT 's/BES ,/, that/DT 's/BES good/JJ ./.","{F Oh, } [ that's, + that's ] good. /"
+^h,B,Let/VB me/PRP ask/VB you/PRP this/DT ./.,Let me ask you this. /
+qy,B,Do/VBP they/PRP require/VB you/PRP to/TO presort/VB it/PRP ?/.,Do they require you to presort it? /
+ny,A,Yeah/UH ./.,Yeah. /
+bk,B,Okay/UH ./.,Okay. /
+sd,B,See/UH that/DT 's/BES something/NN in/IN Minneapolis/NNS they/PRP 're/VBP really/RB strict/JJ on/IN ./.,See that's something in Minneapolis they're really strict on. /
+sd,B,"In/IN terms/NNS of/IN you/PRP got/VBD to/TO put/VB everything/NN in/IN its/PRP$ own/JJ little/JJ bag/NN and/CC really/RB presort/VBP it/PRP really/RB ,/, you/PRP know/VBP ,/, tightly/RB ./.","In terms of you got to put everything in its own little bag and really presort it really, {D you know, } tightly. /"
+sd,B,"But/CC when/WRB I/PRP lived/VBD in/IN Orlando/NNP ,/, it/PRP 's/BES like/IN you/PRP could/MD put/VB almost/RB anything/NN in/IN there/RB --/:","{C But } when I lived in Orlando, it's like you could put almost anything in there -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: and/CC they/PRP 'd/MD just/RB sort/VB it/PRP out/RP for/IN you/PRP ./.,-- {C and } they'd just sort it out for you <laughter>. /
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Yeah/UH ./.,(( Yeah )) . /
+sd,B,"It/PRP was/VBD really/RB pretty/RB good/JJ if/IN you/PRP 're/VBP lazy/JJ like/IN I/PRP am/VBP ,/,","It was really pretty good if you're lazy like I am, /"
+%,B,so/RB ./.,{C so. } -/
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,right/UH ./.,right. /
+sd,A,"Well/UH ,/, you/PRP know/VBP ,/, uh/UH ,/, I/PRP talked/VBD to/IN this/DT girl/NN","{D Well, } {D you know, } {F uh, } I talked to this girl /"
+sd,A,"who/WP ,/, uh/UH ,/, she/PRP 's/BES a/DT ,/, an/DT s-/XX ,/, an/DT acquaintance/NN of/IN mine/PRP","[ who, + {F uh, } she's ] [ a, + [ an s-, + an ] ] acquaintance of mine /"
+sd,A,"and/CC ,/, and/CC she/PRP 's/BES involved/VBN with/IN ,/, uh/UH ,/, oh/UH ,/,","[ {C and, } + {C and } ] she's involved with, {F uh, } <lipsmack> {F oh, } - /"
+t1,A,what/WP is/VBZ the/DT name/NN of/IN that/DT company/NN ./.,what is the name of that company. /
+sd,A,It/PRP 's/BES not/RB Amway/NNP,It's not Amway /
+sd,A,but/CC it/PRP 's/BES the/DT other/JJ big/JJ vitamin/NN company/NN ?/. Shaklee/NNP ./.,{C but } it's the other big vitamin company? Shaklee. /
+b,B,"Oh/UH ,/, okay/UH ,/,","{F Oh, } okay, /"
+b,B,yeah/UH ./.,yeah. /
+b,A,Okay/UH ./.,Okay. /
+sd,A,"And/CC ,/, uh/UH ,/, and/CC ,/, and/CC she/PRP 's/BES just/RB Shaklee/NNP crazy/JJ ,/, you/PRP know/VBP ,/, because/IN it/PRP 's/BES her/PRP$ business/NN and/CC everything/NN ./.","[ [ {C And, } + {F uh, } {C and, } ] + {C and } ] she's just Shaklee crazy, {D you know, } because it's her business and everything. /"
+x,B,./.,<Laughter>.
+%,A,"And/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, and/CC she/PRP asked/VBD ,/,","[ {C And, } {F uh, } <lipsmack> + {D you know, } {C and } ] she asked, - /"
+sd,A,we/PRP were/VBD talking/VBG one/CD day/NN,we were talking one day /
+sd,A,"and/CC ,/, and/CC she/PRP asked/VBD me/PRP a/DT couple/NN of/IN questions/NNS ,/, you/PRP know/VBP ./.","[ {C and, } + {C and } ] she asked me a couple of questions, {D you know. } /"
+sd,A,"And/CC she/PRP ,/, and/CC ,/, and/CC what/WP she/PRP said/VBD that/IN ,/, that/IN generally/RB ,/, the/DT problems/NNS that/WDT people/NNS have/VBP with/IN being/VBG environmentally/RB conscious/JJ is/VBZ number/NN one/CD ,/, they/PRP do/VBP n't/RB want/VB it/PRP to/TO change/VB their/PRP$ lifestyle/NN --/:","[ [ {C And } she, + [ {C and, } + {C and } ] what she ] said [ that, + that ] generally, the problems that people have with being environmentally conscious is number one, they don't want it to change their lifestyle --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: and/CC ,/, and/CC like/IN ,/, you/PRP know/VBP ,/, especially/RB make/VB it/PRP anymore/RB complicated/JJ or/CC any/DT extra/JJ work/NN or/CC anything/NN ./.","-- [ and, + and ] {D like, } {D you know, } especially make it anymore complicated or any extra work or anything. /"
+sv,A,"Which/WDT that/DT 's/BES ,/, that/DT 's/BES what/WP recycling/NN at/IN home/NN sorting/NN does/VBZ ,/, you/PRP know/VBP ./.","[ Which + [ that's, + that's ] ] what recycling at home sorting does, {D you know. } /"
+b,B,Right/UH ./.,Right. /
+sv,A,I/PRP mean/VBP it/PRP 's/BES a/DT little/RB extra/JJ work/NN ./.,{E I mean } it's a little extra work. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC ,/, uh/UH ,/, it/PRP can/MD actually/RB turn/VB out/RP to/TO be/VB a/DT lot/NN of/IN extra/JJ work/NN because/IN what/WP they/PRP do/VBP ,/, what/WP --/:","{C And, } {F uh, } it can actually turn out to be a lot of extra work because <noise> [ what they do, + what --"
+aa,B,"It/PRP can/MD ,/,","It can, /"
+aa,B,yeah/UH ./.,yeah. /
++,A,"--/: they/PRP do/VBP here/RB in/IN Sarasota/NNP county/NN is/VBZ they/PRP 've/VBP got/VBN ,/,","-- <Noise> they do ] here in Sarasota county is they've got, - /"
+%,A,"okay/UH ,/,","okay, /"
+sd,A,you/PRP put/VBP your/PRP$ garbage/NN in/IN a/DT garbage/NN bag/NN,you put your garbage in a garbage bag /
+sd,A,and/CC you/PRP set/VBP it/PRP out/IN by/IN the/DT curb/NN ./.,{C and } you set it out by the curb. /
+b,B,Right/UH ./.,Right. /
+sd,A,"If/IN you/PRP have/VBP yard/NN trash/NN ,/, you/PRP put/VBP your/PRP$ yard/NN trash/NN in/IN some/DT kind/NN of/IN container/NN ./.","If you have yard trash, you put your yard trash in some kind of container. /"
+sd,A,"Uh/UH ,/, or/CC you/PRP can/MD have/VB bundles/NNS up/IN to/IN a/DT certain/JJ weight/NN ,/, and/CC cer/JJ ,/, certain/JJ dimensions/NNS ,/, tie/VB them/PRP up/RP and/CC --/:","{F Uh, } {C or } you can have bundles up to a certain weight, and [ cer-, + certain ] dimensions, tie them up and --"
+aa,B,"Yeah/UH ,/,","<Laughter> Yeah, /"
+aa,B,you/PRP got/VBD to/TO tie/VB them/PRP up/RP and/CC everything/NN ./.,you got to tie them up and everything. /
++,A,--/: put/VBP them/PRP by/IN the/DT curb/NN ./.,-- put them by the curb. /
+sd,A,"Well/UH ,/, the/DT plastic/NN ,/, cans/NNS and/CC glass/NN ,/, they/PRP give/VBP you/PRP this/DT little/JJ tub/NN","{D Well, } the plastic, cans and glass, they give you this little tub /"
+sd,A,and/CC it/PRP 's/BES about/RB a/DT foot/NN and/CC a/DT half/NN deep/JJ,{C and } it's about a foot and a half deep /
+sd,A,and/CC it/PRP 's/BES about/RB one/CD by/IN one/CD and/CC a/DT half/NN foot/NN wide/JJ and/CC long/JJ ./.,{C and } it's about one by one and a half foot wide and long. /
+b,B,Right/UH ./.,Right. /
+sd,A,This/DT is/VBZ a/DT little/JJ container/NN ./.,This is a little container. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC then/RB they/PRP have/VBP another/DT one/NN the/DT same/JJ size/NN ./.,{C And then } they have another one the same size. /
+sd,A,That/DT one/NN 's/BES red/JJ ./.,That one's red. /
+sd,A,Then/RB they/PRP have/VBP a/DT blue/JJ one/NN the/DT same/JJ size/NN for/IN the/DT paper/NN goods/NNS ./.,Then they have a blue one the same size for the paper goods. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC ,/, so/RB ,/, like/IN ,/, you/PRP know/VBP ,/, you/PRP would/MD have/VB to/TO rinse/VB out/RP your/PRP$ pop/NN cans/NNS ./.","{C And, so, } {D like, } {D you know, } you would have to rinse out your pop cans. /"
+sv,A,Otherwise/RB you/PRP got/VBD bees/NNS and/CC ants/NNS,Otherwise you got bees and ants /
+sv,A,and/CC --/:,[ [ {C and } + --
+aa,B,Exactly/UH ./.,Exactly. /
++,A,"--/: you/PRP know/VBP ,/, and/CC ,/, and/CC if/IN you/PRP 've/VBP got/VBN ,/, uh/UH ,/, food/NN containers/NNS or/CC anything/NN like/IN that/DT ,/, it/PRP 's/BES a/DT big/JJ problem/NN ./.","-- {D you know, } {C and, } ] + {C and } ] if you've got, {F uh, } food containers or anything like that, it's a big problem. /"
+aa,B,"It/PRP is/VBZ ,/, you/PRP know/VBP ,/, a/DT big/JJ --/:","It is, {D you know, } a big --"
+%,A,So/RB not/RB only/RB do/VBP you/PRP --/:,{C So } not only do you -- -/
++,B,--/: hassle/NN ./.,-- hassle. /
+aa,A,--/: yeah/UH ./.,-- yeah. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,that/DT 's/BES true/JJ ./.,that's true. /
+sd,B,"I/PRP mean/VBP ,/, up/IN here/RB ,/, they/PRP give/VBP you/PRP one/CD ,/, one/CD of/IN those/DT containers/NNS","{E I mean, } up here, they give you [ one, + one ] of those containers /"
+sd,B,and/CC you/PRP put/VBP everything/NN in/IN it/PRP ./.,{C and } you put everything in it. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"So/RB it/PRP 's/BES like/IN ,/, if/IN ,/, if/IN you/PRP use/VBP a/DT lot/NN of/IN stuff/NN ,/, you/PRP ,/,","{C So } it's like, [ if, + if ] you use a lot of stuff, you, - /"
+sv,B,"it/PRP 's/BES like/IN well/UH you/PRP know/VBP ,/, if/IN you/PRP 're/VBP a/DT partying/VBG kind/NN of/IN guy/NN and/CC you/PRP drink/VBP ,/, you/PRP know/VBP ,/, like/UH a/DT couple/NN of/IN twelve/CD packs/NNS ,/, maybe/RB ,/, over/IN the/DT weekend/NN --/:","it's like {D well } {D you know, } if you're a partying kind of guy and you drink, {D you know, } {D like } a couple of twelve packs, maybe, over the weekend --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: it/PRP 's/BES going/VBG to/TO be/VB hard/RB pressed/JJ to/TO p/VB ,/, to/TO put/VB all/DT your/PRP$ recyclables/NNS in/IN that/DT one/CD --/:","-- it's going to be hard pressed [ to p-, + to put ] all your recyclables in that one --"
+aa,A,This/DT is/VBZ true/JJ ./.,This is true. /
++,B,"--/: place/NN ,/, you/PRP know/VBP ./.","-- place, {D you know. } /"
+sv,B,So/RB it/PRP 's/BES --/:,{C So } it's --
+aa,A,This/DT is/VBZ true/JJ ./.,This is true. /
++,B,--/: kind/RB of/RB a/DT pain/NN in/IN the/DT butt/NN ./.,-- kind of a pain in the butt. /
+h,B,"But/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ./.","{C But, } {F uh, } I don't know. /"
+sv,B,"That/DT 's/BES definitely/RB one/CD thing/NN they/PRP could/MD do/VB to/TO make/VB it/PRP easier/JJR is/VBZ to/TO just/RB ,/, you/PRP know/VBP ./.","That's definitely one thing they could do to make it easier is to just, {D you know. } - /"
+sv,B,"You/PRP have/VBP ,/, have/VBP those/DT garbage/NN people/NNS that/WDT make/VBP ,/, how/WRB every/DT many/JJ ,/, make/VBP tw-/CD ,/, twenty/CD ,/, thirty/CD bucks/NNS an/DT hour/NN ,/,","You [ have, + have ] those garbage people that [ make, + {A how every many, } make ] [ tw-, + twenty, ] thirty bucks an hour, /"
+sv,B,have/VBP them/PRP do/VB a/DT little/JJ bit/NN of/IN the/DT sorting/NN ./.,have them do a little bit of the sorting.
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"You/PRP know/VBP ./. And/CC ,/, and/CC maybe/RB come/VBP up/RP with/IN a/DT better/JJR system/NN ./.","{D You know. } [ And, + and ] maybe come up with a better system. /"
+sv,B,Make/VBP it/PRP a/DT little/RB more/RBR convenient/JJ ./.,Make it a little more convenient. /
+%,B,"But/CC ,/,","{C But, } -/"
+aa,A,"Yeah/UH ,/,","<Swallowing> Yeah, /"
+sd,A,they/PRP 've/VBP got/VBN these/DT large/JJ garbage/NN cans/NNS that/WDT you/PRP can/MD rent/VB from/IN the/DT waste/NN management/NN company/NN here/RB ./.,they've got these large garbage cans that you can rent from the waste management company here.
+b,B,Yeah/UH ./.,Yeah. /
++,A,"Uh/UH ,/, if/IN you/PRP want/VBP to/TO have/VB a/DT nice/JJ garbage/NN can/NN ,/, you/PRP know/VBP ./.","{F Uh, } if you want to have a nice garbage can, {D you know. } /"
+sd,A,And/CC it/PRP 's/BES on/IN wheels/NNS,{C And } it's on wheels /
+sd,A,and/CC it/PRP 's/BES big/JJ ./.,{C and } it's big. /
+qy,B,"Oh/UH ,/, you/PRP can/MD actually/RB rent/VB those/DT ?/.","{F Oh, } you can actually rent those? /"
+ny,A,Yeah/UH ./.,Yeah. /
+bk,B,Okay/UH ./.,Okay. /
+ba,B,That/DT 's/BES interesting/JJ ./.,That's interesting. /
+%,B,Yeah/UH --/:,Yeah -- /
+b^m,A,Yeah/UH ./.,Yeah <swallowing>. /
+sd,B,"--/: up/IN here/RB the/DT ,/, the/DT city/NN provides/VBZ them/PRP ./.","-- up here [ the, + the ] city provides them. /"
+%,B,"Kind/RB of/RB like/IN ,/,","Kind of like, -/"
+sd,A,"I/PRP think/VBP in/IN ,/, I/PRP think/VBP in/IN the/DT city/NN they/PRP do/VBP","[ I think in, + I think in ] the city they do /"
+sd,A,but/CC out/IN here/RB in/IN the/DT county/NN you/PRP have/VBP to/TO rent/VB them/PRP ./.,{C but } out here in the county you have to rent them. /
+b,B,"Oh/UH ,/, okay/UH MUMBLEx/XX ./.","{F Oh, } okay (( )) . /"
+sd,A,And/CC they/PRP just/RB add/VBP it/PRP on/IN to/IN your/PRP$ water/NN bill/NN or/CC something/NN ./.,{C And } they just add it on to your water bill or something. /
+qw,B,"So/RB where/WRB exactly/RB are/VBP you/PRP in/IN terms/NNS of/IN ,/, of/IN ,/, like/IN ,/, Sarasota/NNP ?/.","{C So } where exactly are you in terms [ of, + of, ] {D like, } Sarasota? /"
+qy,B,"Are/VBP you/PRP north/RB of/IN Sarasota/NNP or/CC ,/,","Are you north of Sarasota or,"
+sd,A,East/RB of/IN Sarasota/NNP ./.,East of Sarasota. /
++,B,"East/RB ,/,","East, /"
+bk,B,okay/UH ./.,okay. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,B,And/CC Sarasota/NNP is/VBZ on/IN the/DT west/JJ coast/NN ?/.,{C And } Sarasota is on the west coast? /
+ny,A,Yeah/UH ./.,Yeah. /
+bk,B,Okay/UH ./.,Okay. /
+qy,B,"Like/IN south/RB of/IN Tampa/NNP ,/, right/UH ?/.","{D Like } south of Tampa, right? /"
+ny,A,Yeah/UH ./.,Yeah. /
+bk,B,Okay/UH ./.,Okay. /
+%,B,"I/PRP 'm/VBP ,/,","I'm, -/"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,About/RB an/DT hour/NN ./.,[ About an hour. +
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"that/DT 's/BES ,/,","that's, -/"
++,A,About/RB an/DT hour/NN south/RB of/IN Tampa/NNP ./.,About an hour ] south of Tampa <inhaling> <sniffing>. /
+bk,B,Okay/UH ./.,Okay. /
+b,A,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } <laughter> yeah, /"
+sd,A,well/UH ./. I/PRP listen/VBP to/IN this/DT talk/NN radio/NN station/NN down/IN here/RB,{D well. } I listen to this talk radio station down here /
+%,A,"and/CC it/PRP 's/BES really/RB ,/,","{C and } it's really, - /"
+%,A,"th-/PRP ,/, they/PRP ,/,","[ th-, + they, ] - /"
+qy^d,A,I/PRP do/VBP n't/RB if/IN you/PRP ever/RB listen/VBP to/TO talk/NN radio/NN,I don't if you ever listen to talk radio /
+sd,A,but/CC --/:,{C but } --
+na,B,"Um/UH ,/, occasionally/RB ./.","{F Um, } occasionally. /"
++,A,"--/: those/DT guys/NNS ,/, they/PRP just/RB kind/NN of/IN get/VBP into/IN ,/, to/IN s/VBG ,/, s/VBG ,/, stewing/VBG up/RP trouble/NN ,/, you/PRP know/VBP ./.","-- those guys, they just kind of get into, [ [ to s-, + s-, ] + stewing ] up trouble, {D you know. }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,With/IN the/DT callers/NNS and/CC things/NNS like/IN that/DT ./.,With the callers and things like that. /
+sd,A,"But/CC they/PRP get/VBP into/IN some/DT really/RB good/JJ conversations/NNS sometimes/RB ,/, you/PRP know/VBP ./.","{C But } they get into some really good conversations sometimes, {D you know. } /"
+sd,A,"And/CC some/DT of/IN it/PRP ,/, sometimes/RB it/PRP 's/BES serious/JJ","{C And } some of it, sometimes it's serious /"
+sd,A,and/CC they/PRP have/VBP some/DT good/JJ feedback/NN and/CC all/PDT that/DT stuff/NN,{C and } they have some good feedback and all that stuff /
+sd,A,and/CC --/:,{C and } --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: from/IN listening/VBG to/IN that/DT ,/, I/PRP kind/RB of/RB got/VBD an/DT idea/NN that/WDT I/PRP thought/VBD would/MD be/VB good/JJ with/IN","-- from listening to that, I kind of got an idea that I thought would be good with <sniffing> /"
+sv,A,"and/CC this/DT kind/NN of/IN fits/VBZ into/IN the/DT ,/, uh/UH ,/, the/DT aid/NN program/NN ,/,","{C and } this kind of fits into [ the, + {F uh, } the ] aid program, /"
+sv,A,the/DT welfare/NN program/NN that/WDT 's/BES going/VBG on/RP right/RB now/RB ./.,the welfare program that's going on right now. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"And/CC it/PRP 's/BES like/IN ,/, uh/UH ,/,","{C And } it's like, {F uh, } -/"

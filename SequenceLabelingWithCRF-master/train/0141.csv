@@ -1,0 +1,64 @@
+act_tag,speaker,pos,text
+x,A,./.,<Clicking>.
+qy,B,"Well/UH ,/, Julie/NNP ,/, uh/UH ,/, are/VBP you/PRP in/IN a/DT situation/NN where/WRB you/PRP 'd/MD soon/RB need/VB to/TO deal/VB with/IN ,/, uh/UH ,/, special/JJ care/NN for/IN elderly/NN ?/.","{D Well, } Julie, {F uh, } are you in a situation where you'd soon need to deal with, {F uh, } special care for elderly? /"
+no,A,"Well/UH ,/, I/PRP do/VBP n't/RB know/VB ./.","{D Well, } I don't know. /"
+sd,A,My/PRP$ grandfather/NN is/VBZ ninety-two/CD years/NNS old/JJ ./.,My grandfather is ninety-two years old. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC he/PRP is/VBZ still/RB living/VBG by/IN himself/PRP ./.,{C And } he is still living by himself. /
+sd,A,My/PRP$ grandmother/NN died/VBD a/DT couple/NN of/IN years/NNS ago/RB ./.,My grandmother died a couple of years ago <<mispronounced>>. /
+sd,A,"But/CC he/PRP does/VBZ n't/RB want/VB to/TO ,/, to/TO move/VB away/RB ./.","{C But } he doesn't want [ to, + to ] move away. /"
+sd,A,He/PRP lives/VBZ in/IN a/DT little/JJ farmhouse/NN on/IN a/DT farm/NN ./.,He lives in a little farmhouse on a farm. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC he/PRP recently/RB had/VBD to/TO have/VB an/DT operation/NN,{C And } he recently had to have an operation /
+sd,A,but/CC he/PRP just/RB really/RB does/VBZ n't/RB want/VB to/TO go/VB to/IN a/DT nursing/NN home/NN ./.,{C but } he just really doesn't want to go to a nursing home. /
+qy,B,"Is/VBZ he/PRP able/JJ to/TO ,/, uh/UH ,/, still/RB do/VB everything/NN himself/PRP pretty/RB well/RB ?/.","Is he able to, {F uh, } still do everything himself pretty well? /"
+no,A,"Well/UH ,/, he/PRP was/VBD until/IN this/DT operation/NN ./.","{D Well, } he was until this operation. /"
+sd,A,He/PRP has/VBZ arthritis/NN ./.,He has arthritis. /
+bk,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,A,And/CC now/RB I/PRP do/VBP n't/RB really/RB think/VB he/PRP 's/BES doing/VBG that/RB well/RB ./.,{C And } now I don't really think he's doing that well. /
+sd,A,"And/CC my/PRP$ ,/, a/DT lot/NN of/IN my/PRP$ aunts/NNS and/CC uncles/NNS live/VBP near/RB him/PRP ./.","{C And } [ my, + a lot of my ] aunts and uncles live near him. /"
+sd,A,And/CC I/PRP have/VBP one/CD aunt/NN that/WDT really/RB looks/VBZ after/IN him/PRP a/DT lot/NN ./.,{C And } I have one aunt that really looks after him a lot. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"But/CC ,/, uh/UH ,/, my/PRP$ great-grandfather/NN was/VBD put/VBN in/IN a/DT nursing/NN home/NN when/WRB he/PRP was/VBD a/DT hundred/CD and/CC three/CD ./.","{C But, } {F uh, } my great-grandfather was put in a nursing home when he was a hundred and three. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, died/VBD six/CD weeks/NNS after/IN they/PRP put/VBD him/PRP in/IN the/DT home/NN ./.","{C And, } {F uh, } died six weeks after they put him in the home. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"And/CC I/PRP 'm/VBP sure/JJ that/DT kind/NN of/IN thing/NN would/MD influence/VB your/PRP$ f-/XX ,/, grandfather/NN 's/POS feelings/NNS ./.","{C And } I'm sure that kind of thing would influence [ your f-, + grandfather's ] feelings. /"
+sv,B,"Because/IN ,/, uh/UH ,/, I/PRP th/VBP ,/, you/PRP know/VBP ,/, I/PRP think/VBP for/IN a/DT lot/NN of/IN people/NNS it/PRP really/RB is/VBZ the/DT decision/NN of/IN ,/, do/VBP they/PRP still/RB have/VB some/DT of/IN their/PRP$ life/NN left/VBN ./.","{C Because, } {F uh, } <lipsmack> [ I th-, + {D you know, } I think ] for a lot of people it really is the decision of, <<pause>> do they still have some of their life left. /"
+sv,B,And/CC --/:,[ {C And } -- +
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC ,/, for/IN ,/, for/IN ,/, I/PRP 'm/VBP sure/JJ ,/, a/DT lot/NN of/IN people/NNS going/VBG into/IN a/DT nursing/NN home/NN it/PRP 's/BES like/IN saying/VBG my/PRP$ life/NN is/VBZ over/JJ","-- {C and, } ] [ for, + for, ] I'm sure, a lot of people going into a nursing home it's like saying my life is over /"
+^q,B,and/CC I/PRP 'm/VBP just/RB here/RB for/IN the/DT rest/NN of/IN the/DT stay/NN ./.,{C and } I'm just here for the rest of the stay <door>. /
+sd,B,"And/CC so/RB I/PRP ,/, you/PRP know/VBP ,/, I/PRP guess/VBP most/JJS of/IN the/DT time/NN when/WRB I/PRP think/VBP about/IN somebody/NN going/VBG into/IN a/DT nursing/NN home/NN ,/, it/PRP 's/BES more/JJS a/DT case/NN of/IN where/WRB they/PRP are/VBP not/RB able/JJ to/TO look/VB after/IN their/PRP$ day-to-day/JJ needs/NNS ./.","{C And so } [ I, + {D you know, } <sigh> I ] guess most of the time when I think about somebody going into a nursing home, <swallowing> it's more a case of where they are not able to look after their day-to-day needs. /"
+%,B,Yeah/UH --/:,Yeah -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: they/PRP have/VBP can/MD look/VB after/IN a/DT lot/NN of/IN things/NNS,-- they [ have + can ] look after a lot of things /
+sd,B,but/CC there/EX 's/BES some/DT of/IN the/DT day-to-day/JJ needs/NNS that/WDT they/PRP just/RB are/VBP not/RB able/JJ to/TO deal/VB with/IN physically/RB anymore/RB ./.,{C but } there's some of the day-to-day needs that they just are not able to deal with physically anymore. /
+sd,B,"Uh/UH ,/, I/PRP know/VBP my/PRP$ ,/, none/NN of/IN my/PRP$ grandparents/NNS were/VBD in/IN a/DT nursing/NN home/NN ./.","{F Uh, } I know [ my, + none of my ] grandparents were in a nursing home. /"
+sd,B,They/PRP generally/RB were/VBD able/JJ to/TO have/VB someone/NN care/VB for/IN them/PRP at/IN home/NN,They generally <sigh> were able to have someone care for them at home /
+sd,B,and/CC they/PRP died/VBD ./.,{C and } they died <cough> <<in background>>. /
+sd,B,"But/CC they/PRP were/VBD all/DT ,/, goodness/UH ,/, younger/JJR than/IN your/PRP$ grandparents/NNS ./.","{C But } they were all, goodness, younger than your grandparents <laughter>. /"
+sd,B,Like/UH they/PRP were/VBD in/IN their/PRP$ eighties/NNS ./. That/DT type/NN of/IN thing/NN ./.,{D Like } they were in their eighties. That type of thing <lipsmack>. /
+%,B,"Uh/UH ,/, but/CC I/PRP did/VBD ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP guess/VBP ,/,","{F Uh, } <lipsmack> {C but } I did, {F uh, } {D you know, } I guess, - /"
+sd,B,"uh/UH ,/, when/WRB I/PRP think/VBP nursing/NN home/NN I/PRP do/VBP think/VB of/IN people/NNS that/WDT are/VBP not/RB able/JJ to/TO do/VB ,/, take/VB care/NN of/IN themselves/PRP physically/RB ./. Uh/UH ,/,","{F uh, } when I think nursing home I do think of people that are not able to [ do, + take ] care of themselves physically. {F Uh } <sigh>, /"
+sv,A,But/CC I/PRP just/RB do/VBP n't/RB think/VB that/IN nursing/NN homes/NNS really/RB do/VBP a/DT very/RB good/JJ job/NN ./.,{C But } I just don't think that nursing homes really do a very good job. /
+sv,B,"And/CC that/DT 's/BES ,/, that/DT 's/BES difficult/JJ part/NN ./.","<Inhaling> {C And } [ that's, + that's ] difficult part. /"
+sv,B,"Because/IN I/PRP think/VBP what/WP they/PRP often/RB get/VBP used/JJ as/IN is/VBZ ,/, uh/UH ,/, almost/RB like/IN a/DT very/RB high/JJ level/NN or/CC long-term/JJ care/NN for/IN ,/, uh/UH ,/, similar/JJ to/IN a/DT hospital/NN ./.","{C Because } I think what they often get used as is, {F uh, } almost like a very high level or long-term care [ for, + ] {F uh, } similar to a hospital. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Uh/UH ,/, I/PRP know/VBP ,/, like/IN here/RB in/IN Saskatchewan/NNP ,/, we/PRP have/VBP our/PRP$ hospital/NN care/NN MUMBLEx/XX the/DT care/NN actually/RB for/IN the/DT older/JJR people/NNS graded/VBN in/IN level/NN ,/, in/IN four/CD levels/NNS ./.","<Inhaling> {F Uh, } I know, {D like } here in Saskatchewan, we have our <lipsmack> hospital care (( )) <noise> the care actually for the older people graded [ in level, + in four levels. ] /"
+sd,B,"And/CC a/DT level/NN four/CD type/NN of/IN care/NN would/MD be/VB someone/NN that/WDT really/RB requires/VBZ long-term/JJ hospital/NN care/NN ./. Generally/RB are/VBP not/RB able/JJ to/TO look/VB after/IN this-/XX ,/, themselves/PRP to/IN very/RB ,/, to/IN a/DT very/RB great/JJ extent/NN ,/, physically/RB ./.","{C And } a level four type of care would be someone that really requires long-term hospital care. Generally are not able to look after [ this-, + themselves ] [ to very, + to a very ] great extent, physically <inhaling>. /"
+sd,B,"Often/RB times/NNS they/PRP even/RB have/VBP mental/JJ difficulty/NN with/IN senility/NN or/CC Alzheimer/NNP 's/POS Disease/NN or/CC those/DT or/CC ,/, or/CC physical/JJ and/CC mental/JJ handicaps/NNS ./. Uh/UH ,/, you/PRP know/VBP ,/, where/WRB they/PRP really/RB require/VBP twenty-four/CD hour/NN supervision/NN of/IN some/DT kind/NN ./. Even/RB though/IN --/:","Often times they even have mental difficulty with senility or Alzheimer's Disease <cough> <<background>> [ [ or those + or, ] + or ] physical and mental handicaps. {F Uh, } {D you know, } where they really require <swallowing> twenty-four hour supervision of some kind </noise>. Even though --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: it/PRP may/MD be/VB minimal/JJ ./.,-- it may be minimal <inhaling>. /
+sv,B,"And/CC ,/, uh/UH ,/, but/CC I/PRP think/VBP that/IN it/PRP can/MD be/VB helpful/JJ in/IN that/IN ,/, uh/UH ,/, it/PRP gets/VBZ people/NNS the/DT level/NN of/IN physical/JJ care/NN they/PRP need/VBP ./. Uh/UH ,/,","[ {C And, } + {F uh, } <sigh> <clanging> {C but } ] I think that it can be helpful in that, {F uh, } it gets people the level of physical care they need. {F Uh, } /"
+%,A,"But/CC I/PRP do/VBP n't/RB ,/, I/PRP mean/VBP","{C But } I don't, {E I mean } - /"
+sv,A,"at/IN least/JJS ,/, I/PRP mean/VBP I/PRP think/VBP some/DT nursing/NN homes/NNS do/VBP that/DT ./.","at least, {E I mean } I think some nursing homes do that. /"
+sv,A,"But/CC I/PRP think/VBP a/DT lot/NN of/IN nursing/NN homes/NNS really/RB ,/, uh/UH ,/, are/VBP guilty/JJ of/IN neglect/NN ./.","{C But } I think a lot of nursing homes really, {F uh, } are guilty of neglect. /"
+aa,B,Yeah/UH ./.,<Clicking> Yeah. /
+sv,B,"I/PRP th/VBP ,/, and/CC I/PRP think/VBP it/PRP happens/VBZ more/RBR in/IN areas/NNS where/WRB it/PRP 's/BES ,/, uh/UH ,/, I/PRP guess/VBP ,/, uh/UH ,/, a/DT broad/JJ social/JJ medical/JJ system/NN where/WRB ,/, uh/UH ,/, you/PRP know/VBP ,/, there/EX 's/BES government/NN medical/JJ care/NN and/CC that/DT kind/NN of/IN thing/NN ./.","[ I th-, + {C and } I think ] it happens more in areas where it's, {F uh, } <lipsmack> I guess, {F uh, } a broad social medical system <cough> <<background>> where, {F uh, } {D you know, } there's government medical care and that kind of thing. /"
+sd,B,If/IN it/PRP 's/BES the/DT lot/NN where/WRB it/PRP 's/BES funded/VBN by/IN the/DT individuals/NNS,If it's the lot where it's funded by the individuals <lipsmack> - /
+sv,B,"and/CC ,/, and/CC I/PRP guess/VBP that/DT 's/BES sort/NN of/IN my/PRP$ lack/NN of/IN understanding/NN ./.","[ {C and, } + {C and } ] I guess that's sort of my lack of understanding. /"
+sv,B,"I/PRP think/VBP that/IN a/DT majority/NN of/IN the/DT places/NNS in/IN the/DT U/NNP S/NNP ,/, uh/UH ,/, you/PRP know/VBP ,/, there/EX is/VBZ some/DT government/NN aid/NN available/JJ ,/,","I think that a majority of the places in the U S, {F uh, } {D you know, } there is some government aid available, /"
+sd,B,but/CC the/DT majority/NN of/IN it/PRP is/VBZ to/IN the/DT availability/NN of/IN the/DT individual/NN to/TO pay/VB ./.,{C but } the majority ((of it)) is to the availability of the individual to pay <sigh> </clicking>. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, if/IN you/PRP 're/VBP not/RB able/JJ to/TO look/VB after/IN yourself/PRP ,/, then/RB you/PRP have/VBP to/TO rely/VB ,/,","{C And, } {F uh, } if you're not able to look after yourself, then you have to rely, -/"

@@ -1,0 +1,227 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",B,Okay/UH ./.,Okay. /
+b^m,A,"Okay/UH ,/,","Okay, /"
+sd,A,"I/PRP ,/, I/PRP do/VBP a/DT fair/JJ amount/NN of/IN cooking/NN ./.","[ I, + I ] do a fair amount of cooking. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, and/CC I/PRP love/VBP having/VBG guests/NNS to/IN dinner/NN ./.","[ {C And, } + {C and } ] I love having guests to dinner. /"
+sd,A,I/PRP probably/RB do/VBP that/DT about/RB once/RB a/DT month/NN ./.,I probably do that about once a month. /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP usually/RB prepare/VBP something/NN ,/, depending/VBG upon/IN the/DT guests/NNS ,/, you/PRP know/VBP ,/,","{C And, } {F uh, } I usually prepare something, depending upon the guests, {D you know, } /"
+sd,A,"it/PRP ,/, it/PRP ,/, I/PRP like/VBP to/TO prepare/VB chicken/NN ,/, that/DT seems/VBZ to/TO please/VB everybody/NN ,/, pasta/NN or/CC a/DT casserole/NN ./.","[ [ it, + it, ] + I ] like to prepare chicken, {A that seems to please everybody, } pasta or a casserole. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qo,A,How/WRB about/IN you/PRP ?/.,How about you? /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,those/DT are/VBP things/NNS I/PRP like/VBP the/DT most/RBS ./.,those are things I like the most. /
+sd,B,I/PRP like/VBP fish/NN and/CC chicken/NN the/DT most/RBS ./.,I like fish and chicken the most. /
+b,A,Um/UH ./.,{F Um. } /
+sd,B,"And/CC ,/, uh/UH ,/, most/JJS of/IN the/DT cooking/NN I/PRP do/VBP just/RB comes/VBZ out/IN of/IN a/DT can/NN ./.","{C And, } {F uh, } <throat_clearing> most of the cooking I do just comes out of a can. /"
+b,A,Uh/UH ./.,{F Uh. } /
+sd,B,"Unless/IN it/PRP is/VBZ ,/, unless/IN it/PRP is/VBZ ,/, I/PRP catch/VBP a/DT fish/NN and/CC I/PRP prepare/VBP it/PRP ./.","[ Unless it is, + unless [ it is, + I ] ] catch a fish and I prepare it. /"
+sd,B,"And/CC then/RB I/PRP just/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP just/RB broil/VBP it/PRP and/CC put/VBP lemon/NN on/IN it/PRP ./.","{C And then } [ I just, + {F uh, } {D you know, } I just ] broil it and put lemon on it. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Well/UH ,/, that/DT 's/BES about/RB the/DT way/NN I/PRP prepare/VBP most/JJS fish/NN ./.","{D Well, } that's about the way I prepare most fish. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, I/PRP made/VBD scallops/NNS the/DT other/JJ night/NN ,/,","{F Uh, } I made scallops the other night, /"
+sd,A,"that/DT was/VBD unusual/JJ ,/,","that was unusual, /"
+sd,A,"and/CC ,/, uh/UH ,/, basically/RB ,/, uh/UH ,/, I/PRP found/VBD a/DT recipe/NN to/TO make/VB it/PRP in/IN the/DT microwave/NN","{C and, } {F uh, } basically, {F uh, } I found a recipe to make it in the microwave /"
+sd,A,"and/CC you/PRP sprinkled/VBD ,/, uh/UH ,/, you/PRP swished/VBD around/RB a/DT little/JJ melted/JJ butter/NN and/CC do/VBP ,/, uh/UH ,/, oh/UH I/PRP do/VBP not/RB know/VB ,/, micro/VBD ,/, microwaved/VBD them/PRP for/IN about/RB nine/CD minutes/NNS ./.","{C and } [ you sprinkled, + {F uh, } you swished ] around a little melted butter and [ [ do, + {F uh, } {F oh } I do not know, micro-, ] + microwaved ] them for about nine minutes. /"
+ar,A,"No/UH ,/,","No, /"
+ar,A,"no/UH ,/,","no, /"
+sd,A,four/CD and/CC a/DT half/NN to/IN five/CD minutes/NNS,four and a half to five minutes /
+sd,A,"and/CC you/PRP had/VBD to/TO add/VB sesame/NN seeds/NNS and/CC bread/NN crumbs/NNS on/IN top/NN ,/,","{C and } you had to add sesame seeds and bread crumbs on top, /"
+sd,A,"very/RB simple/JJ ,/, but/CC very/RB nice/JJ ./.","very simple, but very nice. /"
+sd,A,"So/RB ,/, if/IN you/PRP are/VBP looking/VBG for/IN a/DT French/JJ recipe/NN ,/, that/DT was/VBD good/JJ ./.","{C So, } if you are looking for a French recipe, that was good. /"
+b,B,Sesame/NN seeds/NNS and/CC bread/NN crumbs/NNS ./.,Sesame seeds and bread crumbs. /
+b^m,A,Sesame/NN seeds/NNS and/CC bread/NN crumbs/NNS ./.,Sesame seeds and bread crumbs. /
+b,B,Uh-huh/UH ./.,<Throat_clearing> Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, my/PRP$ husband/NN liked/VBD it/PRP ./.","{C And, } {F uh, } my husband liked it. /"
+b,B,Yeah/UH ./.,Yeah. /
+b,A,"And/CC ,/, uh/UH ,/, no/UH","{C And, } {F uh, } no /"
+sv,A,"unfortunately/RB scallops/NNS are/VBP one/CD of/IN the/DT more/RBR expensive/JJ ,/, uh/UH ,/, fish/NN items/NNS ./.","unfortunately scallops are one of the more expensive, {F uh, } fish items. /"
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,uh-huh/UH ./.,uh-huh. /
+sd,A,"But/CC ,/, you/PRP know/VBP ,/, I/PRP ,/, I/PRP look/VBP for/IN them/PRP to/TO go/VB on/IN sale/NN at/IN the/DT grocery/NN store/NN ./.","{C But, } {D you know, } [ I, + I ] look for them to go on sale at the grocery store <swallowing>. /"
+sd,A,"Uh/UH ,/, one/CD of/IN the/DT things/NNS I/PRP love/VBP to/TO do/VB ,/, eat/VB out/RB ./.","{F Uh, } one of the things I love to do, eat out. /"
+qo,A,How/WRB about/IN you/PRP ?/.,How about you? /
+ny,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+ny,B,uh-huh/UH ./.,uh-huh. /
+qy,A,Do/VBP you/PRP have/VB any/DT particular/JJ places/NNS you/PRP like/VBP going/VBG ?/.,Do you have any particular places you like going? /
+na,B,"Oh/UH ,/, there/EX 's/BES a/DT restaurant/NN called/VBN String/NNP Bean/NNP on/IN Spring/NNP Valley/NNP and/CC Central/NNP ./.","{F Oh, } there's a restaurant called String Bean on Spring Valley and Central. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP like/VBP that/DT ,/,","I like that, /"
+sd,B,"it/PRP 's/BES just/RB ,/, it/PRP 's/BES just/RB home/NN cooking/NN ./.","[ it's just, + it's just ] home cooking. /"
+b,A,Yes/UH ./.,Yes. /
+sd,A,I/PRP have/VBP been/VBN there/RB ./.,I have been there. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, it/PRP 's/BES kind/RB of/RB ,/, kind/RB of/RB like/IN Black/NNP Eye/NNP Pea/NNP ,/,","{C And, } {F uh, } it's [ kind of, + kind of ] like Black Eye Pea, /"
+sd,A,but/CC I/PRP do/VBP not/RB think/VB it/PRP 's/BES a/DT chain/NN ./.,{C but } I do not think it's a chain. /
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,"exactly/UH ,/,","exactly, /"
+aa,B,"uh-huh/UH ,/,","uh-huh, /"
+sd,B,"and/CC that/DT 's/BES ,/, that/DT 's/BES the/DT other/JJ restaurant/NN MUMBLEx/XX Black/NNP Eye/NNP Pea/NNP ./.","{C and } [ that's, + that's ] the other restaurant (( )) Black Eye Pea. /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,"So/RB ,/, I/PRP do/VBP not/RB really/RB like/VB ,/, uh/UH ,/, you/PRP know/VBP ,/, uh/UH ,/, uh/UH ,/, chili/NN places/NNS or/CC ,/, what/WP is/VBZ it/PRP ,/, Judge/NNP Roy/NNP Bean/NNP 's/POS ,/,","{C So, } I do not really like, {F uh, } <throat_clearing> {D you know, } {F uh, } {F uh, } chili places or, {A what is it, } Judge Roy Bean's, /"
+sd,B,or/CC --/:,{C or } --
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,B,--/: I/PRP do/VBP not/RB like/VB greasy/JJ places/NNS ./.,-- I do not like greasy places. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"I/PRP ,/, I/PRP do/VBP not/RB feel/VB like/IN they/PRP are/VBP very/RB healthy/JJ ,/,","[ I, + I ] do not feel like they are very healthy, /"
+sv,A,"and/CC I/PRP always/RB ,/,","{C and } I always,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"feel/VBP like/IN the/DT home/NN cooking/NN places/NNS ,/, are/VBP ,/, are/VBP the/DT healthiest/JJS meals/NNS ./.","feel like the home cooking places, [ are, + are ] the healthiest meals. /"
+sd,A,"You/PRP know/VBP ,/, I/PRP tend/VBP to/TO have/VB chicken/NN fried/JJ steak/NN when/WRB I/PRP go/VBP ,/, go/VBP to/IN them/PRP ./.","{D You know, } I tend to have chicken fried steak when I [ go, + <laughter> go ] to them. /"
+b,B,"Right/UH ,/,","Right, /"
+sd,B,"and/CC I/PRP ,/, and/CC I/PRP got/VBD ,/, uh/UH ,/, chicken/NN marinara/NN the/DT last/JJ two/CD times/NNS ./.","[ {C and } I, + {C and } I ] got, {F uh, } chicken marinara the last two times. /"
+qw,A,"Oh/UH ,/, how/WRB was/VBD it/PRP ?/.","{F Oh, } how was it? /"
+sd,B,"It/PRP was/VBD ,/, uh/UH ,/, it/PRP was/VBD great/JJ ./.","[ It was, + {F uh, } it was ] great. /"
+b,A,Um/UH ./.,{F Um. } /
+sd,B,"Because/IN that/DT 's/BES ,/, that/DT 's/BES what/WP I/PRP like/VBP ,/,","{C Because } [ that's, + that's ] what I like, /"
+sd,B,"I/PRP do/VBP not/RB like/VB it/PRP ,/, you/PRP know/VBP ./. I/PRP just/RB like/VBP a/DT baked/JJ ,/, you/PRP know/VBP ,/, a/DT piece/NN of/IN chicken/NN","[ I do not like it, + {D you know. } I just like ] [ a baked, + {D you know, } a piece ] of chicken /"
+sd,B,and/CC then/RB I/PRP get/VBP like/UH green/JJ beans/NNS and/CC mashed/JJ potatoes/NNS ./.,{C and then } I get {D like } green beans and mashed potatoes. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qh,B,You/PRP know/VBP ./.,{D You know. } /
+b,A,Yeah/UH ./.,Yeah. /
+x,B,,<Throat_clearing>.
+sd,A,"I/PRP ,/, I/PRP tend/VBP to/TO ,/, uh/UH ,/, I/PRP get/VBP teased/VBN by/IN my/PRP$ family/NN a/DT lot/NN ,/, because/IN ,/, uh/UH ,/, I/PRP like/VBP experimenting/VBG on/IN ,/, on/IN food/NN","[ [ I, + I tend to, ] + {F uh, } I ] get teased by my family a lot, because, {F uh, } I like experimenting [ on, + on ] food /"
+sd,A,"and/CC sometimes/RB I/PRP go/VBP for/IN ex/JJ ,/, fairly/RB exotic/JJ things/NNS ./.","{C and } sometimes I go for [ ex-, + fairly exotic ] things. /"
+sd,A,And/CC my/PRP$ father/NN teases/VBP me/PRP about/IN gourmet/NN cooking/NN ./.,{C And } my father teases me about gourmet cooking.
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"Which/WDT is/VBZ not/RB always/RB true/JJ ,/,","Which is not always true, /"
+sv,A,"but/CC and/CC the/DT thing/NN about/IN experimenting/VBG with/IN cooking/NN or/CC anything/NN else/RB ,/, is/VBZ that/IN some/DT of/IN the/DT experiments/NNS fail/VBP ./.","[ {C but } + <laughter> {C and } ] the thing about experimenting with cooking or anything else, is that some of the experiments fail. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,that/DT 's/BES true/JJ ./.,that's true. /
+sd,A,"Uh/UH ,/, the/DT last/JJ time/NN we/PRP had/VBD some/DT ,/, uh/UH ,/, friends/NNS over/IN for/IN dinner/NN ,/, I/PRP tried/VBD a/DT dessert/NN that/WDT sounded/VBD wonder/JJ ,/, wonderful/JJ in/IN the/DT recipe/NN","{F Uh, } the last time we had some, {F uh, } friends over for dinner, I tried a dessert that sounded [ wonder-, + wonderful ] in the recipe /"
+sd,A,and/CC it/PRP was/VBD just/RB a/DT total/JJ bust/NN ./.,{C and } it was just a total bust. /
+sd,A,"I/PRP was/VBD ,/,","I was,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,sorry/JJ I/PRP did/VBD not/RB have/VB ice/NN cream/NN to/TO fall/VB back/RB on/IN ./.,sorry I did not have ice cream to fall back on. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"My/PRP$ ,/, uh/UH ,/, my/PRP$ brother/NN tried/VBD to/TO make/VB ,/, uh/UH ,/, a/DT bunch/NN of/IN things/NNS ,/, uh/UH ,/, way/RB back/RB ./.","[ My, + {F uh, } my ] brother tried to make, {F uh, } a bunch of things, {F uh, } way back. /"
+sd,B,He/PRP tried/VBD to/TO make/VB bagels/NNS one/CD time/NN ./.,He tried to make bagels one time. /
+ba,A,Oh/UH my/PRP$ that/DT 's/BES ambitious/JJ ./.,{F Oh } my that's ambitious. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"and/CC ,/, uh/UH ,/, we/PRP took/VBD some/DT","{C and, } {F uh, } <throat_clearing> we took some /"
+sd,B,"and/CC then/RB we/PRP had/VBD ,/, uh/UH ,/, German/JJ Shepherds/NNPS at/IN the/DT time/NN ,/,","{C and then } we had, {F uh, } German Shepherds at the time, /"
+sd,B,"and/CC we/PRP took/VBD some/DT and/CC gave/VBD it/PRP to/IN the/DT dogs/NNS ,/,","{C and } we took some and gave it to the dogs, /"
+sd,B,"and/CC the/DT dog/NN never/RB ,/, you/PRP know/VBP ,/, he/PRP treated/VBD it/PRP like/IN a/DT milk/NN bone/NN","{C and } the dog [ never, + {D you know, } he treated ] it like a milk bone /"
+sd,B,and/CC he/PRP never/RB did/VBD finish/VB it/PRP ./.,{C and } he never did finish it. /
+b,A,Um/UH ./.,{F Um. } /
+sd,B,He/PRP just/RB barely/RB made/VBD a/DT dent/NN in/IN it/PRP ./.,He just barely made a dent in it. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Uh/UH ,/, and/CC ,/, uh/UH ,/, then/RB he/PRP tried/VBD to/TO made/VBN grapefruit/NN citron/NN one/CD time/NN ./.","{F Uh, } {C and, } {F uh, } then he tried to made grapefruit citron one time. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"It/PRP 's/BES ,/, uh/UH ,/, supposed/VBN to/TO be/VB candy/NN ./.","It's, {F uh, } supposed to be candy. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC ,/, uh/UH ,/, it/PRP ,/, it/PRP did/VBD not/RB turn/VB out/RP very/RB well/RB ,/,","{C And, } {F uh, } [ it, + it ] did not turn out very well, /"
+sd,B,"it/PRP was/VBD ,/, you/PRP know/VBP ./.","[ it was, + {D you know. }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"It/PRP like/UH made/VBD concentrated/VBD all/PDT the/DT acid/NN of/IN the/DT grapefruit/NN into/IN ,/, uh/UH ,/, into/IN a/DT kind/RB of/RB a/DT candy/NN stick/NN ,/,","It {D like } [ made + concentrated ] ] all the acid of the grapefruit [ into, + {F uh, } into ] a kind of a candy stick, /"
+%,B,"so/RB ,/, uh/UH ./.","{C so, } {F uh. } -/"
+%,A,"Huh/UH ,/, see/VB I/PRP am/VBP not/RB ,/,","{F Huh, } see I am not, - /"
+ba,A,that/DT 's/BES interesting/JJ ./.,that's interesting. /
+sd,A,One/CD of/IN the/DT things/NNS I/PRP do/VBP not/RB make/VB is/VBZ dessert/NN ./.,One of the things I do not make is dessert. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, my/PRP$ husband/NN accuses/VBZ me/PRP of/IN putting/VBG him/PRP through/IN dessert/NN depravation/NN ,/, because/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, we/PRP have/VBP ice/NN cream/NN ,/, or/CC something/NN like/IN that/DT ./.","{C And, } {F uh, } my husband accuses me of putting him through dessert depravation, because, {F uh, } {D you know, } we have ice cream, <laughter> or something like that. /"
+sd,A,"And/CC that/DT 's/BES why/WRB when/WRB I/PRP took/VBD ,/, did/VBD this/DT experiment/NN for/IN the/DT company/NN we/PRP had/VBD about/RB three/CD weeks/NNS ago/RB ,/,","{C And } that's why when I [ took, + did ] this experiment for the company we had about three weeks ago,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,it/PRP was/VBD just/RB a/DT total/JJ fiasco/NN ./.,it was just a total fiasco. /
+b,B,Huh/UH ./.,{F Huh. } /
+sd,A,"Uh/UH ,/, everything/NN else/RB was/VBD fine/JJ ,/,","{F Uh, } everything else was fine, /"
+sd,A,but/CC that/DT was/VBD a/DT fiasco/NN ./.,{C but } that was a fiasco. /
+qy,B,"Well/UH ,/, you/PRP have/VBP to/TO put/VB eggs/NNS and/CC everything/NN ,/, do/VBP n't/RB you/PRP ./.","{D Well, } you have to put eggs and everything, don't you. /"
+%,B,"Or/CC ,/,","{C Or, } -/"
+ny,A,"Uh/UH ,/, yeah/UH ./.","{F Uh, } yeah. /"
+b^m,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,just/RB about/RB ./.,just about. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC I/PRP ,/, I/PRP also/RB do/VBP n't/RB have/VB much/JJ of/IN a/DT sweet/JJ tooth/NN ,/,","{C And } [ I, + I ] also don't have much of a sweet tooth, /"
+sd,A,"so/RB I/PRP can/MD live/VB without/IN ,/, live/VB without/IN dessert/NN for/IN the/DT most/JJS part/NN ./.","{C so } I can [ live without, + live without ] dessert for the most part. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ad,B,"Use/VB about/RB half/PDT the/DT sugar/NN ,/,","Use about half the sugar, /"
+ad,B,or/CC make/VB everything/NN diet/NN ./.,{C or } make everything diet. /
+aa,A,Yeah/UH ./.,Yeah. /
+qy,A,"Uh/UH ,/, do/VBP you/PRP cook/VB for/IN yourself/PRP","{F Uh, } do you cook for yourself /"
+qrr,A,or/CC do/VBP you/PRP cook/VB for/IN others/NNS ?/.,{C or } do you cook for others? /
+sd,B,"Mostly/RB ,/, I/PRP just/RB cook/VBP for/IN myself/PRP ./.","Mostly, I just cook for myself. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"Well/UH ,/, when/WRB I/PRP was/VBD single/JJ ,/, I/PRP used/VBD to/TO ,/, uh/UH ,/, I/PRP think/VBP my/PRP$ favorite/JJ meal/NN was/VBD a/DT ,/, a/DT baked/JJ potato/NN ./.","{D Well, } when I was single, [ I used to, + {F uh, } I think ] my favorite meal was [ a, + a ] baked potato. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"And/CC ,/,","{C And, } -/"
+sv,B,"It/PRP 's/BES easy/JJ ,/,","It's easy, /"
+sv,B,that/DT 's/BES for/IN sure/JJ ./.,that's for sure. /
+aa,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+b^m,B,Yeah/UH ./.,Yeah. /
+aa,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,"And/CC ,/, I/PRP mean/VBP ,/, I/PRP never/RB put/VBD anything/NN other/JJ than/IN a/DT little/JJ butter/NN on/IN it/PRP ,/,","{C And, } {E I mean, } I never put anything other than a little butter on it, /"
+sd,A,"if/IN I/PRP had/VBD ,/, or/CC if/IN I/PRP had/VBD a/DT little/JJ cheddar/NN cheese/NN ,/, sometimes/RB I/PRP would/MD grate/VB that/DT up/RP ./.","[ if I had, + {C or } if I had ] a little cheddar cheese, sometimes I would grate that up. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP always/RB put/VBP cheese/NN on/IN them/PRP ./.,I always put cheese on them. /
+sv,A,"And/CC ,/, uh/UH ,/, it/PRP 's/BES amazingly/RB satisfying/JJ ./.","{C And, } {F uh, } it's amazingly satisfying. /"
+aa,B,Uh-huh/UH ./.,Uh-huh. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"but/CC ,/, you/PRP know/VBP ,/, there/EX 's/BES hardly/RB any/DT ,/, I/PRP guess/VBP there/EX 's/BES hardly/RB any/DT protein/NN ,/,","{C but, } {D you know, } [ there's hardly any, + I guess there's hardly any ] protein, /"
+sv,B,it/PRP 's/BES mostly/RB starch/NN ./.,it's mostly starch. /
+sv,B,"So/RB ,/, it/PRP fills/VBZ you/PRP up/RP","{C So, } it fills you up /"
+sv,B,and/CC then/RB the/DT cheese/NN has/VBZ to/TO make/VB up/RP for/IN whatever/WP the/DT protein/NN you/PRP get/VBP ./.,{C and then } the cheese has to make up for whatever the protein you get. /
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP did/VBD ,/, I/PRP did/VBD not/RB say/VB it/PRP was/VBD nourishing/JJ ,/,","[ I did-, + I did ] not say it was nourishing, /"
+sd,A,but/CC it/PRP was/VBD satisfying/JJ ./.,{C but } it was satisfying. /
+aa,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+aa,B,it/PRP really/RB is/VBZ ./.,it really is. /
+%,A,"And/CC ,/,","{C And, } -/"
+sv,B,Then/RB you/PRP have/VBP to/TO make/VB a/DT salad/NN,Then you have to make a salad /
+%,B,"or/CC ,/,","{C or, } -/"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH,yeah /
+sd,A,"tha-/XX ,/, but/CC ,/, you/PRP know/VBP ,/, MUMBLEx/XX I/PRP never/RB really/RB enjoyed/VBD cooking/VBG for/IN myself/PRP ,/,","[ tha-, + ] {C but, } {D you know, } (( )) I never really enjoyed cooking for myself, /"
+sd,A,so/RB I/PRP ate/VBD very/RB simply/RB ./.,{C so } I ate very simply. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC I/PRP was/VBD ,/, that/DT 's/BES why/WRB ,/, I/PRP think/VBP that/DT 's/BES one/CD reason/NN I/PRP like/VBP having/VBG people/NNS over/RB ,/, because/IN I/PRP could/MD try/VB things/NNS ./.","{C And } [ [ I was, + that's why, ] + I think that's one reason ] I like having people over, because I could try things. /"
+sd,A,"I/PRP mean/VBP ,/, I/PRP must/MD be/VB a/DT frustrated/JJ chemist/NN or/CC something/NN like/IN that/DT ./.","{E I mean, } I must be a frustrated chemist or something like that. /"
+b,B,Right/UH ./.,Right. /
+sv,A,"Cause/IN cooking/VBG is/VBZ a/DT little/JJ bit/NN like/IN ,/, like/IN being/VBG in/IN a/DT chemistry/NN lab/NN ./.","{C Cause } cooking is a little bit [ like, + like ] being in a chemistry lab. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, } -/"
+sv,B,Except/IN you/PRP get/VBP to/TO taste/VB the/DT product/NN instead/RB MUMBLEx/XX ./.,Except you get to taste the product instead (( )) . /
+aa,A,"Yes/UH ,/,","Yes, <laughter> /"
+sv,A,and/CC have/VB an/DT explosion/NN ./.,and have an explosion. /
+sv,B,Fill/VB them/PRP up/RP,<Laughter> Fill them up /
+sv,B,or/CC blow/VB up/RP ./.,{C or } blow up. /
+sv,A,Sometimes/RB it/PRP blows/VBZ up/RP anyway/RB ./.,</Laughter> Sometimes it blows up anyway. /
+aa,B,Yeah/UH ./.,Yeah. /
+x,B,MUMBLEx/XX ./.,(( )) . /
+sd,A,"I/PRP ,/, I/PRP once/RB had/VBD a/DT ,/, an/DT old/JJ boy/NN friend/NN over/IN to/IN ,/, to/IN dinner/NN when/WRB I/PRP was/VBD recently/RB staying/VBG with/IN my/PRP$ parents/NNS ./.","[ I, + I ] once had [ a, + an ] old boy friend over [ to, + to ] dinner when I was recently staying with my parents. /"
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP had/VBD this/DT wonderful/JJ recipe/NN","{C And, } {F uh, } I had this wonderful recipe /"
+sd,A,"and/CC you/PRP were/VBD supposed/VBN to/TO make/VB a/DT ,/, a/DT toffee/GW like/^JJ substance/NN for/IN a/DT pie/NN by/IN ,/, uh/UH ,/, boiling/VBG evaporated/JJ milk/NN three/CD hours/NNS ,/,","{C and } you were supposed to make [ a, + a ] toffee like substance for a pie by, {F uh, } boiling evaporated milk three hours, /"
+sd,A,and/CC it/PRP does/VBZ turn/VB to/IN toffee/NN inside/IN the/DT can/NN ./.,{C and } it does turn to toffee inside the can. /
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah <sniffing>. /"
+sd,A,"And/CC ,/, uh/UH ,/, the/DT only/JJ problem/NN was/VBD ,/, when/WRB I/PRP opened/VBD the/DT can/NN ,/, it/PRP just/RB flew/VBD all/DT over/IN the/DT place/NN ./.","{C And, } {F uh, } the only problem was, when I opened the can, it just flew all over the place. /"
+sd,A,"It/PRP was/VBD on/IN the/DT ceiling/NN ,/, on/IN the/DT walls/NNS and/CC me/PRP ./.","It was on the ceiling, on the walls and me. /"
+sd,A,"And/CC ,/, and/CC the/DT boy/NN friend/NN thought/VBD ,/,","[ {C And, } + {C and } ] the boy friend thought, -/"
+x,B,,<Noise>.
+sd,A,"it/PRP was/VBD ,/, he/PRP was/VBD supposed/VBN to/TO be/VB there/RB at/IN six/CD o'clock/RB ,/, not/RB seven/CD o'clock/RB ,/,","[ it was, + he was ] supposed to be there at six o'clock, not seven o'clock, /"
+sd,A,"so/RB just/RB at/IN the/DT time/NN all/PDT this/DT happened/VBD ,/, the/DT door/NN bell/NN rang/VBD","{C so } just at the time all this happened, the door bell rang /"
+sd,A,and/CC there/EX he/PRP was/VBD ./.,{C and } there he was. /
+x,B,,<Laughter>.
+sd,A,"And/CC I/PRP had/VBD to/TO have/VB my/PRP$ ,/, my/PRP$ ,/, my/PRP$ ,/, my/PRP$ dad/NN sort/RB of/RB entertain/VB him/PRP for/IN a/DT ,/, for/IN ,/,","{C And } I had to have [ [ [ my, + my, ] + my, ] + my ] dad sort of entertain him [ [ for a, + for ] + <laughter>,"
+b,B,Right/UH ./.,<Laughter> Right. /
++,A,for/IN awhile/RB while/IN my/PRP$ mother/NN and/CC I/PRP scrambled/VBD to/TO clean/VB everything/NN up/RP ./.,for awhile ] while my mother and I scrambled to clean everything up. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,B,Did/VBD you/PRP let/VB the/DT can/NN cool/VB off/RP ?/.,Did you let the can cool off? /
+no,A,"Uh/UH ,/, I/PRP really/RB do/VBP not/RB remember/VB ,/,","{F Uh, } I really do not remember, /"
+sd,A,"that/DT was/VBD about/RB ten/CD years/NNS ago/RB ,/,","that was about ten years ago, /"
+sd,A,I/PRP just/RB remember/VBP how/WRB embarrassing/JJ it/PRP was/VBD ./.,I just remember how embarrassing it was. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC I/PRP have/VBP made/VBN ,/, I/PRP have/VBP made/VBN it/PRP since/RB ,/, I/PRP 've/VBP ,/, I/PRP ,/, and/CC several/JJ times/NNS before/RB","{C And } [ I have made, + I have made ] it since, [ I've, + I, + ] and several times before /"
+sd,A,"and/CC I/PRP never/RB had/VBD that/DT problem/NN ,/,","{C and } I never had that problem, /"
+sd,A,just/RB that/DT one/CD time/NN ./.,just that one time. /
+b,B,Huh/UH ./. Yeah/UH ./.,{F Huh. } Yeah. /
+sd,A,"And/CC ,/, uh/UH ,/, he/PRP ,/, he/PRP was/VBD a/DT gourmet/NN cook/NN ,/,","{C And, } {F uh, } [ he, + he ] was a gourmet cook, /"
+sd,A,he/PRP was/VBD kind/RB of/RB pushy/JJ too/RB ./.,he was kind of (( pushy too. )) /
+sd,A,"Acted/VBD like/IN ,/, he/PRP came/VBD from/IN San/NNP Francisco/NNP","Acted like, he came from San Francisco /"
+sd,A,and/CC he/PRP had/VBD a/DT very/RB sophisticated/JJ taste/NN ./.,{C and } he had a very sophisticated taste. /
+sd,A,"I/PRP ,/, I/PRP really/RB wanted/VBD to/TO impress/VB the/DT heck/NN out/IN of/IN him/PRP","[ I, + I ] really wanted to impress the heck out of him /"
+sd,A,"and/CC ,/, and/CC ,/, well/UH ,/, it/PRP was/VBD a/DT memorable/JJ evening/NN anyway/RB ./.","[ {C and, } + {C and } ] <laughter>, {D well, } it was a memorable evening anyway. /"
+b,B,Right/UH ./.,Right. /
+%,A,"Uh/UH ,/, as/RB far/RB as/IN ,/,","{F Uh, } (( as far as, )) - /"
+sd,A,"I/PRP ,/, I/PRP do/VBP enjoy/VB cooking/VBG","[ I, + I ] do enjoy cooking /"
+sd,A,"so/RB ,/, I/PRP was/VBD awfully/RB glad/JJ I/PRP was/VBD given/VBN this/DT ,/,","{C so, } I was awfully glad I was given this, -/"

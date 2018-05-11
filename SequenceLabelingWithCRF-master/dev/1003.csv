@@ -1,0 +1,170 @@
+act_tag,speaker,pos,text
+fp,A,Hi/UH Diana/NNP ./.,Hi Diana. /
+fp,B,Hi/UH ./.,Hi <baby_crying>. /
+qy,A,Have/VBP you/PRP all/DT been/VBN able/JJ to/TO do/VB much/JJ as/IN a/DT family/NN these/DT days/NNS ?/.,Have you all been able to do much as a family these days? /
+br,B,Pardon/VB me/PRP ./.,Pardon me. /
+qy,A,"Have/VBP you/PRP all/DT been/VBN able/JJ to/TO do/VB much/JJ as/IN ,/, uh/UH ,/, as/IN a/DT full/JJ family/NN these/DT days/NNS ,/, all/DT of/IN you/PRP ./.","Have you all been able to do much [ as, + {F uh, } as ] a full family these days, all of you. /"
+ny,B,"Oh/UH ,/, yes/UH ,/,","{F Oh, } yes, /"
+sd,B,"we/PRP 've/VBP ,/, uh/UH ,/, been/VBN ,/, um/UH ,/, we/PRP 've/VBP gone/VBN other/JJ ,/, you/PRP know/VBP ,/, all/DT kinds/NNS of/IN places/NNS ,/,","[ we've, {F uh, } been, + {F um, } we've gone ] [ other, + {D you know, } all ] kinds of places, /"
+sd,B,"we/PRP go/VBP out/IN to/IN dinner/NN ,/,","we go out to dinner, /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"we/PRP take/VBP the/DT kids/NNS to/IN the/DT park/NN ,/,","we take the kids to the park, /"
+sd,B,"and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, whenever/WRB we/PRP ,/, he/PRP ,/, my/PRP$ husband/NN has/VBZ time/NN off/RP or/CC something/NN ,/, we/PRP take/VBP them/PRP to/IN the/DT zoo/NN ,/,","{C and, } {F uh, } {D you know, } <baby_crying> whenever [ [ we, + he, ] + my ] husband has time off or something, we take them to the zoo, /"
+sd,B,"or/CC we/PRP ,/, you/PRP know/VBP ,/, we/PRP do/VBP everything/NN we/PRP can/MD possibly/RB as/IN a/DT family/NN ./.","{C or } [ we, + {D you know, } we ] do everything we can possibly as a family. /"
+qy,A,Do/VBP you/PRP work/VB outside/IN the/DT home/NN ?/.,Do you work outside the home? /
+nn,B,"No/UH ,/,","No, /"
+sd,B,I/PRP do/VBP n't/RB ./.,I don't. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP do/VBP n't/RB either/RB ,/,","I don't either, /"
+sv,A,"it/PRP makes/VBZ it/PRP a/DT little/JJ bit/NN easier/JJR ,/, I/PRP think/VBP ,/, that/DT way/NN ./.","it makes it a little bit easier, I think, that way. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"it/PRP does/VBZ ,/,","it does, /"
+sd,B,"an/DT ,/, an/^CC then/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, my/PRP$ husband/NN enjoys/VBZ spending/VBG time/NN with/IN the/DT kids/NNS ,/, you/PRP know/VBP ,/,","[ {C an, } + {C an } ] then, {F uh, } {D you know, } my husband enjoys spending time with the kids, {D you know, } /"
+sd,B,"he/PRP 'll/MD ,/, he/PRP 'll/MD take/VB them/PRP out/RB just/RB to/TO be/VB with/IN them/PRP ./.","[ he'll, + he'll ] take them out just to be with them. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"So/RB he/PRP ,/, they/PRP can/MD have/VB time/NN with/IN him/PRP an/^CC ./.","{C So } [ he, + they ] can have time with him [ an. + ] /"
+qy^d,A,So/RB you/PRP have/VBP a/DT break/NN too/RB ./.,{C So } you have a break too. /
+na,B,"Right/UH ,/,","Right, /"
+sd,B,"so/RB and/CC we/PRP ,/, uh/UH ,/, we/PRP try/VBP to/TO teach/VB our/PRP$ kids/NNS as/RB much/RB as/IN we/PRP can/MD at/IN home/NN ,/, you/PRP know/VBP ,/, we/PRP have/VBP ,/, we/PRP try/VBP to/TO spend/VB like/IN Monday/NNP nights/NNS ,/, we/PRP call/VBP it/PRP family/NN home/NN evening/NN ,/,","[ {C so } + {C and } ] [ we, + {F uh, } we ] try to teach our kids as much as we can at home, {D you know, } [ we have, + we try ] to spend {D like } Monday nights, we call it family home evening,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"and/CC ,/, have/VBP our/PRP$ kids/NNS ,/, uh/UH ,/, you/PRP know/VBP ,/, have/VBP little/JJ lessons/NNS with/IN them/PRP ,/, and/CC ,/, you/PRP know/VBP ,/, just/RB see/VB ,/, count/VB ,/, see/VB how/WRB things/NNS are/VBP going/VBG in/IN our/PRP$ family/NN and/CC ,/, you/PRP know/VBP ,/, teach/VB them/PRP about/IN their/PRP$ grandparents/NNS or/CC something/NN like/IN that/DT ./. Bring/VB out/RB pictures/NNS of/IN them/PRP so/IN they/PRP get/VBP to/TO know/VB them/PRP","and, [ have our kids, + {F uh, } {D you know, } have little lessons with them, ] and, {D you know, } just [ [ see, + count, ] + see ] how things are going in our family and, {D you know, } teach them about their grandparents or something like that. Bring out pictures of them so they get to know them /"
+sd,B,"and/CC ,/, we/PRP just/RB do/VBP all/DT kinds/NNS of/IN fun/JJ things/NNS like/IN that/DT","{C and, } we just do all kinds of fun things like that /"
+%,B,an/^CC ./.,{C an. } -/
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,we/PRP have/VBP family/NN that/WDT 's/BES far/RB away/RB ./.,we have family that's far away. /
+bf,A,It/PRP sounds/VBZ like/IN you/PRP might/MD too/RB ./.,It sounds like you might too. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"we/PRP do/VBP ,/,","we do, /"
+sd,B,"so/RB they/PRP ,/,","{C so } [ they, +"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"you/PRP know/VBP ,/, the/DT only/JJ way/NN they/PRP know/VBP their/PRP$ grandparents/NNS is/VBZ by/IN pictures/NNS ./.","{D you know, } the only way they ] know their grandparents is by pictures. /"
+%,B,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, } -/"
+b,A,"Right/UH ,/,","Right, /"
+sv,A,"and/CC phone/NN calls/NNS that/WDT 's/BES about/RB ,/, about/RB it/PRP ./.","{C and } phone calls that's [ about, + <laughter> about ] it. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,right/UH,right /
+sd,B,"and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, they/PRP ,/, we/PRP ,/, you/PRP know/VBP ,/, we/PRP go/VBP to/IN the/DT park/NN","{C and, } {F uh, } {D you know, } [ [ they, + we, ] + {D you know, } we ] go to the park /"
+sd,B,or/CC we/PRP go/VBP in/IN the/DT backyard/NN and/CC sit/VBP down/RB,{C or } we go in the backyard and sit down /
+%,B,"an/^CC ,/,","{C an, } -/"
+sd,A,"That/DT 's/BES wha/WP ,/, yeah/UH ,/, that/DT 's/BES what/WP we/PRP mostly/RB do/VBP ,/, pretty/RB simple/JJ things/NNS ./.","[ That's wha-, + {D yeah, } that's what ] we mostly do, pretty simple things. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Especially/RB since/IN my/PRP$ youngest/JJS one/NN is/VBZ ,/, excuse/VB me/PRP ,/, only/RB fourteen/CD months/NNS ./.","Especially since my youngest one is <sneezing>, {E excuse me, } only fourteen months. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"She/PRP ,/, she/PRP 's/BES really/RB getting/VBG to/IN the/DT age/NN where/WRB she/PRP 's/BES playing/VBG ,/,","[ She, + she's ] really getting to the age where she's playing,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,and/CC likes/VBZ to/TO go/VB places/NNS ./.,and likes to go places. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"and/CC with/IN ,/, you/PRP know/VBP ,/, me/PRP being/VBG at/IN home/NN and/CC just/RB having/VBG the/DT one/CD income/NN ,/, you/PRP know/VBP ,/, you/PRP do/VBP n't/RB have/VB ,/, this/DT lot/NN of/IN extra/JJ money/NN to/TO ,/, to/TO do/VB a/DT lot/NN of/IN ,/, you/PRP know/VBP ,/, extra/JJ things/NNS ./.","{C and } with, {D you know, } me being at home and just having the one income, {D you know, } you don't have, this lot of extra money [ to, + to ] do a lot of, {D you know, } extra things. /"
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+sv,B,"So/RB ,/, you/PRP ,/, you/PRP make/VBP more/JJR fun/NN than/IN ,/, you/PRP know/VBP ./.","{C So, } [ you, + you ] make more fun than, {D you know. } - /"
+sd,B,"You/PRP know/VBP the/DT kids/NNS just/RB think/VBP it/PRP 's/BES wonderful/JJ just/RB maybe/RB to/TO go/VB get/VB an/DT ice/NN cream/NN cone/NN or/CC ,/,","{D You know } the kids just think it's wonderful just maybe to go get an ice cream cone or,"
+sv,A,Oh/UH that/DT 's/BES a/DT big/JJ thrill/NN for/IN them/PRP ./.,{F Oh } that's a big thrill for them. /
++,B,"yeah/UH ,/, or/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, go/VB get/VB a/DT bag/NN of/IN M/NNP and/CC M/NNP 's/NNPS or/CC something/NN like/IN that/DT ,/,","{D yeah, } or, {F uh, } {D you know, } go get a bag of M and M's or something like that, /"
+sd,B,"they/PRP ,/, they/PRP think/VBP that/DT 's/BES a/DT lot/NN of/IN fun/NN ./.","[ they, + they ] think that's a lot of fun. /"
+sd,B,"So/RB we/PRP just/RB ,/, we/PRP try/VBP to/TO spend/VB as/RB much/JJ time/NN as/IN we/PRP can/MD ./.","{C So } [ we just, + we try ] to spend as much time as we can. /"
+%,B,"We/PRP ,/, you/PRP know/VBP","We, {D you know } - /"
+sd,B,"our/PRP$ ,/, our/PRP$ whole/JJ weekends/NNS are/VBP divi-/XX ,/, are/VBP devoted/VBN to/IN our/PRP$ children/NNS except/IN for/IN we/PRP might/MD go/VB out/RB ,/, you/PRP know/VBP ,/, one/CD evening/NN or/CC something/NN ,/,","[ our, + our ] whole weekends [ are divi-, + are devoted ] to our children except for we might go out, {D you know, } one evening or something, /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"but/CC during/IN the/DT day/NN ,/, you/PRP know/VBP ,/, it/PRP 's/BES all/DT devoted/VBN to/IN our/PRP$ kids/NNS","{C but } during the day, {D you know, } it's all devoted to our kids /"
+sd,B,"and/CC they/PRP come/VBP ,/, go/VBP to/IN church/NN with/IN us/PRP","{C and } they come, go to church with us /"
+%,B,and/CC so/RB ./.,{C and so. } -/
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,that/DT 's/BES true/JJ ./.,that's true. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,so/RB ./.,{C so. } -/
+qy,A,"Have/VBP ,/, um/UH ,/, have/VBP you/PRP ever/RB been/VBN to/IN the/DT Science/NNP ,/, it/PRP 's/BES called/VBN the/DT Science/NNP Place/NNP ?/.","[ Have, + {F um, } have ] you ever been to the Science, it's called the Science Place? /"
+ny,B,"Yes/UH ,/,","Yes, /"
+ny,B,"yes/UH ,/,","yes, /"
+%,B,that/DT 's/BES what/WP ./.,that's what. -/
+sd,A,"We/PRP ju-/XX ,/, we/PRP have/VBP n't/RB lived/VBN here/RB too/RB long/JJ","[ We ju-, + we ] haven't lived here too long /"
+sd,A,and/CC we/PRP went/VBD there/RB a/DT couple/NN of/IN weeks/NNS ago/RB,{C and } we went there a couple of weeks ago /
+%,A,"and/CC ,/, uh/UH ,/, ./.","{C and, } {F uh, } <throat_clearing>. -/"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,B,the/DT kids/NNS thought/VBD that/DT was/VBD wonderful/JJ ./.,the kids thought that was wonderful. /
+b,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+%,A,"we/PRP ,/,","we, - /"
+sd,A,I/PRP guess/VBP there/EX 's/BES Science/NNP Place/NNP One/NNP and/CC Science/NNP Place/NNP Two/NNP ./.,I guess there's Science Place One and Science Place Two. /
+sd,A,"We/PRP 've/VBP only/RB been/VBN in/IN ,/, I/PRP think/VBP it/PRP 's/BES Science/NNP Place/NNP Two/NNP ./.","We've only been in, I think it's Science Place Two. /"
+sd,B,"I/PRP ,/, is/VBZ ,/, I/PRP 'm/VBP not/RB sure/JJ which/WDT one/NN we/PRP went/VBD into/IN ,/,","[ I, is, + I'm ] not sure which one we went into, /"
+sd,B,"it/PRP was/VBD about/RB a/DT year/NN or/CC so/RB ago/RB ,/, when/WRB we/PRP went/VBD ./.","it was about a year or so ago, when we went. /"
+sd,A,"The/DT one/NN we/PRP went/VBD in/IN had/VBD ,/, uh/UH ,/,","The one we went in had, {F uh, } - /"
+sd,A,"the/DT thing/NN that/WDT sticks/VBZ out/RP most/RBS in/IN my/PRP$ mind/NN is/VBZ that/IN ,/, like/IN a/DT kid/NN 's/POS place/NN area/NN ./.","the thing that sticks out most in my mind is [ that, + ] {D like } a kid's place area. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,yeah/UH ./.,yeah. /
+sd,A,"That/WDT really/RB seem/VBP ,/, they/PRP really/RB seemed/VBD to/TO go/VB wild/RB in/IN there/RB ./.","[ That really seem, + they really seemed ] to go wild in there. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,yeah/UH,yeah /
+sd,B,they/PRP had/VBD a/DT lot/NN of/IN fun/NN in/IN there/RB,they had a lot of fun in there /
+sd,B,"and/CC ,/, uh/UH ,/, there/EX 's/BES ,/, uh/UH ,/, there/EX 's/BES some/DT petting/NN ,/, you/PRP know/VBP ,/, like/IN ,/, uh/UH ,/, uh/UH ,/,","{C and, } {F uh, } [ there's, + {F uh, } there's ] some petting, {D you know, } like, {F uh, } {F uh, } - /"
+sd,B,"I/PRP think/VBP it/PRP 's/BES Owens/NNP Country/NNP Farms/NNPS has/VBZ a/DT free/JJ petting/NN ,/, you/PRP know/VBP ,/, like/IN a/DT farm/NN that/WDT you/PRP can/MD go/VB to/IN","I think it's Owens Country Farms has a free petting, {D you know, } like a farm that you can go to /"
+sd,B,and/CC the/DT kids/NNS can/MD pet/VB animals/NNS and/CC stuff/NN ./.,{C and } the kids can pet animals and stuff. /
+qw,A,Where/WRB 's/BES that/DT ./.,Where's that. /
+sd,B,"That/DT 's/BES on/IN Plano/NNP Road/NNP ,/,","That's on Plano Road, /"
+sd,B,"uh/UH ,/, it/PRP 's/BES like/UH in/IN Richardson/NNP you/PRP go/VBP up/IN Plano/NNP Road/NNP ,/,","{F uh, } it's like in Richardson you go up Plano Road, /"
+sd,B,it/PRP 's/BES like/IN a/DT little/JJ bit/NN past/IN Campbell/NNP and/CC Plano/NNP Road/NNP ./.,it's {D like } a little bit past Campbell and Plano Road <children_talking>. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,And/CC that/DT 's/BES a/DT lot/NN of/IN fun/NN ./.,{C And } that's a lot of fun. /
+b,A,Oh/UH yeah/UH ./.,{F Oh } yeah. /
+sd,B,They/PRP have/VBP tours/NNS going/VBG through/IN there/RB,They have tours going through there /
+sd,B,"and/CC ,/, uh/UH ,/, the/DT kids/NNS think/VBP that/DT was/VBD a/DT lot/NN of/IN fun/NN ,/, too/RB ./.","{C and, } {F uh, } the kids think that was a lot of fun, too. /"
+ba,A,"Oh/UH ,/, that/DT does/VBZ sound/VB like/IN fun/NN ./.","{F Oh, } that does sound like fun. /"
+sv,A,"It/PRP 's/BES a/DT little/JJ bit/NN of/IN a/DT ways/NNS ,/,","It's a little bit of a ways, /"
+sd,B,"We/PRP take/VBP ,/, you/PRP know/VBP ,/, whenever/WRB we/PRP take/VBP them/PRP to/IN Showbiz/NNP","[ We take, + {D you know, } whenever we take ] them to Showbiz - /"
+sd,B,"or/CC they/PRP think/VBP it/PRP 's/BES wonderful/JJ just/RB to/TO go/VB to/IN McDonald/NNP 's/POS ,/, you/PRP know/VBP ,/,","{C or } they think it's wonderful just to go to McDonald's, {D you know, } /"
+sd,B,they/PRP do/VBP n't/RB go/VB for/IN the/DT food/NN,they don't go for the food /
+sd,B,"they/PRP go/VBP for/IN the/DT ,/, to/TO play/VB around/RP","they go for [ the, + ] to play around /"
+sd,B,"and/CC ,/,","{C and, }"
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
++,B,"There/EX 's/BES another/DT place/NN in/IN Mesquite/NNP called/VBN Monkey/NNP Business/NNP ,/,","There's another place in Mesquite called Monkey Business, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,and/CC it/PRP 's/BES a/DT indoor/JJ fun/NN park/NN,{C and } it's a indoor fun park /
+sd,B,and/CC it/PRP has/VBZ a/DT bunch/NN of/IN different/JJ rides/NNS for/IN kids/NNS ./.,{C and } it has a bunch of different rides for kids. /
+ba,A,That/DT 's/BES sounds/VBZ fun/JJ too/RB ./.,That's sounds fun too. /
+sd,B,And/CC parents/NNS get/VBP in/RB free/JJ,{C And } parents get in free /
+sd,B,"and/CC it/PRP 's/BES like/IN ,/, during/IN the/DT week/NN ,/,","{C and } it's {D like, } during the week, /"
+sd,B,"it/PRP 's/BES like/IN five/CD dollars/NNS admission/NN per/IN child/NN ,/, all/DT day/NN ./.","it's {D like } five dollars admission per child, all day. /"
+qy^d,A,"And/CC ,/, and/CC you/PRP said/VBD about/RB Plano/NNP and/CC Campbell/NNP is/VBZ the/DT petting/NN ,/,","[ {C And, } + {C and } ] you said about Plano and Campbell is the petting, /"
+^2,B,"The/DT petting/NN farm/NN ,/,","The petting farm, /"
+ny,B,yeah/UH ./.,yeah. /
+ba,A,That/DT sounds/VBZ fun/JJ,<Throat_clearing> That sounds fun /
+sd,A,I/PRP think/VBP maybe/RB we/PRP 'll/MD try/VB to/TO do/VB that/DT ./.,I think maybe we'll try to do that. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH,yeah /
+sd,B,"and/CC the/DT one/CD in/IN Mesquite/NNP is/VBZ ,/, uh/UH ,/, Scyene/NNP exit/NN ./.","{C and } the one in Mesquite is, {F uh, } Scyene exit. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"And/CC it/PRP 's/BES ,/, it/PRP 's/BES ,/, uh/UH ,/,","{C And } [ it's, + it's, ] {F uh, } - /"
+sd,B,"the/DT kids/NNS just/RB had/VBD a/DT wonderful/JJ time/NN there/RB ,/,","the kids just had a wonderful time there, /"
+sd,B,"they/PRP ,/, you/PRP know/VBP ,/, you/PRP just/RB pay/VBP that/DT admission/NN ,/,","[ they, + {D you know, } you ] just pay that admission, /"
+sd,B,"and/CC then/RB all/PDT the/DT ,/, the/DT ,/, the/DT rides/NNS are/VBP free/JJ ./.","{C and then } all [ [ the, + the, ] + the ] rides are free. /"
+sd,B,"You/PRP know/VBP ,/, of/IN course/NN ,/, they/PRP have/VBP all/PDT the/DT little/JJ video/NN games/NNS and/CC ,/, you/PRP know/VBP ,/, those/DT little/JJ quarter/NN rides/NNS ,/, you/PRP know/VBP ,/, to/TO ,/, and/CC stuff/NN like/IN that/DT","{D You know, } of course, they have all the little video games and, {D you know, } those little quarter rides, {D you know, } [ to, + ] and stuff like that /"
+sd,B,"but/CC ,/,","{C but, }"
+b,A,Yeah/UH ./.,Yeah. /
++,B,they/PRP thought/VBD that/DT was/VBD lot/NN of/IN fun/NN ./.,they thought that was lot of fun. /
+sd,B,You/PRP can/MD have/VB birthday/NN parties/NNS there/RB,You can have birthday parties there /
+sv,B,"an/^CC ,/, I/PRP think/VBP that/DT was/VBD better/JJR than/IN like/IN Showbiz/NNP Pizza/NNP cause/IN there/EX 's/BES more/JJR for/IN them/PRP to/TO do/VB ./.","{C an, } I think that was better than {D like } Showbiz Pizza cause there's more for them to do. /"
+%,A,"Because/IN they/PRP can/MD just/RB do/VB ,/,","{C Because } they can just do, - /"
+qy^d,A,you/PRP do/VBP n't/RB have/VB to/TO have/VB tokens/NNS for/IN everything/NN ./.,you don't have to have tokens for everything. /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+na,B,right/UH ./.,right. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,So/RB they/PRP had/VBD a/DT lot/NN of/IN fun/NN ./.,{C So } they had a lot of fun. /
+ba,A,That/DT does/VBZ sound/VB like/IN fun/NN ./.,That does sound like fun. /
+sd,A,Well/UH I/PRP 've/VBP gotten/VBN some/DT good/JJ ideas/NNS from/IN you/PRP ./.,{D Well } I've gotten some good ideas from you <laughter>. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP ,/, we/PRP try/VBP to/TO do/VB a/DT lot/NN of/IN things/NNS as/IN a/DT family/NN and/CC ,/, you/PRP know/VBP ,/, inexpensively/RB as/IN possible/JJ ,/,","[ I, + we ] try to do a lot of things as a family and, {D you know, } inexpensively as possible, /"
+%,B,so/RB ./.,{C so. } -/
+aa,A,Definitely/UH ./.,Definitely. /
+fc,A,"Well/UH ,/, I/PRP think/VBP ,/, I/PRP do/VBP n't/RB know/VB if/IN we/PRP 've/VBP done/VBN five/CD minutes/NNS","{D Well, } I think, I don't know if we've done five minutes /"
+fc,A,but/CC I/PRP 'm/VBP sure/JJ that/DT will/MD be/VB good/JJ ./.,{C but } I'm sure that will be good. /
+fc,B,"Yeah/UH ,/,","Yeah, /"
+fc,B,"that/DT will/MD be/VB good/JJ ,/,","that will be good, /"
+fc,B,yeah/UH ./.,yeah. /
+fc,A,It/PRP was/VBD good/JJ talking/VBG to/IN you/PRP ./.,It was good talking to you. /
+fc,B,Well/UH it/PRP was/VBD good/JJ talking/VBG to/IN you/PRP ./.,{D Well } it was good talking to you. /
+fc,A,I/PRP really/RB appreciate/VBP your/PRP$ suggestions/NNS ./.,I really appreciate your suggestions. /
+fc,B,"Oh/UH ,/, no/DT problem/NN ./.","{F Oh, } no problem. /"
+fc,B,"Well/UH ,/, take/VB care/NN ./.","{D Well, } take care. /"
+fc,A,"Okay/UH ,/,","Okay, /"
+fc,A,"bye-bye/UH ,/,","bye-bye, /"
+fc,B,Bye-bye/UH ./.,Bye-bye. /

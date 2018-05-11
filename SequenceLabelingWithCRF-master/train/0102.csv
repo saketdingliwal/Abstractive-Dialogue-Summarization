@@ -1,0 +1,157 @@
+act_tag,speaker,pos,text
+sd,B,"Uh/UH ,/, you/PRP know/VBP ,/, I/PRP ,/, when/WRB I/PRP was/VBD much/RB younger/JJR ,/, uh/UH ,/, than/IN I/PRP am/VBP now/RB ,/, I/PRP ,/, I/PRP had/VBD wanted/VBN to/TO go/VB to/IN the/DT Peace/NNP Corps/NNP","{F Uh, } {D you know, } [ I, + when I ] was much younger, {F uh, } than I am now, [ I, + I ] had wanted to go to the Peace Corps /"
+sd,B,"and/CC ,/, uh/UH ,/, it/PRP seems/VBZ like/IN I/PRP ,/, it/PRP ,/, it/PRP was/VBD something/NN that/WDT I/PRP ,/, I/PRP really/RB wanted/VBD ,/, wanted/VBD to/TO do/VB ./.","{C and, } {F uh, } it seems like [ [ I, + it, ] + it ] was something that [ I, + I ] really [ wanted, + wanted ] to do. /"
+ad,A,"Can/MD you/PRP speak/VB up/RP ,/, please/UH ./.","Can you speak up, please. /"
+sd,B,Seems/VBZ like/IN wanting/VBG to/TO go/VB to/IN the/DT Peace/NNP Corps/NNP was/VBD something/NN that/WDT I/PRP had/VBD really/RB wanted/VBN to/TO do/VB when/WRB I/PRP was/VBD young/JJ ./.,Seems like wanting to go to the Peace Corps was something that I had really wanted to do when I was young. /
+b,A,Yes/UH ./.,Yes. /
+sv,B,"But/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB believe/VB they/PRP accept/VBP you/PRP after/IN you/PRP ,/, you/PRP know/VBP ,/, after/IN you/PRP 're/VBP married/VBN","{C But, } {F uh, } I don't believe they accept you [ after you, + {D you know, } after you're ] married /"
+sv,B,"and/CC you/PRP have/VBP ,/, uh/UH ,/, kids/NNS and/CC all/DT that/DT","{C and } you have, {F uh, } kids and all that /"
+sd,B,"so/IN I/PRP got/VBD into/IN ,/,","{C so } I got into,"
+b,A,"Uh/UH ,/,","{F Uh, } /"
++,B,that/DT,that /
+sd,B,"and/CC then/RB I/PRP was/VBD n't/RB able/JJ to/TO ,/, to/TO ,/, uh/UH ,/, participate/VB ./.","{C and then } I wasn't able [ to, + to, ] {F uh, } participate. /"
+sd,A,But/CC they/PRP will/MD accept/VB you/PRP later/RB in/IN life/NN also/RB ./.,{C But } they will accept you later in life also. /
+qy^d,B,"Oh/UH ,/, they/PRP will/MD ?/.","{F Oh, } they will? /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,after/IN your/PRP$ children/NNS are/VBP grown/JJ ./.,after your children are grown. /
+sd,B,"Oh/UH ,/, I/PRP did/VBD n't/RB know/VB that/DT ./.","{F Oh, } I didn't know that. /"
+b,A,Yes/UH ./.,Yes. /
+qy^d,B,Then/RB there/EX 's/BES no/DT age/NN limit/NN ?/.,Then there's no age limit? /
+nn,A,No/UH ./.,No. /
+qy^d,B,Your/PRP$ kidding/VBG ./.,Your kidding. / *[[typo -> you're]]
+nn,A,"No/UH ,/,","No, /"
+ng,A,I/PRP 'm/VBP not/RB ./.,I'm not. /
+sd,A,"Some/DT of/IN the/DT people/NNS that/WDT have/VBP been/VBN involved/JJ with/IN Peace/NNP Corps/NNP ,/, among/IN other/JJ things/NNS ,/, were/VBD retired/JJ teachers/NNS ./.","Some of the people that have been involved with Peace Corps, among other things, were retired teachers. /"
+sd,A,"Uh/UH ,/, there/EX was/VBD a/DT retired/JJ plumber/NN that/WDT went/VBD to/IN ,/, uh/UH ,/, uh/UH ,/, Uruguay/NNP I/PRP think/VBP and/CC helped/VBD them/PRP quite/PDT a/DT bit/NN with/IN concepts/NNS in/IN plumbing/NN ,/, you/PRP know/VBP ,/, providing/VBG for/IN a/DT ,/, for/IN better/RBR public/JJ hygiene/NN ./.","{F Uh, } there was a retired plumber that went to, {F uh, } {F uh, } Uruguay I think and helped them quite a bit with concepts in plumbing, {D you know, } providing [ for a, + for ] better public hygiene. /"
+ba,B,Goodness/UH I/PRP 'm/VBP surprised/JJ ./.,Goodness I'm surprised. /
+sd,B,I/PRP really/RB had/VBD no/DT idea/NN ./.,I really had no idea. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+qy,A,"but/CC ,/, so/RB ,/, do/VBP you/PRP think/VB that/IN people/NNS should/MD be/VB required/VBN to/TO give/VB a/DT couple/NN years/NNS for/IN the/DT good/NN of/IN the/DT country/NN ?/.","{C but, } {C so, } do you think that people should be required to give a couple years for the good of the country? /"
+sd,B,"Well/UH ,/, ,/, I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB really/RB think/VB that/IN they/PRP sh/MD ,/, they/PRP should/MD be/VB ,/, it/PRP should/MD be/VB mandatory/JJ ./.","{D Well, } <breathing>, [ (( I don't )) , + I don't ] really think that [ [ they sh-, + they should be, ] + it should be ] mandatory. /"
+h,B,"I/PRP mean/VBP ,/,","{E I mean, }"
+qw,A,Why/WRB ?/.,Why? /
++,B,"well/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","<Breathing> {D well, } I don't know, /"
+%,B,"I/PRP ,/,","I, - /"
+%,B,"it/PRP 's/BES ,/,","it's, - /"
+sd,B,"that/DT just/RB might/MD not/RB be/VB something/NN that/WDT everybody/NN wants/VBZ to/TO do/VB ,/,","that just might not be something that everybody wants to do, /"
+sd,B,"I/PRP mean/VBP ,/, there/EX are/VBP a/DT lot/NN of/IN people/NNS who/WP would/MD like/VB to/TO do/VB it/PRP ,/,","{E I mean, } there are a lot of people who would like to do it, /"
+sd,B,and/CC there/EX are/VBP a/DT lot/NN of/IN people/NNS who/WP get/VBP into/IN other/JJ things/NNS,{C and } there are a lot of people who get into other things /
+sd,B,and/CC they/PRP get/VBP all/DT involved/JJ,{C and } they get all involved /
+sd,B,"and/CC they/PRP just/RB ,/, you/PRP know/VBP ,/, do/VBP n't/RB want/VB to/TO or/CC do/VBP n't/RB have/VB the/DT time/NN ./.","{C and } they just, {D you know, } don't want to or don't have the time. /"
+ba,A,"Well/UH ,/, I/PRP understand/VBP ,/,","{D Well, } I understand, /"
+qy,A,"but/CC if/IN it/PRP were/VBD told/VBN to/IN us/PRP that/IN we/PRP would/MD find/VB the/DT time/NN somewhere/RB between/IN our/PRP$ seventeenth/JJ and/CC ,/, uh/UH ,/, twenty-sixth/JJ birthday/NN to/TO give/VB a/DT year/NN or/CC two/CD to/IN the/DT ,/, to/IN the/DT country/NN in/IN the/DT form/NN of/IN maybe/RB building/VBG better/JJR roads/NNS or/CC the/DT parks/NNS service/VBP or/CC the/DT Peace/NNP Corps/NNP or/CC somet-/NN ,/, you/PRP know/VBP ,/, the/DT military/NN service/NN or/CC something/NN ./. Would/MD n't/RB we/PRP have/VB ,/, uh/UH ,/, maybe/RB a/DT better/JJR class/NN of/IN Americans/NNPS ?/.","{C but } if it were (( told to us )) that we would find the time somewhere between our seventeenth and, {F uh, } twenty-sixth birthday to give a year or two to the, to the country in the form of maybe building better roads or the parks service or the Peace Corps or [ somet-, + ] {D you know, } the military service or something. Wouldn't we have, {F uh, } maybe a better class of Americans? /"
+sd,B,"I/PRP do/VBP n't/RB see/VB how/WRB that/DT can/MD ,/, can/MD make/VB a/DT better/JJR class/NN of/IN Americans/NNPS to/TO make/VB everybody/NN ,/, to/TO make/VB it/PRP mandatory/JJ for/IN everybody/NN to/TO participate/VB ./.","I don't see how that [ can, + can ] make a better class of Americans [ to make everybody, + to make it ] mandatory for everybody to participate. /"
+sd,A,"A/DT lot/NN of/IN these/DT peop-/NNS ,/, a/DT lot/NN of/IN our/PRP$ ,/, uh/UH ,/,","[ A lot of these peop-, + a lot of our, ] {F uh, } - /"
+fa,A,"pardon/VB the/DT terminology/NN ,/,","pardon the terminology, /"
+sv,A,"but/CC yuppies/NNS ,/, now/RB ,/, are/VBP interested/JJ in/IN one/CD thing/NN and/CC one/CD thing/NN only/RB","{C but } yuppies, now, are interested in one thing and one thing only /"
+sv,A,and/CC that/DT 's/BES themselves/PRP ./.,and that's themselves. /
+aa,B,That/DT 's/BES true/JJ ./.,That's true. /
+sd,B,"Well/UH ,/, I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB think/VB that/DT ,/,","{D Well, } [ I don't, + I don't ] think that, -/"
+sv,A,"And/CC at/IN least/JJS if/IN you/PRP legislated/VBD ,/,","{C And } at least if you legislated,"
+x,B,,<Throat_clearing>.
++,A,"giving/VBG for/IN a/DT couple/NN years/NNS of/IN their/PRP$ lives/NNS or/CC ,/, or/CC ,/, uh/UH ,/, a/DT honestly/RB purely/RB giving/VBG but/CC ,/, but/CC some/DT sort/NN of/IN equitable/JJ exchange/NN ,/, then/RB at/IN least/JJS the/DT country/NN would/MD have/VB gotten/VBN two/CD years/NNS from/IN them/PRP where/WRB ,/, um/UH ,/, they/PRP would/MD have/VB given/VBN something/NN to/IN the/DT country/NN instead/IN of/IN take/VBG ,/, taking/VBG away/RB all/DT their/PRP$ lives/NNS ./.","giving for a couple years of their lives [ or, + or, ] {F uh, } [ a + ] (( honestly )) purely giving [ but, + but ] some sort of equitable exchange, then at least the country would have gotten two years from them where, {F um, } they would have given something to the country instead of [ take, + taking ] away all their lives. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+qy,B,"are/VBP ,/, are/VBP you/PRP suggesting/VBG then/RB that/IN if/IN ,/, if/IN ,/, uh/UH ,/, if/IN I/PRP have/VBP to/TO go/VB and/CC ,/, and/CC do/VBP something/NN for/IN the/DT country/NN for/IN two/CD years/NNS that/IN the/DT country/NN will/MD compensate/VB me/PRP in/IN some/DT way/NN ./.","[ are, + are ] you suggesting then that [ [ if, + if, ] + {F uh, } if ] I have to go [ and, + and ] do something for the country for two years that the country will compensate me in some way. /"
+%,A,"Uh/UH ,/,","{F Uh, } /"
+qy^d,B,"I/PRP ,/, I/PRP will/MD be/VB compensated/VBN for/IN this/DT ,/,","[ (( I )) , + I ] will be compensated for this, /"
+qy^d,B,"I/PRP 'm/VBP not/RB just/RB going/VBG to/TO ,/,","I'm not just going to, -/"
+bk,B,Okay/UH ./.,Okay. /
+sd,A,"It/PRP will/MD be/VB a/DT job/NN of/IN sorts/NNS ,/,","It will be a job of sorts, /"
+sv,A,"I/PRP 'm/VBP sure/JJ ,/, that/IN the/DT Peace/NNP Corps/NNP pays/VBZ ,/, it/PRP does/VBZ n't/RB pay/VB well/UH ,/,","I'm sure, that the Peace Corps [ pays, it + ] doesn't pay well, /"
+sv,A,"it/PRP 's/BES not/RB top/JJ wages/NNS ,/,","it's not top wages, /"
+b,B,Uh-huh/UH ./.,<<Very faint>> Uh-huh. /
+sd,A,"but/CC ,/, but/CC it/PRP does/VBZ pay/VB ./.","[ {C but, } + {C but } ] it does pay. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"The/DT military/NN ,/,","The military, - /"
+sd,A,"for/IN young/JJ hiring/NN in/IN soldiers/NNS does/VBZ pay/VB ,/,","for young (( hiring in )) soldiers does pay, - /"
+sd,A,it/PRP does/VBZ n't/RB pay/VB well/RB ./.,it doesn't pay well. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Okay/UH ,/, currently/RB in/IN our/PRP$ country/NN ,/, especially/RB in/IN some/DT regions/NNS ,/, there/EX 's/BES an/DT employment/NN problem/NN ./.","{D Okay, } currently in our country, especially in some regions, there's an employment problem. /"
+qy^d,A,You/PRP 're/VBP aware/JJ of/IN that/DT I/PRP 'm/VBP sure/JJ ./.,You're aware of that I'm sure. /
+aa,B,"That/DT ,/, that/DT ,/, that/DT 's/BES true/JJ ./.","[ [ That, + that, ] + that's ] true. /"
+sd,B,"But/CC in/IN ,/, even/RB in/IN our/PRP$ region/NN there/EX 's/BES an/DT employment/NN problem/NN ./.","{C But } [ in, + even in ] our region there's an employment problem. /"
+sd,B,"There/EX 's/BES a/DT lot/NN of/IN ,/, uh/UH ,/, people/NNS gotten/VBN laid/VBN off/RP lately/RB ./. You/PRP know/VBP ,/, from/IN just/RB companies/NNS like/IN General/NNP Dynamics/NNP ,/, and/CC ,/,","There's a lot of, {F uh, } people gotten laid off lately. {D You know, } from (( just )) companies like General Dynamics, [ and, +"
+^2,A,And/CC Texas/NNP Instruments/NNP ./.,And Texas Instruments. /
++,B,"and/CC Texas/NNP Instruments/NNP ,/, ./.","and ] Texas Instruments, <laughter>. /"
+sd,B,"Thousands/NNS ,/, and/CC thousands/NNS of/IN people/NNS are/VBP out/IN there/RB looking/VBG for/IN jobs/NNS ./.","Thousands, and thousands of people are out there looking for jobs. /"
+sd,A,"You/PRP know/VBP in/IN ,/, in/IN another/DT time/NN we/PRP had/VBD the/DT W/NNP P/NNP A/NNP ,/,","(( {D You know } [ in + )) , in ] another time we had the W P A,"
+ar,B,",/, no/UH ,/,","<<Very faint>>, no, /"
+sd,B,"I/PRP 'm/VBP not/RB ,/,","[ I'm not, +"
++,A,"Works/NNP Progress/NNP Administration/NNP ,/,","Works Progress Administration,"
++,B,I/PRP 'm/VBP not/RB familiar/JJ with/IN that/DT ./.,I'm not ] familiar with that. /
++,A,"during/IN the/DT great/JJ depression/NN ,/,","during the great depression,"
+b,B,Oh/UH ./.,Oh. /
++,A,though/IN I/PRP ca/MD n't/RB see/VB why/WRB it/PRP was/VBD great/JJ ./.,though I can't see why it was great. /
+x,B,,<Laughter>.
+sd,A,"Uh/UH ,/, that/DT gave/VBD people/NNS pay/VBP that/WDT was/VBD halfway/RB between/IN relief/NN which/WDT was/VBD welfare/NN ,/,","{F Uh, } that gave people pay that was halfway between relief which was welfare,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,and/CC the/DT minimum/JJ wage/NN ./.,and the minimum wage. /
+b,B,"I/PRP see/VBP ,/,","I see, /"
+bf,B,"and/CC that/DT was/VBD ,/, that/DT was/VBD simi-/XX ,/, that/DT was/VBD some/DT ,/, some/DT program/NN where/WRB people/NNS gave/VBD their/PRP$ time/NN ,/,","{C and } [ [ that was, + that was simi-, + that was ] [ some, + some ] program where people gave their time,"
+^2,A,"In/IN trade/NN for/IN ,/,","In trade for,"
++,B,"in/IN trade/NN for/IN ,/,","in trade [ for, +"
++,A,"money/NN ,/,","money,"
++,B,"for/IN money/NN ,/,","<<very faint>> for ] money, /"
+bk,B,okay/UH ./.,okay. /
++,A,"and/CC ,/, and/CC living/NN ./.","[ and, + and ] living. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,They/PRP gave/VBD them/PRP food/NN and/CC uniforms/NNS,They gave them food and uniforms /
+sd,A,"and/CC ,/,","{C and, }"
+x,B,,<Throat_clearing>.
++,A,"uh/UH ,/, here/RB in/IN Colorado/NNP you/PRP 'll/MD find/VB a/DT great/RB many/JJ things/NNS ./.","{F uh, } here in Colorado you'll find a great many things. /"
+sd,A,"Public/JJ roads/NNS that/WDT were/VBD worked/VBN on/RP by/IN the/DT W/NNP P/NNP A/NNP ,/, uh/UH ,/, dams/NNS that/WDT were/VBD built/VBN by/IN the/DT W/NNP P/NNP A/NNP ,/,","Public roads that were worked on by the W P A, {F uh, } dams that were built by the W P A,"
+b,B,uh-huh/UH ./.,<<Very faint>> uh-huh. /
++,A,"uh/UH ,/, scenic/JJ overlooks/NNS ,/, parks/NNS ,/,","{F uh, } scenic overlooks, parks, -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"We/PRP are/VBP road/NN ,/, our/PRP$ road/NN system/NN 's/BES falling/VBG apart/RP ./.","[ We are road, + our road ] system's falling apart. /"
+sv,A,"Our/PRP$ air-/XX ,/, our/PRP$ national/JJ road/NN system/NN ,/, system/NN of/IN highways/NNS ,/,","[ Our air-, + our ] national road [ system, + system ] of highways,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"and/CC roads/NNS ,/, is/VBZ falling/VBG apart/RP ./.","and roads, is falling apart. /"
+sv,B,"Well/UH ,/, then/RB I/PRP guess/VBP there/EX are/VBP a/DT lot/NN of/IN ,/, a/DT lot/NN of/IN things/NNS that/WDT people/NNS could/MD do/VB to/TO contribute/VB to/IN the/DT good/NN of/IN the/DT country/NN ./.","{D Well, } then I guess there are [ a lot of, + a lot of ] things that people could do to contribute to the good of the country. /"
+bf,A,"Ther-/EX ,/, there/EX 's/BES a/DT lot/NN of/IN work/NN to/TO be/VB done/VBN ./.","[ Ther-, + there's ] a lot of work to be done. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP ,/, I/PRP really/RB do/VBP n't/RB see/VB anything/NN wrong/JJ with/IN it/PRP ,/,","[ I, + I ] really don't see anything wrong with it, /"
+sv,B,I/PRP just/RB do/VBP n't/RB think/VB that/IN it/PRP should/MD be/VB mandatory/JJ that/IN every/DT person/NN have/VBP to/TO do/VB that/DT ./.,I just don't think that it should be mandatory that every person have to do that. /
+sd,A,"I/PRP ,/, I/PRP ca/MD n't/RB see/VB the/DT problem/NN in/IN it/PRP for/IN a/DT year/NN ./.","[ I, + I ] can't see the problem in it for a year. /"
+%,A,"Th-/XX ,/,","Th-, -/"
+%,B,"Well/UH ,/,","{D Well, } -/"
+sd,A,"what/WP ,/, what/WP I/PRP 'm/VBP saying/VBG is/VBZ that/IN if/IN it/PRP were/VBD mandatory/JJ ,/,","[ what, + what ] I'm saying is that if it were mandatory,"
+b,B,uh-huh/UH ./.,<<Very faint>> uh-huh. /
++,A,"that/IN every/DT person/NN ,/, right/RB after/IN graduation/NN from/IN high/JJ school/NN ,/,","that every person, right after graduation from high school,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"that/WDT were/VBD able-bodied/JJ ,/,","that were able-bodied,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"would/MD give/VB a/DT year/NN ,/, well/UH ,/, or/CC ,/, not/RB give/VB a/DT year/NN but/CC ,/, but/CC trade/VB a/DT year/NN ,/,","would [ give a year, + {D well, } {E or, } not give a year ] [ but, + but ] trade a year, - /"
+%,A,"then/RB they/PRP ,/,","then they, - /"
+sv,A,"at/IN least/JJS one/CD not/RB more/JJR than/IN say/VBP three/CD or/CC four/CD ,/, then/RB it/PRP would/MD definitely/RB effect/VB unemployment/NN ./.","at least one not more than {D say } three or four, then it would definitely effect unemployment. -/"
+aa,B,"All/RB right/JJ ,/,","All right, /"
+qy^d,B,"I/PRP wonder/VBP if/IN ,/, if/IN they/PRP did/VBD n't/RB make/VB it/PRP mandatory/JJ if/IN they/PRP would/MD actually/RB get/VB enough/JJ people/NNS volunteering/VBG to/TO ,/, to/TO do/VB it/PRP that/IN it/PRP ,/, you/PRP know/VBP ,/, that/IN they/PRP would/MD have/VB enough/RB ./.","I wonder [ if, + if ] they didn't make it mandatory if they would actually get enough people volunteering [ to, + to ] do it [ that it, + {D you know, } that they ] would have enough. /"
+no,A,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+%,B,"I/PRP mean/VBP ,/, I/PRP ,/, I/PRP 'd/MD probably/RB ,/,","{E I mean, } [ I, + I'd ] probably, -/"
+sd,A,"Well/UH ,/, you/PRP know/VBP ,/, Texas/NNP ,/, New/NNP Mexico/NNP ,/, Colorado/NNP ,/, huge/JJ numbers/NNS of/IN other/JJ western/JJ states/NNS ,/, have/VBP no/DT real/JJ welfare/NN system/NN ./.","{D Well, } {D you know, } Texas, New Mexico, Colorado, huge numbers of other western states, have no real welfare system. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"There/EX 's/BES Aid/NNP to/IN Dependent/NNP Children/NNS ,/, and/CC Aid/NNP to/IN Mothers/NNP of/IN Dependent/NNP Children/NNP ,/,","There's Aid to Dependent Children, and Aid to Mothers of Dependent Children, /"
+sd,A,but/CC there/EX 's/BES no/DT real/JJ welfare/NN system/NN ./.,{C but } there's no real welfare system. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"But/CC if/IN we/PRP took/VBD these/DT people/NNS off/IN ,/, off/IN the/DT streets/NNS for/IN a/DT year/NN ,/, there/EX would/MD darn/RB sure/RB be/VB more/JJR hours/NNS labor/NN available/JJ in/IN the/DT nation/NN for/IN everyone/NN else/RB ./.","{C But } if we took these people [ off, + off ] the streets for a year, there would darn sure be more hours labor available in the nation for everyone else. /"
+sv,A,"And/CC who/WP knows/VBZ ,/, maybe/RB some/DT of/IN our/PRP$ graduating/VBG high/JJ school/NN seniors/NNS would/MD find/VB out/RP a/DT little/JJ bit/NN more/JJR of/IN th-/DT ,/, what/WP the/DT traditional/JJ American/JJ work/NN ethic/NN means/VBZ ./.","{C And } who knows, maybe some of our graduating high school seniors would find out a little bit more of [ th-, + ] what the traditional American work ethic means. /"
+sv,A,"You/PRP know/VBP ,/, we/PRP have/VBP had/VBN some/DT problem/NN with/IN that/DT in/NN recent/JJ years/NNS ./.","{D You know, } we have had some problem with that in recent years. /"
+aa,B,"Oh/UH ,/, well/UH ,/, yes/UH ,/,","{F Oh, } {D well, } yes, /"
+sv,B,we/PRP have/VBP ./.,we have. /
+sd,B,"With/IN ,/, with/IN ,/, uh/UH ,/, recent/JJ generations/NNS I/PRP ,/, I/PRP know/VBP exactly/RB what/WP you/PRP are/VBP talking/VBG about/IN ,/,","[ With, + with, ] {F uh, } recent generations [ I, + I ] know exactly what you are talking about, /"
+sd,B,"I/PRP ,/, I/PRP mean/VBP ,/, I/PRP know/VBP several/JJ people/NNS who/WP do/VBP not/RB wish/VB to/TO work/VB ./.","[ I, + {E I mean, } I ] know several people who do not wish to work. /"
+bf,A,"Uh/UH ,/, they/PRP wish/VBP only/RB for/IN the/DT paycheck/NN ./.","{F Uh, } they wish only for the paycheck. /"
+sd,B,"Well/UH ,/, they/PRP wish/VBP for/IN the/DT money/NN","<Laughter> {D Well, } they wish for the money /"
+sv,B,"and/CC they/PRP ,/, they/PRP decide/VBP that/IN they/PRP 're/VBP going/VBG to/TO get/VB the/DT money/NN anyway/RB they/PRP can/MD with/IN ,/, you/PRP know/VBP ,/, without/IN ,/, uh/UH ,/,","{C and } [ they, + they ] decide that they're going to get the money anyway they can [ [ [ with, + {D you know, } without, ] + {F uh, }"
+^2,A,Really/RB producing/VBG ./.,Really producing. /
++,B,"without/IN ,/, without/IN working/VBG in/IN the/DT ,/, the/DT traditional/JJ American/JJ job/NN market/NN ./.","without, ] + without ] working in [ the, + the ] traditional American job market. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+bf,A,be/VB it/PRP selling/VBG drugs/NNS or/CC whatever/WDT ./.,be it selling drugs or whatever. /
+aa,B,Right/UH ./.,Right. /
+sd,B,"So/RB ,/, one/CD other/JJ thing/NN ,/,","(( {C So, } one )) other thing, - /"
+sv,B,"and/CC they/PRP ,/, they/PRP get/VBP the/DT money/NN anyway/RB they/PRP can/MD ./.","{C and } [ they, + they ] get the money anyway they can. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH ./.,yeah. /
+sv,A,"And/CC maybe/RB if/IN we/PRP instilled/VBD the/DT work/NN ethic/NN ,/, you/PRP know/VBP ,/,","{C And } maybe if we instilled the work ethic, {D you know, } - /"
+sd,A,"I/PRP enjoy/VBP the/DT ,/, I/PRP enjoy/VBP working/VBG ./.","[ I enjoy the, + I enjoy ] working. /"
+b,B,Yeah/UH ./.,Yeah. /

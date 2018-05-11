@@ -1,0 +1,116 @@
+act_tag,speaker,pos,text
+sd,A,"Well/UH ,/, we/PRP ,/, in/IN ,/, in/IN ,/, in/IN our/PRP$ family/NN ,/, have/VBP been/VBN pretty/RB remiss/JJ in/IN trying/VBG to/TO ,/, uh/UH ,/, you/PRP know/VBP ,/, keep/VB track/VB of/IN ,/, uh/UH ,/, daily/JJ finances/NNS ./.","{D Well, } we, [ [ in, + in, ] + in ] our family, have been pretty remiss in trying to, {F uh, } {D you know, } keep track of, {F uh, } daily finances. /"
+sd,A,"Uh/UH ,/, the/DT ,/, uh/UH ,/, way/RB back/RB ,/, what/WP ,/, twelve/CD years/NNS ago/RB or/CC something/NN when/WRB I/PRP got/VBD my/PRP$ first/JJ computer/NN ,/, I/PRP did/VBD what/WP everybody/NN else/RB does/VBZ ,/, which/WDT is/VBZ to/TO put/VB the/DT whole/JJ family/NN budget/NN on/IN the/DT machine/NN and/CC put/VB checks/NNS ,/, and/CC ,/, you/PRP know/VBP ,/, checkbooks/NNS and/CC all/PDT this/DT kind/NN of/IN thing/NN","{F Uh, } [ the, + ] {F uh, } way back, what, twelve years ago or something when I got my first computer, I did what everybody else does, which is to put the whole family budget on the machine and put checks, and, {D you know, } checkbooks and all this kind of thing /"
+sd,A,and/CC we/PRP kept/VBD that/DT going/VBG for/IN about/RB a/DT month/NN,{C and } we kept that going for about a month /
+sd,A,and/CC it/PRP became/VBD so/RB onerous/JJ that/IN we/PRP gave/VBD up/RP on/IN it/PRP ./.,{C and } it became so onerous that we gave up on it <laughter>. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ba,B,That/DT sounds/VBZ about/RB right/JJ ./.,That sounds about right <laughter>. /
+sd,A,"You/PRP know/VBP ,/, so/RB ,/, uh/UH ,/, the/DT only/JJ thing/NN we/PRP 're/VBP ,/, you/PRP know/VBP ,/, that/WDT we/PRP do/VBP now/RB is/VBZ ,/, uh/UH ,/, I/PRP keep/VBP a/DT ,/, a/DT little/JJ spread/NN sheet/NN of/IN ,/, uh/UH ,/, what/WP I/PRP call/VBP the/DT net/JJ worth/NN calculation/NN which/WDT is/VBZ just/RB the/DT ,/, the/DT present/JJ value/NN of/IN various/JJ kinds/NNS of/IN investments/NNS and/CC so/RB worth/^RB ./.","{D You know, } {C so, } {F uh, } the only thing [ we're, + {D you know, } that we do ] now is, {F uh, } I keep [ a, + a ] little spread sheet of, {F uh, } what I call the net worth calculation which is just [ the, + the ] present value of various kinds of investments and so worth. /"
+sd,A,"Uh/UH ,/, and/CC I/PRP only/RB update/VBP that/DT ,/, oh/UH I/PRP do/VBP n't/RB know/VB ,/, maybe/RB once/IN every/DT quarter/NN or/CC so/RB ./. Every/DT three/CD months/NNS ./. Just/RB ,/, basically/RB when/WRB the/DT statements/NNS come/VBP in/IN ./.","{F Uh, } {C and } I only update that, {F oh } I don't know, maybe once every quarter or so. Every three months. Just, basically when the statements come in."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"You/PRP know/VBP ./. Just/RB to/TO see/VB whether/IN or/CC not/RB we/PRP 're/VBP falling/VBG ,/, you/PRP know/VBP ,/, getting/VBG ahead/RB ,/, falling/VBG behind/RB or/CC staying/VBG even/RB or/CC what/WP ./.","{D You know. } Just to see whether or not we're [ falling, + {D you know, } getting ] ahead, falling behind or staying even or what. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"Uh/UH ,/, that/WDT 's/BES really/RB about/RB ,/, you/PRP know/VBP ,/, the/DT extent/NN of/IN ,/, uh/UH ,/, of/IN the/DT kind/NN of/IN ,/, uh/UH ,/, financial/JJ score/NN keeping/NN that/WDT we/PRP 're/VBP doing/VBG ./.","{F Uh, } that's really about, {D you know, } the extent [ of, + {F uh, } of ] the kind of, {F uh, } financial score keeping that we're doing. /"
+%,B,Uh/UH ./.,{F Uh } <laughter>. /
+x,A,./.,<Throat_clearing>.
+sd,B,"Well/UH it/PRP 's/BES kind/RB of/RB difficult/JJ for/IN me/PRP ./. Because/IN right/RB now/RB ,/, uh/UH ,/, like/IN most/JJS teachers/NNS ,/, I/PRP 'm/VBP laid/VBN off/RP","{D Well } it's kind of difficult for me. Because right now, {F uh, } like most teachers, I'm laid off /"
+%,B,and/CC --/:,{C and } -- -/
+%,A,Huh/UH ./.,{F Huh. } /
+"fo_o_fw_""_by_bc",A,"Oh/UH dear/UH ,/, that/DT 's/BES terrible/JJ ./.","Oh dear, that's terrible. /"
+sd,B,"--/: so/RB ,/, um/UH ,/, I/PRP spend/VBP most/JJS ,/, you/PRP know/VBP ,/,","-- <Laughter> {C so, } {F um, } I spend most, {D you know, } - /"
+sd,B,I/PRP substitute/VBP a/DT lot/NN ./.,I substitute a lot. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"So/RB it/PRP 's/BES a/DT lot/NN ,/, it/PRP 's/BES very/RB hard/JJ on/IN a/DT nonfixed/JJ income/NN because/IN I/PRP do/VBP n't/RB know/VB how/WRB many/JJ days/NNS I/PRP 'm/VBP going/VBG to/TO be/VB called/VBN in/RB and/CC whether/IN I/PRP am/VBP or/CC not/RB ,/, to/TO try/VB to/TO keep/VB track/NN of/IN finances/NNS ./.","{C So } [ it's a lot, + it's very hard ] on a nonfixed income because I don't know how many days I'm going to be called in and whether I am or not, to try to keep track of finances. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, but/CC I/PRP know/VBP how/WRB much/JJ I/PRP have/VBP to/TO bring/VB in/RB a/DT month/NN ./.","[ {C And, } + {C but } ] I know how much I have to bring in a month <laughter>. /"
+sd,B,And/CC that/DT 's/BES about/RB it/PRP ./.,{C And } that's about it. /
+sd,B,That/DT 's/BES about/RB as/RB far/RB as/IN we/PRP go/VBP ./.,That's about as far as we go. /
+sd,B,"And/CC then/RB anything/NN extra/JJ is/VBZ ,/, you/PRP know/VBP ,/, more/RBR or/CC less/RBR split/VBN up/RP between/IN all/DT of/IN us/PRP ./.","{C And then } anything extra is, {D you know, } more or less split up between all of us."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"And/CC just/RB thrown/VBN in/IN the/DT kitty/NN ,/, more/RBR or/CC less/RBR ,/, for/IN a/DT rainy/JJ day/NN ./.","And just thrown in the kitty, more or less, for a rainy day <laughter>. /"
+b,A,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+qy,A,"Are/VBP you/PRP ,/, are/VBP you/PRP married/JJ ?/.","[ Are you, + are you ] married? /"
+qy,A,"Are/VBP you/PRP living/VBG with/IN a/DT bunch/NN of/IN ,/, with/IN ,/, with/IN people/NNS that/WDT you/PRP 're/VBP sharing/VBG expenses/NNS ?/.","Are you living [ [ with a bunch of, + with, ] + with ] people that you're sharing expenses? /"
+nn,B,"Uh/UH ,/, no/UH ./.","{F Uh, } no. /"
+sd,B,I/PRP 'm/VBP a/DT single/JJ mother/NN ./.,I'm a single mother. /
+sd,B,I/PRP have/VBP three/CD children/NNS ./.,I have three children. /
+b,A,"Oh/UH ,/, I/PRP see/VBP ,/,","{F Oh, } I see, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,"So/UH ,/, uh/UH ,/, right/RB now/RB ,/, we/PRP 're/VBP on/IN ,/, we/PRP get/VBP f-/XX ,/, you/PRP know/VBP ,/, aid/NN from/IN the/DT state/NN at/IN this/DT point/NN because/IN there/EX 's/BES no/DT other/JJ way/NN to/TO do/VB it/PRP ./.","{C So, } {F uh, } right now, [ we're on, + we get ] [ f-, + {D you know, } aid from ] the state at this point because there's no other way to do it. /"
+sd,B,And/CC my/PRP$ ex-husband/NN just/RB sort/RB of/RB took/VBD off/RP and/CC does/VBZ n't/RB pay/VB child/NN support/NN ./.,{C And } my ex-husband just sort of took off and doesn't pay child support <laughter>. /
+ba,A,Oh/UH dear/UH ./.,Oh dear. /
+sd,B,So/RB right/RB now/RB I/PRP know/VBP what/WP I/PRP 'm/VBP getting/VBG from/IN the/DT state/NN,{C So } right now I know what I'm getting from the state /
+sd,B,"and/CC ,/, uh/UH ,/, I/PRP have/VBP to/TO balance/VB ,/, more/RBR or/CC less/RBR ,/, what/WP I/PRP get/VBP from/IN the/DT state/NN with/IN my/PRP$ bills/NNS and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, try/VB to/TO work/VB as/IN many/JJ days/NNS as/IN possible/JJ ./.","{C and, } {F uh, } I have to balance, more or less, what I get from the state with my bills and, {F uh, } {D you know, } try to work as many days as possible."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,Any/DT time/NN they/PRP call/VBP me/PRP in/RB ./.,Any time they call me in. /
+sd,B,But/CC I/PRP still/RB have/VBP to/TO figure/VB out/RP ./.,{C But } I still have to figure out. /
+sd,B,"If/IN I/PRP work/VBP too/RB many/JJ days/NNS ,/, then/RB I/PRP lose/VBP all/DT my/PRP$ state/NN aid/NN","If I work too many days, then I lose all my state aid /"
+sd,B,and/CC if/IN I/PRP do/VBP n't/RB work/VB enough/JJ days/NNS then/RB I/PRP do/VBP n't/RB get/VB enough/RB to/TO meet/VB the/DT bills/NNS,{C and } <laughter> if I don't work enough days then I don't get enough to meet the bills /
+sd,B,and/CC it/PRP 's/BES like/IN a/DT juggling/NN act/NN every/DT single/JJ month/NN ./.,{C and } it's like a juggling act every single month. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,Like/IN this/DT week/NN I/PRP 've/VBP been/VBN just/RB holding/VBG my/PRP$ breath/NN and/CC hoping/VBG they/PRP 'll/MD call/VB me/PRP in/RB,{D Like } this week I've been just holding my breath and hoping they'll call me in /
+sd,B,but/CC they/PRP probably/RB wo/MD n't/RB because/IN next/JJ week/NN the/DT kids/NNS have/VBP school/NN vacation/NN ./.,{C but } they probably won't because next week the kids have school vacation. /
+b,A,I/PRP see/VBP ./.,I see. /
+sd,B,"So/RB ,/, you/PRP know/VBP ,/, the/DT four/CD days/NNS before/IN ,/, they/PRP only/RB have/VBP a/DT four/CD day/NN week/NN --/:","{C So, } {D you know, } the four days before, they only have a four day week -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: and/CC they/PRP usually/RB do/VBP n't/RB need/VB subs/NNS because/IN everybody/NN 's/BES pretty/RB good/JJ about/IN coming/VBG in/RB ./.,-- {C and } they usually don't need subs because everybody's pretty good about coming in <laughter>. /
+b,A,"A-/XX ,/, oh/UH ,/, I/PRP see/VBP ./.","{F A-, } {F oh, } I see. /"
+sv,B,They/PRP do/VBP n't/RB like/VB to/TO be/VB absent/JJ before/IN a/DT vacation/NN ./.,They don't like to be absent before a vacation. /
+b,A,"Oh/UH ,/, sure/UH ./.","{F Oh, } sure. /"
+sd,B,"But/CC we/PRP 're/VBP shopping/VBG around/RB as/RB far/RB as/IN ,/, well/UH I/PRP 'm/VBP shopping/VBG around/RB as/RB far/RB as/IN trying/VBG to/TO get/VB ,/, uh/UH ,/, that/WDT 's/BES why/WRB I/PRP 'm/VBP doing/VBG this/DT ,/, to/TO get/VB some/DT extra/JJ money/NN ./.","{C But } [ we're shopping around as far as, + {D well } I'm shopping around as far as ] trying [ to get, + {F uh, } {A that's why I'm doing this, } to get ] some extra money."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"And/CC ,/, uh/UH ,/, getting/VBG pledge/NN sheets/NNS for/IN the/DT Boy/NNP Scouts/NNPS ./.","And, {F uh, } getting pledge sheets for the Boy Scouts. /"
+sd,B,My/PRP$ kids/NNS are/VBP in/IN Boy/NNP Scouts/NNPS,My kids are in Boy Scouts /
+sd,B,so/RB trying/VBG to/TO get/VB pledge/NN sheets/NNS for/IN the/DT Boy/NNP Scouts/NNPS,{C so } trying to get pledge sheets for the Boy Scouts /
+sd,B,because/IN every/DT penny/NN I/PRP bring/VBP in/RB is/VBZ ten/CD percent/NN to/IN me/PRP ./.,{C because } every penny I bring in is ten percent to me. /
+sd,B,So/RB it/PRP 's/BES sort/RB of/RB helps/VBZ defray/VB the/DT costs/NNS a/DT little/JJ bit/NN ./.,{C So } <laughter> it's sort of helps defray the costs a little bit. /
+sd,B,"But/CC ,/, you/PRP know/VBP ,/, we/PRP do/VBP a/DT lot/NN of/IN robbing/VBG Peter/NNP to/TO pay/VB Paul/NNP ./.","{C But, } {D you know, } we do a lot of robbing Peter to pay Paul. /"
+sv,B,"I/PRP guess/VBP we/PRP 're/VBP in/IN the/DT situation/NN that/WDT a/DT lot/NN of/IN am-/NNPS ,/, middle-class/JJ Americans/NNPS are/VBP in/IN ./.","I guess we're in the situation that a lot of [ am-, + middle-class Americans ] are in. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"you/PRP 're/VBP the/DT first/JJ ,/, you/PRP know/VBP ,/, uh/UH ,/,","you're the first, {D you know, } {F uh, } - /"
+sd,A,my/PRP$ next/JJ door/NN neighbor/NN just/RB lost/VBD his/PRP$ job/NN ./.,my next door neighbor just lost his job.
+ba,B,"Oh/UH ,/, my/PRP$ Lord/NNP ./.","{F Oh, } my Lord. /"
++,A,"In/IN a/DT ,/, you/PRP know/VBP ,/, one/CD of/IN these/DT ,/, uh/UH ,/,","In [ a, + {D you know, } one of these, ] {F uh, } - /"
+sd,A,"his/PRP$ company/NN went/VBD broke/JJ ./. I/PRP mean/VBP went/VBD ,/, you/PRP know/VBP ,/, bankrupt/JJ ./.","his company [ went broke. + {E I mean } went, {D you know, } bankrupt. ] /"
+sd,A,"Actually/RB ,/, it/PRP was/VBD a/DT subsidiary/NN of/IN a/DT ,/, of/IN an/DT outfit/NN called/VBN U/NNP S/NNP Shoe/NNP or/CC something/NN ./.","{D Actually, } it was a subsidiary [ of a, + of an ] outfit called U S Shoe or something. /"
+sd,A,"I-/PRP ,/, i-/PRP ,/, it/PRP was/VBD a/DT computer/NN subsidiary/NN ./.","[ [ I-, + i-, ] + it ] was a computer subsidiary. /"
+sd,A,I/PRP do/VBP n't/RB know/VB what/WP a/DT shoe/NN company/NN 's/BES doing/VBG running/VBG a/DT computer/NN company/NN ./.,I don't know what a shoe company's doing running a computer company. /
+b,B,Really/UH ./.,Really. /
+sd,A,"But/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, they/PRP just/RB folded/VBD it/PRP up/RP and/CC ,/, uh/UH ,/, uh/UH ,/, told/VBD him/PRP to/TO ,/,","{C But, } {F uh, } {D you know, } they just <noise> folded it up and, {F uh, } {F uh, } told him to, - /"
+sd,A,they/PRP took/VBD the/DT top/JJ management/NN and/CC gave/VBD them/PRP jobs/NNS --/:,they took the top management and gave them jobs --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: with/IN the/DT ,/, with/IN the/DT corporate/JJ ,/, uh/UH ,/, at/IN the/DT corporate/JJ front/JJ office/NN","-- [ [ with the, + with the ] corporate, + {F uh, } at the corporate ] front office /"
+sd,A,and/CC everybody/NN else/RB was/VBD sent/VBN packing/VBG ./.,{C and } everybody else was sent packing. /
+b,B,Oh/UH ./.,Oh <snorting>. /
+ad,A,"Uh/UH ,/, hang/VB on/RP one/CD second/NN","<Noise> {F Uh, } hang on one second /"
+sd,A,I/PRP 've/VBP got/VBN --/:,I've got -- -/
+aa,B,Sure/UH ./.,Sure. /
+sd,A,"--/: uh/UH ,/, MUMBLEx/XX somebody/NN was/VBD knocking/VBG on/IN my/PRP$ door/NN here/RB ./.","-- {F uh, } (( )) somebody was knocking on my door here. /"
+sv,A,"Uh/UH ,/, it/PRP sounds/VBZ like/IN ,/, in/IN a/DT certain/JJ sense/NN ,/, at/IN least/JJS at/IN the/DT present/JJ ,/,","{F Uh, } it sounds like, in a certain sense, at least at the present, - /"
+h,A,"I/PRP mean/VBP ,/, it/PRP sounds/VBZ ,/, sounds/VBZ terrible/JJ to/TO say/VB ,/,","{E I mean, } it [ sounds, + sounds ] terrible to say, /"
+sv,A,"but/CC at/IN the/DT present/JJ stage/NN ,/, you/PRP probably/RB are/VBP even/RB more/JJR in/IN the/DT market/NN for/IN a/DT ,/, a/DT budgetary/JJ thing/NN than/IN ,/, than/IN most/JJS people/NNS probably/RB ar/VBP ,/, might/MD be/VB ./.","{C but } at the present stage, you probably are even more in the market for [ a, + a ] budgetary thing [ than, + than ] most people probably [ ar-, + might ] be."
+b,B,Right/UH ./.,Right. /
++,A,"In/IN terms/NNS of/IN keeping/VBG ,/, keeping/VBG score/NN of/IN input/NN and/CC output/NN ./.","In terms of [ keeping, + keeping ] score of input and output. /"
+aa,B,Uh-huh/UH ./.,Uh-huh. /
+aa,B,Definitely/UH ./.,Definitely. /
+qy,A,"Do/VBP you/PRP have/VB ,/, do/VBP you/PRP have/VB a/DT computer/NN at/IN home/NN","[ Do you have, + do you have ] a computer at home /"
+%,A,"or/CC ,/,","{C or, } -/"
+ny,B,"Uh/UH ,/, yes/UH","{F Uh, } yes /"
+sd,B,we/PRP do/VBP ./.,we do. /
+sd,B,And/CC we/PRP try/VBP --/:,{C And } we try --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: to/TO ,/,","-- to, - /"
+sd,B,"you/PRP know/VBP ,/, I/PRP keep/VBP track/NN of/IN every/DT penny/NN ./.","{D you know, } I keep track of every penny."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"And/CC ,/, more/RBR or/CC less/RBR ,/, enter/VBP it/PRP in/RB ./.","And, more or less, enter it in. /"
+sd,B,Every/DT single/JJ day/NN I/PRP 'm/VBP at/IN the/DT computer/NN ./.,Every single day I'm at the computer. /
+b,A,I/PRP see/VBP ./.,I see. /
+sd,B,"And/CC ,/, it/PRP 's/BES like/IN ,/, okay/UH ,/, what/WP do/VBP we/PRP have/VB left/VBN ,/,","{C And, } it's like, {D okay, } what do we have left,"
+x,A,./.,<Cough>.
++,B,"what/WP do/VBP we/PRP have/VB to/TO pay/VB ,/, what/WDT --/:","what do we have to pay, what --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: have/VBP we/PRP paid/VBN this/DT month/NN ./. What/WDT has/VBZ n't/RB come/VB in/RB yet/RB ,/, you/PRP know/VBP ./.","-- have we paid this month. What hasn't come in yet, {D you know } <laughter>. /"
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"Have/VBP you/PRP ,/, do/VBP you/PRP use/VB a/DT standard/NN ,/, uh/UH ,/, a/DT standard/JJ spread/NN sheet/NN","[ Have you, + do you ] use [ a standard, + {F uh, } a standard ] spread sheet /"
+%,A,"or/CC I/PRP mean/VBP ,/,","{C or } {E I mean, } -/"

@@ -1,0 +1,71 @@
+act_tag,speaker,pos,text
+fp,A,"Afternoon/UH ,/, Doug/NNP ,/,","Afternoon, Doug, /"
+fp,A,"it/PRP certainly/RB is/VBZ ,/, uh/UH ,/, going/VBG to/TO be/VB a/DT pleasure/NN to/TO chat/VB with/IN you/PRP ./.","it certainly is, {F uh, } going to be a pleasure to chat with you. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC I/PRP 'm/VBP ,/, uh/UH ,/, certainly/RB was/VBD surprised/JJ to/TO ,/, uh/UH ,/, to/TO hear/VB from/IN you/PRP ./.","<Laughter> {C And } I'm, {F uh, } certainly was surprised [ to, + {F uh, } to ] hear from you. /"
+sd,A,"Normally/RB I/PRP talk/VBP to/TO people/NNS in/IN Plano/NNP ,/, Texas/NNP ./.","Normally I talk to people in Plano, Texas. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,me/PRP too/RB ./.,me too. /
+qw,A,How/WRB did/VBD you/PRP get/VB on/IN this/DT list/NN ?/.,How did you get on this list? /
+sd,B,"Uh/UH ,/, through/IN Nancy/NNP Dahlgren/NNP ./.","{F Uh, } through Nancy Dahlgren. /"
+sd,B,"She/PRP ,/, um/UH ,/, she/PRP had/VBD somehow/RB gotten/VBN the/DT information/NN from/IN T/NNP I/NNP --/:","[ She, + {F um, } she ] had somehow gotten the information from T I --"
+bk,A,"Well/UH ,/, okay/UH ./.","{D Well, } okay. /"
++,B,--/: and/CC was/VBD distributing/VBG it/PRP around/RB ./.,-- and was distributing it around. /
+b,A,All/RB right/JJ ./.,All right. /
+qw,A,"Well/UH ,/, now/UH ,/, what/WP would/MD you/PRP say/VB about/IN these/DT everyday/JJ invasions/NNS of/IN our/PRP$ privacy/NN ?/.","{D Well, } {D now, } what would you say about these everyday invasions of our privacy? /"
+qo,A,"What/WDT ideas/NNS do/VBP you/PRP have/VB on/IN that/DT ,/, Doug/NNP ?/.","What ideas do you have on that, Doug? /"
+%,B,"Um/UH ,/, see/UH ,/, I/PRP 'm/VBP not/RB sure/JJ that/IN ,/,","{F Um, } {D see, } I'm not sure that, - /"
+sd,B,"I/PRP do/VBP n't/RB think/VB they/PRP 're/VBP necessarily/RB widespread/JJ in/IN this/DT country/NN ,/,","I don't think they're necessarily widespread in this country, /"
+sv,B,"but/CC I/PRP think/VBP that/IN the/DT opportunity/NN is/VBZ definitely/RB there/RB for/IN ,/, um/UH ,/, people/NNS to/TO invade/VB your/PRP$ privacy/NN when/WRB they/PRP want/VBP to/TO ,/,","{C but } I think that the opportunity is definitely there for, {F um, } people to invade your privacy when they want to, /"
+%,B,"I/PRP think/VBP it/PRP 's/BES ,/, um/UH ,/,","I think it's, {F um, } -/"
+qw,A,In/IN what/WP manner/NN ?/.,In what manner? /
+sd,B,"Well/UH ,/, it/PRP 's/BES certainly/RB not/RB that/RB difficult/JJ to/TO tap/VB a/DT phone/NN ./.","{D Well, } it's certainly not that difficult to tap a phone. /"
+sv,B,"It/PRP 's/BES completely/RB trivial/JJ to/TO ,/, for/IN instance/NN ,/, listen/VB in/IN on/IN someone/NN 's/POS car/NN phone/NN or/CC walk/VB around/RB phone/NN ,/, since/IN they/PRP 're/VBP just/RB radio/NN signals/NNS ./.","It's completely trivial to, for instance, listen in on someone's car phone or walk around phone, since they're just radio signals. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"It/PRP 's/BES ,/, um/UH ,/,","It's, {F um, } - /"
+^h,B,"and/CC let/VB 's/PRP see/VB ,/,","{C and } let's see, /"
+qo,B,"well/UH ,/, what/WP 's/BES the/DT first/JJ thing/NN that/WDT comes/VBZ to/IN your/PRP$ mind/NN ?/.","{D well, } what's the first thing that comes to your mind? /"
+sv,A,"Well/UH ,/, the/DT thing/NN that/WDT I/PRP thought/VBD they/PRP were/VBD ,/, uh/UH ,/, concerned/JJ about/IN was/VBD ,/, was/VBD people/NNS calling/VBG on/IN the/DT phone/NN from/IN all/RB over/IN the/DT country/NN to/TO sell/VB you/PRP something/NN --/:","{D Well, } the thing that I thought they were, {F uh, } concerned about [ was, + was ] people calling on the phone from all over the country to sell you something -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC in/IN reality/NN in/IN many/JJ cases/NNS ,/, they/PRP knew/VBD ,/, or/CC they/PRP had/VBD information/NN about/IN you/PRP that/WDT was/VBD purchased/VBN from/IN some/DT other/JJ organizations/NNS ./.","-- {C and } in reality in many cases, they knew, or they had information about you that was purchased from some other organizations. /"
+sd,A,"And/CC I/PRP thought/VBD was/VBD ,/, uh/UH ,/, beginning/VBG to/TO invade/VB the/DT privacy/NN of/IN people/NNS ,/, because/IN the/DT things/NNS about/IN where/WRB you/PRP live/VBP and/CC ,/, and/CC maybe/RB what/WP you/PRP purchased/VBD in/IN past/JJ months/NNS is/VBZ then/RB put/VBN down/RB and/CC sent/VBN to/IN someone/NN else/RB in/IN the/DT same/JJ business/NN ,/,","{C And } I thought was, {F uh, } beginning to invade the privacy of people, because the things about where you live [ and, + and ] maybe what you purchased in past months is then put down and sent to someone else in the same business, /"
+sd,A,"and/CC they/PRP in/IN return/NN ,/, come/VBP back/RB and/CC try/VBP to/TO sell/VB you/PRP something/NN with/IN this/DT additional/JJ knowledge/NN ./.","{C and } they in return, come back and try to sell you something with this additional knowledge. /"
+sv,A,To/IN me/PRP that/DT 's/BES an/DT invasion/NN of/IN privacy/NN ./.,To me that's an invasion of privacy. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"I/PRP agree/VBP with/IN you/PRP there/RB ,/, for/IN sure/JJ ./.","I agree with you there, for sure. /"
+sv,B,"Um/UH ,/, and/CC I/PRP think/VBP that/IN all/PDT that/DT information/NN is/VBZ quite/RB easy/JJ for/IN anyone/NN to/TO get/VB ./.","{F Um, } {C and } I think that all that information is quite easy for anyone to get. /"
+sd,B,"It/PRP 's/BES possible/JJ for/IN almost/JJ anyone/NN to/TO get/VB information/NN about/IN your/PRP$ credit/NN history/NN ,/, for/IN instance/NN ,/, if/IN they/PRP just/RB ,/, um/UH ,/, twist/VBP the/DT right/JJ arm/NN or/CC claim/VBP to/TO be/VB from/IN the/DT right/JJ organization/NN when/WRB they/PRP 're/VBP calling/VBG the/DT credit/NN company/NN ./.","It's possible for almost anyone to get information about your credit history, for instance, if they just, {F um, } twist the right arm or claim to be from the right organization when they're calling the credit company. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"It/PRP 's/BES ,/, you/PRP know/VBP ,/, possible/JJ for/IN a/DT thirteen/CD year/NN old/JJ hacker/NN with/IN a/DT modem/NN to/TO find/VB out/RP almost/JJ anything/NN about/IN your/PRP$ personal/JJ history/NN ,/, not/RB to/TO mention/VB ,/, change/VB it/PRP if/IN he/PRP wants/VBZ to/TO ./.","It's, {D you know, } possible for a thirteen year old hacker with a modem to find out almost anything about your personal history, not to mention, change it if he wants to. /"
+br,A,"You/PRP mean/VBP your/PRP$ history/NN in/IN regards/VBZ to/IN ,/, uh/UH --/:","You mean your history in regards to, {F uh } --"
+%,B,"Well/UH ,/, um/UH ./.","{D Well, } {F um. } -/"
++,A,--/: the/DT charge/NN card/NN company/NN or/CC something/NN like/IN that/DT ?/.,-- the charge card company or something like that? /
+ny,B,"Well/UH ,/, yes/UH ,/,","{D Well, } yes, /"
+ny,B,"well/UH ,/, for/IN instance/NN ,/, yes/UH ,/, um/UH ,/,","{D well, } for instance, yes, {F um, } /"
+sd,B,"and/CC they/PRP 'll/MD probably/RB goes/VBZ into/IN other/JJ things/NNS ,/, like/IN ,/, you/PRP know/VBP ,/, your/PRP$ records/NNS with/IN the/DT government/NN or/CC utility/NN companies/NNS or/CC anything/NN ./.","{C and } they'll probably goes into other things, like, {D you know, } your records with the government or utility companies or anything. /"
+qy,A,"Do/VBP you/PRP consider/VB these/DT serious/JJ ,/, uh/UH ,/, problems/NNS ?/.","Do you consider these serious, {F uh, } problems? /"
+ng,B,"Um/UH ,/, uh/UH ,/, not/RB ,/, not/RB yet/RB anyways/UH ,/, because/IN I/PRP do/VBP n't/RB think/VB they/PRP 're/VBP widespread/JJ enough/RB ,/,","{F Um, } {F uh, } [ not, + not ] yet anyways, because I don't think they're widespread enough, /"
+sv,B,but/CC I/PRP think/VBP they/PRP have/VBP the/DT potential/NN of/IN becoming/VBG serious/JJ problems/NNS ./.,{C but } I think they have the potential of becoming serious problems. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qw,A,"Well/UH ,/, what/WP should/MD we/PRP do/VB about/IN it/PRP ,/,","{D Well, } what should we do about it, /"
+qrr,A,"or/CC what/WP could/MD be/VB done/VBN about/IN it/PRP ,/, do/VBP you/PRP think/VB --/:","{C or } what could be done about it, do you think --"
+sv,B,Um/UH --/:,{F Um } --
++,A,--/: to/TO correct/VB it/PRP ?/.,-- to correct it? /
++,B,"--/: I/PRP 'm/VBP not/RB really/RB sure/JJ ,/, because/IN the/DT ,/, I/PRP mean/VBP society/NN is/VBZ going/VBG more/JJR and/CC more/JJR electronic/JJ ,/,","-- I'm not really sure, because the, {E I mean } society is going more and more electronic, /"
+sv,B,"and/CC there/EX are/VBP certainly/RB benefits/NNS to/IN its/PRP$ doing/VBG so/RB ,/,","{C and } there are certainly benefits to its doing so, /"
+sd,B,"and/CC it/PRP 's/BES hard/JJ to/TO ,/, hard/JJ to/TO say/VB whether/IN the/DT ,/, um/UH ,/, risks/NNS have/VBP potential/NN of/IN outweighing/VBG the/DT benefits/NNS or/CC not/RB ,/,","{C and } it's [ hard to, + hard to ] say whether the, {F um, } risks have potential of outweighing the benefits or not, /"
+sd,B,and/CC I/PRP 'm/VBP not/RB sure/JJ what/WP can/MD be/VB done/VBN to/TO ensure/VB that/IN they/PRP do/VBP n't/RB ./.,{C and } I'm not sure what can be done to ensure that they don't. /
+qw,B,"MUMBLEx/XX Why/WRB ,/,","(( )) Why, /"
+qy,B,do/VBP you/PRP see/VB any/DT out/NN for/IN us/PRP ?/.,do you see any out for us? /
+na,A,"Well/UH ,/, I/PRP would/MD think/VB that/IN ,/, uh/UH ,/, information/NN held/VBD on/IN records/NNS ,/, uh/UH ,/, by/IN any/DT company/NN or/CC charge/NN card/NN dealer/NN or/CC person/NN should/MD be/VB absolutely/RB private/JJ and/CC ,/, and/CC not/RB be/VB allowed/VBN to/TO be/VB ,/, uh/UH ,/, to/TO ,/, given/VBN out/RP by/IN those/DT companies/NNS ./.","{D Well, } I would think that, {F uh, } information held on records, {F uh, } by any company or charge card dealer or person should be absolutely private [ and, + and ] not be allowed to be, {F uh, } [ to, + ] given out by those companies. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP mean/VBP ,/, it/PRP should/MD be/VB made/VBN a/DT ,/, a/DT ,/, uh/UH ,/, national/JJ or/CC a/DT state/NN law/NN to/TO protect/VB people/NNS so/IN that/IN ,/, uh/UH ,/, you/PRP would/MD then/RB feel/VB more/RBR free/JJ to/TO deal/VB direct/JJ with/IN these/DT companies/NNS ./.","{E I mean, } it should be made [ a, + a, ] {F uh, } national or a state law to protect people so that, {F uh, } you would then feel more free to deal direct with these companies. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"In/IN other/JJ words/NNS ,/, if/IN you/PRP call/VBP the/DT company/NN yourself/PRP ,/, directly/RB ,/, uh/UH ,/, and/CC then/RB know/VB that/IN what/WP you/PRP tell/VBP them/PRP will/MD be/VB on/IN their/PRP$ records/NNS but/CC will/MD not/RB be/VB available/JJ to/IN anyone/NN else/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, from/IN the/DT outside/NN ,/, so/RB to/TO speak/VB --/:","In other words, if you call the company yourself, directly, {F uh, } and then know that what you tell them will be on their records but will not be available to anyone else, {F uh, } {D you know, } from the outside, so to speak --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: then/RB you/PRP would/MD ,/, you/PRP would/MD feel/VB more/RBR free/JJ to/TO ,/, uh/UH ,/, to/TO go/VB into/IN detail/NN with/IN them/PRP --/:","-- then [ you would, + you would ] feel more free [ to, + {F uh, } to ] go into detail with them -- /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,I/PRP ./.,I. -/
+sd,A,"--/: but/CC ,/, but/CC we/PRP have/VBP no/DT control/NN of/IN that/DT now/RB --/:","-- [ {C but, } + {C but } ] we have no control of that now -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: and/CC then/RB ,/, uh/UH ,/, you/PRP ,/, you/PRP 're/VBP ,/, when/WRB you/PRP 're/VBP talking/VBG with/IN them/PRP you/PRP really/RB do/VBP n't/RB want/VB to/TO tell/VB them/PRP everything/NN that/WDT 's/BES on/IN your/PRP$ mind/NN because/IN you/PRP ,/, you/PRP feel/VBP that/IN it/PRP someday/RB might/MD be/VB used/VBN against/IN you/PRP ./.","-- {C and then, } {F uh, } [ [ you, + you're, ] + when you're ] talking with them you really don't want to tell them everything that's on your mind because [ you, + you ] feel that it someday might be used against you. /"

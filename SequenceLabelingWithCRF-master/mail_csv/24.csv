@@ -1,0 +1,105 @@
+speaker,pos
+David,I/PRP have/VBP heard/VBN that/IN if/IN you/PRP create/VBP a/DT page/NN with/IN alt/NN tags/NNS and/CC bring/VB it/PRP into/IN word/NN to/TO edit/VB it/PRP and/CC then/RB export/VB it/PRP back/RB to/TO html/VB that/IN the/DT alts/NNS are/VBP stripped/VBN ?/.
+David,can/MD anyone/NN confirm/NN or/CC deny/VB this/DT ?/.
+David,Thanks/NNS !/.
+David,
+David,Hands-On/NN
+David,Touching/VBG The/DT Internet/NNP
+David,
+David,
+David,email:/NN
+David,voice/NN
+David,Dynamic/NNP Solutions/NNP Inc/NNP ./.
+David,Best/NNP of/IN Service/NNP for/IN your/PRP$ small/JJ business/NN network/NN needs/NNS
+David,
+Chris,
+Chris,
+Chris,
+Chris,I/PRP am/VBP guessing/VBG you/PRP mean/VBP the/DT ALT=/NNP attribute/NN on/IN the/DT tag/NN ?/.
+Chris,no/DT
+Chris,"that/DT is/VBZ about/IN what/WP I/PRP would/MD expect/VB to/TO happen/VB ,/, with/IN Word/NNP or/CC any/DT other/JJ wordprocessor/NN ./."
+Chris,I/PRP could/MD test/VB this/DT on/IN my/PRP$ system/NN if/IN you/PRP can/MD confirm/VB the/DT scenario:/NN
+Chris,"-/: Start/NN with/IN an/DT HTML/NNP document/NN ,/, created/VBN by/IN any/DT means/NNS ./."
+Chris,-/: The/DT doc/NN contains/VBZ an/DT with/IN the/DT ALT=/NNP attribute/NN ./.
+Chris,-/: The/DT HTML/NNP doc/NN is/VBZ opened/VBN in/IN Word/NNP and/CC some/DT text/NN on/IN the/DT page/NN is/VBZ changed/VBN or/CC added/VBN ./.
+Chris,"-/: The/DT page/NN is/VBZ as/IN from/IN Word/NNP ,/, without/IN first/JJ saving/VBG it/PRP in/IN Word/NNP format/NN ./."
+Chris,PS:/NNP would/MD you/PRP use/VB Word/NNP to/TO edit/VB an/DT HTML/NN
+Chris,
+Jamie,Many/JJ people/NNS required/VBN to/TO edit/VB and/CC create/VB web/JJ pages/NNS sites/NNS are/VBP not/RB web/JJ professionals/NNS and/CC the/DT only/JJ tool/NN available/JJ to/TO them/PRP is/VBZ Word/NNP ./.
+Jamie,I/PRP daresay/VBP that/IN most/JJS people/NNS do/VBP not/RB know/VB HTML/NNP and/CC are/VBP not/RB going/VBG to/TO learn/VB it/PRP so/RB that/IN they/PRP can/MD make/VB an/DT accessible/JJ page/NN through/IN a/DT text/NN editor/NN ./.
+Jamie,This/DT is/VBZ especially/RB true/JJ if/IN the/DT only/JJ editing/NN required/VBN of/IN them/PRP is/VBZ small/JJ such/JJ as/IN changing/VBG the/DT grammar/NN on/IN a/DT web/JJ page/NN or/CC correcting/VBG spelling/NN of/IN a/DT word/NN ./.
+Jamie,This/DT is/VBZ exactly/RB why/WRB the/DT authoring/NN tools/NNS aspect/NN of/IN the/DT WAI/NNP is/VBZ so/RB important/JJ ./.
+Jamie,-Jamie/NN Fox/NNP
+Jamie,
+Jamie,
+Jamie,
+Alan,
+Alan,"MS-Word/NNP has/VBZ elegant/JJ text-editing/JJ commands/NNS that/WDT are/VBP absent/JJ from/IN a/DT basic/JJ text/NN editor/NN ,/, and/CC that/IN make/VBP editing/VBG documents/NNS a/DT pleasure/NN ./."
+Alan,"For/IN example/NN ,/, you/PRP can/MD quickly/RB move/VB entire/JJ lines/NNS or/CC paragraphs/NN without/IN using/VBG the/DT clipboard/NN ;/:"
+Alan,"select/NN words/NNS ,/, sentences/NNS ,/, and/CC paragraphs/NN by/IN pressing/VBG a/DT single/JJ key/NN ;/:"
+Alan,and/CC undo/JJ and/CC redo/JJ 100/CD levels/NNS ./.
+Alan,All/DT of/IN the/DT above/NN can/MD be/VB done/VBN using/VBG keyboard/NN and/CC techniques/NNS ./.
+Alan,So/RB there/EX is/VBZ a/DT lot/NN of/IN versatility/NN ./.
+Alan,"Unfortunately/RB ,/, many/JJ of/IN the/DT really/RB powerful/JJ Word/NNP commands/NNS are/VBP extremely/RB poorly/RB documented/VBN ./."
+Alan,"Furthermore/RB ,/, savvy/JJ Word/NNP users/NNS can/MD create/VB special-purpose/JJ editing/VBG commands/NNS in/IN Visual/NNP Basic/NNP to/TO enhance/VB the/DT usefulness/NN of/IN the/DT word/NN processor/NN as/IN a/DT text/NN editor/NN ./."
+Alan,Why/WRB use/NN Word/NNP ?/.
+Alan,Because/IN it/PRP is/VBZ a/DT good/JJ tool/NN for/IN the/DT job/NN ./.
+Alan,Alan/NNP
+Charles,I/PRP think/VBP that/DT is/VBZ exactly/RB what/WP needs/VBZ to/TO be/VB tested/VBN ./.
+Charles,Cheers/NNS
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Kynn,
+Kynn,
+Kynn,"BTW/NNP ,/, Hot/NNP Metal/NNP Pro/NNP ,/, a/DT web/NN editor/NN tool/NN that/WDT does/VBZ pretty/RB good/JJ on/IN accessibility/NN and/CC valid/JJ HTML/NNP ,/, has/VBZ the/DT ability/NN to/TO import/VB Word/NNP files/NNS ./."
+Kynn,"My/PRP$ wife/NN uses/VBZ that/IN regularly/RB to/TO convert/VB City/NNP of/IN Fullerton/NNP documents/NNS from/IN Word/NNP to/TO HTML/NNP ,/, rather/RB than/IN and/CC marking/VBG up/RP herself/PRP or/CC trusting/VBG 'Save/CD as/IN"
+Kynn,
+Kynn,Kynn/NNP Bartlett/NNP
+Kynn,"Chief/JJ Technologist/NNP Idyll/NNP Mountain/NNP Internet/NNP ;/: Fullerton/NNP ,/, California/NNP"
+Kynn,Enroll/NN now/RB for/IN web/JJ accessibility/NN with/IN HTML/NNP
+Kynn,The/DT voice/NN of/IN the/DT future/NN ?/.
+Chris,
+Chris,
+Chris,
+Chris,
+Chris,
+Chris,
+Chris,
+Chris,
+Chris,
+Chris,
+Chris,
+Chris,I/PRP could/MD re-create/VB the/DT problem/NN described/VBD when/WRB I/PRP tested/VBD this/DT on/IN my/PRP$ own/JJ system/NN using/VBG MS/NNP Word/NNP 97/CD for/IN Windows/NNP ./.
+Chris,"I/PRP followed/VBD the/DT scenario/NN with/IN a/DT simple/JJ test/NN page/NN (created/VBN in/IN Netscape/NNP Page/NNP Composer)/NNP with/IN a/DT Heading/NNP ,/, one/CD line/NN of/IN text/NN ,/, and/CC an/DT image/NN with/IN ALT=/NNP text/NN ./."
+Chris,"I/PRP opened/VBD the/DT HTML/NNP file/NN in/IN Word97/NNP ,/, added/VBD one/CD word/NN to/TO the/DT text/NN of/IN the/DT Heading/NNP ,/, then/RB saved/VBD the/DT file/NN back/RB to/TO HTML/NNP with/IN a/DT new/JJ name/NN ./."
+Chris,The/DT ALT=/NNP text/NN was/VBD not/RB affected/VBN ./.
+Chris,"MS/NNP Word/NNP 97/CD ,/, at/IN least/JJS ,/, seems/VBZ to/TO recognize/VB HTML/NNP and/CC preserve/VB it/PRP ./."
+Chris,"Obviously/RB ,/, other/JJ versions/NNS of/IN Word/NNP may/MD behave/VB differently/RB ./."
+Chris,"I/PRP suspect/VBP that/IN word/NN processor/NN would/MD strip/VB the/DT ALT=/NNP text/NN if/IN you/PRP first/RB save/VB the/DT document/NN in/IN its/PRP$ format/NN ,/, then/RB try/VB to/TO save/VB it/PRP back/RB to/TO HTML/NNP ./."
+Chris,Chris/NNP Kreussling/NNP
+Chris,The/DT views/NNS expressed/VBN are/VBP those/DT of/IN the/DT author/NN and/CC do/VBP not/RB necessarily/RB reflect/VB the/DT position/NN of/IN the/DT Federal/NNP Reserve/NNP Bank/NNP of/IN New/NNP York/NNP or/CC the/DT Federal/NNP Reserve/NNP System/NNP ./.
+Chris,
+Daniel,
+Daniel,
+Daniel,
+Daniel,
+Daniel,
+Daniel,I/PRP tried/VBD that/IN with/IN Word/NNP 97/CD and/CC there/EX was/VBD no/DT lost/NN of/IN ALT/NNP ./.
+Daniel,"I/PRP even/RB tried/VBD saving/VBG the/DT file/NN as/IN .doc/JJ format/NN ,/, copying/VBG it/PRP under/IN a/DT different/JJ reopening/VBG it/PRP in/IN Word/NNP and/CC saving/VBG it/PRP in/IN HTML/NNP ,/, and/CC the/DT ALT/NNP were/VBD still/RB present/JJ (which/JJ proves/VBZ that/IN the/DT ALT/NNP are/VBP somehow/RB stored/VBN in/IN the/DT doc/NN format)/NN"
+Daniel,"On/IN the/DT other/JJ hand/NN ,/, there/EX was/VBD a/DT lost/NN of/IN longdesc/NN ,/, link/NN ,/, and/CC others/NNS new/JJ HTML4/NNP table/NN attributes/NNS ;/:"
+Daniel,"in/IN fact/NN ,/, in/IN looks/NNS like/IN unknown/JJ attributes/NNS are/VBP pruned/VBN out/RP ,/, which/WDT should/MD not/RB happen/VB (unknown/JJ elements/NNS are/VBP kept/VBN ,/, albeit/IN mess/NN up/IN with/IN ,/, see/VBP below)/NN"
+Daniel,"The/DT DOCTYPE/NNP and/CC the/DT STYLE/NNP I/PRP had/VBD in/IN this/DT test/NN file/NN were/VBD moved/VBN from/IN the/DT top/JJ and/CC the/DT head/NN to/TO the/DT body/NN ,/, which/WDT is/VBZ really/RB bad/JJ ./."
+Daniel,"Anyway/RB ,/, join/VB the/DT WAI/NNP Authoring/NNP Tools/NNP working/VBG group/NN if/IN you/PRP are/VBP interested/JJ in/IN that/DT kind/NN of/IN issue/NN ./."
+Daniel,
+Daniel,Because/IN you/PRP use/VBP Windows/NNS ?/. (I/NN use/NN Unix)/NNP

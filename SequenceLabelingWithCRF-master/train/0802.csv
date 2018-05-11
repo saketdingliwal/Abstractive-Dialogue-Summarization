@@ -1,0 +1,109 @@
+act_tag,speaker,pos,text
+sv,A,"Well/UH ,/, Wayne/NNP ,/, I/PRP ,/, uh/UH ,/, feel/VBP very/RB strongly/RB about/IN parents/NNS doing/VBG things/NNS with/IN their/PRP$ children/NNS ,/, and/CC making/VBG time/NN available/JJ even/RB sometimes/RB when/WRB time/NN is/VBZ n't/RB available/JJ ./.","{D Well, } Wayne, I, {F uh, } feel very strongly about parents doing things with their children, and making time available even sometimes when time isn't available. /"
+qo,A,How/WRB do/VBP you/PRP feel/VB about/IN it/PRP ?/.,How do you feel about it? /
+aa,B,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+sv,B,I/PRP feel/VBP much/RB the/DT same/JJ way/NN ./.,I feel much the same way. /
+sd,B,"I/PRP 've/VBP ,/, uh/UH ,/, two/CD kids/NNS right/RB now/RB --/:","I've, {F uh, } two kids right now -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,--/: one/CD is/VBZ two/CD and/CC a/DT half/NN,-- one is two and a half /
+sd,B,"and/CC one/CD 's/BES nine/CD months/NNS ,/,","{C and } one's nine months, /"
+sv,B,"and/CC ,/, uh/UH ,/, that/DT age/NN ,/, of/IN course/NN ,/, everything/NN you/PRP do/VBP they/PRP 're/VBP trying/VBG to/TO learn/VB to/TO do/VB ,/,","{C and, } {F uh, } that age, of course, everything you do they're trying to learn to do, /"
+sv,B,"and/CC so/RB ,/, uh/UH ,/, it/PRP 's/BES important/JJ for/IN you/PRP to/TO spend/VB time/NN doing/VBG the/DT things/NNS that/WDT you/PRP want/VBP them/PRP to/TO learn/VB ,/, you/PRP know/VBP ,/, that/WDT ,/, that/WDT they/PRP need/VBP to/TO learn/VB at/IN the/DT age/NN ,/, you/PRP know/VBP --/:","{C and so, } {F uh, } it's important for you to spend time doing the things that you want them to learn, {D you know, } [ that, + that ] they need to learn at the age, {D you know } --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: reading/NN ,/, and/CC ,/, uh/UH ,/, reading/NN and/CC playing/VBG nice/RB with/IN others/NNS ,/, and/CC that/DT sort/NN of/IN thing/NN ./.","-- [ reading, and, + {F uh, } reading and ] playing nice with others, and that sort of thing. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"we/PRP went/VBD through/IN this/DT with/IN our/PRP$ children/NNS ,/, and/CC now/RB with/IN our/PRP$ grandchildren/NNS ,/,","we went through this with our children, and now with our grandchildren, /"
+sd,A,"and/CC I/PRP 've/VBP always/RB tried/VBN to/TO do/VB things/NNS with/IN them/PRP ,/, uh/UH ,/, like/IN ,/, when/WRB you/PRP 're/VBP at/IN the/DT little/JJ league/NN ,/, helping/VBG out/RP even/RB though/IN I/PRP 'm/VBP not/RB a/DT good/JJ athlete/NN myself/PRP ,/,","{C and } I've always tried to do things with them, {F uh, } like, when you're at the little league, helping out even though I'm not a good athlete myself, /"
+sd,A,"I/PRP was/VBD able/JJ to/TO help/VB the/DT coach/NN in/IN ,/, in/IN just/RB controlling/VBG the/DT kids/NNS ,/, if/IN nothing/NN else/RB ,/,","I was able to help the coach [ in, + in ] just controlling the kids, if nothing else, /"
+sd,A,"and/CC we/PRP 've/VBP always/RB ,/, uh/UH ,/, oh/UH tried/VBN to/TO take/VB our/PRP$ children/NNS and/CC no-/RB ,/, now/RB at/IN this/DT age/NN our/PRP$ grandchildren/NNS to/TO see/VB and/CC do/VB things/NNS that/WDT otherwise/RB they/PRP might/MD not/RB be/VB able/JJ to/TO ./.","{C and } we've always, {F uh, } {F oh } tried to take our children and [ no-, + now ] at this age our grandchildren to see and do things that otherwise they might not be able to. /"
+sv,A,"I/PRP think/VBP that/DT 's/BES just/RB part/NN of/IN their/PRP$ overall/JJ educational/JJ process/NN ,/, is/VBZ to/TO get/VB out/RB and/CC see/VB and/CC do/VB things/NNS ./.","I think that's just part of their overall educational process, is to get out and see and do things. /"
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,uh-huh/UH ./.,uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
+%,A,"And/CC so/RB ,/, it/PRP 's/BES uh/UH ,/,","{C And so, } it's {F uh, } - /"
+sd,A,"we/PRP have/VBP ,/, uh/UH ,/, lived/VBN several/JJ places/NNS around/IN the/DT U/NNP S/NNP","we have, {F uh, } lived several places around the U S /"
+sd,A,"and/CC we/PRP have/VBP ,/, where/WRB we/PRP 've/VBP lived/VBN ,/, we/PRP 've/VBP taken/VBN them/PRP to/TO see/VB and/CC do/VB things/NNS of/IN interest/NN and/CC of/IN historical/JJ significance/NN in/IN the/DT area/NN ,/,","{C and } [ we have, + where we've ] lived, we've taken them to see and do things of interest and of historical significance in the area, /"
+sd,A,"like/IN when/WRB we/PRP lived/VBD in/IN Tennessee/NNP ,/, we/PRP ,/, we/PRP took/VBD them/PRP to/IN Washington/NNP ,/, D/NNP C/NNP to/TO see/VB all/PDT the/DT capitol/NN and/CC ,/, and/CC things/NNS like/IN that/DT when/WRB they/PRP were/VBD small/JJ ./.","{D like } when we lived in Tennessee, [ we, + we ] took them to Washington, D C to see all the capitol [ and, + and ] things like that when they were small. /"
+sd,A,"And/CC it/PRP 's/BES just/RB ,/, uh/UH ,/, it/PRP 's/BES helps/VBZ ,/, I/PRP think/VBP ,/, the/DT children/NNS to/IN ,/, when/WRB they/PRP 're/VBP learning/VBG in/IN school/NN ,/, to/TO say/VB ,/, well/UH ,/, I/PRP 've/VBP been/VBN there/RB and/CC I/PRP 've/VBP seen/VBN that/DT ./.","{C And } [ it's just, + {F uh, } it's ] helps, I think, the children [ to, + when they're learning in school, to ] say, {D well, } I've been there and I've seen that. /"
+b,B,Right/UH ./.,Right. /
+b,A,Yeah/UH ./.,Yeah. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"So/RB ,/, uh/UH ,/, that/DT 's/BES the/DT type/NN ,/,","{D So, } {F uh, } that's the type, -/"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"it/PRP certainly/RB does/VBZ ,/, because/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, the/DT things/NNS in/IN the/DT books/NNS seem/VBP so/RB dead/JJ to/IN the/DT kids/NNS ,/, you/PRP know/VBP ,/, unless/IN they/PRP 've/VBP actually/RB been/VBN there/RB or/CC whatever/WP ,/,","it certainly does, because, {F uh, } {D you know, } the things in the books seem so dead to the kids, {D you know, } unless they've actually been there or whatever, /"
+sd,B,"because/RB I/PRP remember/VBP our/PRP$ family/NN ,/, well/UH ,/, we/PRP ,/, we/PRP ,/, we/PRP went/VBD everywhere/RB ./.","{C because } I remember our family, {D well, } [ [ we, + we, ] + we ] went everywhere. /"
+sd,B,"And/CC ,/, uh/UH ,/, seeing/VBG New/NNP England/NNP and/CC ,/, uh/UH ,/, being/VBG on/IN Plymouth/NNP Rock/NNP and/CC stuff/NN like/IN that/DT was/VBD --/:","{C And, } {F uh, } seeing New England and, {F uh, } being on Plymouth Rock and stuff like that [ was -- +"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: really/RB made/VBD the/DT whole/JJ thing/NN more/RBR ,/, uh/UH ,/, visual/JJ ./.","-- really made ] the whole thing more, {F uh, } visual. /"
+b,A,Yes/UH ./.,Yes. /
+sd,B,"And/CC we/PRP could/MD ,/, uh/UH ,/, read/VB the/DT things/NNS in/IN the/DT history/NN books/NNS and/CC understand/VB what/WP they/PRP said/VBD ,/, when/WRB it/PRP was/VBD like/IN ,/, we/PRP need/VBP food/NN ,/, we/PRP need/VBP to/TO raise/VB food/NN quickly/RB --/:","{C And } we could, {F uh, } read the things in the history books and understand what they said, when it was like, [ we need food, + we need to raise food ] quickly --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: because/IN this/DT place/NN gets/VBZ very/RB cold/JJ very/RB soon/RB ./.,-- because this place gets very cold very soon. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"we/PRP 've/VBP ,/, uh/UH ,/,","we've, {F uh, }"
+x,B,,<Cough>.
++,A,"gone/VBN through/IN that/DT ,/, uh/UH ,/,","<Throat_clearing> gone through that, {F uh, } /"
+sd,A,"I/PRP remember/VBP my/PRP$ parents/NNS did/VBD n't/RB do/VB all/PDT those/DT type/NN things/NNS ,/,","I remember my parents didn't do all those type things, /"
+sd,A,and/CC so/RB I/PRP made/VBD a/DT special/JJ effort/NN with/IN my/PRP$ children/NNS to/TO do/VB things/NNS like/IN that/DT ./.,{C and so } I made a special effort with my children to do things like that. /
+sd,A,"And/CC even/RB now/RB with/IN my/PRP$ grandchildren/NNS ,/, I/PRP feel/VBP it/PRP 's/BES a/DT very/RB important/JJ thing/NN to/TO be/VB done/VBN ./.","{C And } even now with my grandchildren, I feel it's a very important thing to be done. /"
+aa,B,"Right/UH ,/,","Right, /"
+sv,B,"because/IN if/IN ,/, uh/UH ,/, kids/NNS do/VBP n't/RB look/VB up/IN to/IN you/PRP ,/, or/CC ,/, or/CC ,/, ca/MD ,/, ca/MD n't/RB feel/VB they/PRP can/MD spend/VB time/NN with/IN you/PRP ,/, they/PRP 're/VBP going/VBG to/TO find/VB someone/NN else/RB --/:","because if, {F uh, } kids don't look up to you, [ or, + or, ] [ ca-, + can't ] feel they can spend time with you, they're going to find someone else -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"--/: and/CC uh/UH ,/, you/PRP know/VBP ,/, nowadays/RB there/EX 's/BES a/DT lot/NN of/IN people/NNS out/IN there/RB that/WDT you/PRP do/VBP n't/RB want/VB your/PRP$ kid/NN to/TO ,/, emulating/VBG or/CC whatever/WP ./.","-- {C and } {F uh, } {D you know, } nowadays there's a lot of people out there that you don't want your kid [ to, + emulating ] or whatever. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"Well/UH ,/, I/PRP can/MD remember/VB one/CD of/IN the/DT things/NNS I/PRP 'm/VBP most/RBS proud/JJ of/IN is/VBZ ,/, uh/UH ,/, when/WRB my/PRP$ son/NN was/VBD ,/,","{D Well, } I can remember one of the things I'm most proud of is, {F uh, } when my son was, - /"
+sd,A,"I/PRP think/VBP it/PRP was/VBD in/IN the/DT sixth/JJ grade/NN ,/,","I think it was in the sixth grade, /"
+sd,A,"they/PRP had/VBD to/TO write/VB a/DT ,/, a/DT little/JJ brief/JJ autobiography/NN of/IN themselves/PRP ,/, and/CC about/IN what/WP they/PRP had/VBD done/VBN and/CC what/WP they/PRP wanted/VBD to/TO do/VB ,/,","they had to write [ a, + a ] little brief autobiography of themselves, and about what they had done and what they wanted to do, /"
+sd,A,"and/CC I/PRP was/VBD very/RB proud/JJ when/WRB my/PRP$ son/NN wrote/VBD that/IN he/PRP wanted/VBD to/TO ,/, uh/UH ,/, have/VB a/DT family/NN and/CC be/VB able/JJ to/TO help/VB coach/VB little/JJ league/NN and/CC do/VB things/NNS like/IN his/PRP$ dad/NN had/VBD done/VBN with/IN him/PRP ./.","{C and } I was very proud when my son wrote that he wanted to, {F uh, } have a family and be able to help coach little league and do things like his dad had done with him. /"
+x,B,,<Laughter>.
+sd,A,A/DT real/JJ point/NN of/IN pride/NN with/IN me/PRP ./.,A real point of pride with me. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,that/DT is/VBZ nice/JJ ./.,that is nice. /
+b,A,Yeah/UH,Yeah <cough> /
+sv,A,"excuse/VB me/PRP ,/, it/PRP sounds/VBZ like/IN we/PRP both/DT have/VBP colds/NNS ./.","{E excuse me, } it sounds like we both have colds. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"well/UH ,/, it/PRP 's/BES ,/, um/UH ,/, well/UH ,/, it/PRP 's/BES ,/, uh/UH ,/, ten/CD o'clock/RB here/RB in/IN Falls/NNP Church/NNP ,/, Virginia/NNP ./.","[ {D well, } it's, + {F um, } {D well, } it's, ] {F uh, } ten o'clock here in Falls Church, Virginia. /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,So/RB that/DT the/DT only/JJ reason/NN I/PRP 'm/VBP home/RB is/VBZ because/IN I/PRP 'm/VBP home/RB with/IN a/DT cold/NN ./.,{C So } that the only reason I'm home is because I'm home with a cold <laughter>. /
+%,A,"Oh/UH ,/, well/UH ,/, we/PRP 're/VBP","{F Oh, } {D well, } we're -/"
+sd,B,"And/CC the/DT wife/NN says/VBZ ,/, Well/UH ,/, you/PRP need/VBP something/NN to/TO do/VB ,/,","{C And } the wife says, {D Well, } you need something to do, /"
+^q,B,talk/VB to/IN a/DT guy/NN on/IN the/DT phone/NN ./.,talk to a guy on the phone. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"well/UH ,/, I/PRP 'm/VBP sitting/VBG here/RB on/IN the/DT ninth/JJ floor/NN of/IN an/DT office/NN building/NN on/IN the/DT north/JJ side/NN of/IN Dallas/NNP ,/, Texas/NNP ./.","{D well, } I'm sitting here on the ninth floor of an office building on the north side of Dallas, Texas. /"
+x,B,,<Laughter>.
+sd,A,"So/RB ,/, we/PRP 're/VBP kind/RB of/RB far/RB apart/RB here/RB ./.","{D So, } we're kind of far apart here. /"
+b,B,Yeah/UH ./.,Yeah <cough>. /
+sd,A,"This/DT is/VBZ a/DT very/RB interesting/JJ program/NN I/PRP ,/, I/PRP heard/VBD about/IN here/RB on/IN this/DT ,/,","This is a very interesting program [ I, + I ] heard about here on this, /"
+sd,A,"and/CC when/WRB I/PRP signed/VBD up/RP for/IN it/PRP ,/, it/PRP ,/, uh/UH ,/, looked/VBD like/IN it/PRP could/MD be/VB ,/, make/VB a/DT real/JJ contribution/NN in/IN participating/VBG ./.","{C and } when I signed up for it, it, {F uh, } looked like it could [ be, + make ] a real contribution in participating. /"
+aa,B,Right/UH ./.,Right. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP 'm/VBP an/DT electrical/JJ engineer/NN by/IN trade/NN --/:,I'm an electrical engineer by trade --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: uh/UH ,/, here/RB in/IN Virginia/NNP ./.","-- {F uh, } here in Virginia. /"
+sd,B,"Likewise/RB ,/, we/PRP ,/, uh/UH ,/, we/PRP do/VBP some/DT projects/NNS every/DT now/RB and/CC then/RB ./.","Likewise, [ we, + {F uh, } we ] do some projects every now and then. /"
+sd,B,"We/PRP like/VBP to/TO get/VB support/NN from/IN ,/, uh/UH ,/, other/JJ ,/, other/JJ companies/NNS as/IN well/RB ./.","We like to get support from, {F uh, } [ other, + other ] companies as well. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,I/PRP 'm/VBP an/DT accountant/NN presently/RB working/VBG as/IN a/DT contractor/NN liquidating/VBG a/DT failed/JJ savings/NNS and/CC loan/NN ./.,I'm an accountant presently working as a contractor liquidating a failed savings and loan <laughter>. /
+x,B,,<Laughter>.
+sd,A,"So/RB ,/, Trying/VBG to/TO work/VB myself/PRP out/RP of/IN a/DT job/NN ./.","{D So, } Trying to work myself out of a job <laughter>. /"
+x,B,,<Laughter>.
+sd,A,"But/CC ,/, it/PRP 's/HVS been/VBN an/DT interesting/JJ ,/, uh/UH ,/, roughly/RB ,/, oh/UH ,/, nine/CD months/NNS here/RB ,/,","{C But, } it's been an interesting, {F uh, } roughly, {F oh, } nine months here, /"
+sd,A,"and/CC ,/, uh/UH --/:","{C and, } {F uh } --"
+b,B,Oh/UH ./.,Oh. /
++,A,"--/: again/RB ,/, this/DT is/VBZ our/PRP$ home/NN area/NN ./.","-- {D again, } this is our home area. /"
+sd,A,"We/PRP 've/VBP lived/VBN here/RB about/RB seventeen/CD years/NNS ,/,","We've lived here about seventeen years, /"
+%,A,"and/CC it/PRP 's/BES ,/, uh/UH ,/,","{C and } it's, {F uh, } - /"
+sd,A,we/PRP enjoy/VBP living/VBG here/RB ./.,we enjoy living here. /
+sd,A,"It/PRP 's/BES where/WRB we/PRP originally/RB started/VBD out/RP ,/,","It's where we originally started out, /"
+sd,A,and/CC we/PRP 've/VBP lived/VBN up/IN north/RB for/IN a/DT while/NN in/IN Chicago/NNP and/CC over/IN in/IN Tennessee/NNP ./.,{C and } we've lived up north for a while in Chicago and over in Tennessee. /
+sd,A,"So/RB ,/, wound/VBD up/RP back/RB about/RB two/CD hundred/CD miles/NNS aware/JJ ,/, away/RB from/IN where/WRB we/PRP started/VBD out/RP ./.","{C So, } wound up back about two hundred miles [ aware, + away ] from where we started out. /"
+b,B,Yep/UH ./.,Yep <laughter>. /
+sd,A,"Well/UH ,/, uh/UH ,/, that/DT 's/BES about/RB all/DT I/PRP can/MD think/VB to/TO talk/VB about/IN right/RB now/RB ./.","{D Well, } {F uh, } that's about all I can think to talk about right now. /"
+fc,A,It/PRP 's/HVS been/VBN a/DT pleasure/NN talking/VBG with/IN you/PRP ./.,It's been a pleasure talking with you. /
+fc,B,Okay/UH ./.,Okay. /
+ft,A,Thank/VB you/PRP ./.,Thank you. /
+bd,B,Right/UH ./.,Right. /
+fc,A,Bye/UH ./.,Bye. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

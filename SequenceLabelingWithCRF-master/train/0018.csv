@@ -1,0 +1,127 @@
+act_tag,speaker,pos,text
+sd,A,"Uh/UH ,/, I/PRP get/VBP most/JJS of/IN my/PRP$ news/NN uh/UH ,/, from/IN newspapers/NNS really/RB ./.","{F Uh, } I get most of my news {F uh, } from newspapers really. /"
+sd,A,"I/PRP read/VBP the/DT daily/JJ newspaper/NN ,/, uh/UH ,/, the/DT HOUSTON/NNP CHRONICLE/NNP","I read the daily newspaper, {F uh, } the HOUSTON CHRONICLE /"
+sd,A,"and/CC sometimes/RB I/PRP 'll/MD read/VB like/UH the/DT ,/, uh/UH ,/, WALL/NNP STREET/NNP or/CC the/DT NEW/NNP YORK/NNP TIMES/NNP ./.","{C and } sometimes I'll read {D like } the, {F uh, } WALL STREET or the NEW YORK TIMES. /"
+sd,A,"I/PRP do/VBP n't/RB subscribe/VB to/IN either/DT ,/,","I don't subscribe to either, /"
+sd,A,but/CC sometimes/RB I/PRP get/VBP a/DT hold/NN of/IN copies/NNS of/IN it/PRP ./.,{C but } sometimes I get a hold of copies of it. /
+qo,A,"Uh/UH ,/, how/WRB about/IN you/PRP ?/.","{F Uh, } how about you? /"
+qy,A,"Do/VBP you/PRP ,/, uh/UH ,/, mostly/RB --/:","Do you, {F uh, } mostly --"
+ny,B,Yes/UH ./.,Yes. /
++,A,--/: get/VB things/NNS from/IN T/NN V/NN or/CC MUMBLEx/XX ./.,-- get things from T V or (( )). /
+sd,B,"I/PRP actually/RB get/VBP most/JJS of/IN my/PRP$ news/NN coverage/NN off/IN uh/UH ,/, computer/NN networks/NNS ./.","I actually get most of my news coverage off {F uh, } computer networks. /"
+sd,B,"However/RB ,/, I/PRP do/VBP also/RB watch/VB television/NN news/NN ,/, uh/UH ,/, usually/RB in/IN the/DT morning/NN once/RB a/DT day/NN","However, I do also watch television news, {F uh, } usually in the morning once a day /"
+sd,B,and/CC I/PRP read/VBP the/DT front/JJ page/NN of/IN the/DT WALL/NNP STREET/NNP JOURNAL/NNP --/:,{C and } I read the front page of the WALL STREET JOURNAL --
+b,A,Oh/UH ./.,Oh. /
++,B,--/: most/JJS every/DT day/NN ./.,-- most every day. /
+sv,A,Oh/UH that/DT 's/BES interesting/JJ ./.,{F Oh } that's interesting. /
+sd,A,You/PRP said/VBD computer/NN networks/NNS ./.,You said computer networks. /
+qw,A,"Uh/UH ,/, what/WDT ,/, uh/UH ,/, what/WDT sort/NN ./.","{F Uh, } [ what, + {F uh, } what ] sort. /"
+sd,A,I/PRP am/VBP fairly/RB knowledgeable/JJ of/IN MUMBLEx/XX ./.,I am fairly knowledgeable of (( )) <<very faint>>. -/
+sd,B,"Uh/UH well/UH ,/, well/UH DOW/NNP JONES/NNP for/IN example/NN have/VBP the/DT ,/, cause/IN the/DT --/:","{F Uh } [ {D well, } + {D well } ] DOW JONES for example [ have the, + cause the ] --"
+bk,A,"Uh/UH ,/, okay/UH ./.","{F Uh, } okay. /"
+sv,A,That/DT 's/BES interesting/JJ ./.,That's interesting. /
++,B,"--/: uh/UH ,/, news/NN wire/NN","-- {F uh, } news wire - /"
+sd,B,"and/CC it/PRP 's/BES picked/VBN up/RP and/CC actually/RB available/JJ ,/, uh/UH ,/, at/IN my/PRP$ office/NN ,/,","{C and } it's picked up and actually available, {F uh, } at my office, /"
+sd,B,"so/RB ,/, it/PRP 's/HVS ,/, no/DT fee/NN ,/, or/CC subscription/NN either/CC to/TO read/VB at/IN my/PRP$ leisure/NN","{C so, } it's, no fee, or subscription either to read at my leisure /"
+sd,B,and/CC it/PRP 's/BES sort/RB of/RB by/IN category/NN ./.,{C and } it's sort of by category. /
+sd,B,For/IN example/NN --/:,For example --
+b,A,Oh/UH ./.,Oh. /
+%,A,"I-/XX ,/, --/:","I-, <noise> -- -/"
++,B,--/: so/RB I/PRP can/MD read/VB a/DT certain/JJ business/NN or/CC topics/NNS ./.,-- so I can read a certain business or topics. /
+qy,A,"--/: is/VBZ it/PRP ,/,","-- [ is it, +"
+x,B,./.,<Inhaling>.
++,A,is/VBZ it/PRP the/DT A/NNP P/NNP news/NN wire/NN,is it ] the A P news wire /
+qrr,A,"or/CC is/VBZ it/PRP something/NN that/WDT is/VBZ ,/, uh/UH ,/, a/DT little/JJ bit/NN different/JJ from/IN that/DT ?/.","{C or } is it something that is, {F uh, } a little bit different from that? /"
+sd,B,"Well/UH ,/, uh/UH ,/, it/PRP 's/BES similar/JJ to/IN that/DT ,/,","{D Well, } {F uh, } it's similar to that, /"
+sd,B,"but/CC it/PRP 's/BES DOW/NNP JONES/NNP ,/, which/WDT is/VBZ ,/, uh/UH ,/, the/DT WALL/NNP STREET/NNP JOURNALS/^NNP^POS news/NN wire/NN ./.","{C but } it's DOW JONES, <noise> which is, {F uh, } the WALL STREET JOURNALS news wire. /"
+bk,A,"Uh/UH ,/, okay/UH ./.","{F Uh, } okay. /"
+sv,A,"So/RB ,/, that/DT 's/BES that/DT 's/BES interesting/JJ ./.","{C So, } [ that's + that's ] interesting. /"
+bk,A,Okay/UH ./.,Okay. /
+%,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP 've/VBP had/VBN ,/, I/PRP had/VBD access/NN in/IN the/DT past/NN to/IN ,/, uh/UH ,/, uh/UH ,/, the/DT A/NNP P/NNP news/NN wire/NN","[ I've had, + I had ] access in the past to, {F uh, } <noise> {F uh, } the A P news wire /"
+sv,A,and/CC I/PRP thought/VBD that/DT was/VBD that/DT was/VBD pretty/RB a/DT pretty/RB good/JJ way/NN to/TO get/VB news/NN ./.,{C and } I thought [ that was + that was ] [ pretty + a pretty ] good way to get news. /
+sd,A,"Uh/UH ,/, I/PRP 've/VBP never/RB used/VBN the/DT DOW/NNP JONES/NNP news/NN wire/NN","{F Uh, } I've never used the DOW JONES news wire /"
+%,A,"but/CC ,/, uh/UH ,/,","{C but, } {F uh, } - /"
+%,A,yeah/UH,yeah /
+%,A,"it/PRP ,/, uh/UH ,/,","it, {F uh, } - /"
+qy,A,"do/VBP you/PRP get/VB any/DT ,/, uh/UH ,/, do/VBP you/PRP read/VB any/DT news/NN magazines/NNS or/CC anything/NN like/IN that/DT for/IN sort/RB of/RB like/UH a/DT broader/JJR ,/, like/UH more/RBR long/JJ term/NN analytical/JJ sort/NN of/IN approach/NN ?/.","[ do you get any, + {F uh, } do you read any ] news magazines or anything like that for sort of {D like } a broader, {D like } more long term analytical sort of approach? /"
+ng,B,"Uh/UH ,/, well/UH actually/RB not/RB ./.","{F Uh, } {D well } actually not. /"
+sd,B,"Uh/UH ,/, I/PRP do/VBP ,/, uh/UH ,/, follow/VB ,/, uh/UH ,/, uh/UH ,/, uh/UH ,/,","{F Uh, } I do, {F uh, } follow, {F uh, } {F uh, } {F uh, } - /"
+sd,B,I/PRP do/VBP n't/RB know/VB how/WRB to/TO how/WRB to/TO describe/VB it/PRP,I don't know [ how to + how to ] describe it <noise> /
+sd,B,"so/RB I/PRP 'll/MD say/VB a/DT religious/JJ newspaper/NN which/WDT ,/, which/WDT talks/VBZ about/IN issues/NNS that/WDT are/VBP relevant/JJ to/IN me/PRP in/IN a/DT more/RBR broad/JJ sense/NN ./.","{C so } I'll say a religious newspaper [ which, + which ] talks about issues that are relevant to me in a more broad sense. /"
+sd,B,It/PRP 's/BES a/DT weekly/NN --/:,It's a weekly --
+b,A,Yeah/UH ./.,Yeah <noise>. /
++,B,"--/: but/CC ,/, uh/UH ,/, but/CC not/RB ,/, uh/UH ,/, not/RB like/IN BUSINESS/NNP WEEK/NNP or/CC NEWS/NNP WEEK/NNP or/CC one/CD of/IN those/DT kinds/NNS of/IN things/NNS ./.","-- [ but, + {F uh, } but ] [ not, + {F uh, } not ] like BUSINESS WEEK or NEWS WEEK or one of those kinds of things. /"
+sv,B,"I/PRP 'd/MD like/VB to/TO say/VB that/IN however/RB ,/, uh/UH ,/, that/IN I/PRP 'm/VBP overwhelmingly/RB disappointed/JJ with/IN the/DT media/NN in/IN general/JJ except/IN for/IN the/DT raw/JJ news/NN wires/NNS ./.","I'd like to say [ that + however, {F uh, } that ] I'm overwhelmingly disappointed with the media in general except for the raw news wires <noise>. /"
+qw,A,In/IN what/WP way/NN ?/.,In what way? /
+qy,A,"In/IN like/UH ,/, in/IN sort/RB of/RB like/UH ,/, uh/UH ,/, qual-/NN ,/, uh/UH ,/, quality/NN or/CC sort/RB of/RB an/DT orientation/NN in/IN terms/NNS of/IN like/UH ,/, view/NN point/NN or/CC the/DT way/NN the/DT news/NN is/VBZ presented/VBN or/CC whatever/WP ?/.","[ In {D like, } + in sort of {D like, } ] {F uh, } [ qual-, + {F uh, } quality ] or sort of an orientation in terms of {D like, } view point or the way the news is presented or whatever? /"
+sv,B,"Uh/UH ,/, I/PRP think/VBP that/IN it/PRP ,/, I/PRP think/VBP that/IN it/PRP has/VBZ to/TO do/VB with/IN ,/, uh/UH ,/,","<Inhaling> {F Uh, } [ I think that it, + I think that it ] has to do with, {F uh, } - /"
+h,B,"I/PRP personally/RB think/VBP ,/, uh/UH ,/,","I personally think, {F uh, } - /"
+sv,B,"I/PRP ,/, I/PRP have/VBP a/DT problem/NN with/IN their/PRP$ viewpoint/NN","[ I, + I ] have a problem with their viewpoint /"
+sv,B,"and/CC I/PRP personally/RB think/VBP that/DT ,/, uh/UH ,/, ther-/EX ,/, --/:","{C and } I personally think [ [ that, {F uh, } ther-, -- +"
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,Well/UH you/PRP wo/MD n't/RB offend/VB me/PRP ./.,{D Well } you won't offend me. /
+ad,A,So/RB go/VB ahead/RB and/CC say/VB ./.,{C So } go ahead and say <laughter>. /
++,B,"--/: that/IN there/EX 's/BES a/DT strong/JJ bia-/NN ,/, there/EX 's/BES a/DT strong/JJ bias/NN in/IN the/DT media/NN ./.","-- that there's a strong bia-, ] + there's a strong bias ] in the media. /"
+b,A,Yeah/UH ./.,Yeah. /
+bf,A,Like/IN a/DT liberal/JJ type/NN of/IN bias/NN ./.,Like a liberal type of bias. /
+aa,B,Yeah/UH ./.,Yeah. /
+aa,B,Absolutely/UH ./.,Absolutely. /
+qh,B,"Uh/UH ,/, after/IN all/DT ,/, who/WP ,/, who/WP writes/VBZ ./.","{F Uh, } after all, [ who, + who ] writes. /"
+sd,B,People/NNS who/WP are/VBP journalist/NN who/WP are/VBP trained/VBN to/TO write/VB,People who are journalist who are trained to write /
+sv,B,"and/CC they/PRP 're/VBP ,/, that/DT 's/BES a/DT liberal/JJ ,/, uh/UH ,/, a/DT liberal/JJ field/NN --/:","{C and } [ they're, + that's ] [ a liberal, + {F uh, } a liberal field ] --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: at/IN least/JJS from/IN academia/NN,-- at least from academia /
+sd,B,"and/CC ,/, uh/UH ,/, the/DT other/JJ thing/NN that/WDT I/PRP always/RB notice/VBP is/VBZ that/IN whenever/WRB they/PRP write/VBP about/IN something/NN that/WDT I/PRP 'm/VBP an/DT expert/NN in/IN ,/, I/PRP find/VBP their/PRP$ descriptions/NNS to/TO be/VB wrong/JJ --/:","{C and, } {F uh, } the other thing that I always notice is that whenever they write about something that I'm an expert in, I find their descriptions to be wrong -- /"
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"--/: and/CC it/PRP ,/,","-- {C and } it, -/"
+sv,A,"They/PRP ,/, they/PRP generally/RB make/VBP mistake/NN on/IN anything/NN technical/JJ at/IN least/JJS ./.","[ They, + they ] generally make mistake on anything technical at least <<sounds like>>. /"
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
+aap_am,B,"Well/UH ,/, even/RB if/IN it/PRP 's/BES not/RB technical/JJ ./. If/IN it/PRP 's/BES ,/, uh/UH ,/, some/DT social/JJ thing/NN or/CC whatever/WDT ./. It/PRP does/VBZ n't/RB matter/VB ./.","{D Well, } even if it's not technical. If it's, {F uh, } some social thing or whatever. It doesn't matter. /"
+sv,B,"If/IN I/PRP am/VBP an/DT expert/NN in/IN it/PRP ,/, they/PRP usually/RB make/VBP mistakes/NNS which/WDT makes/VBZ me/PRP believe/VB think/VB I/PRP 'm/VBP not/RB expert/JJ in/IN it/PRP ./.","If I am an expert in it, they usually make mistakes which makes me [ believe + think ] I'm not expert in it. /"
+sv,B,They/PRP 're/VBP telling/VBG me/PRP lies/NNS ./.,They're telling me lies. /
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"Do/VBP you/PRP ,/, by/IN mistakes/NNS ,/, do/VBP you/PRP mean/VB just/RB like/IN honest/JJ mistakes/NNS","[ Do you, + by mistakes, do you ] mean just like honest mistakes /"
+qrr,A,or/CC do/VBP you/PRP think/VB they/PRP are/VBP deliberate/JJ sorts/NNS of/IN things/NNS ?/.,{C or } do you think they are deliberate sorts of things? /
+sv,B,"Uh/UH ,/, I/PRP think/VBP both/DT ./.","{F Uh, } I think both. /"
+sd,B,"Uh/UH ,/, by/IN deliberate/JJ I/PRP ,/, uh/UH ,/, I/PRP mean/VBP mistake/NN ,/, mistakes/NNS of/IN omission/NN or/CC ,/, uh/UH ,/, or/CC ,/, uh/UH ,/, biased/JJ toward/IN a/DT particular/JJ view/GW point/^NN --/:","{F Uh, } by deliberate [ I, + {F uh, } I ] mean [ mistake, + mistakes ] of omission [ or, + {F uh, } <noise> or, ] {F uh, } biased toward [ a particular view point + --"
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: a/DT particular/JJ liberal/JJ --/:,-- a particular liberal --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: view/GW point/^NN that/WDT they/PRP have/VBP ./.,-- view point ] that they have. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"So/RB ,/, uh/UH ,/, uh/UH ,/, to/TO give/VB you/PRP an/DT example/NN ,/, uh/UH ,/, we/PRP will/MD go/VB out/IN of/IN the/DT printing/NN media/NN ./.","{D So, } {F uh, } {F uh, } to give you an example, {F uh, } we will go out of the printing media. /"
+sv,B,"I/PRP know/VBP of/IN cases/NNS where/WRB ,/, uh/UH ,/, we/PRP have/VBP one/CD television/NN media/NN where/WRB they/PRP will/MD show/VB clippings/NNS from/IN one/CD event/NN and/CC describe/VB another/DT event/NN but/CC ,/, with/IN the/DT the/DT attempt/NN to/TO give/VB you/PRP the/DT impression/NN that/IN what/WP they/PRP 're/VBP talking/VBG about/IN is/VBZ the/DT same/JJ thing/NN they/PRP are/VBP showing/VBG you/PRP ./.","I know of cases where, {F uh, } we have one television media where they will show <noise> clippings from one event and describe another event but, with [ the + the ] attempt to give you the impression that what they're talking about is the same thing they are showing you."
+%,A,Huh/UH ./.,{F Huh. } /
++,B,Which/WDT is/VBZ sort/RB of/RB like/IN a/DT deliberate/JJ bias/NN ./.,Which is sort of like a deliberate bias.
+ba,A,Huh/UH ./. That/DT 's/BES disturbing/JJ ./.,{F Huh. } That's disturbing. /
++,B,Which/WDT is/VBZ which/WDT is/VBZ rather/RB disturbing/JJ ./.,[ Which is + which is ] rather disturbing. /
+sd,B,I/PRP mean/VBP he/PRP does/VBZ that/DT ./.,{E I mean } he does that. /
+sd,A,"I/PRP have/VBP n't/RB really/RB noticed/VBN them/PRP doing/VBG that/DT ,/,","I haven't really noticed them doing that, /"
+h,A,"but/CC whatever/WP ,/,","{C but } whatever, /"
+sd,A,again/RB I/PRP do/VBP n't/RB watch/VB T/NN V/NN news/NN that/RB much/RB now/RB ./.,again I don't watch T V news that much now. /
+sd,A,"If/IN I/PRP had/VBD access/NN to/IN C/NNP N/NNP N/NNP ,/, I/PRP would/MD watch/VB T/NN V/NN news/NN more/RBR ./.","If I had access to C N N, I would watch T V news more. /"
+sd,A,"Uh/UH ,/, I/PRP do/VBP n't/RB you/PRP know/VBP ,/, but/CC I/PRP do/VBP n't/RB usually/RB ./.","{F Uh, } [ I don't + {D you know, } {C but } I don't ] usually. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP do/VBP n't/RB have/VB access/NN either/RB ./. Although/IN ,/, I/PRP did/VBD at/IN one/CD time/NN","I don't have access either. Although, I did at one time /"
+%,B,"and/CC it/PRP was/VBD ,/,","{C and } it was, - /"
+sd,B,I/PRP did/VBD during/IN the/DT Gulf/NNP War/NNP,I did during the Gulf War <noise> /
+sv,B,and/CC it/PRP was/VBD addictive/JJ ./.,{C and } it was addictive. /
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"Did/VBD you/PRP ,/, did/VBD you/PRP think/VB that/IN C/NNP N/NNP N/NNP ,/, well/UH ,/, the/DT Gulf/NNP War/NNP coverage/NN would/MD be/VB kind/RB of/RB ,/, uh/UH ,/, an/DT abnormality/NN ?/.","[ Did you, + did you ] think that [ C N N, + {D well, } the Gulf War coverage ] would be kind of, {F uh, } an abnormality? /"
+h,A,"I/PRP just/RB wonde/VBP ,/, I/PRP guess/VBP ./.","I just wonde-, I guess. /"
+qw^d,A,I/PRP would/MD be/VB curious/JJ to/TO know/VB what/WP you/PRP thought/VBD as/IN to/IN how/WRB like/UH say/UH C/NNP N/NNP N/NNP T/NN V/NN news/NN compared/VBN to/IN the/DT three/CD networks/NNS ./.,<noise> I would be curious to know what you thought as to how {D like } {D say } C N N T V news compared to the three networks. /
+qy^d,A,"Uh/UH ,/, you/PRP know/VBP whether/IN you/PRP thought/VBD it/PRP was/VBD more/RBR of/IN a/DT biased/JJ or/CC whatever/WDT","{F Uh, } {D you know } whether you thought it was more of a biased or whatever /"
+sv,A,"but/CC I/PRP ,/, I/PRP guess/VBP you/PRP would/MD n't/RB ./.","{C but } [ I, + I ] guess you wouldn't. /"
+sv,A,"You/PRP probably/RB ,/,","You probably, - /"
+sv,A,"if/IN you/PRP just/RB watched/VBD it/PRP during/IN the/DT Gulf/NNP War/NNP ,/, that/DT probably/RB would/MD n't/RB would/MD n't/RB tell/VB you/PRP much/RB ./.","if you just watched it during the Gulf War, that probably [ wouldn't + wouldn't ] tell you much. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"well/UH during/IN that/DT small/JJ sample/NN ,/, I/PRP would/MD think/VB that/IN everyone/NN was/VBD just/RB about/RB ,/, just/RB about/RB the/DT same/JJ ,/, except/IN the/DT three/CD networks/NNS ,/, MUMBLEx/XX radio/NN television/NN programming/NN ./.","{D well } during that small sample, I would think that everyone was [ just about, + just about ] the same, except the three networks, (( )) radio television programming. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"So/RB ,/, if/IN at/IN a/DT particular/JJ time/NN ,/, you/PRP wanted/VBD to/TO get/VB the/DT latest/JJS and/CC greatest/JJS news/NN --/:","{C So, } if at a particular time, you wanted to get the latest and greatest news --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: you/PRP could/MD do/VB that/DT by/IN ,/, uh/UH ,/, turning/VBG on/RP C/NNP N/NNP N/NNP","-- you could do that by, {F uh, } turning on C N N /"
+%,B,"and/CC you/PRP ,/,","{C and } you, -/"

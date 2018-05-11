@@ -1,0 +1,197 @@
+act_tag,speaker,pos,text
+qw,A,"So/UH ,/, how/WRB is/VBZ the/DT weather/NN out/IN there/RB ?/.","{D So, } how is the weather out there? /"
+sd,B,"Uh/UH ,/, it/PRP 's/BES really/RB cold/JJ","{F Uh, } it's really cold /"
+sd,B,and/CC it/PRP 's/BES supposedly/RB for/IN this/DT time/NN of/IN the/DT year/NN it/PRP 's/BES unseasonably/RB cold/JJ,{C and } [ it's + supposedly for this time of the year it's ] unseasonably cold /
+sd,B,and/CC they/PRP 've/VBP gotten/VBN more/JJR snow/NN than/IN they/PRP 've/VBP ever/RB had/VBN ./.,{C and } they've gotten more snow than they've ever had. /
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+sd,B,"You/PRP have/VBP ,/, breaking/VBG records/NNS for/IN coldness/NN and/CC all/PDT that/DT kind/NN of/IN stuff/NN ./.","You have, breaking records for coldness and all that kind of stuff. /"
+qw,B,How/WRB about/IN you/PRP guys/NNS ?/.,How about you guys? /
+sd,A,"Um/UH ./. Uh/UH ,/, it/PRP 's/BES just/RB ,/, it/PRP 's/BES a/DT ,/, it/PRP 's/BES about/RB same/JJ ./.","{F Um. } {F Uh, } [ [ it's just, + it's a, ] + it's about ] same. /"
+sd,A,"The/DT usual/JJ ,/, I/PRP think/VBP ./.","The usual, I think. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"So/RB ,/, nice/JJ for/IN skiing/NN and/CC all/PDT that/DT kind/NN of/IN stuff/NN ./.","{D So, } nice for skiing and all that kind of stuff <laughter>. /"
+sd,A,It/PRP 's/BES good/JJ ./.,It's good. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"well/UH the/DT weather/NN ,/, let/VB 's/PRP see/VB ,/, well/UH ,/, the/DT snow/NN here/RB is/VBZ different/JJ from/IN Utah/NNP 's/POS ,/,","{D well } [ the weather, + let's see, {D well, } the snow ] here is different from Utah's, /"
+sd,B,because/IN I/PRP have/VBP lived/VBN in/IN Utah/NNP for/IN like/IN ten/CD years/NNS ./.,{C because } I have lived in Utah for {D like } ten years. /
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+qw,A,What/WP part/NN ?/.,What part? /
+%,B,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, } - /"
+sd,B,Provo/NNP ./.,Provo. /
+sd,B,I/PRP was/VBD going/VBG to/IN B/NNP Y/NNP U/NNP ./.,I was going to B Y U. /
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+bk,A,Okay/UH ./.,Okay. /
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC ,/, uh/UH ,/, the/DT snow/NN is/VBZ like/UH ,/, really/RB cold/JJ ./.","{C And, } {F uh, } the snow is {D like, } really cold. /"
+sd,B,"I/PRP mean/VBP ,/, it/PRP 's/BES ,/, like/UH ,/, really/RB humid/JJ","{E I mean, } it's, {D like, } really humid /"
+sd,B,so/RB it/PRP seems/VBZ wetter/JJR or/CC something/NN like/IN that/DT ./.,{C so } it seems wetter or something like that. /
+%,B,"It/PRP 's/BES ,/,","It's, -/"
+qy,A,It/PRP 's/BES more/RBR humid/JJ in/IN Utah/NNP than/IN there/RB ?/.,It's more humid in Utah than there? /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+qrr,A,Or/CC there/RB ?/.,Or there? /
+sd,B,It/PRP 's/BES more/RBR humid/JJ in/IN Iowa/NNP --/:,It's more humid in Iowa --
+bk,A,Okay/UH ./.,Okay. /
++,B,--/: than/IN Utah/NNP ./.,-- than Utah. /
+aa,A,Right/UH ./.,Right. /
+b,B,Yeah/UH ./.,Yeah. /
+bk,A,Okay/UH ./.,Okay. /
+sd,B,"And/CC it/PRP seems/VBZ like/IN when/WRB the/DT winds/NNS blow/VBP ,/, it/PRP 's/BES really/RB ,/, it/PRP goes/VBZ right/RB through/IN you/PRP ./.","{C And } it seems like when the winds blow, [ it's really, + ] it goes right through you. /"
+sd,B,It/PRP 's/BES really/RB different/JJ from/IN Utah/NNP 's/POS weather/NN ./.,It's really different from Utah's weather. /
+sd,B,"I/PRP thought/VBD Utah/NNP was/VBD cold/JJ ,/,","I thought Utah was cold, /"
+sd,B,but/CC I/PRP think/VBP Iowa/NNP is/VBZ a/DT lot/RB colder/JJR ./.,{C but } I think Iowa is a lot colder <laughter> <noise>. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"see/VB ,/, that/DT 's/BES how/WRB it/PRP is/VBZ in/IN Texas/NNP ,/, too/RB","{D see, } that's how it is in Texas, too /"
+sd,A,"because/IN when/WRB it/PRP 's/BES cold/JJ ,/, it/PRP 's/BES really/RB cold/JJ ./.","{C because } when it's cold, it's really cold. /"
+%,A,"So/UH ,/,","{C So, } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,I/PRP do/VBP n't/RB think/VB there/EX is/VBZ any/DT mountains/NNS to/TO stop/VB the/DT wind/NN ./.,I don't think there is any mountains to stop the wind <laughter>. /
+br,A,What/WP 's/BES that/DT ?/.,What's that? /
+sd,B,I/PRP do/VBP n't/RB think/VB there/EX is/VBZ any/DT mountains/NNS to/TO stop/VB the/DT wind/NN ./.,I don't think there is any mountains to stop the wind. /
+b,A,Right/UH ./.,Right. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,So/RB the/DT humidity/NN is/VBZ I/PRP think/VBP what/WP does/VBZ it/PRP ./.,{C So } the humidity is I think what does it <laughter>. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,I/PRP think/VBP that/DT 's/BES true/JJ ./.,I think that's true. /
+%,A,"Because/IN I/PRP ,/, I/PRP noticed/VBD when/WRB I/PRP got/VBD here/RB ,/, too/RB ,/,","{C Because } [ I, + I ] noticed when I got here, too, /"
+%,A,"because/IN like/UH I/PRP 'd/MD ,/,","{C because } {D like } I'd, - /"
+sd,A,when/WRB it/PRP would/MD snow/VB in/IN Texas/NNP --/:,when it would snow in Texas --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: uh/UH ,/, I/PRP would/MD just/RB ,/, I/PRP mean/VBP we/PRP 'd/MD be/VB f-/XX ,/, really/RB cold/JJ","-- {F uh, } [ I would just, + {E I mean } we'd ] be [ f-, + really cold ] /"
+sd,A,"and/CC we/PRP 'd/MD have/VB to/TO get/VB really/RB warm/JJ ,/,","{C and } we'd have to get really warm, /"
+sd,A,and/CC here/RB you/PRP can/MD almost/RB not/RB even/RB wear/VB a/DT coat/NN outside/IN when/WRB it/PRP 's/BES snowing/VBG,{C and } here you can almost not even wear a coat outside when it's snowing /
+sd,A,and/CC you/PRP do/VBP n't/RB --/:,{C and } [ you don't -- +
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+aa,B,that/DT 's/BES true/JJ ./.,that's true. /
++,A,--/: you/PRP do/VBP n't/RB feel/VB super/RB cold/NN ./.,-- you don't ] feel super cold. /
+sv,A,It/PRP was/VBD weird/JJ ./.,It was weird. /
+b,B,Yeah/UH ./.,Yeah. /
+qw,A,"But/CC ,/, so/UH how/WRB long/RB ago/RB did/VBD you/PRP graduate/VB ?/.","[ {C But, } + {C so } ] how long ago <baby> did you graduate? /"
+qrr,A,"Or/CC did/VBD you/PRP ,/,","{C Or } did you, /"
+%,A,"or/CC ,/,","{C or, } -/"
+sd,B,"Uh/UH ,/, I/PRP graduated/VBD in/IN nineteen/CD eighty-seven/CD ./.","{F Uh, } I graduated in nineteen eighty-seven. /"
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"my/PRP$ husband/NN got/VBD his/PRP$ doctorate/NN at/IN B/NNP Y/NNP U/NNP ,/,","my husband got his doctorate at B Y U, /"
+%,B,"so/RB that/DT 's/BES ,/,","{C so } that's, - /"
+sd,B,and/CC so/IN he/PRP just/RB graduated/VBD this/DT past/JJ year/NN ./.,{C and so } he just graduated this past year. /
+b,A,Oh/UH ./.,Oh. /
+qy,A,So/UH you/PRP just/RB barely/RB moved/VBD away/RB ?/.,{C So } you just barely moved away? /
+ny,B,Uh-huh/UH ./.,Uh-huh <laughter>. /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+qy,A,Do/VBP you/PRP like/VB it/PRP out/IN there/RB ?/.,Do you like it out there? /
++,B,"Well/UH ,/, we/PRP really/RB miss/VBP Utah/NNP ./.","{D Well, } we really miss ] Utah <laughter>. /"
+sd,B,We/PRP miss/VBP --/:,We miss --
+qy,A,You/PRP do/VBP ?/.,You do? /
++,B,--/: the/DT mountains/NNS ./.,-- the mountains. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Because/IN it/PRP 's/BES ,/, like/UH ,/, really/RB flat/JJ here/RB ./.","{C Because } it's, {D like, } really flat here <laughter>. /"
+sd,B,"Well/UH ,/, not/RB flat/JJ ,/, but/CC hilly/JJ ./.","{D Well, } not flat, but hilly. /"
+sd,B,But/CC no/DT big/JJ mountains/NNS or/CC anything/NN ./.,But no big mountains or anything. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,A,So/UH you/PRP just/RB moved/VBD away/RB a/DT year/NN ago/RB ?/.,{C So } you just moved away a year ago? /
+na,B,"Uh/UH ,/, in/IN August/NNP ./.","{F Uh, } in August. /"
+ba,A,"Wow/UH ,/, really/RB recent/JJ ./.","Wow, really recent. /"
+aa,B,Yeah/UH ./.,<Breathing> Yeah. /
+t1,B,"But/CC ,/, uh/UH ,/, see/VB ,/, see/VB what/WP else/RB can/MD I/PRP say/VBP about/IN the/DT weather/NN ./.","{C But, } {F uh, } [ {D see, } + {D see } ] what else can I say about the weather. /"
+sd,B,"Uh/UH ,/, ,/, well/UH ,/, today/NN was/VBD warmer/JJR ./.","{F Uh, } <lipsmack>, {D well, } today was warmer <laughter>. /"
+sd,B,It/PRP was/VBD like/UH forty-five/CD ./.,It was {D like } forty-five <laughter>. /
+ba,A,"Oh/UH ,/, warm/JJ ./.","{F Oh, } warm <laughter>. /"
+qw,B,"So/RB ,/, what/WP 's/BES the/DT temperature/NN up/IN today/RB over/IN there/RB ?/.","{C So, } what's the temperature up today over there? /"
+ba,A,"Oh/UH ,/, man/UH ,/,","{F Oh, } man, /"
+sd,A,"it/PRP 's/HVS got/VBN to/TO be/VB like/UH ,/, it/PRP 's/BES probably/RB fifty/CD ,/, fifty-five/CD ,/, maybe/RB ./.","[ it's got to be + {D like, } it's ] probably fifty, fifty-five, maybe. /"
+bh,B,"Oh/UH ,/, really/RB ?/.","{F Oh, } really? /"
+no,A,Maybe/RB not/RB that/RB warm/JJ ./.,Maybe not that warm. /
+%,A,"Probably/RB about/IN ,/, uh/UH ,/,","Probably about, {F uh, } - /"
+%,A,yeah/UH ./.,yeah. /
+sd,A,"It/PRP 's/BES not/RB ,/, it/PRP 's/BES not/RB that/RB cold/NN ,/, really/RB ./.","[ It's not, + it's not ] that cold, really. /"
+sd,B,"And/CC whenever/WRB I/PRP remembered/VBD the/DT weather/NN reports/NNS in/IN Utah/NNP ,/, I/PRP never/RB really/RB remember/VB them/PRP talking/VBG too/RB much/RB about/IN wind/NN chill/NN ./.","{C And } whenever I remembered the weather reports in Utah, I never really remember them talking too much about wind chill. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,But/CC they/PRP talk/VBP about/IN wind/NN chill/NN here/RB all/PDT the/DT time/NN ./.,{C But } they talk about wind chill here all the time. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"that/DT 's/BES a/DT big/JJ deal/NN in/IN Texas/NNP ,/, too/RB ./.","that's a big deal in Texas, too. /"
+sd,B,"They/PRP said/VBD it/PRP could/MD be/VB ,/, like/UH ,/, six/CD degrees/NNS out/RB and/CC ,/, like/UH ,/, negative/JJ forty-one/CD wind/NN chill/NN ./.","They said it could be, {D like, } six degrees out and, {D like, } negative forty-one wind chill. /"
+b,A,Um/UH ./.,{F Um. } /
+sd,B,"So/RB ,/, that/DT 's/BES what/WP we/PRP 're/VBP not/RB used/JJ to/IN ./.","{C So, } that's what we're not used to <laughter>. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,that/DT 's/BES true/JJ ./.,that's true. /
+sv,A,That/DT makes/VBZ a/DT big/JJ difference/NN ./. Huh/UH ./.,That makes a big difference. {F Huh. } /
+%,B,"So/UH ,/, oh/UH ,/, I/PRP ,/,","{C So, } {F oh, } I, -/"
+qy,A,"So/UH ,/, did/VBD you/PRP used/VBD to/TO ski/VB when/WRB you/PRP were/VBD out/IN here/RB ?/.","{C So, } did you used to ski when you were out here? /"
+br,B,What/WP 's/BES that/DT ?/.,What's that? /
+qy,A,Did/VBD you/PRP used/VBD to/TO ski/VB when/WRB you/PRP were/VBD in/IN Utah/NNP ?/.,Did you used to ski when you were in Utah? /
+no,B,"Oh/UH ,/, I/PRP 've/VBP only/RB ,/, I/PRP 've/VBP only/RB skied/VBN in/IN Utah/NNP once/RB ./.","{F Oh, } [ I've only, + I've only ] skied in Utah once. /"
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+sd,B,I/PRP only/RB skied/VBD once/RB my/PRP$ whole/JJ life/NN ./.,I only skied once my whole life <laughter>. /
+x,A,./.,<Laughter>.
+qy,B,"But/CC ,/, do/VBP you/PRP do/VB a/DT lot/NN of/IN skiing/NN there/RB ?/.","{C But, } do you do a lot of skiing there? /"
+ng,A,"Uh/UH ,/, not/RB tons/NNS ,/,","{F Uh, } not tons, /"
+sd,A,but/CC I/PRP like/VBP to/TO when/WRB I/PRP get/VBP a/DT chance/NN ./.,{C but } I like to when I get a chance. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP 've/VBP only/RB been/VBN once/RB so/RB far/RB ,/, but/CC had/VBD the/DT opportunity/NN a/DT couple/NN times/NNS since/IN then/RB ./.","I've only been once so far, but had the opportunity a couple times since then. /"
+sd,A,Just/RB saving/VBG my/PRP$ money/NN for/IN Christmas/NNP things/NNS --/:,Just saving my money for Christmas things --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: and/CC that/DT ./.,-- and that. /
+qy,B,So/RB is/VBZ this/DT your/PRP$ first/JJ year/NN in/IN Utah/NNP ?/.,{C So } is this your first year in Utah? /
+nn,A,"Uh/UH ,/, no/UH ,/,","{F Uh, } no, /"
+sd,A,this/DT is/VBZ actually/RB my/PRP$ third/JJ year/NN ./.,this is actually my third year. /
+qy,B,And/CC you/PRP 're/VBP going/VBG to/IN school/NN there/RB ?/.,{C And } you're going to school there? /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,Oh/UH ./.,Oh. /
+ny,A,Yep/UH ./.,Yep. /
+qy,B,"At/IN U/NNP of/IN U/NNP ,/,","At U of U, /"
+%,B,"or/CC ,/,","{C or, } -/"
+nn,A,"No/UH ,/,","No, /"
+sd,A,at/IN B/NNP Y/NNP U/NNP ./.,at B Y U. /
+bh,B,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+ny,A,Yeah/UH ./.,Yeah. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,"So/UH ,/, but/CC ,/, I/PRP 'll/MD be/VB here/RB a/DT long/JJ time/NN ,/, at/IN this/DT rate/NN ./.","{D So, } {C but, } I'll be here a long time <laughter>, at this rate. /"
+qw,B,What/WP 's/BES your/PRP$ major/NN ?/.,What's your major? /
+sd,A,"Uh/UH ,/, it/PRP was/VBD nursing/VBG ,/,","{F Uh, } it was nursing, /"
+sd,A,but/CC I/PRP 'm/VBP in/IN the/DT process/NN of/IN changing/VBG it/PRP right/RB now/RB ./.,{C but } I'm in the process of changing it right now. /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,oh/UH ./.,oh. /
+sd,A,"Because/RB it/PRP 's/BES really/RB ,/, really/RB competitive/JJ at/IN B/NNP Y/NNP U/NNP ./.","{C Because } it's really, really competitive at B Y U. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,You/PRP have/VBP to/TO have/VB like/UH a/DT three/CD seven/CD to/TO get/VB in/IN,You have to have {D like } a <laughter> three seven to get in /
+%,A,"so/RB ,/,","{C so, }"
+aa,B,That/DT 's/BES true/JJ ./.,That's true. /
++,A,"It/PRP 's/BES really/RB ,/,","It's really, - /"
+sd,A,I/PRP 'm/VBP going/VBG to/TO look/VB into/IN some/DT other/JJ fields/NNS ./.,I'm going to look into some other fields. /
+%,A,"I/PRP 'd/MD like/VB ,/,","I'd like, - /"
+sd,A,"all/PDT the/DT science/NN classes/NNS and/CC that/DT ,/, I/PRP 'm/VBP just/RB not/RB really/RB enjoying/VBG too/RB much/RB","all the science classes and that, I'm just not really enjoying too much /"
+sd,A,so/IN --/:,{C so } --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: I/PRP think/VBP I/PRP better/RB get/VBP into/IN something/NN that/WDT I/PRP can/MD enjoy/VB the/DT process/NN of/IN going/VBG to/IN school/NN,-- I think I better get into something that I can enjoy the process of going to school /
+%,A,"so/RB ,/,","{C so, } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+ba,B,"that/DT 's/BES ,/, that/DT 's/BES a/DT good/JJ idea/NN ./.","[ that's, + that's ] a good idea. /"
+qy,A,Did/VBD you/PRP graduate/JJ in/IN a/DT certain/JJ field/NN,Did you graduate in a certain field /
+qy,A,"or/CC ,/,","{C or, } -/"
+sd,B,"Uh/UH ,/, education/NN ./.","{F Uh, } education. /"
+sd,B,I/PRP got/VBD a/DT double/JJ major/NN ./.,I got a double major. /
+qw,A,"In/IN ,/,","In, -/"
+sd,B,"Uh/UH ,/, elementary/JJ and/CC special/JJ ed/NN ./.","{F Uh, } elementary and special ed. /"
+qy,A,Really/UH ?/.,Really? /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,That/DT what/WP my/PRP$ sister/NN did/VBD ./.,That what my sister did. /
+bh,B,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,you/PRP might/MD know/VB her/PRP ./.,you might know her. /
+sd,A,"Here/^PRP$ name/NN is/VBZ Lori/NNP ,/, Bird/NNP ./.","Here name is Lori, Bird. /"
+h,A,Maybe/RB not/RB ./.,Maybe not <laughter>. /
+sd,A,"I/PRP think/VBP she/PRP graduated/VBD around/RB then/RB ,/, too/RB ,/, though/RB ,/, eighty-seven/RB probably/RB ,/,","I think she graduated around then, too, though, eighty-seven probably, /"
+%,A,"but/CC ,/, she/PRP got/VBD her/PRP$ doc-/NN ,/,","{C but, } she got her doc-, -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+arp_nd,B,"well/UH ,/, I/PRP ca/MD n't/RB ,/,","{D well, } I can't, - /"
+sd,B,"there/EX are/VBP so/RB many/JJ girls/NNS in/IN all/PDT my/PRP$ classes/NNS ,/,","there are so many girls in all my classes, /"
+sd,B,I/PRP ca/MD n't/RB remember/VB --/:,I <laughter> can't remember --
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
++,B,--/: how/WRB many/JJ people/NNS ./.,-- how many people. /
+sd,A,"Because/IN they/PRP ,/, since/IN ,/, uh/UH ,/, stopped/VBD that/DT program/NN ./. I/PRP mean/VBP ,/, where/WRB you/PRP can/MD --/:","{C Because } they, since, {F uh, } stopped that program. {E I mean, } [ where you can -- +"
+bh,B,"Oh/UH ,/, have/VBP they/PRP ?/.","{F Oh, } have they? /"
++,A,--/: where/WRB you/PRP can/MD get/VB it/PRP double/JJ pretty/RB easily/RB ./.,-- where you can ] get it double pretty easily. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,"I/PRP mean/VBP ,/, it/PRP 's/BES ,/, it/PRP 's/BES really/RB ,/,","{E I mean, } [ it's, + it's ] really, -/"

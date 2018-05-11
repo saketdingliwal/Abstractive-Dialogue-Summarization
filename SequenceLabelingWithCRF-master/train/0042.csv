@@ -1,0 +1,93 @@
+act_tag,speaker,pos,text
+sv,A,"See/UH ,/, wh-/XX ,/, when/WRB you/PRP 're/VBP with/IN a/DT big/JJ company/NN or/CC a/DT big/JJ organization/NN ,/, a/DT lot/NN of/IN times/NNS ,/, uh/UH ,/, you/PRP know/VBP ,/, the/DT benefits/NNS are/VBP good/JJ","<Throat_clearing> {D See, } [ wh-, + when ] you're with a big company or a big organization, a lot of times, {F uh, } {D you know, } the benefits are good /"
+sd,A,"and/CC ,/, and/CC ,/, you/PRP know/VBP ,/, the/DT pay/NN is/VBZ regular/JJ","[ {C and, } + {C and, } ] {D you know, } the pay is regular /"
+sv,A,"but/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, sometimes/RB you/PRP do/VBP n't/RB get/VB tuned/VBN in/RP to/IN what/WP 's/BES going/VBG on/IN ./.","{C but, } {F uh, } {D you know, } sometimes you don't get tuned in to what's going on. /"
+sv,A,"And/CC I/PRP ,/, I/PRP think/VBP the/DT biggest/JJS benefit/NN or/CC the/DT biggest/JJS benefit/NN other/JJ than/IN wages/NNS that/WDT ,/, that/WDT ,/, uh/UH ,/, that/WDT anybody/NN could/MD get/VB in/IN ,/, in/IN dealing/VBG with/IN a/DT large/JJ company/NN is/VBZ to/TO be/VB in/IN a/DT situation/NN where/WRB you/PRP ,/, you/PRP get/VBP to/TO know/VB what/WP 's/BES going/VBG on/RB ./.","{C And } [ I, + I ] think the biggest benefit or the biggest benefit other than wages [ [ that, + that, ] + {F uh, } that ] anybody could get [ in, + in ] dealing with a large company is to be in a situation where [ you, + you ] get to know what's going on. /"
+sv,A,"And/CC maybe/RB that/DT 's/BES ,/, that/DT 's/BES probably/RB the/DT toughest/JJS thing/NN in/IN the/DT whole/JJ world/NN to/TO ,/, to/TO do/VB ./.","{C And } maybe [ that's, + that's ] probably the toughest thing in the whole world [ to, + to ] do. /"
+qo,A,"What/WP 's/BES ,/, what/WP 's/BES your/PRP$ feeling/NN about/IN benefits/NNS ?/.","[ What's, + what's ] your feeling about benefits? /"
+qw,A,What/WP sort/NN of/IN benefits/NNS would/MD you/PRP like/VB to/TO get/VB from/IN a/DT big/JJ company/NN ./.,What sort of benefits would you like to get from a big company. /
+sd,B,"Well/UH ,/, since/IN I/PRP 'm/VBP kind/RB of/RB on/IN the/DT ,/, the/DT older/JJR side/NN ,/, you/PRP know/VBP ,/, I/PRP ,/, I/PRP ,/, I/PRP just/RB feel/VBP like/IN ,/, uh/UH ,/, when/WRB I/PRP start/VBP talking/VBG about/IN benefits/NNS ,/, I/PRP talk/VBP about/IN ,/, I/PRP 'm/VBP concerned/VBN about/IN medical/JJ benefits/NNS ./.","<Hum> <talking> {D Well, } since I'm kind of on [ the, + the ] older side, {D you know, } [ [ I, + I, ] + I ] just feel like, {F uh, } when I start talking about benefits, [ I talk about, + I'm concerned about ] medical benefits <noise>. /"
+sd,B,"Uh/UH ,/, my/PRP$ ,/, uh/UH ,/, my/PRP$ husband/NN works/NNS for/IN McDonald/NNP Douglas/NNP","{F Uh, } [ my, + {F uh, } my ] husband works for McDonald Douglas /"
+sd,B,"and/CC so/RB his/PRP$ benefits/NNS ,/, his/PRP$ medical/JJ benefits/NNS are/VBP so/RB excellent/JJ ,/, you/PRP know/VBP ,/,","{C and so } [ his benefits, + his medical benefits ] are so excellent, {D you know, } /"
+sd,B,that/DT 's/BES really/RB great/JJ ./.,that's really great. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"You/PRP know/VBP ,/, I/PRP work/VBP for/IN ,/, uh/UH ,/, Wes-/NNP ,/, a/DT bank/NN ,/, Western/NNP Financial/NNP ./.","{D You know, } I work for, {F uh, } [ Wes-, + a bank, Western Financial. ] /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, they/PRP do/VBP n't/RB let/VB me/PRP know/VBP really/RB about/IN anything/NN that/WDT 's/BES going/VBG on/IN ./.","{C And, } {F uh, } they don't let me know really about anything that's going on. /"
+sd,B,"Even/RB some/DT of/IN the/DT immediate/JJ things/NNS that/WDT I/PRP need/VBP to/TO know/VB ,/, I/PRP do/VBP n't/RB know/VB it/PRP until/IN the/DT next/JJ hour/NN","Even some of the immediate things that I need to know, I don't know it until the next hour /"
+sd,B,and/CC all/DT of/IN a/DT sudden/NN we/PRP know/VBP we/PRP 've/VBP got/VBD changes/NNS made/VBN ./.,{C and } all of a sudden we know we've got changes made. /
+sd,B,We/PRP 're/VBP changing/VBG departments/NNS ./.,We're changing departments. /
+sd,B,We/PRP 're/VBP changing/VBG policies/NNS ./.,We're changing policies. /
+sd,B,"We/PRP 're/VBP changing/VBG doing/VBG other/JJ kinds/NNS of/IN things/NNS ./. Which/WDT to/IN me/PRP is/VBZ ,/, is/VBZ disturbing/JJ ./.","We're changing doing other kinds of things. Which to me [ is, + is ] disturbing <lipsmack>. /"
+sd,B,"I/PRP mean/VBP ,/, I/PRP feel/VBP like/IN if/IN ,/, I/PRP ,/, I/PRP do/VBP n't/RB necessarily/RB need/VB to/TO ,/, uh/UH ,/, be/VB involved/JJ since/IN I/PRP 'm/VBP pretty/RB much/JJ on/IN a/DT low/JJ level/NN ,/,","{E I mean, } I feel like if, [ I, + I ] don't necessarily need to, {F uh, } be involved since I'm pretty much on a low level, /"
+sv,B,"you/PRP are/VBP ,/, you/PRP are/VBP right/RB there/RB ./.","[ you are, + you are ] right there. /"
+sd,B,"You/PRP know/VBP ,/, I/PRP 'm/VBP pretty/RB much/JJ on/IN a/DT low/JJ level/NN as/RB far/RB as/IN ,/, uh/UH ,/, the/DT company/NN is/VBZ concerned/VBN ./.","{D You know, } I'm pretty much on a low level as far as, {F uh, } the company is concerned. /"
+sd,B,"But/CC I/PRP ,/, I/PRP do/VBP kind/RB of/RB like/VB to/TO know/VB what/WP 's/BES going/VBG on/RB and/CC what/WP 's/BES happening/VBG","{C But } [ I, + I ] do kind of like to know what's going on and what's happening /"
+sd,B,"and/CC I/PRP think/VBP I/PRP can/MD be/VB a/DT better/JJR and/CC more/JJR effective/NN employee/NN if/IN ,/, if/IN I/PRP --/:","{C and } I think I can be a better and more effective employee [ if, + if ] I --"
+%,A,"Well/UH ,/, th-/XX ,/,","{D Well, } th-, - /"
+sd,A,I/PRP --/:,[ [ I + --
++,B,--/: had/VBD a/DT little/JJ bit/NN more/JJR information/NN along/IN that/DT line/NN ./.,-- had a little bit more information along that line. /
++,A,--/: I/PRP well/UH I/PRP work/VBP for/IN the/DT government/NN,-- I ] + (( {D well } )) I ] work for the government /
+sd,A,"and/CC ,/, uh/UH ,/, actually/RB I/PRP work/VBP for/IN the/DT F/NNP B/NNP I/NNP ./.","{C and, } {F uh, } actually I work for the F B I. /"
+ba,B,"Oh/UH ,/, my/PRP$ gosh/UH ./.","{F Oh, } my gosh. /"
+sd,A,"And/CC ,/, uh/UH ,/, and/CC so/RB ,/, you/PRP know/VBP ,/, we/PRP ,/, we/PRP do/VBP n't/RB ,/, there/EX 's/BES lots/NNS of/IN things/NNS that/WDT we/PRP do/VBP n't/RB get/VB told/VBN ./. For/IN good/JJ reason/NN ./.","[ {C And, } + {F uh, } {C and so, } ] {D you know, } [ [ we, + we ] don't, + there's lots of things that we don't ] get told. For good reason. /"
+sd,A,"But/CC ,/, uh/UH ,/, but/CC basically/RB ,/, uh/UH ,/, there/EX 's/BES lots/NNS of/IN things/NNS that/WDT ,/, that/WDT we/PRP should/MD know/VB about/IN projects/NNS ./.","[ {C But, } + {F uh, } {C but } ] basically, {F uh, } there's lots of things [ that, + that ] we should know about projects. /"
+sd,A,I/PRP 'm/VBP an/DT engineer/NN ./. You/PRP know/VBP ./.,I'm an engineer. {D You know. } /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP a/DT COTR/NN ./.","[ I'm, + I'm ] a COTR. /"
+%,A,"And/CC sometim-/RB ,/,","{C And } sometim-, - /"
+sd,A,"and/CC I/PRP ,/, I/PRP worked/VBD in/IN the/DT same/JJ lab/NN with/IN a/DT guy/NN","{C and } [ I, + I ] worked in the same lab with a guy /"
+sd,A,and/CC we/PRP did/VBD n't/RB really/RB know/VB that/RB much/RB about/IN each/DT other/NN 's/POS projects/NNS for/IN two/CD years/NNS ./.,{C and } we didn't really know that much about each other's projects for two years. /
+sd,A,"And/CC we/PRP should/MD have/VB ,/,","{C And } we should have, /"
+sd,A,"you/PRP know/VBP ,/, we/PRP 're/VBP ,/, we/PRP 're/VBP now/RB collaborating/VBG ./.","{D you know, } [ we're, + we're ] now collaborating. /"
+%,B,Oh/UH ./.,{F Oh. } /
+%,A,And/CC MUMBLEx/XX --/:,<Laughter> {C And } (( )) -- -/
+%,B,"And/CC it/PRP ,/, it/PRP ,/,","(( {C And } [ it, + it ] )) , -/"
+sd,A,"--/: for/IN two/CD years/NNS we/PRP did/VBD n't/RB ./. And/CC ,/, we/PRP ,/, which/WDT was/VBD a/DT ,/, kind/RB of/RB stupid/NN ./.","-- for two years we didn't. [ And, we, + ] which was [ a, + ] kind of stupid. /"
+sd,A,"But/CC ,/, uh/UH ,/, but/CC our/PRP$ organization/NN is/VBZ doing/VBG something/NN else/RB t-/XX ,/, on/IN Monday/NNP ./.","[ {C But, } + {F uh, } {C but } ] our organization is doing something else [ t-, + ] on Monday. /"
+sd,A,"Uh/UH ,/, we/PRP 're/VBP having/VBG a/DT ,/, for/IN all/DT unclassified/JJ programs/NNS ,/, we/PRP 're/VBP ,/, we/PRP 're/VBP having/VBG little/JJ tables/NNS put/VB up/RP in/IN front/NN of/IN MUMBLEx/XX lab/NN in/IN the/DT hallways/NNS","{F Uh, } [ we're having a, + for all unclassified programs, [ we're, + we're ] having ] little tables put up in front of (( )) lab in the hallways /"
+sd,A,"and/CC every/DT ,/, all/PDT the/DT other/JJ employees/NNS are/VBP going/VBG to/TO come/VB around/RB and/CC see/VB what/WP sort/NN of/IN things/NNS we/PRP do/VBP ./. Which/WDT I/PRP thought/VBD was/VBD kind/RB of/RB interesting/JJ and/CC ,/,","{C and } [ every, + all ] the other employees are going to come around and see what sort of things we do. Which I thought was kind of interesting [ [ {C and, } +"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,that/DT is/VBZ interesting/JJ ./.,that is interesting. /
++,A,"But/CC ,/, uh/UH ,/, but/CC that/DT ,/, that/DT sort/NN ,/, sort/NN of/IN thing/NN ./.","{C But, } ] + {F uh, } {C but } ] [ that, + that ] [ sort, + sort ] of thing. -/"
+x,B,./.,<Noise>.
+sv,A,"But/CC ,/, if/IN you/PRP ,/, I/PRP think/VBP you/PRP can/MD tolerate/VB a/DT lot/NN of/IN problems/NNS if/IN you/PRP understand/VB what/WP 's/BES going/VBG on/IN ./.","{C But, } [ if you, + I think you ] can tolerate a lot of problems if you understand what's going on. /"
+aa,B,Exactly/UH ./.,Exactly. /
+sd,A,"And/CC ,/, and/CC ,/, but/CC of/IN course/NN most/JJS time/NN ,/, most/JJS of/IN the/DT time/NN management/NN has/VBZ a/DT hard/JJ time/NN distributing/VBG or/CC getting/VBG the/DT word/NN out/IN to/IN the/DT people/NNS who/WP must/MD know/VB ./.","[ [ {C And, } + {C and, } ] + {C but } ] of course [ most time, + most of the time ] management has a hard time distributing or getting the word out to the people who must know. /"
+sd,A,"And/CC ,/, you/PRP know/VBP ,/, if/IN you/PRP do/VBP n't/RB really/RB count/VB ./. If/IN you/PRP 're/VBP not/RB part/NN of/IN the/DT program/NN you/PRP might/MD not/RB get/VB told/VBN for/IN months/NNS ./.","{C And, } {D you know, } if you don't really count. If you're not part of the program you might not get told for months. /"
+sd,A,"Or/CC you/PRP might/MD ,/, you/PRP know/VBP ,/, if/IN it/PRP does/VBZ n't/RB impact/VB you/PRP directly/RB ./. Or/CC if/IN your/PRP$ management/NN does/VBZ n't/RB think/VB that/DT ./.","{C Or } you might, {D you know, } if it doesn't impact you directly. Or if your management doesn't think that. - /"
+sd,A,"But/CC ,/, but/CC regard/NN to/IN benefits/NNS ./. You/PRP know/VBP ,/, most/JJS companies/NNS have/VBP ,/, most/RBS big/JJ organizations/NNS have/VBP decent/JJ ,/, you/PRP know/VBP ,/, benefits/NNS like/IN retirement/NN and/CC that/DT sort/NN of/IN thing/NN ./.","[ {C But, } + {C but } ] regard to benefits. {D You know, } [ most companies have, + most big organizations have ] decent, {D you know, } benefits like retirement and that sort of thing. /"
+sv,A,"In/IN the/DT private/JJ sector/NN I/PRP would/MD think/VB that/IN one/CD of/IN the/DT major/JJ ,/, uh/UH ,/, situations/NNS ,/, especially/RB when/WRB you/PRP reach/VBP ,/, you/PRP know/VBP ,/, the/DT ,/, the/DT mid-fifties/NNS ,/, wa/VBD ,/, is/VBZ keeping/VBG a/DT job/NN until/IN you/PRP retire/VBP ./.","In the private sector I would think that one of the major, {F uh, } situations, especially when you reach, {D you know, } [ the, + the ] mid-fifties, [ wa-, + is ] <swallowing> keeping a job until you retire. /"
+%,B,"A-/XX ,/,","A-, - /"
+b,B,right/UH ./.,right. /
+sv,A,"And/CC engineers/NNS are/VBP ,/, uh/UH ,/, are/VBP baggage/NN to/IN most/JJS ,/, uh/UH ,/, uh/UH ,/, as/IN they/PRP get/VBP older/JJR ,/, to/IN ,/, to/IN most/JJS companies/NNS ./.","{C And } engineers [ are, + {F uh, } <throat_clearing> are ] baggage [ to most, + ] {F uh, } {F uh, } as they get older, [ to, + to ] most companies. /"
+sv,A,"And/CC ,/, uh/UH ,/, it/PRP 's/BES very/RB much/JJ like/IN the/DT military/JJ ,/,","{C And, } {F uh, } it's very much like the military, /"
+sv,A,it/PRP windows/VBZ out/RP ./.,it windows out. /
+sv,A,"You/PRP know/VBP ,/, you/PRP ,/, you/PRP think/VBP well/UH ,/, boy/UH ,/, I/PRP 'm/VBP getting/VBG more/JJR money/NN","{D You know, } [ you, + you ] think {D well, } boy, I'm getting more money /"
+^q,A,"and/CC I/PRP 'm/VBP getting/VBG more/RBR responsibility/NN ,/,","{C and } I'm getting more responsibility, /"
+^q,A,I/PRP 'm/VBP doing/VBG this/DT ./.,I'm doing this. /
+sv,A,"But/CC as/IN you/PRP climb/VBP up/RB that/DT tree/NN ,/, pretty/RB soon/RB you/PRP 're/VBP ,/, the/DT ,/, the/DT branches/NNS get/VBP smaller/JJR on/IN the/DT top/NN of/IN the/DT tree/NN --/:","{C But } as you climb up that tree, pretty soon [ you're, + ] [ the, + the ] branches get smaller on the top of the tree -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,--/: and/CC pretty/RB soon/RB somebody/NN falls/VBZ off/RB ./.,-- {C and } pretty soon somebody falls off. /
+sd,A,"I/PRP ,/, I/PRP 've/VBP fallen/VBN off/RP twice/RB in/IN the/DT private/JJ sector/NN ./.","[ I, + I've ] fallen off twice in the private sector. /"
+%,B,Oh/UH ./.,{F Oh. } /
+sd,A,"And/CC ,/, uh/UH ,/, and/CC ,/, you/PRP know/VBP ,/, I/PRP can/MD get/VB up/RB ,/,","[ {C And, } + {F uh, } <laughter> {C and, } ] {D you know, } I can get up, /"
+aa,B,I/PRP know/VBP ./.,I know. /
+sv,B,"It/PRP ,/, it/PRP seems/VBZ to/TO be/VB ,/, be/VB kind/RB of/RB ,/, kind/RB of/RB scary/JJ ,/, you/PRP know/VBP ./. Because/IN you/PRP think/VBP of/IN ,/,","[ It, + it ] seems to [ be, + be ] [ kind of, + kind of ] scary, {D you know. } Because you think of, - /"
+sd,B,"uh/UH ,/, see/UH my/PRP$ son/NN 's/BES eighteen/CD right/RB now/RB","{F uh, } {D see } my son's eighteen right now /"
+sd,B,"and/CC he/PRP ,/, he/PRP 's/BES ,/, uh/UH ,/, he/PRP wants/VBZ to/TO go/VB into/IN engineering/NN ./.","{C and } [ [ he, + he's, ] + {F uh, } <sigh> he ] wants to go into engineering. /"
+sd,B,"And/CC the/DT ,/, the/DT ,/, the/DT branches/NNS of/IN engineering/NN that/WDT he/PRP wants/VBZ to/TO go/VB into/IN is/VBZ now/RB kind/RB of/RB open/JJ","{C And } [ [ the, + the, ] + the ] branches of engineering that he wants to go into is now kind of open /"
+sd,B,"and/CC he/PRP 's/BES interested/JJ in/IN ,/, basically/RB ,/, three/CD different/JJ areas/NNS ./.","{C and } he's interested in, basically, three different areas. /"
+sd,B,"But/CC ,/, uh/UH ,/, it/PRP 's/BES difficult/JJ for/IN me/PRP to/TO try/VB to/TO give/VB him/PRP any/DT kind/NN of/IN advice/NN or/CC to/TO advise/VB him/PRP or/CC anything/NN like/IN that/DT ./.","{C But, } {F uh, } it's difficult for me to try to give him any kind of advice or to advise him or anything like that. /"
+sd,B,"He/PRP needs/VBZ to/TO do/VB his/PRP$ own/JJ course/NN of/IN investigation/NN and/CC ,/, and/CC see/VB what/WP he/PRP can/MD do/VB because/IN who/WP knows/VBZ what/WP 's/BES going/VBG to/TO happen/VB in/IN another/DT thirty/CD years/NNS ./.","He needs to do his own course of investigation [ and, + and ] see what he can do because who knows what's going to happen in another thirty years. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,And/CC in/IN thirty/CD years/NNS it/PRP becomes/VBZ pretty/RB critical/JJ ./.,{C And } in thirty years it becomes pretty critical. /
+sd,B,"I/PRP mean/VBP ,/, my/PRP$ ,/, uh/UH ,/, brother-in-law/NN is/VBZ like/UH ,/, uh/UH ,/, I/PRP mean/VBP he/PRP 's/BES sixty/CD ./.","{E I mean, } my, {F uh, } brother-in-law [ is like, + {F uh, } {E I mean } he's ] sixty. /"
+sd,B,He/PRP 's/BES not/RB ready/JJ to/TO retire/VB,He's not ready to retire /
+sd,B,"but/CC his/PRP$ company/NN is/VBZ ,/, is/VBZ ,/, uh/UH ,/, is/VBZ ,/, uh/UH ,/, closing/VBG up/RP ./.","{C but } his company [ [ is, + is, ] + {F uh, } is, ] {F uh, } closing up. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC because/IN of/IN the/DT defense/NN cutbacks/NNS and/CC all/PDT that/DT kind/NN of/IN stuff/NN ./. And/CC all/PDT the/DT nuclear/JJ and/CC stuff/NN which/WDT is/VBZ what/WP he/PRP ,/, what/WP he/PRP was/VBD working/VBG on/IN ./. He/PRP 's/BES getting/VBG cut/VBN back/RB","{C And } because of the defense cutbacks and all that kind of stuff. And all the nuclear and stuff which is [ what he, + what he ] was working on. He's getting cut back /"
+sd,B,and/CC he/PRP 's/BES not/RB ready/JJ to/TO retire/VB ./.,{C and } he's not ready to retire </hum> </talking>. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+bf,A,he/PRP may/MD be/VB retired/VBN ./.,he may be retired. /

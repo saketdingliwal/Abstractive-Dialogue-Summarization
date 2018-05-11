@@ -1,0 +1,266 @@
+act_tag,speaker,pos,text
+sd,A,"Well/UH Brent/NNP ,/, I/PRP 've/VBP been/VBN ,/, um/UH ,/, I/PRP kind/RB of/RB gave/VBD up/RP my/PRP$ career/NN about/RB three/CD years/NNS ago/RB to/TO stay/VB home/RB with/IN my/PRP$ children/NNS because/IN I/PRP thought/VBD ,/, uh/UH ,/, if/IN it/PRP ,/, it/PRP 's/BES only/RB going/VBG to/TO be/VB another/DT year/NN until/IN the/DT youngest/JJS is/VBZ in/IN school/NN ./.","{D Well } Brent, [ I've been, + {F um, } I kind of ] gave up my career about three years ago to stay home with my children because I thought, {F uh, } [ if it, + it's ] only going to be another year until the youngest is in school. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC I/PRP thought/VBD it/PRP was/VBD a/DT good/JJ sacrifice/NN to/TO make/VB ,/,","{C And } I thought it was a good sacrifice to make,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"because/IN ,/, um/UH ,/, it/PRP was/VBD important/JJ to/IN me/PRP to/TO ,/, to/TO spend/VB some/DT time/NN with/IN kids/NNS ./.","because, {F um, } it was important to me [ to, + to ] spend some time with kids. /"
+sd,A,"I/PRP know/VBP that/IN when/WRB I/PRP was/VBD in/IN school/NN and/CC getting/VBG my/PRP$ degree/NN at/IN the/DT same/JJ time/NN my/PRP$ husband/NN was/VBD ,/, it/PRP was/VBD really/RB hard/JJ on/IN our/PRP$ family/NN because/IN I/PRP would/MD ,/, he/PRP would/MD come/VB home/RB","I know that when I was in school and getting my degree at the same time [ my husband was, + it was ] really hard on our family because [ I would, + he would ] come home /"
+sd,A,"and/CC I/PRP would/MD leave/VB ,/,","{C and } I would leave, /"
+b,B,Right/UH ./.,Right. /
+sd,A,and/CC then/RB when/WRB I/PRP would/MD come/VB home/RB,{C and then } [ when + ] I would come home /
+sd,A,"and/CC he/PRP would/MD leave/VB ,/,","{C and } he would leave, /"
+sd,A,"and/CC ,/, um/UH ,/, so/RB I/PRP think/VBP one/CD day/NN one/CD of/IN our/PRP$ kids/NNS said/VBD ,/, you/PRP know/VBP ,/,","{C and, } {F um, } {D so } I think one day one of our kids said, {D you know, } - /"
+sd,A,someone/NN came/VBD home/RB,someone came home /
+sd,A,"and/CC they/PRP said/VBD ,/, well/UH ,/, when/WRB is/VBZ dad/NN leaving/VBG or/CC something/NN ./.","{C and } they said, {D well, } when is dad leaving or something. /"
+sd,A,"It/PRP was/VBD like/IN that/IN they/PRP thought/VBD that/DT 's/BES the/DT way/NN life/NN was/VBD ,/,","It was like that <children> they thought that's the way life was,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,that/IN you/PRP did/VBD n't/RB have/VB two/CD parents/NNS at/IN home/NN at/IN the/DT same/JJ time/NN ./.,that you didn't have two parents at home at the same time. /
+sd,A,"And/CC so/RB I/PRP think/VBP ,/, um/UH ,/, it/PRP 's/HVS become/VBN real/RB important/JJ to/IN me/PRP that/IN we/PRP try/VBP to/TO spend/VB time/NN together/RB as/IN a/DT family/NN ./.","{C And so } I think, {F um, } it's become real important to me that we try to spend time together as a family. /"
+sd,A,"So/RB there/EX 's/BES one/CD or/CC two/CD nights/NNS a/DT week/NN ,/, we/PRP have/VBP a/DT ,/,","{D So } there's one or two nights a week, we have a, - /"
+sd,A,"on/IN Monday/NNP nights/NNS we/PRP set/VBP aside/RB time/NN where/WRB it/PRP 's/BES called/VBN ,/, uh/UH ,/, family/NN home/NN evening/NN","on Monday nights we set aside time where it's called, {F uh, } family home evening /"
+sd,A,"and/CC we/PRP stay/VBP home/RB that/DT evening/NN ,/, all/DT of/IN us/PRP ,/,","{C and } we stay home that evening, all of us, /"
+sd,A,and/CC we/PRP do/VBP things/NNS together/RB ./.,{C and } we do things together. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy^d,B,You/PRP must/MD be/VB a/DT MUMBLEx/XX ./.,You must be a (( )) . /
+ny,A,Yes/UH ./.,Yes. /
+sd,B,So/RB am/VBP I/PRP ./.,So am I. /
+bh,A,"Oh/UH ,/, you/PRP are/VBP ?/.","{F Oh, } you are? /"
+ny,B,"Yes/UH ,/,","Yes, /"
+sv,B,what/WP a/DT coincidence/NN ./.,what a coincidence. /
+x,A,,<Laughter>.
+x,B,,<Laughter>.
+aa,A,Yes/UH,Yes /
+%,A,"and/CC ,/,","{C and, } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP know/VBP what/WP family/NN home/NN evening/NN 's/BES all/DT about/IN ./.,I know what family home evening's all about. /
+bf,A,So/RB you/PRP do/VBP that/DT,{D So } you do that /
+sd,A,"and/CC ,/, right/UH ,/, and/CC then/RB we/PRP try/VBP to/TO do/VB a/DT family/NN activity/NN on/IN Saturday/NNP ,/,","[ {C and, } + right, {C and then } ] we try to do a family activity on Saturday,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,usually/RB in/IN the/DT morning/NN ./.,usually in the morning. /
+aa,B,"Right/UH ,/,","Right, /"
+qy^d,B,"and/CC then/RB the/DT family/NN home/NN evening/NN ,/, too/RB ./.","{C and then } the family home evening, too. /"
+na,A,"Right/UH ,/,","Right, /"
+sd,A,"and/CC then/RB ,/, you/PRP know/VBP ,/, sometimes/RB we/PRP try/VBP to/TO do/VB our/PRP$ lesson/NN on/IN Sunday/NNP night/NN and/CC then/RB our/PRP$ activity/NN or/CC something/NN on/IN Monday/NNP","{C and then, } {D you know, } sometimes we try to do our lesson on Sunday night and then our activity or something on Monday /"
+sd,A,"but/CC ,/,","{C but, }"
+b,B,Right/UH ./.,Right. /
++,A,"We/PRP 're/VBP ,/, it/PRP 's/BES real/RB important/JJ to/IN us/PRP to/TO spend/VB time/NN together/RB ./.","[ We're, + it's ] real important to us to spend time together. /"
+ba,B,"Well/UH ,/, that/DT 's/BES good/JJ ./.","{D Well, } that's good. /"
+qw,B,"Um/UH ,/, how/WRB many/JJ children/NNS do/VBP you/PRP have/VB ?/.","{F Um, } how many children do you have? /"
+sd,A,I/PRP have/VBP two/CD ./.,I have two. /
+qy,B,Two/CD ?/.,Two? /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP have/VBP a/DT girl/NN and/CC a/DT boy/NN ,/,","I have a girl and a boy, /"
+sd,A,"and/CC the/DT boy/NN 's/BES five/CD ,/,","{C and } the boy's five, /"
+sd,A,"he/PRP 's/BES in/IN kindergarten/NN ,/,","he's in kindergarten, /"
+sd,A,and/CC the/DT girl/NN is/VBZ four/CD ./.,{C and } the girl is four. /
+sd,A,She/PRP 'll/MD be/VB in/IN kindergarten/NN next/JJ year/NN ./.,She'll be in kindergarten next year. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,I/PRP have/VBP two/CD daughters/NNS ./.,I have two daughters. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"My/PRP$ oldest/JJS is/VBZ ,/, uh/UH ,/, four/CD","My oldest is, {F uh, } four /"
+sd,B,and/CC my/PRP$ youngest/JJS is/VBZ about/RB to/TO turn/VB three/CD ./.,{C and } my youngest is about to turn three. /
+b,B,Two/CD girls/NNS ./.,Two girls. /
+sd,B,And/CC they/PRP are/VBP a/DT handful/NN ./.,{C And } they are a handful <laughter>. /
+aa,A,They/PRP are/VBP a/DT handful/NN ./.,They are a handful. /
+aa,B,Yes/UH ./.,Yes. /
+sd,B,"We/PRP 've/VBP ,/, my/PRP$ ,/, uh/UH ,/, well/UH ,/, when/WRB we/PRP first/RB got/VBN married/VBN ,/, my/PRP$ wife/NN worked/VBD for/IN a/DT year/NN ./.","[ [ We've, + my, ] + {F uh, } {D well, } when we ] first got married, my wife worked for a year. /"
+sd,B,Then/RB we/PRP decided/VBD to/TO have/VB kids/NNS ./.,Then we decided to have kids. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, she/PRP ,/, she/PRP got/VBD pregnant/JJ","{C And, } {F uh, } [ she, + she ] got pregnant /"
+sd,B,and/CC then/RB we/PRP decided/VBD she/PRP would/MD stay/VB home/RB with/IN the/DT kids/NNS ./.,{C and then } we decided she would stay home with the kids. /
+sd,B,We/PRP would/MD make/VB that/DT sacrifice/NN ./.,We would make that sacrifice. /
+sd,B,It/PRP is/VBZ a/DT financial/JJ sacrifice/NN to/TO make/VB because/IN we/PRP go/VBP from/IN two/CD incomes/NNS down/IN to/IN one/CD ./.,It is a financial sacrifice to make because we go from two incomes down to one. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, we/PRP made/VBD that/DT decision/NN","{C And, } {F uh, } we made that decision /"
+sd,B,"and/CC ,/, uh/UH ,/, so/RB sh-/PRP ,/, after/IN she/PRP had/VBD the/DT first/JJ baby/NN ,/, she/PRP stayed/VBD home/RB ./.","{C and, } {F uh, } {D so } [ sh-, + after she ] had the first baby, she stayed home. /"
+sd,B,"And/CC ,/, and/CC we/PRP had/VBD a/DT second/JJ baby/NN","[ {C And, } + {C and } ] we had a second baby /"
+sd,B,and/CC she/PRP 's/BES still/RB at/IN home/NN ./.,{C and } she's still at home <laughter>. /
+b,A,Yes/UH ./.,<Laughter> Yes. /
+sd,B,"And/CC so/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, at/IN work/NN a/DT lot/NN of/IN people/NNS are/VBP ,/, you/PRP know/VBP ,/,","{C And so, } {F uh, } {D you know, } at work a lot of people are, {D you know, } - /"
+sv,B,"I/PRP think/VBP well/UH this/DT is/VBZ not/RB a/DT normal/JJ situation/NN anymore/RB in/IN our/PRP$ ,/, in/IN our/PRP$ world/NN we/PRP live/VBP in/IN ./.","I think (( {D well } )) this is not a normal situation anymore [ in our, + in our ] world we live in. /"
+sv,B,"Most/JJS of/IN them/PRP ,/, uh/UH ,/, continue/VBP to/TO work/VB if/IN they/PRP have/VBP ,/, have/VBP kids/NNS ./.","Most of them, {F uh, } continue to work if they [ have, + have ] kids. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP only/RB have/VBP one/CD other/JJ person/NN I/PRP know/VBP in/IN my/PRP$ ,/, in/IN my/PRP$ group/NN here/RB that/WDT works/VBP where/WRB the/DT wife/NN stays/VBZ home/RB ,/,","I only have one other person I know [ in my, + in my ] group here that works where the wife stays home, /"
+sd,B,and/CC that/DT 's/BES because/IN of/IN religious/JJ values/NNS as/IN well/RB ./.,{C and } that's because of religious values as well. /
+sd,B,They/PRP 're/VBP Baptists/NNS,They're Baptists /
+sd,B,"and/CC they/PRP ,/, and/CC they/PRP think/VBP that/DT 's/BES important/JJ ./.","[ {C and } they, + {C and } they ] think that's important. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,But/CC everybody/NN else/RB works/VBZ,{C But } everybody else works /
+sv,B,"and/CC they/PRP drop/VBP their/PRP$ kids/NNS off/RP at/IN day-care/NN and/CC ,/, and/CC leave/VBP them/PRP","{C and } they drop their kids off at day-care [ and, + and ] leave them /"
+sd,B,"and/CC ,/, I/PRP do/VBP n't/RB know/VB ,/, I/PRP just/RB do/VBP n't/RB want/VB ,/, I/PRP just/RB do/VBP n't/RB want/VB strangers/NNS raising/VBG my/PRP$ children/NNS ./.","{C and, } I don't know, [ I just don't want, + I just don't want ] strangers raising my children. /"
+aa,A,"Well/UH ,/, no/UH ,/,","{D Well, } no, /"
+sv,A,"and/CC it/PRP 's/BES ,/, it/PRP 's/BES just/RB not/RB ,/, um/UH ,/, it/PRP 's/BES not/RB as/RB stable/JJ for/IN the/DT kids/NNS ,/,","{C and } [ [ it's, + it's just not, ] + {F um, } it's not ] as stable for the kids, /"
+b,B,Right/UH ./.,Right. /
+sd,A,"and/CC they/PRP ,/, everybody/NN decided/VBD to/TO come/VB over/RP and/CC talk/VB to/IN me/PRP right/RB now/RB ./.","{C and } [ they, + everybody ] decided to come over and talk to me right now. /"
+%,A,"But/CC ,/, uh/UH ,/, it/PRP 's/BES ,/, yeah/UH ./.","{C But, } {F uh, } it's, yeah. -/"
+sd,B,That/DT 's/BES how/WRB it/PRP is/VBZ at/IN our/PRP$ house/NN when/WRB you/PRP 're/VBP on/IN the/DT phone/NN ./.,<Laughter> That's how it is at our house when you're on the phone. /
+^q,B,"Oh/UH ,/, it/PRP 's/BES open/JJ ,/,","{F Oh, } it's open, /"
+^q,B,anything/NN goes/VBZ when/WRB mom/NN 's/BES on/IN the/DT phone/NN ./.,anything goes when mom's on the phone <laughter>. /
+sd,A,"Well/UH ,/, it/PRP 's/BES also/RB important/JJ ,/, I/PRP think/VBP ,/, um/UH ,/, for/IN my/PRP$ husband/NN ./.","<Laughter> {D Well, } it's also important, I think, {F um, } for my husband. /"
+sd,A,"I/PRP ,/, I/PRP try/VBP to/TO go/VB out/IN of/IN my/PRP$ way/NN to/TO ,/, to/TO plan/VB things/NNS that/DT he/PRP can/MD do/VB with/IN the/DT kids/NNS because/IN ,/,","[ I, + I ] try to go out of my way [ to, + to ] plan things that he can do with the kids because,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"since/IN I/PRP am/VBP home/RB with/IN them/PRP and/CC so/RB I/PRP get/VBP a/DT lot/NN of/IN time/NN with/IN them/PRP ,/, he/PRP needs/VBZ to/TO have/VB ,/, um/UH ,/, some/DT time/NN with/IN them/PRP ./.","{A since I am home with them and so I get a lot of time with them, } he needs to have, {F um, } some time with them. /"
+sd,A,"So/RB he/PRP ,/, when/WRB he/PRP comes/VBZ home/RB ,/, he/PRP ,/, um/UH ,/, you/PRP know/VBP ,/, it/PRP 's/BES his/PRP$ job/NN at/IN night/NN ./. He/PRP puts/VBZ the/DT kids/NNS to/IN bed/NN ,/,","{D So } [ he, + when he comes home, [ he, + {F um, } {D you know, } {A it's his job at night. } He ] ] puts the kids to bed, /"
+b,B,Right/UH ./.,Right. /
+sd,A,"and/CC he/PRP reads/VBZ to/IN them/PRP ,/,","{C and } he reads to them, /"
+b,B,Right/UH ./.,Right. /
+sd,A,"and/CC he/PRP spends/VBZ about/RB an/DT hour/NN doing/VBG that/DT ,/,","{C and } he spends about an hour doing that, /"
+sd,A,"and/CC that/DT 's/BES ,/, that/DT 's/BES pretty/RB good/JJ quality/NN time/NN ,/,","{C and } [ that's, + that's ] pretty good quality time,"
+b,B,Right/UH ./.,Right. /
++,A,"with/IN them/PRP ,/,","with them, /"
+sd,A,"and/CC ,/, um/UH ,/, but/CC it/PRP 's/BES hard/JJ for/IN him/PRP on/IN Saturdays/NNPS ./.","[ {C and, } + {F um, } {C but } ] it's hard for him on Saturdays. /"
+sd,A,"He/PRP ,/, he/PRP wants/VBZ ,/,","[ [ He, + he wants, ] +"
+qy^d,B,With/IN all/PDT the/DT yard/NN work/NN and/CC things/NNS like/IN that/DT ./.,With all the yard work and things like that. /
++,A,"Right/UH ,/, he/PRP wants/VBZ to/TO run/VB out/RP and/CC get/VB things/NNS done/VBN ,/,","Right, he wants ] to run out and get things done, /"
+sd,A,"and/CC so/RB ,/, um/UH ,/, I/PRP try/VBP to/TO say/VB ,/, well/UH ,/, why/WRB do/VBP n't/RB you/PRP go/VB fly/VB kites/NNS","{C and so, } {F um, } I try to say, {D well, } why don't you go fly kites /"
+^q,A,or/CC why/WRB do/VBP n't/RB you/PRP --/:,{C or } why don't you --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: do/VB something/NN ./.,-- do something. /
+sd,A,"And/CC if/IN I/PRP have/VBP something/NN in/IN mind/NN ,/, then/RB he/PRP ,/, he/PRP remembers/VBZ that/IN ,/,","{C And } if I have something in mind, then [ he, + he ] remembers that,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,that/DT 's/BES what/WP he/PRP wants/VBZ to/TO do/VB ./.,that's what he wants to do. /
+b,B,"Right/UH ,/,","Right, /"
+sv,B,"we/PRP feel/VBP that/IN ,/, you/PRP know/VBP ,/, just/RB spending/VBG time/NN together/RB ./.","we feel that, {D you know, } just spending time together. - /"
+sv,B,"You/PRP do/VBP n't/RB necessarily/RB have/VB to/TO be/VB doing/VBG anything/NN ,/, you/PRP know/VBP ,/, that/WDT costs/VBZ money/NN or/CC ,/, or/CC ,/, you/PRP know/VBP ,/, that/WDT requires/VBZ you/PRP to/TO go/VB a/DT great/JJ distance/NN or/CC anything/NN like/IN that/DT ./.","You don't necessarily have to be doing anything, {D you know, } that costs money [ or, + or, ] {D you know, } that requires you to go a great distance or anything like that. /"
+sd,B,"It/PRP 's/BES just/RB the/DT kids/NNS like/VBP to/TO ,/, being/VBG together/RB as/IN a/DT family/NN ./.","It's just the kids like [ to, + being ] together as a family. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Like/IN last/JJ Saturday/NNP we/PRP went/VBD ,/, had/VBD some/DT errands/NNS to/TO run/VB","Like last Saturday we went, had some errands to run /"
+sd,B,"and/CC so/RB we/PRP took/VBD the/DT kids/NNS and/CC ,/, and/CC went/VBD by/IN the/DT Farmers/NNP Market/NNP down/IN in/IN ,/, in/IN ,/, down/IN there/RB in/IN Garland/NNP ./.","{C and so } we took the kids and, and went by the Farmers Market [ [ down in, + in, ] + down there in ] Garland. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC they/PRP had/VBD a/DT blast/NN running/VBG around/IN the/DT Farmers/NNP Market/NNP looking/VBG at/IN all/PDT the/DT ,/, you/PRP know/VBP ,/,","{C And } they had a blast running around the Farmers Market looking at all [ the, + {D you know, }"
+x,A,,<Laughter>.
++,B,the/DT food/NN and/CC tasting/VBG all/PDT the/DT free/JJ samples/NNS they/PRP were/VBD giving/VBG out/RP ./.,the ] food and tasting all the free samples they were giving out. /
+sd,B,"And/CC they/PRP had/VBD a/DT little/JJ pen/NN there/RB with/IN animals/NNS in/IN they/PRP could/MD pet/VB ,/, you/PRP know/VBP ,/,","{C And } they had a little pen there with animals in they could pet, {D you know, }/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,and/CC they/PRP liked/VBD that/DT ./.,{C and } they liked that. /
+sd,B,And/CC then/RB on/IN the/DT way/NN home/RB we/PRP drove/VBD by/IN the/DT local/JJ high/JJ school/NN,{C And then } on the way home we drove by the local high school /
+sd,B,"and/CC there/EX happened/VBD to/TO be/VB an/DT F/NNP A/NNP ,/, F/NNP A/NNP A/NNP ,/, Future/NNP Far-/NNPS ,/, F/NNP A/NNP ,/, Future/NNP Farmers/NNPS of/IN America/NNP ,/, F/NNP F/NNP A/NNP --/:","{C and } there happened to be an [ [ [ [ F A, + F A A, ] + Future Far-, ] + F A, ] + Future Farmers of America, ] F F A --"
+b,A,Yes/UH ./.,Yes. /
++,B,"--/: going/VBG on/RP there/RB ,/,","-- going on there, /"
+sd,B,"and/CC they/PRP had/VBD all/DT kinds/NNS of/IN pigs/NNS and/CC horses/NNS and/CC goats/NNS and/CC sheep/NNS and/CC everything/NN ,/, you/PRP know/VBP ,/, all/DT out/RB in/IN this/DT ,/, in/IN the/DT ,/, in/IN this/DT schoolyard/NN there/RB ./.","{C and } they had all kinds of pigs and horses and goats and sheep and everything, {D you know, } all out [ [ in this, + in the, ] + in this ] schoolyard there. /"
+sd,B,"So/RB we/PRP just/RB said/VBD ,/, hey/UH ,/, let/VB 's/PRP stop/VB","{D So } we just said, {F hey, } let's stop /"
+sd,B,and/CC --/:,[ {C and } + --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC the/DT kids/NNS got/VBD to/TO go/VB around/RP and/CC ,/, you/PRP know/VBP ,/, see/VB pigs/NNS and/CC animals/NNS and/CC things/NNS like/IN that/DT ,/,","-- {C and } ] the kids got to go around and, {D you know, } see pigs and animals and things like that, /"
+sd,B,"and/CC ,/, and/CC for/IN them/PRP that/DT 's/BES wonderful/JJ ,/, you/PRP know/VBP ./.","[ {C and, } + {C and } ] for them that's wonderful, {D you know. } /"
+sd,B,"They/PRP ,/, they/PRP thought/VBD it/PRP was/VBD the/DT greatest/JJS fun/NN ,/, you/PRP know/VBP ,/,","[ They, + they ] thought it was the greatest fun, {D you know, } /"
+sd,B,and/CC it/PRP did/VBD n't/RB cost/VB any/DT money/NN ./.,{C and } it didn't cost any money. /
+sv,B,"And/CC ,/, uh/UH ,/, you/PRP do/VBP n't/RB have/VB quite/RB as/RB much/JJ money/NN when/WRB ,/, when/WRB the/DT wife/NN does/VBZ n't/RB work/VB ./.","{C And, } {F uh, } you don't have quite as much money [ when, + when ] the wife doesn't work. /"
+aa,A,"Well/UH ,/, that/DT 's/BES right/JJ ./.","{D Well, } that's right. /"
+sv,A,"But/CC I/PRP do/VBP think/VB ,/, um/UH ,/, you/PRP know/VBP ,/, like/UH the/DT current/JJ trends/NNS are/VBP that/IN ,/, um/UH ,/, the/DT family/NN unit/NN is/VBZ devaluated/VBN ./.","{C But } I do think, {F um, } {D you know, } {D like } the current trends are that, {F um, } the family unit is devaluated. /"
+sv,A,It/PRP 's/BES not/RB --/:,It's not --
+b,B,Right/UH ./.,Right. /
++,A,--/: nearly/RB as/RB important/JJ ./.,-- nearly as important. /
+sv,A,"We/PRP find/VBP that/IN ,/, you/PRP know/VBP ,/, back/RB just/RB even/RB fifty/CD years/NNS ago/RB when/WRB people/NNS had/VBD financial/JJ problems/NNS ,/, the/DT first/JJ place/NN they/PRP went/VBD to/IN was/VBD their/PRP$ family/NN ./.","We find that, {D you know, } back just even fifty years ago when people had financial problems, the first place they went to was their family. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,And/CC families/NNS took/VBD care/NN of/IN themselves/PRP,{C And } families took care of themselves /
+sv,A,"and/CC ,/, um/UH ,/, but/CC now/RB ,/, you/PRP know/VBP ,/, people/NNS do/VBP n't/RB ,/, they/PRP do/VBP n't/RB --/:","[ {C and, } + {F um, } {C but } ] now, {D you know, } [ people don't, + they don't -- ]"
+b,B,Right/UH ./.,Right. /
++,A,--/: support/VB each/DT other/JJ that/DT way/NN ./.,-- support each other that way. /
+aa,B,Right/UH ./.,Right. /
+sv,B,"Oh/UH ,/, definitely/RB motherhood/NN is/VBZ devalued/VBN in/IN this/DT s-/NN ,/, society/NN ./.","{F Oh, } definitely motherhood is devalued in this [ s-, + society. ] /"
+sv,B,"If/IN you/PRP 're/VBP ,/, stay/VBP at/IN home/NN and/CC you/PRP 're/VBP a/DT mother/NN ,/, it/PRP 's/BES like/IN what/WP a/DT waste/NN ./.","If you're, stay at home and you're a mother, it's {D like } what a waste."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"People/NNS think/VBP ,/, you/PRP know/VBP ,/, you/PRP should/MD be/VB fulfilling/VBG yourself/PRP","People think, {D you know, } you should be fulfilling yourself /"
+sv,B,"and/CC ,/, and/CC a/DT mother/NN is/VBZ n't/RB an/DT important/JJ --/:","[ {C and, } + {C and } ] a mother isn't an [ important + --"
+aa,A,That/DT 's/BES right/JJ,That's right /
+%,A,"and/CC ,/,","{C and, } -/"
++,B,"--/: important/JJ thing/NN as/IN ,/, as/IN having/VBG a/DT career/NN","-- important ] thing [ as, + as ] having a career /"
+sv,B,"and/CC ,/, and/CC that/DT should/MD be/VB first/JJ and/CC ,/, and/CC children/NNS second/JJ ./.","[ {C and, } + {C and } ] that should be first and, and children second. /"
+sv,B,"But/CC they/PRP do/VBP n't/RB have/VB kind/RB of/RB an/DT ,/, what/WP we/PRP call/VBP an/DT internal/JJ perspective/NN of/IN things/NNS ./.","{C But } they don't have [ kind of an, + what we call an ] internal perspective of things. /"
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,"right/UH ,/,","right, /"
+%,B,"But/CC that/DT ,/,","{C But } that, -/"
+sv,A,"And/CC it/PRP 's/BES not/RB an/DT easy/JJ sacrifice/NN for/IN a/DT person/NN to/TO make/VB ,/,","{C And } it's not an easy sacrifice for a person to make,"
+aa,B,No/UH ./.,No. /
++,A,"because/IN ,/, you/PRP know/VBP ,/, I/PRP ,/, you/PRP know/VBP ,/, I/PRP have/VBP interests/NNS that/WDT ,/,","because, {D you know, } [ I, + {D you know, } I ] have interests [ that, +"
+b,B,Right/UH ./.,Right. /
++,A,"too/RB ,/,","too, ] /"
+sd,A,"and/CC it/PRP is/VBZ hard/JJ to/TO make/VB ,/, uh/UH ,/, those/DT interests/NNS not/RB be/VB as/IN a/DT major/JJ part/NN of/IN my/PRP$ life/NN ./.","{C and } it is hard to make, {F uh, } those interests not be as a major part of my life. /"
+qy^d,B,"Uh/UH ,/, at/IN this/DT point/NN ./.","{F Uh, } at this point. /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,It/PRP 's/BES not/RB to/TO say/VB that/IN some/DT day/NN you/PRP wo/MD n't/RB go/VB back/RB to/IN work/NN ./.,It's not to say that some day you won't go back to work. /
+sd,B,My/PRP$ mother/NN 's/BES a/DT school/NN teacher/NN,My mother's a school teacher /
+sd,B,"and/CC when/WRB ,/, when/WRB we/PRP started/VBD ,/, uh/UH ,/, having/VBG kids/NNS ,/, she/PRP had/VBD to/TO work/VB for/IN a/DT little/JJ while/NN ,/,","{C and } [ when, + when ] we started, {F uh, } having kids, she had to work for a little while, /"
+sd,B,but/CC then/RB she/PRP just/RB started/VBD substituting/VBG ./.,{C but } then she just started substituting. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"So/RB she/PRP would/MD just/RB substitute/VB once/RB or/CC twice/RB a/DT week/NN ,/, you/PRP know/VBP ,/, just/RB for/IN that/DT little/JJ extra/JJ money/NN when/WRB we/PRP were/VBD in/IN school/NN ./.","{D So } she would just substitute once or twice a week, {D you know, } just for that little extra money when we were in school. /"
+sd,B,"Then/RB we/PRP would/MD just/RB come/VB home/RB and/CC just/RB be/VB ,/, you/PRP know/VBP ,/, go/VB to/IN a/DT neighbor/NN 's/POS house/NN for/IN an/DT hour/NN ,/,","Then we would just come home and just [ be, + {D you know, } go ] to a neighbor's house for an hour, /"
+sd,B,then/RB she/PRP 'd/MD be/VB home/NN ./.,then she'd be home. /
+sd,B,But/CC she/PRP would/MD n't/RB do/VB that/DT every/DT day/NN ./.,{C But } she wouldn't do that every day. /
+b,A,Right/UH ./.,Right. /
+sd,B,"But/CC now/RB that/IN my/PRP$ ,/, my/PRP$ ,/, uh/UH ,/, youngest/JJS sister/NN 's/BES at/IN B/NNP Y/NNP U/NNP now/RB ,/,","{C But } [ now that my, + my, ] {F uh, } youngest sister's at B Y U now, /"
+sd,B,"and/CC so/RB they/PRP have/VBP no/DT one/NN at/IN home/NN ,/,","{C and so } they have no one at home, /"
+sd,B,"she/PRP 's/BES back/RB teaching/VBG school/NN full/GW time/^RB now/RB ,/, again/RB ./.","she's back teaching school full time now, again. /"
+sv,B,"So/RB if/IN ,/, you/PRP know/VBP ,/, it/PRP 's/BES not/RB ,/, it/PRP 's/BES just/RB a/DT temporary/JJ thing/NN ./.","{D So } [ [ if, + you know, it's not, ] + it's ] just a temporary thing. /"
+b^m,A,It/PRP is/VBZ temporary/JJ ./.,It is temporary. /
+sv,A,"It/PRP ,/, in/IN the/DT middle/NN of/IN it/PRP ,/, it/PRP seems/VBZ like/IN a/DT long/JJ time/NN ,/,","[ It, + in the middle of it, it ] seems like a long time, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+aa,A,"but/CC you/PRP 're/VBP right/JJ ,/,","{C but } you're right, /"
+aa,A,it/PRP is/VBZ temporary/JJ ./.,it is temporary. /
+sd,A,"Well/UH ,/, I/PRP see/VBP that/IN we/PRP both/DT share/VBP the/DT same/JJ belief/NN here/UH that/IN --/:","{D Well, } I see that we both share the same belief here that --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: it/PRP 's/BES important/JJ that/IN we/PRP spend/VBP time/NN with/IN our/PRP$ kids/NNS,-- it's important that we spend time with our kids /
+sd,A,"and/CC ,/,","[ {C and, } +"
+b,B,"Yeah/UH ,/,","Yeah, /"
++,A,"and/CC ,/, in/IN spite/NN of/IN ,/,","{C and, } ] in spite of, -/"
+aa,B,"yeah/UH ,/,","yeah, /"
+sd,B,"you/PRP ,/, it/PRP 's/BES ,/, it/PRP 's/BES hard/JJ sometimes/RB at/IN work/NN because/IN ,/, you/PRP know/VBP ,/, people/NNS say/VBP ,/, oh/UH ,/, we/PRP 're/VBP taking/VBG a/DT cruise/NN ,/,","[ [ you, + it's, ] + it's ] hard sometimes at work because, {D you know, } people say, {F oh, } we're taking a cruise, /"
+^q,B,"we/PRP 're/VBP going/VBG here/RB ,/,","we're going here, /"
+sd,B,"we/PRP 're/VBP going/VBG there/RB ,/, you/PRP know/VBP --/:","we're going there, {D you know } --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: because/IN they/PRP have/VBP a/DT lot/NN more/JJR money/NN ./.,-- because they have a lot more money. /
+sv,B,And/CC a/DT lot/NN of/IN them/PRP decide/VBP just/RB not/RB to/TO have/VB children/NNS ./.,{C And } a lot of them decide just not to have children. /
+aa,A,Yes/UH ./.,Yes. /
+sv,B,"It/PRP 's/BES ,/, it/PRP 's/BES amazing/JJ ,/, they/PRP either/CC have/VBP one/CD or/CC none/NN ./.","[ It's, + it's ] amazing, they either have one or none. /"
+aa,A,That/DT 's/BES true/JJ ./.,That's true. /
+sd,B,"And/CC ,/, and/CC the/DT one/CD person/NN I/PRP know/VBP that/WDT has/VBZ one/CD ,/, they/PRP ,/, they/PRP feel/VBP guilty/JJ ./.","[ {C And, } + {C and } ] the one person I know that has one, [ they, + they ] feel guilty. /"
+sd,B,"She/PRP has/VBZ this/DT continual/JJ guilt/NN trip/NN that/IN she/PRP 's/BES not/RB doing/VBG the/DT right/JJ thing/NN ,/,","She has this continual guilt trip that she's not doing the right thing, /"
+sd,B,"and/CC so/RB on/RP ,/, uh/UH ,/, on/IN weekends/NNS she/PRP would/MD ,/, you/PRP know/VBP ,/, spend/VB all/DT of/IN her/PRP$ time/NN with/IN her/PRP$ kids/NNS and/CC spend/VB lots/NNS of/IN ,/, lots/NNS and/CC lots/NNS of/IN money/NN ./.","{C and so } [ on, + {F uh, } on ] weekends she would, {D you know, } spend all of her time with her kids and spend [ lots of, + lots and lots of ] money. /"
+sv,B,"Basically/RB ,/, I/PRP think/VBP they/PRP ,/, they/PRP really/RB spoil/VBP the/DT child/NN ,/,","Basically, I think [ they, + they ] really spoil the child,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,to/TO try/VB to/TO overcompensate/VB for/IN their/PRP$ guilt/NN feelings/NNS ./.,to try to overcompensate for their guilt feelings. /
+sd,B,"And/CC ,/, and/CC ,/, and/CC they/PRP do/VBP n't/RB want/VB to/TO have/VB anymore/^DT^JJ children/NNS because/IN they/PRP just/RB do/VBP n't/RB think/VB ,/, you/PRP know/VBP ,/, that/IN ,/, she/PRP does/VBZ n't/RB think/VB she/PRP could/MD be/VB a/DT mother/NN at/IN home/NN ./.","[ [ {C And, } + {C and, } ] + {C and } ] they don't want to have anymore children because [ they just don't think, {D you know, } that, + she doesn't think ] she could be a mother at home. /"
+sd,B,That/DT 's/BES not/RB her/PRP$ bag/NN ./.,That's not her bag. /
+sd,B,"So/RB she/PRP just/RB does/VBZ n't/RB think/VB that/IN she/PRP could/MD ,/, you/PRP know/VBP ,/,","{D So } she just doesn't think that she could, {D you know, } - /"
+sd,B,"the/DT guilt/NN feelings/NNS ,/, she/PRP ca/MD n't/RB deal/VB with/IN --/:","the guilt feelings, she can't deal [ with + --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: with/IN it/PRP anymore/RB,-- with ] it anymore /
+%,B,"so/RB ,/,","{D so, } -/"
+sd,A,"Well/UH ,/, it/PRP is/VBZ ,/,","{D Well, } it is,"
+%,B,"You/PRP know/VBP ,/,","{D You know, } -/"
++,A,"the/DT hardest/JJS thing/NN I/PRP 've/VBP ever/RB done/VBN ,/, as/RB much/JJ as/IN you/PRP 'd/MD go/VB out/RB","the hardest thing I've ever done, as much as you'd go out /"
+%,A,"and/CC ,/,","{C and, } -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"my/PRP$ wife/NN ,/, uh/UH ,/, likes/VBZ staying/VBG home/RB ./.","my wife, {F uh, } likes staying home. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Uh/UH ,/, she/PRP works/VBZ at/IN home/NN some/RB ,/, though/RB ./.","{F Uh, } she works at home some, though. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"The/DT place/NN she/PRP works/VBZ with/IN ,/, worked/VBD with/IN before/RB ,/, um/UH ,/, worked/VBD out/RP an/DT arrangement/NN with/IN her/PRP$ where/WRB she/PRP can/MD work/VB at/IN home/NN ,/,","The place she [ works with, + worked with ] before, {F um, } worked out an arrangement with her where she can work at home,"
+ba,A,"Well/UH ,/, that/DT 's/BES good/JJ ./.","{D Well, } that's good. /"
++,B,"part/GW time/^RB ,/,","part time, /"
+sd,B,"and/CC so/RB ,/, uh/UH ,/, that/DT ,/, it/PRP 's/BES kind/RB of/RB a/DT seasonal/JJ thing/NN ./.","{C and so, } {F uh, } [ that, + it's ] kind of a seasonal thing. /"
+sd,B,Three/CD times/NNS a/DT year/NN she/PRP 's/BES really/RB busy/JJ doing/VBG certain/JJ things/NNS --/:,Three times a year she's really busy doing certain things --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: based/VBN on/IN that/DT kind/NN of/IN business/NN ,/,","-- based on that kind of business, /"
+sd,B,but/CC the/DT rest/NN of/IN the/DT time/NN she/PRP 's/BES free/JJ ./.,{C but } the rest of the time she's free. /
+sd,B,She/PRP likes/VBZ to/TO sew/VB and/CC do/VB crafts/NNS and/CC things/NNS like/IN that/DT ./.,She likes to sew and do crafts and things like that <laughter>. /
+sd,B,"So/RB she/PRP enjoys/VBZ staying/VBG at/IN home/NN ,/,","{D So } she enjoys staying at home, /"
+sd,B,"but/CC ,/, uh/UH ,/, the/DT money/NN part/NN of/IN it/PRP is/VBZ not/RB as/RB rewarding/JJ ,/, obviously/RB ,/,","{C but, } {F uh, } the money part of it is not as rewarding, obviously, /"
+sv,B,but/CC --/:,{C but } --
+aa,A,No/UH ./.,No. /
++,B,"--/: there/EX 's/BES different/JJ rewards/NNS ,/, you/PRP know/VBP ,/, different/JJ kinds/NNS of/IN rewards/NNS ./.","-- there's different rewards, {D you know, } different kinds of rewards. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,I/PRP think/VBP so/RB ./.,I think so. /
+sv,A,"I/PRP think/VBP it/PRP 's/BES an/DT investment/NN in/IN your/PRP$ future/NN ,/, even/RB if/IN it/PRP 's/BES purely/RB not/RB ,/, not/RB religious/JJ ./.","I think it's an investment in your future, even if it's purely [ not, + not ] religious. /"
+sv,A,"You/PRP can/MD at/IN least/JJS say/VB that/IN it/PRP 's/BES important/JJ to/IN our/PRP$ country/NN ,/,","You can at least say that it's important to our country,"
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,"right/UH ,/,","right, /"
+aa,B,right/UH ./.,right. /
++,A,that/IN our/PRP$ family/NN unit/NN stays/VBZ strong/JJ ./.,that our family unit stays strong. /
+sv,B,"And/CC you/PRP really/RB have/VBP to/TO make/VB ,/, uh/UH ,/, quite/PDT a/DT bit/NN of/IN money/NN ./.","{C And } you really have to make, {F uh, } quite a bit of money. /"
+sv,B,"The/DT wife/NN does/VBZ n't/RB make/VB it/PRP worth/JJ it/PRP ,/, with/IN the/DT cost/NN of/IN day-care/NN ./.","The (( wife doesn't )) make it worth it, with the cost of day-care. /"
+b,A,Yes/UH ./.,Yes. /
+%,B,"I/PRP know/VBP there/EX 's/BES ,/, you/PRP know/VBP ,/,","I know there's, {D you know, } - /"
+sv,B,"when/WRB you/PRP adjust/VBP your/PRP$ income/NN for/IN what/WP you/PRP put/VBP out/RP for/IN day-care/NN ,/, you/PRP know/VBP ,/, you/PRP 're/VBP only/RB making/VBG like/IN five/CD ./.","when you adjust your income for what you put out for day-care, {D you know, } you're only making {D like } five. -/"

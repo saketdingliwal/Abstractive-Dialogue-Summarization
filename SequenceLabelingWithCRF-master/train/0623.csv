@@ -1,0 +1,157 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/, Diane/NNP ./.","Okay, Diane. /"
+fp,A,And/CC a/DT very/RB good/JJ afternoon/NN to/IN you/PRP ./.,{C And } a very good afternoon to you. /
+fp,B,"And/CC aft-/XX ,/, good/JJ afternoon/NN to/IN you/PRP ./.","{C And } [ aft-, + good afternoon ] to you. /"
+qy,A,"Do/VBP you/PRP ,/, uh/UH ,/, do/VBP most/RBS of/IN your/PRP$ cooking/NN at/IN home/NN","Do you, {F uh, } do most of your cooking at home /"
+qrr,A,"or/CC do/VBP you/PRP ,/, uh/UH ,/, have/VBP a/DT lot/NN of/IN people/NNS come/VBP in/RB and/CC have/VBP to/TO prepare/VB for/IN them/PRP ?/.","{C or } do you, {F uh, } have a lot of people come in and have to prepare for them? /"
+nn,B,"Um/UH ,/, no/UH ./.","<Throat_clearing> {F Um, } no. /"
+sd,B,I/PRP do/VBP most/RBS of/IN my/PRP$ cooking/NN at/IN home/NN,I do most of my cooking at home /
+sd,B,"and/CC ,/, um/UH ,/, I/PRP could/MD safely/RB say/VB that/IN I/PRP have/VBP never/RB cooked/VBN for/IN a/DT dinner/NN party/NN ./.","{C and, } {F um, } I could safely say that I have never cooked for a dinner party. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+ba,A,My/PRP$ goodness/NN ./.,My goodness <laughter>. /
+x,B,,<Laughter>.
+qy,A,"Well/UH ,/, what/WP would/MD you/PRP ,/, uh/UH ,/, like/VB to/TO cook/VB ?/.","{D Well, } what would you, {F uh, } like to cook? /"
+qw,A,"What/WP 's/BES ,/, what/WP ,/, what/WP 's/BES ,/, what/WP is/VBZ your/PRP$ favorite/JJ ,/, uh/UH ,/, recipes/NNS ,/, uh/UH ,/, that/WDT you/PRP would/MD like/VB to/TO have/VB --/:","[ [ [ What's, + what, ] + what's, ] + what ] is your favorite, {F uh, } recipes, {F uh, } that you would like to have --"
+b,B,"Um/UH ,/,","{F Um, } /"
++,A,--/: for/IN a/DT dinner/NN party/NN ?/.,-- for a dinner party? /
+qy,A,"Now/RB you/PRP 're/VBP in/IN Dallas/NNP ,/, is/VBZ it/PRP ?/.","{D Now } you're in Dallas, is it? /"
+na,B,"Right/UH ,/,","Right, /"
+sd,B,I/PRP 'm/VBP in/IN Dallas/NNP ./.,I'm in Dallas. /
+b,A,Okay/UH ./.,Okay. /
+sd,B,"Of/IN course/NN ,/, um/UH ,/, dinner/NN parties/NNS down/IN here/RB probably/RB ,/, oh/UH ,/, turn/VBP out/RP to/TO be/VB more/JJR things/NNS like/IN barbecues/NNS ./.","Of course, {F um, } dinner parties down here probably, {F oh, } turn out to be more things like barbecues <laughter>. /"
+%,B,"And/CC ,/,","{C And, } -/"
+sd,A,"I/PRP was/VBD ,/, I/PRP was/VBD thinking/VBG in/IN terms/NNS of/IN Mexican/JJ almost/RB ,/,","[ I was, + I was ] thinking in terms of Mexican almost,"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,yes/UH ./.,yes. /
++,A,"Tex-/XX ,/, Tex-Mex/NNP ./.","[ Tex-, + Tex-Mex. ] /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b^m,B,"uh/UH ,/, Tex-Mex/NNP ,/, uh/UH ,/,","{F uh, } Tex-Mex, {F uh, } /"
+sv,B,"Mexican/JJ food/NN ,/, um/UH --/:","Mexican food, {F um } --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: probably/RB a/DT little/JJ bit/NN different/JJ than/IN what/WP you/PRP serve/VBP up/IN in/IN Pennsylvania/NNP for/IN a/DT dinner/NN party/NN ./.,-- probably a little bit different than what you serve up in Pennsylvania for a dinner party. /
+sd,A,"Well/UH ,/, that/DT 's/BES a/DT very/RB interesting/JJ food/NN though/IN","{D Well, } that's a very interesting food though /"
+sd,A,and/CC when/WRB I/PRP go/VBP out/RB to/TO eat/VB dinner/NN sometimes/RB --/:,{C and } when I go out to eat dinner sometimes --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: that/DT 's/BES the/DT type/NN of/IN foods/NNS I/PRP like/VBP to/TO find/VB ./.,-- that's the type of foods I like to find. /
+b,B,Right/UH ./.,Right. /
+%,A,"We/PRP have/VBP ,/, uh/UH ,/,","We have, {F uh, } - /"
+%,A,"I/PRP think/VBP som-/XX ,/, Chico/NNP 's/POS","I think som-, Chico's - /"
+sd,A,"or/CC ,/, or/CC in/IN these/DT different/JJ restaurants/NNS --/:","[ {C or, } + {C or } ] in these different restaurants --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: in/IN this/DT area/NN that/WDT ,/, uh/UH ,/, have/VBP all/PDT this/DT fine/JJ Mexican/JJ foods/NNS ./.","-- in this area that, {F uh, } have all this fine Mexican foods. /"
+sd,A,"But/CC ,/, um/UH ,/, if/IN I/PRP were/VBD to/TO cook/VB ,/, uh/UH ,/, a/DT dinner/NN party/NN ,/, uh/UH ,/, it/PRP may/MD be/VB standard/JJ to/IN you/PRP","{C But, } {F um, } if I were to cook, {F uh, } a dinner party, {F uh, } it may be standard to you /"
+sd,A,"but/CC ,/, uh/UH ,/, actually/RB I/PRP never/RB get/VBP too/RB much/JJ fried/JJ chicken/NN ./.","{C but, } {F uh, } {D actually } I never get too much fried chicken. /"
+b^m,B,Fried/JJ chicken/NN ./.,<Laughter> Fried chicken. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC I/PRP love/VBP twice/RB cooked/JJ potatoes/NNS ./.,{C And } I love twice cooked potatoes. /
+ny,B,"Oh/UH ,/, yes/UH ,/,","<Throat_clearing> {F Oh, } yes, /"
+sd,B,I/PRP have/VBP ./.,I have. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP like/VBP broccoli/NNS casseroles/NNS --/:","{C And, } {F uh, } I like broccoli casseroles --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: which/WDT would/MD include/VB onion/NN and/CC cheese/NN and/CC ,/, and/CC more/JJR dill/NN weed/NN --/:","-- which would include onion and cheese [ and, + and ] more dill weed --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: and/CC some/DT medium/JJ hot/JJ peppers/NNS ./.,-- and some medium hot peppers. /
+sd,A,"As/IN you/PRP can/MD see/VB ,/, I/PRP 'm/VBP inclined/JJ towards/IN the/DT Mexican/JJ type/NN of/IN a/DT meal/NN ./.","As you can see, I'm inclined towards the Mexican type of a meal <laughter>. /"
+b,B,Right/UH ./.,Right <laughter>. /
+sd,A,And/CC I/PRP would/MD probably/RB have/VB some/DT quiet/JJ and/CC gentle/JJ fried/JJ onion/NN rings/NNS mixed/VBN in/IN there/RB with/IN it/PRP too/RB ./.,{C And } I would probably have some quiet and gentle fried onion rings mixed in there with it too. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qo,A,"So/RB ,/, uh/UH ,/, how/WRB would/MD you/PRP improve/VB upon/IN that/DT ?/.","{C So, } {F uh, } how would you improve upon that? /"
+b^m,B,"Oh/UH ,/, improve/VB upon/IN that/DT ?/.","{F Oh, } <gasp> improve upon that? /"
+^h,B,Let/VB 's/PRP see/VB ./.,Let's see. /
+sd,B,I/PRP 'd/MD probably/RB put/VB a/DT bunch/NN of/IN fresh/JJ vegetables/NNS in/RB ./.,I'd probably put a bunch of fresh vegetables in. /
+%,B,"And/CC some/DT ,/,","{C And } some, -/"
+b^m,A,More/RBR fresh/JJ vegetables/NNS ?/.,More fresh vegetables? /
+ny,B,Yeah/UH ./.,Yeah. /
+qy,A,Included/JJ to/IN that/DT ?/.,Included to that? /
+sd,B,"Uh/UH ,/, green/JJ beans/NNS and/CC ,/, uh/UH --/:","{F Uh, } green beans and, {F uh } --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: carrots/NNS and/CC things/NNS like/IN that/DT ./.,-- carrots and things like that. /
+qw,A,How/WRB do/VBP you/PRP cook/VB your/PRP$ green/JJ beans/NNS ?/.,How do you cook your green beans? /
+b^m,B,My/PRP$ green/JJ beans/NNS ?/.,My green beans? /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Um/UH ,/, I/PRP just/RB get/VBP fresh/JJ green/JJ beans/NNS from/IN the/DT grocery/NN store/NN and/CC snap/VBP off/RP the/DT ends/NNS and/CC put/VBP them/PRP in/IN water/NN and/CC steam/VBP them/PRP for/IN about/RB ten/CD minutes/NNS ./.","{F Um, } I just get fresh green beans from the grocery store and snap off the ends and put them in water and steam them for about ten minutes. /"
+%,A,"So/RB you/PRP h-/XX ,/,","{C So } you h-, -/"
+sd,B,And/CC I/PRP like/VBP to/TO put/VB a/DT little/JJ Mrs/NNP Dash/NNP in/IN with/IN them/PRP ./.,{C And } I like to put a little Mrs Dash in with them. /
+sd,A,All/RB right/JJ that/DT 's/BES what/WP I/PRP was/VBD wondering/VBG about/IN ./.,All right that's what I was wondering about. /
+bf,A,"What/WP ,/, what/WP you/PRP use/VBP and/CC ,/, and/CC --/:","[ What, + what ] you use [ and, + and ] --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: in/IN herbs/NNS and/CC so/RB forth/RB ./.,-- in herbs and so forth. /
+b,B,"Right/UH ,/,","Right, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+sd,B,"Um/UH ,/, I/PRP like/VBP to/TO just/RB put/VB a/DT tablespoon/NN or/CC so/RB of/IN Mrs/NNP Dash/NNP in/IN there/RB ./.","{F Um, } I like to just put a (( tablespoon )) or so of Mrs Dash in there. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC it/PRP makes/VBZ them/PRP pretty/RB tasty/JJ ./.,{C And } it makes them pretty tasty. /
+qy,A,Have/VBP you/PRP ever/RB tried/VBD Chinese/JJ type/NN green/JJ beans/NNS ?/.,Have you ever tried Chinese type green beans? /
+b^m,B,The/DT Chinese/JJ type/NN ./.,The Chinese type. /
+qy,B,"Are/VBP they/PRP the/DT real/RB ,/,","Are they the real, -/"
+sd,A,"We/PRP use/VBP soy/NN sauce/NN ,/,","We use soy sauce, /"
+nn,B,"No/UH ,/,","No, /"
+sd,B,I/PRP have/VBP n't/RB ever/RB used/VBN that/DT ./.,I haven't ever used that. /
+sv,A,"Well/UH ,/, you/PRP might/MD ,/, uh/UH ,/, be/VB interested/JJ in/IN that/DT ./.","{D Well, } you might, {F uh, } be interested in that. /"
+qy,A,"Have/VBP ,/,","Have, - /"
+sd,A,it/PRP gives/VBZ a/DT very/RB delicious/JJ taste/NN ./.,it gives a very delicious taste. /
+sd,A,"You/PRP ,/, you/PRP have/VBP a/DT soy/NN sauce/NN taste/NN","[ You, + you ] have a soy sauce taste /"
+sd,A,and/CC you/PRP also/RB have/VBP a/DT little/JJ cream/NN sauce/NN in/IN there/RB because/IN you/PRP --/:,{C and } you also have a little cream sauce in there because [ you + --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: you/PRP would/MD use/VB the/DT ,/, uh/UH ,/, water/NN and/CC ,/,","-- you ] would use the, {F uh, } water and, - /"
+qw,A,"uh/UH ,/, golly/UH ./. What/WP 's/BES this/DT white/JJ powder/NN that/WDT ,/, that/WDT ,/, uh/UH ,/, that/WDT you/PRP mix/VBP with/IN water/NN --/:","{F uh, } <lipsmack> {D golly. } What's this white powder [ [ that, + that, ] + {F uh, } that ] you mix with water --"
+b^m,B,A/DT white/JJ powder/NN ./.,A white powder. /
++,A,--/: and/CC gives/VBZ a/DT thick/JJ sauce/NN ?/.,-- and gives a thick sauce? /
+sd,A,I/PRP ca/MD n't/RB even/RB think/VB of/IN the/DT name/NN of/IN that/DT right/RB at/IN the/DT moment/NN ./.,I can't even think of the name of that right at the moment. /
+ba,B,"Um/UH ,/, gosh/UH ./.","{F Um, } gosh. /"
+%,A,"Anyhow/UH ,/,","{D Anyhow } <laughter>, -/"
+x,B,,<Laughter>.
+fa,A,sorry/JJ about/IN my/PRP$ mind/NN ./.,sorry about my mind. /
+bd,B,That/DT 's/BES okay/JJ ./.,That's okay. /
+sd,A,"But/CC ,/, uh/UH ,/, it/PRP does/VBZ make/VB a/DT nice/JJ thick/JJ creamy/JJ sauce/NN with/IN the/DT green/JJ beans/NNS --/:","{C But, } {F uh, } it does make a nice thick creamy sauce with the green beans -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC then/RB you/PRP have/VBP a/DT nice/JJ soy/NN sauce/NN taste/NN under/IN it/PRP with/IN a/DT few/JJ onions/NNS in/IN there/RB with/IN it/PRP ./.,-- {C and then } you have a nice soy sauce taste under it with a few onions in there with it. /
+%,A,If/IN it/PRP does/VBZ --/:,If it does -- -/
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: it/PRP ,/, it/PRP brings/VBZ out/RP such/PDT a/DT ,/, so/RB much/JJ different/JJ things/NNS in/IN ,/, uh/UH --/:","-- [ it, + it ] brings out [ such a, + ] so much different things [ in, + {F uh } --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: in/IN the/DT string/NN beans/NNS ./.,-- in ] the string beans. /
+sd,A,"I/PRP ,/, I/PRP like/VBP it/PRP to/TO try/VB them/PRP differently/RB ./.","[ I, + I ] like it to try them differently. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ad,A,"So/RB you/PRP might/MD ,/, uh/UH ,/, think/VBP about/IN that/DT ./.","{C So } you might, {F uh, } think about that. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,I/PRP might/MD try/VB that/DT ./.,I might try that. /
+sv,A,Chinese/JJ cooking/NN actually/UH has/VBZ a/DT lot/NN of/IN very/RB delicious/JJ tastes/NNS to/IN them/PRP ./.,Chinese cooking {D actually } has a lot of very delicious tastes to them. /
+b,B,"Oh/UH ,/, yes/UH ./.","{F Oh, } yes. /"
+sd,B,I/PRP love/VBP Chinese/JJ ./.,I love Chinese. /
+sd,A,"And/CC ,/, uh/UH ,/, north/JJ African/JJ cooking/NN is/VBZ good/JJ --/:","{C And, } {F uh, } north African cooking is good --"
+b^m,B,North/JJ African/JJ ?/.,North African? /
++,A,--/: when/WRB you/PRP use/VBP something/NN called/VBD couscous/NN ./.,-- when you use something called couscous. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC that/DT 's/BES ,/, uh/UH ,/, made/VBN from/IN ,/, uh/UH ,/, MUMBLEx/XX I/PRP think/VBP they/PRP call/VBP it/PRP ,/, beans/NNS ./.","{C And } that's, {F uh, } made from, {F uh, } (( )) I think they call it, beans. /"
+sd,A,"And/CC that/DT 's/BES the/DT type/NN of/IN something/NN that/IN whatever/WDT you/PRP mix/VBP with/IN it/PRP this/DT couscous/NN ,/, uh/UH ,/, absorbs/VBZ the/DT taste/NN of/IN whatever/WDT else/RB you/PRP put/VBP in/IN it/PRP where/WRB that/DT makes/VBZ a/DT very/RB delicious/JJ dish/NN ./.","{C And } that's the type of something that whatever you mix with it this couscous, {F uh, } absorbs the taste of whatever else you put in it where that makes a very delicious dish. /"
+sv,A,You/PRP probably/RB have/VBP to/TO buy/VB that/DT from/IN specialty/NN stores/NNS ./.,You probably have to buy that from specialty stores. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"C/NN o/NN u/NN s/NN ,/, c/NN o/NN u/NN s/NN ./.","C o u s, c o u s. /"
+sd,A,"And/CC that/DT 's/BES a/DT ,/, a/DT north/JJ African/JJ dish/NN ./.","{C And } that's [ a, + a ] north African dish. /"
+sd,A,They/PRP eat/VBP it/PRP one/CD to/IN two/CD meals/NNS everyday/JJ --/:,They eat it one to two meals everyday --
+b,B,Huh/NNP ./.,Huh. /
++,A,--/: in/IN north/JJ Africa/NNP ./.,-- in north Africa. /
+sd,A,And/CC it/PRP is/VBZ very/RB very/RB flexible/JJ ./.,{C And } it is very very flexible. /
+sd,A,You/PRP can/MD do/VB a/DT lot/NN of/IN things/NNS with/IN it/PRP ./.,You can do a lot of things with it. /
+sd,A,"It/PRP makes/VBZ a/DT fantastic/JJ ,/, uh/UH ,/, uh/UH ,/, salad/NN with/IN cucumbers/NNS and/CC ,/,","It makes a fantastic, {F uh, } {F uh, } salad with cucumbers and,"
+x,B,,<Throat_clearing>.
++,A,olive/NN oil/NN and/CC onions/NNS,olive oil and onions /
+%,A,"and/CC ,/,","{C and, } -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ba,A,"Oh/UH ,/, boy/UH ,/,","{F Oh, } boy, /"
+sd,A,real/RB tasty/JJ ./.,real tasty. /
+fc,A,"Well/UH ,/, I/PRP 've/VBP enjoyed/VBN talking/VBG with/IN you/PRP ,/,","{D Well, } I've enjoyed talking with you, /"
+fc,A,and/CC I/PRP hope/VBP I/PRP 've/VBP --/:,{C and } I hope I've --
+fc,B,"Well/UH ,/, I/PRP 've/VBP enjoyed/VBN --/:","{D Well, } I've enjoyed --"
++,A,--/: given/VBN you/PRP some/DT ideas/NNS --/:,-- given you some ideas -- /
++,B,--/: talking/VBG with/IN you/PRP ./.,-- talking with you. /
+fc,A,"--/: and/CC ,/, uh/UH ,/, that/DT 's/BES one/CD thing/NN we/PRP can/MD enjoy/VB is/VBZ good/JJ delicious/JJ food/NN ./.","-- {C and, } {F uh, } that's one thing we can enjoy is good delicious food. /"
+fc,B,"Oh/UH ,/, yes/UH ./.","{F Oh, } yes. /"
+fc,A,"Well/UH ,/, thank/VB you/PRP very/RB much/RB Miss/NNP Diane/NNP ./.","<Laughter> {D Well, } thank you very much Miss Diane. /"
+fc,B,"Okay/UH ,/,","Okay, /"
+fc,B,thank/VB you/PRP ./.,thank you. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

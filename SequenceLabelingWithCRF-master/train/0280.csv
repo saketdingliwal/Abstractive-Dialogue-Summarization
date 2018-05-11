@@ -1,0 +1,138 @@
+act_tag,speaker,pos,text
+fp,A,"Um/UH ,/, hello/UH ,/, um/UH ,/,","{F Um, } hello, {F um, } /"
+qw,A,"what/WP is/VBZ your/PRP$ favorite/JJ ,/, um/UH ,/, food/NN for/IN a/DT dinner/NN party/NN ?/.","what is your favorite, {F um, } food for a dinner party? /"
+h,B,"Um/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","{F Um, } I don't know, /"
+sd,B,"I/PRP ,/, I/PRP think/VBP I/PRP make/VBP things/NNS ,/, you/PRP know/VBP ,/,","[ I, + I ] think I make things, {D you know, } - /"
+sd,B,"I/PRP do/VBP things/NNS kind/RB of/RB simple/JJ because/IN I/PRP ,/, you/PRP know/VBP ,/, I/PRP just/RB have/VBP close/JJ friends/NNS over/RB ./.","I do things kind of simple because [ I, + {D you know, } I ] just have close friends over. /"
+sd,B,I/PRP make/VBP like/IN lasagna/NN,I make {D like } lasagna /
+sd,B,"and/CC ,/, uh/UH ,/, oh/UH ,/, we/PRP like/VBP to/TO have/VB barbecues/NNS outside/RB so/RB ,/, you/PRP know/VBP ,/, when/WRB the/DT weather/NN 's/BES nice/JJ because/IN in/IN Texas/NNP you/PRP have/VBP a/DT lot/NN of/IN nice/JJ weather/NN ,/,","{C and, } {F uh, } {F oh, } we like to have barbecues outside [ so, + ] {D you know, } when the weather's nice because in Texas you have a lot of nice weather, /"
+sd,B,"so/RB ,/, we/PRP do/VBP a/DT lot/NN of/IN ,/, um/UH ,/, things/NNS like/IN that/DT ./.","{C so, } we do a lot of, {F um, } things like that. /"
+sd,B,"Um/UH ,/, I/PRP 'm/VBP not/RB really/RB into/IN gourmet/NN cooking/NN ,/,","{F Um, } I'm not really into gourmet cooking, /"
+sd,B,"so/RB ,/, I/PRP do/VBP n't/RB know/VB how/WRB to/TO do/VB that/DT ,/,","{C so, } I don't know how to do that, /"
+sd,B,"so/RB ,/, I/PRP do/VBP n't/RB have/VB gourmet/NN foods/NNS ./.","{C so, } I don't have gourmet foods <laughter>. /"
+qy,A,Do/VBP you/PRP do/VBP Tex-Mex/NNP ?/.,Do you do Tex-Mex? /
+ny,B,"Um/UH ,/, yeah/UH ,/,","{F Um, } yeah, /"
+sd,B,"you/PRP know/VBP ,/, like/IN fajitas/NNS and/CC stuff/NN like/IN that/DT ,/,","{D you know, } like fajitas and stuff like that, /"
+%,B,so/RB ./.,{C so. } -/
+b^m,A,"Oh/UH ,/, fajitas/NNS ,/,","{F Oh, } fajitas, /"
+qw,A,how/WRB do/VBP you/PRP make/VB fajitas/NNS ?/.,how do you make fajitas? /
+sd,B,"Um/UH ,/, it/PRP 's/BES kind/RB of/RB like/UH made/VBN out/IN of/IN skirt/NN steak/NN","{F Um, } it's kind of {D like } made out of (( skirt )) steak /"
+sd,B,and/CC you/PRP marinate/VBP it/PRP ./.,{C and } you marinate it. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,You/PRP can/MD buy/VB marinating/NN mixes/NNS here/RB,You can buy marinating mixes here /
+sd,B,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know,"
+b,A,Oh/UH ./.,Oh. /
++,B,get/VB it/PRP up/IN there/RB ./.,get it up there. /
+sd,B,"Uh/UH ,/, you/PRP can/MD ,/, you/PRP know/VB ,/, marinate/VB it/PRP in/IN any/DT kind/NN of/IN barbecue/NN sauce/NN you/PRP like/VBP","{F Uh, } you can, {D you know, } marinate it in any kind of barbecue sauce you like /"
+sd,B,"and/CC then/RB you/PRP ,/, uh/UH ,/, you/PRP quick/GW fry/^VBP it/PRP real/RB fast/JJ with/IN ,/, in/IN hot/JJ ,/, hot/JJ grease/NN ./. You/PRP know/VBP ,/, not/RB a/DT who-/XX ,/, not/RB ,/, not/RB deep/JJ frying/NN it/PRP","{C and then } [ you, + {F uh, } you ] quick fry it real fast [ with, + ] in [ hot, + hot ] grease. {D You know, } [ [ not a who-, + not, ] + not ] deep frying it /"
+sd,B,"but/CC you/PRP can/MD either/DT barbecue/VB it/PRP which/WDT is/VBZ really/RB good/JJ ,/,","{C but } you can {C either } barbecue it which is really good,"
++,B,"with/IN ,/, uh/UH ,/, green/JJ beans/NNS ,/, not/RB green/JJ beans/NNS but/CC green/JJ peppers/NNS and/CC red/JJ peppers/NNS and/CC onions/NNS ./.","with, {F uh, } [ green beans, not green beans but + ] green peppers and red peppers and onions. /"
+sd,B,"And/CC ,/, uh/UH ,/, then/RB you/PRP put/VBP it/PRP on/IN a/DT flour/NN ,/, like/IN ,/, you/PRP know/VBP ,/,","{C And, } {F uh, } then you put it on a flour, {D like, } {D you know, } - /"
+sd,B,"you/PRP make/VBP your/PRP$ meat/NN real/RB ,/, uh/UH ,/, thin/JJ ,/, you/PRP know/VBP ,/, bite-size/JJ pieces/NNS ./.","you make your meat real, {F uh, } thin, {D you know, } bite-size pieces. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Then/RB you/PRP put/VBP it/PRP on/IN flour/NN tortillas/NNS with/IN ,/, you/PRP know/VBP ,/, guacamole/NN and/CC ,/, uh/UH ,/, sour/JJ cream/NN and/CC ,/, you/PRP know/VBP ,/, all/DT kinds/NNS of/IN ,/, you/PRP know/VBP ,/,","Then you put it on flour tortillas with, {D you know, } guacamole and, {F uh, } sour cream and, {D you know, } all kinds of, {D you know, } - /"
+sd,B,it/PRP 's/BES like/IN a/DT Tex-Mex/NNP type/NN thing/NN ./.,it's like a Tex-Mex type thing. /
+ba,A,"Oh/UH ,/, it/PRP sounds/VBZ good/JJ ./.","{F Oh, } it sounds good. /"
+sd,B,It/PRP 's/BES really/RB good/JJ ./.,It's really good. /
+sd,B,You/PRP can/MD do/VB it/PRP with/IN chicken/NN too/RB ./.,You can do it with chicken too. /
+sd,B,Chicken/NN fajitas/NNS and/CC stuff/NN ./.,Chicken fajitas and stuff. /
+b,A,Okay/UH ./.,Okay. /
+%,B,So/UH ./.,{D So. } -/
+ba,A,"Well/UH ,/, that/DT 's/BES nice/JJ ./.","{D Well, } that's nice. /"
+qw,B,"So/RB ,/, what/WDT kind/NN of/IN cooking/NN do/VBP you/PRP do/VB up/IN there/RB ?/.","{C So, } what kind of cooking do you do up there? /"
+sd,A,"Oh/UH ,/, well/UH ,/, basically/RB ,/, um/UH ,/, because/IN I/PRP lived/VBD in/IN the/DT Middle/NNP East/NNP for/IN a/DT while/NN I/PRP tend/VBP to/TO fix/VB Middle/JJ Eastern/JJ foods/NNS when/WRB I/PRP have/VBP ,/,","{F Oh, } {D well, } basically, {F um, } because I lived in the Middle East for a while I tend to fix Middle Eastern foods when I [ have, +"
++,A,have/VBP people/NNS over/RB ./.,have ] people over. /
+sd,A,"And/CC so/RB ,/, um/UH ,/, some/DT of/IN the/DT dips/NNS are/VBP like/IN chick/NN peas/NNS mashed/VBD with/IN ,/, um/UH ,/, sesame/NN ./.","{C And so, } {F um, } some of the dips are like (( chick )) peas mashed with, {F um, } sesame. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"And/CC ,/, uh/UH ,/, cold/JJ foo-/NN ,/, um/UH ,/,","{C And, } {F uh, } cold foo-, {F um, } - /"
+t1,A,"what/WP 's/BES it/PRP called/VBN ,/,","what's it called, /"
+sd,A,"I/PRP forgot/VBD ,/, ,/, what/WP it/PRP 's/BES called/VBN ,/,","I forgot, <laughter>, what it's called, /"
+x,B,,<Laughter>.
+%,A,"anyway/RB and/CC ,/, and/CC my/PRP$ ,/,","{D anyway } [ {C and, } + {C and } ] my, -/"
+qy^d,B,You/PRP cook/VBP them/PRP so/RB often/RB you/PRP kind/RB of/RB forget/VBP their/PRP$ names/NNS ./.,You cook them so often you kind of forget their names. /
+na,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+na,A,that/DT 's/BES right/JJ ./.,that's right. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sd,A,"It/PRP 's/BES called/VBN MUMBLEx/XX ,/,","It's called (( )) , - /"
+sd,A,now/RB I/PRP remember/VBP it/PRP ./.,now I remember it. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,"And/CC ,/, um/UH ,/, dipping/VBG Arabic/JJ bread/NN ,/, the/DT thin/JJ piece/NN of/IN bread/NN in/IN that/DT ./.","{C And, } {F um, } dipping Arabic bread, the thin (( piece )) of bread in that. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Or/CC another/DT dip/NN is/VBZ made/VBN with/IN ,/, very/RB similar/JJ but/CC with/IN ,/, um/UH ,/, eggplant/NN which/WDT has/VBZ been/VBN actually/RB barbe-/XX ,/,","{C Or } another dip is [ made with, + ] very similar but with, {F um, } eggplant which has been actually barbe-, - /"
+sd,A,it/PRP ends/VBZ up/RP with/IN a/DT barbecued/JJ taste/NN ./.,it ends up with a barbecued taste. /
+%,A,"I/PRP ,/,","I, - /"
+sd,A,although/IN we/PRP usually/RB bake/VBP it/PRP in/IN the/DT oven/NN,although we usually bake it in the oven /
+%,A,"or/CC if/IN we/PRP have/VBP ,/, uh/UH ,/,","{C or } if we have, {F uh, } - /"
+sd,A,"those/DT of/IN us/PRP that/WDT have/VBP gas/NN stoves/NNS bake/VBP it/PRP on/IN top/RB just/RB like/IN putting/VBG it/PRP in/IN the/DT gas/NN flame/NN and/CC sort/RB of/RB getting/VBG it/PRP black/JJ ,/,","those of us that have gas stoves bake it on top just like putting it in the gas flame and sort of getting it black,"
+b,B,Oh/UH ./.,Oh. /
++,A,on/IN the/DT outside/NN but/CC mushy/JJ on/IN the/DT inside/NN ./.,on the outside but mushy on the inside. /
+sd,B,"Oh/UH ,/, that/DT 's/BES unusual/JJ I/PRP 'd/VBD never/RB heard/VBN of/IN anything/NN like/IN that/DT ,/, you/PRP know/VBP ./.","{F Oh, } that's unusual I'd never heard of anything like that, {D you know. } /"
+x,A,,<Laughter>.
+sd,B,"Here/RB in/IN Texas/NNP it/PRP 's/BES all/DT ,/, you/PRP know/VBP ,/, Tex-Mex/NNP cooking/NN and/CC barbecue/NN","Here in Texas it's all, {D you know, } Tex-Mex cooking and barbecue /"
+x,A,,<Laughter>.
+%,B,"and/CC ,/,","{C and, } -/"
+qy,A,But/CC barbecue/NN is/VBZ it/PRP like/IN steaks/NNS,{C But } barbecue is it like steaks /
+qrr,A,"or/CC is/VBZ it/PRP ,/,","{C or } is it,"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"you/PRP barbecue/NN s-/XX ,/,","you barbecue s-, -/"
++,A,"uh/UH ,/, turkey/NN ?/.","{F uh, } turkey? /"
+br,B,Pardon/VB me/PRP ?/.,Pardon me? /
+qy,A,Would/MD you/PRP barbecue/VB a/DT turkey/NN or/CC a/DT chicken/NN,Would you barbecue a turkey or a chicken /
+%,A,"or/CC ,/,","{C or, } -/"
+ny,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,B,you/PRP can/MD barbecue/VB turkey/NN if/IN you/PRP have/VBP a/DT big/JJ enough/JJ grill/NN,you can barbecue turkey if you have a big enough grill /
+sd,B,"but/CC my/PRP$ ,/, I/PRP cook/VBP my/PRP$ turkeys/NNS inside/IN ,/, you/PRP know/VBP ,/,","{C but } [ my, + I cook my ] turkeys inside, {D you know, } /"
+%,B,"it/PRP b-/XX ,/,","it b-, - /"
+sd,B,you/PRP can/MD buy/VB smoked/JJ turkeys/NNS ./.,you can buy smoked turkeys. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC or/CC ,/, uh/UH ,/, but/CC most/JJS the/DT stuff/NN that/WDT we/PRP barbecue/VBP is/VBZ like/IN steak/NN and/CC chicken/NN and/CC hamburgers/NNS ,/, hot/JJ dogs/NNS ,/,","[ [ {C And } + {C or, } ] + {F uh, } {C but } ] most the stuff that we barbecue is like steak and chicken and hamburgers, hot dogs,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"you/PRP know/VBP ,/,","{D you know, } /"
+sd,B,"the/DT simple/JJ things/NNS like/IN that/DT ,/,","the simple things like that, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"You/PRP know/VBP ,/, barbecue/NN beans/NNS and/CC baked/JJ beans/NNS","{D You know, } barbecue beans and baked beans /"
+%,B,"and/CC ,/,","{C and, } -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,I/PRP 'm/VBP sure/JJ that/IN the/DT chicken/NN that/WDT we/PRP barbecue/VBP from/IN the/DT Middle/NNP East/NNP has/VBZ a/DT lemon/NN garlic/NN sauce/NN ./.,I'm sure that the chicken that we barbecue from the Middle East has a lemon garlic sauce. /
+sd,A,I/PRP would/MD n't/RB imagine/VB that/IN a/DT barbecued/JJ chicken/NN would/MD ./.,I wouldn't imagine that a barbecued chicken would. /
+nn,B,"No/UH ,/,","No, /"
+nn,B,"no/UH ,/,","no, /"
+sd,B,"this/DT is/VBZ more/JJR like/IN hickories/NNS ,/, hickory/NN type/NN ,/, you/PRP know/VBP ,/,","this is more like [ hickories, + hickory ] type, {D you know, } /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"depending/VBG on/IN the/DT barbe-/XX ,/,","depending on the barbe-, - /"
+sd,B,"it/PRP 's/BES like/IN a/DT smokey/JJ flavor/NN ,/,","it's like a smokey flavor,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"if/IN you/PRP 've/VBP ever/RB ,/, you/PRP know/VBP ,/, had/VBN stuff/NN like/IN that/DT ./.","if you've ever, {D you know, } had stuff like that. /"
+%,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,it/PRP 's/BES totally/RB different/JJ ./.,it's totally different. /
+sd,B,"Sounds/VBZ like/IN it/PRP would/MD be/VB interesting/JJ to/TO eat/VB some/DT of/IN the/DT Middle/JJ Eastern/JJ cooking/NN ,/,","Sounds like it would be interesting to eat some of the Middle Eastern cooking, /"
+%,B,so/RB ./.,{C so. } -/
+b,A,"Right/UH ,/,","Right, /"
+b,A,right/UH ./.,right. /
+b,B,Yeah/UH ./.,Yeah. /
+fc,A,"Well/UH ,/, it/PRP 's/HVS been/VBN fun/JJ talking/VBG to/IN you/PRP ./.","{D Well, } it's been fun talking to you. /"
+fc,B,"Yeah/UH ,/,","Yeah, /"
+fc,B,"it/PRP 's/HVS been/VBN fun/JJ ,/,","it's been fun, /"
+fc,B,"it/PRP 's/HVS been/VBN nice/JJ ,/,","it's been nice, /"
+fc,B,"it/PRP 's/BES ,/, uh/UH ,/, you/PRP know/VBP ,/, new/JJ to/TO learn/VB some/DT ,/, what/WP different/JJ people/NNS eat/VBP ,/,","it's, {F uh, } {D you know, } new to learn [ some, + ] what different people eat, /"
+fc,A,Right/UH ./.,Right. /
+fc,B,I/PRP come/VBP from/IN Wyoming/NNP,I come from Wyoming /
+fc,B,"and/CC it/PRP 's/BES basically/RB the/DT same/JJ ,/, same/JJ type/NN of/IN thing/NN except/IN for/IN you/PRP do/VBP eat/VB more/JJR the/DT Tex-Mex/NNP down/IN here/RB ,/,","{C and } it's basically the [ same, + same ] type of thing except for you do eat more the Tex-Mex down here, /"
+fc,B,so/RB ./.,{C so. } -/
+fc,A,"Uh/UH ,/, in/IN Wyoming/NNP it/PRP would/MD be/VB less/RBR spicy/JJ ?/.","{F Uh, } in Wyoming it would be less spicy? /"
+fc,B,"Yeah/UH ,/,","Yeah, /"
+fc,B,"yeah/UH ,/,","yeah, /"
+fc,B,"you/PRP ,/, you/PRP know/VBP ,/,","you, {D you know, } - /"
+fc,B,"down/IN there/RB it/PRP 's/BES just/RB like/IN meat/NN and/CC potatoes/NNS ,/, you/PRP know/VBP ./.","down there it's just like meat and potatoes, {D you know. } /"
+fc,A,Vegetables/NNS once/RB in/IN a/DT while/NN ./.,<Laughter> Vegetables once in a while. /
+fc,B,"Yeah/UH ,/,","Yeah, /"
+fc,B,right/UH ./.,right <laughter>. /
+fc,A,"Oh/UH ,/, dear/UH ./.","{F Oh, } dear. /"
+fc,B,"Well/UH ,/, it/PRP 's/HVS been/VBN interesting/JJ to/TO talk/VB to/IN you/PRP ./.","{D Well, } it's been interesting to talk to you. /"
+fc,A,"Okay/UH ,/,","Okay, /"
+fc,A,very/RB good/JJ ./.,very good. /
+fc,B,Thank/VB you/PRP for/IN calling/VBG ./.,Thank you for calling. /
+fc,A,"Okay/UH ,/,","Okay, /"
+fc,A,bye-bye/UH ./.,bye-bye. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

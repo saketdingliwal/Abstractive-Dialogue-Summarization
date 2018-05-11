@@ -1,0 +1,238 @@
+act_tag,speaker,pos,text
+sd,A,"I/PRP just/RB pressed/VBD my/PRP$ ,/, uh/UH ./.","I just pressed my, {F uh. } -/"
+sd,B,We/PRP 're/VBP supposed/VBN to/TO talk/VB about/IN recent/JJ political/JJ developments/NNS ./.,We're supposed to talk about recent political developments. /
+sd,A,"I/PRP got/VBD one/CD that/DT 's/BES interesting/JJ ,/, not/RB too/RB ,/, not/RB too/RB controversial/JJ ,/,","I got one that's interesting, [ not too, + not too ] controversial, /"
+%,A,"I/PRP ,/,","I, - /"
+%,A,"you/PRP know/VBP ,/, not/RB ,/,","{D you know, } not, - /"
+sd,A,does/VBZ n't/RB matter/VB whether/IN you/PRP 're/VBP Democrat/NNP or/CC Republican/NNP ./.,doesn't matter whether you're Democrat or Republican. /
+sd,A,"I/PRP ,/, I/PRP do/VBP get/VB somewhat/RB of/IN a/DT kick/NN out/IN of/IN ,/,","[ I, + I ] do get somewhat of a kick out of, - /"
+sv,A,"because/IN Schwartzkopf/NNP ,/, or/CC the/DT other/JJ generals/NNS ,/, who/WP I/PRP admire/VBP ,/, how/WRB everyone/NN wants/VBZ to/TO make/VB ,/, get/VB them/PRP in/IN politics/NNS ./.","because Schwartzkopf, or the other generals, who I admire, how everyone wants to make, get them in politics. - /"
+sv,A,I/PRP think/VBP --/:,I think --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: that/DT 's/BES kind/RB of/RB an/DT interesting/JJ recent/JJ thing/NN ,/, that/WDT I/PRP could/MD think/VB of/IN recently/RB that/IN ,/, uh/UH ,/,","-- that's kind of an interesting recent thing, that I could think of recently that, {F uh, } - /"
+sd,A,I/PRP was/VBD wondering/VBG what/WP you/PRP thought/VBD about/IN that/DT --/:,I was wondering what you thought about that --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: making/VBG the/DT general/NN ,/, uh/UH ,/, getting/VBG a/DT general/NN into/IN politics/NNS ./.","-- [ making the general, + {F uh, } getting a general ] into politics. /"
+sv,B,"They/PRP want/VBP him/PRP because/IN he/PRP 's/BES popular/JJ ,/, not/RB because/IN he/PRP can/MD do/VB the/DT job/NN ./.","They want him because he's popular, not because he can do the job. /"
+aa,A,Right/UH ./.,Right. /
+sd,A,"Well/UH ,/, I/PRP 've/VBP ,/, I/PRP 've/VBP been/VBN thinking/VBG about/IN it/PRP ,/,","{D Well, } [ I've, + I've ] been thinking about it, /"
+sd,A,"and/CC I/PRP ,/, uh/UH ,/, I/PRP kind/RB of/RB get/VBP a/DT kick/NN out/IN of/IN they/PRP always/RB want/VBP the/DT hero/NN ,/,","{C and } [ I, + {F uh, } I ] kind of get a kick out of they always want the hero, /"
+%,A,"those/DT ,/,","those, - /"
+sv,A,we/PRP 're/VBP looking/VBG for/IN a/DT hero/NN ./.,we're looking for a hero. /
+sd,A,"Well/UH ,/, TIME/NNP magazine/NN was/VBD saying/VBG that/IN in/IN essence/NN the/DT general/NN 's/POS staff/NN was/VBD comparing/VBG to/IN corporate/JJ presidents/NNS ,/,","{D Well, } TIME magazine was saying that in essence <child> the general's staff was comparing to corporate presidents, /"
+sd,A,"and/CC they/PRP said/VBD in/IN general/JJ ,/, generals/NNS are/VBP more/RBR familiar/JJ with/IN training/NN ,/, that/IN they/PRP believe/VBP in/IN training/NN more/JJR ./.","{C and } they said in general, generals are more familiar with training, that they believe in training more. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"They/PRP are/VBP much/RB more/RBR educated/JJ than/IN the/DT average/JJ corporate/JJ president/NN ,/,","They are much more educated than the average corporate president, /"
+sd,A,"and/CC so/RB they/PRP really/RB were/VBD very/RB positive/JJ on/IN a/DT general/NN 's/POS staff/NN person/NN having/VBG a/DT ,/, a/DT very/RB much/RB better/JJR education/NN than/IN the/DT average/JJ ,/, uh/UH ,/, corporate/JJ president/NN ./.","{C and so } they really were very positive on a general's staff person having [ a, + a ] very much better education than the average, {F uh, } corporate president. /"
+sd,A,"So/RB ,/, I/PRP thought/VBD well/UH ,/, maybe/RB ./.","{C So, } I thought {D well, } maybe. /"
+sv,B,"I/PRP ,/, I/PRP think/VBP they/PRP probably/RB have/VBP a/DT better/JJR education/NN than/IN the/DT average/JJ congressman/NN ./.","[ I, + I ] think they probably have a better education than the average congressman. /"
+aa,A,"Well/UH ,/, that/DT ,/, too/RB ,/,","{D Well, } that, too, /"
+aa,A,"that/DT ,/, too/RB ./.","that, too. /"
+sd,A,"And/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, they/PRP talk/VBP about/IN the/DT Army/NNP","{C And, } {F uh, } {D you know, } they talk about the Army /"
+sd,A,and/CC because/IN of/IN the/DT war/NN,and because of the war /
+sd,A,"and/CC why/WRB did/VBD we/PRP win/VB ,/, and/CC all/DT that/DT ,/,","{C and } why did we win, and all that, /"
+sd,A,and/CC they/PRP talked/VBD about/IN how/WRB the/DT training/NN was/VBD so/RB important/JJ ./.,{C and } they talked about how the training was so important. /
+sd,A,"And/CC that/DT 's/BES so/RB important/JJ in/IN industry/NN ,/,","<child> {C And } that's so important in industry, /"
+sv,A,"so/RB ,/, you/PRP know/VBP ,/, they/PRP 're/VBP liable/JJ to/TO be/VB right/JJ ./. That/DT generals/NNS ,/, generals/NNS in/IN the/DT service/NN ,/,","{C so, } {D you know, } they're liable to be right. That [ generals, + generals ] in the service, - /"
+sv,A,"and/CC Schwartzkopf/NNP ,/, uh/UH ,/, you/PRP know/VBP ,/, might/MD make/VB a/DT good/JJ ,/, uh/UH ,/, politician/NN ,/, whether/IN it/PRP be/VBP Governor/NNP or/CC whatever/WDT ,/, you/PRP know/VBP ./.","{C and } Schwartzkopf, {F uh, } {D you know, } might make a good, {F uh, } politician, whether it be Governor or whatever, {D you know. } /"
+sv,B,"He/PRP ,/, he/PRP ,/, you/PRP know/VBP ,/, we/PRP know/VBP he/PRP 's/BES a/DT good/JJ leader/NN ,/,","[ [ He, + he, ] + {D you know, } we ] know he's a good leader, /"
+sv,B,we/PRP know/VBP he/PRP 's/BES a/DT good/JJ organizer/NN ./.,we know he's a good organizer. /
+sd,B,"The/DT question/NN is/VBZ ,/, you/PRP know/VBP ,/, can/MD he/PRP be/VB the/DT man/NN who/WP 's/BES ultimately/RB responsible/JJ ./.","The question is, {D you know, } can he be the man who's ultimately responsible. /"
+sd,B,"You/PRP know/VBP ,/, like/IN what/WP he/PRP said/VBD is/VBZ ,/, you/PRP know/VBP ,/, a/DT lot/NN of/IN times/NNS in/IN his/PRP$ interviews/NNS he/PRP was/VBD talking/VBG about/IN ,/, you/PRP know/VBP ,/, people/NNS asking/VBG why/WRB are/VBP you/PRP doing/VBG this/DT ,/, why/WRB are/VBP you/PRP doing/VBG that/DT ./.","{D You know, } like what he said is, {D you know, } a lot of times in his interviews he was talking about, {D you know, } people asking why are you doing this, why are you doing that. /"
+sd,B,"He/PRP says/VBZ ,/, I/PRP 'm/VBP following/VBG the/DT orders/NNS of/IN my/PRP$ president/NN ./.","He says, I'm following the orders of my president. /"
+^q,B,I/PRP 'm/VBP not/RB the/DT one/NN who/WP writes/VBZ the/DT orders/NNS ./.,I'm not the one who writes the orders. /
+^q,B,I/PRP 'm/VBP just/RB the/DT one/NN who/WP follows/VBZ them/PRP ./.,I'm just the one who follows them. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"it/PRP 's/BES interesting/JJ how/WRB they/PRP say/VBP that/IN when/WRB they/PRP 're/VBP usually/RB the/DT top/JJ dogs/NNS ,/, you/PRP know/VBP ,/,","it's interesting how they say that when they're usually the top dogs, {D you know, } /"
+sv,A,"everyone/NN has/VBZ a/DT boss/NN ,/, of/IN course/NN ./.","everyone has a boss, of course. /"
+sd,B,"You/PRP know/VBP ,/, Schwartzkopf/NNP was/VBD ordered/VBN to/TO get/VB Iraq/NNP out/IN of/IN Kuwait/NNP ./.","{D You know, } Schwartzkopf was ordered to get Iraq out of Kuwait. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC so/RB he/PRP went/VBD to/IN the/DT President/NNP and/CC said/VBD ,/, okay/UH ,/, here/RB 's/BES how/WRB I/PRP want/VBP to/TO do/VB it/PRP ./.","{C And so } he went to the President and said, {D okay, } here's how I want to do it. /"
+sd,B,But/CC he/PRP was/VBD n't/RB the/DT one/NN that/WDT decided/VBD Iraq/NNP needed/VBN to/TO get/VB out/IN of/IN Kuwait/NNP ./.,{C But } he wasn't the one that decided Iraq needed to get out of Kuwait. /
+aa,A,"No/UH ,/,","No, /"
+aa,A,"that/DT 's/BES true/JJ ,/,","that's true, /"
+aa,A,that/DT 's/BES true/JJ ./.,that's true. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ad,A,"Uh/UH ,/, you/PRP ,/, you/PRP pick/VBP one/CD ./.","{F Uh, } [ you, + you ] pick one. /"
+x,B,,<Laughter>.
+sd,A,"I/PRP just/RB thought/VBD of/IN that/DT one/CD when/WRB ,/, when/WRB they/PRP brought/VBD up/RP about/IN politics/NNS ./.","I just thought of that one [ when, + when ] they brought up about politics. /"
+sv,A,"That/DT was/VBD ,/, uh/UH ,/, pretty/RB easy/JJ --/:","That was, {F uh, } pretty easy -- /"
+b,B,Yeah/UH ./.,Yeah. /
+ad,A,"--/: you/PRP do/VBP n't/RB have/VB to/TO pick/VB Democratic/JJ or/CC Republican/JJ ,/,","-- you don't have to pick Democratic or Republican, /"
+ad,A,"you/PRP can/MD pick/VB anything/NN you/PRP want/VBP ,/,","you can pick anything you want, /"
+ad,A,go/VB ahead/RB ./.,go ahead. /
+sd,B,"Well/UH ,/, the/DT thing/NN that/WDT I/PRP 'm/VBP wondering/VBG about/IN is/VBZ how/WRB we/PRP get/VBP a/DT new/JJ congress/NN ./.","{D Well, } the thing that I'm <children> wondering about is how we get a new congress. /"
+qh,B,"How/WRB do/VBP we/PRP get/VB some/DT of/IN these/DT guys/NNS that/WDT have/VBP been/VBN in/IN there/RB for/IN so/RB long/JJ ,/,","How do we get some of these guys that have been in there for so long, <children> - /"
+qh,B,how/WRB do/VBP we/PRP get/VB them/PRP to/TO not/RB get/VB reelected/VBN over/IN and/CC over/IN again/RB ./.,how do we get them <<pause>> to not get reelected over and over again. /
+sd,A,"Well/UH ,/, I/PRP have/VBP an/DT easy/JJ answer/NN for/IN that/DT ,/, oh/UH ,/, I/PRP wish/VBP they/PRP would/MD do/VB it/PRP ,/, is/VBZ that/DT limit/NN it/PRP ,/, you/PRP know/VBP ,/, to/IN eight/CD or/CC ten/CD years/NNS max/NN ./.","{D Well, } I have an easy answer for that, {F oh, } {A I wish they would do it, } is that limit it, {D you know, } to eight or ten years max. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"You/PRP know/VBP ,/, whether/IN that/DT 's/BES two/CD --/:","{D You know, } whether that's two --"
+%,B,"I/PRP th-/XX ,/,","I th-, - /"
+b,B,yeah/UH ./.,yeah. /
++,A,--/: five/CD year/NN terms/NNS or/CC whatever/WDT ./.,-- five year terms or whatever. /
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,"That/DT may/MD be/VB our/PRP$ only/JJ answer/NN ,/,","That may be our only answer, /"
+sd,B,but/CC I/PRP do/VBP n't/RB really/RB like/VB it/PRP ./.,{C but } I don't really like it. /
+sd,B,I/PRP do/VBP n't/RB like/VB the/DT fact/NN that/IN the/DT President/NNP is/VBZ limited/JJ in/IN the/DT number/NN of/IN terms/NNS he/PRP can/MD serve/VB ./.,I don't like the fact that the President is limited in the number of terms he can serve. /
+ar,A,"Oh/UH ,/, you/PRP know/VBP ,/, you/PRP 're/VBP not/RB ./.","{F Oh, } {D you know, } you're not. /"
+sd,B,"I/PRP think/VBP if/IN the/DT President/NNP ,/, be/VB him/PRP Republican/NNP or/CC Democrat/NNP ,/,","I think if the President, be him Republican or Democrat, - /"
+sv,B,"I/PRP think/VBP if/IN the/DT President/NNP can/MD prove/VB that/IN he/PRP 's/BES popular/JJ ,/, you/PRP know/VBP ,/, that/IN he/PRP can/MD do/VB the/DT job/NN --/:","I think if the President can prove that he's popular, {D you know, } that he can do the job --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: then/RB the/DT people/NNS should/MD be/VB allowed/VBN to/TO elect/VB him/PRP as/RB often/RB as/IN they/PRP want/VBP ./.,-- then the people should be allowed to elect him as often as they want. /
+sv,B,I/PRP think/VBP the/DT reason/NN why/WRB we/PRP 've/VBP got/VBN these/DT guys/NNS in/IN Congress/NNP is/VBZ because/IN of/IN the/DT fund/NN raising/NN rules/NNS ./.,I think the reason why we've got these guys in Congress is because of the fund raising rules. /
+sv,B,"I/PRP mean/VBP ,/, how/WRB many/JJ of/IN these/DT big/JJ campaign/NN contributions/NNS that/WDT they/PRP 're/VBP running/VBG on/RP this/DT year/NN ,/, did/VBD they/PRP get/VB after/IN they/PRP were/VBD elected/VBN ,/, just/RB ,/, you/PRP know/VBP ,/, just/RB after/IN they/PRP were/VBD elected/VBN two/CD years/NNS ago/RB ./.","{E I mean, } how many of these big campaign contributions that they're running on this year, did they get [ after they were elected, + [ just, + {D you know, } just ] after ] they were elected two years ago. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Basically/RB the/DT people/NNS ,/,","Basically the people, - /"
+sv,B,"as/RB soon/RB as/IN they/PRP get/VBP elected/VBN ,/, the/DT people/NNS dump/VBP all/DT kinds/NNS of/IN money/NN on/IN them/PRP and/CC say/VBP ,/, Yeah/UH ,/, yeah/UH ,/, you/PRP 're/VBP my/PRP$ friend/NN ,/,","as soon as they get elected, the people dump all kinds of money on them and say, {D Yeah, } {D yeah, } you're my friend, /"
+^q,B,"you/PRP 're/VBP my/PRP$ friend/NN ,/,","you're my friend, /"
+sv,B,and/CC two/CD years/NNS later/RB he/PRP remembers/VBZ that/DT ./.,{C and } two years later he remembers that. /
+sv,B,And/CC what/WP they/PRP done/VBD is/VBZ they/PRP 've/VBP bought/VBN this/DT congressman/NN for/IN two/CD years/NNS ./.,{C And } what they done is they've bought this congressman for two years. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,A,"I/PRP do/VBP like/IN the/DT limitation/NN of/IN the/DT President/NNP ,/,","<child_crying> I do like the limitation of the President, /"
+sv,A,and/CC I/PRP think/VBP there/EX is/VBZ a/DT needed/JJ change/NN ./.,{C and } I think there is a needed change. /
+sv,A,I/PRP think/VBP the/DT same/JJ thing/NN should/MD happen/VB for/IN Congress/NNP ./.,I think the same thing should happen for Congress. /
+%,A,"I/PRP ,/, I/PRP 'd/MD lik/VB ,/, you/PRP know/VBP ,/,","[ I, + I'd ] lik-, {D you know, } - /"
+sd,A,that/DT would/MD be/VB my/PRP$ answer/NN of/IN an/DT --/:,that would be my answer of an --
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,well/UH ./.,well. -/
++,A,--/: easy/JJ way/NN to/TO get/VB these/DT guys/NNS out/IN of/IN there/RB for/IN twenty/CD years/NNS ./.,-- easy way to get these guys out of there for twenty years. /
+sv,A,"My/PRP$ God/UH ,/, it/PRP 's/BES ridiculous/JJ ,/, you/PRP know/VBP ./.","My God, it's ridiculous, {D you know. } /"
+sv,B,"That/DT 's/BES ,/, that/DT 's/BES the/DT easy/JJ way/NN ./.","[ That's, + that's ] <child_crying> the easy way. /"
+sv,B,I/PRP think/VBP the/DT harder/JJR way/NN out/RB would/MD be/VB to/TO make/VB the/DT guys/NNS that/WDT are/VBP in/IN there/RB and/CC the/DT guys/NNS who/WP are/VBP trying/VBG to/TO get/VB in/IN there/RB run/VB on/IN more/JJR level/NN ground/NN ./.,I think the harder way out would be to make the guys that are in there and the guys who are trying to get in there run on more level ground <child_crying>. /
+%,A,We/PRP had/VBD ./.,We had. -/
+sv,B,"That/DT 's/BES what/WP the/DT financing/NN rules/NNS and/CC the/DT ,/, uh/UH ,/, the/DT mailing/NN rules/NNS and/CC the/DT size/NN of/IN the/DT office/NN staff/NN and/CC all/PDT that/DT stuff/NN ./.","That's what the financing rules and the, {F uh, } the mailing rules and the size of the office staff and all that stuff. -/"
+sd,A,"I/PRP think/VBP voting/NN is/VBZ ,/, is/VBZ a/DT prob-/NN ,/, I/PRP think/VBP I/PRP had/VBD one/CD of/IN the/DT subject/NN about/IN voting/NN ,/, and/CC ,/, uh/UH ,/, voting/NN apathy/NN ,/, or/CC something/NN like/IN that/DT ,/,","[ I think voting [ is, + is ] a prob-, + I think ] I had one of the subject about voting, <child> and, {F uh, } voting apathy, or something like that, /"
+sv,A,"and/CC I/PRP think/VBP that/IN ,/, uh/UH ,/, the/DT voting/NN rules/NNS need/VBP to/TO be/VB changed/VBN where/WRB you/PRP have/VBP a/DT little/RB more/JJR time/NN ./.","{C and } I think that, {F uh, } the voting rules need to be changed where you have a little more time. /"
+sd,A,"I/PRP ca/MD n't/RB believe/VB that/IN a/DT country/NN our/PRP$ big/JJ votes/VBZ for/IN a/DT President/NNP from/IN seven/CD o'clock/RB in/IN the/DT morning/NN til/IN seven/CD o'clock/RB at/IN night/NN ,/, you/PRP know/VBP ./.","<child squealing> I can't believe that a country our big votes for a President from seven o'clock in the morning til seven o'clock at night, {D you know. } /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Of/IN course/NN they/PRP have/VBP absentee/NN which/WDT is/VBZ getting/VBG to/TO be/VB more/JJR ,/, a/DT lot/NN easier/JJR ,/,","<Child> Of course they have absentee which is getting to be [ more, + ] a lot easier, /"
+sd,A,"and/CC I/PRP ,/, I/PRP vote/VBP as/IN often/RB on/IN absentee/NN as/IN I/PRP can/MD because/IN it/PRP 's/BES so/RB easy/JJ now/RB ./.","{C and } [ I, + I ] vote as often on absentee as I can because it's so easy now. /"
+sv,A,"But/CC ,/, I/PRP think/VBP ,/, gee/UH whiz/UH ,/, you/PRP could/MD make/VB it/PRP a/DT couple/NN days/NNS ./.","{C But, } I think, {D gee whiz, } you could make it a couple <child> days. /"
+sv,A,"It/PRP 's/BES just/RB ,/, if/IN you/PRP really/RB want/VBP the/DT majority/NN of/IN the/DT people/NNS to/TO vote/VB --/:","It's just, if you really want the majority of the people to vote --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: then/RB give/VB them/PRP a/DT couple/NN of/IN days/NNS ./.,-- then give them a couple of days. /
+sv,B,"Well/UH ,/, I/PRP think/VBP a/DT lot/NN more/JJR people/NNS could/MD vote/VB if/IN they/PRP were/VBD somehow/RB persuaded/VBN that/IN it/PRP 's/BES something/NN worth/JJ caring/VBG about/RB ./.","{D Well, } I think a lot more people could vote if they were somehow persuaded that it's something worth caring about. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
+sv,B,"You/PRP know/VBP ,/, like/IN ,/, you/PRP know/VBP ,/, the/DT ,/, the/DT recent/JJ election/NN about/IN how/WRB the/DT Dallas/NNP City/NNP Council/NNP should/MD be/VB made/VBN up/RP ,/, that/DT election/NN last/JJ December/NNP ./.","{D You know, } like, {D you know, } [ the, + the ] recent election about how the Dallas City Council should be made up, that election last December. /"
+qy,A,Are/VBP you/PRP in/IN Dallas/NNP ?/.,Are you in Dallas? /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP 'm/VBP in/IN Dallas/NNP city/NN limit/NN ./.,I'm in Dallas city limit. /
+sd,A,"Boy/UH ,/, I/PRP ,/, I/PRP ,/, I/PRP live/VBP in/IN Arlington/NNP ./.","Boy, [ [ I, + I, ] + I ] live in Arlington. /"
+sd,A,I/PRP am/VBP so/RB happy/JJ not/RB to/TO be/VB part/NN of/IN Dallas/NNP --/:,I am so happy not to be part of Dallas --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: when/WRB I/PRP see/VBP those/DT folks/NNS there/RB ./.,-- when I see those folks there. /
+sv,B,It/PRP 's/BES an/DT ugly/JJ mess/NN ./.,It's an ugly mess. /
+sd,A,"I/PRP mean/VBP ,/, I/PRP do/VBP n't/RB know/VB if/IN you/PRP like/VBP the/DT mayor/NN ,/,","{E I mean, } I don't know if you like the mayor,/"
+sv,A,"but/CC I/PRP think/VBP your/PRP$ mayor/NN ,/,","{C but } I think your mayor, - /"
+sv,A,"the/DT city/NN council/NN ,/,","the city council, - /"
+%,A,"the/DT ,/,","the, - /"
+qw,A,"what/WP is/VBZ the/DT woman/NN 's/POS name/NN whose/WP$ ,/, us/PRP ,/, not/RB the/DT mayor/NN but/CC the/DT ,/,","what is the woman's name whose, [ us, + ] not the mayor but the, -/ *[[typo should be who's]]"
+^2,B,The/DT manager/NN ./.,The manager. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,the/DT city/NN manager/NN ./.,the city manager. /
+sv,A,All/DT of/IN them/PRP need/VBP to/TO be/VB thrown/VBN out/RB ./.,All of them need to be thrown out. /
+sv,A,"I/PRP mean/VBP ,/, they/PRP 're/VBP just/RB awful/JJ ,/, just/RB awful/JJ ./.","{E I mean, } they're just awful, just awful. /"
+sd,B,"Well/UH ,/, what/WP get/GW 's/^VBP me/PRP is/VBZ this/DT thing/NN ,/, it/PRP went/VBD down/IN to/IN defeat/NN last/JJ December/NNP by/IN how/WRB many/JJ votes/NNS ,/, by/IN just/RB a/DT few/JJ hundred/CD votes/NNS ./.","{D Well, } what get's me is this thing, it went down to defeat last December {A by how many votes, } by just a few hundred votes. /"
+b,A,Uh-huh/UH,Uh-huh /
+x,A,./.,<child_crying>.
+sv,B,"And/CC if/IN it/PRP ,/, if/IN it/PRP had/VBD passed/VBN ,/,","{C And } [ if it, + if it ] had passed, - /"
+sv,B,"if/IN these/DT people/NNS had/VBD gotten/VBN out/RB the/IN vote/NN ,/, it/PRP would/MD have/VB passed/VBN","if these people had gotten out the vote, it would have passed /"
+sv,B,and/CC there/EX 'd/MD be/VB no/DT more/JJR argument/NN ./.,{C and } there'd be no more argument. /
+sv,B,But/CC they/PRP 're/VBP still/RB fighting/VBG about/IN it/PRP because/IN of/IN the/DT --/:,{C But } they're still fighting about it because of the --
+aa,A,I/PRP know/VBP ./.,I know. /
++,B,--/: way/NN the/DT election/NN went/VBD last/JJ December/NNP ./.,-- way the election went last December. /
+sv,A,"It/PRP 's/BES so/RB awful/JJ that/IN politicians/NNS always/RB spent/VBD consulting/NN money/NN ./. That/IN we/PRP put/VBD them/PRP in/IN office/NN and/CC then/RB they/PRP go/VBP out/RB and/CC spend/VBP a/DT couple/NN hundreds/NNS of/IN thousands/NNS of/IN dollars/NNS to/TO buy/VB consultants/NNS ,/,","It's so awful that politicians always spent consulting money. That we put them in office and then they go out and spend a couple hundreds of thousands of dollars to buy consultants, /"
+sv,A,"and/CC then/RB they/PRP do/VBP n't/RB even/RB do/VB that/DT recommendation/NN ,/, you/PRP know/VBP ./.","{C and then } they don't even do that recommendation, {D you know. } /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,yeah/UH ./.,yeah. /
+sv,A,"I/PRP mean/VBP ,/, it/PRP 's/BES amazing/JJ the/DT money/NN that/IN they/PRP spend/VBP once/RB they/PRP get/VBP in/RB ./.","{E I mean, } it's amazing the money that they spend once they get in. /"
+sd,B,"But/CC ,/, but/CC this/DT is/VBZ for/IN ,/, supposedly/RB to/TO benefit/VB the/DT minorities/NNS ,/,","[ {C But, } + {C but } ] this is [ for, + ] supposedly to benefit the minorities, /"
+sv,B,and/CC all/PDT the/DT minorities/NNS had/VBD to/TO do/VB was/VBD go/VB out/RB and/CC get/VB a/DT couple/NN more/JJR hundred/CD people/NNS to/TO vote/VB --/:,{C and } all the minorities had to do was go out and get a couple more hundred people to vote -- /
+aa,A,Well/UH you/PRP 're/VBP right/JJ there/RB ./.,{D Well } you're right there. /
+sv,B,--/: and/CC they/PRP would/MD have/VB had/VBN their/PRP$ way/NN ./.,-- {C and } they would have had their way. /
+aa,A,You/PRP 're/VBP right/JJ there/RB ./.,You're right there. /
+%,A,"Uh/UH ,/, uh/UH ,/, people/NNS are/VBP ,/,","{F Uh, } {F uh, } people are, - /"
+%,A,"uh/UH ,/, uh/UH ,/, politics/NNS ,/, uh/UH ,/,","{F uh, } {F uh, } politics, {F uh, } - /"
+sv,A,the/DT voting/NN is/VBZ still/RB not/RB as/RB much/JJ as/IN you/PRP think/VBP in/IN all/DT kinds/NNS of/IN issues/NNS really/UH ./.,the voting is still not as much as you think in all kinds of issues really. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,it/PRP 's/BES pretty/RB sad/JJ ./.,it's pretty sad. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,it/PRP is/VBZ ./.,it is. /
+sd,A,"Uh/UH ,/, hopefully/RB people/NNS will/MD get/VB more/RBR involved/JJ ./.","{F Uh, } hopefully people will get more involved. /"
+sd,B,"My/PRP$ ,/, my/PRP$ position/NN is/VBZ people/NNS who/WP do/VBP n't/RB vote/VB do/VBP n't/RB have/VB any/DT right/NN to/TO complain/VB about/IN the/DT way/NN the/DT government/NN 's/BES going/VBG ./.","[ My, + my ] position is people who don't vote don't have any right to complain about the way the government's going. /"
+aa,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sv,A,"but/CC those/DT are/VBP the/DT ones/NNS that/WDT are/VBP complaining/VBG ,/, I/PRP ,/, I/PRP think/VBP ,/, a/DT lot/NN ./.","{C but } those are the ones that are complaining, {A [ I, + I ] think, } a lot. /"
+sd,A,I/PRP see/VBP it/PRP here/RB at/IN T/NNP I/NNP ./.,I see it here at T I. /
+sd,A,"The/DT guys/NNS that/WDT do/VBP n't/RB take/VB any/DT interest/NN in/IN ,/, and/CC ,/, and/CC constantly/RB on/IN the/DT negative/NN of/IN everything/NN ./.","The guys that don't take any interest in, [ and, + and ] constantly on the negative of everything. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+bh,A,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, }"
+sd,B,"And/CC ,/, and/CC you/PRP ask/VBP them/PRP why/WRB they/PRP do/VBP n't/RB vote/VB ,/,","[ {C And, } + {C and } ] you ask them why they don't vote, /"
+sd,B,"they/PRP say/VBP well/UH they/PRP do/VBP n't/RB want/VB their/PRP$ name/NN on/IN the/DT ,/, uh/UH ,/, jury/NN duty/NN list/NN ./.","they say {D well } they don't want their name on the, {F uh, } jury duty list. /"
++,A,Is/VBZ that/DT right/JJ ?/. Ooh/UH ./.,Is that right? {F Ooh. } /
+sd,B,"That/DT ,/, that/DT 's/BES where/WRB they/PRP get/VBP the/DT jury/NN duty/NN list/NN ,/, is/VBZ from/IN the/DT voter/NN registration/NN ./.","[ That, + that's ] where they get the jury duty list, is from the voter registration. /"
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,"you/PRP 're/VBP right/JJ ,/,","you're right, /"
+aa,A,you/PRP 're/VBP right/JJ ./.,you're right. /
+sv,A,"I/PRP think/VBP they/PRP could/MD do/VB more/JJR about/IN ,/, uh/UH ,/, voting/NN ./.","<<pause>> I think they could do more about, {F uh, } voting. /"
+sv,B,MUMBLEx/XX I/PRP think/VBP they/PRP could/MD ./.,(( )) I think they could. /
+qw,A,What/WP are/VBP the/DT issues/NNS ?/.,What are the issues? /
+sd,A,"I/PRP ,/, I/PRP 'm/VBP a/DT Democrat/NNP ,/,","[ I, + I'm ] a Democrat, /"
+sd,A,I/PRP want/VBP to/TO just/RB say/VB that/IN I/PRP 'm/VBP so/RB sad/JJ that/IN there/EX is/VBZ n't/RB a/DT strong/JJ Democrat/NNP ./.,I want to just say that I'm so sad that there isn't a strong Democrat. /
+h,A,"I/PRP do/VBP n't/RB even/RB know/VB ,/,","I don't even know, /"
+sd,A,I/PRP could/MD go/VB out/RB and/CC debate/VB George/NNP Bush/NNP better/JJR than/IN I/PRP see/VBP any/DT Democrat/NNP doing/VBG it/PRP ./.,I could go out and debate George Bush better than I see any Democrat doing it. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"You/PRP know/VBP ,/, I/PRP mean/VBP ,/, at/IN least/JJS I/PRP 'd/MD like/VB to/TO see/VB compe-/NN ,/,","{D You know, } {E I mean, } at least I'd like to see compe-, - /"
+sd,A,"because/IN I/PRP like/VBP competition/NN ,/, you/PRP know/VBP ./.","{C because } I like competition, {D you know. } /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"I/PRP think/VBP rolling/VBG over/RB and/CC put/VB your/PRP$ belly/NN up/RP and/CC play/VB dead/JJ ,/,","I think rolling over and put your belly up and play dead, - /"
+sd,A,"I/PRP 'm/VBP so/RB disgusted/JJ with/IN the/DT Democratic/JJ party/NN ,/,","I'm so disgusted with the Democratic party, /"
+sd,A,"I/PRP can/MD not/RB believe/VB it/PRP ,/, you/PRP know/VBP ./.","I can not believe it, {D you know. } / *[[typo cannot]]"
+sv,B,"In/IN Presidential/JJ races/NNS that/WDT 's/BES about/RB what/WP they/PRP 've/VBP done/VBN ,/,","In Presidential races that's about what they've done, /"
+sv,B,but/CC they/PRP 've/VBP got/VBN a/DT pretty/RB good/JJ lock/NN on/IN Congress/NNP and/CC --/:,{C but } they've got a pretty good lock on Congress and --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: a/DT lot/NN of/IN local/JJ things/NNS ./.,-- a lot of local things. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"but/CC I/PRP still/RB think/VBP in/IN the/DT last/JJ ten/CD years/NNS ,/,","{C but } I still think in the last ten years, - /"
+sd,A,"you/PRP know/VBP ,/, of/IN course/NN that/DT 's/BES not/RB a/DT recent/JJ event/NN ,/,","{D you know, } of course that's not a recent event, /"
+h,A,"that/DT 's/BES only/RB my/PRP$ opinion/NN ,/,","that's only my opinion, /"
+h,A,I/PRP guess/VBP I/PRP really/RB should/MD n't/RB talk/VB about/IN that/DT ./.,I guess I really shouldn't talk about that. /
+sd,A,"But/CC ,/, I/PRP do/VBP n't/RB know/VB whether/IN they/PRP 're/VBP recent/JJ events/NNS ./.","{C But, } <noise> I don't know whether they're recent events. /"
+sd,A,"I/PRP guess/VBP they/PRP we-/XX ,/, on/IN this/DT ,/, uh/UH ,/, speech/NN thing/NN ,/, they/PRP want/VBP us/PRP to/TO use/VB a/DT variety/NN of/IN words/NNS ./.","I guess [ they we-, + ] on this, {F uh, } speech thing, <child> they want us to use a variety of words. /"
+aa,B,Right/UH ./.,Right. /
+qy,A,"How/WRB many/JJ times/NNS have/VBP you/PRP called/VBN ,/, by/IN the/DT way/NN ?/.","How many times have you called, by the way? /"
+sd,B,"Actually/UH ,/, I/PRP have/VBP n't/RB made/VBN any/DT calls/NNS ,/,","{D Actually, } I haven't made any calls, /"
+sd,B,but/CC I/PRP received/VBD about/IN a/DT dozen/NN ./.,{C but } I received about a dozen. /
+b,A,"Oh/UH ,/, really/UH ,/, I/PRP ,/, I/PRP ,/, I/PRP ,/,","{F Oh, } {D really, } [ [ I, + I, ] + I, ] -/"
+sd,B,"I/PRP think/VBP ,/, yeah/UH ,/, I/PRP have/VBP to/TO make/VB these/DT ,/,","I think, {D yeah, } I have to make these, /"
+sd,B,"but/CC I/PRP get/VBP distracted/JJ and/CC get/VBP to/TO do/VB something/NN else/RB ,/,","{C but } I get distracted and get to do something else, /"
+sd,B,"and/CC all/DT of/IN a/DT sudden/JJ my/PRP$ phone/NN rings/VBP ,/,","{C and } all of a sudden my phone rings, /"
+sd,B,"and/CC go/VB ,/, Well/UH ,/, what/WP the/DT heck/NN ,/, we/PRP 'll/MD talk/VB for/IN a/DT while/NN ./.","and go, {D Well, } what the heck, we'll talk for a while. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP 've/VBP already/RB got/VBN twelve/CD cards/NNS ./.,I've already got twelve cards. /
+qy,A,You/PRP get/VBP any/DT cards/NNS in/IN the/DT mail/NN ?/.,You get any cards in the mail? /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,we/PRP got/VBD a/DT whole/JJ bunch/NN ./.,we got a whole bunch. /
+sd,B,I/PRP ca/MD n't/RB remember/VB how/WRB many/JJ ./.,I can't remember how many. /
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,A,"I/PRP 'm/VBP amazed/JJ by/IN ,/,","I'm amazed by, - /"
+sd,A,"of/IN course/NN ,/, we/PRP 're/VBP not/RB talking/VBG about/IN politics/NNS ,/,","of course, we're not talking about politics, /"
+sd,A,"but/CC I/PRP am/VBP amazed/JJ by/IN ,/,","{C but } I am amazed by, - /"
+sd,A,people/NNS say/VBP they/PRP got/VBD thirty/CD ./.,people say they got thirty. /
+sd,A,"Well/UH ,/, I/PRP wonder/VBP why/WRB you/PRP need/VBP thirty/CD renditions/NNS of/IN the/DT persons/NNS voice/NN ,/,","{D Well, } I wonder why you need thirty renditions of the persons voice, /"
+sd,A,but/CC I/PRP 'm/VBP not/RB in/IN voice/NN synthesis/NN ./.,{C but } I'm not in voice synthesis. /
+x,B,,<Laughter>.
+sd,A,But/CC I/PRP 'd/MD sure/RB like/VB to/TO see/VB a/DT summary/NN of/IN it/PRP ./.,{C But } I'd sure like to see a summary of it. /
+sd,A,"We/PRP 'll/MD get/VB to/IN politics/NNS ,/, I/PRP 'm/VBP sorry/JJ ./.","We'll get to politics, {E I'm sorry } <laughter>. /"
+sd,B,"Well/UH ,/, I/PRP think/VBP we/PRP 've/VBP used/VBN up/RP as/IN much/JJ time/NN as/IN we/PRP 're/VBP supposed/VBN to/TO anyway/RB ./.","{D Well, } I think we've used up as much time as we're supposed to anyway. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,right/JJ ./.,right. /
+sd,B,"We/PRP 're/VBP supposed/VBN to/TO do/VB five/CD minutes/NNS ,/,","We're supposed to do five minutes, /"
+sd,B,and/CC that/DT was/VBD three/CD minutes/NNS ago/RB ./.,{C and } that was three minutes ago. /
+b,A,Yeah/UH ./.,Yeah. /
+ft,B,"Hey/UH ,/, well/UH thanks/UH for/IN the/DT call/NN ./.","Hey, {D well } thanks for the call. /"
+fc,A,"Yeah/UH ,/,","Yeah, /"
+fc,A,bye-bye/UH ./.,bye-bye. /
+fc,B,"Yeah/UH ,/,","Yeah, /"
+fc,B,bye/UH ./.,bye. /

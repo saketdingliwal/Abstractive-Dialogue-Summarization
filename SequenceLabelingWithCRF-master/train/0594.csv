@@ -1,0 +1,109 @@
+act_tag,speaker,pos,text
+fp,A,Hi/UH ./.,Hi. /
+qw,A,What/WP do/VBP you/PRP think/VB about/IN gun/NN control/NN ?/.,What do you think about gun control? /
+sd,B,"Well/UH ,/, uh/UH ,/, sort/RB of/RB mixed/JJ feelings/NNS about/IN it/PRP ,/, I/PRP guess/VBP ,/, uh/UH ,/, uh/UH ,/,","{D Well, } {F uh, } sort of mixed feelings about it, I guess, {F uh, } {F uh, } /"
+sv,B,"I/PRP ,/, I/PRP s-/XX ,/, I/PRP lean/VBP more/RBR towards/IN the/DT control/NN side/NN than/IN ,/, than/IN towards/IN ,/, you/PRP know/VBP ,/, just/RB the/DT ,/, the/DT free/JJ ,/, free/JJ army/NN ./.","[ [ I, + I [ s-, + ] ] + I ] lean more towards the control side [ than, + than ] towards, {D you know, } just [ the, + the ] [ free, + free ] army. /"
+sd,B,"Uh/UH ,/, on/IN the/DT other/JJ hand/NN I/PRP ,/, it/PRP 's/BES ,/, it/PRP 's/BES sort/RB of/RB an/DT issue/NN of/IN ,/, of/IN uh/UH ,/,","{F Uh, } on the other hand [ I, + ] [ it's, + it's ] sort of an issue [ of, + of ] {F uh, } - /"
+sd,B,"I/PRP 'm/VBP not/RB ,/, I/PRP 'm/VBP not/RB a/DT great/JJ fan/NN of/IN ,/, of/IN government/NN control/NN in/IN general/JJ","[ I'm not, + I'm not ] a great fan [ of, + of ] government control in general /"
+sd,B,"and/CC so/RB it/PRP 's/BES ,/, it/PRP 's/BES kind/RB of/RB a/DT tough/JJ issue/NN ./.","{C and so } [ it's, + it's ] kind of a tough issue. /"
+qo,B,What/WP about/IN yourself/PRP ?/.,What about yourself? /
+sv,A,"Well/UH ,/, I/PRP guess/VBP that/IN I/PRP would/MD like/VB to/TO ,/, to/TO say/VB that/IN perhaps/RB someplace/RB in/IN the/DT middle/NN where/WRB people/NNS could/MD somehow/RB qualify/VB or/CC ,/, uh/UH ,/, have/VB a/DT legitimate/JJ use/NN for/IN the/DT ,/, the/DT ,/, the/DT weapon/NN I/PRP suppose/VBP --/:","{D Well, } I guess that I would like [ to, + to ] say that perhaps someplace in the middle where people could somehow qualify or, {F uh, } have a legitimate use for [ [ the, + the, ] + the ] weapon I suppose --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: because/IN also/RB ,/, living/VBG in/IN this/DT area/NN ,/, the/DT ,/, the/DT problems/NNS in/IN D/NNP C/NNP come/VBP home/RB very/RB quickly/RB ./.","-- because also, living in this area, [ the, + the ] problems in D C come home very quickly. /"
+ba,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP sure/JJ ,/,","[ I'm, + I'm ] sure, /"
+%,B,yeah/UH ./.,yeah. /
+qy^d,B,"Uh/UH ,/, so/RB you/PRP would/MD take/VB a/DT position/NN where/WRB somebody/NN without/IN ,/, without/IN a/DT ,/, uh/UH ,/, uh/UH ,/, specific/JJ use/NN ,/,","{F Uh, } {C so } you would take a position where somebody [ without, + without ] a, {F uh, } {F uh, } <lipsmack> specific use, - /"
+qy,B,"in/IN other/JJ words/NNS ,/, if/IN they/PRP just/RB wanted/VBD to/TO have/VB a/DT ,/, a/DT gun/NN to/TO have/VB in/IN their/PRP$ home/NN ,/, uh/UH ,/, you/PRP would/MD n't/RB ,/, you/PRP would/MD n't/RB like/VB them/PRP to/TO be/VB able/JJ to/TO do/VB that/DT ?/.","in other words, if they just wanted to have [ a, + a ] gun to have in their home, {F uh, } [ you wouldn't, + you wouldn't ] like them to be able to do that? /"
+qy,B,"Is/VBZ that/DT ,/,","Is that, -/"
+no,A,"Well/UH ,/, I/PRP 'm/VBP not/RB so/RB sure/JJ about/IN that/DT ,/,","{D Well, } I'm not so sure about that, /"
+sv,A,"but/CC I/PRP think/VBP somehow/RB ,/, uh/UH ,/, safety/NN courses/NNS","{C but } I think somehow, {F uh, } safety courses - /"
+sd,A,"or/CC ,/, I/PRP do/VBP n't/RB know/VB whether/IN this/DT could/MD be/VB something/NN that/WDT was/VBD done/VBN in/IN school/NN ,/,","{C or, } I don't know whether this could be something that was done in school, /"
+%,A,"but/CC somehow/RB people/NNS ,/,","{C but } somehow people, - /"
+sv,A,"I/PRP 'd/MD like/VB to/TO know/VB that/IN the/DT people/NNS who/WP had/VBD them/PRP at/IN least/JJS knew/VBD what/WP the/DT responsibilities/NNS were/VBD ,/, whether/IN they/PRP followed/VBD them/PRP or/CC not/RB ./.","I'd like to know that the people who had them at least knew what the responsibilities were, whether they followed them or not. /"
+%,A,"but/CC still/RB ,/,","{C but } still, -/"
+sv,B,"I/PRP ,/, I/PRP have/VBP ,/, uh/UH ,/, I/PRP have/VBP the/DT impression/NN that/IN ,/, that/IN the/DT ,/, the/DT majority/NN of/IN the/DT problems/NNS that/WDT we/PRP have/VBP with/IN guns/NNS are/VBP not/RB ,/, are/VBP ,/, are/VBP probably/RB not/RB from/IN the/DT people/NNS that/WDT are/VBP ,/, are/VBP buying/VBG them/PRP through/IN legitimate/JJ channels/NNS anyway/RB ./.","[ [ I, + I ] have, + {F uh, } I have ] the impression [ that, + that ] [ the, + the ] majority of the problems that we have with guns [ are not, + [ are, + are ] probably not ] from the people that [ are, + are ] buying them through legitimate channels anyway. /"
+h,B,"Uh/UH ,/, that/DT may/MD be/VB wrong/JJ ./.","{F Uh, } that may be wrong. /"
+sv,B,"Uh/UH ,/, you/PRP know/VBP ,/, I/PRP mean/VBP ,/, certainly/RB there/EX ,/, there/EX are/VBP cases/NNS of/IN ,/, of/IN ,/, you/PRP know/VBP ,/, children/NNS who/WP find/VBP their/PRP$ parents/NNS '/POS gun/NN or/CC something/NN and/CC ,/, and/CC shoot/VBP a/DT brother/NN or/CC sister/NN or/CC ,/, you/PRP know/VBP ,/, things/NNS like/IN that/DT that/WDT need/VBP to/TO be/VB definitely/RB avoided/VBN","{F Uh, } {D you know, } {E I mean, } certainly [ there, + there ] are cases [ of, + ] [ of, + ] {D you know, } children who find their parents' gun or something [ and, + and ] shoot a brother or sister or, {D you know, } things like that that need to be definitely avoided /"
+sv,B,"and/CC that/DT 's/BES ,/, that/DT 's/BES certainly/RB within/IN the/DT channels/NNS ,/,","{C and } [ that's, + that's ] certainly within the channels, /"
+b,B,right/UH ./.,right. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"But/CC ,/, uh/UH ,/, a/DT lot/NN of/IN the/DT ,/, the/DT crime/NN ,/, I/PRP think/VBP ,/, that/WDT goes/VBZ on/RP ,/, I/PRP ,/, I/PRP do/VBP n't/RB know/VB to/IN what/WP the/DT degree/NN the/DT guns/NNS are/VBP ,/, are/VBP purchased/VBN through/IN regular/JJ channels/NNS or/CC they/PRP 're/VBP illegal/JJ guns/NNS ./.","{C But, } {F uh, } a lot of [ the, + the ] crime, I think, that goes on, [ I, + I ] don't know to what the degree the guns [ are, + are ] purchased through regular channels or they're illegal guns. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,A,"this/DT morning/NN in/IN our/PRP$ paper/NN ,/, it/PRP ,/, there/EX was/VBD an/DT article/NN about/IN somebody/NN who/WP had/VBD bought/VBN three/CD guns/NNS in/IN Virginia/NNP because/IN all/DT you/PRP have/VBP to/TO do/VB is/VBZ get/VB a/DT driver/NN 's/POS license/NN ,/,","this morning in our paper, [ it, + ] there was an article about somebody who had bought three guns in Virginia because all you have to do is get a driver's license, /"
+sd,A,"so/RB he/PRP went/VBD over/IN there/RB and/CC got/VBD a/DT driver/NN 's/POS license/NN ,/, the/DT same/JJ day/NN bought/VBD three/CD guns/NNS and/CC went/VBD up/IN to/IN New/NNP York/NNP and/CC sold/VBD them/PRP for/IN ,/, you/PRP know/VBP ,/, very/RB high/JJ markups/NNS ./.","{C so } he went over there and got a driver's license, the same day bought three guns and went up to New York and sold them for, {D you know, } very high markups. /"
+sv,A,"Now/UH ,/, in/IN a/DT sense/NN ,/, that/DT 's/BES a/DT legal/JJ --/:","{D Now, } in a sense, that's a legal --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: way/NN of/IN getting/VBG the/DT guns/NNS ,/,","-- way of getting the guns, /"
+sv,A,but/CC certainly/RB the/DT --/:,{C but } certainly the --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: the/DT purpose/NN is/VBZ not/RB very/RB legal/JJ ./.,-- the purpose is not very legal. /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+%,B,"yeah/UH ,/,","yeah, /"
+%,B,"I/PRP ,/, I/PRP mean/VBP ,/, I/PRP think/VBP ,/, uh/UH ,/, some/DT sta-/XX ,/,","{E [ I, + I ] mean, } I think, {F uh, } some sta-, - /"
+sd,B,"or/CC ,/, I/PRP ,/, I/PRP do/VBP n't/RB know/VB if/IN it/PRP 's/HVS been/VBN actually/RB been/VBN implemented/VBN ,/,","{C or, } [ I, + I ] don't know if it's been actually been implemented, /"
+sd,B,"I/PRP think/VBP so/RB ,/, uh/UH ,/,","I think so, {F uh, } /"
+sd,B,"or/CC at/IN least/JJS there/EX 's/HVS been/VBN talk/NN about/IN doing/VBG ,/, uh/UH ,/, you/PRP know/VBP ,/, like/IN waiting/NN periods/NNS and/CC --/:","{C or } at least there's been talk about doing, {F uh, } {D you know, } like waiting periods [ and + --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: and/CC things/NNS like/IN that/DT ./.,-- and ] things like that. /
+sv,B,"Uh/UH ,/, and/CC ,/, and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP ,/, I/PRP think/VBP stuff/NN like/IN that/DT is/VBZ perfectly/RB good/JJ ./.","{F Uh, } [ {C and, } + {C and, } ] {F uh, } {D you know, } [ I, + I ] think stuff like that is perfectly good. /"
+b,A,Right/UH ./.,Right. /
+h,B,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+%,B,"I/PRP 've/VBP ,/, you/PRP know/VBP ,/,","I've, {D you know, } - /"
+sd,B,"I/PRP ,/, I/PRP do/VBP n't/RB own/VB a/DT gun/NN and/CC ,/, and/CC do/VBP n't/RB really/RB want/VB one/CD ,/,","[ I, + I ] don't own a gun [ and, + and ] don't really <laughter> want one, /"
+x,A,,<Laughter>.
+sv,B,and/CC I/PRP 'd/MD just/RB as/RB soon/RB a/DT lot/NN fewer/JJR people/NNS did/VBD ./.,{C and } I'd just as soon a lot fewer people did. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Uh/UH ,/, but/CC on/IN the/DT other/JJ hand/NN ,/, you/PRP know/VBP ,/, uh/UH ,/, like/IN I/PRP say/VBP ,/, I/PRP kind/RB of/RB ,/, kind/RB of/RB against/IN government/NN control/NN in/IN general/JJ ./.","{F Uh, } {C but } on the other hand, {D you know, } {F uh, } like I say, I [ kind of, + kind of ] against government control in general. /"
+%,B,"Uh/UH ,/,","{F Uh, } /"
+b,A,Right/UH ./.,Right. /
+sv,A,"And/CC I/PRP suppose/VBP com-/XX ,/, uh/UH ,/, you/PRP know/VBP ,/, c-/XX ,/, total/JJ ban/NN would/MD lead/VB to/TO more/RBR illegal/JJ weapons/NNS ./.","{C And } I suppose [ com-, + ] {F uh, } {D you know, } [ c-, + ] total ban would lead to more illegal weapons. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"and/CC I/PRP ,/, you/PRP know/VBP ,/,","{C and } I, {D you know, } - /"
+sv,B,"something/NN about/IN banning/NN is/VBZ that/IN ,/, you/PRP know/VBP ,/, there/EX ,/, there/EX are/VBP so/RB many/JJ weapons/NNS out/IN there/RB that/WDT ,/, that/WDT they/PRP 're/VBP not/RB going/VBG to/TO disappear/VB anytime/RB soon/RB ./.","something about banning is that, {D you know, } [ there, + there ] are so many weapons out there [ that, + that ] they're not going to disappear anytime soon. /"
+%,B,"Uh/UH ,/, and/CC they/PRP 're/VBP already/RB ,/,","{F Uh, } {C and } they're already, - /"
+sd,B,"I/PRP know/VBP there/EX 's/BES a/DT ready/JJ market/NN for/IN them/PRP ,/, you/PRP know/VBP ,/,","I know there's a ready market for them, {D you know, } /"
+%,B,"in/IN the/DT s-/XX ,/,","in the s-, - /"
+sd,B,"the/DT stolen/JJ ,/, stolen/JJ guns/NNS can/MD be/VB sold/VBN ./.","the [ stolen, + stolen ] guns can be sold. /"
+sv,B,"I/PRP mean/VBP ,/, the/DT first/JJ thing/NN a/DT ,/, a/DT ,/, a/DT burglar/NN will/MD pick/VB up/RB if/IN he/PRP can/MD is/VBZ a/DT gun/NN ./.","{E I mean, } the first thing [ [ a, + a, ] + a ] burglar will pick up if he can is a gun. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+b,B,"Right/UH ,/,","Right, /"
+sd,B,"because/IN ,/, uh/UH ,/, because/IN they/PRP ,/, they/PRP can/MD be/VB so/RB easily/RB sold/VBN","[ because, + {F uh, } because ] they, they can be so easily sold /"
+%,B,"and/CC ,/, you/PRP know/VBP ,/, they/PRP 're/VBP ,/, they/PRP 're/VBP ,/,","{C and, } {D you know, } [ they're, + they're, ] - /"
+sd,B,"I/PRP do/VBP n't/RB know/VB how/WRB many/JJ millions/NNS of/IN guns/NNS have/VBP been/VBN sold/VBN in/IN this/DT country/NN ,/,","I don't know how many millions of guns have been sold in this country, /"
+sv,B,"but/CC ,/, uh/UH ,/, it/PRP 's/BES not/RB like/IN they/PRP 're/VBP going/VBG to/TO disappear/VB all/DT of/IN a/DT sudden/JJ ./. Uh/UH ,/, even/RB if/IN you/PRP do/VBP do/VB a/DT total/JJ ban/NN on/IN them/PRP ./.","{C but, } {F uh, } it's not like they're going to disappear all of a sudden. {F Uh, } even if you do do a total ban on them. /"
+sd,B,"Uh/UH ,/, it/PRP 's/BES a/DT real/RB tough/JJ problem/NN ./.","{F Uh, } it's a real tough problem. /"
+b,A,Right/UH ./.,Right. /
+h,B,"I/PRP ,/, I/PRP do/VBP n't/RB know/VB ,/,","[ I, + I ] don't know, /"
+sd,B,I/PRP do/VBP n't/RB know/VB where/WRB I/PRP really/RB come/VBP down/RP on/IN it/PRP ./.,I don't know where I really come down on it. /
+sd,B,"I/PRP mean/VBP ,/, I/PRP ,/, I/PRP grew/VBD up/RP ,/,","{E I mean, } [ I, + I ] grew up, - /"
+sd,B,"my/PRP$ father/NN was/VBD a/DT hunter/NN ,/,","my father was a hunter, /"
+qy,B,"right/UH ,/,","right, /"
+sv,B,"and/CC that/DT 's/BES ,/, and/CC that/DT 's/BES sort/RB of/RB almost/RB a/DT separate/JJ issue/NN ./.","[ {C and } that's, + {C and } that's ] sort of almost a separate issue. /"
+sv,B,"I/PRP think/VBP we/PRP 've/VBP generally/RB been/VBN talking/VBG about/IN handguns/NNS and/CC that/DT kind/NN of/IN thing/NN ,/,","I think we've generally been talking about handguns and that kind of thing, /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"and/CC ,/,","{C and, } -/"
+aa,A,But/CC that/DT 's/BES true/JJ ./.,{C But } that's true. /
+sd,A,"I/PRP mean/VBP ,/, some/DT people/NNS grew/VBD up/RP with/IN guns/NNS in/IN the/DT house/NN ./.","{E I mean, } some people grew up with guns in the house. /"
+sd,A,We/PRP never/RB had/VBD any/DT in/NN the/DT house/NN --/:,We never had any in the house -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: so/RB ,/, to/IN me/PRP ,/, the/DT ,/, you/PRP know/VBP ,/, the/DT first/JJ time/NN I/PRP saw/VBD a/DT gun/NN up/RB close/RB was/VBD a/DT pretty/RB scary/JJ thing/NN ./.","-- {C so, } to me, [ the, + {D you know, } the ] first time I saw a gun up close was a pretty scary thing. /"
+b,A,And/CC I/PRP 'm/VBP not/RB sure/JJ that/DT 's/BES good/JJ either/RB ./.,{C And } I'm not sure that's good either. /
+sd,B,"well/UH we/PRP ,/, you/PRP know/VBP ,/, we/PRP ,/, I/PRP grew/VBD up/RP with/IN them/PRP ./.","{D well } [ we, + {D you know, } we, ] I grew up with them. /"
+sd,B,I/PRP never/RB really/RB took/VBD to/IN hunting/NN ./.,I never really took to hunting. /
+sd,B,"I/PRP mean/VBP ,/, I/PRP did/VBD some/DT of/IN it/PRP ,/,","{E I mean, } I did some of it, /"
+sd,B,"but/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, we/PRP did/VBD n't/RB have/VB any/DT ,/, we/PRP never/RB had/VBD any/DT handguns/NNS or/CC anything/NN like/IN that/DT ./.","{C but, } {F uh, } {D you know, } [ we didn't have any, + we never had any ] handguns or anything like that. /"
+sd,B,"We/PRP had/VBD ,/, you/PRP know/VBP ,/, had/VBD shotguns/NNS for/IN ,/, for/IN quail/NN and/CC pheasant/NN hunting/NN and/CC things/NNS like/IN that/DT ./.","We [ had, + {D you know, } had ] shotguns [ for, + for ] quail and pheasant hunting and things like that. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, you/PRP know/VBP ,/, it/PRP was/VBD a/DT whole/RB different/JJ thing/NN","{C And, } {D you know, } it was a whole different thing /"
+sd,B,"and/CC ,/, and/CC gun/NN safety/NN was/VBD taken/VBN very/RB seriously/RB","[ {C and, } + {C and } ] gun safety was taken very seriously /"
+%,B,"and/CC it/PRP was/VBD ,/, you/PRP know/VBP ,/,","{C and } it was, {D you know, } - /"
+sd,B,"I/PRP mean/VBP ,/, before/IN we/PRP go/VBP hunting/VBG ,/, we/PRP ,/, we/PRP took/VBD safety/NN courses/NNS ,/, uh/UH ,/, you/PRP know/VBP ,/,","{E I mean, } before we go hunting, [ we, + we ] took safety courses, {F uh, } {D you know, } /"
+%,B,"and/CC ,/, and/CC ,/, and/CC it/PRP ,/,","[ [ {C and, } + {C and, } ] + {C and } ] it, - /"
+sv,B,"but/CC ,/, you/PRP know/VBP ,/, that/DT 's/BES ,/, that/WDT seems/VBZ to/IN me/PRP to/TO be/VB just/RB a/DT whole/RB another/DT issue/NN ./.","{C but, } {D you know, } [ that's, + that ] seems to me to be just a whole another issue. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"Uh/UH ,/, you/PRP know/VBP ,/, the/DT ,/, the/DT thing/NN ,/,","<Static> <lipsmack> {F Uh, } {D you know, } [ the, + the ] thing, - /"
+%,B,"the/DT ,/, the/DT ,/,","[ the, + the, ] - /"
+%,B,"yeah/UH ,/,","yeah, /"
+sv,B,"I/PRP 'm/VBP not/RB certain/JJ that/IN people/NNS are/VBP ,/, are/VBP ,/, are/VBP terribly/RB concerned/JJ about/IN other/JJ people/NNS ./.","I'm not certain that people [ [ are, + are, ] + are ] terribly concerned about other people. /"

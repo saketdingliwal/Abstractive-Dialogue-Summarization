@@ -1,0 +1,229 @@
+act_tag,speaker,pos,text
+sd,A,"Well/UH I/PRP grew/VBD up/RP out/IN in/IN the/DT country/NN and/CC ,/, uh/UH ,/, was/VBD used/JJ to/TO having/VBG ,/, uh/UH ,/, guns/NNS around/IN the/DT place/NN","{D Well } I grew up out in the country and, {F uh, } was used to having, {F uh, } guns around the place /"
+sd,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"I/PRP 'm/VBP ,/, uh/UH ,/, not/RB for/IN gun/NN control/NN ,/,","I'm, {F uh, } not for gun control,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"in/IN the/DT strictest/JJS sense/NN of/IN the/DT ,/, uh/UH ,/, word/NN ./.","in the strictest sense of the, {F uh, } word. /"
+sd,B,"I/PRP ,/, I/PRP think/VBP I/PRP 'm/VBP kind/RB of/RB bent/VBN towards/IN middle/JJ liberal/NN of/IN the/DT bridge/NN myself/PRP ./.","[ I, + I ] think I'm kind of bent towards middle liberal of the bridge myself. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"You/PRP know/VBP ,/, I/PRP have/VBP quite/PDT a/DT collection/NN myself/PRP","{D You know, } I have quite a collection myself /"
+sd,B,"and/CC ,/, you/PRP know/VBP ,/, I/PRP 'm/VBP a/DT good/JJ hunter/NN","{C and, } {D you know, } I'm a good hunter /"
+sd,B,and/CC I/PRP started/VBD hunting/VBG when/WRB I/PRP was/VBD twelve/CD years/NNS old/JJ ./.,{C and } I started hunting when I was twelve years old. /
+sd,B,"Of/IN course/NN ,/, my/PRP$ parents/NNS made/VBD me/PRP take/VB hunters/NNS safety/NN classes/NNS","<talking> Of course, my parents made me take hunters safety classes /"
+sd,B,"and/CC ,/,","{C and, }"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"you/PRP know/VBP ,/, I/PRP do/VBP n't/RB want/VB to/TO see/VB them/PRP ban/VB guns/NNS completely/RB","{D you know, } I don't want to see them ban guns completely /"
+sd,B,but/CC I/PRP do/VBP n't/RB want/VB them/PRP to/TO completely/RB turn/VB loose/RB of/IN their/PRP$ controls/NNS either/RB,{C but } I don't want them to completely turn loose of their controls either /
+%,B,"so/RB ,/,","{C so, } -/"
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,"Well/UH I/PRP ,/, I/PRP feel/VBP that/IN its/PRP$ ,/, uh/UH ,/,","{D Well } [ I, + I ] feel that its, {F uh, } - /"
+sd,A,"I/PRP think/VBP the/DT what/WP was/VBD National/NNP Rifle/NNP Association/NNP ,/, uh/UH ,/, had/VBD this/DT bumper/NN sticker/NN a/DT few/JJ years/NNS back/RB if/IN ,/, uh/UH ,/, about/IN if/IN you/PRP outlaw/VBP guns/NNS ,/,","I think [ the + ] what was National Rifle Association, {F uh, } had this bumper sticker a few years back [ if, + {F uh, } about if ] you outlaw guns, /"
+sd,A,only/JJ outlaws/NNS will/MD have/VB guns/NNS then/RB ./.,only outlaws will have guns then. /
+ba,B,I/PRP believe/VBP that/DT ./.,I believe that. /
+sv,A,"And/CC I/PRP believe/VBP that/DT too/RB because/IN the/DT person/NN that/WDT is/VBZ wanting/VBG to/TO ,/,","{C And } I believe that too because the person that is wanting to,"
+x,B,./.,</Talking>.
++,A,"commit/VB a/DT crime/NN is/VBZ going/VBG to/TO find/VB a/DT way/NN to/TO get/VB a/DT gum/NN ,/, a/DT gu-/NN ,/, a/DT gun/NN ,/, a/DT knife/NN ,/, a/DT ,/, a/DT rock/NN ,/,","commit a crime is going to find a way to get [ [ a gum, + a gu-, ] + a gun, ] a knife, [ a, + a ] rock,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"a/DT stick/NN ,/, whatever/WP it/PRP is/VBZ ,/, to/TO commit/VB a/DT crime/NN with/IN ,/,","a stick, whatever it is, to commit a crime with, /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"and/CC it/PRP 's/BES the/DT honest/JJ citizens/NNS like/IN ourselves/PRP that/WDT are/VBP responsible/JJ about/IN use/NN of/IN guns/NNS ,/, uh/UH ,/,","{C and } it's the honest citizens like ourselves that are responsible about use of guns, {F uh, } /"
+sv,A,we/PRP can/MD handle/VB it/PRP,we can handle it /
+sv,A,but/CC there/EX 's/BES an/DT element/NN that/WDT ca/MD n't/RB ./.,{C but } there's an element that can't. /
+aa,B,Yeah/UH,Yeah /
+sv,B,"and/CC it/PRP 's/BES ,/, you/PRP know/VBP ,/, it/PRP 's/HVS got/VBN to/IN the/DT point/NN now/RB where/WRB even/RB our/PRP$ ,/, our/PRP$ police/NN departments/NNS and/CC our/PRP$ D/NNP E/NNP A/NNP agents/NNS and/CC everything/NN have/VBP to/TO carry/VB automatic/JJ weapons/NNS","{C and } [ it's, + {D you know, } it's ] got to the point now where even [ our, + our ] police departments and our D E A agents and everything have to carry automatic weapons /"
+sv,B,"because/IN everybody/NN that/WDT 's/BES in/IN drug/NN trafet-/XX ,/, trafficking/NN has/VBZ got/VBN them/PRP ./.","{C because } everybody that's in drug [ trafet-, + trafficking ] has got them. /"
+sv,A,They/PRP have/VBP got/VBN them/PRP outgunned/JJ ./.,They have got them outgunned. /
+aa,B,You/PRP know/VBP ./. Yeah/UH ./.,{D You know. } Yeah. /
+%,B,So/RB ./.,{C So. } -/
+sd,A,"There/EX was/VBD a/DT an/DT article/NN in/IN the/DT paper/NN just/RB this/DT week/NN where/WRB I/PRP think/VBP it/PRP 's/BES ,/, uh/UH ,/, one/CD of/IN the/DT gun/NN companies/NNS ,/, I/PRP ca/MD n't/RB remember/VB which/WDT ,/, was/VBD developing/VBG a/DT ten/CD metal/NN ,/, ten/CD millimeter/NN automatic/JJ pistol/NN for/IN the/DT F/NNP B/NNP I/NNP --/:","There was [ a + an ] article in the paper just this week where I think it's, {F uh, } one of the gun companies, I can't remember which, was developing a [ ten metal, + ten millimeter ] automatic pistol for the F B I --"
+b,B,Um/UH ./.,{F Um. } /
++,A,--/: which/WDT would/MD give/VB them/PRP additional/JJ firepower/NN ./.,-- which would give them additional firepower. /
+sd,A,"It/PRP had/VBD ,/, held/VBD like/IN a/DT fifteen/CD shot/NN clip/NN ,/,","It had, held {D like } a fifteen shot clip,"
+b,B,Yeah/UH ./.,Yeah <sniffing>. /
++,A,"which/WDT ,/, uh/UH ,/, would/MD be/VB able/JJ ,/, th-/PRP ,/, they/PRP would/MD be/VB able/JJ to/TO put/VB down/RP anything/NN that/WDT came/VBD at/IN them/PRP ,/,","which, {F uh, } [ would be able, th-, + they would be able ] to put down anything that came at them, /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"that/DT would/MD be/VB ,/,","that would be, -/"
+sv,A,"but/CC you/PRP figure/VBP you/PRP got/VBD some/DT drug/NN guy/NN out/IN there/RB that/WDT 's/HVS got/VBN an/DT Uzi/NNP machine/NN gun/NN ,/, uh/UH ,/,","{C but } you figure you got some drug guy out there that's got an Uzi machine gun, {F uh, }"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"that/DT 's/BES ,/,","that's, -/"
++,A,"a/DT thirty-eight/CD ,/, uh/UH ,/,","a thirty-eight, {F uh, } /"
+sv,A,Smith/NNP and/CC Wesson/NNP revolver/NN is/VBZ n't/RB going/VBG to/TO do/VB you/PRP much/RB good/JJ ./.,Smith and Wesson revolver isn't going to do you much good. /
+aa,B,No/UH,No /
+aa,B,it/PRP 's/BES sure/RB not/RB ./.,it's sure not. /
+aa,B,Huh-uh/UH ./.,Huh-uh. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP have/VBP lived/VBN in/IN ,/, uh/UH ,/, Illinois/NNP at/IN one/CD time/NN","I have lived in, {F uh, } Illinois at one time /"
+sd,A,"and/CC they/PRP ,/, they/PRP passed/VBD a/DT ,/, uh/UH ,/, it/PRP was/VBD n't/RB really/RB gun/NN control/NN","{C and } [ they, + they ] passed a, {F uh, } it wasn't really gun control /"
+sd,A,"but/CC it/PRP was/VBD ,/, you/PRP had/VBD to/TO register/VB as/IN a/DT gun/NN owner/NN ,/,","{C but } it was, you had to register as a gun owner, /"
+sd,A,"you/PRP did/VBD n't/RB have/VB to/TO list/VB your/PRP$ guns/NNS ,/,","you didn't have to list your guns, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"but/CC you/PRP had/VBD to/TO have/VB this/DT card/NN ,/,","{C but } you had to have this card, /"
+sd,A,it/PRP was/VBD like/IN a/DT driver/NN 's/POS license/NN card/NN that/WDT you/PRP had/VBD to/TO have/VB it/PRP in/IN order/NN to/TO buy/VB ammunition/NN --/:,it was like a driver's license card that you had to have it in order to buy ammunition -- /
+b,B,Um/UH ./.,{F Um. } /
+sd,A,"--/: and/CC that/DT was/VBD the/DT first/JJ ,/, uh/UH ,/,","-- {C and } that was the first, {F uh, } - /"
+sd,A,this/DT was/VBD twenty/CD years/NNS ago/RB ./.,this was twenty years ago. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,But/CC they/PRP had/VBD that/DT so/IN that/IN they/PRP were/VBD trying/VBG to/TO control/VB it/PRP a/DT little/JJ bit/NN in/IN that/DT respect/NN ./.,{C But } they had that so that they were trying to control it a little bit in that respect. /
+sd,B,"See/UH in/IN California/NNP they/PRP ,/,","{D See } [ in California they, +"
+br,A,Pardon/UH ?/.,Pardon? /
++,B,In/IN California/NNP they/PRP make/VBP you/PRP register/VB when/WRB you/PRP buy/VBP ammunition/NN ./.,In California they ] make you register when you buy ammunition. /
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"You/PRP have/VBP to/TO sign/VB a/DT ,/, you/PRP know/VBP ,/,","You have to sign a, {D you know, } - /"
+sd,B,"they/PRP take/VBP your/PRP$ name/NN and/CC driver/NN 's/POS license/NN number/NN ,/, hunter/NN ,/, hunting/NN license/NN number/NN and/CC all/PDT that/DT good/JJ stuff/NN ,/,","they take your name and driver's license number, [ hunter, + hunting ] license number and all that good stuff,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,before/IN you/PRP can/MD buy/VB any/DT big/JJ ammunition/NN ./.,before you can buy any big ammunition.
+b,A,Yeah/UH ./.,Yeah. /
++,B,"Especially/RB for/IN handguns/NNS ,/,","<Talking> Especially for handguns, /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"now/RB rifles/NNS are/VBP n't/RB too/RB bad/JJ ,/,","{D now } rifles aren't too bad, /"
+sd,B,"but/CC ,/, you/PRP know/VBP ,/, any/DT kind/NN of/IN handgun/NN at/IN all/DT ,/,","{C but, } {D you know, } any kind of handgun at all,"
+x,A,./.,<Throat_clearing>.
++,B,"if/IN it/PRP will/MD fit/VB in/IN a/DT handgun/NN and/CC a/DT rifle/NN you/PRP would/MD still/RB have/VB to/TO buy/VB it/PRP ,/,","if it will fit in a handgun and a rifle you would still have to buy it,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"or/CC sign/VB up/RP for/IN it/PRP ,/,","or sign up for it, /"
+%,B,so/RB ./.,{C so. } -/
+sd,A,We/PRP lived/VBD in/IN Tennessee/NNP for/IN awhile/RB,We lived in Tennessee for awhile /
+sd,A,and/CC I/PRP bought/VBD a/DT pistol/NN there/RB,{C and } I bought a pistol there /
+sd,A,and/CC there/EX was/VBD a/DT fifteen/CD day/NN waiting/NN period/NN ./.,{C and } there was a fifteen day waiting period. /
+sd,A,"You/PRP had/VBD to/TO fill/VB out/RP an/DT application/NN and/CC ,/,","You had to fill out an application and,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,go/VB down/IN to/IN the/DT sheriff/NN 's/POS office/NN and/CC get/VB fingerprinted/VBN,go down to the sheriff's office and get fingerprinted /
+sd,A,"and/CC ,/,","{C and,"
+ba,B,Gee/UH ./.,Gee. /
++,A,then/RB you/PRP had/VBD fifteen/CD days/NNS while/IN they/PRP checked/VBD to/TO see/VB if/IN you/PRP had/VBD any/DT kind/NN of/IN criminal/JJ record/NN before/IN that/DT you/PRP could/MD pick/VB up/RP the/DT gun/NN you/PRP were/VBD purchasing/VBG ./.,then } you had fifteen days while they checked to see if you had any kind of criminal record before that you could pick up the gun you were purchasing. /
+ba,B,"Gee/UH ,/, that/DT 's/BES not/RB a/DT bad/JJ idea/NN ./.","{D Gee, } that's not a bad idea. /"
+aa,A,"No/UH ,/,","No, /"
+sv,A,"I/PRP think/VBP that/DT ,/, uh/UH ,/, you/PRP know/VBP ,/, a/DT ,/, a/DT waiting/NN period/NN ,/, uh/UH ,/,","I think that, {F uh, } {D you know, } [ a, + a ] waiting period, {F uh, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,can/MD make/VB a/DT difference/NN,can make a difference /
+sv,A,but/CC again/RB it/PRP 's/BES going/VBG to/TO be/VB the/DT law/NN abiding/JJ citizen/NN that/WDT 's/BES going/VBG to/TO comply/VB with/IN that/DT ./.,{C but } again it's going to be the law abiding citizen that's going to comply with that. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,yeah/UH,yeah /
+aa,B,it/PRP is/VBZ ./.,it is. /
+sv,A,"So/RB there/EX 's/BES ,/, I/PRP do/VBP n't/RB ,/,","{C So } [ there's, + I don't,"
+b,B,No/UH ./.,No. /
++,A,"think/VB there/EX 's/BES any/DT way/NN to/TO control/VB the/DT criminal/JJ element/NN as/RB far/RB as/IN guns/NNS is/VBZ concerned/VBN because/IN ,/,","think there's ] any way to control the criminal element as far as guns is concerned because, -/"
+sv,B,"Th-/DT ,/, the/DT only/JJ way/NN they/PRP could/MD do/VB it/PRP I/PRP think/VBP ,/, would/MD be/VB to/TO stiffen/VB the/DT penalties/NNS on/IN anybody/NN using/VBG a/DT gun/NN ./.","[ Th-, + the ] only way they could do it I think, would be to stiffen the penalties on anybody using a gun. /"
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,right/UH ./.,right. /
+sv,B,"You/PRP know/VBP ,/, I/PRP think/VBP if/IN we/PRP kind/RB of/RB stiffen/VBP them/PRP up/RP a/DT little/JJ bit/NN ,/, course/NN ,/, i-/XX ,/,","{D You know, } I think if we kind of stiffen them up a little bit, course, [ i-, + ] - /"
+sd,B,"I/PRP ,/, I/PRP feel/VBP kind/RB of/RB weird/JJ about/IN that/DT anyway/RB ,/,","[ I, + I ] feel kind of weird about that anyway, /"
+sv,B,"I/PRP think/VBP if/IN somebody/NN shoots/VBZ somebody/NN ,/, they/PRP ought/MD to/TO be/VB shot/VBN ./.","I think if somebody shoots somebody, they ought to be shot. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"I/PRP 'm/VBP ,/,","I'm, -/"
+%,B,So/UH ./.,{D So. } -/
+sv,A,"We/PRP ,/, we/PRP 're/VBP getting/VBG into/IN capital/JJ punishment/NN now/RB ./.","<Laughter> [ We, + we're ] getting into capital punishment now <laughter>. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"but/CC ,/, you/PRP know/VBP ./.","<laughter> {C but, } {D you know. } -/"
+aa,A,"But/CC I/PRP ,/, I/PRP agree/VBP with/IN you/PRP there/RB that/IN ,/, uh/UH ,/,","{C But } [ I, + I ] agree with you there that, {F uh, } -/"
+sv,B,It/PRP would/MD definitely/RB be/VB gun/NN control/NN ./.,It would definitely be gun control <laughter>. /
+aa,A,Yeah/UH ./.,Yeah. /
+sv,A,"The/DT ,/, uh/UH ,/, the/DT ,/, again/RB the/DT purpose/NN of/IN gun/NN control/NN is/VBZ to/TO control/VB how/WRB it/PRP is/VBZ being/VBG used/VBN --/:","[ [ The, + {F uh, } the, ] + again the ] purpose of gun control is to control how it is being used --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: is/VBZ what/WP the/DT purpose/NN should/MD be/VB ./.,-- is what the purpose should be. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"It/PRP 's/BES not/RB to/TO keep/VB people/NNS from/IN buying/VBG a/DT gun/NN that/WDT need/VBP one/CD for/IN a/DT specific/JJ purpose/NN ,/, legal/JJ purpose/NN --/:","It's not to keep people from buying a gun that need one for a specific purpose, legal purpose --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: but/CC to/TO keep/VB the/DT guy/NN that/WDT 's/BES illegal/JJ from/IN getting/VBG his/PRP$ hands/NNS on/IN one/CD ./.,-- but to keep the guy that's illegal from getting his hands on one. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC I/PRP 'm/VBP in/IN favor/NN of/IN keeping/VBG the/DT ,/, the/DT illegal/JJ guy/NN from/IN getting/VBG one/CD in/IN his/PRP$ hands/NNS","{C And } I'm in favor of keeping [ the, + the ] illegal guy from getting one in his hands /"
+sv,A,"but/CC ,/,","{C but, }"
+%,B,Myself/PRP ./.,Myself. /
++,A,the/DT legal/JJ person/NN or/CC lawful/JJ person/NN should/MD not/RB be/VB penalized/VBN because/IN there/EX is/VBZ the/DT criminal/JJ element/NN ./.,the legal person or lawful person should not be penalized because there is the criminal element. /
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,"Well/UH and/CC the-/PRP ,/, they/PRP 're/VBP actually/RB a/DT necessity/NN in/IN life/NN ,/, you/PRP know/VBP ./.","{D Well } {C and } [ the-, + they're ] actually a necessity in life, {D you know. } /"
+aa,A,Oh/UH yes/UH ./.,{F Oh } yes. /
+ar,B,"They/PRP 're/VBP not/RB ,/, you/PRP know/VBP ,/,","They're not, {D you know, } /"
+ar,B,not/RB everybody/NN needs/VBZ a/DT gun/NN,not everybody needs a gun /
+sd,B,but/CC sooner/RB or/CC later/RB I/PRP need/VBP one/CD ./.,{C but } sooner or later I need one. /
+sd,B,"You/PRP know/VBP ,/, whether/IN I/PRP 'm/VBP out/IN hunting/VBG or/CC you/PRP know/VBP ,/,","{D You know, } whether I'm out hunting or {D you know, } - /"
+sd,B,"I/PRP 'm/VBP never/RB had/VBN to/TO protect/VB my/PRP$ life/NN or/CC ,/,","I'm never had to protect my life or, -/"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"well/UH I/PRP did/VBD in/IN the/DT service/NN but/CC not/RB ,/, you/PRP know/VBP ,/, not/RB on/IN the/DT street/NN","{D well } I did in the service but [ not, + {D you know, } not ] on the street /"
+sd,B,"so/RB I/PRP do/VBP n't/RB really/RB need/VB one/CD in/IN the/DT ,/, in/IN the/DT aspects/NNS ,/,","{C so } I don't really need one [ in the, + in the ] (( aspects )) , /"
+sv,A,"You/PRP do/VBP n't/RB have/VB to/TO carry/VB one/CD in/IN your/PRP$ car/NN or/CC your/PRP$ ,/, uh/UH ,/,","<Talking> You don't have to carry one in your car [ or your, + {F uh, }"
+aa,B,"No/UH ,/,","No, /"
+aa,B,huh-uh/UH ./.,huh-uh. /
++,A,or/CC your/PRP$ pocket/NN all/PDT the/DT time/NN ./.,<Laughter> or your ] pocket all the time. /
+%,A,Yeah/UH ./.,Yeah. /
+aa,B,No/UH ./.,No. /
+sd,B,"So/RB mine/PRP are/VBP ,/, you/PRP know/VBP ,/, I/PRP use/VBP mine/PRP for/IN recreation/NN ,/,","{C So } [ mine are, + {D you know, } I use mine ] for recreation, /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP do/VBP n't/RB ,/,","I don't, /"
+sd,B,and/CC I/PRP enjoyed/VBD my/PRP$ guns/NNS ./.,{C and } I enjoyed my guns. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP have/VBP a/DT good/JJ time/NN with/IN them/PRP,I have a good time with them /
+%,B,"so/RB ,/,","{C so, } -/"
+%,A,"Well/UH I/PRP know/VBP what/WP ,/, uh/UH ,/,","{D Well } I know what, {F uh, } - /"
+sd,A,"I/PRP took/VBD my/PRP$ kids/NNS out/RP and/CC taught/VBD them/PRP out/IN ,/, how/WRB to/TO shoot/VB a/DT gun/NN ./.","I took my kids out and taught them out, how to shoot a gun. /"
+sd,A,"My/PRP$ wife/NN the/DT same/JJ thing/NN ,/, uh/UH ,/, she/PRP knows/VBZ how/WRB to/TO shoot/VB any/DT weapon/NN that/WDT we/PRP have/VBP no-/RB ,/, not/RB that/IN I/PRP have/VBP an/DT arsenal/NN or/CC anything/NN ,/,","My wife the same thing, {F uh, } she knows how to shoot any weapon that we have [ no-, + not ] that I have an arsenal or anything, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,but/CC we/PRP have/VBP several/JJ guns/NNS around/IN the/DT house/NN,{C but } we have several guns around the house <breathing> /
+sv,A,one/CD of/IN these/DT days/NNS my/PRP$ grandkids/NNS probably/RB ./.,one of these days my grandkids probably. -/
+aa,B,Probably/UH ./.,Probably. /
+aa,B,Yeah/UH ./.,Yeah. /
+%,A,"But/CC I/PRP think/VBP it/PRP 's/BES ,/, uh/UH ,/,","{C But } I think it's, {F uh, } - /"
+sv,A,"you/PRP got/VBD to/TO have/VB ,/, have/VB the/DT pl-/XX ,/,","you got to [ have, + have ] the [ pl-, + ] - /"
+sv,A,living/VBG in/IN Dallas/NNP there/EX 's/BES not/RB that/RB many/JJ places/NNS to/TO go/VB shoot/VB,living in Dallas there's not that many places to go shoot /
+sv,A,"but/CC ,/,","{C but, }"
+aa,B,"No/UH ,/,","No, /"
+aa,B,huh-uh/UH ./.,huh-uh. /
++,A,"uh/UH ,/, still/RB I/PRP think/VBP they/PRP ought/MD to/TO know/VB how/WRB to/TO use/VB one/CD and/CC that/IN it/PRP 's/BES not/RB just/RB a/DT toy/NN and/CC that/IN when/WRB ,/, it/PRP 's/BES not/RB like/IN on/IN T/NN V/NN when/WRB someone/NN gets/VBZ shot/VBN ,/, uh/UH ,/, they/PRP get/VBP back/RB up/RP ./.","{F uh, } still I think they ought to know how to use one and that it's not just a toy and that [ when, + ] it's not like on T V when someone gets shot, {F uh, } they get back up. /"
+sv,A,"If/IN someone/NN gets/VBZ shot/VBN with/IN a/DT ,/,","If someone gets shot with a,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,real/JJ gun/NN they/PRP do/VBP n't/RB get/VB back/RB up/RP ./.,real gun they don't get back up. /
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP had/VBD to/TO explain/VB that/DT to/IN my/PRP$ ,/,","I had to explain that to my, - /"
+sd,B,I/PRP 've/VBP got/VBN a/DT six/CD year/NN old/NN now/RB,I've got a six year old now /
+%,B,"and/CC he/PRP ,/, you/PRP know/VBP ,/,","{C and } he, {D you know, } - /"
+sd,B,"I/PRP have/VBP a/DT fifteen/CD year/NN old/NN and/CC a/DT seventeen/CD year/NN old/NN ,/, well/UH","I have a fifteen year old and a seventeen year old, {D well } /"
+sd,B,they/PRP understand/VBP now/RB ./.,they understand now. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,You/PRP know/VBP I/PRP 've/VBP taken/VBN time/NN to/TO teach/VB them/PRP,{D You know } I've taken time to teach them /
+sd,B,and/CC now/RB the/DT young/JJ boy/NN wants/VBZ to/TO know/VB,{C and } {D now } the young boy wants to know /
+sd,B,"and/CC ,/, you/PRP know/VBP ,/, like/IN I/PRP told/VBD him/PRP ,/, you/PRP 're/VBP a/DT little/JJ bit/NN young/JJ for/IN a/DT gun/NN ./. Let/VB me/PRP go/VB out/IN here/RB and/CC ,/, you/PRP know/VBP ,/, we/PRP would/MD start/VB with/IN the/DT B/NN B/NN gun/NN deal/NN ,/, you/PRP know/VBP ,/,","{C and, } {D you know, } {D like } I told him, you're a little bit young for a gun. Let me go out here and, {D you know, } we would start with the B B gun deal, {D you know, } /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,so/RB he/PRP started/VBD with/IN the/DT B/NN B/NN gun/NN and/CC shot/VBD a/DT couple/NN of/IN holes/NNS in/IN a/DT couple/NN of/IN windows/NNS,{C so } he started with the B B gun and shot a couple of holes in a couple of windows /
+sd,B,"and/CC I/PRP took/VBD it/PRP away/RB from/IN him/PRP ,/,","{C and } I took it away from him, /"
+sd,B,"I/PRP said/VBD now/RB ,/,","I said now,"
+x,A,./.,<Laughter>.
++,B,"you/PRP know/VBP ,/, so/RB he/PRP 's/BES learning/VBG the/DT hard/JJ way/NN","{D you know, } {C so } he's learning the hard way /"
+sd,B,but/CC at/IN least/JJS it/PRP was/VBD a/DT B/NN B/NN gun/NN not/RB a/DT twenty-two/CD or/CC a/DT four/CD ten/CD or/CC something/NN,{C but } at least it was a B B gun not a twenty-two or a four ten or something /
+%,B,"so/RB ,/,","{C so, } -/"
+sd,A,"I/PRP remember/VBP I/PRP had/VBD an/DT old/JJ uncle/NN up/IN by/IN Tulsa/NNP ,/, Oklahoma/NNP that/WDT took/VBD me/PRP out/RB and/CC ,/, uh/UH ,/, showed/VBD me/PRP ./.","I remember I had an old uncle up by Tulsa, Oklahoma that took me out and, {F uh, } showed me. /"
+sd,A,"This/DT was/VBD ,/, it/PRP was/VBD not/RB my/PRP$ ,/, it/PRP was/VBD my/PRP$ mother/NN 's/POS uncle/NN ,/,","[ [ This was, + it was not my, ] + it was ] my mother's uncle, /"
+sd,A,"this/DT was/VBD a/DT gentleman/NN in/IN his/PRP$ sixties/NNS ,/,","this was a gentleman in his sixties, /"
+b,B,Um/UH ./.,{F Um. } /
+sd,A,"and/CC he/PRP took/VBD me/PRP out/RB with/IN him/PRP and/CC ,/, uh/UH ,/, single/JJ shot/NN twenty-two/CD ,/,","{C and } he took me out with him and, {F uh, } single shot twenty-two,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,and/CC taught/VBD me/PRP how/WRB to/TO shoot/VB ./.,and taught me how to shoot. /
+sd,A,We/PRP went/VBD squirrel/NN hunting/VBG,We went squirrel hunting /
+sd,A,"and/CC ,/,","[ {C and, } +"
+b,B,All/RB right/JJ ./.,All right. /
++,A,"and/CC ,/, uh/UH ,/, he/PRP taught/VBD me/PRP how/WRB to/TO shoot/VB ,/, uh/UH ,/, a/DT old/JJ single/JJ shot/NN twenty-two/CD","{C and, } ] {F uh, } he taught me how to shoot, {F uh, } a old single shot twenty-two /"
+sd,A,"and/CC ,/, I/PRP was/VBD probably/RB about/RB twelve/CD at/IN the/DT time/NN ,/,","{C and, } I was probably about twelve at the time, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,and/CC I/PRP thought/VBD that/DT was/VBD the/DT neatest/JJS thing/NN,{C and } I thought that was the neatest thing /
+sd,A,"and/CC ,/,","{C and, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"of/IN course/NN Uncle/NNP Sam/NNP took/VBD me/PRP out/RP ,/, took/VBD me/PRP hunting/VBG with/IN him/PRP","of course Uncle Sam [ took me out, + took me ] hunting with him /"
+sd,A,and/CC he/PRP let/VBD me/PRP shoot/VB and/CC showed/VBD me/PRP how/WRB ./.,{C and } he let me shoot and showed me how. /
+b,B,All/RB right/JJ ./.,All right. /
+sv,B,I/PRP think/VBP there/EX is/VBZ a/DT lot/NN of/IN responsibility/NN on/IN any/DT of/IN us/PRP gun/NN owners/NNS to/TO make/VB sure/JJ that/IN whoever/WP is/VBZ around/IN us/PRP is/VBZ at/IN least/JJS safe/JJ and/CC knows/VBZ how/WRB to/TO use/VB one/CD ./.,I think there is a lot of responsibility on any of us gun owners to make sure that whoever is around us is at least safe and knows how to use one. /
+b,A,Right/UH ./.,Right. /
+sd,B,"You/PRP know/VBP ,/, I/PRP do/VBP n't/RB want/VB to/TO get/VB out/IN there/RB deer/NN hunting/VBG and/CC have/VB some/DT guy/NN blow/VB me/PRP away/RB ,/,","{D You know, } I don't want to get out there deer hunting and have some guy blow me away, /"
+%,B,so/RB ./.,{C so. } -/
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } <laughter> yeah. <sniffing> /"
+sd,A,"Well/UH that/DT 's/BES about/RB all/DT I/PRP ,/,","{D Well } that's about all I, - /"
+sv,A,we/PRP agreed/VBD pretty/RB well/RB on/IN this/DT I/PRP think/VBP ./.,we agreed pretty well on this I think. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,I/PRP think/VBP so/RB ./.,I think so. /
+fc,A,Okay/UH ./.,Okay. /
+fc,A,Well/UH it/PRP 's/HVS been/VBN real/RB nice/JJ talking/VBG with/IN you/PRP ./.,{D Well } it's been real nice talking with you. /
+fc,B,"All/RB right/JJ ,/,","All right, /"
+fc,B,have/VB a/DT good/JJ one/CD ./.,have a good one. /
+fc,A,"Okay/UH ,/,","Okay, /"
+fc,A,bye/UH ./.,bye. /
+fc,B,Bye-bye/UH ./.,Bye-bye </talking>. /

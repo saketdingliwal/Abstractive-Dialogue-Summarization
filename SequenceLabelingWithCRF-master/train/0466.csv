@@ -1,0 +1,149 @@
+act_tag,speaker,pos,text
+sd,A,MUMBLEx/XX not/RB be/VB a/DT very/RB good/JJ conversationalist/NN on/IN fishing/NN ./.,(( )) not be a very good conversationalist on fishing. - /
+sd,A,I/PRP do/VBP n't/RB do/VB a/DT lot/NN of/IN it/PRP ./.,I don't do a lot of it. /
+sd,B,"Well/UH ,/, I/PRP do/VBP love/VB to/TO fish/VB ./.","{D Well, } I do love to fish. /"
+ba,A,"Well/UH good/JJ ,/,","{D Well } good, /"
+sv,A,maybe/RB I/PRP can/MD learn/VB something/NN ./.,maybe I can learn something. /
+arp_nd,B,"Well/UH ,/, I/PRP do/VBP n't/RB know/VB how/WRB much/JJ you/PRP can/MD learn/VB ./.","{D Well, } I don't know how much you can learn. /"
+x,A,./.,<Laughter>.
+sd,B,"I/PRP 'm/VBP not/RB so/RB sure/JJ I/PRP 'm/VBP good/JJ at/IN it/PRP ,/,","<Laughter> I'm not so sure I'm good at it, /"
+sd,B,but/CC I/PRP do/VBP enjoy/VB doing/VBG it/PRP ./.,{C but } I do enjoy doing it. /
+qy,A,Do/VBP you/PRP ?/.,Do you? /
+ny,B,Yeah/UH ./.,Yeah. /
+sd,A,"Well/UH ,/, it/PRP is/VBZ fun/JJ ,/, what/WP little/RB I/PRP do/VBP ./.","{D Well, } it is fun, what little I do. /"
+h,A,"Of/IN course/NN ,/, I/PRP do/VBP n't/RB ,/, you/PRP know/VBP ,/,","Of course, I don't, {D you know, } - /"
+sd,A,I/PRP think/VBP when/WRB they/PRP refer/VBP to/IN different/JJ kinds/NNS of/IN fishing/NN,I think when they refer to different kinds of fishing - /
+sd,A,"I/PRP told/VBD my/PRP$ husband/NN last/JJ night/NN when/WRB I/PRP had/VBD called/VBN and/CC they/PRP had/VBD ,/, told/VBD me/PRP that/IN this/DT was/VBD a/DT topic/NN ,/, I/PRP said/VBD ,/, well/UH ,/, I/PRP can/MD tell/VB them/PRP how/WRB to/TO fish/VB with/IN a/DT minnow/NN or/CC how/WRB to/TO fish/VB with/IN a/DT worm/NN ./.","I told my husband last night when I had called and they had, told me that this was a topic, I said, {D well, } I can tell them how to fish with a minnow or how to fish with a worm <laughter>. /"
+sd,A,"He/PRP said/VBD ,/, I/PRP do/VBP n't/RB think/VB that/DT 's/BES the/DT different/JJ kinds/NNS of/IN fishing/VBG they/PRP 're/VBP talking/VBG about/IN ./.","He said, I don't think that's the different kinds of fishing they're talking about <laughter>. /"
+sd,B,"Well/UH ,/, I/PRP hope/VBP it/PRP is/VBZ ,/,","{D Well, } I hope it is, /"
+x,A,./.,<Laughter>.
+sd,B,there/EX 's/BES not/RB a/DT whole/JJ lot/NN of/IN different/JJ kinds/NNS ./.,there's not a whole lot of different kinds. /
+sd,A,That/DT 's/BES about/IN the/DT only/JJ kind/NN I/PRP know/VBP how/WRB to/TO do/VB ./.,That's about the only kind I know how to do. /
+sd,B,"I/PRP do/VBP n't/RB do/VB a/DT lot/NN of/IN deep/JJ sea/NN fishing/VBG ,/,","I don't do a lot of deep sea fishing, /"
+sd,B,"I/PRP ,/, because/IN I/PRP get/VBP seasick/JJ ,/,","[ I, + {C because } I ] get seasick, /"
+sd,B,but/CC --/:,{C but } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: we/PRP have/VBP a/DT lot/NN of/IN lakes/NNS here/RB in/IN this/DT area/NN --/:,-- we have a lot of lakes here in this area -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC I/PRP do/VBP a/DT lot/NN of/IN fishing/VBG for/IN ,/, uh/UH ,/, bass/NN ./.","-- {C and } I do a lot of fishing for, {F uh, } bass. /"
+sd,B,"We/PRP have/VBP a/DT lot/NN of/IN ,/, uh/UH ,/, uh/UH ,/, couple/NN of/IN lakes/NNS in/IN our/PRP$ area/NN that/WDT are/VBP fil/VBN ,/, just/RB filled/VBN with/IN good/JJ sized/JJ bass/NN ./.","We have a [ lot of, + {F uh, } {F uh, } couple of ] lakes in our area that are [ fil-, + just filled ] with good sized bass. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC then/RB when/WRB I/PRP get/VBP tired/JJ of/IN them/PRP outwitting/VBG me/PRP ,/, I/PRP fish/VBP for/IN catfish/NN --/:","{C And then } when I get tired of them outwitting me, I fish for catfish -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC we/PRP use/VBP worms/NNS and/CC shiners/NNS ,/, which/WDT is/VBZ pretty/RB much/JJ like/IN minnows/NNS --/:","-- {C and } we use worms and shiners, which is pretty much like minnows --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: a/DT little/JJ bit/NN bigger/JJR than/IN minnows/NNS ,/,","-- a little bit bigger than minnows, /"
+sd,B,and/CC then/RB I/PRP also/RB use/VBP spinner/NN baits/NN and/CC plastic/NN worms/NNS ./.,{C and then } I also use spinner baits and plastic worms. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"It/PRP all/DT depends/VBZ on/IN what/WP I/PRP 'm/VBP fishing/VBG for/IN ,/, and/CC the/DT time/NN of/IN day/NN ./.","It all depends on what I'm fishing for, and the time of day. /"
+bf,A,"Well/UH ,/, it/PRP sounds/VBZ like/IN you/PRP do/VBP quite/RB a/DT bit/NN of/IN it/PRP ./.","{D Well, } it sounds like you do quite a bit of it. /"
+aa,B,I/PRP do/VBP ./.,I do. /
+sd,B,"Uh/UH ,/, there/EX 's/BES a/DT lake/NN like/IN maybe/RB two/CD or/CC three/CD miles/NNS from/IN here/RB ,/,","{F Uh, } there's a lake {D like } maybe two or three miles from here, /"
+sd,B,and/CC --/:,{C and } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: it/PRP 's/BES very/RB convenient/JJ on/IN afternoons/NNS when/WRB I/PRP want/VBP to/TO just/RB get/VB away/RB and/CC sit/VB and/CC think/VB ./.,-- it's very convenient on afternoons when I want to just get away and sit and think. /
+sd,B,"Fishing/NN 's/BES a/DT good/JJ way/NN to/TO do/VB that/DT ,/,","Fishing's a good way to do that, /"
+sd,B,and/CC I/PRP have/VBP a/DT lot/NN of/IN friends/NNS who/WP like/VBP to/TO go/VB fishing/VBG ./.,{C and } I have a lot of friends who like to go fishing. /
+qy,A,Do/VBP you/PRP have/VB a/DT boat/NN ?/.,Do you have a boat? /
+nn,B,"No/UH ,/,","No, /"
+sd,B,I/PRP do/VBP n't/RB ./.,I don't. /
+sd,B,"I/PRP have/VBP a/DT friend/NN who/WP has/VBZ a/DT little/JJ infla/JJ ,/, inflatable/JJ raft/NN ,/,","I have a friend who has a little [ infla-, + inflatable ] raft, /"
+sd,B,and/CC we/PRP --/:,{C and } we --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: use/VBP that/DT sometimes/RB ./.,-- use that sometimes. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP wish/VBP I/PRP had/VBD a/DT boat/NN ,/,","I wish I had a boat, /"
+sd,B,but/CC I/PRP do/VBP n't/RB ./.,{C but } I don't. /
+sd,A,I/PRP think/VBP the/DT lakes/NNS are/VBP probably/RB different/JJ in/IN Michigan/NNP than/IN they/PRP are/VBP in/IN Texas/NNP ./.,I think the lakes are probably different in Michigan than they are in Texas. /
+sd,A,"The/DT ones/NNS around/IN here/RB are/VBP so/RB big/JJ ,/, that/IN you/PRP can/MD fish/VB off/IN the/DT dock/NN --/:","The ones around here are so big, that you can fish off the dock -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: but/CC unless/IN you/PRP have/VBP a/DT boat/NN you/PRP ca/MD n't/RB really/RB get/VB into/IN the/DT ,/, where/WRB they/PRP call/VBP the/DT good/JJ fishing/NN holes/NNS ,/, you/PRP know/VBP ./.","-- {C but } unless you have a boat you can't really get into [ the, + where they call the ] good fishing holes, {D you know. } /"
+b,B,Right/UH ./.,Right. /
+qy,B,"That/DT 's/BES the/DT same/JJ way/NN here/RB ,/, is/VBZ n't/RB it/PRP ?/.","That's the same way here, isn't it? /"
+qy,A,Is/VBZ it/PRP ?/.,Is it? /
+na,B,"You/PRP have/VBP to/TO get/VB back/RB in/IN the/DT sticks/NNS in/IN the/DT ,/,","You have to get back in the sticks in the, -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"My/PRP$ in-laws/NNS live/VBP on/IN a/DT lake/NN ,/, uh/UH ,/, a/DT little/JJ bit/NN east/JJ of/IN Dallas/NNP ,/, kind/RB of/RB in/IN the/DT Piney/NNP Woods/NNP ,/,","My in-laws live on a lake, {F uh, } a little bit east of Dallas, kind of in the Piney Woods, /"
+sd,A,"and/CC the/DT lake/NN is/VBZ beautiful/JJ ,/,","{C and } the lake is beautiful, /"
+sd,A,"and/CC I/PRP like/VBP to/TO go/VB out/RB and/CC stand/VB at/IN the/DT end/NN of/IN the/DT dock/NN and/CC fish/NN ,/,","{C and } I like to go out and stand at the end of the dock and fish, /"
+sd,A,"but/CC actually/RB catching/NN fish/NN to/TO eat/VB per/FW se/FW ,/, you/PRP do/VBP n't/RB really/RB do/VB much/RB of/IN that/DT right/NN there/RB ./.","{C but } actually catching fish to eat per se, you don't really do much of that right there. /"
+sd,A,"I/PRP catch/VBP a/DT lot/NN of/IN little/JJ old/JJ ,/, uh/UH ,/, I/PRP think/VBP they/PRP call/VBP them/PRP perch/NN --/:","I catch a lot of little old, {F uh, } I think they call them perch -- /"
+aa,B,Right/UH ./.,Right. /
+sd,A,"--/: and/CC then/RB the/DT ,/, the/DT ,/, uh/UH ,/, turtles/NNS try/VBP to/TO eat/VB up/RP all/PDT my/PRP$ bait/NN ./.","-- {C and then } [ the, + the, ] {F uh, } turtles try to eat up all my bait <laughter>. /"
+b,B,Oh/UH ./.,<Laughter> Oh. /
+sd,A,"So/RB it/PRP 's/BES ,/, it/PRP 's/BES so/RB close/RB to/IN the/DT dock/NN that/IN I/PRP think/VBP all/DT I/PRP do/VBP is/VBZ feed/VB them/PRP a/DT little/JJ bit/NN --/:","{C So } [ it's, + it's ] so close to the dock that I think all I do is feed them a little bit -- /"
+sd,B,"We/PRP do/VBP n't/RB have/VB ,/,","[ We don't have, +"
+sd,A,--/: but/CC it/PRP 's/BES kind/RB of/RB fun/JJ ./.,-- {C but } it's kind of fun. /
++,B,"We/PRP do/VBP n't/RB have/VB a/DT big/JJ problem/NN with/IN turtles/NNS ,/,","We don't have ] a big problem with turtles, /"
+sd,B,but/CC we/PRP do/VBP have/VB a/DT awful/JJ lot/NN of/IN snakes/NNS in/IN our/PRP$ lakes/NNS ./.,{C but } we do have a awful lot of snakes in our lakes. /
+sd,A,Um/UH --/:,{F Um } --
+sd,B,"And/CC I/PRP ,/,","{C And } [ I, +"
++,A,--/: I/PRP would/MD be/VB afraid/JJ of/IN that/DT ./.,-- I would be afraid of that. /
++,B,"Well/UH ,/, I/PRP ca/MD n't/RB think/VB of/IN a/DT time/NN that/IN I/PRP 've/VBP been/VBN fishing/VBG that/IN I/PRP have/VBP n't/RB run/VBN into/IN one/CD or/CC two/CD of/IN them/PRP ./.","{D Well, } I ] can't think of a time that I've been fishing that I haven't run into one or two of them. /"
+qy,A,Do/VBP they/PRP ever/RB get/VB on/IN your/PRP$ hook/NN ?/.,Do they ever get on your hook? /
+nn,B,"No/UH ,/,","No, /"
+%,B,"we/PRP ,/, uh/UH ,/,","we, {F uh, } - /"
+sd,B,occasionally/RB I/PRP 'll/MD catch/VB an/DT eel/NN --/:,occasionally I'll catch an eel --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: on/IN a/DT ,/, on/IN a/DT hook/NN ,/, but/CC never/RB the/DT snakes/NNS ./.","-- [ on a, + on a ] hook, but never the snakes. /"
+%,B,"They/PRP just/RB kind/RB of/RB ,/,","They just kind of, -/"
+qy,A,Are/VBP they/PRP poisonous/JJ snakes/NNS ?/.,Are they poisonous snakes? /
+sd,B,"Uh/UH ,/, we/PRP have/VBP a/DT lot/NN of/IN cotton/NN mouth/NN ,/,","{F Uh, } we have a lot of cotton mouth, /"
+ny,B,so/RB yes/UH,{C so } yes /
+sd,B,"they/PRP are/VBP ,/, definitely/RB --/:","they are, definitely -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC they/PRP live/VBP in/IN little/JJ shallow/NN ,/, little/JJ coves/NNS that/WDT I/PRP like/VBP to/TO fish/VB in/IN ,/,","-- {C and } they live in [ little shallow, + little ] coves that I like to fish in, /"
+sd,B,so/RB I/PRP seem/^VBN them/PRP swimming/VBG by/RB every/DT once/RB in/IN a/DT while/NN ./.,{C so } I seem them swimming by every once in a while. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP think/VBP I/PRP 'd/MD be/VB a/DT little/JJ bit/NN afraid/JJ of/IN those/DT ./.,I think I'd be a little bit afraid of those. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"they/PRP can/MD ,/, they/PRP 're/VBP ,/, they/PRP 're/VBP certainly/RB ugly/JJ ./.","[ [ they can, + they're, ] + they're ] certainly ugly. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"We/PRP ,/, uh/UH ,/, saw/VBD a/DT large/JJ snake/NN right/RB off/IN the/DT dock/NN there/RB at/IN my/PRP$ in-laws/NNS '/POS place/NN last/JJ year/NN ./.","We, {F uh, } saw a large snake right off the dock there at my in-laws' place last year. /"
+sd,A,It/PRP was/VBD probably/RB four/CD inches/NNS in/IN diameter/NN or/CC something/NN like/IN that/IN you/PRP know/VBP ./.,It was probably four inches in diameter or something like that {D you know. } /
+sd,A,"Great/JJ big/JJ snake/NN ,/,","Great big snake, /"
+sd,A,"and/CC it/PRP ,/, of/IN course/NN ,/, it/PRP scared/VBD the/DT women/NNS to/IN death/NN ,/, you/PRP know/VBP ,/,","{C and } [ it, + of course, it ] scared the women to death, {D you know, } /"
+sd,A,"but/CC the/DT men/NNS come/VBP out/RB and/CC said/VBD oh/UH ,/, well/UH ,/, that/DT 's/BES only/RB a/DT ,/, a/DT king/NN snake/NN ,/, it/PRP wo/MD n't/RB really/RB hurt/VB you/PRP ,/, you/PRP know/VBP ./.","{C but } the men come out and said {F oh, } {D well, } that's only [ a, + a ] king snake, it won't really hurt you, {D you know. } /"
+sd,A,But/CC it/PRP looked/VBD so/RB bad/JJ --/:,{C But } it looked so bad -- /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: and/CC it/PRP was/VBD so/RB big/JJ ,/, that/IN it/PRP might/MD not/RB would/MD have/VB hurt/VBN us/PRP ,/,","-- {C and } it was so big, that it might not would have hurt us, /"
+sd,A,"but/CC we/PRP sure/RB felt/VBD like/IN it/PRP was/VBD hurting/VBG us/PRP ,/, just/RB being/VBG there/RB ,/, you/PRP know/VBP ./.","{C but } we sure felt like it was hurting us, just being there, {D you know } <laughter>. /"
+aa,B,Definitely/RB ./.,Definitely. /
+sv,A,But/CC they/PRP 're/VBP scary/JJ looking/VBG ./.,{C But } they're scary looking. /
+qy,B,Do/VBP you/PRP have/VB bass/NN ?/.,Do you have bass? /
+ny,A,"Yes/UH ,/, uh/UH ,/,","Yes, {F uh, } /"
+sd,A,"I/PRP think/VBP that/IN ,/, uh/UH ,/, probably/RB around/IN here/RB people/NNS fish/VBP for/IN bass/NN and/CC crappie/NN and/CC catfish/NN more/RBR than/IN anything/NN else/RB ./.","I think that, {F uh, } probably around here people fish for bass and crappie and catfish more than anything else. /"
+b,B,Right/UH ./.,Right. /
+sd,B,"Well/UH ,/, that/DT 's/BES pretty/RB much/JJ the/DT same/JJ way/NN here/RB ./.","{D Well, } that's pretty much the same way here. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"I/PRP ,/,","I, -/"
+sd,A,"Now/UH ,/, they/PRP have/VBP a/DT lot/NN of/IN bass/NN tournaments/NNS ./.","{D Now, } they have a lot of bass tournaments. /"
+sd,B,"Well/UH ,/, we/PRP have/VBP those/DT ./.","{D Well, } we have those. /"
+%,B,I/PRP do/VBP n't/RB --/:,I don't -- -/
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: I/PRP inevitably/RB ,/, if/IN I/PRP enter/VBP one/NN of/IN those/DT ,/, I/PRP never/RB catch/VBP a/DT thing/NN ./.","-- [ I + inevitably, if I ] enter one of those, I never catch a thing. /"
+ba,A,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
+sd,B,I/PRP just/RB go/VBP out/IN there/RB and/CC sit/VBP and/CC watch/VBP other/JJ people/NNS do/VB it/PRP ./.,I just go out there and sit and watch other people do it. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Well/UH that/IN 's/BES kind/RB of/RB ,/,","{D Well } that's kind of, - /"
+sd,A,we/PRP 've/VBP never/RB entered/VBD a/DT tournament/NN or/CC anything/NN ./.,we've never entered a tournament or anything. /
+sd,A,"We/PRP 're/VBP not/RB that/RB big/JJ into/IN fishing/NN ,/,","We're not that big into fishing, /"
+sd,A,"but/CC I/PRP see/VBP a/DT lot/NN of/IN people/NNS ,/,","{C but } I see a lot of people, /"
+sd,A,"you/PRP know/VBP ,/, early/RB in/IN the/DT morning/NN there/EX 'll/MD be/VB all/PDT the/DT boats/NNS going/VBG out/RB ,/,","{D you know, } early in the morning there'll be all the boats going out, /"
+sd,A,"and/CC they/PRP 'll/MD say/VB ,/, Well/UH ,/, there/EX 's/BES a/DT big/JJ bass/NN tournament/NN this/DT weekend/NN ,/,","{C and } they'll say, {D Well, } there's a big bass tournament this weekend, /"
+sd,A,"and/CC all/PDT those/DT people/NNS are/VBP here/RB for/IN the/DT tournament/NN ,/, you/PRP know/VBP ./.","{C and } all those people are here for the tournament, {D you know. } /"
+ba,B,"Oh/UH ,/, yes/UH ./.","{F Oh, } yes. /"
+sv,A,"So/RB I/PRP think/VBP there/EX 's/BES a/DT lot/NN of/IN people/NNS that/WDT have/VBP ,/, you/PRP know/VBP ,/, really/RB ,/, I/PRP guess/VBP that/IN you/PRP 'd/MD call/VB it/PRP really/RB sport/NN fishing/VBG ,/,","{C So } I think there's a lot of people that have, {D you know, } [ really, + I guess that you'd call it really ] sport fishing, /"
+sv,A,they/PRP 're/VBP really/RB into/IN it/PRP to/TO try/VB to/TO win/VB ./.,they're really into it to try to win. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"oh/UH ,/, definitely/RB ./.","{F oh, } definitely. /"
+%,A,My/PRP$ ./.,My. /
+sd,B,Certainly/RB here/RB they/PRP are/VBP ./.,Certainly here they are. /
+sv,A,"But/CC it/PRP is/VBZ ,/, it/PRP 's/BES very/RB ,/, a/DT very/RB relaxing/JJ sport/NN to/TO be/VB able/JJ to/TO just/RB be/VB out/RB on/IN the/DT water/NN and/CC looking/VBG around/RB ./.","{C But } [ it is, + it's ] [ very, + a very ] relaxing sport to be able to just be out on the water and looking around. /"
+sv,A,The/DT peace/NN and/CC calmness/NN is/VBZ really/RB relaxing/JJ ./.,The peace and calmness is really relaxing. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,it/PRP 's/BES a/DT good/JJ thing/NN to/TO take/VB a/DT nice/JJ book/NN and/CC sit/VB back/RB and/CC read/VB and/CC fish/VB ./.,it's a good thing to take a nice book and sit back and read and fish. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,That/DT 's/BES what/WP I/PRP do/VBP a/DT lot/NN ./.,That's what I do a lot. /
+sd,A,I/PRP 've/VBP never/RB tried/VBN taking/VBG a/DT book/NN with/IN me/PRP ./.,I've never tried taking a book with me. /
+sd,A,I/PRP 'll/MD have/VB to/TO try/VB that/DT one/NN of/IN these/DT days/NNS ./.,I'll have to try that one of these days. /

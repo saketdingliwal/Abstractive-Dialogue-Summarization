@@ -1,0 +1,127 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+ad,A,why/WRB do/VBP n't/RB you/PRP start/VB,why don't you start /
+sv,A,so/UH you/PRP probably/RB have/VBP a/DT job/NN you/PRP need/VBP to/TO get/VB to/IN pretty/RB soon/RB ./.,{D so } you probably have a job you need to get to pretty soon. /
+sd,B,I/PRP 'm/VBP already/RB on/IN my/PRP$ job/NN --/:,I'm already on my job -- /
+bf,A,"Oh/UH ,/, you/PRP are/VBP ,/,","{F Oh, } you are, /"
+sd,B,"--/: so/UH ,/, you/PRP ,/, you/PRP reached/VBD me/PRP at/IN my/PRP$ job/NN ./.","-- {C so, } [ you, + you ] reached me at my job. /"
+ba,A,"Oh/UH ,/, wonderful/JJ ,/,","{F Oh, } wonderful, /"
+qw,A,well/UH how/WRB do/VBP you/PRP dress/VB for/IN work/NN ?/.,{D well } how do you dress for work? /
+sd,B,"My/PRP$ ,/, my/PRP$ dress/NN for/IN work/NN ,/, uh/UH ,/, most/RBS of/IN the/DT time/NN is/VBZ ,/, uh/UH ,/, rather/RB comfortable/JJ and/CC casual/JJ --/:","[ My, + my ] dress for work, {F uh, } most of the time is, {F uh, } rather comfortable and casual --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: uh/UH ,/, usually/RB ,/, uh/UH ,/, slacks/NNS and/CC a/DT soft/RB colored/JJ shirt/NN ./.","-- {F uh, } usually, {F uh, } slacks and a soft colored shirt. /"
+sd,B,"The/DT ,/, um/UH ,/, thing/NN that/WDT ,/, that/WDT distinguishes/VBZ me/PRP a/DT lot/NN of/IN the/DT time/NN when/WRB I/PRP have/VBP to/TO dress/VB real/RB professionally/RB for/IN a/DT meeting/NN or/CC something/NN is/VBZ I/PRP wear/VBP a/DT clerical/NN collar/NN --/:","The, {F um, } thing [ that, + that ] distinguishes me a lot of the time when I have to dress real professionally for a meeting or something is I wear a clerical collar --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC a/DT suit/NN and/CC ,/, uh/UH ,/, all/DT of/IN that/DT sort/NN of/IN thing/NN ,/,","-- and a suit and, {F uh, } all of that sort of thing, /"
+sd,B,"but/CC when/WRB I/PRP do/VBP n't/RB need/VB to/TO dress/VB up/RP for/IN a/DT ,/, a/DT meeting/NN or/CC a/DT --/:","{C but } when I don't need to dress up for [ a, + a ] meeting or a --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: service/NN of/IN some/DT sort/NN ,/, I/PRP do/VBP n't/RB ./.","-- service of some sort, I don't. /"
+qy^d,A,So/RB you/PRP 're/VBP in/IN a/DT church/NN there/RB ?/.,{D So } you're in a church there? /
+ny,B,Yes/UH ./.,Yes. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Well/UH ,/, I/PRP 'm/VBP working/VBG ,/, this/DT is/VBZ my/PRP$ first/JJ morning/NN to/IN work/NN down/IN at/IN our/PRP$ little/JJ church/NN preschool/NN ,/,","{D Well, } I'm working, this is my first morning to work down at our little church preschool, /"
+sd,A,"and/CC they/PRP 've/VBP told/VBN me/PRP to/TO wear/VB just/RB something/NN terribly/RB comfortable/JJ because/IN these/DT are/VBP two/CD year/NN olds/NNS ,/,","{C and } they've told me to wear just something terribly comfortable because these are two year olds, /"
+sd,A,"and/CC they/PRP have/VBP a/DT lot/NN of/IN ,/, uh/UH ,/, they/PRP have/VBP BIBLE/NNP lessons/NNS","{C and } [ they have a lot of, + {F uh, } they have ] BIBLE lessons /"
+sd,A,"and/CC they/PRP have/VBP all/PDT the/DT things/NNS during/IN the/DT morning/NN ,/,","{C and } they have all the things during the morning, /"
+sd,A,"but/CC they/PRP still/RB have/VBP snack/NN time/NN and/CC play/NN time/NN ,/,","{C but } they still have snack time and play time, /"
+sd,A,"so/RB ,/, I/PRP 'm/VBP going/VBG to/TO be/VB dressing/VBG just/RB in/IN casual/JJ slacks/NNS and/CC T-shirts/NNS ,/, probably/RB not/RB blue/JJ jeans/NNS ,/, but/CC little/JJ bit/NN short/JJ of/IN that/DT ,/, just/RB ,/, just/RB tennis/NN shoes/NNS and/CC play/NN clothes/NNS ./.","{C so, } I'm going to be dressing just in casual slacks and T-shirts, probably not blue jeans, but little bit short of that, [ just, + just ] tennis shoes and play clothes. /"
+sv,B,"Well/UH ,/, around/IN there/RB you/PRP can/MD probably/RB wear/VB ,/, uh/UH ,/, T-shirts/NNS and/CC other/JJ things/NNS ,/,","{D Well, } around there you can probably wear, {F uh, } T-shirts and other things, /"
+sd,B,"but/CC around/IN here/RB ,/, at/IN this/DT time/NN of/IN the/DT year/NN --/:","{C but } around here, at this time of the year --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: we/PRP are/VBP into/IN sweaters/NNS --/:,-- we are into sweaters --
+sd,A,I/PRP 'm/VBP envious/JJ ./.,I'm envious <laughter>. /
++,B,"--/: and/CC ,/, uh/UH ,/, coats/NNS ./.","-- and, {F uh, } coats. /"
+sd,A,"Well/UH ,/, it/PRP 's/BES a/DT beautiful/JJ day/NN here/RB ,/,","{D Well, } it's a beautiful day here, /"
+sd,A,"and/CC it/PRP 's/BES in/IN the/DT sixties/NNS ,/,","{C and } it's in the sixties, /"
+sd,A,"but/CC we/PRP still/RB have/VBP a/DT lot/NN of/IN hot/JJ afternoons/NNS ,/,","{C but } we still have a lot of hot afternoons, /"
+sd,A,"it/PRP 's/BES supposed/VBN to/TO be/VB eighty-five/CD today/NN ,/,","it's supposed to be eighty-five today, /"
+sd,A,"so/RB you/PRP 'll/MD still/RB see/VB people/NNS ,/,","{C so } you'll still see people, /"
+sd,A,"it/PRP ,/, it/PRP 's/BES kind/RB of/RB an/DT in/NN between/IN change/NN ,/, that/WDT they/PRP 're/VBP in/IN their/PRP$ play/NN clothes/NNS ,/, I/PRP mean/VBP ,/, they/PRP 're/VBP in/IN their/PRP$ summer/NNP clothes/NNS during/IN the/DT afternoons/NNS ,/, because/IN you/PRP just/RB ca/MD n't/RB stand/VB the/DT sweaters/NNS ,/,","[ it, + it's ] kind of an in between change, that [ they're in their play clothes, + {E I mean, } they're in their summer clothes ] during the afternoons, because you just can't stand the sweaters, /"
+sd,A,but/CC in/IN the/DT mornings/NNS people/NNS are/VBP dressing/VBG for/IN work/NN in/IN their/PRP$ sweaters/NNS because/IN they/PRP just/RB want/VBP it/PRP to/TO be/VB fall/NNP so/RB badly/RB ./.,{C but } in the mornings people are dressing for work in their sweaters because they just want it to be fall so badly <laughter>. /
+sd,B,"Today/NN ,/, today/NN we/PRP ,/, we/PRP wear/VBP coats/NNS","[ Today, + today ] [ we, + we ] wear coats /"
+sd,B,and/CC --/:,{C and } --
+bh,A,Did/VBD you/PRP ?/.,Did you? /
++,B,"--/: as/IN the/DT day/NN ,/, uh/UH ,/, warms/VBZ up/RP ,/, we/PRP may/MD go/VB to/IN light/NN jackets/NNS ,/,","-- as the day, {F uh, } warms up, we may go to light jackets, /"
+sd,B,but/CC I/PRP do/VBP n't/RB think/VB there/EX 's/BES an/DT escape/NN from/IN light/JJ jackets/NNS ./.,{C but } I don't think there's an escape from light jackets. /
+ba,A,I/PRP understand/VBP ./.,I understand. /
+sd,B,The/DT wind/NN will/MD take/VB away/RB a/DT lot/NN of/IN body/NN heat/NN ./.,The wind will take away a lot of body heat. /
+qy,A,"Well/UH ,/, so/UH are/VBP the/DT people/NNS around/IN you/PRP ,/, um/UH ,/, dressing/VBG similar/RB to/IN you/PRP ?/.","{D Well, } {D so } are the people around you, {F um, } dressing similar to you? /"
+na,B,Very/RB similar/RB ./.,Very similar. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+bf,A,"so/RB you/PRP do/VBP n't/RB have/VB to/TO ,/, you/PRP do/VBP n't/RB have/VB to/TO buy/VB the/DT lot/NN of/IN the/DT wardrobe/NN that/WDT some/DT of/IN the/DT people/NNS in/IN banking/NN and/CC that/DT kind/NN of/IN thing/NN do/VBP ./.","{D so } [ you don't have to, + you don't have to ] buy the lot of the wardrobe that some of the people in banking and that kind of thing do. /"
+aa,B,"No/UH ,/,","No, /"
+sd,B,I/PRP 'm/VBP not/RB stuck/VBN with/IN that/DT --/:,I'm not stuck with that --
+ba,A,"Well/UH ,/, that/DT 's/BES good/JJ ./.","{D Well, } that's good. /"
++,B,"--/: kind/RB of/RB a/DT ,/, uh/UH ,/, situation/NN ./.","-- kind of a, {F uh, } situation. /"
+ba,A,That/DT 's/BES good/JJ ./.,That's good. /
+sd,B,"As/IN I/PRP say/VBP ,/, unless/IN it/PRP happens/VBZ to/TO be/VB ,/,","As I say, unless it happens to be, - /"
+sd,B,"now/UH yesterday/RB I/PRP had/VBD to/TO dress/VB up/RP ,/, and/CC --/:","{D now } yesterday I had to dress up, [ and -- +"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC ,/, uh/UH ,/, be/VB more/RBR formal/JJ because/IN I/PRP had/VBD a/DT ,/, a/DT formal/JJ meeting/NN at/IN noon/NN time/NN ,/,","-- and, ] {F uh, } be more formal because I had [ a, + a ] formal meeting at noon time, /"
+sd,B,"but/CC then/RB I/PRP can/MD go/VB home/RB later/RBR in/IN the/DT day/NN and/CC ,/, and/CC be/VB a/DT little/RB more/RBR casual/JJ --/:","{C but } then I can go home later in the day [ and, + and ] be a little more casual -- /"
+ba,A,Well/UH that/DT 's/BES wonderful/JJ ./.,{D Well } that's wonderful <laughter>. /
+sd,B,"--/: and/CC then/RB if/IN I/PRP have/VBP a/DT ,/, a/DT meeting/NN of/IN people/NNS that/WDT I/PRP know/VBP ,/, I/PRP can/MD be/VB very/RB casual/JJ in/IN the/DT evening/NN ./.","-- {C and then } if I have [ a, + a ] meeting of people that I know, I can be very casual in the evening. /"
+sd,A,"Well/UH ,/, my/PRP$ husband/NN has/VBZ to/TO take/VB the/DT bus/NN into/IN Dallas/NNP ,/, and/CC does/VBZ n't/RB return/VB all/DT day/NN ,/,","{D Well, } my husband has to take the bus into Dallas, and doesn't return all day, /"
+sd,A,"so/RB he/PRP has/VBZ to/TO dress/VB ,/,","{C so } he has to dress, /"
+sd,A,"and/CC he/PRP just/RB really/RB hates/VBZ it/PRP ,/,","{C and } he just really hates it, /"
+sd,A,"they/PRP have/VBP the/DT long/JJ sleeve/NN shirts/NNS and/CC the/DT whole/JJ tie/NN and/CC the/DT whole/JJ suit/NN ,/,","they have the long sleeve shirts and the whole tie and the whole suit, /"
+sd,A,"and/CC even/RB when/WRB his/PRP$ job/NN is/VBZ not/RB going/VBG to/TO be/VB with/IN people/NNS all/DT day/NN long/RB ,/, he/PRP said/VBD it/PRP 's/BES just/RB part/NN of/IN the/DT uniform/NN and/CC the/DT expected/JJ image/NN that/WDT they/PRP have/VBP to/TO dress/VB ./.","{C and } even when his job is not going to be with people all day long, he said it's just part of the uniform and the expected image that they have to dress. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"that/DT 's/BES ,/, around/IN here/RB in/IN a/DT lot/NN of/IN places/NNS that/WDT 's/BES the/DT way/NN it/PRP is/VBZ --/:","[ that's, + around here in a lot of places that's ] the way it is -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: I/PRP mean/VBP ,/, there/RB ,/, there/EX are/VBP ex/JJ ,/, expected/JJ ,/, uh/UH ,/, dress/NN codes/NNS --/:","-- {E I mean, } [ there, + there ] are [ ex-, + expected, ] {F uh, } dress codes -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+x,B,--/:,-- /
+sd,B,and/CC the/DT people/NNS need/VBP to/TO follow/VB that/DT ./.,{C and } the people need to follow that. /
+sd,B,"I/PRP think/VBP ,/, uh/UH ,/, years/NNS ago/RB ,/, I/PRP used/VBD to/TO be/VB far/RB more/RBR ,/, uh/UH ,/, committed/JJ to/IN the/DT idea/NN of/IN ,/, of/IN a/DT dress/NN code/NN --/:","I think, {F uh, } years ago, I used to be far more, {F uh, } committed to the idea [ of, + of ] a dress code -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: but/CC I/PRP 've/VBP relaxed/VBN a/DT lot/NN more/RBR as/IN I/PRP 've/VBP gotten/VBN older/JJR and/CC become/VBN more/RBR comfortable/JJ with/IN myself/PRP ./.,-- {C but } I've relaxed a lot more as I've gotten older and become more comfortable with myself. /
+ba,A,"Well/UH ,/, I/PRP think/VBP that/DT 's/BES ,/, I/PRP think/VB that/DT 's/BES great/JJ ./.","{D Well, } [ I think that's, + I think that's ] great. /"
+ba,A,I/PRP think/VB that/DT 's/BES good/JJ ./.,I think that's good. /
+sd,B,"It/PRP 's/HVS taken/VBN a/DT long/JJ time/NN to/TO break/VB away/RB ,/,","It's taken a long time to break away,"
+x,A,./.,<Laughter>.
++,B,"from/IN ,/, from/IN that/DT --/:","[ from, + from ] that -- /"
+ba,A,I/PRP understand/VBP ./.,I understand. /
+sd,B,"--/: but/CC now/RB that/IN I/PRP 've/VBP broken/VBN away/RB from/IN it/PRP ,/, I/PRP 'm/VBP ,/, I/PRP 'm/VBP glad/JJ I/PRP have/VBP ./.","-- {C but } now that I've broken away from it, [ I'm, + I'm ] glad I have. /"
+sd,A,"Well/UH ,/, another/DT interesting/JJ thing/NN on/IN the/DT our/PRP$ ,/, our/PRP$ end/NN here/RB is/VBZ how/WRB ,/, even/RB in/IN my/PRP$ forties/NNS ,/, how/WRB much/RB younger/RBR I/PRP dress/VBP than/IN my/PRP$ mother/NN would/MD have/VB in/IN her/PRP$ forties/NNS ,/,","{D Well, } another interesting thing on [ [ the + our, ] + our ] end here is [ how, + {A even in my forties, } how ] much younger I dress than my mother would have in her forties, /"
+sd,A,"and/CC I/PRP will/MD run/VB around/RB to/IN the/DT store/NN in/IN things/NNS ,/, in/IN slacks/NNS and/CC tennis/NN shoes/NNS ,/,","{C and } I will run around to the store in things, in slacks and tennis shoes, /"
+%,A,"and/CC she/PRP ,/,","{C and } she, -/"
+bf,B,You/PRP mean/VBP you/PRP do/VBP n't/RB need/VB to/TO wear/VB little/JJ old/JJ house/NN dresses/NNS any/GW more/^RB ?/.,You mean you don't need to wear little old house dresses any more? /
+aa,A,"Right/UH ,/,","Right, /"
+sd,A,"and/CC pearls/NNS ,/,","{C and } pearls, - /"
+sd,A,"and/CC she/PRP would/MD not/RB have/VB even/RB probably/RB owned/VBN a/DT pair/NN of/IN tennis/NN shoes/NNS after/IN she/PRP got/VBD out/IN of/IN high/JJ school/NN ,/,","<laughter> {C and } she would not have even probably owned a pair of tennis shoes after she got out of high school, /"
+x,B,./.,<Laughter>.
+sd,A,"so/UH ,/, uh/UH ,/, she/PRP tells/VBZ me/PRP I/PRP dress/VBP young/JJ ,/,","{C so, } {F uh, } she tells me I dress young, /"
+sd,A,but/CC that/DT 's/BES okay/JJ MUMBLEx/XX ./.,{C but } that's okay (( )) <laughter>. /
+ba,B,"That/DT 's/BES a/DT good/JJ idea/NN ,/,","That's a good idea, /"
+ba,B,that/DT 's/BES a/DT good/JJ idea/NN ./.,that's a good idea. /
+sd,A,"Well/UH ,/, there/EX 's/BES not/RB a/DT lot/RB more/JJR I/PRP can/MD think/VB of/RP to/TO discuss/VB on/IN clothing/NN ./.","{D Well, } there's not a lot more I can think of to discuss on clothing. /"
+aa,B,"No/UH ,/,","No, /"
+%,B,"there/RB ,/, you/PRP know/VBP ,/,","there, {D you know, } -/"
+sv,A,MUMBLEx/XX I/PRP guess/VBP this/DT is/VBZ what/WP you/PRP call/VBP a/DT natural/JJ end/NN ./.,(( )) I guess this is what you call a natural end <laughter>. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+qw,B,"what/WP kind/NN ,/, what/WP kind/NN of/IN shoes/NNS do/VBP they/PRP wear/VB down/IN there/RB ?/.","[ what kind, + what kind ] of shoes do they wear down there? /"
+sd,A,"Well/UH ,/, we/PRP wear/VBP ,/,","{D Well, } we wear, - /"
+sd,A,"of/IN course/NN ,/, like/IN I/PRP said/VBD ,/, if/IN my/PRP$ husband/NN 's/BES going/VBG downtown/RB ,/, he/PRP 's/HVS got/VBD the/DT whole/NN ,/, uh/UH ,/, you/PRP know/VBP ,/, the/DT dress/NN men/NNS 's/POS dress/NN shoes/NNS --/:","of course, like I said, if my husband's going downtown, he's got the whole, {F uh, } {D you know, } [ the dress + men's dress shoes ] -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: but/CC for/RB as/RB out/IN here/RB ,/, just/RB anything/NN that/WDT the/DT moms/NNS ,/,","-- {C but } for as out here, just anything that the moms, - /"
+sd,A,"we/PRP all/DT kind/RB of/RB have/VBP our/PRP$ own/JJ little/JJ dress/NN code/NN of/IN just/RB either/CC tennis/NN shoes/NNS or/CC little/JJ loafers/NNS and/CC ,/, and/CC ,/, uh/UH ,/, tights/NNS ,/, and/CC things/NNS that/WDT feel/VBP comfortable/JJ to/IN us/PRP around/IN our/PRP$ kids/NNS ./.","we all kind of have our own little dress code of just either tennis shoes or little loafers [ and, + and, ] {F uh, } tights, and things that feel comfortable to us around our kids. /"
+sd,B,"We/PRP ,/, we/PRP can/MD wear/VB pretty/RB much/RB that/DT ,/, although/IN ,/, um/UH ,/, tennis/NN shoes/NNS are/VBP kind/RB of/RB out/RB --/:","[ We, + we ] can wear pretty much that, although, {F um, } tennis shoes are kind of out --"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,I/PRP 'm/VBP sure/JJ they/PRP are/VBP there/RB ./.,I'm sure they are there. /
++,B,"--/: in/IN ,/, in/IN almost/RB every/DT ,/, every/DT situation/NN --/:","-- [ in, + in ] almost every, every situation --"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,I/PRP 'm/VBP sure/JJ they/PRP are/VBP ./.,I'm sure they are. /
++,B,--/: unless/IN you/PRP want/VBP to/TO look/VB like/IN a/DT gook/NN ./.,-- unless you want to look like a gook <<phonetically spelled>>. /
+aa,A,"That/DT 's/BES right/JJ ,/,","<Laughter> That's right, /"
+sv,A,I/PRP 'm/VBP sure/JJ that/IN true/JJ ./.,I'm sure that true. /
+sv,A,It/PRP 's/BES a/DT lot/RB different/JJ than/IN working/VBG in/IN a/DT kids/NNS preschool/NN ./.,It's a lot different than working in a kids preschool. /
+b^m,B,A/DT lot/NN different/JJ ./.,A lot different. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+fc,A,"Well/UH ,/, you/PRP all/DT have/VBP a/DT nice/JJ day/NN there/RB ./.","{D Well, } you all have a nice day there. /"
+fc,B,"You/PRP too/RB ,/,","You too, /"
+ft,B,and/CC thank/VBP you/PRP for/IN calling/VBG ./.,{C and } thank you for calling. /
+ft,A,Thank/VBP you/PRP very/RB much/RB ./.,Thank you very much. /
+fc,B,Uh-huh/UH ./.,Uh-huh. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /
+fc,B,Bye/UH ./.,Bye. /

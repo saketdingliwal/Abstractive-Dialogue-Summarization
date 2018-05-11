@@ -1,0 +1,174 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+qw,A,what/WP kind/NN of/IN house/NN do/VBP you/PRP live/VB in/IN ?/.,what kind of house do you live in? /
+sd,B,"Well/UH ,/, uh/UH ,/, we/PRP live/VBP in/IN a/DT ,/, a/DT brick/NN home/NN in/IN far/RB north/JJ Dallas/NNP","{D Well, } {F uh, } we live in [ a, + a ] brick home in far north Dallas /"
+sd,B,"and/CC it/PRP 's/BES ,/, uh/UH ,/, four/CD bedrooms/NNS and/CC three/CD and/CC a/DT half/JJ baths/NNS and/CC swimming/NN pool/NN in/IN the/DT back/NN","{C and } it's, {F uh, } four bedrooms and three and a half baths and swimming pool in the back /"
+sd,B,"and/CC ,/,","{C and, }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,It/PRP 's/BES about/IN thirty-five/CD hundred/CD square/NN feet/NNS ./.,It's about thirty-five hundred square feet. /
+sv,A,"Well/UH ,/, it/PRP sounds/VBZ like/IN ours/JJ are/VBP pretty/RB similar/JJ ./.","{D Well, } it sounds like ours are pretty similar. /"
+sd,A,"I/PRP live/VBP in/IN one/CD ,/,","I live in one, /"
+sd,A,I/PRP do/VBP n't/RB have/VB a/DT swimming/NN pool/NN ./.,I don't have a swimming pool. /
+sd,A,And/CC mine/NN 's/BES about/RB twenty-seven/CD hundred/CD square/NN foot/NN ./.,{C And } mine's about twenty-seven hundred square foot. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,But/CC the/DT four/CD bedrooms/NNS,{C But } the four bedrooms /
+sd,A,"and/CC all/PDT the/DT rest/NN of/IN it/PRP sounds/VBZ just/RB about/RB ,/, about/RB alike/RB ./.","{C and } all the rest of it sounds just [ about + <laughter>, about ] alike. /"
+sv,A,I/PRP think/VBP it/PRP 's/BES pretty/RB much/RB typical/JJ for/IN this/DT area/NN ./.,I think it's pretty much typical for this area. /
+aa,B,It/PRP is/VBZ ./.,It is. /
+qy,B,Have/VBP you/PRP been/VBN living/VBG there/RB very/RB long/JJ ?/.,Have you been living there very long? /
+no,A,I/PRP 've/VBP been/VBN in/IN the/DT house/NN,I've been in the house /
+sd,A,I/PRP 'm/VBP in/IN here/RB right/RB now/RB about/IN twelve/CD and/CC a/DT half/DT years/NNS ./.,I'm in here right now about twelve and a half years. /
+sd,B,So/IN you/PRP 've/VBP been/VBN there/RB longer/JJR ./.,{C So } you've been there longer. /
+sd,B,"We/PRP built/VBD this/DT one/NN about/IN ,/, uh/UH ,/,","We built this one about, {F uh, } - /"
+sd,B,"it/PRP 's/HVS been/VBN ,/, let/VB 's/PRP see/VB ,/, it/PRP 's/HVS been/VBN six/CD years/NNS --/:","[ it's been + <breathing>, let's see <sniffing>, it's been ] [ six + years --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: six/CD and/CC a/DT half/JJ years/NNS ago/RB ,/,","-- six and a half years ] ago, /"
+sd,B,and/CC we/PRP subcontracted/VBD it/PRP out/RP ourselves/PRP ./.,{C and } we subcontracted it out ourselves. /
+sd,B,We/PRP bought/VBD --/:,We bought --
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
++,B,"--/: the/DT lot/NN and/CC ,/, uh/UH ,/, had/VBD an/DT architect/NN draw/VB the/DT plans/NNS based/VBN on/IN our/PRP$ specifications/NNS --/:","-- the lot and, {F uh, } had an architect draw the plans based on our specifications -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC then/RB we/PRP subbed/VBD it/PRP out/RP ,/,","-- {C and then } we subbed it out, /"
+sd,B,"so/RB ,/, we/PRP 've/VBP been/VBN here/RB a/DT little/JJ over/IN six/CD years/NNS now/RB ./. And/CC --/:","{C so, } we've been here a little over six years now. And --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: uh/UH ,/, have/VBP really/RB enjoyed/VBN it/PRP because/IN --/:","-- {F uh, } have really enjoyed it because --"
+ba,A,"Well/UH ,/, I/PRP bet/VBP you/PRP ,/,","{D Well, } I bet you, -/"
++,B,--/: we/PRP built/VBD what/WP we/PRP wanted/VBD to/TO have/VB to/TO live/VB in/IN ./.,-- we built what we wanted to have to live in. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,My/PRP$ husband/NN got/VBD his/PRP$ big/JJ garage/NN ./.,My husband got his big garage. /
+sd,B,"He/PRP ha-/XX ,/, we/PRP have/VBP a/DT three/CD car/NN garage/NN ,/, that/WDT he/PRP has/VBZ a/DT big/JJ work/NN area/NN in/IN --/:","[ He ha-, + we have ] a three car garage, that he has a big work area in -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: and/CC he/PRP likes/VBZ to/TO rebuild/VB cars/NNS and/CC redo/VB engines/NNS,-- {C and } he likes to rebuild cars and redo engines /
+sd,B,"and/CC ,/, so/RB he/PRP has/VBZ all/PDT the/DT work/NN space/NN he/PRP needs/VBZ ./.","{C and, so } he has all the work space he needs. /"
+ba,A,"Well/UH ,/, that/WDT sounds/VBZ interesting/JJ ./.","{D Well, } that sounds interesting. /"
+ba,A,I/PRP bet/VBP he/PRP 's/HVS enjoyed/VBN having/VBG it/PRP that/DT way/NN --/:,I bet he's enjoyed having it that way -- /
+%,B,"He/PRP ,/,","He, -/"
+%,A,"--/: because/IN some-/XX ,/,","-- {C because } some-, - /"
+sv,A,kind/RB of/RB hard/RB to/TO find/VB one/NN prebuilt/NN that/WDT 's/BES kind/RB of/RB fits/VBZ those/DT specifications/NNS ./.,kind of hard to find one prebuilt that [ 's + kind of fits ] those specifications. /
+aa,B,"It/PRP is/VBZ ,/,","It is, /"
+sd,B,and/CC that/DT 's/BES why/WRB we/PRP decided/VBD to/TO build/VB ./.,{C and } that's why we decided to build. /
+sd,B,We/PRP looked/VBD --/:,We looked --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: at/IN things/NNS that/WDT were/VBD already/RB ,/, uh/UH ,/, built/VBD","-- at things that were already, {F uh, } built /"
+sd,B,"and/CC the/DT garages/NNS were/VBD always/RB ,/, if/IN the/DT house/NN w-/XX ,/, was/VBD large/JJ ,/, it/PRP seemed/VBD like/IN the/DT garages/NNS were/VBD small/JJ even/RB if/IN they/PRP were/VBD three/CD car/NN garages/VBZ which/WDT is/VBZ --/:","{C and } [ the garages were always, + if the house [ w-, + was ] large, it seemed like the garages were ] small even if they were three car garages which is --"
+sd,A,"Well/UH ,/, then/RB ,/, most/RBS --/:","{D Well, } then, most --"
++,B,--/: what/WP we/PRP have/VBP ./.,-- what we have. /
++,A,--/: of/IN them/PRP do/VBP n't/RB have/VB a/DT three/CD car/NN garage/NN ./.,-- of them don't have a three car garage. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,They/PRP 're/VBP kind/RB of/RB rare/JJ ./.,They're kind of rare. /
+sd,B,So/RB we/PRP put/VBD a/DT three/CD car/NN garage/NN in/RP ./.,{C So } we put a three car garage in. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"But/CC ,/, even/RB if/IN they/PRP had/VBD three/CD car/NN garages/NNS ,/, they/PRP did/VBD n't/RB have/VB a/DT work/NN space/NN ./.","{C But, } even if they had three car garages, they didn't have a work space. /"
+sd,B,All/DT of/IN it/PRP was/VBD taken/VBN up/RP with/IN just/JJ car/NN space/NN ./.,All of it was taken up with just car space. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC so/RB he/PRP has/VBZ a/DT big/JJ landing/NN area/NN that/WDT 's/BES between/IN where/WRB the/DT cars/NNS are/VBP in/IN the/DT garage/NN and/CC where/WRB the/DT house/NN starts/VBZ --/:,{C And so } he has a big <noise> landing area that's between where the cars are in the garage and where the house starts --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: that/WDT he/PRP can/MD work/VB on/IN ./.,-- that he can work on. /
+%,A,"Well/UH that/IN ,/,","{D Well } that, - /"
+sd,A,"my/PRP$ ,/, we/PRP 've/VBP just/RB got/VBD a/DT two/CD car/NN garage/NN ,/,","[ my, + we've ] just got a two car garage, /"
+sd,A,"but/CC my/PRP$ husband/NN 's/POS got/VBD a/DT big/JJ space/NN in/RB between/RB the/DT ,/, where/WRB the/DT cars/NNS are/VBP and/CC the/DT house/NN ,/, where/WRB he/PRP has/VBZ a/DT big/JJ work/NN shop/NN ,/, you/PRP know/VBP ,/, workbench/NN and/CC everything/NN ./.","{C but } my husband's got a big space in between [ the, + where the ] cars are and the house, where he has a big work shop, {D you know, } workbench and everything. /"
+sv,B,"Well/UH ,/, sounds/VBZ like/IN our/PRP$ husbands/NNS have/VB similar/JJ interests/NNS ./.","{D Well, } sounds like our husbands have similar interests. /"
+ar,A,"Now/UH ,/, mine/PRP does/VBZ not/RB work/VB on/IN cars/NNS ,/,","{D Now, } mine does not work on cars, /"
+sd,A,he/PRP just/RB piddles/VBZ on/IN this/DT and/CC that/DT ./.,he just piddles on this and that. /
+ba,B,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+sd,A,"But/CC he/PRP likes/VBZ to/TO have/VB a/DT spot/NN to/TO keep/VB all/DT of/IN his/PRP$ ,/, his/PRP$ piddling/NN things/NNS ./.","{C But } he likes to have a spot to keep all of [ his, + his ] piddling things. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+x,A,./.,<Laughter>.
+ba,B,"Well/UH ,/, that/DT 's/BES nice/JJ that/IN it/PRP 's/BES not/RB in/IN your/PRP$ house/NN ./.","{D Well, } that's nice that it's not in your house. /"
+aa,A,It/PRP really/RB is/VBZ ./.,It really is. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Because/RB ,/, you/PRP know/VBP ,/, they/PRP have/VBP a/DT lot/NN of/IN things/NNS of/IN their/PRP$ own/JJ ,/,","{C Because, } {D you know, } they have a lot of things of their own, /"
+%,A,"and/CC I/PRP ,/, you/PRP know/VBP ,/, I/PRP would/MD n't/RB mind/VB having/VBG ,/,","{C and } [ I, + {D you know, } I ] wouldn't mind having, - /"
+sd,A,"and/CC I/PRP at/IN one/CD time/NN was/VBD going/VBG to/TO fix/VB up/RP when/WRB one/NN of/IN my/PRP$ daughters/NNS left/VBN ,/, a/DT bedroom/NN to/TO where/WRB I/PRP had/VBD a/DT room/NN to/TO just/RB put/VB all/DT of/IN my/PRP$ craft/NN stuff/NN and/CC --/:","{C and } I at one time was going to fix up when one of my daughters left, a bedroom to where I had a room to just put all of my craft stuff and --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: sewing/NN machine/NN and/CC all/PDT that/DT kind/NN of/IN stuff/NN ,/,","-- sewing machine and all that kind of stuff, <lipsmack> /"
+%,A,"but/CC I/PRP ,/, someone/NN ,/,","{C but } [ I, + someone, ] - /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,A,it/PRP ended/VBD up/RP I/PRP got/VBD some/DT furniture/NN back/RB that/WDT one/CD of/IN them/PRP had/VBD moved/VBD out/RB or/CC something/NN ./.,it ended up I got some furniture back that one of them had moved out <laughter> or something. /
+b,B,Right/UH ./.,Right. /
+sd,A,So/RB I/PRP did/VBD n't/RB end/NN up/RP with/IN my/PRP$ vacant/JJ room/NN like/IN I/PRP had/VBD thought/VBN I/PRP would/MD ./.,{C So } I didn't end up with my vacant room like I had thought I would. /
+sd,B,"Well/UH ,/, we/PRP still/RB have/VBP a/DT ,/, a/DT son/NN and/CC daughter/NN in/IN college/NN that/WDT come/VBP home/RB ./.","{D Well, } we still have [ a, + a ] son and daughter in college that come home. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC the/DT other/JJ room/NN we/PRP use/VBP as/IN a/DT guest/NN bedroom/NN because/IN my/PRP$ husband/NN 's/POS family/NN come/VBP ./.,{C And } the other room we use as a guest bedroom because my husband's family <noise> come. /
+sd,B,His/PRP$ parents/NNS come/VBP,His parents come /
+sd,B,and/CC also/RB the/DT kids/NNS have/VBP friends/NNS who/WP come/VBP --/:,{C and } also the kids have friends who come --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: and/CC stay/VBP,-- and stay /
+sd,B,and/CC so/RB --/:,{C and so } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: it/PRP seems/VBZ like/IN it/PRP 's/BES always/RB used/VBN as/IN a/DT bedroom/NN ./.,-- it seems like it's always used as a bedroom. /
+%,A,"Well/UH ,/, I/PRP still/RB ,/,","{D Well, } I still, - /"
+sd,A,"all/PDT three/CD of/IN my/PRP$ daughters/NNS are/VBP married/JJ ,/,","all three of my daughters are married, /"
+h,A,"but/CC ,/, I/PRP do/VBP n't/RB know/VB ,/,","but, I don't know, /"
+sd,A,I/PRP just/RB still/RB have/VBP need/NN for/IN the/DT four/CD bedrooms/NNS just/RB having/VBG company/NN from/IN time/NN to/IN time/NN ./.,I just still have need for the four bedrooms just having company from time to time.
+aa,B,Right/UH ./.,Right. /
++,A,"And/CC some/DT of/IN them/PRP coming/VBG back/RB home/RB and/CC things/NNS ,/, you/PRP know/VBP ./.","{C And } some of them coming back home and things, {D you know. } /"
+aa,B,"Oh/UH ,/, I/PRP understand/VBP ./.","{F Oh, } I understand <<faint>>. /"
+sd,A,"And/CC we/PRP 've/VBP got/VBN grandchildren/NNS now/RB ,/,","{C And } we've got grandchildren now, /"
+sd,A,so/RB --/:,{C so } --
+%,B,"Well/UH ,/, we/PRP ,/,","{D Well, } we, -/"
++,A,"--/: when/WRB they/PRP come/VBP ,/, they/PRP have/VBP to/TO have/VB a/DT place/NN ./.","-- when they come, they have to have a place. /"
+aa,B,That/DT 's/BES true/JJ,<Laughter> That's true /
+sv,B,and/CC you/PRP do/VBP n't/RB want/VB them/PRP to/TO not/RB be/VB able/JJ to/TO come/VB because/IN there/EX 's/BES no/DT room/NN ./.,{C and } you don't want them to not be able to come because there's no room. /
+aa,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+aa,A,you/PRP sure/RB do/VBP n't/RB ./.,you sure don't. /
+sd,A,"At/IN times/NNS I/PRP keep/VBP thinking/VBG ,/, though/RB ,/, that/DT might/MD be/VB kind/RB of/RB nice/JJ ./.","At times I keep thinking, though, that might be kind of nice. /"
+sd,B,"Well/UH ,/,","{D Well, }"
+x,A,./.,<Laughter>.
++,B,"I/PRP c-/XX ,/, I/PRP have/VBP n't/RB reached/VBN that/DT point/NN yet/RB ./.","[ I c-, + I haven't ] reached that point yet. /"
+sd,B,I/PRP 've/VBP heard/VBN people/NNS say/VB that/DT ./.,I've heard people say that. /
+x,A,./.,<Laughter>.
+sd,B,"But/CC ,/, uh/UH ,/, my/PRP$ middle/JJ son/NN is/VBZ engaged/VBN ,/,","{C But, } {F uh, } my middle son is engaged, /"
+sd,B,my/PRP$ oldest/JJS son/NN has/VBZ been/VBN going/VBG with/IN the/DT same/JJ girl/NN for/IN a/DT while/NN ./.,my oldest son has been going with the same girl for a while. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,He/PRP 's/BES out/IN of/IN college/NN --/:,He's out of college --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC has/VBZ a/DT good/JJ job/NN ,/,","-- and has a good job, /"
+sd,B,so/RB he/PRP could/MD afford/VB to/TO get/VB married/VBN --/:,{C so } he could afford to get married --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: but/CC ,/, is/VBZ not/RB engaged/VBN yet/RB ,/,","-- but, is not engaged yet, /"
+sd,B,"and/CC my/PRP$ daughter/NN 's/HVS been/VBN going/VBG with/IN the/DT same/JJ boy/NN for/IN a/DT while/NN ,/,","{C and } my daughter's been going with the same boy for a while, /"
+sd,B,but/CC she/PRP 's/BES still/RB in/IN college/NN,{C but } she's still in college /
+sd,B,and/CC we/PRP 're/VBP just/RB as/RB happy/JJ for/IN her/PRP to/TO finish/VB --/:,{C and } we're just as happy for her to finish --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: her/PRP$ education/NN first/RB ./.,-- her education first. /
+sd,B,That/DT 's/BES --/:,That's --
+ba,A,"Well/UH ,/, I/PRP do/VBP n't/RB blame/VB you/PRP for/IN that/DT ./.","{D Well, } I don't blame you for that. /"
++,B,--/: what/WP she/PRP plans/VBZ to/TO do/VB ./.,-- what she plans to do. /
+sd,B,"So/RB ,/, I/PRP hope/VBP so/RB ./.","{D So, } I hope so. /"
+sd,A,"Well/UH ,/, I/PRP have/VBP the/DT three/CD girls/NNS","{D Well, } I have the three girls /"
+sd,A,and/CC then/RB we/PRP ended/VBD up/RP with/IN four/CD grandsons/NNS ./.,{C and then } we ended up with four grandsons. /
+ba,B,"Oh/UH ,/, ho-ho/UH ./.","{F Oh, } ho-ho. /"
+sd,A,And/CC little/JJ boys/NNS are/VBP around/IN the/DT house/NN --/:,{C And } little boys are around the house --
+ba,B,A/DT whole/JJ new/JJ world/NN ./.,A whole new world. /
++,A,--/: a/DT whole/JJ lot/NN more/RBR than/IN girls/NNS ./.,-- a whole lot more than girls. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP enjoy/VBP them/PRP coming/VBG ,/, but/CC for/IN short/JJ doses/NNS ./.","{C And, } {F uh, } I enjoy them coming, but for short doses <laughter>. /"
+aa,B,I/PRP can/MD understand/VB ./.,I can understand. /
+%,A,"It/PRP feels/VBZ ,/,","It feels, - /"
+sd,A,"after/IN they/PRP 've/VBP been/VBN here/RB ten/CD minutes/NNS ,/, they/PRP have/VBP already/RB explored/VBN the/DT entire/NN house/NN ,/,","after they've been here ten minutes, they have already explored the entire house, /"
+sd,A,they/PRP know/VBP everything/NN ./.,they know everything. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"But/CC ,/, they/PRP 're/VBP fun/JJ ./.","{C But, } they're fun. /"
+bf,B,So/RB you/PRP 're/VBP all/DT back/RB to/IN the/DT safety/NN catches/NNS and/CC the/DT whole/JJ nine/CD yards/NNS or/CC either/RB watching/VBG them/PRP every/DT minute/NN ./.,{C So } you're all back to the safety catches and the whole nine yards or either watching them every minute. /
+sd,A,"Well/UH ,/, I/PRP just/RB watch/VBP them/PRP ./.","{D Well, } I just watch them. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP d-/XX ,/, I/PRP never/RB did/VBD put/VB things/NNS up/IN when/WRB my/PRP$ kids/NNS were/VBD little/JJ","[ I d-, + I never did ] put things up when my kids were little /"
+sd,A,and/CC I/PRP have/VBP n't/RB with/IN them/PRP ./.,{C and } I haven't with them. /
+sd,A,I/PRP try/VBP to/TO teach/VB them/PRP not/RB to/TO get/VB into/IN things/NNS ./.,I try to teach them not to get into things. /
+sd,B,"Well/UH ,/, that/DT 's/BES the/DT same/JJ thing/NN that/WDT I/PRP did/VBD ./.","{D Well, } that's the same thing that I did. /"
+sd,B,I/PRP hope/VBP I/PRP 'll/MD be/VB able/JJ to/TO do/VB the/DT same/JJ with/IN grandchildren/NNS ./.,I hope I'll be able to do the same with <laughter> grandchildren. /
+sv,A,"I/PRP think/VBP that/IN once/IN you/PRP do/VBP that/DT ,/, your/PRP$ children/NNS kind/RB of/RB develop/VB the/DT same/JJ attitudes/NNS ./.","<Laughter> I think that once you do that, your children kind of develop the same attitudes. /"
+sd,A,At/IN least/JJS my/PRP$ daughters/NNS have/VBP ./.,At least my daughters have. /
+sd,A,They/PRP try/VBP to/TO teach/VB theirs/PRP not/RB to/TO get/VB into/IN things/NNS instead/IN of/IN having/VBG to/TO put/VB everything/NN up/RP ./.,They try to teach theirs not to get into things instead of having to put everything up. /
+sd,A,So/RB it/PRP 's/HVS worked/VBN pretty/RB well/RB ./.,{C So } it's worked pretty well. /
+%,A,"There/EX 's/BES ,/,","There's, - /"
+sd,A,I/PRP do/VBP n't/RB really/RB think/VB anything/NN 's/HVS been/VBN broken/VBN ./.,I don't really think anything's been broken. /
+sd,A,"Every/DT now/RB and/CC then/RB we/PRP have/VBP to/TO kind/RB of/RB go/VB and/CC say/VB ,/, now/RB do/VBP n't/RB bother/VB this/DT ,/, you/PRP know/VBP ./.","Every now and then we have to kind of go and say, now don't bother this <laughter>, {D you know. } /"
+b,B,"Um/UH ,/, uh-huh/UH ./.","{F Um, } uh-huh <<faint>>. /"
+sd,A,"But/CC ,/, all/DT in/IN all/DT ,/, they/PRP mind/VBP pretty/RB well/RB ./.","{C But, } all in all, they mind pretty well. /"
+%,A,"But/CC ,/, I/PRP guess/VBP most/JJS of/IN the/DT hou-/XX ,/,","{C But, } I guess most of the hou-, - /"
+%,A,"d-/XX ,/,","d-, - /"
+qw,A,what/WP kind/NN of/IN roof/NN does/VBZ your/PRP$ house/NN have/VB ?/.,what kind of roof does your house have? /
+sd,A,Here/RB I/PRP 'm/VBP getting/VBG off/IN the/DT subject/NN ./.,Here I'm getting off the subject. /
+%,B,"Well/UH ,/, we/PRP have/VBP ,/,","{D Well, } we have, -/"

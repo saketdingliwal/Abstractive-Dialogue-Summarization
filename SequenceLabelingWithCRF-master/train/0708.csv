@@ -1,0 +1,217 @@
+act_tag,speaker,pos,text
+qw,B,What/WDT kind/NN of/IN a/DT car/NN do/VBP you/PRP drive/VB now/RB ?/.,What kind of a car do you drive now? /
+sd,A,I/PRP drive/VBP a/DT Honda/NNP Prelude/NNP ./.,I drive a Honda Prelude. /
+bh,B,Do/VBP you/PRP ?/.,Do you? /
+sd,B,I/PRP drive/VBP a/DT Honda/NNP Accord/NNP ./.,I drive a Honda Accord. /
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah <laughter>. /"
+b,B,Yeah/UH ./.,Yeah <laughter>. /
+sd,A,I/PRP bought/VBD mine/PRP a/DT year/NN ago/RB,I bought mine a year ago /
+sd,A,so/RB I/PRP 'm/VBP not/RB buying/VBG a/DT car/NN any/DT time/NN soon/RB ./.,{C so } I'm not buying a car any time soon. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,me/PRP either/RB ./.,me either. /
+sd,B,"I/PRP just/RB bought/VBD mine/PRP ,/, uh/UH ,/,","I just bought mine, {F uh, } /"
+sd,B,it/PRP will/MD be/VB a/DT year/NN in/IN August/NNP ./.,it will be a year in August. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP love/VBP it/PRP though/RB ./.,I love it though. /
+sd,B,I/PRP love/VBP Hondas/NNPS ./.,I love Hondas. /
+b,A,Yeah/UH ./.,Yeah. /
+%,A,"It/PRP ,/,","It, -/"
+sd,B,I/PRP think/VBP I/PRP found/VBN my/PRP$ car/NN ./.,I think I found my car. /
+sd,A,"Well/UH ,/, I/PRP ,/, I/PRP like/VBP where/WRB all/PDT the/DT controls/NNS are/VBP --/:","{D Well, } [ I, + I ] like where all the controls [ [ are -- +"
+b,B,Right/UH ./.,Right. /
++,A,"--/: they/PRP 're/VBP ,/, they/PRP 're/VBP in/IN good/JJ spots/NNS","-- they're, ] + they're ] in good spots /"
+bh,B,"Oh/UH ,/, really/UH ,/,","{F Oh, } really, /"
+ny,A,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP have/VBP a/DT standard/JJ ./.,I have a standard. /
+%,A,"But/CC ,/, um/UH ,/,","{C But, } {F um, } - /"
+%,A,"I/PRP ,/,","I, - /"
+sd,A,"it/PRP 's/BES ,/, an/DT it/PRP 's/BES supposedly/RB real/RB reliable/JJ","[ it's, + {C an } it's ] supposedly real reliable /"
+sd,A,the/DT only/JJ thing/NN I/PRP 've/VBP ever/RB heard/VBN about/IN Hondas/NNPS is/VBZ that/IN the/DT breaks/NNS go/VBP out/RP first/JJ ./.,the only thing I've ever heard about Hondas is that the breaks go out first. /
+bh,B,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+ny,A,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP had/VBD n't/RB heard/VBN that/DT ./.,I hadn't heard that. /
+b,A,Yeah/UH ./.,Yeah. /
+qw,B,What/WP did/VBD you/PRP have/VBP before/IN you/PRP bought/VBD that/DT ./.,What did you have before you bought that. /
+sd,A,I/PRP had/VBD a/DT Buick/NNP Regal/NNP ./.,I had a Buick Regal. /
+bh,B,Did/VBD you/PRP ?/.,Did you? /
+ny,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP had/VBD ,/, uh/UH ,/, a/DT Mazda/NNP R/NNP X/NNP Seven/NNP before/IN that/DT","I had, {F uh, } a Mazda R X Seven before that /"
+sd,B,and/CC that/DT was/VBD the/DT worse/^JJS car/NN I/PRP 've/VBP ever/RB driven/VBN in/IN my/PRP$ life/NN ./.,{C and } that was the worse car I've ever driven in my life. /
+sd,A,"The/DT Buick/NNP was/VBD ,/, was/VBD great/JJ ./.","The Buick [ was, + was ] great. /"
+sd,A,It/PRP was/VBD nine/CD years/NNS old/JJ,It was nine years old /
+sd,A,"and/CC it/PRP ,/,","{C and } it,"
+bh,B,Really/UH ?/.,Really? /
++,A,was/VBD still/RB going/VBG strong/RB ./.,was still going strong. /
+sd,A,"The/DT only/JJ problems/NNS I/PRP had/VBD with/IN it/PRP in/IN the/DT nine/CD years/NNS that/IN I/PRP owned/VBD it/PRP ,/, I/PRP had/VBD to/TO replace/VB the/DT compressor/NN when/WRB it/PRP was/VBD about/RB seven/CD years/NNS old/JJ ./.","The only problems I had with it in the nine years that I owned it, I had to replace the compressor when it was about seven years old. /"
+bh,B,Really/UH ?/.,Really? /
+sd,A,"And/CC that/DT was/VBD the/DT only/RB major/JJ problem/NN that/WDT I/PRP had/VBD ,/, I/PRP mean/VBP ,/,","{C And } that was the only major problem that I had, {E I mean, } /"
+sd,A,I/PRP had/VBD like/UH little/RB piddly/JJ things/NNS like/IN --/:,I had {D like } little piddly things like --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: I/PRP had/VBD to/TO replace/VB the/DT muffler/NN,-- I had to replace the muffler /
+sd,A,and/CC I/PRP had/VBD replaced/VBN the/DT tires/NNS,{C and } I had replaced the tires /
+sd,A,"and/CC ,/, uh/UH ,/, seems/VBZ like/IN it/PRP had/VBD a/DT radiator/NN leak/NN once/RB ./.","{C and, } {F uh, } seems like it had a radiator leak once. /"
+sd,A,"But/CC I/PRP never/RB had/VBD any/DT major/JJ anything/NN ,/,","{C But } I never had any major anything,"
+b,B,Right/UH ./.,Right. /
++,A,other/JJ than/IN the/DT compressor/NN ./.,other than the compressor. /
+sd,B,I/PRP really/RB never/RB had/VBD anything/NN major/JJ with/IN my/PRP$ Mazda/NNP,I really never had anything major with my Mazda /
+sd,B,but/CC it/PRP was/VBD a/DT standard/JJ also/RB,{C but } it was a standard also /
+sd,B,"and/CC the/DT clutch/NN went/VBD out/RP on/IN it/PRP toward/IN the/DT end/NN ,/,","{C and } the clutch went out on it toward the end, /"
+sd,B,I/PRP had/VBD it/PRP five/CD years/NNS,I had it five years /
+sd,B,"and/CC the/DT last/JJ year/NN ,/, last/JJ two/CD years/NNS it/PRP seemed/VBD to/TO go/VB out/RP really/RB easily/RB ./.","{C and } the [ last year, + last two years ] it seemed to go out really easily. /"
+sd,B,I/PRP think/VBP it/PRP went/VBD out/RP twice/RB in/IN two/CD years/NNS,I think it went out twice in two years /
+sv,B,"and/CC that/DT 's/BES ,/, that/DT 's/BES a/DT lot/NN","{C and } [ that's, + that's ] a lot /"
+sv,B,it/PRP should/MD n't/RB go/VB out/RP that/DT much/JJ ./.,it shouldn't go out that much. /
+aa,A,Huh-uh/UH ./.,Huh-uh. /
+sd,B,And/CC so/RB I/PRP went/VBD ahead/RB and/CC bought/VBD another/DT standard/JJ when/WRB I/PRP bought/VBD the/DT Honda/NNP,{C And so } I went ahead and bought another standard when I bought the Honda /
+sd,B,but/CC I/PRP do/VBP n't/RB think/VB I/PRP 'm/VBP going/VBG to/TO do/VB that/DT again/RB ./.,{C but } I don't think I'm going to do that again. /
+sd,B,I/PRP think/VBP I/PRP 'm/VBP going/VBG back/RB to/IN automatic/JJ now/RB ./.,I think I'm going back to automatic now. /
+sd,A,"Well/UH ,/, I/PRP never/RB ,/, well/UH ,/,","{D Well, } I never, {D well, } - /"
+sd,A,I/PRP kind/RB of/RB know/VBP how/WRB to/TO drive/VB standard/JJ,I kind of know how to drive standard /
+sd,A,but/CC I/PRP 've/VBP never/RB owned/VBN one/CD,{C but } I've never owned one /
+sd,A,"so/RB I/PRP had/VBD n't/RB ,/, I/PRP do/VBP n't/RB drive/VB one/CD a/DT lot/NN ./.","{C so } [ I hadn't, + I don't ] drive one a lot. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"So/RB ,/, I/PRP do/VBP n't/RB feel/VB comfortable/JJ in/IN traffic/NN with/IN it/PRP ./.","{D So, } I don't feel comfortable in traffic with it. /"
+b,B,Right/UH ./.,Right. /
+sd,A,And/CC for/IN everything/NN I/PRP 've/VBP heard/VBN it/PRP 's/BES a/DT lot/RB easier/JJR to/TO sell/VB an/DT automatic/NN ./.,{C And } for everything I've heard it's a lot easier to sell an automatic. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,it/PRP is/VBZ ./.,it is. /
+sd,A,"And/CC ,/,","[ {C And, } +"
+aa,B,That/DT 's/BES true/JJ ./.,That's true. /
++,A,and/CC resale/NN value/NN is/VBZ really/RB important/JJ to/IN me/PRP ./.,{C and } ] resale value is really important to me <laughter>. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,it/PRP is/VBZ me/PRP too/RB,it is me too /
+sd,B,that/DT 's/BES why/WRB I/PRP got/VBD the/DT Honda/NNP ./.,that's why I got the Honda. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,Hondas/NNPS have/VBP great/JJ resale/NN value/NN ./.,Hondas have great resale value. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,The/DT Mazda/NNP definitely/RB did/VBD not/RB ./.,The Mazda definitely did not <laughter>. /
+sd,B,Not/RB at/IN all/DT ./.,Not at all. /
+sd,B,They/PRP 're/VBP worse/JJR than/IN American/JJ cars/NNS I/PRP think/VBP or/CC just/RB as/RB bad/JJ as/IN far/RB as/IN resale/NN goes/VBZ ./.,They're worse than American cars I think or just as bad as far as resale goes. /
+sd,A,"I/PRP did/VBD pretty/RB well/RB with/IN my/PRP$ ,/, uh/UH ,/, Regal/NNP because/IN it/PRP was/VBD in/IN really/RB good/JJ shape/NN","I did pretty well with my, {F uh, } Regal because it was in really good shape /"
+sd,A,"but/CC ,/,","{C but, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"it/PRP still/RB looked/VBD real/RB nice/JJ ,/,","it still looked real nice, /"
+sd,A,"the/DT ,/, the/DT interior/NN was/VBD still/RB really/RB nice/JJ ,/,","[ the, + the ] interior was still really nice, /"
+sd,A,there/RB was/VBD n't/RB cracks/NNS all/DT over/IN the/DT dash/NN board/NN and/CC stuff/NN ./.,there wasn't cracks all over the dash board and stuff. /
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC it/PRP had/VBD some/DT ,/, some/DT nice/JJ features/NNS ./.","{C And } it had [ some, + some ] nice features. /"
+sd,A,"So/RB I/PRP ended/VBD up/RP okay/RB with/IN the/DT Buick/NNP ,/,","{C So } I ended up okay with the Buick, /"
+ba,B,Good/UH ./.,Good. /
+sd,A,"and/CC I/PRP anticipate/VBP the/DT same/JJ thing/NN with/IN the/DT Honda/NNP whenever/WRB I/PRP decide/VBP to/TO sell/VB it/PRP ,/,","{C and } I anticipate the same thing with the Honda whenever I decide to sell it, /"
+sd,A,"of/IN course/NN ,/, I/PRP may/MD never/RB sell/VB it/PRP ,/,","of course, I may never sell it <laughter>, /"
+b,B,Right/UH ./.,Right. /
+sd,A,I/PRP may/MD drive/VB it/PRP until/IN it/PRP 's/BES dead/JJ,I may drive it until it's dead /
+%,A,"but/CC ,/,","{C but, } -/"
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"That/DT 's/BES what/WP I/PRP did/VBD with/IN the/DT Mazda/NNP ,/, drive/VB it/PRP until/IN the/DT ,/, until/IN the/DT clutch/NN went/VBD out/RP and/CC the/DT wheels/NNS fell/VBD off/RB ,/,","That's what I did with the Mazda, drive it [ until the, + until the ] clutch went out and the wheels fell off, /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"so/UH ,/, probably/RB what/WP I/PRP 'll/MD do/VB again/RB ./.","{D so, } probably what I'll do again. -/"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,But/CC I/PRP really/RB like/VBP the/DT Hondas/NNPS ./.,{C But } I really like the Hondas. /
+sd,B,I/PRP like/VBP foreign/JJ cars/NNS --/:,I like foreign cars --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: a/DT lot/NN ./.,-- a lot. /
+%,A,"Well/UH ,/,","{D Well, } -/"
+sd,B,I/PRP looked/VBD at/IN the/DT Mitsubishi/NNP Galant/NNP ./.,I looked at the Mitsubishi Galant. /
+sd,B,"I/PRP was/VBD looking/VBG for/IN a/DT four/CD door/NN car/NN having/VBG driven/VBN the/DT R/NNP X/NNP Seven/NNP so/RB long/JJ ,/,","I was looking for a four door car having driven the R X Seven so long, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,and/CC it/PRP was/VBD so/RB small/JJ,{C and } it was so small /
+sd,B,and/CC it/PRP 's/BES really/RB impractical/JJ ./.,{C and } it's really impractical. /
+sd,B,"So/RB ,/, I/PRP wanted/VBD something/NN with/IN a/DT real/JJ trunk/NN ,/, and/CC four/CD doors/NNS something/NN easy/JJ to/TO get/VB in/IN and/CC out/IN of/IN","{C So, } I wanted something with a real trunk, and four doors something easy to get in and out of /"
+sd,B,and/CC I/PRP looked/VBD at/IN the/DT Galant/NNP,{C and } I looked at the Galant /
+sd,B,and/CC those/DT were/VBD really/RB nice/JJ,{C and } those were really nice /
+sd,B,and/CC I/PRP can/MD get/VB them/PRP for/IN a/DT great/JJ price/NN ./.,{C and } I can get them for a great price. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"But/CC I/PRP found/VBD it/PRP hard/JJ to/TO deal/VB with/IN the/DT ,/, the/DT dealership/NN I/PRP was/VBD going/VBG through/IN ./.","{C But } I found it hard to deal with [ the, + the ] dealership I was going through. /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,"So/UH ,/, that/DT 's/BES how/WRB I/PRP ended/VBD up/RP with/IN a/DT Honda/NNP ./.","{D So, } that's how I ended up with a Honda. /"
+sd,A,I/PRP was/VBD n't/RB even/RB looking/VBG for/IN a/DT car/NN when/WRB I/PRP bought/VBD this/DT car/NN ./.,I wasn't even looking for a car when I bought this car. /
+sd,A,"I/PRP ,/, uh/UH ,/, I/PRP was/VBD thinking/VBG about/IN buying/VBG a/DT Prelude/NNP from/IN a/DT friend/NN who/WP was/VBD moving/VBG to/IN New/NNP York/NNP or/CC something/NN","[ I, + {F uh, } I ] was thinking about buying a Prelude from a friend who was moving to New York or something /"
+sd,A,so/RB and/CC she/PRP was/VBD going/VBG to/TO sell/VB her/PRP$ car/NN because/IN she/PRP did/VBD n't/RB need/VB it/PRP anymore/RB,[ {C so } + {C and } ] she was going to sell her car because she didn't need it anymore /
+sd,A,and/CC it/PRP was/VBD only/RB like/UH a/DT year/NN old/JJ,{C and } it was only like a year old /
+sd,A,"and/CC I/PRP had/VBD never/RB driven/VBN ,/, uh/UH ,/, a/DT Prelude/NNP ./.","{C and } I had never driven, {F uh, } a Prelude. /"
+sd,A,"So/RB ,/, I/PRP went/VBD to/IN a/DT dealership/NN because/IN they/PRP had/VBD like/UH ,/, uh/UH ,/, the/DT same/JJ year/NN and/CC same/JJ model/NN ,/,","{C So, } I went to a dealership because they had {D like, } {F uh, } the same year and same model,"
+b,B,Right/UH ./.,Right. /
++,A,of/IN Prelude/NNP on/IN their/PRP$ used/JJ car/NN lot/NN,of Prelude on their used car lot /
+sd,A,and/CC I/PRP went/VBD and/CC I/PRP test/GW drove/^VBD it/PRP,{C and } I went and I test drove it /
+sd,A,"and/CC ,/, you/PRP know/VBP ,/, I/PRP just/RB fell/VBD in/IN love/NN ,/,","{C and, } {D you know, } I just fell in love,"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,"with/IN this/DT brand/RB new/JJ white/JJ Prelude/NNP ,/, uh/UH ,/, you/PRP know/VBP ,/,","with this brand new white Prelude, {F uh, } {D you know, }"
+sv,B,They/PRP 're/VBP nice/JJ I/PRP think/VBP ./.,They're nice I think. /
++,A,two/CD liter/NN S/NNP I/NNP with/IN the/DT sun/NN roof/NN and/CC the/DT moon/NN roof/NN,two liter S I with the sun roof and the moon roof /
+sd,A,"and/CC I/PRP ,/,","{C and } I,"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,bought/VBN it/PRP loaded/JJ ./.,bought it loaded. /
+aa,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,"I/PRP have/VBP to/TO have/VB them/PRP loaded/JJ ,/,","I have to have them loaded, /"
+%,A,"Oh/UH ,/,","{F Oh, } /"
+sd,B,"um/UH ,/, I/PRP love/VBP all/PDT those/DT little/JJ things/NNS that/WDT you/PRP do/VBP n't/RB need/VB","{F um, } I love all those little things that you don't need /"
+sv,B,but/CC they/PRP 're/VBP so/RB wonderful/JJ ./.,{C but } they're so wonderful. /
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,I/PRP went/VBD there/RB looking/VBG at/IN a/DT used/VBN car/NN,I went there looking at a used car /
+sd,A,and/CC two/CD days/NNS later/RB I/PRP bought/VBD this/DT car/NN ./.,{C and } two days later I bought this car. /
+x,B,./.,<Laughter>.
+sd,A,"I/PRP felt/VBD like/IN ,/, I/PRP felt/VBD like/IN that/DT was/VBD the/DT worst/JJS impulse/NN ,/, that/DT was/VBD ,/, that/DT was/VBD largest/JJS impulse/NN that/WDT I/PRP ,/,","[ I felt like, + I felt like ] [ that was the worst impulse, + [ that was, + that was ] largest impulse ] [ that I, +"
+x,B,./.,<Laughter>.
++,A,that/WDT I/PRP had/VBD ever/RB made/VBN ./.,that I ] had ever made. /
+sd,A,"The/DT oth/JJ ,/, the/DT two/CD ,/,","[ The oth-, + the two,"
+ba,B,I/PRP understand/VBP ./.,I understand. /
++,A,"other/JJ things/NNS that/WDT I/PRP bought/VBD on/IN impulse/NN are/VBP a/DT V/NN C/NN R/NN and/CC a/DT washer/NN ,/,","other ] things that I bought on impulse are a V C R and a washer <laughter>,"
+x,B,./.,<Laughter>.
++,A,and/CC dryer/NN ./.,and dryer. /
+sd,A,I/PRP go/VBP for/IN the/DT big/JJ stuff/NN ./.,I go for the big stuff. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP noticed/VBD ./.,I noticed <laughter>. /
+sd,B,Mine/PRP was/VBD definitely/RB not/RB impulse/NN,Mine was definitely not impulse /
+sd,B,I/PRP really/RB needed/VBD a/DT new/JJ car/NN ./.,I really needed a new car. /
+sd,B,"Mine/PRP was/VBD just/RB ,/, it/PRP was/VBD getting/VBG worn/VBN out/RP I/PRP guess/VBP from/IN being/VBG a/DT sports/NNS car/NN ./.","Mine was just, it was getting worn out I guess from being a sports car. /"
+sd,B,"I/PRP drove/VBD it/PRP kind/RB of/RB hard/RB ,/,","I drove it kind of hard, /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,and/CC I/PRP got/VBD it/PRP right/JJ after/IN high/JJ school/NN ./.,{C and } I got it right after high school. /
+sd,B,"So/RB ,/, by/IN the/DT time/NN I/PRP traded/VBD it/PRP in/IN it/PRP was/VBD ready/JJ ./.","{C So, } by the time I traded it in it was ready. /"
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP got/VBD ,/,","[ I got, +"
++,A,I/PRP got/VBD my/PRP$ Buick/NNP as/IN a/DT high/JJ school/NN graduation/NN gift/NN ./.,I got ] my Buick as a high school graduation gift. /
+bh,B,Did/VBD you/PRP ?/.,Did you? /
+ny,A,Yeah/UH ./.,Yeah. /
+sd,A,"But/CC I/PRP ,/, I/PRP guess/VBP this/DT was/VBD n't/RB really/RB an/DT impulse/NN ,/, I/PRP mean/VBP ,/,","{C But } [ I, + I ] guess this wasn't really an impulse, {E I mean, } /"
+sd,A,"buying/VBG it/PRP right/RB then/RB and/CC ,/, you/PRP know/VBP ,/, right/RB quickly/RB was/VBD kind/RB of/RB impulsive/JJ","buying it right then and, {D you know, } right quickly was kind of impulsive /"
+sd,A,but/CC I/PRP 'd/MD been/VBN thinking/VBG about/IN buying/VBG a/DT new/JJ car/NN for/IN about/RB three/CD years/NNS,{C but } I'd been thinking about buying a new car for about three years /
+sd,A,and/CC I/PRP was/VBD just/RB scared/VBN to/TO ./.,{C and } I was just scared to. /
+b,B,Right/UH ./.,Right. /
+sd,A,I/PRP was/VBD scared/VBN to/TO start/VB taking/VBG on/IN payments/NNS because/IN the/DT Buick/NNP was/VBD long/JJ since/IN paid/VBN for/IN ./.,I was scared to start taking on payments because the Buick was long since paid for. /
+aa,B,Right/UH ./.,Right. /
+sd,B,That/DT 's/BES the/DT same/JJ with/IN me/PRP ./.,That's the same with me. /
+qy,B,Would/MD you/PRP ever/RB buy/VB a/DT used/JJ car/NN for/IN a/DT new/JJ car/NN for/IN yourself/PRP ?/.,Would you ever buy a used car for a new car for yourself? /
+br,A,"Buy/VB a/DT ,/, wha/WP ,/, ar/VBP ,/, you/PRP ,/,","[ Buy a, + [ wha-, ar-, you, + ]"
+%,B,"Like/UH ,/,","{D Like, } -/"
++,A,buy/VB a/DT used/VBN car/NN ?/.,buy a ] used car? /
+aa,B,Right/UH ./.,Right. /
+na,A,Sure/UH ./.,Sure. /
+sd,B,"I/PRP ,/, I/PRP was/VBD going/VBG to/TO buy/VB one/CD once/RB","[ I, + I ] was going to buy one once /"
+sd,B,"but/CC I/PRP just/RB ,/, I/PRP worry/VBP about/IN who/WP 's/HVS driven/VBN them/PRP and/CC what/WP they/PRP 've/VBP been/VBN through/IN and/CC the/DT warranties/NNS and/CC things/NNS like/IN that/DT ./.","{C but } [ I just, + I ] worry about who's driven them and what they've been through and the warranties and things like that. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Just/RB ,/, I/PRP ca/MD n't/RB seem/VB to/TO get/VB over/IN that/DT ./.","Just, I can't seem to get over that. /"
+sd,B,That/DT just/RB bothers/VBZ me/PRP,That just bothers me <laughter> /
+sd,B,I/PRP do/VBP n't/RB know/VB why/WRB ./.,I don't know why. /
+sd,A,"Well/UH ,/, um/UH ,/, like/IN on/IN Hondas/NNPS they/PRP ,/,","{D Well, } {F um, } like on Hondas they, - /"
+sd,A,"supposedly/RB ,/, the/DT maintenance/NN records/NNS was/VBD supposed/VBN to/TO be/VB registered/JJ with/IN Honda/NNP or/CC whatever/WDT","supposedly, the maintenance records was supposed to be registered with Honda or whatever /"
+sd,A,and/CC you/PRP can/MD request/VB whatever/WDT maintenance/NN records/NNS exist/VBP on/IN cars/NNS,{C and } you can request whatever maintenance records exist on cars /
+sd,A,and/CC you/PRP can/MD have/VB them/PRP checked/VBN out/RP by/IN mechanics/NNS and/CC stuff/NN ./.,{C and } you can have them checked out by mechanics and stuff. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,that/DT 's/BES true/JJ ./.,that's true. /
+sd,A,I/PRP mean/VBP they/PRP ca/MD n't/RB stop/VB you/PRP from/IN doing/VBG it/PRP ./.,{E I mean } they can't stop you from doing it. /
+bf,B,Hoping/VBG that/IN they/PRP do/VBP go/VB to/IN a/DT Honda/NNP dealership/NN to/TO get/VB them/PRP serviced/VBN ./.,Hoping that they do go to a Honda dealership to get them serviced. /
+aa,A,Yeah/UH ./.,Yeah. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"Well/UH ,/, and/CC even/RB if/IN they/PRP did/VBD n't/RB ,/, you/PRP can/MD still/RB get/VB a/DT good/JJ idea/NN from/IN a/DT ,/, if/IN you/PRP can/MD get/VB a/DT good/JJ mechanic/NN to/TO ,/,","{D Well, } {C and } even if they didn't, you can still get a good idea [ from a, + ] if you can get a good mechanic to,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,check/VB it/PRP over/RP real/RB carefully/RB and/CC check/VB the/DT block/NN and/CC everything/NN ./.,check it over real carefully and check the block and everything. /
+aa,B,That/DT 's/BES true/JJ ./.,That's true. /
+%,A,So/UH ./.,{D So. } -/
+sd,B,"Well/UH ,/, I/PRP guess/VBP that/IN 's/BES all/DT ./.","{D Well, } I guess that's all. /"
+aa,A,Okay/UH ./.,Okay. /
+fc,A,"Well/UH ,/, I/PRP enjoyed/VBD talking/VBG to/IN you/PRP ./.","{D Well, } I enjoyed talking to you. /"
+fc,B,I/PRP enjoyed/VBD talking/VBG to/IN you/PRP ./.,I enjoyed talking to you. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

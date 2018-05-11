@@ -1,0 +1,93 @@
+act_tag,speaker,pos,text
+%,B,"What/WP ,/, what/WP ,/,","[ What, + what, ] - /"
+qw,B,how/WRB do/VBP you/PRP get/VB your/PRP$ main/JJ source/NN of/IN current/JJ events/NNS ?/.,how do you get your main source of current events? /
+sd,A,"Well/UH ,/, uh/UH ,/, until/IN recently/RB I/PRP was/VBD taking/VBG the/DT WALL/NNP STREET/NNP JOURNAL/NNP ,/,","{D Well, } {F uh, } until recently I was taking the WALL STREET JOURNAL, /"
+sd,A,"and/CC I/PRP thought/VBD that/DT was/VBD a/DT good/JJ way/NN ,/,","{C and } I thought that was a good way, /"
+sd,A,but/CC I/PRP have/VBP about/RB five/CD different/JJ magazines/NNS that/WDT I/PRP get/VBP that/DT keeps/VBZ me/PRP up/RP on/IN things/NNS ./.,{C but } I have about five different magazines that I get that keeps me up on things. /
+sd,A,"You/PRP know/VBP ,/, it/PRP 's/BES a/DT week/NN or/CC two/CD late/JJ ,/,","{D You know, } it's a week or two late, /"
+sd,A,"but/CC ,/, uh/UH ,/, that/DT 's/BES how/WRB I/PRP 'm/VBP staying/VBG up/RP ./.","{C but, } {F uh, } that's how I'm staying up. /"
+sd,B,I/PRP either/RB watch/VBP the/DT news/NN,I either watch the news /
+sd,B,"or/CC ,/, or/CC occasionally/RB I/PRP 'll/MD read/VB the/DT paper/NN ./.","[ {C or, } + {C or } ] occasionally I'll read the paper. /"
+qy,A,"Uh/UH ,/, do/VBP you/PRP like/VBP how/WRB it/PRP 's/BES presented/VBN on/IN the/DT news/NN ?/.","{F Uh, } do you like how it's presented on the news? /"
+nn,B,"Um/UH ,/, no/UH ,/,","{F Um, } no, /"
+sv,B,I/PRP think/VBP the/DT media/NN 's/BES a/DT little/JJ bit/NN too/RB manipulative/JJ ./.,I think the media's a little bit too manipulative. /
+sv,B,"They/PRP allow/VBP you/PRP ,/, uh/UH ,/,","They allow you, {F uh, } - /"
+sv,B,"they/PRP ,/, they/PRP try/VBP to/TO lead/VB you/PRP too/RB much/RB ,/, I/PRP believe/VBP ,/,","[ they, + they ] try to lead you too much, I believe, /"
+sv,B,"and/CC sometimes/RB they/PRP 're/VBP not/RB very/RB open/JJ ,/,","{C and } sometimes they're not very open, /"
+sd,B,"I/PRP ,/, I/PRP do/VBP n't/RB know/VB ,/,","[ I, + I don't ] know, /"
+sv,B,I/PRP think/VB they/PRP 're/VBP a/DT little/JJ bit/NN biased/JJ sometimes/RB ./.,I think they're a little bit biased sometimes. /
+sd,B,"Like/IN for/IN example/NN ,/, the/DT Kennedy/NNP ,/, the/DT Kennedy/NNP rape/NN case/NN ./.","Like for example, [ the Kennedy, + the Kennedy ] rape case. /"
+sv,B,"The/DT coverage/NN on/IN that/DT was/VBD ,/, you/PRP know/VBP ,/,","The coverage on that was, {D you know, } - /"
+sd,B,"when/WRB it/PRP first/RB happened/VBD it/PRP was/VBD ,/, he/PRP was/VBD guilty/JJ ,/, he/PRP was/VBD guilty/JJ ,/, he/PRP was/VBD guilty/JJ ./.","when it first happened it was, he was guilty, he was guilty, he was guilty. /"
+sv,B,"You/PRP know/VBP ,/, they/PRP try/VBP to/TO have/VB you/PRP form/VBP opinions/NNS or/CC whatever/WP ,/,","{D You know, } they try to have you form opinions or whatever, /"
+sd,B,"and/CC then/RB I/PRP ,/, I/PRP did/VBD n't/RB like/VB the/DT thi-/NNS ,/, the/DT things/NNS that/WDT were/VBD going/VBG on/RP when/WRB we/PRP had/VBD Desert/NNP Storm/NNP and/CC stuff/NN like/IN that/DT ./.","{C and then } [ I, + I ] didn't like [ the thi-, + the things ] that were going on when we had Desert Storm and stuff like that. /"
+sv,B,"You/PRP know/VBP ,/, basically/RB I/PRP ,/, I/PRP ,/, I/PRP think/VBP they/PRP do/VBP n't/RB present/VB the/DT ,/, the/DT whole/JJ sides/NNS of/IN ,/, of/IN everything/NN ./.","{D You know, } basically [ [ I, + I, ] + I ] think they don't present [ the, + the ] whole sides [ of, + of ] everything. /"
+bf,A,"So/RB ,/, it/PRP ,/, it/PRP makes/VBZ you/PRP feel/VB like/IN they/PRP 're/VBP ,/, uh/UH ,/, wanting/VBG you/PRP to/TO take/VB their/PRP$ opinion/NN ./.","{C So, } [ it, + it ] makes you feel like they're, {F uh, } wanting you to take their opinion. /"
+aa,B,Right/UH ./.,Right. /
+sd,B,"It/PRP 's/BES ,/, it/PRP 's/BES ,/, it/PRP 's/BES ,/, instead/IN of/IN reporting/VBG the/DT news/NN ,/, it/PRP 's/BES more/RBR like/IN an/DT editorial/NN ,/, I/PRP believe/VBP --/:","[ [ [ It's, + it's, ] + it's, ] instead of reporting the news, + it's ] more like an editorial, I believe --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: on/IN a/DT lot/NN of/IN issues/NNS ./.,-- on a lot of issues. /
+sd,A,"I/PRP 've/VBP noticed/VBN that/DT too/RB ,/,","I've noticed that too, /"
+qy,A,"and/CC it/PRP 's/BES kind/RB of/RB distressing/JJ ,/, is/VBZ n't/RB it/PRP ?/.","{C and } it's kind of distressing, isn't it? /"
+ny,B,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC they/PRP just/RB ,/, I/PRP 've/VBP noticed/VBN that/IN they/PRP do/VBP it/PRP just/RB with/IN subtle/JJ little/JJ words/NNS ,/, uh/UH ,/, usually/RB ,/, uh/UH ,/, just/RB that/WDT sway/VBP the/DT whole/JJ ,/, uh/UH ,/, report/NN that/WDT ,/, you/PRP know/VBP ,/, by/IN just/RB a/DT couple/NN of/IN words/NNS ./.","{C And } [ they just, + I've noticed that they do it just ] with subtle little words, {F uh, } usually, {F uh, } just that sway the whole, {F uh, } report [ that, + ] {D you know, } by just a couple of words. /"
+sd,B,"Well/UH ,/, when/WRB ,/, when/WRB I/PRP was/VBD in/IN school/NN ,/, I/PRP ,/, um/UH ,/, I/PRP was/VBD a/DT communications/NNS major/NN ,/,","{D Well, } [ when, + when ] I was in school, [ I, + {F um, } I ] was a communications major, /"
+sd,B,"so/RB I/PRP ,/, I/PRP ,/, I/PRP 'm/VBP well/RB aware/JJ of/IN the/DT little/JJ subtle/JJ words/NNS and/CC persuasive/JJ speaking/NN ,/, and/CC ,/, and/CC so/RB forth/RB ./.","{C so } [ [ I, + I, ] + I'm ] well aware of the little subtle words and persuasive speaking, [ and, + and ] so forth <laughter>. /"
+bf,A,"So/UH ,/, communications/NNS ,/, huh/UH ./.","{C So, } communications, {F huh. } /"
+qy,A,Were/VBD you/PRP looking/VBG into/IN becoming/VBG a/DT reporter/NN,Were you looking into becoming a reporter /
+%,A,"or/CC ,/,","{C or, } -/"
+na,B,"I/PRP was/VBD ,/,","I was, /"
+sd,B,"and/CC ,/, um/UH ,/, I/PRP we/VBD ,/, I/PRP ventured/VBD off/IN in/IN a/DT whole/JJ entire/JJ different/JJ field/NN ,/, field/NN ./.","{C and, } {F um, } [ I we-, + I ventured ] off in a whole entire different [ field, + field. ] /"
+sd,B,I/PRP went/VBD with/IN the/DT state/NN ./.,I went with the state. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP ,/, um/UH ,/, went/VBD with/IN the/DT Department/NNP of/IN State/NNP Treasurer/NNP in/IN retirement/NN disability/NN ,/,","{C And, } {F uh, } I, {F um, } went with the Department of State Treasurer in retirement disability, /"
+sd,B,calculate/VB benefits/NNS ./.,calculate benefits. /
+ba,A,I/PRP bet/VBP that/DT 's/BES a/DT interesting/JJ job/NN ./.,I bet that's a interesting job. /
+aa,B,Yeah/UH ./.,Yeah. /
+%,B,"So/RB the/DT ,/,","{C So } the, - /"
+sd,B,"so/RB ,/, and/CC ,/, you/PRP know/VBP ,/, working/VBG ,/, you/PRP know/VBP ,/, working/VBG for/IN state/NN government/NN you/PRP hear/VBP all/RB about/IN current/JJ events/NNS ,/, about/IN things/NNS going/VBG on/IN within/IN the/DT state/NN itself/PRP ./.","[ {C so, } + {C and, } ] {D you know, } [ working, + {D you know, } working ] for state government you hear all about current events, about things going on within the state itself. /"
+sd,B,"So/RB that/DT ,/, that/DT 's/BES another/DT source/NN that/WDT I/PRP ,/, I/PRP ,/, where/WRB I/PRP keep/VBP up/RP with/IN current/JJ events/NNS","{C So } [ that, + that's ] another source [ that [ I, + I, ] + where I ] keep up with current events /"
+%,B,"and/CC ,/,","{C and, } -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,there/EX 's/BES one/NN that/IN I/PRP 'm/VBP reading/VBG right/RB now/RB ./.,there's one that I'm reading right now. /
+sd,A,It/PRP 's/BES INFORMATION/NNP WEEK/NNP ./.,It's INFORMATION WEEK. /
+sd,A,"It/PRP says/VBZ A/NNP T/NNP and/CC T/NNP to/TO account/VB for/IN the/DT ,/, the/DT benefits/NNS that/WDT the/DT A/NNP I/NNP C/NNP P/NNP A/NNP now/RB says/VBZ you/PRP have/VBP to/TO show/VB as/IN a/DT liability/NN ./.","It says A T and T to account for [ the, + the ] benefits that the A I C P A now says you have to show as a liability. /"
+sd,A,"It/PRP 's/BES going/VBG to/TO cost/VB them/PRP seven/CD point/NN five/CD billion/CD after/IN tax/NN charge/NN in/IN ninety-three/CD ,/,","It's going to cost them seven point five billion after tax charge in ninety-three,"
+x,B,./.,<Gasp>.
++,A,to/TO account/VB for/IN that/DT ./.,to account for that. /
+ba,B,It/PRP 's/BES a/DT lot/NN of/IN money/NN ./.,It's a lot of money. /
+sd,A,And/CC it/PRP 'll/MD drop/VB their/PRP$ earnings/NNS by/IN a/DT hundred/CD million/CD a/DT year/NN forever/RB more/RB ./.,{C And } it'll drop their earnings by a hundred million a year forever more. /
+ba,B,It/PRP 's/BES a/DT lot/NN of/IN money/NN ./.,<Gasp> It's a lot of money. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,it/PRP is/VBZ ./.,it is. /
+sv,A,"And/CC ,/, yeah/UH ,/, you/PRP have/VBP to/TO stay/VB up/IN on/IN stuff/NN ,/,","{C And, } {D yeah, } you have to stay up on stuff, /"
+sd,A,"and/CC I/PRP bet/VBP in/IN your/PRP$ ,/, your/PRP$ job/NN that/IN you/PRP have/VBP to/TO ,/,","{C and } I bet in [ your, + your ] job that you have to, /"
+qy,A,do/VB you/PRP read/VBP the/DT WALL/NNP STREET/NNP JOURNAL/NNP ?/.,do you read the WALL STREET JOURNAL? /
+nn,B,"No/UH ,/,","No, /"
+nn,B,"well/UH ,/, no/UH ,/,","{D well, } no, /"
+sd,B,"I/PRP ,/, I/PRP ,/, I/PRP primarily/RB deal/VBP with/IN the/DT state/NN employees/NNS ,/,","[ [ I, + I, ] + I ] primarily deal with the state employees, /"
+sd,B,"but/CC I/PRP ,/, I/PRP find/VBP interesting/JJ tidbits/NNS in/IN what/WP the/DT news/NN reports/VBZ as/RB far/RB as/IN the/DT ,/, like/IN the/DT state/NN of/IN North/NNP Carolina/NNP 's/POS budget/NN ,/, and/CC stuff/NN like/IN that/DT ./.","{C but } [ I, + I ] find interesting tidbits in what the news reports as far as [ the, + {D like } the ] state of North Carolina's budget, and stuff like that. /"
+sd,B,"And/CC I/PRP really/RB know/VBP what/WP the/DT budget/NN is/VBZ ,/,","{C And } I really know what the budget is, /"
+sd,B,"and/CC ,/, and/CC ,/, uh/UH ,/, uh/UH ,/, when/WRB they/PRP were/VBD saying/VBG we/PRP were/VBD so/RB poor/JJ and/CC they/PRP could/MD n't/RB pay/VB taxes/NNS ,/, and/CC pay/VB people/NNS their/PRP$ income/NN tax/NN refunds/NNS and/CC things/NNS like/IN that/DT ,/,","[ {C and, } + {C and, } ] {F uh, } {F uh, } when they were saying we were so poor and they couldn't pay taxes, and pay people their income tax refunds and things like that, /"
+sd,B,"and/CC ,/, you/PRP know/VBP ,/, I/PRP 'm/VBP well/RB aware/JJ of/IN the/DT billions/NNS of/IN assets/NNS that/WDT the/DT state/NN has/VBZ ,/,","{C and, } {D you know, } I'm well aware of the billions of assets that the state has, /"
+sv,B,"and/CC it/PRP ,/, it/PRP 's/BES just/RB funny/JJ ./.","{C and } [ it, + it's ] just funny. /"
+%,B,"You/PRP know/VBP ,/, so/RB that/DT 's/BES ,/, that/DT 's/BES ,/, that/DT 's/BES ,/,","{D You know, } {C so } [ [ that's, + that's, ] + that's, ] - /"
+sd,B,"so/UH I/PRP do/VBP n't/RB have/VB a/DT whole/JJ lot/NN of/IN faith/NN in/IN ,/, in/IN ,/, you/PRP know/VBP ,/, the/DT news/NN ./.","{C so } I don't have a whole lot of faith [ in, + in, ] {D you know, } the news. /"
+%,B,"Course/NN it/PRP 's/BES ,/,","Course it's, - /"
+sv,B,"they/PRP ,/, they/PRP get/VBP what/WP they/PRP hear/VBP from/IN ,/,","[ they, + they ] get what they hear from, - /"
+sv,B,"but/CC ,/, you/PRP know/VBP ,/, it/PRP 's/BES not/RB always/RB I/PRP ,/, I/PRP think/VBP one/CD hundred/CD percent/NN reliable/JJ ./.","{C but, } {D you know, } it's not always [ I, + I ] think one hundred percent reliable. /"
+qo,A,Can/MD you/PRP think/VB of/IN anything/NN that/WDT could/MD be/VB done/VBN to/TO make/VB our/PRP$ news/NN media/NN more/RBR accurate/JJ and/CC objective/JJ ?/.,Can you think of anything that could be done to make our news media more accurate and objective? /
+sv,B,"I/PRP think/VBP they/PRP need/VBP to/TO do/VB a/DT little/JJ bit/NN ,/, go/VB into/IN a/DT little/JJ bit/NN more/RBR depth/NN ,/, uh/UH ,/, before/IN they/PRP would/MD just/RB report/VB ,/, like/IN somebody/NN wants/VBZ to/TO make/VB a/DT statement/NN or/CC something/NN like/IN that/DT ,/,","I think they need to [ do a little bit, + go into a little bit ] more depth, {F uh, } before they would just report, {D like } somebody wants to make a statement or something like that, /"
+sd,B,"because/IN I/PRP mean/VBP ,/, another/DT example/NN is/VBZ the/DT ,/, uh/UH ,/, AIDS/NN issue/NN or/CC whatever/WP ./.","{C because } {E I mean, } another example is the, {F uh, } AIDS issue or whatever. /"
+sd,B,"You/PRP know/VBP ,/, someone/NN said/VBD ,/, Oh/UH ,/, I/PRP found/VBD a/DT cure/NN ./.","{D You know, } someone said, {F Oh, } I found a cure. /"
+%,B,"They/PRP immediately/RB ,/,","They immediately, - /"
+sd,B,"the/DT headlines/NNS on/IN the/DT news/NN or/CC whatever/WDT is/VBZ ,/, Someone/NN says/VBZ they/PRP found/VBD a/DT cure/NN for/IN AIDS/NN ./.","the headlines on the news or whatever is, Someone says they found a cure for AIDS. /"
+sd,B,"And/CC then/RB two/CD months/NNS later/RB it/PRP 's/BES discovered/VBN it/PRP 's/BES not/RB ,/, you/PRP know/VBP ,/,","{C And then } two months later it's discovered it's not, {D you know, } /"
+sd,B,"before/IN they/PRP ,/, before/IN they/PRP come/VBP out/RB with/IN something/NN like/IN that/DT they/PRP need/VBP to/TO ,/, to/TO research/VB the/DT matter/NN ,/, I/PRP believe/VBP ,/, a/DT little/JJ bit/NN more/RBR ./.","[ before they, + before they ] come out with something like that they need [ to, + to ] research the matter, I believe, a little bit more. /"
+sv,A,"I/PRP guess/VBP they/PRP do/VBP that/DT so/IN they/PRP do/VBP n't/RB get/VB scooped/VBN ,/, you/PRP know/VBP ,/,","I guess they do that so they don't get scooped, {D you know, } /"
+sv,A,so/IN they/PRP have/VBP the/DT big/JJ story/NN ./.,{C so } they have the big story. /
+%,B,"Well/UH ,/, that/DT ,/,","{D Well, } that, - /"
+aa,B,"well/UH ,/, yeah/UH","{D well, } yeah /"
+%,B,"I/PRP ,/, I/PRP ,/,","[ I, + I, ] - /"
+%,B,"it/PRP ,/,","it, - /"
+%,B,"I/PRP think/VBP the/DT ,/,","I think the, -/"

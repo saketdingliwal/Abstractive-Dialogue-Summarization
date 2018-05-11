@@ -1,0 +1,128 @@
+act_tag,speaker,pos,text
+qy,A,"Well/UH ,/, are/VBP you/PRP in/IN the/DT market/NN for/IN a/DT new/JJ car/NN ?/.","{D Well, } are you in the market for a new car? /"
+ny,B,"Uh/UH ,/, well/UH ,/, yeah/UH ,/,","{F Uh, } {D well, } yeah, /"
+sd,B,I/PRP am/VBP as/IN a/DT matter/NN of/IN fact/NN ./.,I am as a matter of fact. /
+sd,B,"Well/UH ,/, act-/XX ,/, actually/UH I/PRP 'm/VBP looking/VBG for/IN another/DT car/NN ,/,","{D Well, } {D [ act-, + actually ] } I'm looking for another car, /"
+sd,B,"but/CC ,/, uh/UH ,/, uh/UH ,/, new/JJ ,/,","{C but, } {F uh, } {F uh, } new, /"
+%,B,probably/RB not/RB ./.,probably not. -/
+b,A,Oh/UH ./.,Oh. /
+qw,A,What/WDT sort/NN of/IN requirements/NNS to/TO you/PRP have/VB for/IN your/PRP$ car/NN ?/.,What sort of requirements to you have for your car? /
+sd,B,"Uh/UH ,/, sports/NNS car/NN ./.","{F Uh, } sports car. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Uh/UH ,/, usually/RB either/DT black/JJ or/CC red/JJ ./.","{F Uh, } usually {C either } black {C or } red. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC electric/JJ windows/NNS ,/, and/CC power/NN locks/NNS ./.","And electric windows, and power locks <laughter>. /"
+ba,A,I/PRP see/VBP ./.,I see <laughter>. /
+%,B,"Now/UH ,/,","{D Now, } -/"
+qy^d,A,"Top/NN of/IN ,/, top/NN of/IN the/DT line/NN ./.","[ Top of, + <laughter> top of ] the line. /"
+ng,B,"Well/UH ,/, not/RB so/RB much/JJ that/DT as/IN it/PRP is/VBZ ,/,","{D Well, } not so much that as it is, - /"
+sd,B,"I/PRP 've/VBP had/VBN so/RB many/JJ times/NNS when/WRB ,/, uh/UH ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP 'll/MD have/VB a/DT friend/NN next/RB to/IN me/PRP or/CC I/PRP see/VBP somebody/NN ,/, uh/UH ,/, guy/NN broken/VBN down/RP on/IN the/DT side/NN of/IN the/DT road/NN and/CC try/VBP to/TO lean/VB over/RB and/CC roll/VB down/RB the/DT window/NN ./.","I've had so many times when, {F uh, } {F uh, } {D you know, } I'll have a friend next to me or I see [ somebody, + ] {F uh, } guy broken down on the side of the road and try to lean over and roll down the window. /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,"It/PRP is/VBZ just/RB a/DT real/JJ pain/NN ,/,","It is just a real pain, /"
+sd,B,"or/CC ,/, you/PRP know/VBP ,/, if/IN I/PRP 'm/VBP driving/VBG along/IN and/CC there/EX 's/BES somebody/NN next/RB to/IN me/PRP and/CC ,/, uh/UH ,/, somebody/NN that/WDT I/PRP know/VBP and/CC you/PRP try/VBP to/TO talk/VB to/IN them/PRP --/:","{C or, } {D you know, } if I'm driving along and there's somebody next to me and, {F uh, } somebody that I know and you try to talk to them --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: it/PRP 's/BES real/RB difficult/JJ to/TO drive/VB ,/, reach/VB over/RB ,/, and/CC try/VB to/TO roll/VB down/RB the/DT window/NN ./.","-- it's real difficult to drive, reach over, and try to roll down the window. /"
+b,A,"Right/UH ,/,","Right, /"
+b,A,right/UH ./.,right. /
+sv,B,"And/CC ,/, uh/UH ,/, so/RB ,/, power/NN locks/NNS ,/, power/NN windows/NNS are/VBP just/RB ,/, just/RB things/NNS that/WDT ,/, uh/UH ,/, just/RB really/RB help/VB a/DT lot/NN ./.","[ {C And, } + {F uh, } {C so, } ] power locks, power windows are [ just, + just ] things that, {F uh, } just really help a lot <laughter>. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+qo,B,What/WP about/IN you/PRP ?/.,What about you? /
+sd,A,"Well/UH ,/, I/PRP guess/VBP I/PRP 'm/VBP ,/, uh/UH ,/, more/RBR traditional/JJ in/IN that/DT I/PRP do/VBP n't/RB like/VB p-/XX ,/, power/NN windows/NNS or/CC power/NN locks/NNS ,/,","{D Well, } I guess I'm, {F uh, } more traditional in that I don't like [ p-, + <laughter> power ] windows or power locks,"
+x,B,,<Laughter>.
++,A,"because/IN the/DT people/NNS that/WDT I/PRP know/VBP h-/XX ,/, who/WP have/VBP them/PRP always/RB seem/VBP to/TO have/VB trouble/NN with/IN them/PRP ./.","because the people that I know [ h-, + ] who have them always seem to have trouble with them. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"And/CC ,/, uh/UH ,/, so/RB I/PRP do/VBP n't/RB ,/, I/PRP just/RB do/VBP n't/RB like/VB anything/NN that/WDT I/PRP ca/MD n't/RB figure/VB out/RP why/WRB it/PRP does/VBZ n't/RB work/VB ./.","[ {C And, } + {F uh, } {C so } ] [ I don't, + I just don't ] like anything that I can't figure out why it doesn't work <laughter>. /"
+b,B,Sure/UH ./.,Sure. /
+sd,A,"And/CC then/RB I/PRP want/VBP ,/, you/PRP know/VBP ,/, good/JJ ,/, uh/UH ,/, gas/NN mileage/NN","{C And then } I want, {D you know, } good, {F uh, } gas mileage /"
+sd,A,and/CC I/PRP want/VBP an/DT air/NN bag/NN,{C and } I want an air bag /
+%,A,"and/CC ,/, uh/UH ,/, I/PRP guess/VBP ,/,","{C and, } {F uh, } I guess, -/"
+qy,B,Have/VBP you/PRP ever/RB had/VBN a/DT car/NN with/IN an/DT air/NN bag/NN ?/.,Have you ever had a car with an air bag? /
+nn,A,"No/UH ,/,","No, /"
+sd,A,I/PRP have/VBP n't/RB ./.,I haven't. /
+qy,A,Have/VBP you/PRP ?/.,Have you? /
+nn,B,No/UH ./.,No. /
+sd,A,"Somehow/RB I/PRP just/RB think/VBP ,/, you/PRP know/VBP ,/, I/PRP like/VBP the/DT idea/NN ./.","Somehow I just think, {D you know, } I like the idea <laughter>. /"
+sd,B,"Well/UH ,/, it/PRP ,/, it/PRP see-/XX ,/, sure/RB seems/VBZ to/TO save/VB lives/NNS","{D Well, } [ it, + it ] [ see-, + sure seems ] to save lives /"
+%,B,and/CC --/:,{C and } -- -/
+b,A,Right/UH ./.,Right. /
+b,B,"--/: uh/UH ,/, yeah/UH ./.","-- {F uh, } yeah. /"
+sd,B,"I/PRP ,/, actually/UH ,/, I/PRP like/VBP the/DT anti-lock/JJ brakes/NNS ./.","[ I, + {D actually, } I ] like the anti-lock brakes. /"
+aa,A,"Right/UH ,/,","Right, /"
+sv,A,that/DT 's/BES a/DT good/JJ idea/NN ./.,that's a good idea. /
+sd,B,"And/CC I/PRP have/VBP never/RB had/VBN a/DT chance/NN to/TO ,/,","{C And } I have never had a chance to, - /"
+sd,B,"I/PRP have/VBP been/VBN in/IN cars/NNS that/WDT have/VBP had/VBN them/PRP ,/,","I have been in cars that have had them, /"
+sd,B,"but/CC I/PRP 've/VBP never/RB tromped/VBN on/IN the/DT brakes/NNS to/TO see/VB ,/, uh/UH ,/, you/PRP know/VBP ,/, on/IN ice/NN or/CC water/NN just/RB to/TO see/VB if/IN they/PRP did/VBD n't/RB lock/VB up/RP ./.","{C but } I've never tromped on the brakes [ to see, + {F uh, } {D you know, } on ice or water just to see ] if they didn't lock up. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+qy,B,"But/CC ,/, uh/UH ,/, you/PRP think/VBP you/PRP 'd/MD buy/VB ,/, uh/UH ,/, an/DT American/JJ car/NN or/CC a/DT European/JJ or/CC Japanese/JJ ?/.","{C But, } {F uh, } you think you'd buy, {F uh, } an American car or a European or Japanese? /"
+sd,A,"Well/UH ,/, I/PRP ,/, actually/UH I/PRP do/VBP n't/RB know/VB a/DT lot/NN about/IN different/JJ brands/NNS ./.","{D Well, } [ I, + {D actually } I ] don't know a lot about different brands. /"
+sd,A,"I/PRP tend/VBP to/TO have/VB ,/, you/PRP know/VBP ,/, my/PRP$ requirements/NNS like/IN the/DT last/JJ time/NN I/PRP bought/VBD a/DT car/NN I/PRP ,/, I/PRP guess/VBP I/PRP did/VBD sort/RB of/RB prefer/VB American/JJ","I tend to have, {D you know, } my requirements like the last time I bought a car [ I, + I ] guess I did sort of prefer American /"
+sd,A,"and/CC my/PRP$ requirements/NNS were/VBD basically/RB ,/, you/PRP know/VBP ,/, good/JJ repair/NN record/NN ,/, good/JJ mileage/NN ,/, uh/UH ,/,","{C and } my requirements were basically, {D you know, } good repair record, good mileage, {F uh, } /"
+sd,A,and/CC I/PRP needed/VBD air-conditioning/NN,<lipsmack> {C and } I needed air-conditioning /
+sd,A,"and/CC ,/, uh/UH ,/, ca/MD n't/RB remember/VB what/WP my/PRP$ ,/, oh/UH ,/,","{C and, } {F uh, } <lipsmack> can't remember what my, {F oh, } - /"
+sd,A,"I/PRP wanted/VBD s-/XX ,/, uh/UH ,/, stick/NN shift/NN ./. And/CC ,/, so/RB I/PRP did/VBD n't/RB have/VB a/DT whole/JJ lot/NN of/IN choice/NN ./.","I wanted [ s-, + {F uh, } stick ] shift. {C And, so } I didn't have a whole lot of choice <laughter>. /"
+sd,A,"There/EX was/VBD one/CD car/NN in/IN all/DT of/IN the/DT ,/, the/DT metropolitan/JJ area/NN that/WDT I/PRP could/MD find/VB that/WDT ,/, you/PRP know/VBP ,/, was/VBD sort/RB of/RB a/DT medium/JJ priced/JJ car/NN with/IN a/DT stick/NN shift/NN in/IN it/PRP ./.","There was one car in all of [ the, + the ] metropolitan area that I could find that, {D you know, } was sort of a medium priced car with a <laughter> stick shift in it. /"
+qw,B,What/WP was/VBD that/DT ?/.,What was that? /
+sd,A,"It/PRP ,/, it/PRP turned/VBD out/RP to/TO be/VB a/DT ,/, a/DT Chrysler/NNP ./. Uh/UH ,/, Lancer/NNP ./.","[ It, + it ] turned out to be [ a, + a ] Chrysler. {F Uh } <lipsmack>, Lancer. /"
+b,B,"Huh/UH ,/,","Huh, /"
+b^m,B,"stick/NN shift/NN ,/,","stick shift, /"
+^g,B,huh/UH ?/.,huh? /
+ny,A,Yeah/UH ./.,Yeah. /
+qy,B,"Did/VBD it/PRP have/VB ,/, what/WP ,/, a/DT three/CD speed/NN or/CC a/DT four/CD speed/NN ?/.","Did it have, what, a three speed or a four speed? /"
+nn,A,"No/UH ,/,","No, /"
+sd,A,a/DT five/CD speed/NN ./.,a five speed. /
+sd,A,"And/CC it/PRP ,/, basically/RB ,/, it/PRP was/VBD something/NN that/WDT a/DT military/JJ guy/NN had/VBD ordered/VBN and/CC had/VBD n't/RB picked/VBN up/RP ,/,","{C And } [ it, + basically, it ] was something that a military guy had ordered and hadn't picked up, /"
+sd,A,and/CC so/RB it/PRP had/VBD been/VBN on/IN the/DT lot/NN three/CD months/NNS,{C and so } it had been on the lot three months /
+sd,A,and/CC they/PRP were/VBD really/RB eager/JJ to/TO sell/VB it/PRP ./.,{C and } they were really eager to sell it. /
+ba,B,Wow/UH ./.,Wow. /
+sv,A,"So/RB ,/, I/PRP guess/VBP in/IN this/DT area/NN ,/, at/IN least/JJS ,/, you/PRP know/VBP ,/, if/IN it/PRP 's/BES not/RB automatic/JJ ,/, it/PRP does/VBZ n't/RB move/VB ./.","{C So, } I guess in this area, at least, {D you know, } if it's not automatic, it doesn't move. /"
+sd,B,"Well/UH ,/, actually/UH ,/, I/PRP much/RB prefer/VBP a/DT stick/NN shift/NN","{D Well, } {D actually, } I much prefer a stick shift /"
+%,B,"and/CC ,/, what/WP ,/, I/PRP 'm/VBP ,/, I/PRP 'm/VBP curious/JJ ./.","{C and, } what, [ I'm, + I'm ] curious. - /"
+sd,B,"I/PRP ,/, I/PRP know/VBP why/WRB I/PRP love/VBP a/DT stick/NN shift/NN ./.","[ I, + I ] know why I love a stick shift. /"
+qw,B,"Why/WRB d-/XX ,/, why/WRB did/VBD you/PRP want/VB one/CD ?/.","[ Why d-, + <laughter> why did ] you want one? /"
+sd,A,"Well/UH ,/, I/PRP just/RB wanted/VBD it/PRP because/IN ,/, again/RB ,/, I/PRP had/VBD ,/, I/PRP guess/VBP traditionally/RB always/RB had/VBD a/DT car/NN that/WDT had/VBD one/CD","{D Well, } I just wanted it because, again, I had, I guess traditionally always had a car that had one /"
+sv,A,and/CC I/PRP thought/VBD it/PRP would/MD be/VB more/RBR reliable/JJ ./.,{C and } I thought it would be more reliable. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Uh/UH ,/,","{F Uh, } /"
+sv,B,It/PRP 's/BES hard/JJ to/TO find/VB stick/NN shift/NN cars/NNS anymore/RB ./.,It's hard to find stick shift cars anymore. /
+aa,A,I/PRP found/VBD that/DT out/RP ./.,<Laughter> I found that out. /
+x,B,,<Laughter>.
+sd,A,"I/PRP mean/VBP ,/, you/PRP know/VBP ,/, the/DT people/NNS would/MD just/RB sort/RB of/RB look/VB at/IN me/PRP like/IN ,/, you/PRP must/MD be/VB crazy/JJ when/WRB I/PRP ,/,","<Laughter> {E I mean, } {D you know, } the people would just sort of look at me like, you must be crazy when I,"
+x,B,,<Laughter>.
++,A,"went/VBD in/IN to/IN ,/, and/CC asked/VBD and/CC that/DT was/VBD a/DT requirement/NN","went in to, and asked and that was a requirement /"
+%,A,"so/RB ,/,","{C so, } -/"
+b,B,"Huh/UH ,/,","Huh, /"
+%,B,yeah/UH ./.,yeah. /
+%,A,"So/RB ,/,","{D So, } -/"
+nn,B,"No/UH ,/,","No, /"
+sd,B,I/PRP mean/VBP most/JJS of/IN the/DT sports/NNS cars/NNS are/VBP stick/NN shift/NN ./.,{E I mean } most of the sports cars are stick shift. /
+sd,A,"Well/UH ,/, I/PRP 'm/VBP not/RB even/RB sure/JJ all/DT of/IN them/PRP are/VBP anymore/RB ./. At/IN least/JJS in/IN this/DT area/NN ./.","{D Well, } I'm not even sure all of them are anymore. At least in this area. /"
+b,B,Huh/UH ./.,Huh. /
+sd,A,"Not/RB that/IN I/PRP was/VBD looking/VBG for/IN sports/NNS cars/NNS ,/,","Not that I was looking for sports cars, /"
+sd,A,"but/CC ,/, now/UH the/DT people/NNS I/PRP 've/VBP talked/VBN to/IN do/VB n't/RB seem/VB to/TO have/VB stick/NN shift/NN ./.","{C but, } {D now } the people I've talked to don't seem to have stick shift. /"
+b,B,Huh/UH ./.,Huh. /
+qw,A,And/CC so/RB why/WRB do/VBP you/PRP like/VB stick/NN shift/NN ?/.,{C And so } why do you like stick shift? /
+sd,B,"Uh/UH ,/, I/PRP guess/VBP I/PRP ,/, I/PRP grew/VBD up/RP on/IN it/PRP and/CC it/PRP 's/BES fun/JJ ./.","{F Uh, } I guess [ I, + I ] grew up on it {C and } it's fun. /"
+sd,B,"It/PRP 's/BES ,/, it/PRP 's/BES an/DT enjoyable/JJ part/NN of/IN driving/NN ./.","[ It's, + it's ] an enjoyable part of driving. /"
+sd,B,"I/PRP do/VBP feel/VB like/IN I/PRP have/VBP ,/, uh/UH ,/, more/JJR control/NN --/:","I do feel like I have, {F uh, } more control --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: over/IN the/DT car/NN,-- over the car /
+sd,B,"and/CC it/PRP ,/, it/PRP ,/, to/IN me/PRP ,/, it/PRP gives/VBZ me/PRP more/JJR ,/, a/DT lot/NN more/JJR control/NN in/IN snow/NN and/CC ice/NN --/:","{C and } [ [ it, + it, ] + to me, it ] gives me more, a lot more control in snow and ice --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: and/CC slick/JJ conditions/NNS ./.,-- and slick conditions. /
+b,A,Right/UH ./.,Right. /
+%,B,"Uh/UH ,/, it/PRP ,/, i-/XX ,/, it/PRP does/VBZ ,/, uh/UH ,/,","{F Uh, } [ it, + [ i-, + ] it ] does, {F uh, } /"
+h,B,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,B,"it/PRP ,/, it/PRP 's/BES really/RB more/RBR fun/JJ than/IN anything/NN","[ it, + it's ] really more fun than anything /"
+sv,B,"else/RB ./. As/RB long/RB as/IN you/PRP 're/VBP not/RB stuck/VBN in/IN heavy/JJ traffic/NN ,/, it/PRP 's/BES fun/JJ ./.","[ else. + ] As long as you're not stuck in heavy traffic, it's fun <laughter>. /"
+b,A,"Right/UH ,/,","Right, /"
+sv,A,"and/CC actually/UH it/PRP 's/BES probably/RB safer/JJR on/IN ,/, you/PRP know/VBP ,/, at/IN long/JJ trips/NNS because/IN it/PRP keeps/VBZ you/PRP more/RBR active/JJ ./.","{C and } {D actually } it's probably safer on, {D you know, } [ at + ] long trips because it keeps you more active. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH,yeah /
+x,B,./.,<sniffing>.
+%,A,"So/UH ,/,","{D So, } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"uh/UH ,/, of/IN course/NN ,/, I/PRP like/VBP gadgets/NNS and/CC ,/, and/CC ,/, uh/UH ,/, fun/JJ things/NNS ,/,","{F uh, } of course, I like gadgets [ and, + and, ] {F uh, } fun things,"
+x,A,,<Laughter>.
++,B,"on/IN the/DT cars/NNS ,/, which/WDT are/VBP all/PDT the/DT things/NNS ,/, course/IN ,/, the/DT c-/XX ,/,","<Laughter> on the cars, which are all the things, course, the c-, -/"

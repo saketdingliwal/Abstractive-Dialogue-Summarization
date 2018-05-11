@@ -1,0 +1,115 @@
+act_tag,speaker,pos,text
+sv,A,"I/PRP think/VBP that/IN ,/, uh/UH ,/, one/CD ,/, uh/UH ,/, advantage/NN of/IN having/VBG ,/, uh/UH ,/, the/DT unanimous/JJ verdict/NN is/VBZ that/IN in/IN a/DT criminal/JJ case/NN you/PRP want/VBP to/TO make/VB sure/JJ that/IN you/PRP do/VBP n't/RB ,/, uh/UH ,/, convict/VB someone/NN who/WP ,/, uh/UH ,/, really/RB should/MD n't/RB be/VB convicted/VBN ./.","I think that, {F uh, } one, {F uh, } advantage of having, {F uh, } the unanimous verdict is that in a criminal case you want to make sure that you don't, {F uh, } convict someone who, {F uh, } really shouldn't be convicted. /"
+aa,B,Definitely/UH ./.,Definitely. /
+sv,A,"Um/UH ,/, and/CC I/PRP think/VBP that/IN ,/, you/PRP know/VBP ,/, a/DT unanimous/JJ verdict/NN ,/, uh/UH ,/, helps/VBZ to/TO ensure/VB that/DT ./.","{F Um, } {C and } I think that, {D you know, } a unanimous verdict, {F uh, } helps to ensure that. /"
+sv,A,"I/PRP guess/VBP maybe/RB one/CD drawback/NN of/IN it/PRP is/VBZ that/IN if/IN you/PRP have/VBP one/CD juror/NN who/WP is/VBZ very/RB unreasonable/JJ in/IN some/DT way/NN ,/, that/IN ,/, uh/UH ,/, you/PRP ,/, uh/UH ,/, would/MD have/VB a/DT problem/NN ,/, uh/UH ,/, you/PRP know/VBP ,/, that/IN you/PRP would/MD n't/RB convict/VB someone/NN who/WP maybe/RB should/MD be/VB convicted/VBN ./.","I guess maybe one drawback of it is that if you have one juror who is very unreasonable in some way, that, {F uh, } you, {F uh, } would have a problem, {F uh, } {D you know, } that you wouldn't convict someone who maybe should be convicted. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,A,Have/VBP you/PRP ever/RB served/VBN on/IN a/DT jury/NN before/RB ?/.,Have you ever served on a jury before? /
+na,B,"Uh/UH ,/, I/PRP have/VBP twice/RB ./.","{F Uh, } I have twice. /"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sv,B,It/PRP was/VBD a/DT pretty/RB wild/JJ experience/NN ./.,It was a pretty wild experience. /
+qw,A,"Uh/UH ,/, what/WP sorts/NNS of/IN cases/NNS were/VBD they/PRP ?/.","{F Uh, } what sorts of cases were they? /"
+sd,B,"They/PRP were/VBD just/RB ,/, you/PRP know/VBP ,/, small/JJ time/NN cases/NNS where/WRB ,/, uh/UH ,/, trailers/NNS and/CC banks/NNS were/VBD involved/JJ ,/, you/PRP know/VBP ./.","They were just, {D you know, } small time cases where, {F uh, } trailers and banks were involved, {D you know. } /"
+qy,A,So/RB were/VBD they/PRP criminal/JJ or/CC civil/JJ ?/.,{C So } were they criminal or civil? /
+sd,B,They/PRP were/VBD civil/JJ ./.,They were civil. /
+sd,B,They/PRP were/VBD n't/RB --/:,[ They weren't + --
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
++,B,--/: they/PRP were/VBD n't/RB any/DT criminal/JJ ./.,-- they weren't ] any criminal. /
+qw,A,"What/WP ,/, uh/UH ,/, what/WP was/VBD the/DT verdict/NN ?/.","[ What, {F uh, } + what ] was the verdict? /"
+qy,A,"Did/VBD the/DT ,/, did/VBD the/DT jury/NN have/VB trouble/NN reaching/VBG a/DT decision/NN ?/.","[ Did the, + did the ] jury have trouble reaching a decision? /"
+sd,B,"Uh/UH ,/, the/DT jury/NN ,/, it/PRP was/VBD ,/, uh/UH ,/, let/VB me/PRP see/VB ,/, I/PRP think/VBP it/PRP was/VBD ten/CD to/IN one/CD on/IN the/DT jury/NN ,/, because/IN they/PRP only/RB had/VBD to/TO have/VB eleven/CD people/NNS --/:","{F Uh, } the jury, [ it was, + {F uh, } {A let me see, } I think it was ] ten to one on the jury, because they only had to have eleven people -- /"
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"--/: so/RB it/PRP was/VBD ,/,","-- {C so } it was, - /"
+%,B,"they/PRP ,/,","they, - /"
+sd,B,"and/CC ,/, uh/UH ,/, the/DT one/NN changed/VBD his/PRP$ vote/NN at/IN the/DT end/NN ./.","{C and, } {F uh, } the one changed his vote at the end. /"
+qy,A,So/RB did/VBD it/PRP become/VB ?/.,{C So } did it become? -/
+sd,B,"So/RB it/PRP became/VBD unanimous/JJ ,/, you/PRP know/VBP ,/, after/IN they/PRP turned/VBD it/PRP in/RP --/:","{C So } it became unanimous, {D you know, } after they turned it in -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,--/: and/CC then/RB he/PRP changed/VBD his/PRP$ mind/NN after/IN they/PRP turned/VBD it/PRP in/RP --/:,-- {C and then } he changed his mind after they turned it in -- /
+%,A,Uh/UH ./.,{F Uh. } /
+sd,B,--/: but/CC it/PRP then/RB became/VBD unanimous/JJ ./.,-- {C but } it then became unanimous. /
+qy,A,"Uh/UH ./. But/CC since/IN it/PRP was/VBD a/DT civil/JJ case/NN it/PRP really/RB did/VBD n't/RB matter/VB ,/, right/UH ?/.","{F Uh. } {C But } since it was a civil case it really didn't matter, {D right? } /"
+qy^d,A,You/PRP just/RB needed/VBD a/DT majority/NN ?/.,You just needed a majority? /
+aa,B,Right/UH ./.,Right. /
+qw,A,"What/WP was/VBD ,/, what/WP was/VBD the/DT other/JJ case/NN ?/.","[ What was, + what was ] the other case? /"
+qy^d,A,That/DT was/VBD also/RB civil/JJ ?/.,That was also civil? /
+sd,B,"The/DT ,/, the/DT other/JJ case/NN was/VBD just/RB traffic/NN ,/,","[ The, + the ] other case was just traffic, /"
+%,B,"the/DT ,/,","the, - /"
+sd,B,"and/CC ,/, you/PRP know/VBP ,/, it/PRP was/VBD seat/NN belt/NN law/NN --/:","{C and, } {D you know, } it was seat belt law -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"--/: and/CC it/PRP ,/, it/PRP did/VBD n't/RB even/RB hardly/RB --/:","-- {C and } [ it, + it ] didn't even hardly --"
+^2,A,"Oh/UH ,/, did/VBD n't/RB really/RB even/RB count/VB ./.","{F Oh, } didn't really even count. /"
++,B,"--/: go/VB through/IN ,/,","-- go through, /"
+%,B,so/RB ./.,{C so. } -/
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP a/DT college/NN student/NN","[ I'm, + I'm ] a college student /"
+sd,A,"so/RB I/PRP have/VBP n't/RB been/VBN ,/, you/PRP know/VBP ,/, a/DT jury/NN eligible/JJ age/NN for/IN very/RB long/JJ --/:","{C so } I haven't been, {D you know, } a jury eligible age for very long -- /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: um/UH ,/, and/CC ,/, uh/UH ,/, I/PRP did/VBD get/VB one/CD summons/NN actually/RB at/IN one/CD point/NN ,/,","-- {F um, } {C and, } {F uh, } I did get one summons actually at one point, /"
+sd,A,"but/CC I/PRP declined/VBD it/PRP which/WDT I/PRP 'm/VBP able/JJ to/TO do/VB because/IN I/PRP 'm/VBP a/DT student/NN ,/, because/IN it/PRP was/VBD ,/, uh/UH ,/, a/DT very/RB bad/JJ time/NN ./.","{C but } I declined it which I'm able to do because I'm a student, because it was, {F uh, } a very bad time. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"Well/UH ,/, you/PRP learn/VBP a/DT lot/NN going/VBG to/IN the/DT juries/NNS like/IN that/IN though/RB ./.","{D Well, } you learn a lot going to the juries like that though. /"
+sd,A,"Yeah/UH ,/, I/PRP mean/VBP ,/, I/PRP ,/, I/PRP really/RB ,/, I/PRP would/MD like/VB to/TO ,/, uh/UH ,/, to/TO do/VB at/IN some/DT point/NN ,/, um/UH ,/,","Yeah, {E I mean, } [ [ I, + I ] really, + I would like ] [ to, + {F uh, } to ] do at some point, {F um, } /"
+sd,A,"but/CC ,/, I/PRP ,/, I/PRP have/VBP n't/RB ./.","{C but, } [ I, + I ] haven't. /"
+sv,A,"Uh/UH ,/, one/CD ,/, one/CD thing/NN that/WDT I/PRP ,/, I/PRP think/VBP is/VBZ ,/, um/UH ,/, you/PRP know/VBP ,/, maybe/RB is/VBZ a/DT problem/NN is/VBZ ,/, uh/UH ,/, I/PRP ,/, I/PRP think/VBP that/IN the/DT criminal/JJ jury/NN system/NN works/VBZ pretty/RB well/RB now/RB ,/,","{F Uh, } [ one, + one ] thing that [ I, + I ] think [ is, + {F um, } {D you know, } maybe is ] a problem is, {F uh, } [ I, + I ] think that the criminal jury system works pretty well now, /"
+sv,A,but/CC I/PRP wonder/VBP if/IN maybe/RB in/IN some/DT civil/JJ cases/NNS it/PRP does/VBZ n't/RB work/VB as/RB well/RB ./.,{C but } I wonder if maybe in some civil cases it doesn't work as well. /
+%,A,Especially/RB sort/RB of/RB ./.,Especially sort of. -/
+sv,B,I/PRP would/MD n't/RB think/VB that/IN it/PRP does/VBZ --/:,I wouldn't think that it does --
+%,A,"How/WRB ,/, wha/WP ,/,","[ How, + wha-, ] -/"
++,B,"--/: I/PRP mean/VBP ,/, from/IN ,/, from/IN my/PRP$ ,/, from/IN what/WP I/PRP experienced/VBD in/IN them/PRP ,/,","-- {E I mean, } [ [ from, + from ] my, + from what ] I experienced in them, /"
+sd,B,"it/PRP did/VBD n't/RB ,/, you/PRP know/VBP ,/, it/PRP did/VBD n't/RB turn/VB out/RP the/DT way/NN I/PRP planned/VBD it/PRP ,/, I/PRP mean/VBP ,/, the/DT way/NN that/IN I/PRP would/MD think/VB that/IN it/PRP would/MD go/VB ./.","[ it didn't, + {D you know, } it didn't ] turn out the way I planned it, {E I mean, } the way that I would think that it would go. /"
+qy^d,A,"Uh/UH ,/, you/PRP thought/VBD it/PRP turned/VBD out/RP pretty/RB well/RB ?/.","{F Uh, } you thought it turned out pretty well? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"but/CC it/PRP was/VBD ,/, you/PRP know/VBP ,/, it/PRP was/VBD ,/,","{C but } [ it was, + {D you know, } it was, ] - /"
+sv,B,jury/NN was/VBD unorganized/JJ,jury was unorganized /
+sd,B,"and/CC it/PRP was/VBD ,/, it/PRP was/VBD just/RB was/VBD n't/RB organized/JJ enough/RB for/IN me/PRP ./.","{C and } [ it was, + it [ was + just wasn't ] ] organized enough for me. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP 'm/VBP not/RB used/JJ to/IN it/PRP not/RB being/VBG organized/JJ ,/,","I'm not used to it not being organized, /"
+sd,B,and/CC I/PRP just/RB assumed/VBD that/IN it/PRP would/MD have/VB been/VBN ./.,{C and } I just assumed that it would have been. /
+bf,A,"Oh/UH ,/, so/RB it/PRP was/VBD just/RB kind/RB of/RB a/DT zoo/NN","{F Oh, } {C so } it was just kind of a zoo /"
+bf,A,"and/CC the/DT jurors/NNS just/RB sort/RB of/RB ,/,","{C and } the jurors just sort of, - /"
+qy^d,A,someone/NN had/VBD to/TO figure/VB out/RP what/WP was/VBD going/VBG on/RP ?/.,someone had to figure out what was going on? /
+aa,B,That/DT 's/BES about/RB what/WP it/PRP was/VBD ./.,That's about what it was. /
+sv,A,Um/UH ./. That/DT 's/BES interesting/JJ ./.,{F Um. } That's interesting. /
+qy,A,"Did/VBD it/PRP ,/, did/VBD it/PRP work/VB out/RP pretty/RB well/RB in/IN the/DT end/NN ?/.","[ Did it, + did it ] work out pretty well in the end? /"
+qy,A,"I/PRP mean/VBP ,/, did/VBD a/DT couple/NN of/IN people/NNS sort/RB of/RB gradually/RB ,/, sort/RB of/RB assume/VBP ,/, uh/UH ,/, sort/RB of/RB a/DT moderator/NN role/NN in/IN the/DT trial/NN","{E I mean, } did a couple of people sort of gradually, sort of assume, {F uh, } sort of a moderator role in the trial /"
+%,A,"or/CC ,/,","{C or, } -/"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"they/PRP ,/, well/UH they/PRP picked/VBD one/CD person/NN ,/,","[ they, + {D well } they ] picked one person, /"
+sd,B,"and/CC then/RB he/PRP finally/RB ,/, you/PRP know/VBP ,/, moderated/VBD everything/NN and/CC made/VBD it/PRP turn/VB out/RP the/DT way/NN it/PRP should/MD have/VB ./.","{C and then } he finally, {D you know, } moderated everything and made it turn out the way it should have. /"
+qy^d,A,"So/RB it/PRP work-/XX ,/, it/PRP did/VBD end/VB up/RP working/VBG out/RP pretty/RB well/RB ?/.","{C So } [ it work-, + it did end up working ] out pretty well? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,it/PRP ended/VBD up/RP working/VBG all/RB right/JJ ./.,it ended up working all right. /
+sv,A,"The/DT one/CD thing/NN I/PRP sometimes/RB wonder/VBP about/IN ,/, um/UH ,/, in/IN civil/JJ cases/NNS is/VBZ ,/, uh/UH ,/, whether/IN ,/, especially/RB sort/RB of/RB in/IN ,/, uh/UH ,/, maybe/RB like/IN pro-/NN ,/, product/NN liability/NN ,/, or/CC medical/JJ malpractice/NN ,/, where/WRB there/EX 's/BES ,/, um/UH ,/, sort/RB of/RB a/DT very/RB technical/JJ decision/NN to/TO be/VB made/VBN sometimes/RB --/:","The one thing I sometimes wonder about, {F um, } in civil cases is, {F uh, } whether, especially sort of in, {F uh, } maybe {D like } [ pro-, + product ] liability, or medical malpractice, where there's, {F um, } sort of a very technical decision to be made sometimes -- -/"
+b,B,Yes/UH ./.,Yes. /
+sd,A,"--/: you/PRP know/VBP ,/, it/PRP 's/BES not/RB just/RB a/DT matter/NN of/IN ,/, um/UH ,/, of/IN ,/, you/PRP know/VBP ,/, did/VBD this/DT guy/NN rip/VB off/RP this/DT guy/NN ,/,","-- {D you know, } it's not just a matter [ of, + {F um, } of, ] {D you know, } did this guy rip off this guy, /"
+sd,A,"and/CC it/PRP 's/BES just/RB a/DT matter/NN of/IN interpreting/VBG a/DT contract/NN ,/,","{C and } it's just a matter of interpreting a contract, /"
+sv,A,"it/PRP 's/BES sort/RB of/RB a/DT matter/NN of/IN ,/, um/UH ,/, you/PRP know/VBP ,/, sometimes/RB getting/VBG into/IN very/RB technical/JJ issues/NNS ,/,","it's sort of a matter of, {F um, } {D you know, } sometimes getting into very technical issues, /"
+sv,A,"and/CC I/PRP wonder/VBP if/IN ,/, uh/UH ,/, if/IN there/EX 's/BES really/RB ,/, um/UH ,/, if/IN the/DT system/NN works/VBZ adequately/RB in/IN ,/, in/IN educating/VBG the/DT jurors/NNS about/IN ,/, uh/UH ,/, whatever/WDT ,/, um/UH ,/, you/PRP know/VBP ,/, issue/NN is/VBZ under/IN discussion/NN ./.","{C and } I wonder [ [ if, + {F uh, } if there's really, ] + {F um, } if the system ] works adequately [ in, + in ] educating the jurors about, {F uh, } whatever, {F um, } {D you know, } issue is under discussion. /"
+sv,B,"I/PRP ,/, I/PRP do/VBP n't/RB think/VB that/IN they/PRP ,/, they/PRP ,/, they/PRP educate/VBP them/PRP enough/RB to/TO ,/, to/TO really/RB know/VB what/WP 's/BES going/VBG on/RP ./.","[ I, + I ] don't think that [ [ they, + they, ] + they ] educate them enough [ to, + to ] really know what's going on. /"
+sd,A,"In/IN ,/, in/IN the/DT case/NN you/PRP were/VBD involved/JJ in/IN ,/, you/PRP said/VBD it/PRP was/VBD just/RB sort/RB of/RB a/DT bank/NN matter/NN of/IN some/DT kind/NN ./.","[ In, + in ] the case you were involved in, you said it was just sort of a bank matter of some kind. /"
+%,A,So/RB ./.,{C So. } -/
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"the/DT ,/, the/DT bank/NN was/VBD suing/VBG them/PRP for/IN ,/, uh/UH ,/, because/IN they/PRP went/VBD to/TO get/VB the/DT ,/, the/DT trailer/NN --/:","[ the, + the ] bank was suing them [ for, + {F uh, } ] because they went to get [ the, + the ] trailer --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: that/WDT ,/, which/WDT was/VBD ,/, uh/UH ,/, seemingly/RB their/PRP$ property/NN ./.","-- [ that, + which ] was, {F uh, } seemingly their property. /"
+%,A,Uh/UH ./.,{F Uh. } /
+sd,B,It/PRP was/VBD on/IN his/PRP$ property/NN ./.,It was on his property. /
+bf,A,"Oh/UH ,/, so/RB the/DT deal/NN was/VBD that/IN he/PRP had/VBD ,/, uh/UH ,/, borrowed/VBN money/NN from/IN the/DT bank/NN to/TO buy/VB it/PRP ,/,","{F Oh, } {C so } the deal was that he had, {F uh, } borrowed money from the bank to buy it, /"
+bf,A,and/CC --/:,{C and } --
+aa,B,Right/UH ./.,Right. /
++,A,--/: he/PRP had/VBD n't/RB made/VBN the/DT payments/NNS ./.,-- he hadn't made the payments. /
+sd,B,So/RB they/PRP came/VBD to/TO get/VB it/PRP ./.,{C So } they came to get it. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC then/RB when/WRB they/PRP came/VBD to/TO get/VB it/PRP ,/, well/UH ,/, it/PRP was/VBD on/IN the/DT landlord/NN 's/POS property/NN","{C And then } when they came to get it, {D well, } it was on the landlord's property /"
+sd,B,and/CC he/PRP would/MD n't/RB let/VB them/PRP take/VB it/PRP off/RB ./.,{C and } he wouldn't let them take it off. /
+bf,A,"Uh/UH ,/, so/RB they/PRP were/VBD suing/VBG to/TO get/VB it/PRP back/RB ./.","{F Uh, } {C so } they were suing to get it back. /"
+sd,B,"So/RB ,/, and/CC they/PRP are/VBP ,/, it/PRP was/VBD a/DT double/JJ wide/JJ ,/,","[ {C So, } + {C and } ] [ they are, + it was ] a double wide, /"
+sd,B,so/RB they/PRP 'd/VBD already/RB taken/VBN it/PRP apart/RB ./.,{C so } they'd already taken it apart. /
+%,A,Uh/UH ./.,{F Uh. } /
+sd,B,So/RB they/PRP left/VBD it/PRP there/RB --/:,{C So } they left it there -- /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,--/: and/CC then/RB when/WRB they/PRP came/VBD back/RB to/TO get/VB it/PRP a/DT couple/NN of/IN days/NNS later/RB it/PRP had/VBD rained/VBN and/CC got/VBN all/RB in/IN it/PRP ./.,-- {C and then } when they came back to get it a couple of days later it had rained and got all in it. /
+%,A,Uh/UH ./.,{F Uh. } /
+sd,B,"So/RB they/PRP were/VBD suing/VBG him/PRP for/IN the/DT money/NN ,/,","{C So } they were suing him for the money, /"
+sd,B,"and/CC ,/, you/PRP know/VBP ,/, there/EX 's/BES no/DT way/NN they/PRP could/MD because/IN it/PRP ,/, it/PRP was/VBD the/DT moving/NN company/NN ,/,","{C and, } {D you know, } there's no way they could because [ it, + it ] was the moving company, /"

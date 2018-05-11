@@ -1,0 +1,81 @@
+speaker,pos
+John,Many/JJ web/JJ authors/NNS make/VBP poor/JJ colour/NN choices/NNS ./.
+John,Some/DT of/IN these/DT make/NNS pages/NNS unreadable/JJ to/TO colour-impaired/JJ viewers/NNS ./.
+John,Several/JJ browsers/NNS allow/VBP an/DT override/JJ setting/NN to/TO be/VB configured/VBN by/IN the/DT viewer/NN ./.
+John,DOES/NNP AMAYA/NNP ALLOW/NNP THE/NNP VIEWER/NNP TO/NNP OVERRIDE/NNP SETTING/NNP MADE/NNP INSIDE/NNP THE/NNP HTML/NNP DOCUMENTS/NNP
+John,"Being/VBG slightly/RB impaired/VBN myself/PRP ,/, I/PRP view/VBP this/DT as/IN an/DT important/JJ accessibility/NN feature/NN that/IN all/DT browsers/NNS ,/, including/VBG Amaya/NNP should/MD include/VB ./."
+John,john/NN russell/NN
+John,homepage:/NN
+Irene.Vatton@inrialpes.fr,
+Irene.Vatton@inrialpes.fr,
+Irene.Vatton@inrialpes.fr,
+Irene.Vatton@inrialpes.fr,
+Irene.Vatton@inrialpes.fr,"Not/RB exactly/RB ,/, but/CC Amaya/NNP is/VBZ an/DT editor/NN and/CC you/PRP can/MD easily/RB change/VB or/CC remove/VB the/DT color/NN ./."
+Irene.Vatton@inrialpes.fr,
+Irene.Vatton@inrialpes.fr,
+Irene.Vatton@inrialpes.fr,
+Irene.Vatton@inrialpes.fr,Irene/NNP ./.
+Charles,"John/NNP ,/,"
+Charles,"you/PRP could/MD create/VB your/PRP$ own/JJ local/JJ stylesheet/NN ,/, and/CC make/VB !imprtant/JJ declarations/NNS for/IN colours/NNS ./."
+Charles,Charles/NNP McCN/NNP
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,McCathieNevile/NN
+Charles,phone:/NN +1/VBD 617/CD 258/CD 0992/CD
+Charles,W3C/NNP Web/NNP Accessibility/NNP Initiative/NNP
+Charles,"-/: 545/CD Technology/NNP Cambridge/NNP MA/NNP ,/, 02139/CD ,/, USA/NNP"
+Charles,charles'/NN 5/CD line/NN CSS/NNP
+Charles,"to/TO give/VB a/DT style/NN to/TO an/DT element/NN you/PRP list/VBP the/DT element/NN (called/VBD a/DT selector/NN in/IN technical/JJ CSS/NNP then/RB in/IN curly/JJ brackets/NNS you/PRP put/VBP the/DT style/NN feature/NN you/PRP want/VBP to/TO declare/VB ,/, a/DT colon/NN ,/, and/CC the/DT value/NN you/PRP want/VBP for/IN that/DT property/NN ./."
+Charles,example:/NN
+Charles,BODY/NNP {/( 24pt/CD }/)
+Charles,"To/TO set/VB several/JJ properties/NNS at/IN the/DT same/JJ time/NN ,/, use/VB a/DT semi-colon/NN between/IN each/DT declaration/NN ,/, inside/IN the/DT same/JJ set/NN of/IN curly/JJ brackets/NNS ./."
+Charles,example:/NN
+Charles,H1/NNP {/( 180%/CD ;/: bold/VBN ;/: 1.5em/CD }/)
+Charles,"To/TO make/VB your/PRP$ statements/NNS override/IN the/DT ones/NNS that/IN an/DT author/NN uses/VBZ ,/, add/VB !important/JJ after/IN each/DT property/NN declaration/NN"
+Charles,example:/NN
+Charles,P/NNP {/( 12pt/CD !important/NN ;/: 2em/CD !important/NN }/)
+Charles,"NOTE:/NNP You/PRP should/MD not/RB do/VB this/DT in/IN stylesheets/NNS that/IN you/PRP publish/VB ,/, only/RB your/PRP$ local/JJ stylesheet/NN for/IN reading/NN ,/, until/IN the/DT CSS2/NNP cascade/NN order/NN is/VBZ widely/RB implemented/VBN ./."
+Charles,"If/IN your/PRP$ browser/NN uses/VBZ the/DT CSS2/NNP cascade/NN order/NN ,/, this/DT will/MD be/VB fine/JJ ./."
+Charles,"If/IN not/RB ,/, then/RB an/DT author/NN who/WP has/VBZ published/VBN a/DT style/NN sheet/NN with/IN !important/NNP will/MD override/VB yours/NNS ./."
+Charles,I/PRP do/VBP not/RB know/VB which/WDT cascade/NN Amaya/NNP uses/VBZ ./.
+Charles,"It/PRP does/VBZ allow/VB you/PRP to/TO disable/VB any/DT style/NN sheet/NN attached/VBD to/TO a/DT document/NN ,/, which/WDT is/VBZ a/DT handy/JJ feature/NN ./."
+Charles,Cheers/NNS
+Charles,Charles/NNP McCN/NNP
+Charles,"On/IN Mon/NNP ,/, 16/CD Aug/NNP 1999/CD ,/, John/NNP Russell/NNP wrote:/NN"
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,I/PRP have/VBP used/VBN a/DT stylesheet/NN which/WDT works/VBZ ok/NN on/IN my/PRP$ own/JJ editing/NN at/IN at/IN my/PRP$ own/JJ site/NN and/CC on/IN those/DT where/WRB people/NNS are/VBP kind/NN enough/JJ to/TO let/VB one/CD choose/NN for/IN themself/NN ./.
+Charles,Unfortunately/RB once/RB someone's/JJ site/NN chooses/VBZ a/DT color/NN you/PRP are/VBP stuck/VBN with/IN
+Charles,I/PRP am/VBP suggesting/VBG that/IN an/DT override/JJ be/VB provided/VBN as/IN an/DT ACCESSIBILITY/NNP issue/NN ./.
+Charles,Amaya/NNP can/MD lead/VB the/DT way/NN on/IN this/DT as/IN it/PRP does/VBZ on/IN several/JJ other/JJ issues/NNS such/JJ as/IN MathML/NNP ./.
+Charles,Thanks/NNS for/IN suggestion/NN ./.
+Charles,It/PRP took/VBD a/DT while/NN to/TO get/VB amaya.css/RB going/VBG as/IN at/IN first/JJ i/NN thought/VBD it/PRP had/VBD to/TO have/VB tags/NNS ala/RP html/NN
+Charles,this/DT worked/VBN on/IN other/JJ browsers/NNS but/CC not/RB in/IN amaya/NN
+Charles,dropped/VBD any/DT html/NN tags/NNS and/CC it/PRP worked/VBD like/IN charm/NN ./.
+Charles,I/PRP had/VBD better/RBR buy/VB a/DT better/JJR reference/NN
+Charles,one/CD by/IN que/NN
+Charles,john/NN russell/NN
+Charles,homepage:/NN
+Charles,McCathieNevile/NN
+Charles,phone:/NN +1/VBD 617/CD 258/CD 0992/CD
+Charles,W3C/NNP Web/NNP Accessibility/NNP Initiative/NNP
+Charles,"-/: 545/CD Technology/NNP Cambridge/NNP MA/NNP ,/, 02139/CD ,/, USA/NNP"
+Irene.Vatton@inrialpes.fr,
+Irene.Vatton@inrialpes.fr,
+Irene.Vatton@inrialpes.fr,
+Irene.Vatton@inrialpes.fr,
+Irene.Vatton@inrialpes.fr,Amaya/NNP does/VBZ not/RB take/VB !important/JJ flag/NN into/IN account/NN yet/RB
+Irene.Vatton@inrialpes.fr,Irene/NNP ./.

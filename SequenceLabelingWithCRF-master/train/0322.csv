@@ -1,0 +1,219 @@
+act_tag,speaker,pos,text
+sd,A,"Well/UH ,/, um/UH ,/, I/PRP 'm/VBP ,/, uh/UH ,/, pretty/RB pro/JJ gun/NN control/NN over/IN all/DT ./.","{D Well, } {F um, } I'm, {F uh, } pretty pro gun control over all. /"
+sd,A,"I/PRP ,/, uh/UH ,/, I/PRP 've/VBP had/VBN a/DT lot/NN of/IN arguments/NNS with/IN people/NNS about/IN the/DT issue/NN of/IN gun/NN control/NN","[ I, + {F uh, } I've ] had a lot of arguments with people about the issue of gun control /"
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP must/MD say/VB that/IN there/EX are/VBP a/DT couple/NN of/IN arguments/NNS against/IN ,/, uh/UH ,/, strong/JJ gun/NN control/NN which/WDT I/PRP find/VBP very/RB compelling/JJ ,/, although/IN most/JJS the/DT people/NNS who/WP argue/VBP gun/NN control/NN with/IN me/PRP I/PRP find/VBP ,/, uh/UH ,/, use/VB sort/RB of/RB canned/JJ arguments/NNS ,/, you/PRP know/VBP ,/, sort/RB of/RB the/DT N/NNP R/NNP A/NNP slogan/NN arguments/NNS","{C and, } {F uh, } I must say that there are a couple of arguments against, {F uh, } strong gun control which I find very compelling, although most the people who argue gun control with me I find, {F uh, } use sort of canned arguments, {D you know, } sort of the N R A slogan arguments /"
+sd,A,"and/CC ,/, um/UH ,/, uh/UH ,/, see/UH I/PRP 've/VBP been/VBN very/RB frustrated/JJ when/WRB I/PRP do/VBP debate/VB with/IN people/NNS about/IN it/PRP ./. Um/UH ,/,","{C and, } {F um, } {F uh, } {D see } I've been very frustrated when I do debate with people about it. {F Um, } /"
+sd,A,"I/PRP guess/VBP on/IN a/DT one/CD ,/, a/DT scale/NN of/IN one/CD of/IN ten/CD I/PRP 'm/VBP probably/RB around/RB a/DT two/CD in/IN terms/NNS of/IN fair/JJ restricting/VBG guns/NNS","I guess on [ a one, + a scale ] of one of ten I'm probably around a two in terms of fair restricting guns /"
+sd,A,"and/CC I/PRP have/VBP to/TO admit/VB most/JJS of/IN that/DT is/VBZ ,/, uh/UH ,/, strong/JJ personal/JJ distaste/NN ./.","{C and } I have to admit most of that is, {F uh, } strong personal distaste. /"
+sd,A,"I/PRP do/VBP n't/RB like/VB the/DT idea/NN of/IN people/NNS being/VBG able/JJ to/TO kill/VB me/PRP with/IN very/RB little/JJ effort/NN ./. Um/UH ,/,","I don't like the idea of people being able to kill me with very little effort. {F Um, } /"
+sd,A,"and/CC ,/, uh/UH ,/, guns/NNS are/VBP very/RB symbolic/JJ of/IN them/PRP having/VBG that/DT power/NN over/IN me/PRP ./.","{C and, } {F uh, } guns are very symbolic of them having that power over me. /"
+sd,B,"Well/UH ,/, me/PRP being/VBG from/IN Texas/NNP ,/,","{D Well, } me being from Texas <laughter>, -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy^d,B,I/PRP hope/VBP you/PRP 're/VBP ready/JJ for/IN this/DT ./.,I hope you're ready for this. /
+na,A,"Um/UH ,/, uh/UH ,/, I/PRP 'll/MD give/VB it/PRP a/DT try/NN ./.","{F Um, } {F uh, } I'll give it a try. /"
+sd,A,I/PRP 've/VBP got/VBN my/PRP$ Texan/NNP stereotypes/NNS in/IN place/NN ./.,I've got my Texan stereotypes in place. /
+sd,B,"Well/UH ,/, I/PRP 'm/VBP not/RB your/PRP$ stereotypical/JJ Texan/NNP ./.","{D Well, } I'm not your stereotypical Texan. /"
+sd,B,"I/PRP was/VBD raised/VBN around/IN guns/NNS ,/, hunting/VBG ./.","I was raised around guns, hunting. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,So/RB I/PRP do/VBP n't/RB have/VB a/DT fear/NN of/IN fire/NN arms/NNS in/IN any/DT respect/NN ./.,<Smack> {C So } I don't have a fear of fire arms in any respect. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP resp/VBP ,/, I/PRP respect/VBP them/PRP and/CC what/WP their/PRP$ capabilities/NNS are/VBP ./.","[ I resp-, + I respect ] them and what their capabilities are. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC on/IN top/NN of/IN that/DT spending/VBG a/DT good/JJ portion/NN of/IN my/PRP$ earlier/JJR years/NNS in/IN the/DT military/NN ,/, as/IN a/DT Green/NNP Beret/NNP ,/, I/PRP definitely/RB respect/VBP the/DT power/NN of/IN weaponry/NN ./.","{C And } on top of that spending a good portion of my earlier years in the military, as a Green Beret, I definitely respect the power of weaponry. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,A,It/PRP 's/BES pretty/JJ power/NN is/VBZ n't/RB it/PRP ?/.,It's pretty power isn't it <laughter>? /
+sd,B,"And/CC here/RB in/IN Houston/NNP ,/, as/RB well/RB as/IN just/RB about/RB any/DT big/JJ city/NN anywhere/RB across/IN this/DT country/NN ,/,","{C And } here in Houston, as well as just about any big city anywhere across this country, - /"
+^h,B,"and/CC here/RB ,/, here/RB ,/, here/RB you/PRP go/VBP ,/,","{C and } [ [ here, + here, ] + here ] you go, /"
+%,B,"here/RB you/PRP ,/,","here you, - /"
+sd,B,this/DT will/MD be/VB border/NN line/NN N/NNP R/NNP A/NNP which/WDT I/PRP am/VBP not/RB a/DT member/NN of/IN ./.,this will be border line N R A which I am not a member of. /
+b,A,Okay/UH ./.,Okay. /
+b,A,Okay/UH ./.,Okay. /
+qy^d,B,"When/WRB you/PRP ,/, I/PRP mean/VBP ,/, you/PRP 've/VBP heard/VBN the/DT ,/, the/DT slogan/NN ,/, um/UH ,/, if/IN you/PRP outlaw/VBP guns/NNS then/RB only/RB out/GW laws/^NNS will/MD have/VB guns/NNS ./.","When [ you, + {E I mean, } you've ] heard [ the, + the ] slogan, {F um, } if you outlaw guns then only out laws will have guns. /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+sv,A,That/DT applies/VBZ to/IN anything/NN as/RB well/RB as/IN guns/NNS ./.,That applies to anything as well as guns. /
+%,A,MUMBLEx/XX a/DT gun/NN ./.,(( )) a gun. -/
+%,B,"Well/UH ,/, you/PRP ,/, you/PRP 've/VBP got/VBN ,/,","{D Well, } [ you, + you've ] got, - /"
+sv,B,"well/UH ,/, any/DT of/IN the/DT big/JJ cities/NNS you/PRP 've/VBP got/VBN the/DT different/JJ rival/JJ gangs/NNS","{D well, } any of the big cities you've got the different rival gangs /"
+sv,B,"and/CC they/PRP 're/VBP having/VBG their/PRP$ little/JJ turf/NN wars/NNS over/IN their/PRP$ little/JJ drug/NN kingdoms/NNS and/CC such/JJ ,/,","{C and } they're having their little turf wars over their little drug kingdoms and such, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC they/PRP get/VBP out/RB their/PRP$ little/JJ Mac/NNP tens/NNS ,/,","{C And } they get out their little Mac tens, /"
+sv,B,they/PRP get/VBP out/RB their/PRP$ little/JJ uzis/NNS,they get out their little uzis /
+sv,B,and/CC they/PRP 're/VBP going/VBG to/TO fight/VB with/IN them/PRP ./.,{C and } they're going to fight with them. /
+sv,B,And/CC it/PRP does/VBZ n't/RB matter/VB what/WDT restrictions/NNS you/PRP put/VBP on/IN that/DT type/NN of/IN weapon/NN or/CC a/DT class/NN three/CD firearm/NN ./.,{C And } it doesn't matter what restrictions you put on that type of weapon or a class three firearm. /
+sv,B,If/IN they/PRP want/VBP it/PRP they/PRP 'll/MD get/VB it/PRP ./.,If they want it they'll get it. /
+sv,B,"I/PRP do/VBP n't/RB care/VB if/IN ,/, if/IN they/PRP 've/VBP got/VBN to/TO go/VB down/IN into/IN New/NNP Mexico/NNP to/TO get/VB it/PRP","I don't care [ if, + if ] they've got to go down into New Mexico to get it /"
+sv,B,they/PRP 'll/MD get/VB it/PRP,they'll get it /
+sv,B,and/CC they/PRP 'll/MD get/VB across/IN the/DT border/NN ./.,{C and } they'll get across the border. /
+sd,B,"Now/RB my/PRP$ position/NN ,/, although/IN ,/, I/PRP have/VBP absolutely/RB no/DT use/NN for/IN a/DT fully/RB automatic/JJ weapon/NN ,/,","{D Now } my position, although, I have absolutely no use for a fully automatic weapon,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,anyway/RB ./.,anyway. /
+sv,B,"Since/IN I/PRP am/VBP a/DT law-abiding/JJ citizen/NN and/CC I/PRP have/VBP never/RB had/VBN a/DT felony/NN ,/, if/IN I/PRP wanted/VBD to/TO buy/VB one/CD ,/, I/PRP do/VBP n't/RB think/VB there/EX should/MD be/VB that/RB big/JJ of/IN a/DT restriction/NN on/IN it/PRP ./.","Since I am a law-abiding citizen and I have never had a felony, if I wanted to buy one, I don't think there should be that big of a restriction on it. /"
+sd,B,"If/IN they/PRP want/VBP to/TO run/VB a/DT background/NN check/NN on/IN me/PRP ,/, fine/UH ./.","If they want to run a background check on me, fine. /"
+sd,B,"If/IN they/PRP want/VBP to/TO put/VB a/DT seven/CD day/NN waiting/NN period/NN ,/, fine/JJ ,/, again/RB ./.","If they want to put a seven day waiting period, fine, again. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"If/IN they/PRP want/VBP ,/, want/VBP me/PRP to/TO present/VB a/DT letter/NN from/IN my/PRP$ county/NN sheriff/NN saying/VBG that/IN I/PRP 've/VBP got/VBN his/PRP$ permission/NN to/TO have/VB an/DT automatic/JJ weapon/NN in/IN his/PRP$ county/NN ,/, that/DT 's/BES fine/JJ too/RB ./.","If they [ want, + want ] me to present a letter from my county sheriff saying that I've got his permission to have an automatic weapon in his county, that's fine too. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"What/WP I/PRP do/VBP n't/RB gets/VBZ dangerous/JJ in/IN terms/NNS of/IN civil/JJ liberties/NNS because/IN pretty/RB soon/RB it/PRP 's/BES it/PRP would/MD n't/RB ,/,","What I don't gets dangerous in terms of civil liberties because pretty soon [ it's + <laughter> it ] wouldn't, - /"
+sv,A,"you/PRP do/VBP n't/RB want/VB to/TO have/VB someone/NN making/VBG a/DT personal/JJ trust/NN in/IN that/DT way/NN ,/, I/PRP would/MD hope/VB ./. I/PRP mean/VBP ,/, because/IN I/PRP mean/VBP someone/NN","you don't want to have someone making a personal trust in that way, I would hope. {E I mean, } because {E I mean } someone - /"
+sd,A,the/DT personal/JJ sheriff/NN does/VBZ n't/RB like/VB does/VBZ n't/RB get/VB to/TO have/VB a/DT gun/NN,the personal sheriff [ doesn't like + doesn't ] get to have a gun /
+%,A,"and/CC someone/NN the/DT personal/JJ sheriff/NN ,/,","{C and } someone the personal sheriff, -/"
+%,B,"Well/UH ,/,","{D Well, } -/"
+x,A,"MUMBLEx/XX ,/,","(( )) ,"
+sv,B,"the/DT only/JJ ,/, well/UH ,/, the/DT criteria/NNS the/DT sheriff/NN would/MD have/VB to/TO follow/VB has/VBZ ,/, is/VBZ this/DT guy/NN a/DT convicted/JJ felon/NN ?/. Uh/UH ,/,","[ the only, + {D well, } the criteria ] the sheriff would have to follow [ has, + is ] this guy a convicted felon? {F Uh, } /"
+^q,B,is/VBZ he/PRP a/DT habitual/JJ trouble/NN maker/NN ?/.,is he a habitual trouble maker? /
+^q,B,"Are/VBP we/PRP picking/VBG him/PRP up/RP every/DT Saturday/NNP ,/,","Are we picking him up every Saturday,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,for/IN a/DT drunk/JJ and/CC disorderly/JJ,for a drunk and disorderly /
+^q,B,and/CC if/IN he/PRP had/VBD an/DT automatic/JJ weapon/NN could/MD he/PRP really/RB be/VB raising/VBG some/DT problems/NNS ./.,{C and } if he had an automatic weapon could he really be raising some problems. /
+sv,B,"You/PRP know/VBP ,/, just/RB proving/VBG that/IN you/PRP 're/VBP a/DT basically/RB a/DT good/JJ citizen/NN ./.","{D You know, } just proving that you're a basically a good citizen. -/"
+sv,A,"But/CC if/IN you/PRP 're/VBP not/RB a/DT ,/, if/IN you/PRP 're/VBP not/RB a/DT basically/RB good/JJ citizen/NN ,/,","{C But } [ if you're not a, + if you're not a ] basically good citizen, - /"
+sv,A,you/PRP just/RB told/VBD me/PRP that/IN you/PRP 're/VBP going/VBG to/TO get/VB one/CD of/IN those/DT guns/NNS anyway/RB ./.,you just told me that you're going to get one of those guns anyway. /
+sv,B,"If/IN ,/, if/IN they/PRP want/VBP the/DT firepower/NN they/PRP can/MD get/VB it/PRP ./.","[ If, + if ] they want the firepower they can get it. /"
+%,A,"So/RB why/WRB hav/VBP ,/,","{C So } why hav-, -/"
+sv,B,because/IN it/PRP does/VBZ n't/RB matter/VB how/WRB restrictive/JJ your/PRP border/NN control/NN points/NNS are/VBP,because it doesn't matter how restrictive your border control points are /
+sv,B,they/PRP 'll/MD get/VB it/PRP across/IN the/DT border/NN one/CD way/NN or/CC the/DT other/JJ ./.,they'll get it across the border one way or the other. /
+qh,A,So/RB why/WRB have/VB any/DT restrictions/NNS at/IN all/DT ?/.,{C So } why have any restrictions at all? /
+b,B,"Uh/UH ,/, okay/UH ./.","{F Uh, } okay. /"
+%,B,"Let/VB ,/,","Let-, - /"
+ad,B,"go/VB back/RB to/IN that/DT one/CD to/IN ten/CD scale/NN where/WRB one/CD ,/,","go back to that one to ten scale where one,"
+x,A,./.,<Laughter>.
++,B,"being/VBG ,/,","being,"
+x,A,./.,<Laughter>.
++,B,"full/JJ gun/NN control/NN ,/,","full gun control,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,ten/CD being/VBG none/NN ./.,ten being none. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP 'd/VBD said/VBN about/RB an/DT eight/CD ./.,I'd said about an eight. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Well/UH ,/, we/PRP can/MD could/MD be/VB ,/,","{D Well, } we [ can + could ] be, -/"
+sd,B,"I/PRP said/VBD the/DT restrictions/NNS I/PRP would/MD like/VB to/TO see/VB on/IN ,/, for/IN anybody/NN ,/, whether/IN it/PRP being/VBG for/IN handgun/NN ,/, a/DT rifle/NN ,/, a/DT shotgun/NN ,/,","I said the restrictions I would like to see [ on, + for ] anybody, whether it being for handgun, a rifle, a shotgun, - /"
+sd,B,"I/PRP would/MD like/VB to/TO see/VB them/PRP go/VB through/IN either/RB ,/,","I would like to see them go through either, /"
+sd,B,"I/PRP 'd/MD like/VB to/TO see/VB a/DT law/NN enforcement/NN agency/NN ,/, not/RB N/NNP R/NNP A/NNP ,/,","I'd like to see a law enforcement agency, not N R A, /"
+sv,B,"but/CC whether/IN it/PRP be/VB the/DT ,/, your/PRP$ state/NN police/NNS or/CC your/PRP$ county/NN police/NN for/IN you/PRP to/TO be/VB able/JJ purchase/VB a/DT handgun/NN ./.","{C but } whether it be [ the, + your ] state police or your county police for you to be able purchase a handgun. /"
+sv,B,"You/PRP got/VBN to/TO go/VB through/IN their/PRP$ course/NN and/CC get/VB certified/VBN that/IN you/PRP know/VBP how/WRB to/TO properly/RB handle/VB the/DT weapon/NN ,/, how/WRB to/TO safely/RB handle/VB the/DT weapon/NN ,/, how/WRB to/TO properly/RB maintain/VB it/PRP ,/, the/DT three/CD basics/NNS ./.","You got to go through their course and get certified that you know how to properly handle the weapon, how to safely handle the weapon, how to properly maintain it, the three basics. /"
+aa,A,"Well/UH ,/, that/WDT makes/VBZ a/DT lot/NN of/IN since/NN to/IN me/PRP ./.","{D Well, } that makes a lot of since to me. /"
+sv,A,"I/PRP mean/VBP ,/, I/PRP certainly/RB feel/VBP that/IN if/IN ,/, if/IN ,/, we/PRP may/MD disagree/VB on/IN when/WRB someone/NN should/MD own/VB a/DT fire/NN arm/NN","{E I mean, } I certainly feel that [ if, + if, ] we may disagree on when someone should own a fire arm /"
+aa,A,"but/CC ,/, uh/UH ,/, I/PRP certainly/RB agree/VBP that/IN if/IN someone/NN owns/VBZ a/DT fire/NN arm/NN that/DT have/VBP as/RB much/JJ responsibility/NN to/TO know/VB how/WRB do/VB ,/, use/VB it/PRP safely/RB as/IN someone/NN learns/VBZ how/WRB to/TO drive/VB ,/, if/IN not/RB more/RBR so/RB ./.","{C but, } {F uh, } I certainly agree that if someone owns a fire arm that have as much responsibility to know how do, use it safely as someone learns how to drive, if not more so. /"
+%,B,"Well/UH ,/, the/DT han-/NNS ,/,","{D Well, } the han-, - /"
+sv,B,"in/IN the/DT hands/NNS of/IN the/DT wrong/JJ person/NN the/DT car/NN can/MD be/VB just/RB as/RB deadly/JJ as/IN the/DT weapon/NN ,/,","in the hands of the wrong person the car can be just as deadly as the weapon,"
+b,A,Yeah/UH ./.,Yeah <laughter>. /
++,B,"as/IN a/DT ,/, as/IN a/DT pistol/NN ./.","[ as a, + as a ] pistol. /"
+sd,A,"Well/UH ,/, I/PRP have/VBP a/DT bicycle/NN","{D Well, } I have a bicycle <laughter> /"
+sd,A,and/CC that/DT scares/VBZ me/PRP too/RB to/TO tell/VB you/PRP the/DT truth/NN because/IN I/PRP 've/VBP been/VBN run/VBN off/IN the/DT road/NN and/CC all/DT sorts/NNS of/IN things/NNS ./.,{C and } that scares me too to tell you the truth <laughter> because I've been run off the road and all sorts of things. /
+qw,A,"Well/UH ,/, I/PRP 'm/VBP still/RB ,/, I/PRP 'm/VBP still/RB puzzled/JJ though/RB ,/, what/WP is/VBZ the/DT argument/NN ,/,","{D Well, } [ I'm still, + I'm still ] puzzled though, what is the argument, /"
+qw,A,"how/WRB does/VBZ the/DT argument/NN work/VB if/IN ,/, uh/UH ,/, if/IN the/DT bad/JJ guys/NNS are/VBP going/VBG to/TO have/VB guns/NNS anyway/RB ./.","how does the argument work [ if, + {F uh, } if ] the bad guys are going to have guns anyway. /"
+qw,A,"What/WP 's/BES the/DT point/NN of/IN putting/VBG a/DT restrictio-/NN ,/,","What's the point of putting a restrictio-, /"
+sv,A,"basically/RB ,/, the/DT restrictions/NNS are/VBP just/RB to/TO penalize/VB the/DT good/JJ guys/NNS because/IN the/DT bad/JJ guys/NNS are/VBP going/VBG to/TO get/VB the/DT guns/NNS anyway/RB","basically, the restrictions are just to penalize the good guys because the bad guys are going to get the guns anyway /"
+sv,A,they/PRP 're/VBP not/RB going/VBG to/TO take/VB those/DT courses/NNS ./.,they're not going to take those courses. /
+qy,A,"Is/VBZ it/PRP ,/, uh/UH ,/, is/VBZ it/PRP a/DT way/NN of/IN raising/VBG the/DT prices/NNS of/IN illegal/JJ guns/NNS ?/.","[ Is it, + {F uh, } is it ] a way of raising the prices of illegal guns? /"
+%,B,"Well/UH there/EX 's/BES ,/,","{D Well } there's, -/"
+sv,A,If/IN it/PRP 's/BES not/RB going/VBG to/TO cut/VB the/DT supply/NN of/IN illegal/JJ guns/NNS it/PRP must/MD going/VBG to/IN at/IN least/JJS raise/VB the/DT prices/NNS,If it's not going to cut the supply of illegal guns it must going to at least raise the prices /
+qy,A,"does/VBZ that/DT ,/, uh/UH ,/, mean/VB advantage/NN ?/.","does that, {F uh, } mean advantage? /"
+ng,B,"Uh/UH ,/, not/RB necessarily/RB a/DT price/NN thing/NN ./.","{F Uh, } not necessarily a price thing. /"
+sd,B,What/WP is/VBZ happening/VBG at/IN least/JJS in/IN this/DT state/NN,What is happening at least in this state - /
+sv,B,"and/CC I/PRP expect/VBP to/TO see/VB it/PRP in/IN other/JJ states/NNS very/RB soon/RB ,/,","{C and } I expect to see it in other states very soon, /"
+sd,B,"legislation/NN been/VBN introduced/VBN as/IN that/IN ,/, if/IN a/DT citizen/NN of/IN the/DT state/NN ,/, being/VBG ,/,","legislation been introduced [ as + ] that, if a citizen of the state, being,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"myself/PRP ,/, has/VBZ not/RB committed/VBN a/DT felony/NN and/CC has/VBZ completed/VBN a/DT certified/JJ weapons/NNS course/NN ,/, I/PRP can/MD carry/VB a/DT weapon/NN on/IN me/PRP at/IN all/DT times/NNS concealed/JJ or/CC uncon/JJ ,/, unconcealed/JJ ./.","myself, has not committed a felony and has completed a certified weapons course, I can carry a weapon on me at all times concealed or uncon-, unconcealed. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,Okay/UH ./.,Okay. /
+qy,B,"You/PRP ,/, you/PRP 're/VBP ,/, you/PRP 're/VBP from/IN California/NNP ,/, right/UH ?/.","[ [ You, + you're, ] + you're ] from California, right? /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+qy,B,L/NNP A/NNP area/NN ?/.,L A area? /
+nn,A,"Uh/UH ,/, no/UH ./.","{F Uh, } no. /"
+sd,A,Bay/NNP area/NN ./.,Bay area. /
+sd,A,"San/NNP Francisco/NNP ,/,","San Francisco,"
+bk,B,Okay/UH ./.,Okay. /
++,A,Bay/NNP area/NN ./.,Bay area. /
+bk,B,Okay/UH ./.,Okay. /
+qy,B,You/PRP 've/VBP been/VBN to/IN the/DT city/NN ?/.,You've been to the city? /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC all/PDT these/DT people/NNS come/VBP around/RB ,/,","{C And } all these people come around, /"
+sv,B,"someone/NN attempts/VBZ to/TO mug/VB me/PRP I/PRP would/MD ju-/RB ,/,","someone attempts to mug me I would ju-, - /"
+%,B,"I/PRP would/MD ,/,","I would, - /"
+sd,B,as/IN it/PRP stands/VBZ now/RB if/IN he/PRP pulls/VBZ a/DT blade/NN on/IN me/PRP we/PRP 're/VBP equally/RB matched/VBN because/IN I/PRP can/MD meet/VB him/PRP blade/NN for/IN blade/NN ./.,as it stands now if he pulls a blade on me we're equally matched because I can meet him blade for blade. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Now/RB if/IN this/DT legislation/NN comes/VBZ through/IN ,/,","{D Now } if this legislation comes through, /"
+%,B,"he/PRP pull/VBP ,/,","he pull-, - /"
+sd,B,I/PRP 'm/VBP out/IN with/IN my/PRP$ family/NN --/:,I'm out with my family -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: we/PRP 've/VBP gone/VBN shopping/VBG ,/,","-- we've gone shopping, /"
+sd,B,"we/PRP 're/VBP fixing/VBG to/TO get/VB in/IN the/DT car/NN ,/,","we're fixing to get in the car, /"
+sd,B,"this/DT guy/NN comes/VBZ up/RP ,/,","this guy comes up, /"
+sd,B,he/PRP pulls/VBZ a/DT blade/NN on/IN me/PRP ./.,he pulls a blade on me. /
+sd,B,I/PRP can/MD pull/VB a/DT gun/NN on/IN him/PRP now/RB ./.,I can pull a gun on him now. /
+sv,B,"When/WRB you/PRP 're/VBP ,/, and/CC when/WRB you/PRP 're/VBP looking/VBG down/IN the/DT barrel/NN of/IN a/DT hand/NN cannon/NN things/NNS change/VBP real/RB quick/RB ./.","[ When you're, + {C and } when you're ] looking down the barrel of a hand cannon things change real quick. /"
+qw,A,What/WP if/IN you/PRP 're/VBP looking/VBG down/IN the/DT barrel/NN of/IN a/DT hand/NN cannon/NN ?/.,What if you're looking down the barrel of a hand cannon? /
+sv,B,Then/RB it/PRP 's/BES still/RB equally/RB matched/VBN ./.,Then it's still equally matched. /
+sd,B,"Having/VBG ,/,","[ Having, +"
+%,A,"I/PRP ,/,","I, -/"
++,B,"having/VBG spent/VBN time/NN in/IN combat/NN I/PRP feel/VBP ,/,","having ] spent time in combat [ I feel, +"
+b,A,Yeah/UH ./.,Yeah. /
++,B,I/PRP feel/VBP it/PRP before/IN they/PRP 'll/MD get/VB the/DT gun/NN on/IN me/PRP ./.,I feel ] it before they'll get the gun on me. /
+%,A,"Well/UH ,/,","{D Well, } -/"
+sd,B,"If/IN I/PRP 'm/VBP ,/,","If I'm,"
+b,A,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP sure/JJ ,/,","[ I'm, + I'm ] sure, /"
++,B,"MUMBLEx/XX at/IN the/DT same/JJ ,/,","(( )) at the same,"
+sv,A,"I/PRP 'm/VBP sure/RB given/VBN all/DT ,/,","I'm sure [ given all, +"
++,B,time/NN ./.,time. -/
++,A,"given/VBN all/DT your/PRP$ training/NN I/PRP 'm/VBP sure/JJ that/IN ,/, you/PRP know/VBP ,/, you/PRP 'd/MD ,/,","given all ] your training I'm sure that, {D you know, } you'd, - /"
+sd,A,"if/IN I/PRP walk/VBP into/IN a/DT bad/JJ neighborhood/NN I/PRP 'm/VBP sure/JJ I/PRP 'd/MD want/VB to/TO walk/VB through/IN with/IN you/PRP because/IN I/PRP 'm/VBP sure/JJ you/PRP have/VBP good/JJ ,/, you/PRP know/VBP ,/, fa-/RB ,/, far/RB above/IN the/DT average/JJ instinct/NN for/IN how/WRB to/TO use/VB guns/NNS and/CC how/WRB to/TO use/VB them/PRP effectively/RB and/CC everything/NN ./.","<laughter> if I walk into a bad neighborhood I'm sure I'd want to walk through with you because I'm sure you have [ [ good, + {D you know, } fa-, ] + far ] above the average instinct for how to use guns and how to use them effectively and everything. /"
+sv,A,"Um/UH ,/, I/PRP 'm/VBP ,/, quite/RB concerned/JJ that/IN if/IN you/PRP let/VBP everyone/NN","{F Um, } I'm, quite concerned that if you let everyone - /"
+sv,A,"has/VBZ n't/RB yet/RB used/VBN a/DT gun/NN in/IN a/DT ,/, have/VBP n't/RB ,/, has/VBZ n't/RB yet/CC committed/VBN a/DT felony/NN ,/,","[ hasn't yet used a gun in a, + [ haven't, + hasn't ] yet committed a felony, ] - /"
+sv,A,if/IN you/PRP let/VBP them/PRP all/DT walk/VB around/RB carrying/VBG guns/NNS,if you let them all walk around carrying guns - /
+sv,A,"in/IN this/DT sort/RB of/RB wild/JJ west/NN scenario/NN ,/, you/PRP 're/VBP going/VBG to/TO get/VB an/DT awful/JJ lot/NN of/IN people/NNS shooting/VBG guns/NNS pretty/RB quickly/RB just/RB given/VBN human/NN nature/NN ./.","in this sort of wild west scenario, you're going to get an awful lot of people shooting guns pretty quickly just given human nature. /"
+sv,A,You/PRP 're/VBP going/VBG to/TO start/VB getting/VBG a/DT lot/NN of/IN gunfire/NN ./.,You're going to start getting a lot of gunfire. /
+sd,A,"It/PRP 's/BES ,/, it/PRP 's/BES hard/JJ for/IN me/PRP to/TO imagine/VB that/IN a/DT ,/, a/DT situation/NN of/IN ,/, you/PRP know/VBP ,/,","[ It's, + it's ] hard for me to imagine that [ a, + a ] situation of, {D you know, } - /"
+ad,A,"take/VB it/PRP to/IN a/DT logical/JJ extreme/NN ,/,","take it to a logical extreme, /"
+sv,A,if/IN everyone/NN walking/VBG around/RB carrying/VBG a/DT guns/NNS you/PRP 're/VBP not/RB going/VBG to/TO have/VB an/DT increase/NN in/IN gunfire/NN ./.,if everyone walking around carrying a guns you're not going to have an increase in gunfire. /
+%,B,"I/PRP ,/, actually/RB it/PRP 's/BES no-/XX ,/,","[ I, + {D actually } it's ] no-, - /"
+sv,B,"it/PRP 's/BES more/JJR of/IN a/DT police/NN action/NN in/IN itself/PRP ,/,","it's more of a police action in itself, /"
+sv,B,"the/DT fact/NN that/IN everybody/NN is/VBZ packing/VBG a/DT piece/NN is/VBZ a/DT deterrence/NN for/IN someone/NN saying/VBG ,/, well/UH ,/, I/PRP 'm/VBP going/VBG to/TO mug/VB this/DT guy/NN right/RB here/RB","the fact that everybody is packing a piece is a deterrence for someone saying, {D well, } I'm going to mug this guy right here /"
+^q,B,"but/CC hey/UH ,/, he/PRP 's/BES carrying/VBG just/RB as/IN much/JJ firepower/NN as/IN I/PRP can/MD ./.","{C but } hey, he's carrying just as much firepower as I can. /"
+sv,B,"And/CC if/IN they/PRP 're/VBP sca/VBN ,/, if/IN you/PRP got/VBD to/TO go/VB through/IN a/DT certification/NN course/NN to/TO get/VB where/WRB ,/, to/IN where/WRB you/PRP can/MD carry/VB it/PRP in/IN public/NN ,/,","{C And } if they're sca-, if you got to go through a certification course to get [ where, + to where ] you can carry it in public,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,then/RB this/DT individual/NN also/RB knows/VBZ this/DT guy/NN 's/BES pretty/RB good/JJ with/IN it/PRP ./.,then this individual also knows this guy's pretty good with it. /
+sv,B,"Now/RB whether/IN this/DT person/NN is/VBZ made/VBN the/DT moral/JJ decision/NN whether/IN he/PRP can/MD take/VB another/DT human/NN life/NN or/CC not/RB ,/,","{D Now } whether this person is made the moral decision whether he can take another human life or not,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"that/DT 's/BES another/DT trip/NN ,/,","that's another trip, /"
+b,A,Uh-huh/UH,Uh-huh /
+%,B,but/CC ./.,{C but. } -/
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"In/IN defense/NN of/IN myself/PRP ,/, defense/NN of/IN my/PRP$ family/NN or/CC defense/NN of/IN my/PRP$ friends/NNS I/PRP can/MD blow/VB somebody/NN a/GW way/^RB in/IN a/DT heart/NN beat/NN ./.","In defense of myself, defense of my family or defense of my friends I can blow somebody a way in a heart beat."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"Even/RB ,/, even/RB more/RBR so/RB when/WRB it/PRP comes/VBZ to/IN my/PRP$ ,/, my/PRP$ wife/NN and/CC son/NN ./.","[ Even, + even ] more so when it comes to [ my, + my ] wife and son. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,B,"Anybody/NN ,/,","[ Anybody, +"
+ba,A,"I/PRP know/VBP ,/,","I know, /"
++,B,"anybody/NN tries/VBZ to/TO hurt/VB them/PRP I/PRP wo/MD n't/RB even/RB blink/VB ,/,","anybody ] tries to hurt them I won't even blink, /"
+aa,A,No/UH ./.,No. /
+ba,A,"I/PRP ,/, I/PRP understand/VBP that/IN ./.","[ I, + I ] understand that. /"
+qw,A,"What/WP if/IN ,/, uh/UH ,/, what/WP if/IN you/PRP think/VBP someone/NN 's/BES trying/VBG to/TO hurt/VB them/PRP and/CC you/PRP make/VBP a/DT mistake/NN ?/.","[ What if, + {F uh, } what if ] you think someone's trying to hurt them and you make a mistake? /"
+sv,B,"This/DT ,/, this/DT is/VBZ where/WRB the/DT question/NN of/IN gun/NN control/NN comes/VBZ in/IN ./.","[ This, + this ] is where the question of gun control comes in. /"
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,"Well/UH ,/, uh/UH ,/, that/DT ,/,","{D Well, } {F uh, } [ that, +"
+sv,B,"What/WP ,/,","What,"
++,A,that/DT was/VBD the/DT topic/NN ./.,that ] was the topic. /
++,B,I/PRP consider/VBP gun/NN control/NN is/VBZ being/VBG able/JJ to/TO hit/VB my/PRP$ target/NN with/IN the/DT first/JJ shot/NN ./.,I consider gun control is being able to hit my target with the first shot. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"Say/UH a/DT person/NN ,/, uh/UH ,/, uh/UH ,/, get/VB ,/,","Say a person, {F uh, } {F uh, } get, - /"
+sd,B,all/DT of/IN a/DT sudden/JJ my/PRP$ combat/NN in/IN me/PRP goes/VBZ up/RP,all of a sudden my combat in me goes up /
+sd,B,"and/CC say/UH I/PRP 've/VBP got/VBN the/DT vibes/NNS ,/, this/DT guy/NN 's/BES fixing/VBG to/TO do/VB something/NN ,/,","{C and } say I've got the vibes, this guy's fixing to do something, /"
+sd,B,I/PRP go/VBP ahead/RB and/CC pull/VB my/PRP$ piece/NN ./.,I go ahead and pull my piece. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC I/PRP make/VBP sure/JJ this/DT persons/NN sees/VBZ it/PRP so/IN that/IN he/PRP 's/HVS got/VBN now/RB doubt/NN that/IN I/PRP will/MD use/VB it/PRP on/IN him/PRP,{C And } I make sure this persons sees it so that he's got now doubt that I will use it on him /
+sd,B,and/CC I/PRP will/MD use/VB it/PRP right/RB then/RB ./.,{C and } I will use it right then. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"If/IN he/PRP does/VBZ n't/RB back/VB up/RP at/IN that/DT point/NN he/PRP deserves/VBZ what/WP he/PRP gets/VBZ because/IN I/PRP have/VBP sent/VBN the/DT clearest/JJS signal/NN you/PRP mess/VBP with/IN me/PRP ,/, you/PRP mess/VBP with/IN my/PRP$ family/NN ,/, I/PRP 'm/VBP going/VBG to/TO dust/VB you/PRP ./.","If he doesn't back up at that point he deserves what he gets because I have sent the clearest signal you mess with me, you mess with my family, I'm going to dust you. /"
+sd,B,As/IN it/PRP stands/VBZ now/RB I/PRP 've/VBP got/VBN to/TO do/VB that/DT with/IN a/DT blade/NN ./.,As it stands now I've got to do that with a blade. /
+sd,B,"And/CC the/DT only/JJ reason/NN I/PRP feel/VBP confid/JJ ,/, com/JJ ,/, com/JJ ,/, comfortable/JJ doing/VBG that/DT is/VBZ because/IN of/IN the/DT training/NN I/PRP 've/VBP had/VBN ./.","{C And } the only reason I feel [ [ [ confid-, + com-, ] + com-, ] + comfortable ] doing that is because of the training I've had. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Well/UH as/IN ,/, as/IN someone/NN who/WP would/MD ,/, would/MD possibly/RB be/VB in/IN the/DT role/NN of/IN an/DT independent/JJ bystander/NN ,/, I/PRP feel/VBP more/RBR comfortable/JJ with/IN people/NNS having/VBG blades/NNS because/IN ,/, uh/UH ,/, you/PRP 're/VBP not/RB going/VBG to/TO get/VB bullets/NNS flying/VBG around/RB killing/VBG people/NNS instantly/RB","{D Well } [ as, + as ] someone who [ would, + would ] possibly be in the role of an independent bystander, I feel more comfortable with people having blades because, {F uh, } you're not going to get <breathing> bullets flying around killing people instantly /"
+%,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+sd,B,"Well/UH ,/, if/IN I/PRP 'm/VBP the/DT one/NN doing/VBG the/DT shooting/NN I/PRP do/VBP n't/RB miss/VB ./.","{D Well, } if I'm the one doing the shooting I don't miss. /"
+sd,B,That/DT 's/BES the/DT kind/NN of/IN training/NN I/PRP 've/VBP had/VBN ./.,That's the kind of training I've had. /
+%,B,I/PRP mean/VBP .../:,{E I mean } ... -/

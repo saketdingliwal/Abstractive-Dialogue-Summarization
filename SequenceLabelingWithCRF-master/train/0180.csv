@@ -1,0 +1,129 @@
+act_tag,speaker,pos,text
+fp,A,Hello/UH ./.,Hello. /
+fp,B,Hello/UH ./.,Hello. /
+fp,A,"Hello/UH ,/,","Hello, /"
+fp,B,"Hello/UH ,/,","Hello, /"
+fp,A,Hi/UH ./.,Hi. /
+ba,A,Boy/UH,Boy /
+sd,A,it/PRP took/VBD forever/RB to/TO find/VB somebody/NN ./.,it took forever to find somebody. /
+sd,B,"Oh/UH ,/, well/UH I/PRP 'm/VBP glad/JJ you/PRP found/VBD me/PRP ./.","{F Oh, } <laughter> {D well } I'm glad you found me. /"
+ba,A,"Good/UH ,/,","Good, /"
+sd,A,"well/UH I/PRP 'm/VBP ,/, my/PRP$ name/NN 's/BES Gail/NNP ,/,","{D well } [ I'm, + my name's ] Gail, /"
+qy^d,A,"and/CC I/PRP guess/VBP we/PRP have/VBP to/TO ,/,","{C and } I guess we have to,"
+x,B,,<Throat_clearing>.
++,A,talk/VB about/IN credit/NN cards/NNS ./.,talk about credit cards. /
+ny,B,Yes/UH ./.,Yes. /
+sd,B,My/PRP$ name/NN is/VBZ Carolyn/NNP ./.,My name is Carolyn. /
+b,A,"Okay/UH ,/,","Okay, /"
+qy^d,A,"well/UH ,/, if/IN you/PRP 're/VBP ready/JJ ,/, then/RB uh/UH ,/,","{D well, } if you're ready, then {F uh, } -/"
+aa,B,Okay/UH ./.,Okay. /
+sd,B,"I/PRP 'll/MD just/RB let/VB you/PRP start/VB ,/,","I'll just let you start, /"
+aa,A,"Okay/UH ,/,","Okay, /"
+sd,A,I/PRP 'll/MD press/VB one/CD ./.,I'll press one <beep>. /
+%,A,"Okay/UH ,/,","Okay, /"
+%,A,"well/UH ,/, I/PRP 'm/VBP not/RB ,/,","{D well, } I'm not, - /"
+sd,A,"this/DT is/VBZ kind/RB of/RB an/DT interesting/JJ subject/NN to/TO come/VB up/RP for/IN me/PRP ,/, because/IN credit/NN cards/NNS are/VBP my/PRP$ downfall/NN ./.","this is kind of an interesting subject to come up for me, because credit cards are my downfall. /"
+sv,A,"I/PRP just/RB find/VBP it/PRP so/RB easy/JJ to/TO ,/, to/TO charge/VB something/NN when/WRB I/PRP do/VBP n't/RB have/VB the/DT money/NN to/TO pay/VB for/IN it/PRP ,/,","I just find it so easy [ to, + to ] charge something when I don't have the money to pay for it, /"
+sd,A,and/CC I/PRP 'm/VBP really/RB trying/VBG to/TO get/VB out/IN of/IN that/DT habit/NN ./.,{C and } I'm really trying to get out of that habit. /
+sv,A,So/RB ./. I/PRP think/VBP they/PRP 're/VBP kind/RB of/RB dangerous/JJ ./.,{C So. } I think they're kind of dangerous. /
+aa,B,"I/PRP think/VBP they/PRP are/VBP ,/, too/RB ./.","I think they are, too. /"
+sd,B,"And/CC ,/, unfortunately/RB ,/, um/UH ,/, we/PRP use/VBP ours/PRP in/IN ,/, we/PRP do/VBP n't/RB use/VB them/PRP all/PDT the/DT time/NN ,/,","{C And, } unfortunately, {F um, } [ we use ours in, + we don't use them ] all the time, /"
+sd,B,"but/CC we/PRP use/VBP them/PRP like/IN at/IN Christmas/NNP time/NN ,/,","{C but } we use them like at Christmas time, /"
+sv,B,and/CC then/RB it/PRP seems/VBZ like/IN it/PRP takes/VBZ all/DT year/NN to/TO pay/VB them/PRP off/RP when/WRB you/PRP use/VBP them/PRP like/IN that/DT ./.,{C and then } it seems like it takes all year to pay them off when you use them like that <laughter>. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"But/CC ,/, um/UH ,/, I/PRP would/MD love/VB to/TO just/RB take/VB some/DT scissors/NNS and/CC cut/VB them/PRP in/IN half/NN ./.","{C But, } {F um, } I would love to just take some scissors and cut them in half. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,me/PRP too/RB ./.,me too. /
+sv,B,"I/PRP think/VBP sometimes/RB when/WRB you/PRP look/VBP at/IN the/DT interest/NN that/WDT you/PRP 're/VBP paying/VBG on/IN them/PRP ,/, um/UH ,/, that/DT 's/BES what/WP gets/VBZ to/TO be/VB the/DT really/RB scary/JJ part/NN ,/, you/PRP know/VBP ,/, if/IN you/PRP think/VBP ,/, when/WRB it/PRP comes/VBZ around/RP to/IN income/NN tax/NN time/NN ,/, and/CC you/PRP look/VBP at/IN how/WRB much/JJ money/NN you/PRP paid/VBD out/RP just/RB in/IN interest/NN all/DT year/NN ,/,","I think sometimes when you look at the interest that you're paying on them, {F um, } that's what gets to be the really scary part, {D you know, } if you think, when it comes around to income tax time, and you look at how much money you paid out just in interest all year, /"
+sv,B,you/PRP could/MD really/RB get/VB a/DT lot/NN more/JJR stuff/NN --/:,you could really get a lot more stuff --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: if/IN you/PRP were/VBD just/RB able/JJ to/TO pay/VB outright/RB for/IN it/PRP ./.,-- if you were just able to pay outright for it. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"that/DT 's/BES true/JJ ,/,","that's true, /"
+sv,A,that/DT 's/BES true/JJ ./.,that's true. /
+sv,A,"Seems/VBZ just/RB like/IN our/PRP$ society/NN is/VBZ so/RB ,/, um/UH ,/, pushes/VBZ so/RB hard/RB for/IN ,/, you/PRP can/MD have/VB it/PRP ,/, you/PRP know/VBP ,/, and/CC then/RB no/DT interest/NN ,/, no/DT payments/NNS for/IN a/DT year/NN ,/, and/CC stuff/NN like/IN this/DT ,/,","Seems just like our society [ is so, + {F um, } pushes so ] hard for, you can have it, {D you know, } and then no interest, no payments for a year, and stuff {D like } this, /"
+sv,A,"they/PRP 're/VBP really/RB trying/VBG to/TO get/VB you/PRP into/IN that/DT situation/NN ,/, because/IN they/PRP know/VBP they/PRP 've/VBP really/RB got/VBN you/PRP --/:","they're really trying to get you into that situation, because they know they've really got you --"
++,A,"--/: then/RB ,/,","-- then, /"
+%,A,so/RB ./.,{C so. } -/
+sv,B,"all/DT I/PRP know/VBP is/VBZ some/DT of/IN my/PRP$ credit/NN cards/NNS ,/,","all I know is some of my credit cards, - /"
+sd,B,"like/IN ,/, um/UH ,/, we/PRP have/VBP a/DT Sears/NNP one/CD ,/,","{D like, } {F um, } we have a Sears one, /"
+sd,B,and/CC we/PRP always/RB get/VBP a/DT maintenance/NN agreement/NN every/DT year/NN --/:,{C and } we always get a maintenance agreement every year -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"--/: and/CC it/PRP 's/BES just/RB easier/JJR to/TO say/VB ,/, you/PRP know/VBP ,/, just/RB put/VB that/DT on/IN my/PRP$ credit/NN card/NN ./.","-- {C and } it's just easier to say, {D you know, } just put that on my credit card. /"
+sv,B,"Well/UH that/DT 's/BES probably/RB four/CD or/CC five/CD hundred/CD dollars/NNS ,/, you/PRP know/VBP ,/, that/WDT goes/VBZ on/IN at/IN that/DT point/NN --/:","{D Well } that's probably four or five hundred dollars, {D you know, } that goes on at that point -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,--/: and/CC then/RB it/PRP seems/VBZ like/IN takes/VBZ forever/RB to/TO pay/VB that/DT off/RP ./.,-- {C and then } it seems like takes forever to pay that off. /
+sv,A,"It/PRP 's/BES funny/JJ ,/, that/IN we/PRP 've/VBP got/VBN a/DT Sears/NNP card/NN ,/, and/CC we/PRP bought/VBD a/DT washer/NN and/CC dryer/NN on/IN it/PRP ,/, four/CD years/NNS ago/RB ,/, and/CC we/PRP still/RB owe/VBP ./.","<Laughter> It's funny, that we've got a Sears card, and we bought a washer and dryer on it, four years ago, and we still owe. /"
+sd,A,"I/PRP mean/VBP ,/, I/PRP ,/, I/PRP think/VBP like/IN half/PDT the/DT amount/NN that/WDT they/PRP cost/VBP in/IN the/DT first/JJ place/NN ./.","{E I mean, } [ I, + I ] think like half the amount that they cost in the first place. /"
+ba,B,Wow/UH ./.,Wow. /
+sv,A,"It/PRP 's/BES just/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, you/PRP never/RB ,/, never/RB get/VBP it/PRP out/RP ,/,","It's just, {F uh, } {D you know, } you [ never, + never ] get it out, /"
+sv,A,and/CC now/RB that/DT 's/BES real/RB irritating/JJ ./.,{C and } now that's real irritating. /
+aa,B,It/PRP sure/RB is/VBZ ./.,It sure is. /
+sd,B,"We/PRP eventually/RB did/VBD ,/,","We eventually did, - /"
+sd,B,"one/CD time/NN we/PRP just/RB borrowed/VBD ,/, took/VBD a/DT personal/JJ loan/NN and/CC paid/VBD off/RP all/DT our/PRP$ credit/NN cards/NNS ,/,","one time we just [ borrowed, + took ] a personal loan and paid off all our credit cards, /"
+sd,B,and/CC the/DT interest/NN on/IN the/DT loan/NN was/VBD cheaper/JJR --/:,{C and } the interest on the loan was cheaper --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: than/IN it/PRP was/VBD ,/, you/PRP know/VBP ,/, to/TO just/RB have/VB that/DT ./.","-- than it was, {D you know, } to just have that. /"
+sd,B,We/PRP have/VBP n't/RB done/VBN it/PRP lately/RB ./.,We haven't done it lately. /
+sv,B,We/PRP probably/RB need/VBP to/TO do/VB it/PRP again/RB ./.,We probably need to do it again. /
+sd,A,"Well/UH ,/, we/PRP did/VBD ,/, you/PRP know/VBP ,/,","{D Well, } we did, {D you know, } - /"
+sd,A,"one/CD time/NN ,/, we/PRP wanted/VBD to/TO buy/VB a/DT truck/NN ,/, a/DT used/JJ truck/NN ,/,","one time, we wanted to buy [ a truck, + a used truck, ] /"
+sd,A,"and/CC so/RB we/PRP went/VBD down/IN to/IN the/DT bank/NN ,/,","{C and so } we went down to the bank, /"
+sd,A,"and/CC they/PRP said/VBD ,/, Sure/UH we/PRP 'll/MD give/VB you/PRP a/DT personal/JJ loan/NN ./.","{C and } they said, Sure we'll give you a personal loan. /"
+sd,A,It/PRP was/VBD only/RB a/DT thousand/CD dollars/NNS that/WDT we/PRP needed/VBD --/:,It was only a thousand dollars that we needed --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: for/IN the/DT truck/NN ./.,-- for the truck. /
+sd,A,"And/CC they/PRP said/VBD ,/, sure/UH that/DT 's/BES no/DT problem/NN ,/, but/CC ,/, you/PRP know/VBP ,/, why/WRB do/VBP n't/RB we/PRP consolidate/VBP your/PRP$ bills/NNS ,/,","{C And } they said, sure that's no problem, but, {D you know, } why don't we consolidate your bills, /"
+sd,A,"and/CC at/IN the/DT time/NN we/PRP thought/VBD ,/, Oh/UH ,/, that/DT would/MD be/VB great/JJ ,/, you/PRP know/VBP ,/, we/PRP could/MD ,/,","{C and } at the time we thought, {F Oh, } that would be great, {D you know, } we could, /"
+^q,A,"and/CC it/PRP 's/BES going/VBG to/TO be/VB a/DT lower/JJR payment/NN than/IN it/PRP was/VBD for/IN all/DT of/IN them/PRP ,/,","{C and } it's going to be a lower payment than it was for all of them, /"
+sd,A,"you/PRP only/RB have/VBP to/TO write/VB one/CD check/NN a/DT month/NN ,/, not/RB all/PDT those/DT ./.","you only have to write one check a month, not all those. /"
+sd,A,You/PRP never/RB miss/VBP one/CD or/CC whatever/WP --/:,You never miss one or whatever -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC we/PRP did/VBD that/DT ,/,","-- {C and } we did that, /"
+sd,A,"but/CC we/PRP did/VBD n't/RB realize/VB at/IN the/DT time/NN ,/, until/IN several/JJ months/NNS later/RB ,/, that/IN we/PRP ,/, we/PRP were/VBD real/RB ,/,","{C but } we didn't realize at the time, until several months later, that [ we, + we ] were real, - /"
+sd,A,"I/PRP mean/VBP this/DT was/VBD four/CD yea-/NNS ,/, three/CD years/NNS ago/RB ,/,","{E I mean } this was [ four yea-, + three years ] ago, /"
+sd,A,we/PRP were/VBD pretty/RB young/JJ,we were pretty young /
+sd,A,"and/CC we/PRP were/VBD just/RB kind/RB of/RB like/IN ,/,","{C and } we were just kind of {D like, } - /"
+^q,A,"well/UH ,/, I/PRP guess/VBP that/DT means/VBZ these/DT credit/NN cards/NNS are/VBP closed/JJ ,/,","{D well, } I guess that means these credit cards are closed, /"
+sd,A,"and/CC we/PRP did/VBD n't/RB ,/, you/PRP know/VBP ,/,","{C and } we didn't, {D you know, } - /"
+sd,A,"about/RB six/CD months/NNS later/RB we/PRP realized/VBD we/PRP could/MD use/VB them/PRP ,/,","about six months later we realized we could use them, /"
+sd,A,and/CC so/RB we/PRP charged/VBD them/PRP all/DT up/RP again/RB ./.,{C and so } we charged them all up again. /
+ba,B,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
+b,A,Yeah/UH ./.,Yeah. /
+x,B,,<Laughter>.
+sd,A,"So/RB then/RB we/PRP were/VBD not/RB only/RB paying/VBG those/DT bills/NNS regular/RB like/IN we/PRP were/VBD before/RB ,/, but/CC also/RB adding/VBG the/DT lower/JJR payment/NN for/IN all/DT of/IN them/PRP ,/, ./.","{C So } then we were not only paying those bills regular like we were before, but also adding the lower payment for all of them, <laughter>. /"
+sd,A,So/RB we/PRP were/VBD paying/VBG like/IN twice/RB ./.,{C So } we were paying {D like twice. } /
+sd,A,"Um/UH ,/, so/RB we/PRP did/VBD n't/RB ever/RB make/VB that/DT mistake/NN again/RB ,/, luckily/RB ./.","{F Um, } {C so } we didn't ever make that mistake again, luckily <baby>. /"
+sd,A,"But/CC ,/, uh/UH ,/, we/PRP 're/VBP definitely/RB working/VBG on/IN not/RB doing/VBG that/DT credit/NN thing/NN ./.","{C But, } {F uh, } we're definitely working on not doing that credit thing. /"
+sd,A,"We/PRP just/RB ,/,","We just, - /"
+sv,A,"as/IN a/DT matter/NN of/IN fact/NN ,/, this/DT ,/, it/PRP 's/BES real/RB interesting/JJ the/DT subjects/NNS I/PRP get/VBP ./.","as a matter of fact, [ this, + it's ] real interesting the subjects I get. /"
+sv,A,They/PRP always/RB seem/VBP to/TO be/VB so/RB pertinent/JJ ./.,They always seem to be so pertinent. /
+sd,A,"But/CC we/PRP just/RB discussed/VBD this/DT last/JJ night/NN at/IN church/NN ,/, talking/VBG about/IN debt/NN and/CC things/NNS like/IN that/DT ./.","{C But } we just discussed this last night at church, talking about debt and things like that. /"
+sv,A,"It/PRP 's/BES so/RB ,/, so/RB alluring/JJ ,/, and/CC --/:","It's [ so, + so ] alluring, and -- +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: uh/UH ,/, so/RB easy/JJ to/TO get/VB ,/,","-- {F uh, } so easy to get, /"
+%,A,"uh/UH ,/, sometimes/RB ,/,","{F uh, } sometimes, -/"
+aa,B,"I/PRP know/VBP ,/,","I know, /"
+sd,B,they/PRP really/RB encourage/VBP you/PRP not/RB to/TO go/VB into/IN debt/NN for/IN anything/NN except/IN for/IN maybe/RB your/PRP$ house/NN and/CC --/:,they really encourage you not to go into debt for anything except for maybe your house and --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: your/PRP$ car/NN ./.,-- your car. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,"yeah/UH ,/,","yeah, /"
+sv,B,"And/CC ,/, uh/UH ,/, if/IN you/PRP could/MD stick/VB to/IN that/DT ,/, you/PRP know/VBP ,/, we/PRP 'd/MD get/VB rid/VBN of/IN a/DT lot/NN of/IN indigestion/NN and/CC --/:","{C And, } {F uh, } if you could stick to that, {D you know, } we'd get rid of a lot of indigestion <beep> and --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: everything/NN else/RB ./.,-- everything else. /
+aa,A,That/DT 's/BES true/JJ ./.,That's true. /
+sd,A,"Oh/UH ,/, I/PRP just/RB picked/VBD up/RP my/PRP$ daughter/NN","{F Oh, } I just picked up my daughter /"
+sd,A,and/CC she/PRP was/VBD eating/VBG a/DT cupcake/NN and/CC now/RB her/PRP$ crumbs/NNS all/RB over/IN ./.,{C and } she was eating a cupcake and now her crumbs all over. /
+ba,B,"Oh/UH ,/, dear/UH ./.","{F Oh, } dear. /"
+b,A,Yeah/UH ./.,Yeah. /
+t3,A,What/WP a/DT mess/NN you/PRP are/VBP ./.,What a mess you are. /
+h,A,"Oh/UH ,/, so/RB I/PRP do/VBP n't/RB know/VB ,/, if/IN I/PRP ,/, if/IN I/PRP ,/, I/PRP just/RB feel/VBP kind/RB of/RB ./.","{F Oh, } {C so } I don't know, [ if I, + if [ I, + I ] ] just feel kind of. - /"
+sd,A,"My/PRP$ big/JJ thing/NN was/VBD my/PRP$ husband/NN really/RB wanted/VBD to/TO get/VB rid/VBN of/IN our/PRP$ Visa/NNP card/NN ,/,","My big thing was my husband really wanted to get rid of our Visa card, /"
+sd,A,"and/CC I/PRP just/RB thought/VBD ,/, you/PRP know/VBP ,/, if/IN we/PRP ever/RB had/VBD something/NN go/VB wrong/RB with/IN our/PRP$ refrigerator/NN or/CC something/NN ,/, you/PRP know/VBP --/:","{C and } I just thought, {D you know, } if we ever had something go wrong with our refrigerator or something, {D you know -- }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC we/PRP had/VBD to/TO ,/, had/VBD to/TO buy/VB one/CD ,/, then/RB we/PRP would/MD really/RB need/VB that/DT ,/,","-- and we [ had to, + had to ] buy one, then we would really need that, /"
+sd,A,"and/CC so/RB he/PRP said/VBD ,/, Okay/UH we/PRP 'll/MD keep/VB it/PRP ,/,","{C and so } he said, Okay we'll keep it, /"
+sd,A,"and/CC then/RB we/PRP were/VBD n't/RB smart/JJ enough/RB to/TO not/RB use/VB it/PRP ,/,","{C and } then we weren't smart enough to not use it, /"
+%,A,so/RB ./.,{C so. } -/
+sv,B,"You/PRP know/VBP ,/, one/CD thing/NN you/PRP might/MD do/VB with/IN ,/, in/IN a/DT situation/NN like/IN that/DT ,/, though/RB ,/, it/PRP 's/BES just/RB like/IN keep/VB ,/,","{D You know, } one thing you might do with, in a situation like that, though, it's just {D like } keep, -/"

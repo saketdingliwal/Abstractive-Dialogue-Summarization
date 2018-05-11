@@ -1,0 +1,125 @@
+act_tag,speaker,pos,text
+ad,A,"Uh/UH ,/, why/WRB do/VBP n't/RB you/PRP go/VB ahead/RB first/RB ./.","{F Uh, } why don't you go ahead first. /"
+aa,B,Okay/UH ./.,Okay. /
+sd,B,"Uh/UH ,/, short/JJ term/NN ,/, uh/UH ,/, it/PRP works/VBZ out/RP pretty/RB well/RB because/IN we/PRP have/VBP just/RB enough/JJ to/TO cover/VB expenses/NNS with/IN a/DT little/JJ left/VBN over/RP","{F Uh, } short term, {F uh, } it works out pretty well because we have just enough to cover expenses with a little left over /"
+sd,B,"so/RB budgeting/NN in/IN the/DT short/JJ term/NN is/VBZ n't/RB too/RB much/JJ of/IN an/DT issue/NN because/IN there/EX 's/BES not/RB that/RB much/JJ ,/, uh/UH --/:","{C so } budgeting in the short term isn't too much of an issue because there's not that much, {F uh } --"
+b,A,Sure/UH ./.,Sure. /
++,B,--/: extra/JJ to/TO go/VB around/RB ./.,-- extra to go around. /
+sd,B,"Uh/UH ,/, long/JJ term/NN is/VBZ something/NN we/PRP 're/VBP starting/VBG to/TO think/VB about/IN because/IN our/PRP$ older/JJR child/NN will/MD be/VB ready/JJ for/IN college/NN in/IN about/RB ,/, uh/UH ,/, gee/UH ,/,","{F Uh, } long term is <sigh> something we're starting <sigh> to think about because our older child will be ready for college in [ about, + {F uh, } <noise> {A gee, /"
+sd,B,she/PRP 's/BES eight/CD now/RB,she's eight now /
+sd,B,so/RB I/PRP guess/VBP about/RB ten/CD years/NNS ./.,so I guess } about ] ten years. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+ba,B,Good/JJ heavens/NNS ./.,Good heavens. /
+sd,B,"So/RB we/PRP 're/VBP ,/, we/PRP 're/VBP starting/VBG to/TO think/VB about/IN long/JJ term/NN considerations/NNS ./. College/NN and/CC retirement/NN ./.","{C So } [ we're, + we're ] starting to think about long term considerations. College and retirement. /"
+sd,B,"But/CC with/IN not/RB a/DT whole/JJ lot/NN of/IN discretionary/JJ money/NN ,/, it/PRP 's/BES kind/RB of/RB hard/JJ to/TO figure/VB out/RP how/WRB to/TO do/VB it/PRP ./.","{C But } with not a whole lot of discretionary money, it's kind of hard to figure out how to do it. /"
+b,A,Sure/UH ./.,Sure. /
+qo,B,How/WRB about/IN you/PRP ?/.,How about you? /
+%,A,"That/DT 's/BES kind/RB of/RB ,/, uh/UH ,/,","That's kind of, {F uh, } - /"
+sd,A,"to/IN what/WP we/PRP 're/VBP doing/VBG is/VBZ budgeting/VBG ,/, you/PRP know/VBP ./.","to what we're doing is budgeting, {D you know. } - /"
+sd,A,"Month/NN to/IN month/NN is/VBZ ,/, uh/UH ,/, kind/RB of/RB taking/VBG into/IN consideration/NN what/WP the/DT bills/NNS are/VBP and/CC what/WP 's/BES extra/JJ","Month to month is, {F uh, } kind of taking into consideration what the bills are and what's extra /"
+sd,A,"so/RB that/DT 's/BES kind/RB of/RB how/WRB we/PRP do/VBP it/PRP ,/, uh/UH ,/, from/IN month/NN to/IN month/NN depending/VBG on/IN what/WP insurance/NN is/VBZ due/JJ or/CC whatever/WP ./.","{C so } that's kind of how we do it, {F uh, } from month to month depending on what insurance is due or whatever. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, long/JJ term/NN ,/, that/DT 's/BES a/DT little/JJ bit/NN easier/JJR for/IN us/PRP because/IN ,/, uh/UH ,/, with/IN our/PRP$ jobs/NNS we/PRP can/MD take/VB out/RP extra/JJ money/NN towards/IN savings/NNS ,/, Four/CD Oh/CD One/CD K/SYM plans/NNS --/:","{F Uh, } long term, that's a little bit easier for us because, {F uh, } with our jobs we can take out extra money towards savings, Four Oh One K plans --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: uh/UH ,/, that/DT kind/NN of/IN ,/, you/PRP know/VBP ,/, retirement/NN plans/NNS ,/, that/DT kind/NN of/IN stuff/NN","-- {F uh, } [ that kind of, + {D you know, } retirement plans, that kind of ] stuff /"
+sd,A,so/RB we/PRP can/MD kind/RB of/RB put/VB aside/RB some/DT money/NN that/WDT actually/RB is/VBZ better/JJR for/IN us/PRP not/RB to/TO see/VB --/:,{C so } we can kind of put aside some money that actually is better for us not to see --
+b,B,Right/UH ./.,Right. /
++,A,--/: versus/FW when/WRB it/PRP 's/BES on/IN the/DT paycheck/NN,-- versus when it's on the paycheck /
+sv,A,and/CC you/PRP have/VBP to/TO try/VB and/CC take/VB out/RP some/DT of/IN that/DT money/NN ./.,{C and } you have to try and take out some of that money. /
+sv,A,You/PRP always/RB find/VBP something/NN a/DT little/RB extra/JJ that/WDT you/PRP 'd/MD like/VB to/TO get/VB that/DT month/NN,You always find something a little extra that you'd like to get that month /
+sv,A,"so/RB ,/, uh/UH ,/, long/JJ term/NN probably/RB is/VBZ a/DT little/JJ bit/NN better/JJR than/IN short/JJ term/NN simply/RB because/IN ,/, uh/UH ,/, it/PRP 's/BES automatically/RB taken/VBN out/RP ./.","{C so, } {F uh, } long term probably is a little bit better than short term simply because, {F uh, } it's automatically taken out. /"
+sd,A,"So/RB ,/, uh/UH ,/, that/DT works/VBZ out/RP much/RB better/JJR for/IN us/PRP ,/,","{C So, } {F uh, } that works out much better for us, /"
+sd,A,so/RB that/DT 's/BES kind/RB of/RB how/WRB we/PRP do/VBP it/PRP anyway/UH,{C so } that's kind of how we do it anyway /
+%,A,"but/CC ,/,","{C but, } -/"
+sv,B,"And/CC the/DT old/JJ ,/, uh/UH ,/, if/IN you/PRP ca/MD n't/RB see/VB it/PRP ,/, then/RB you/PRP ca/MD n't/RB spend/VB it/PRP ,/, uh/UH ,/, idea/NN ./.","And the old, {F uh, } if you can't see it, then you can't spend it, {F uh, } idea <laughter>. /"
+aa,A,"E-/RB ,/, exactly/RB","{D [ E-, + exactly ] } /"
+sv,A,"and/CC if/IN you/PRP ca/MD n't/RB touch/VB it/PRP ,/, you/PRP ca/MD n't/RB spend/VB it/PRP either/RB ./.","{C and } if you can't touch it, you can't spend it either. /"
+sv,A,"So/RB that/DT kind/RB of/RB works/VBZ out/RP where/WRB you/PRP get/VBP into/IN ,/, uh/UH ,/, some/DT plans/NNS that/WDT ,/, you/PRP know/VBP ,/, you/PRP touch/VBP it/PRP you/PRP 're/VBP going/VBG to/TO get/VB a/DT penalty/NN ,/, that/DT kind/NN of/IN thing/NN ,/,","{C So } that kind of works out where you get into, {F uh, } some plans that, {D you know, } you touch it you're going to get a penalty, that kind of thing, /"
+sv,A,so/RB it/PRP leads/VBZ you/PRP to/TO kind/RB of/RB say/VB well/UH I/PRP 'm/VBP not/RB going/VBG to/TO take/VB it/PRP out/RP ./.,{C so } it leads you to kind of say {D well } I'm not going to take it out. /
+^q,A,"I/PRP 'm/VBP going/VBG to/TO keep/VB it/PRP and/CC ,/, uh/UH ,/, keep/VB it/PRP in/IN there/RB and/CC let/VB it/PRP grow/VB so/IN that/IN someway/NN ,/, maybe/RB for/IN retirement/NN you/PRP 're/VBP going/VBG to/TO have/VB that/DT money/NN ,/,","I'm going to keep it and, {F uh, } <child_talking> keep it in there and let it grow so that someway, maybe for retirement you're going to have that money <laughter>,"
+x,B,,<Laughter>.
++,A,left/VBN ./.,left. /
+sv,A,"Let/VB 's/PRP hope/VB anyway/RB ,/,","Let's hope anyway, /"
+sv,A,so/RB --/:,{C so } --
+b,B,Right/UH ./.,Right. /
++,A,--/: you/PRP 'll/MD have/VB that/DT,-- you'll have that /
+sd,A,so/RB that/DT 's/BES kind/RB of/RB how/WRB we/PRP do/VBP it/PRP ./.,{C so } that's kind of how we do it. /
+sd,A,"But/CC ours/PRP is/VBZ more/RBR like/IN month/NN to/IN month/NN too/RB ,/, uh/UH ,/,","{C But } ours is more like month to month too, {F uh, } /"
+sd,A,"short/JJ term/NN is/VBZ ,/, to/TO get/VB things/NNS going/VBG","short term is, to get things going /"
+sd,A,"so/RB ./. Anyway/UH ,/, other/JJ than/IN that/DT ,/, uh/UH ,/, is/VBZ kind/RB of/RB how/WRB we/PRP do/VBP it/PRP","{C so. } {D Anyway, } other than that, {F uh, } is kind of how we do it /"
+qy,A,so/RB ./. I/PRP do/VBP n't/RB --/:,{C so. } I don't --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: know/VB if/IN we/PRP 're/VBP ,/, our/PRP$ time/NN is/VBZ up/RP or/CC what/WP ./.","-- know if [ we're, + our ] time is up or what <laughter>. /"
+%,B,"Uh/UH ,/, they/PRP 'll/MD ,/, uh/UH ,/,","{F Uh, } they'll, {F uh } <laughter>, -/"
+qy,A,They/PRP 'll/MD let/VB us/PRP know/VB ./.,They'll let us know <laughter>. /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,exactly/RB ./.,exactly. /
+sd,B,"We/PRP ,/, we/PRP actually/RB do/VBP have/VB some/DT money/NN in/IN a/DT Four/CD Oh/CD One/CD K/SYM ./.","[ We, + we ] actually do have some money in a Four Oh One K. /"
+sd,B,I/PRP just/RB --/:,I just --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: wish/VBP I/PRP could/MD afford/VB to/TO ,/, uh/UH ,/, put/VB more/JJR away/RB each/DT week/NN because/IN I/PRP agree/VBP that/IN it/PRP 's/BES a/DT ,/, an/DT excellent/JJ way/NN ,/,","-- wish I could afford to, {F uh, } put more away each week because I agree that it's [ a, + an ] excellent way, /"
+aa,A,"Oh/UH ,/, definitely/RB ,/,","{F Oh, } definitely, /"
+aa,A,definitely/RB ./.,definitely. /
+sv,A,"And/CC ,/, uh/UH ,/, it/PRP grows/VBZ ,/, uh/UH ,/,","{C And, } {F uh, } it grows, {F uh, } /"
+sv,A,"it/PRP ,/, it/PRP seems/VBZ like/IN at/IN first/JJ you/PRP 're/VBP not/RB going/VBG to/TO see/VB a/DT big/JJ return/NN","[ it, + it ] seems like at first you're not going to see a big return /"
+sv,A,"but/CC as/IN the/DT years/NNS go/VBP on/RP ,/, if/IN you/PRP 're/VBP with/IN the/DT company/NN for/IN any/DT length/NN of/IN time/NN then/RB it/PRP gets/VBZ much/RB better/JJR","{C but } as the years go on, if you're with the company for any length of time then it gets much better /"
+sv,A,"and/CC ,/, uh/UH ,/,","[ {C and, } + {F uh, }"
+x,B,,<Noise>.
++,A,"so/RB ,/, you/PRP know/VBP ,/, you/PRP just/RB have/VBP to/TO kind/RB of/RB look/VB at/IN it/PRP that/DT way/NN","{C so, } ] {D you know, } you just have to kind of look at it that way /"
+sd,A,and/CC there/EX 's/BES other/JJ savings/NNS plans/NNS or/CC other/JJ things/NNS that/WDT you/PRP can/MD do/VB ./.,{C and } there's other savings plans or other things that you can do. /
+sd,A,"Automatic/JJ ,/, you/PRP know/VBP ,/, deposit/NN from/IN checks/NNS to/IN where/WRB you/PRP do/VBP n't/RB see/VB it/PRP ./.","Automatic, {D you know, } deposit from checks to where you don't see it. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, exactly/RB whatever/WP is/VBZ in/IN our/PRP$ checking/NN account/NN is/VBZ basically/RB just/RB about/RB what/WP gets/VBZ spent/VBN ./.","{C And, } {F uh, } {D you know, } exactly whatever is in our checking account is basically just about what gets spent. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,It/PRP 's/BES put/VBN into/IN our/PRP$ savings/NNS account/NN,It's put into our savings account /
+sd,A,"and/CC we/PRP do/VBP n't/RB see/VB it/PRP ,/,","{C and } we don't see it, /"
+sv,A,"then/RB it/PRP works/VBZ out/RP to/IN where/WRB ,/, you/PRP know/VBP ,/, you/PRP do/VBP n't/RB look/VB at/IN it/PRP ,/,","then it works out to where, {D you know, } you don't look at it, /"
+sv,A,"you/PRP just/RB look/VBP at/IN the/DT checking/NN account/NN ,/,","you just look at the checking account,"
+x,B,,<Noise>.
++,A,and/CC say/VBP this/DT is/VBZ what/WP we/PRP have/VBP for/IN money/NN,and say this is what we have for money /
+sv,A,"and/CC that/DT 's/BES it/PRP ,/,","{C and } that's it, /"
+%,A,so/RB ./.,{C so } </child_talking>. - /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,checking/NN account/NN 's/BES a/DT very/RB dangerous/JJ place/NN for/IN money/NN to/TO be/VB I/PRP 'm/VBP convinced/JJ ./.,checking account's a very dangerous place for money to be I'm convinced. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"it/PRP ,/, it/PRP 's/BES easy/JJ because/IN you/PRP do/VBP spend/VB it/PRP ,/,","[ it, + it's ] easy because you do spend it, /"
+ba,A,that/DT 's/BES for/IN sure/JJ ./.,that's for sure. /
+sv,A,"Like/IN I/PRP said/VBD ,/, you/PRP know/VBP ,/, you/PRP kind/RB of/RB look/VBP at/IN it/PRP ,/, uh/UH ,/,","Like I said, {D you know, } you kind of look at it, {F uh, } /"
+sv,A,"you/PRP better/RBR have/VBP some/DT other/JJ way/NN of/IN ,/, uh/UH ,/, savings/NNS ,/,","you better have some other way of, {F uh, } savings, /"
+sv,A,"otherwise/RB ,/, uh/UH ,/, checking/NN accounts/NNS are/VBP n't/RB the/DT best/JJS for/IN ,/, you/PRP know/VBP ,/, long/JJ term/NN type/NN of/IN planning/NN ,/,","{D otherwise, } {F uh, } checking accounts aren't the best for, {D you know, } long term type of planning, /"
+sv,A,"so/RB ./. And/CC you/PRP do/VBP n't/RB get/VB a/DT good/JJ return/NN on/IN it/PRP anyway/RB ,/,","[ {C so. } + {C And } ] you don't get a good return on it anyway, /"
+%,A,"so/RB ,/, other/JJ ,/,","{C so, } other, -/"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"I/PRP guess/VBP there/EX ,/, other/JJ than/IN things/NNS like/IN the/DT stock/NN market/NN or/CC mutual/JJ funds/NNS ,/, there/EX 's/BES really/RB not/RB much/JJ of/IN a/DT return/NN on/IN anything/NN these/DT days/NNS ./.","I guess [ there, + other than things like the stock market or mutual funds, there's ] really not much of a return on anything these days. /"
+aa,A,Exactly/RB ./.,Exactly. /
+aa,A,Right/RB now/RB ./.,Right now. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"it/PRP 's/BES a/DT bad/JJ time/NN ,/, you/PRP know/VBP ./.","it's a bad time, {D you know. } /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,the/DT interest/NN is/VBZ so/RB low/JJ ./.,the interest is so low. /
+sv,B,"I/PRP mean/VBP it/PRP ,/, it/PRP 's/BES nice/JJ for/IN people/NNS buying/VBG homes/NNS","{E I mean } [ it, + it's ] nice for people buying homes /"
+sv,B,but/CC --/:,{C but } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: for/IN older/JJR people/NNS who/WP have/VBP money/NN --/:,-- for older people who have money --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: in/IN C/NN D/NN -s/NNS or/CC whatever/WP ,/, it/PRP must/MD be/VB awfully/RB hard/JJ to/TO see/VB rates/NNS go/VB down/RB to/IN three/CD and/CC a/DT half/JJ percent/NN or/CC whatever/WP ./.","-- in C D -s or whatever, it must be awfully hard to see rates go down to three and a half percent or whatever. /"
+aa,A,"Exactly/RB ,/,","Exactly, /"
+aa,A,exactly/RB ./.,exactly. /
+sd,A,"You/PRP know/VBP ,/, we/PRP have/VBP some/DT in-laws/NNS ,/, uh/UH ,/, that/WDT ,/, uh/UH ,/, had/VBD theirs/PRP in/IN some/DT money/NN market/NN certificates/NNS and/CC other/JJ things/NNS and/CC ,/, uh/UH ,/, kind/RB of/RB took/VBD them/PRP out/IN of/IN that/DT because/IN they/PRP got/VBD so/RB low/JJ","{D You know, } we have some in-laws, {F uh, } that, {F uh, } had theirs in some money market certificates and other things and, {F uh, } kind of took them out of that because they got so low /"
+%,A,"but/CC ,/, uh/UH ,/,","{C but, } {F uh, } - /"
+%,A,"yeah/UH ,/,","yeah, /"
+sv,A,"it/PRP 's/BES ,/, it/PRP drops/VBZ","[ it's, + it ] drops /"
+sv,A,"so/RB your/PRP$ better/JJR bet/NN is/VBZ to/TO ,/, uh/UH ,/, try/VB to/TO get/VB in/IN with/IN something/NN with/IN your/PRP$ corporation/NN if/IN they/PRP have/VBP some/DT kind/NN of/IN ,/, uh/UH ,/, savings/NNS plans/NNS or/CC something/NN like/IN that/DT to/IN where/WRB they/PRP kind/RB of/RB match/VBP the/DT percentage/NN or/CC whatever/WP so/RB or/CC some/DT kind/NN of/IN profit/NN sharing/NN","{C so } your better bet is to, {F uh, } try to get in with something with your corporation if they have some kind of, {F uh, } savings plans or something like that to where they kind of match the percentage or whatever [ {C so } + or ] some kind of profit sharing /"
+%,A,so/RB ./.,{C so. } -/
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP with/IN a/DT small/JJ company/NN now/RB","[ I'm, + I'm ] with a small company now /"
+sd,B,"and/CC I/PRP hope/VBP that/IN ,/, uh/UH ,/, if/IN we/PRP 're/VBP successful/JJ that/IN they/PRP 'll/MD go/VB in/IN for/IN some/DT sort/NN of/IN profit/NN sharing/NN --/:","{C and } I hope [ that, + {F uh, } if we're successful that ] they'll go in for some sort of profit sharing -- /"
+b,A,Sure/UH ./.,Sure. /
+ba,B,--/: that/DT 'll/MD be/VB very/RB nice/JJ ./.,-- that'll be very nice. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+ba,A,"that/DT 's/BES great/JJ ,/,","that's great, /"
+aa,A,yeah/UH ./.,yeah <child_talking>. /
+%,A,Okay/UH ./.,Okay. /
+sv,B,Well/UH I/PRP guess/VBP we/PRP 're/VBP kind/RB of/RB running/VBG out/IN of/IN steam/NN on/IN this/DT topic/NN here/UH ./.,{D Well } I guess we're kind of running out of steam on this topic here. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,exactly/RB ./.,exactly <laughter>. /

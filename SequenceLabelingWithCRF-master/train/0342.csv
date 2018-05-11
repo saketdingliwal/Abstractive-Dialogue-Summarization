@@ -1,0 +1,189 @@
+act_tag,speaker,pos,text
+qw,B,What/WP 's/BES your/PRP$ favorite/JJ T/NN V/NN show/NN ?/.,What's your favorite T V show? /
+sd,A,"Oh/UH ./. You/PRP know/VBP ,/, I/PRP used/VBD to/TO like/VB ST/NNP ./. ELSEWHERE/NNP ./.","{F Oh. } {D You know, } I used to like ST. ELSEWHERE. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,That/DT 's/BES one/CD of/IN my/PRP$ old/JJ favorites/NNS ./.,That's one of my old favorites. /
+%,A,"Um/UH ,/, and/CC that/DT 's/BES ,/,","{F Um, } {C and } that's, - /"
+sd,A,"I/PRP 'm/VBP being/VBG beeped/VBN ,/,","I'm being beeped, /"
+sd,A,so/RB I/PRP 'll/MD just/RB ignore/VB it/PRP ./.,{C so } I'll just ignore it. /
+sd,A,"Um/UH ,/, and/CC now/RB ,/, I/PRP ,/, I/PRP did/VBD like/VB THIRTY/CD SOMETHING/NN --/:","{F Um, } {C and } {D now, } [ I, + I ] did like THIRTY SOMETHING -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+^h,A,"--/: oh/UH ,/, yes/UH ,/,","-- {F oh, } yes, /"
+sd,A,my/PRP$ daughter/NN says/VBZ NINE/CD OH/CD TWO/CD ONE/CD OH/CD ./.,my daughter says NINE OH TWO ONE OH. /
+sd,A,We/PRP like/VBP that/DT one/NN ./.,We like that one. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,that/DT 's/BES one/CD of/IN my/PRP$ favorites/NNS ./.,that's one of my favorites. /
+ba,A,"Good/UH ,/,","Good, /"
+qw,A,and/CC how/WRB old/JJ are/VBP you/PRP ?/.,{C and } how old are you? /
+sd,B,I/PRP 'm/VBP twenty-eight/CD ./.,I'm twenty-eight. /
+sd,A,"Oh/UH ,/, so/RB you/PRP 're/VBP little/JJ bit/NN younger/JJR than/IN I/PRP am/VBP ,/,","{F Oh, } {C so } you're little bit younger than I am, /"
+b,A,"but/CC yeah/UH ,/,","{C but } yeah, /"
+sd,A,"I/PRP think/VBP if/IN my/PRP$ seventeen/CD year/NN old/NN ,/, my/PRP$ fourteen/CD year/NN old/NN ,/, my/PRP$ other/JJ two/CD children/NNS like/VBP it/PRP ,/,","I think if my seventeen year old, my fourteen year old, my other two children like it, /"
+sd,A,"I/PRP 'm/VBP over/IN forty/CD ,/,","I'm over forty, /"
+sd,A,and/CC I/PRP like/VBP it/PRP ./.,{C and } I like it. /
+sd,A,I/PRP think/VBP it/PRP 's/BES wonderful/JJ ./.,I think it's wonderful. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,it/PRP 's/BES a/DT good/JJ show/NN ./.,it's a good show. /
+sd,B,"I/PRP like/VBP MURPHY/NNP BROWN/NNP and/CC DESIGNING/VBG WOMEN/NNS ,/, too/RB ./.","I like MURPHY BROWN and DESIGNING WOMEN, too. /"
+b,A,"Oh/UH ,/, yeah/UH ,/,","<Laughter> {F Oh, } yeah, /"
+sd,A,"now/UH see/UH ,/, I/PRP ,/, we/PRP are/VBP so/RB busy/JJ with/IN ,/, all/DT of/IN our/PRP$ kids/NNS are/VBP in/IN sports/NNS ,/,","{D now } {D see, } [ I, + we ] are so busy with, all of our kids are in sports, /"
+sd,A,"and/CC I/PRP hardly/RB ever/RB watch/VBP T/NN V/NN ,/,","{C and } I hardly ever watch T V, /"
+sd,A,"but/CC that/DT 's/BES one/CD that/WDT ,/, that/WDT we/PRP watch/VBP ./.","{C but } that's one [ that, + that ] we watch. /"
+sd,A,"And/CC then/RB Sunday/NNP nights/NNS we/PRP watch/VBP ,/, uh/UH ,/, LIFE/NN GOES/VBZ ON/RB ./.","{C And then } Sunday nights we watch, {F uh, } LIFE GOES ON. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP like/VBP that/DT ,/,","I like that, /"
+sv,B,"that/DT 's/BES ,/, that/DT 's/BES a/DT good/JJ show/NN ,/, too/RB ./.","[ that's, + that's ] a good show, too. /"
+ba,A,Very/RB good/JJ ./.,Very good. /
+qy,A,Did/VBD you/PRP see/VB the/DT one/CD on/IN Sunday/NNP ?/.,Did you see the one on Sunday? /
+ny,B,"Yes/UH ,/,","Yes, /"
+%,B,"it/PRP was/VBD a/DT ,/, uh/UH ,/, uh/UH","it was a, {F uh, } {F uh } - /"
+sd,B,"I/PRP did/VBD miss/VB that/DT Sunday/NNP ,/,","I did miss that Sunday, /"
+nn,B,no/UH,no /
+sd,B,I/PRP did/VBD n't/RB ./.,I didn't. /
+sd,A,That/DT one/CD kid/NN that/WDT Becca/NNP likes/VBZ --/:,That one kid that Becca likes --
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,it/PRP 's/BES a/DT good/JJ episode/NN ./.,it's a good episode. /
++,A,--/: he/PRP has/VBZ AIDS/NN ./.,-- he has AIDS. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"the/DT ,/, the/DT new/JJ character/NN on/IN there/RB did/VBD ./.","[ the, + the ] new character on there did. /"
+b,A,"Right/UH ,/,","Right, /"
+b,A,right/UH ./.,right. /
+sd,A,All/PDT the/DT way/NN to/IN North/NNP Carolina/NNP ./.,All the way to North Carolina. /
+qw,A,What/WP time/NN is/VBZ it/PRP there/RB ?/.,What time is it there? /
+sd,B,"Uh/UH ,/, it/PRP is/VBZ twenty/CD minutes/NNS to/IN nine/CD ./.","{F Uh, } it is twenty minutes to nine. /"
+ba,A,"Oh/UH ,/, my/PRP$ gosh/UH ./.","{F Oh, } my gosh. /"
+sd,A,"See/UH ,/, I/PRP 'm/VBP twenty/CD minutes/NNS to/IN six/CD here/RB ./.","{D See, } I'm twenty minutes to six here <laughter>. /"
+bf,B,Three/CD hours/NNS difference/NN ./.,Three hours difference. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH ./.,yeah. /
+b,A,Okay/UH ./.,Okay. /
+qw,A,What/WP else/RB do/VBP you/PRP like/VB ?/.,What else do you like? /
+sd,B,"Uh/UH ,/, let/VB 's/PRP see/VB ,/, I/PRP like/VBP a/DT lot/NN of/IN different/JJ shows/NNS ./.","{F Uh, } let's see, I like a lot of different shows. /"
+sd,B,"Let/VB 's/PRP see/VB ,/, um/UH ,/, I/PRP like/VBP MURDER/NN ,/, SHE/PRP WROTE/VBD ./.","Let's see, {F um, } I like MURDER, SHE WROTE. /"
+%,B,"That/DT 's/BES ,/, that/DT 's/BES ,/,","[ That's, + that's, ] -/"
+sd,A,"Oh/UH ,/, I/PRP never/RB ,/, I/PRP never/RB watched/VBD that/DT ever/RB in/IN my/PRP$ entire/JJ life/NN ./.","{F Oh, } [ I never, + I never ] watched that ever in my entire life. /"
+sd,B,And/CC MATLOCK/NNP is/VBZ another/DT good/JJ one/NN I/PRP watch/VBP ./.,{C And } MATLOCK is another good one I watch. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Um/UH ,/, then/RB during/IN daytimes/NNS I/PRP like/VBP ,/, I/PRP like/VBP ALL/DT MY/PRP$ CHILDREN/NNS ./.","{F Um, } then during daytimes [ I like, + I like ] ALL MY CHILDREN. /"
+t3,A,A/DT small/JJ bowl/NN will/MD be/VB plenty/RB ./.,A small bowl will be plenty. /
+t3,A,"Oh/UH ,/, that/DT 's/BES mine/PRP ./.","{F Oh, } that's mine. /"
+sd,A,"That/DT 's/BES the/DT only/RB one/NN I/PRP watch/VBP whenever/WRB I/PRP ,/, oh/UH ,/,","That's the only one I watch whenever I, {F oh, } - /"
+t3,A,a/DT small/JJ bowl/NN will/MD be/VB better/JJR because/IN it/PRP 's/BES pretty/RB fattening/JJ ./.,a small bowl will be better <talking> because it's pretty fattening. /
+sd,A,Talk/VB to/IN my/PRP$ daughter/NN ./.,Talk to my daughter. /
+%,A,"Um/UH ,/, um/UH ,/,","{F Um, } {F um, } /"
+sd,B,"ALL/DT MY/PRP$ CHILDREN/NNS ,/,","ALL MY CHILDREN, /"
+sd,B,I/PRP 've/VBP watched/VBN that/DT for/IN about/RB twelve/CD years/NNS ./.,I've watched that for about twelve years. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP 've/VBP ,/, I/PRP 'm/VBP sure/JJ I/PRP watched/VBD it/PRP for/IN more/RBR than/IN that/DT probably/RB ./.","[ I've, + I'm ] sure I watched it for more than that probably. /"
+sd,A,Twenty/CD something/NN ./.,Twenty something. /
+sd,A,"I/PRP used/VBD to/TO watch/VB GENERAL/NNP HOSPITAL/NN when/WRB I/PRP was/VBD a/DT teenager/NN because/IN I/PRP ,/,","I used to watch GENERAL HOSPITAL when I was a teenager because I, -/"
+sd,B,I/PRP quit/VBD watching/VBG GENERAL/NNP HOSPITAL/NN when/WRB Leslie/NNP got/VBD killed/VBN ./.,I quit watching GENERAL HOSPITAL when Leslie got killed. /
+b,A,Oh/UH ./.,Oh. /
+sd,B,So/RB that/DT was/VBD a/DT long/JJ time/NN ago/RB ./.,{C So } that was a long time ago. /
+sd,B,"I/PRP used/VBD to/TO watch/VB it/PRP ,/, was/VBD in/IN high/JJ school/NN and/CC college/NN --/:","I used to watch it, [ was + ] in high school and college --"
+b,A,Right/UH ./.,Right. /
++,B,--/: when/WRB Laura/NN 's/POS mother/NN got/VBD killed/VBN ./.,-- when Laura's mother got killed. /
+sd,B,She/PRP was/VBD my/PRP$ favorite/JJ character/NN on/IN there/RB ./.,She was my favorite character on there. /
+x,A,./.,<Laughter>.
+%,B,"I/PRP just/RB ,/,","I just, - /"
+sd,B,"I/PRP read/VBD the/DT reason/NN she/PRP got/VBD ,/, they/PRP ,/, they/PRP killed/VBD her/PRP off/RP was/VBD because/IN they/PRP could/MD n't/RB settle/VB a/DT contract/NN ,/,","I read the reason [ she got, + ] [ they, + they ] killed her off was because they couldn't settle a contract, /"
+sd,B,"and/CC I/PRP said/VBD ,/, well/UH ,/, if/IN they/PRP 're/VBP going/VBG to/TO do/VB that/DT to/IN her/PRP ,/, I/PRP wo/MD n't/RB watch/VB it/PRP ./.","{C and } I said, {D well, } if they're going to do that to her, I won't watch it. /"
+ba,A,"Oh/UH ,/, that/DT 's/BES great/JJ ./.","<Laughter> {F Oh, } that's great. /"
+sd,A,"Well/UH ,/, I/PRP do/VBP like/VB ALL/DT MY/PRP$ CHILDREN/NNS ,/,","{D Well, } I do like ALL MY CHILDREN, /"
+h,A,"and/CC I/PRP ,/, and/CC I/PRP like/VBP it/PRP ,/, you/PRP know/VBP ,/, I/PRP do/VBP n't/RB know/VB ./.","[ {C and } I, + {C and } I ] like it, {D you know, } I don't know. /"
+%,A,"I/PRP just/RB ,/,","I just, - /"
+sd,A,"I/PRP like/VBP the/DT people/NNS on/IN it/PRP ,/, I/PRP guess/VBP ,/, you/PRP know/VBP ./.","I like the people on it, I guess, {D you know. } /"
+sd,B,"I/PRP ,/, I/PRP ,/, I/PRP like/VBP it/PRP ./.","[ [ I, + I, ] + I ] like it. /"
+sd,B,I/PRP just/RB wish/VBP they/PRP 'd/MD bring/VB some/DT of/IN the/DT old/JJ characters/NNS back/RB ./.,I just wish they'd bring some of the old characters back. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+qy,A,"well/UH ,/, Tad/NNP 's/BES going/VBG to/TO come/VB back/RB ,/, I/PRP bet/VBP ,/, do/VBP you/PRP think/VB ?/.","{D well, } Tad's going to come back, I bet, do you think? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP 'm/VBP sure/JJ he/PRP will/MD ./.,I'm sure he will. /
+sd,A,"He/PRP 'll/MD come/VB back/RB ,/, show/VB up/RP at/IN just/RB the/DT right/JJ moment/NN ./.","He'll come back, show up at just the right moment. /"
+sd,B,"I/PRP kind/RB of/RB wish/VBP that/IN ,/, uh/UH ,/, Nina/NNP would/MD come/VB back/RB because/IN she/PRP --/:","I kind of wish that, {F uh, } Nina would come back [ because she -- +"
+b,A,Oh/UH ./.,Oh. /
++,B,"--/: because/IN the/DT story/NN ,/, you/PRP know/VBP ,/,","-- because ] the story, {D you know, } - /"
+sd,B,"just/RB for/IN a/DT brief/JJ visit/NN or/CC whatever/WDT ,/, because/IN it/PRP never/RB has/VBZ been/VBN resolved/VBN with/IN Palmer/NNP remarrying/VBG ,/, and/CC everything/NN ,/,","just for a brief visit or whatever, because it never has been resolved with Palmer remarrying, and everything, -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"like/IN Daisy/NNP ,/, pops/VBZ in/RB once/RB in/IN a/DT while/NN ,/,","{D like } Daisy, pops in once in a while, /"
+sd,A,"and/CC ,/, I/PRP forgot/VBD about/IN Nina/NNP and/CC Cliff/NNP ,/, right/UH ./.","{C and, } I forgot about Nina and Cliff, right. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,Cliff/NNP 's/BES on/IN THE/DT YOUNG/JJ AND/CC THE/DT RESTLESS/JJ now/RB ./.,Cliff's on THE YOUNG AND THE RESTLESS now. /
+b,A,"Oh/UH ,/, he/PRP is/VBZ ./.","{F Oh, } he is. /"
+ba,A,So/RB he/PRP 's/BES out/IN for/IN good/JJ ./.,{C So } he's out for good. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,he/PRP 's/BES out/IN for/IN good/JJ ./.,he's out for good. /
+qy,A,Did/VBD they/PRP marry/VB ?/.,Did they marry? /
+%,B,Uh/UH --/:,{F Uh } -- /
+qy^d,A,Nina/NNP and/CC Cliff/NNP ?/.,Nina and Cliff? /
+sd,B,"--/: that/DT 's/BES how/WRB they/PRP left/VBD the/DT show/NN ,/, but/CC not/RB in/IN real/JJ life/NN ./.","-- that's how they left the show, but not in real life. /"
+%,A,Um/UH ./.,{F Um. } /
+sd,B,"Now/RB she/PRP 's/BES married/JJ to/IN some/DT guy/NN in/IN New/NNP York/NNP ,/,","Now she's married to some guy in New York, /"
+sd,B,and/CC she/PRP 's/BES happily/RB married/JJ,{C and } she's happily married /
+sd,B,and/CC that/DT 's/BES the/DT reason/NN she/PRP left/VBD the/DT show/NN ./.,{C and } that's the reason she left the show. /
+sd,B,I/PRP guess/VBP she/PRP wanted/VBD a/DT private/JJ life/NN ./.,I guess she wanted a private life. /
+b,A,"Oh/UH ,/, okay/UH ,/,","{F Oh, } okay, /"
+sd,A,"oh/UH ,/, see/UH I/PRP ,/, I/PRP ,/, I/PRP watch/VBP it/PRP maybe/RB twice/RB a/DT month/NN ,/,","{F oh, } {D see } [ [ I, + I, ] + I ] watch it maybe twice a month, /"
+sd,A,"so/RB ,/, I/PRP do/VBP n't/RB watch/VB it/PRP everyday/RB like/IN I/PRP did/VBD when/WRB I/PRP had/VBD babies/NNS ./.","{C so, } I don't watch it everyday like I did when I had babies. /"
+sd,B,"Oh/UH ,/, well/UH ,/, I/PRP ,/, I/PRP watch/VBP ./.","{F Oh, } {D well, } [ I, + I ] watch. /"
+sd,A,Because/IN I/PRP play/VBP lots/NNS of/IN tennis/NN,{C Because } I play lots of tennis /
+sd,A,"and/CC I/PRP 'm/VBP gone/JJ a/DT lot/NN ,/,","{C and } I'm gone a lot, /"
+sd,A,"so/RB ,/, I/PRP do/VBP n't/RB get/VB to/TO watch/VB ,/,","{C so, } I don't get to watch, /"
+sd,B,"I/PRP watch/VBP it/PRP everyday/RB ,/, religiously/RB ./.","I watch it everyday, religiously. /"
+sd,B,I/PRP videotape/VBP it/PRP when/WRB I/PRP have/VBP to/TO miss/VB it/PRP ./.,I videotape it when I have to miss it. /
+ba,A,"Oh/UH ,/, no/DT kidding/NN ./.","{F Oh, } no kidding. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP use/^VBD to/TO be/VB ,/, I/PRP used/VBD to/TO be/VB like/IN that/DT ./.","[ I use to be, + I used to be ] like that <laughter>. /"
+sd,B,I/PRP 'm/VBP that/DT way/NN about/IN a/DT lot/NN of/IN different/JJ shows/NNS ./.,I'm that way about a lot of different shows. /
+sd,B,"I/PRP 'm/VBP that/DT way/NN about/IN MURPHY/NNP BROWN/NNP ,/, DESIGNING/VBG WOMEN/NNS ./.","I'm that way about MURPHY BROWN, DESIGNING WOMEN. /"
+qy,A,"Now/RB is/VBZ n't/RB DESIGNING/VBG WOMEN/NNS ,/, do/VBP n't/RB they/PRP have/VB a/DT new/JJ chick/NN on/IN there/RB instead/IN of/IN the/DT ,/, instead/IN of/IN what/WP 's/BES her/PRP$ name/NN ?/.","{D Now } [ isn't DESIGNING WOMEN, + don't they ] have a new chick on there [ instead of the, + instead of ] what's her name? /"
+ny,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,B,there/EX 's/BES two/CD new/JJ characters/NNS on/IN there/RB ./.,there's two new characters on there. /
+sd,B,"There/EX 's/BES ,/, um/UH ,/, uh/UH ,/, Jan/NNP Hooks/NNP from/IN SATURDAY/NNP NIGHT/NN LIFE/JJ ./.","There's, {F um, } {F uh, } Jan Hooks from SATURDAY NIGHT LIFE. /"
+qy^d,B,I/PRP do/VBP n't/RB know/VB if/IN you/PRP know/VBP her/PRP or/CC not/RB ./.,I don't know if you know her or not. /
+ny,A,Huh-uh/UH ./.,Huh-uh. /
+sd,A,That/DT 's/BES a/DT show/NN I/PRP like/VBP ./.,That's a show I like. /
+sd,B,"And/CC then/RB ,/, and/CC then/RB ,/, uh/UH ,/, ,/, uh/UH ,/, the/DT blond/RB headed/JJ girl/NN that/WDT used/VBD to/TO be/VB on/IN NEWHART/NNP ./.","[ {C And then, } + {C and then, } ] {F uh, } <lipsmack>, {F uh, } the blond headed girl that used to be on NEWHART. /"
+ba,A,"Oh/UH ,/, yeah/UH ,/, oh/UH ./.","{F Oh, } yeah, {F oh. } /"
+sv,B,"I/PRP do/VBP n't/RB like/VB her/PRP on/IN it/PRP ,/,","I don't like her on it, /"
+sv,B,"I/PRP never/RB have/VBP liked/VBN her/PRP ,/,","I never have liked her, /"
+%,B,so/RB ./.,{C so. } -/
+sd,A,"Well/UH ,/, I/PRP ,/, I/PRP just/RB know/VBP which/WDT one/NN she/PRP is/VBZ ./.","{D Well, } [ I, + I ] just know which one she is. /"
+%,A,"I/PRP do/VBP n't/RB ,/, you/PRP know/VBP ./.","I don't, {D you know. } -/"
+sd,B,"She/PRP 's/HVS taken/VBN the/DT Suzanne/NNP 's/POS part/NN ,/,","She's taken the Suzanne's part, /"
+sd,B,and/CC then/RB Jan/NNP Hooks/NNP has/VBZ taken/VBN Charlene/NNP 's/POS part/NN ./.,{C and then } Jan Hooks has taken Charlene's part. /
+qy^d,A,Charlene/NNP was/VBD Delta/NNP Burke/NNP ?/.,Charlene was Delta Burke? /
+ng,B,"Charlene/NNP was/VBD Jean/NNP Smart/NNP ,/, the/DT blond/RB headed/JJ ./.","Charlene was Jean Smart, the blond headed. /"
+bk,A,"Oh/UH ,/, okay/UH ,/,","{F Oh, } okay, /"
+sd,A,"well/UH ,/, see/UH ,/, I/PRP never/RB watch/VBP that/DT one/NN either/RB ./.","{D well, } {D see, } I never watch that one either. /"
+sd,A,"I/PRP really/RB do/VBP n't/RB watch/VB a/DT whole/JJ lot/NN of/IN T/NN V/NN ,/, just/RB ,/, you/PRP know/VBP ,/, on/IN Sunday/NNP nights/NNS ,/,","I really don't watch a whole lot of T V, just, {D you know, } on Sunday nights, /"
+sd,A,"LIFE/NN GOES/VBZ ON/RB comes/VBZ on/RP about/RB the/DT time/NN that/WDT we/PRP eat/VBP dinner/NN ,/,","LIFE GOES ON comes on about the time that we eat dinner, /"
+sd,A,"and/CC my/PRP$ whole/JJ family/NN 's/BES home/NN ,/, because/IN I/PRP do/VBP n't/RB allow/VB the/DT kids/NNS out/RB on/IN Sunday/NNP night/NN --/:","{C and } my whole family's home, because I don't allow the kids out on Sunday night --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: you/PRP know/VBP ,/, because/IN they/PRP 've/VBP got/VBN to/TO go/VB to/IN bed/NN and/CC go/VB to/IN school/NN the/DT next/JJ day/NN ,/,","-- {D you know, } because they've got to go to bed and go to school the next day, /"
+sd,A,"and/CC so/RB we/PRP ,/, we/PRP sit/VBP around/IN and/CC eat/VBP popcorn/NN","{C and so } [ we, + we ] sit around and eat popcorn /"
+sd,A,"and/CC ,/, oh/UH ,/, then/RB we/PRP watch/VBP AMERICA/NNP 'S/POS FUNNIEST/JJS HOME/NN VIDEOS/NNS ./.","{C and, } {F oh, } then we watch AMERICA'S FUNNIEST HOME VIDEOS. /"
+sv,A,Those/DT are/VBP always/RB pretty/RB cute/JJ ./.,Those are always pretty cute. /
+sd,B,"Well/UH ,/, MURDER/NN ,/, SHE/PRP WROTE/VBZ comes/VBZ on/RP opposite/NN of/IN that/DT ,/,","{D Well, } MURDER, SHE WROTE comes on opposite of that, /"
+%,B,"and/CC so/RB ,/,","{C and so, } -/"
+qy^d,A,"Oh/UH ,/, so/RB you/PRP do/VBP n't/RB watch/VB that/DT one/NN --/:","{F Oh, } {C so } you don't watch that one --"
+ny,B,Yeah/UH,Yeah /
+sd,B,I/PRP --/:,[ I -- +
++,A,"--/: instead/IN of/IN ,/,","-- instead of, -/"
++,B,"--/: I/PRP pick/VBP nights/NNS pretty/RB much/RB so/IN on/IN T/NN V/NN that/IN I/PRP watch/VBP different/JJ networks/NNS ,/,","-- I ] pick nights pretty much so on T V that I watch different networks, /"
+sd,B,but/CC --/:,{C but } --
+b,A,Sure/UH ./.,Sure. /
++,B,"--/: BEVERLY/NNP HILLS/NNP NINE/CD OH/CD TWO/CD ONE/CD OH/CD ,/, I/PRP ,/, I/PRP watch/VBP it/PRP religiously/RB ./.","-- BEVERLY HILLS NINE OH TWO ONE OH, [ I, + I ] watch it religiously. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,we/PRP like/VBP that/DT real/RB well/RB ./.,we like that real well. /
+%,B,"It/PRP ,/,","It, - /"
+ad,B,be/VB sure/JJ to/TO watch/VB it/PRP tomorrow/NN night/NN --/:,be sure to watch it tomorrow night --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: because/IN somebody/NN 's/BES getting/VBG killed/VBN on/IN it/PRP ./.,-- because somebody's getting killed on it. /
+sd,A,I/PRP know/VBP ./.,I know. /
+sd,A,"The/DT kids/NNS already/RB know/VBP who/WP it/PRP is/VBZ ,/,","The kids already know who it is, /"
+sd,A,"I/PRP do/VBP n't/RB know/VB who/WP it/PRP is/VBZ ,/, though/RB ,/,","I don't know who it is, though, /"
+qw,B,Who/WP is/VBZ it/PRP ?/.,Who is it? /
+ad,B,Ask/VB them/PRP ./.,Ask them <laughter>. /
+oo_co_cc,A,Let/VB me/PRP ask/VB Nicole/NNP ./.,Let me ask Nicole. /
+t3,A,Nicole/NNP ./.,<<Speaking to someone in room>> Nicole. -/

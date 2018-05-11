@@ -1,0 +1,285 @@
+act_tag,speaker,pos,text
+fp,A,Hello/UH ./.,Hello. /
+fp,B,Hello/UH ./.,Hello <laughter>. /
+sd,B,"I/PRP was/VBD ,/, I/PRP was/VBD thinking/VBG about/IN our/PRP$ topic/NN for/IN the/DT night/NN ./. Um/UH ,/, immigration/NN problems/NNS ./.","[ I was, + I was ] thinking about our topic for the night <laughter>. {F Um, } immigration problems. /"
+sd,B,We/PRP have/VBP immigration/NN problems/NNS,We have immigration problems /
+qo,B,"and/CC what/WP do/VBP ,/, do/VBP you/PRP think/VB about/IN it/PRP ?/. ./.","{C and } what [ do, + do ] you think about it? <laughter>. /"
+sv,A,"Well/UH ,/, I/PRP think/VBP it/PRP 's/BES a/DT very/RB ,/, very/RB complicated/JJ ,/,","<Laughter> {D Well, } I think it's a very, very complicated, /"
+b,B,Huh/UH ./.,Huh. /
+sd,A,"and/CC I/PRP sort/RB of/RB ,/, I/PRP see/VBP perspectives/NNS on/IN all/DT sides/NNS ./.","{C and } I sort of, [ I + ] see perspectives on all sides. /"
+sd,A,"Um/UH ,/, and/CC I/PRP 've/VBP re-/XX ,/, have/VBP no/DT hope/NN for/IN solutions/NNS ./.","{F Um, } {C and } I've [ re-, have + ] no hope for solutions. /"
+sd,A,"But/CC ,/, uh/UH ,/, I/PRP do/VBP keep/VB myself/PRP somewhat/RB abreast/JJ of/IN the/DT issue/NN ./.","{C But, } {F uh, } I do keep myself somewhat abreast of the issue. /"
+sd,A,"I/PRP have/VBP worked/VBN with/IN ,/, uh/UH ,/, uh/UH ,/, a/DT little/JJ bit/NN with/IN refugees/NNS from/IN ,/,","I have worked [ with, + {F uh, } {F uh, } a little bit with ] refugees from,"
+x,B,,<Child_laughing>.
++,A,"Southeast/NNP Asia/NNP ,/, uh/UH ,/, who/WP 've/VBP come/VBN over/RB ./. Uh/UH ,/, you/PRP know/VBP ,/, to/TO escape/VB the/DT genocide/NN programs/NNS that/WDT are/VBP over/IN there/RB ./.","Southeast Asia, {F uh, } who've come over. {F Uh, } {D you know, } to escape the genocide programs that are over there. /"
+sd,A,"And/CC seen/VBN ,/, you/PRP know/VBP ,/, heard/VBN about/IN some/DT of/IN the/DT problems/NNS that/WDT they/PRP 've/VBP had/VBN ./.","And [ seen, + ] {D you know, } heard about some of the problems that they've had./"
+sd,A,And/CC I/PRP 'm/VBP also/RB fairly/RB sensitive/JJ to/IN the/DT issues/NNS about/IN how/WRB open/JJ should/MD the/DT borders/NNS be/VB ./.,{C And } I'm also fairly sensitive to the issues about how open should the borders be. /
+sd,A,"Because/IN I/PRP ,/, in/IN general/JJ ,/, like/VBP a/DT smaller/JJR rather/IN than/IN a/DT larger/JJR population/NN ,/,","{C Because } I, in general, like a smaller rather than a larger population,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,to/IN the/DT land/NN area/NN ./.,to the land area. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, }"
+qw,B,Where/WRB are/VBP you/PRP ?/.,Where are you? /
++,A,"I/PRP 'm/VBP in/IN California/NNP ,/,","I'm in California,"
+%,B,"See/VB ,/,","{D See, } -/"
++,A,"which/WDT has/VBZ a/DT lot/NN of/IN immigration/NN ./. Probably/RB more/JJR than/IN any/GW where/^RB else/RB in/IN the/DT country/NN ,/, though/IN I/PRP 'm/VBP not/RB sure/JJ if/IN that/DT 's/BES the/DT case/NN ./.","which has a lot of immigration. Probably more than any where else in the country, though I'm not sure if that's the case. /"
+sd,B,"Well/UH ,/, we/PRP 've/VBP got/VBN a/DT lot/NN too/RB ./.","{D Well, } we've got a lot too. /"
+sd,B,I/PRP 'm/VBP in/IN Texas/NNP ./.,I'm in Texas. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,yeah/UH ./.,yeah. /
+sd,B,"In/IN Garland/NNP ,/, right/RB outside/IN of/IN Dallas/NNP ./.","In Garland, right outside of Dallas. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,"So/RB ,/, we/PRP 're/VBP getting/VBG a/DT large/JJ ,/,","{C So, } we're getting a large <sigh>, - /"
+h,B,"oh/UH ,/, gosh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","{F oh, } gosh, I don't know, /"
+sd,B,"I/PRP think/VBP there/RB 's/BES like/IN twenty-six/CD different/JJ languages/NNS now/RB ,/, that/WDT are/VBP spoken/VBN in/IN I/PRP ,/, the/DT I/NNP S/NNP D/NNP ./. Dallas/NNP Innercity/NNP School/NNP District/NNP ./.","I think there's {D like } twenty-six different languages now, that are spoken in [ I, + the I S D. ] Dallas Innercity School District. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,"Cambodians/NNPS ,/, uh/UH ,/, Asians/NNPS ,/, Vietnamese/NNPS ./.","<Laughter> Cambodians, {F uh, } Asians, Vietnamese. - /"
+sd,B,"We/PRP ,/, we/PRP 're/VBP getting/VBG a/DT lot/NN of/IN ,/, uh/UH ,/, Mexican/JJ Americans/NNPS ,/,","[ We, + we're ] getting a lot of, {F uh, } Mexican Americans, /"
+sd,B,"you/PRP know/VBP ,/, we/PRP 've/VBP had/VBN ,/,","{D you know, } we've had,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,those/DT for/IN a/DT long/JJ time/NN ./.,those for a long time. /
+b,A,"Sure/UH ,/,","Sure, /"
+sd,A,"well/UH ,/, Texas/NNP ,/,","{D well, } Texas,"
+x,B,,<Child>.
++,A,"used/VBN to/TO be/VB part/NN of/IN Mexico/NNP ,/, or/CC most/RBS of/IN it/PRP ./.","used to be part of Mexico, or most of it <laughter>. /"
+aa,B,"Yes/UH ,/,","Yes, /"
+aa,B,"oh/UH ,/, yes/UH ./.","{F oh, } yes. /"
+t3,B,"No/UH ,/,","<<Speaking to child in background>> No, /"
+t3,B,"I/PRP 'm/VBP busy/JJ right/RB now/RB ,/, Steven/NNP ./.","I'm busy right now, Steven. /"
+sd,B,Steven/NNP wants/VBZ me/PRP to/TO do/VB popcorn/NN right/RB now/RB ./.,Steven wants me to do popcorn right now. /
+b,A,Huh/UH ./.,Huh. /
+t3,B,Okay/UH ./.,<Child_talking> <<Speaks to child>> Okay. /
+sd,B,And/CC I/PRP do/VBP n't/RB know/VB what/WP the/DT solution/NN is/VBZ ./.,{C And } I don't know what the solution is. /
+sd,A,"I/PRP ,/, I/PRP do/VBP n't/RB either/RB ./.","[ I, + I ] don't either. /"
+sv,A,"It/PRP 's/BES a/DT really/RB delicate/JJ ,/, uh/UH ,/, moral/JJ ,/, issue/NN ./.","It's a really delicate, {F uh, } moral, issue. /"
+%,A,"Because/IN ,/, i-/IN ,/, if/IN you/PRP have/VBP ,/, well/UH ,/,","{C Because, } [ i-, + if ] you have, {D well, } - /"
+sd,A,"I/PRP guess/VBP the/DT one/CD thing/NN I/PRP do/VBP see/VB that/IN is/VBZ ,/, is/VBZ that/DT needs/VBZ to/TO be/VB a/DT solution/NN is/VBZ ,/, that/IN if/IN you/PRP do/VBP let/VB people/NNS into/IN the/DT country/NN ,/, I/PRP do/VBP feel/VB you/PRP have/VB a/DT certain/JJ obligation/NN to/TO ,/,","I guess the one thing I do see [ that is, + is that ] needs to be a solution is, that if you do let people into the country, I do feel you have a certain obligation [ to, +"
+^2,B,"To/TO get/VB them/PRP on/IN their/PRP$ ,/,","To get them on their, -/"
++,A,to/TO get/VB them/PRP on/IN their/PRP$ feet/NNS ./.,to ] get them on their feet. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,Because/IN otherwise/RB what/WP you/PRP 're/VBP doing/VBG is/VBZ you/PRP 're/VBP letting/VBG people/NNS in/RB,{C Because } otherwise what you're doing is you're letting people in /
+sv,A,"and/CC you/PRP 're/VBP ,/, you/PRP 're/VBP dooming/VBG them/PRP to/TO being/VBG underclass/NN people/NNS ./.","{C and } [ you're, + you're ] dooming them to being underclass people. /"
+b,B,"Right/UH ,/,","Right, /"
+sv,A,"You/PRP know/VBP ,/, you/PRP 're/VBP dooming/VBG them/PRP to/TO ghetto/NN life/NN or/CC whatever/WDT ./.","{D You know, } you're dooming them to ghetto life or whatever. /"
+sd,A,"And/CC I/PRP know/VBP that/IN ,/, that/IN the/DT Southeast/NNP Asians/NNPS ,/, the/DT Hmong/JJ people/NNS that/WDT I/PRP 've/VBP done/VBN some/DT work/NN with/IN ,/, uh/UH ,/, feel/VBP very/RB quite/RB hurt/VBN and/CC ,/, and/CC unsure/JJ of/IN themselves/PRP when/WRB here/RB ./.","{C And } I know [ that, + that ] the Southeast Asians, the Hmong people that I've done some work with, {F uh, } feel very quite hurt [ and, + and ] unsure of themselves when here. /"
+sd,A,"Because/IN they/PRP 're/VBP coming/VBG from/IN ,/, you/PRP know/VBP ,/, from/IN the/DT slash/VB and/CC burn/VB intercultural/JJ society/NN ,/, you/PRP know/VBP ,/,","{C Because } they're coming [ from, + {D you know, } from ] the slash and burn intercultural society, {D you know, } /"
+sd,A,"they/PRP 're/VBP coming/VBG from/IN the/DT middle/JJ ages/NNS ,/, basically/RB ./.","they're coming from the middle ages, basically. /"
+sd,A,"And/CC they/PRP 're/VBP being/VBG plunked/VBN down/RB ,/, plunked/VBN down/RB into/IN America/NNP ./.","{C And } they're being [ plunked down, + plunked down ] into America. /"
+sd,A,"Many/JJ of/IN them/PRP had/VBD been/VBN promised/VBN by/IN the/DT C/NNP I/NNP A/NNP ,/, during/IN the/DT war/NN over/IN there/RB ,/, that/IN because/IN they/PRP co-operated/VBD with/IN the/DT C/NNP I/NNP A/NNP ,/, and/CC they/PRP helped/VBD the/DT C/NNP I/NNP A/NNP out/RP ,/, that/IN when/WRB they/PRP came/VBD here/RB ,/, the/DT C/NNP I/NNP A/NNP would/MD help/VB establish/VB them/PRP in/IN America/NNP ,/,","Many of them had been promised by the C I A, during the war over there, that because they co-operated with the C I A, and they helped the C I A out, that when they came here, the C I A would help establish them in America, /"
+sd,A,"and/CC the/DT C/NNP I/NNP A/NNP ,/, of/IN course/NN ,/, is/VBZ n't/RB doing/VBG that/DT ./.","{C and } the C I A, of course, isn't doing that. /"
+%,B,Um/UH ./.,{F Um. } /
+sd,A,"And/CC ,/, uh/UH ,/, so/RB they/PRP come/VBP here/RB","{C And, } {F uh, } <throat_clearing> {C so } they come here /"
+sd,A,"and/CC they/PRP do/VBP n't/RB know/VB wh/WP ,/, what/WP the/DT heck/NN they/PRP 're/VBP doing/VBG ./.","{C and } they don't know [ wh-, + what ] the heck they're doing. /"
+sd,A,And/CC they/PRP 're/VBP finding/VBG themselves/PRP adrift/JJ in/IN the/DT big/JJ cities/NNS ./.,{C And } they're finding themselves adrift in the big cities. /
+sv,A,"And/CC ,/, of/IN course/NN ,/, there/EX are/VBP people/NNS in/IN the/DT big/JJ cities/NNS who/WP would/MD do/VB ,/, like/IN nothing/NN better/JJR than/IN to/TO take/VB advantage/NN of/IN them/PRP ./.","{C And, } of course, there are people in the big cities who would [ do, + ] like nothing better than to take advantage of them. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC they/PRP 're/VBP ,/, they/PRP 're/VBP incredible/JJ victims/NNS of/IN crime/NN ./.","{C And } [ they're, + they're ] incredible victims of crime. /"
+sd,A,"And/CC part/NN of/IN it/PRP is/VBZ this/DT lack/NN of/IN ,/,","{C And } part of it is this [ lack of, +"
+x,B,,<Child_crying>.
++,A,"lack/NN of/IN basic/JJ information/NN ,/, being/VBG dissimilated/VBN ./.","lack of ] basic information, being (( dissimilated )) . /"
+sd,A,"And/CC I/PRP 'm/VBP not/RB saying/VBG it/PRP 's/BES easy/JJ to/TO do/VB ,/,","{C And } I'm not saying it's easy to do, /"
+sd,A,"and/CC I/PRP know/VBP there/EX are/VBP a/DT few/JJ people/NNS who/WP are/VBP trying/VBG ,/,","{C and } I know there are a few people who are trying, /"
+sd,A,"but/CC ,/, but/CC the/DT funding/NN is/VBZ n't/RB there/RB for/IN very/RB much/JJ work/NN to/TO be/VB going/VBG on/RP ./.","[ {C but, } + {C but } ] the funding isn't there for very much work to be going on. /"
+sd,B,"And/CC there/EX 's/BES a/DT lot/NN of/IN graft/NN ,/, like/IN people/NNS trying/VBG to/TO tell/VB them/PRP ,/, oh/UH ,/, giving/VBG them/PRP information/NN that/WDT was/VBD free/JJ to/IN them/PRP anyway/RB if/IN they/PRP just/RB knew/VBD how/WRB to/TO get/VB it/PRP ./.","{C And } there's a lot of graft, like people [ trying to tell them, + ] {F oh, } giving them information that was free to them anyway if they just knew how to get it. /"
+aa,A,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+aa,A,exactly/UH ./.,exactly. /
+%,A,"Y-/XX ,/,","Y-, - /"
+%,A,"ha-/XX ,/,","ha-, -/"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP mean/VBP ,/, these/DT are/VBP people/NNS who/WP do/VBP n't/RB have/VB the/DT foggiest/JJS idea/NN about/IN what/WP America/NNP 's/BES like/IN ./.","{E I mean, } these are people who don't have the foggiest idea about what America's like. /"
+b,B,Right/UH ./.,Right. /
+%,A,"Um/UH ,/, and/CC it/PRP 's/BES ,/,","{F Um, } {C and } it's, - /"
+%,A,ver/JJ,ver- - /
+%,A,"it/PRP 's/BES ,/,","it's, - /"
+sd,A,"I/PRP ,/, I/PRP could/MD n't/RB really/RB conceptualize/VB how/WRB hard/JJ it/PRP was/VBD to/TO understand/VB that/DT until/IN I/PRP ,/, until/IN I/PRP met/VBD with/IN them/PRP ./.","[ I, + I ] couldn't really conceptualize how hard it was to understand that [ until I, + until I ] met with them. /"
+sd,A,"And/CC I/PRP realized/VBD that/IN ,/, they/PRP ,/, some/DT of/IN the/DT information/NN that/IN I/PRP just/RB ,/, you/PRP know/VBP ,/, do/VB n't/RB even/RB realize/VB and/CC know/VB is/VBZ information/NN ,/, they/PRP do/VBP n't/RB have/VB ./.","{C And } I realized that, [ they, + ] some of the information that I just, {D you know, } don't even realize and know is information, they don't have. /"
+sd,A,"And/CC I/PRP never/RB thought/VBD ,/, well/UH ,/, I/PRP guess/VBP that/DT is/VBZ something/NN you/PRP need/VBP to/TO know/VB ,/, you/PRP know/VBP ./.","{C And } I never thought, {D well, } I guess that is something you need to know, {D you know. } /"
+sd,A,"People/NNS getting/VBG into/IN trouble/NN because/IN they/PRP come/VBP here/RB ,/,","People getting into trouble because they come here, /"
+sd,A,"and/CC so/RB they/PRP start/VBP farming/VBG on/IN ,/, uh/UH ,/, available/JJ land/NN ,/, you/PRP know/VBP ./. Like/IN the/DT median/NN strips/NNS on/IN freeways/NNS because/IN no/DT one/NN 's/BES using/VBG it/PRP ./.","{C and so } they start farming on, {F uh, } available land, {D you know. } Like the median strips on freeways because no one's using it. /"
+sd,A,"But/CC then/JJ someone/NN comes/VBZ along/RB and/CC says/VBZ you/PRP ca/MD n't/RB do/VB that/DT ,/, you/PRP know/VBP ./.","{C But } then someone comes along and says you can't do that, {D you know. } /"
+qh,A,Why/WRB ca/MD n't/RB they/PRP ?/.,Why can't they? /
+sd,A,"They/PRP have/VBP no/DT idea/NN why/WRB not/RB ,/, some/DT ,/, some/DT of/IN them/PRP ,/, you/PRP know/VBP ./.","They have no idea why not, [ some, + some ] of them, {D you know. } /"
+sd,A,"The/DT ones/NNS that/WDT have/VBP been/VBN here/RB longer/RBR and/CC have/VBP been/VBN in/IN ,/, you/PRP know/VBP ,/, understand/VB now/RB ./.","The ones that have been here longer and have been in, {D you know, } understand now. /"
+sd,A,"But/CC when/WRB they/PRP initially/RB come/VBP over/RB ,/,","{C But } when they initially come over, -/"
+qy,B,"You/PRP mean/VBP ,/, really/RB trying/VBG to/TO plant/VB something/NN ?/.","You mean, really trying to plant something? /"
+br,B,That/DT 's/BES what/WP you/PRP 're/VBP saying/VBG ?/.,That's what you're saying? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+qy,B,Farming/NN ?/.,Farming? /
+sd,A,'cause/IN they/PRP 're/VBP farmers/NNS ./.,'cause they're farmers. /
+sd,A,"These/DT ,/,","These,"
+b,B,Oh/UH ./.,Oh. /
++,A,"are/VBP all/DT farmers/NNS coming/VBG over/RB ,/,","are all farmers coming over, /"
+sd,A,and/CC they/PRP 're/VBP being/VBG put/VBN in/IN the/DT middle/NN of/IN the/DT city/NN ./.,{C and } they're being put in the middle of the city <breathing>. /
+ba,B,Oh/UH that/DT 's/BES terrible/JJ ./.,<breathing> {F Oh } that's terrible. /
+sd,A,"I/PRP mean/VBP they/PRP 're/VBP nomadic/JJ farmers/NNS ,/, you/PRP know/VBP ,/,","{E I mean } they're nomadic farmers, {D you know, } /"
+sd,A,they/PRP 're/VBP people/NNS who/WP farm/VBP on/IN the/DT hillside/NN and/CC then/RB leave/VBP the/DT hillside/NN to/IN another/DT hillside/NN and/CC farm/VBP on/IN that/DT hillside/NN ./.,they're people who farm on the hillside and then leave the hillside to another hillside and farm on that hillside. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"These/DT are/VBP people/NNS who/WP 've/VBP never/RB seen/VBN flat/JJ ground/NN before/RB and/CC people/NNS who/WP 've/VBP never/RB seen/VBN property/NN rights/NNS before/RB ./. You/PRP know/VBP ,/, these/DT people/NNS who/WP 've/VBP never/RB seen/VBN any/DT machines/NNS other/JJ than/IN those/DT used/VBN in/IN war/NN ./.","These are people who've never seen flat ground before and people who've never seen property rights before. {D You know, } these people who've never seen any machines other than those used in war. /"
+%,A,"And/CC ,/, uh/UH ,/, they/PRP have/VBP ,/, you/PRP know/VBP ./.","{C And, } {F uh, } they have, {D you know. } - /"
+sd,A,"So/RB I/PRP ,/, I/PRP ,/, I/PRP do/VBP have/VB a/DT lot/NN of/IN sympathy/NN for/IN them/PRP ,/,","{C So } [ [ I, + I, ] + I ] do have a lot of sympathy for them, /"
+sd,A,"and/CC I/PRP feel/VBP that/IN America/NNP could/MD try/VB a/DT little/JJ bit/NN harder/JJR to/TO ,/, to/TO help/VB people/NNS adjusting/VBG to/IN the/DT American/JJ way/NN ./.","{C and } I feel that America could try a little bit harder [ to, + to ] help people adjusting to the American way. /"
+sv,A,"Because/IN if/IN they/PRP do/VBP n't/RB ,/, you/PRP 're/VBP just/RB going/VBG to/TO produce/VB ,/, you/PRP know/VBP ,/, you/PRP 're/VBP going/VBG to/TO produce/VB an/DT underclass/NN ,/, you/PRP know/VBP ./.","{C Because } if they don't, [ you're just going to produce, + {D you know, } you're going to produce ] an underclass, {D you know. } /"
+sv,A,"You/PRP 're/VBP going/VBG to/TO get/VB a/DT situation/NN that/WDT I/PRP think/VBP a/DT lot/NN like/IN what/WP happened/VBD to/IN the/DT blacks/NNS ,/, being/VBG sort/RB of/RB led/VBN out/IN of/IN slavery/NN","You're going to get a situation that I think a lot like what happened to the blacks, being sort of led out of slavery /"
+sd,A,"and/CC then/RB ,/, then/RB many/JJ of/IN them/PRP ended/VBD up/RP just/RB working/VBG the/DT same/JJ jobs/NNS they/PRP were/VBD as/IN slaves/NNS then/RB ./.","{C and } [ {C then, } + {C then } ] many of them ended up just working the same jobs they were as slaves then. /"
+sd,A,"And/CC there/EX was/VBD no/DT ,/,","{C And } there was no,"
+bf,B,And/CC not/RB being/VBG cared/VBN for/RB ./.,And not being cared for. -/
++,A,"real/JJ up/IN ,/, upward/JJ movement/NN ./.","real [ up, + upward ] movement. /"
+%,A,"And/CC ,/, not/RB being/VBG ,/, you/PRP know/VBP ,/,","{C And, } not being, {D you know, } -/"
+aa,B,Yeah/UH ./.,Yeah. /
+aa,B,That/DT 's/BES true/JJ ./.,That's true. /
+%,A,"Um/UH ,/,","{F Um, } /"
+qw,B,"Well/UH ,/, what/WP did/VBD you/PRP do/VB when/WRB you/PRP helped/VBD these/DT people/NNS ?/.","{D Well, } what did you do when you helped these people? /"
+%,A,"Well/UH ,/,","{D Well, } -/"
+qw,B,"How/WRB did/VBD you/PRP ,/, what/WP did/VBD you/PRP do/VB ,/,","[ How did you, + what did you ] do, /"
+%,B,"tru-/XX ,/,","tru-, -/"
+sd,A,"I/PRP ,/, I/PRP was/VBD n't/RB helping/VBG them/PRP ./.","[ I, + I ] wasn't helping them. /"
+sd,A,"I/PRP worked/VBD with/IN them/PRP ,/, not/RB to/TO help/VB them/PRP ,/, but/CC for/IN my/PRP$ own/JJ purposes/NNS ./.","I worked with them, not to help them, but <laughter> for my own purposes./"
+sd,A,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP a/DT linguist/NN","[ I'm, + I'm ] a linguist /"
+sd,A,"and/CC I/PRP was/VBD ,/, uh/UH ,/, doing/VBG a/DT language/NN ,/, trying/VBG to/TO learn/VB their/PRP$ language/NN ,/, a/DT little/JJ bit/NN ./.","{C and } I was, {F uh, } [ doing a language, + trying to learn their language, ] a little bit. /"
+sd,A,"And/CC I/PRP actually/RB ,/, um/UH ,/, I/PRP mean/VBP ,/, helped/VBD them/PRP them/PRP in/IN the/DT sense/NN that/IN they/PRP received/VBD money/NN for/IN working/VBG with/IN me/PRP ./.","{C And } I actually, {F um, } {E I mean, } helped [ them + them ] in the sense that they received money for working with me. /"
+sd,A,"But/CC I/PRP did/VBD n't/RB ,/, I/PRP did/VBD n't/RB ,/, I/PRP was/VBD n't/RB a/DT social/JJ worker/NN or/CC anything/NN like/IN that/DT ./.","{C But } [ [ I didn't, + I didn't, ] + I wasn't ] a social worker or anything like that. /"
+bk,B,All/RB right/JJ ./.,All right. /
+sd,A,"I/PRP do/VBP have/VB friends/NNS who/WP have/VBP tried/VBN to/TO do/VB more/JJR ,/,","I do have friends who have tried to do more,"
+b,B,Uh-huh/UH,Uh-huh /
+x,B,./.,<child_laughing>.
++,A,"social/JJ work/NN ,/,","social work,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"you/PRP know/VBP ,/, by/IN explaining/VBG to/IN people/NNS how/WRB the/DT language/NN ,/,","{D you know, } by explaining to people how the language,"
+x,B,,<Child>.
++,A,and/CC what/WP the/DT problems/NNS learning/VBG English/NNP might/MD be/VB and/CC such/JJ ./.,and what the problems learning English might be and such. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,Because/IN all/PDT the/DT models/NNS of/IN teaching/NN English/NNP are/VBP based/VBN on/IN teaching/VBG English/NNP to/IN Spanish/NNP speakers/NNS or/CC to/IN other/JJ European/JJ language/NN speakers/NNS ./.,{C Because } all the models of teaching English are based on teaching English to Spanish speakers or to other European language speakers. /
+sd,A,And/CC people/NNS do/VBP n't/RB realize/VB how/WRB different/JJ some/DT of/IN the/DT languages/NNS they/PRP speak/VBP are/VBP ./.,{C And } people don't realize how different some of the languages they speak are. /
+sd,B,"Well/UH ,/, I/PRP 'm/VBP an/DT E/NNP S/NNP L/NNP teacher/NN ./.","{D Well, } I'm an E S L teacher. /"
+bh,A,"Oh/UH ,/, you/PRP are/VBP ?/.","{F Oh, } you are? /"
+ny,B,Yes/UH ./.,Yes. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+%,A,"well/UH you/PRP ,/,","{D well } you, -/"
+sd,B,I/PRP got/VBD my/PRP$ certification/NN ./.,<Laughter> I got my certification. /
+sd,B,But/CC actually/RB they/PRP did/VBD not/RB teach/VB us/PRP very/RB many/JJ things/NNS about/IN how/WRB really/RB to/TO go/VB about/IN helping/VBG people/NNS to/TO learn/VB another/DT language/NN ./.,{C But } {D actually } they did not teach us very many things about how really to go about helping people to learn another language </child>. /
+sd,A,"That/DT 's/HVS ,/, that/DT 's/HVS been/VBN my/PRP$ impression/NN ./.","[ That's, + that's ] been my impression. /"
+sd,B,"I/PRP mean/VBP ,/, it/PRP 's/BES like/IN people/NNS do/VBP n't/RB know/VB ,/, what/WP they/PRP say/VBP ,/,","{E I mean, } it's like people don't know, what they say, /"
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,"It/PRP 's/BES ,/, it/PRP 's/BES not/RB ,/, they/PRP 're/VBP not/RB withholding/VBG information/NN ,/,","[ [ It's, + it's ] not, + they're not ] withholding information, /"
+sd,B,it/PRP 's/BES not/RB step/NN for/IN step/NN ./.,it's not step for step. /
+sd,A,they/PRP just/RB do/VBP n't/RB have/VB that/DT information/NN ./.,they just don't have that information. /
+b,B,Yeah/UH,Yeah /
+x,B,./.,<laughter>.
+sd,A,"They/PRP ,/, they/PRP have/VBP n't/RB the/DT foggiest/JJS idea/NN ./.","[ They, + they ] haven't the foggiest idea. /"
+sd,B,"But/CC anyway/RB ,/, I/PRP enjoy/VBP it/PRP ./.","{C But } {D anyway, } I enjoy it. /"
+%,B,"They/PRP ,/, they/PRP ,/,","[ They, + they, ] - /"
+sd,B,the/DT kids/NNS I/PRP 've/VBP worked/VBN with/IN so/RB far/RB have/VBP been/VBN Spanish/NNP speaking/JJ ./.,the kids I've worked with so far have been Spanish speaking. /
+b,A,Yes/UH ./.,Yes. /
+%,B,And/CC ./.,{C And } <cough>. -/
+sv,A,"And/CC Spanish/JJ is/VBZ ,/,","{C And } Spanish is,"
+sd,B,"but/CC I/PRP 'm/VBP applying/VBG for/IN ,/,","{C but } I'm applying for, -/"
++,A,"pretty/RB close/RB to/IN English/NNP ,/, really/UH ./.","pretty close to English, really. /"
+br,B,What/WP ?/.,What? /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,it/PRP is/VBZ ./.,it is. /
+sv,A,And/CC Spanish/NNP is/VBZ a/DT lot/NN like/IN English/NNP ./.,{C And } Spanish is a lot like English. /
+sv,B,"A/DT lot/NN of/IN our/PRP$ words/NNS are/VBP the/DT same/JJ ,/,","A lot of our words are the same, /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"like/IN ,/, you/PRP know/VBP ,/,","{D like, } {D you know, }"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH ./.,yeah. /
++,B,they/PRP just/RB change/VBP the/DT pronunciation/NN a/DT little/JJ bit/NN ./.,they just change the pronunciation a little bit. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"But/CC ,/, I/PRP love/VBP it/PRP ./.","{C But, } I love it. /"
+sd,B,"I/PRP love/VBP the/DT culture/NN ,/, uh/UH ,/, the/DT way/NN that/WDT they/PRP ,/, uh/UH ,/, they/PRP respect/VBP education/NN and/CC their/PRP$ teachers/NNS --/:","I love the culture, {F uh, } the way that [ they, + {F uh, } they ] respect education and their teachers --"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
++,B,"--/: their/PRP$ parents/NNS ,/, so/RB much/RB more/JJR than/IN ,/, than/IN my/PRP$ children/NNS do/VBP ./.","-- their parents, so much more than, than my children do."
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
++,B,"You/PRP know/VBP ,/,","<Talking> {D You know, } /"
+sd,B,and/CC I/PRP like/VBP it/PRP ./.,{C and } I like it. /
+sd,B,"And/CC what/WP I/PRP 've/VBP been/VBN thinking/VBG about/IN doing/VBG is/VBZ volunteering/VBG for/IN this/DT ,/, uh/UH ,/, Asian/NNP center/NN that/WDT ,/, a/DT Doctor/NNP Falk/NNP has/VBZ started/VBN ,/, that/WDT works/VBP with/IN the/DT school/NN district/NN ./.","{C And } what I've been thinking about doing is volunteering for this, {F uh, } Asian center that, a Doctor Falk has started, that works with the school district. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC doing/VBG what/WP ,/, trying/VBG to/TO get/VB them/PRP set/VBN up/RP ,/, in/JJ ,/, inculturated/JJ ,/,","And [ doing what, + ] trying to get them set up, [ in-, + inculturated, ]"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,into/IN the/DT system/NN ./.,into the system. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,I/PRP thought/VBD that/DT would/MD be/VB good/JJ experience/NN for/IN me/PRP ./.,I thought that would be good experience for me. /
+sv,A,"Oh/UH ,/, I/PRP 'm/VBP sure/JJ it/PRP would/MD ./.","{F Oh, } I'm sure it would. /"
+sd,B,"And/CC ,/, I/PRP 've/VBP applied/VBN at/IN another/DT district/NN where/WRB many/JJ of/IN the/DT children/NNS are/VBP Asian/JJ ./.","{C And, } I've applied at another district where many of the children are Asian. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,And/CC I/PRP think/VBP that/DT would/MD be/VB wonderful/JJ too/RB ./.,{C And } I think that would be wonderful too. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"it/PRP would/MD be/VB a/DT good/JJ experience/NN ,/,","it would be a good experience, /"
+sv,A,"and/CC you/PRP 'd/MD be/VB helping/VBG people/NNS ,/, I/PRP 'm/VBP sure/JJ ./.","{C and } you'd be helping people, I'm sure. /"
+sv,A,Very/RB much/JJ ./.,Very much. /
+sd,A,"And/CC n-/RB ,/, and/CC I/PRP mean/VBP ,/, not/RB to/TO put/VB ,/, not/RB to/TO trivialize/VB the/DT problems/NNS of/IN any/DT immigrant/NN group/NN but/CC I/PRP do/VBP know/VB the/DT Asian/JJ groups/NNS are/VBP having/VBG a/DT lot/NN of/IN trouble/NN ./.","[ {C And } n-, + {C and } ] {E I mean, } [ not to put, + not to ] trivialize the problems of any immigrant group but I do know the Asian groups are having a lot of trouble. /"
+sv,A,"I/PRP mean/VBP ,/, and/CC part/NN of/IN the/DT problem/NN is/VBZ that/IN ,/, a/DT lot/NN of/IN Chinese/JJ and/CC Japanese/JJ immigration/NN from/IN ,/, you/PRP know/VBP ,/, decades/NNS ago/RB has/VBZ been/VBN very/RB successful/JJ because/IN they/PRP valued/VBD education/NN and/CC so/RB forth/RB ./.","{E I mean, } {C and } part of the problem is that, a lot of Chinese and Japanese immigration from, {D you know, } decades ago has been very successful because they valued education and so forth. /"
+b,B,Right/UH ./.,Right. /
+sv,A,They/PRP became/VBD a/DT very/RB successful/JJ immigrant/NN group/NN ./.,They became a very successful immigrant group. /
+sv,A,"But/CC ,/, and/CC ,/, but/CC a/DT lot/NN of/IN people/NNS coming/VBG over/RB from/IN Vietnam/NNP ,/, right/RB now/RB ,/, coming/VBG from/IN worn/VBN torn/VBN countries/NNS ,/, are/VBP ,/, are/VBP na-/XX ,/, not/RB having/VBG the/DT same/JJ success/NN ./.","[ [ {C But, } + {C and, } ] + {C but } ] a lot of people coming over from Vietnam, right now, coming from worn torn countries, [ are, + are ] [ na-, + not ] having the same success. /"
+sv,A,"I/PRP think/VBP some/DT people/NNS have/VBP just/RB assumed/VBN ,/, well/UH ,/, why/WRB ,/, why/WRB ca/MD n't/RB you/PRP be/VB successful/JJ ?/.","I think some people have just assumed, {D well, } [ why, + why ] can't you be successful? /"
+^q,A,"The/DT Japanese/NNP were/VBD ,/, or/CC the/DT Chinese/NNP were/VBD ,/, or/CC something/NN ./.","The Japanese were, or the Chinese were, or something. /"
+sv,A,And/CC it/PRP 's/BES really/RB much/RB more/RBR complicated/JJ ./.,{C And } it's really much more complicated. /
+sv,B,"Well/UH ,/, the/DT times/NNS were/VBD different/JJ too/RB ./.","{D Well, } the times were different too. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+b^m,A,"the/DT times/NNS are/VBP different/JJ ,/, yeah/UH ./.","the times are different, {D yeah. } /"
+sd,B,"My/PRP$ neighbor/NN ,/, let/VB 's/PRP see/VB ,/, is/VBZ Jewish/JJ ./.","My neighbor, {A let's see, } is Jewish. /"
+sd,B,"And/CC he/PRP 's/BES going/VBG through/IN the/DT ,/, I/PRP do/VBP n't/RB know/VB ,/, the/DT Jewish/NNP League/NNP or/CC something/NN ./.","{C And } he's going through [ the, + {A I don't know, } the ] Jewish League or something."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,And/CC helping/VBG a/DT family/NN that/WDT 's/HVS come/VBN over/IN from/IN Russia/NNP ./.,And helping a family that's come over from Russia. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,"And/CC he/PRP spends/VBZ ,/,","{C And } he spends, - /"
+sd,B,"well/UH ,/, right/RB now/RB ,/, he/PRP 's/BES down/IN to/IN like/IN once/RB a/DT week/NN ,/,","{D well, } right now, he's down to {D like } once a week, /"
+sd,B,"but/CC he/PRP was/VBD going/VBG over/IN there/RB several/JJ times/NNS a/DT week/NN to/TO be/VB with/IN the/DT family/NN ,/,","{C but } he was going over there several times a week to be with the family,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,and/CC help/VB them/PRP with/IN the/DT language/NN ./.,and help them with the language. /
+sd,B,And/CC he/PRP thoroughly/RB enjoyed/VBD it/PRP ./.,{C And } he thoroughly enjoyed it. /
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,A,"I/PRP ,/, I/PRP think/VBP it/PRP 's/BES a/DT wonderful/JJ thing/NN to/TO do/VB ./.","[ I, + I ] think it's a wonderful thing to do. /"
+sv,A,"And/CC there/EX 's/BES a/DT lot/NN ,/, there/EX 's/BES a/DT lot/NN more/JJR ,/,","{C And } [ there's a lot, + there's a lot ] more, - /"
+sv,A,"I/PRP guess/VBP another/DT possible/JJ solution/NN is/VBZ ,/, since/IN taxpayers/NNS are/VBP n't/RB going/VBG to/TO start/VB paying/VBG more/JJR money/NN for/IN this/DT and/CC ,/, and/CC other/JJ budgets/NNS are/VBP n't/RB going/VBG to/TO be/VB cut/VBN to/TO pay/VB for/IN it/PRP ,/, uh/UH ,/,","I guess another possible solution is, since taxpayers aren't going to start paying more money for this {C and, } {C and } other budgets aren't going to be cut to pay for it, {F uh, }"
+aa,B,No/UH ./.,No. /
++,A,more/JJR of/IN the/DT volunteer/NN network/NN service/NN ./.,more of the volunteer network service. - /
+sv,A,Because/IN everyone/NN gains/VBP from/IN it/PRP ./.,{C Because } everyone gains from it. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Would/MD be/VB ,/,","Would be, - /"
+%,A,"would/MD ,/,","would, - /"
+sv,A,might/MD be/VB really/RB useful/JJ ./.,might be really useful. /
+sv,A,"Uh/UH ,/, and/CC if/IN it/PRP 's/BES ,/, you/PRP know/VBP ,/, uh/UH ,/, just/RB people/NNS helping/VBG people/NNS I/PRP think/VBP makes/VBZ ,/, makes/VBZ the/DT community/NN so/RB much/RB happier/JJR ./.","{F Uh, } {C and } if it's, <throat_clearing> {D you know, } {F uh, } just people helping people I think [ makes, + <laughter> makes ] the community so much happier. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"What/WP 's/BES so/RB sad/JJ about/IN this/DT is/VBZ both/DT of/IN the/DT ,/, the/DT man/NN and/CC the/DT woman/NN had/VBD a/DT degree/NN having/VBG to/TO do/VB with/IN computers/NNS","What's so sad about this is both of [ the, + the ] man and the woman had a degree having to do with computers /"
+sd,B,"but/CC ,/,","{C but, }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,their/PRP$ training/NN is/VBZ n't/RB what/WP we/PRP need/VBP in/IN this/DT country/NN ./.,their training isn't what we need in this country. /
+b,A,Yes/UH ./.,Yes. /
+sd,B,"And/CC because/IN they/PRP 're/VBP so/RB deficient/JJ in/IN English/NNP ,/, they/PRP have/VBP n't/RB been/VBN able/JJ to/TO get/VB jobs/NNS ./.","{C And } because they're so deficient in English, they haven't been able to get jobs. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,"So/RB they/PRP 'll/MD have/VB to/TO go/VB back/RB and/CC get/VB a/DT degree/NN here/RB ./. You/PRP know/VBP ,/, almost/RB start/VB all/RB over/RB ./.","{C So } they'll have to go back and get a degree here. {D You know, } almost start all over. /"
+aa,A,"Yes/UH ,/,","Yes, /"
+aa,A,"yes/UH ,/,","yes, /"
+sd,A,"I/PRP 've/VBP known/VBN people/NNS with/IN effectively/RB worthless/JJ degrees/NNS in/IN this/DT country/NN ./. I/PRP mean/VBP ,/,","I've known people with effectively worthless degrees in this country. {E I mean, } /"
+sd,A,"and/CC they/PRP 're/VBP highly/RB educated/JJ people/NNS ,/,","{C and } they're highly educated people, /"
+sd,A,"but/CC of/IN course/NN ,/, if/IN you/PRP 're/VBP educated/JJ and/CC you/PRP do/VBP n't/RB speak/VB English/NNP ,/, no/DT one/NN thinks/VBZ anything/NN of/IN you/PRP ./.","{C but } of course, if you're educated and you don't speak English, no one thinks anything of you. /"
+aa,B,"No/UH ,/,","No, /"
+aa,B,no/UH ./.,no. /
+sd,B,"And/CC this/DT woman/NN was/VBD ,/, uh/UH ,/, stocking/VBG the/DT shelves/NNS in/IN a/DT drugstore/NN ./.","{C And } this woman was, {F uh, } stocking the shelves in a drugstore. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,I/PRP feel/VBP sorry/JJ for/IN her/PRP$ ./.,<Sigh> I feel sorry for her. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP do/VBP too/RB ./.,I do too. /
+fc,A,"Well/UH ,/, It/PRP 's/HVS been/VBN good/JJ talking/VBG with/IN you/PRP ./.","{D Well, } It's been good talking with you. /"
+ft,B,"Well/UH ,/, thank/VB you/PRP ./.","{D Well, } thank you. /"
+fc,A,"Uh/UH ,/, okay/UH ./.","{F Uh, } okay. /"
+fc,B,Have/VBP a/DT good/JJ night/NN ./.,Have a good night. /
+fc,A,"Okay/UH ,/,","Okay, /"
+sd,A,it/PRP does/VBZ sound/VB like/IN you/PRP have/VBP some/DT children/NNS to/TO take/VB care/NN of/IN ./.,it does sound like you have some children to take care of <laughter>. /
+aa,B,Okay/UH ./.,Okay. /
+aa,B,"Yes/UH ,/,","Yes, /"
+sd,B,I/PRP do/VBP ./.,I do <laughter>. /
+b,A,"Uh/UH ,/, Okay/UH ,/,","{F Uh, } Okay, /"
+fc,A,bye-bye/UH ./.,bye-bye. /
+fc,B,"Okay/UH ,/,","Okay, /"
+fc,B,Bye/UH ./.,Bye. /

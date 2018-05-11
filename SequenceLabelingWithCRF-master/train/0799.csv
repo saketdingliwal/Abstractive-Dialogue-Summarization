@@ -1,0 +1,204 @@
+act_tag,speaker,pos,text
+qy,A,"Well/UH ,/, Steve/NNP ,/, did/VBD you/PRP go/VB to/IN college/NN ?/.","{D Well, } Steve, did you go to college? /"
+ny,B,Yeah/UH ./.,Yeah. /
+sd,B,"In/IN fact/NN ,/, I/PRP 'm/VBP still/RB going/VBG ./.","In fact, I'm still going. /"
+ba,A,"Oh/UH ,/, that/DT 's/BES good/JJ ./.","{F Oh, } that's good. /"
+qy^d,A,So/RB you/PRP probably/RB could/MD give/VB some/DT great/JJ advice/NN ./.,{C So } you probably could give some great advice. /
+arp_nd,B,"Uh/UH ,/, well/UH ,/, I/PRP do/VBP n't/RB know/VB about/IN that/DT ,/,","{F Uh, } {D well, } I don't know about that, <breathing> /"
+sd,B,"but/CC I/PRP ,/, in/IN fact/NN ,/, I/PRP 'm/VBP in/IN the/DT process/NN of/IN trying/VBG to/TO choose/VB a/DT P/NNP H/NNP D/NNP school/NN ./.","{C but } [ I, + in fact, I'm ] in the process of trying to choose a P H D school. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+x,B,./.,<Breathing>.
+qw,A,"Well/UH ,/, what/WP 's/BES your/PRP$ ca-/NN ,/, what/WP 's/BES your/PRP$ interest/NN ,/,","{D Well, } [ what's your ca-, + what's your interest, ] /"
+%,A,"your/PRP$ ,/, uh/UH ,/,","your, {F uh, } -/"
+sd,B,"Uh/UH ,/, well/UH ,/, computer/NN science/NN and/CC cognitive/JJ science/NN ./.","{F Uh, } {D well, } computer science and cognitive science. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"So/RB ,/,","{C So, } -/"
+%,A,"That/DT ,/, that/DT 's/BES similar/JJ to/IN what/WP ,/,","[ That, + that's ] similar to what, - /"
+sd,A,I/PRP 'm/VBP in/IN a/DT P/NNP H/NNP D/NNP program/NN right/RB now/RB ./.,I'm in a P H D program right now. /
+b,B,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+sv,A,"And/CC ,/, uh/UH ,/, my/PRP$ area/NN of/IN expertise/NN ,/, it/PRP 's/BES information/NN systems/NNS ,/, which/WDT is/VBZ a/DT little/JJ bit/NN less/RBR technical/JJ ,/, I/PRP think/VBP ,/, than/IN ,/, uh/UH ,/, than/IN computer/NN science/NN ./.","{C And, } {F uh, } my area of expertise, it's information systems, which is a little bit less technical, I think, [ than, + {F uh, } than ] computer science. /"
+sd,A,"But/CC my/PRP$ area/NN of/IN expertise/NN is/VBZ ,/, uh/UH ,/, uh/UH ,/, human/NN computer/NN interaction/NN ./.","{C But } my area of expertise is, {F uh, } {F uh, } human computer interaction. /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,"And/CC I/PRP think/VBP that/DT 's/BES one/CD reason/NN why/WRB I/PRP 'm/VBP part/NN of/IN this/DT study/NN ,/, uh/UH ,/, because/IN it/PRP 's/BES of/IN ,/, I/PRP 'm/VBP working/VBG with/IN voice/NN systems/NNS ./.","{C And } I think that's one reason why I'm part of this study, {F uh, } because [ it's of, + ] I'm working with voice systems. /"
+b,B,Yeah/UH ./.,Yeah. /
+b^m,A,Yeah/UH ./.,Yeah. /
+ba,A,"So/RB ,/, so/RB ,/, good/JJ luck/NN ./.","[ {C So, } + {C so, } ] good luck. /"
+ad,A,"I/PRP guess/VBP we/PRP should/MD talk/VB about/IN giving/VBG advice/NN ,/, though/RB ./.","I guess we should talk about giving advice, though. /"
+qw,A,"Wh/WDT ,/, what/WDT ,/, what/WDT type/NN of/IN advice/NN do/VBP you/PRP think/VB you/PRP 'd/MD give/VB to/IN a/DT ,/, a/DT parent/NN ?/.","[ [ Wh-, + what, ] + what ] type of advice do you think you'd give to [ a, + a ] parent? /"
+qy,B,To/IN a/DT parent/NN ?/.,To a parent? /
+ny,A,Yeah/UH ./.,Yeah. /
+sv,B,"Well/UH ,/, you/PRP know/VBP ,/, the/DT thing/NN is/VBZ ,/, when/WRB you/PRP 're/VBP a/DT kid/NN --/:","{D Well, } {D you know, } the thing is, when you're a kid --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC the/DT kid/NN at/IN that/DT age/NN ,/, especially/RB if/IN they/PRP 're/VBP going/VBG into/IN undergraduate/NN ,/, it/PRP seems/VBZ like/IN they/PRP think/VBP they/PRP know/VBP what/WP they/PRP want/VBP ./.","-- and the kid at that age, especially if they're going into undergraduate, it seems like they think they know what they want. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"An/DT ,/, and/CC ,/, I/PRP mean/VBP ,/, choosing/VBG from/IN my/PRP$ experience/NN ,/, you/PRP know/VBP ,/, I/PRP thought/VBD ,/, you/PRP know/VBP ,/, my/PRP$ ,/, I/PRP know/VBP what/WP I/PRP want/VBP a/DT lot/NN more/RBR than/IN my/PRP$ parents/NNS know/VBP what/WP I/PRP want/VBP ./.","[ {C An, } + {C and, } ] {E I mean, } choosing from my experience, {D you know, } I thought, {D you know, } [ my, + I know what I want a lot more than my ] parents know what I want. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+h,B,"But/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","{C But, } {F uh, } I don't know, /"
+sv,B,"at/IN the/DT same/JJ time/NN ,/, you/PRP have/VBP to/TO decide/VB what/WP is/VBZ important/JJ about/IN the/DT school/NN ,/,","at the same time, you have to decide what is important about the school, /"
+sv,B,"you/PRP know/VBP ,/, the/DT size/NN of/IN it/PRP or/CC ,/,","{D you know, } the size of it or, -/"
+aa,A,Yeah/UH ./.,Yeah. /
+sv,A,"I/PRP think/VBP that/DT 's/BES more/RBR important/JJ probably/RB than/IN even/RB the/DT career/NN vocation/NN ,/, because/IN most/JJS people/NNS change/VBP ./.","I think that's more important probably than even the career vocation, because most people change. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP kn/VBP ,/, I/PRP know/VBP very/RB few/JJ people/NNS that/WDT ,/, uh/UH ,/, started/VBD in/IN one/CD field/NN and/CC stayed/VBD with/IN it/PRP ./.","[ I kn-, + I know ] very few people that, {F uh, } started in one field and stayed with it. /"
+%,A,"You/PRP know/VBP ,/, they/PRP ,/,","{D You know, } they, - /"
+aa,A,"I/PRP think/VBP that/DT 's/BES what/WP you/PRP just/RB said/VBD ,/, you/PRP know/VBP ,/, having/VBG to/TO do/VB more/JJR with/IN the/DT size/NN of/IN the/DT school/NN ,/, the/DT environment/NN of/IN the/DT school/NN ,/, uh/UH ,/,","I think that's what you just said, {D you know, } having to do more with the size of the school, the environment of the school, {F uh, } /"
+sv,A,I/PRP think/VBP that/DT 's/BES much/RB more/RBR important/JJ ./.,I think that's much more important. /
+sd,A,"I/PRP ,/, I/PRP think/VBP I/PRP 'd/MD ,/, I/PRP 'd/MD advise/VB a/DT parent/NN to/TO send/VB a/DT kid/NN to/IN a/DT school/NN ,/, though/RB ,/, that/WDT has/VBZ a/DT number/NN of/IN different/JJ types/NNS of/IN programs/NNS ,/, you/PRP know/VBP ,/,","[ [ I, + I think I'd, ] + I'd ] advise a parent to send a kid to a school, though, that has a number of different types of programs, {D you know, } /"
+sv,A,"that/WDT ,/, uh/UH ,/, some/DT of/IN the/DT smaller/JJR schools/NNS might/MD be/VB very/RB limited/JJ in/IN what/WP they/PRP can/MD offer/VB ,/,","that, {F uh, } some of the smaller schools might be very limited in what they can offer, /"
+sv,A,"but/CC some/DT of/IN the/DT ,/, uh/UH ,/, the/DT small/JJ ,/, some/DT of/IN the/DT larger/JJR small/JJ schools/NNS ,/, you/PRP know/VBP ,/, I/PRP guess/VBP around/RB three/CD or/CC four/CD thousand/CD students/NNS --/:","{C but } some of [ [ the, + {F uh, } the small, ] + some of the larger small ] schools, {D you know, } I guess around three or four thousand students --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: have/VBP a/DT ,/, can/MD offer/VB a/DT broader/JJR range/NN of/IN curriculums/NNS and/CC things/NNS ,/,","-- [ have a, + ] can offer a broader range of curriculums and things, /"
+sv,A,"so/IN if/IN the/DT kid/NN does/VBZ change/VB ,/, they/PRP do/VBP n't/RB have/VB to/TO transfer/VB ,/,","{C so } if the kid does change, they don't have to transfer, /"
+sv,A,"or/CC they/PRP do/VBP n't/RB have/VB to/TO ,/, uh/UH ,/, uh/UH ,/,","{C or } they don't have to, {F uh, } {F uh, } - /"
+sv,A,"I/PRP do/VBP n't/RB know/VB ,/, they/PRP do/VBP n't/RB have/VB to/TO give/VB up/RP years/NNS of/IN ,/, you/PRP know/VBP ,/, of/IN credit/NN transfer/NN and/CC things/NNS ./.","I don't know, they don't have to give up years [ of, + {D you know, } of ] credit transfer and things. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,That/DT 's/BES disruptive/JJ ./.,That's disruptive. /
+b,A,Yeah/UH ./.,Yeah. /
+x,B,./.,<Breathing>.
+%,A,"I/PRP normally/RB ,/,","<Lipsmack> I normally, - /"
+sv,A,"and/CC ,/, and/CC parents/NNS hate/VBP to/TO hear/VB this/DT ,/, you/PRP know/VBP ,/,","[ {C and, } + {C and } ] parents hate to hear this, {D you know, } /"
+sd,A,"because/IN I/PRP ,/, I/PRP actually/RB teach/VBP college/NN ,/,","{C because } [ I, + I ] actually teach college, /"
+sd,A,"I/PRP hate/VBP to/TO ,/, uh/UH ,/, I/PRP hate/VBP to/TO talk/VB to/IN the/DT parents/NNS","[ I hate to, + {F uh, } I hate to ] talk to the parents /"
+sv,A,"because/IN ,/, um/UH one/CD of/IN the/DT reasons/NNS is/VBZ because/IN ,/, you/PRP know/VBP ,/, the/DT kid/NN does/VBZ n't/RB know/VB exactly/RB what/WP they/PRP want/VBP ,/,","[ because, + {F um } <lipsmack> one of the reasons is because, ] {D you know, } the kid doesn't know exactly what they want, /"
+sd,A,"and/CC I/PRP always/RB say/VBP make/VB sure/JJ you/PRP major/VBP ,/,","{C and } I always say make sure you major,"
+x,B,./.,<Talking>.
++,A,"in/IN something/NN that/WDT you/PRP like/VBP ,/, even/RB if/IN it/PRP 's/BES not/RB going/VBG to/TO be/VB your/PRP$ career/NN vocation/NN ,/,","in something that you like, even if it's not going to be your career vocation,"
+x,B,./.,</Talking>.
++,A,because/IN you/PRP 'll/MD get/VB better/JJR grades/NNS ./.,because you'll get better grades. /
+sv,A,"I/PRP ,/, I/PRP think/VBP most/JJS employers/NNS would/MD probably/RB rather/RB hire/VB ,/, you/PRP know/VBP ,/, a/DT ,/, a/DT three/CD six/CD in/IN ,/, um/UH ,/, in/IN history/NN ,/, uh/UH ,/, to/TO be/VB a/DT salesman/NN than/WDT someone/NN with/IN a/DT two/CD oh/CD in/IN business/NN administration/NN ./.","[ I, + I ] think most employers would probably rather hire, {D you know, } [ a, + a ] three six [ in, + {F um, } <lipsmack> in ] history, {F uh, } to be a salesman than someone with a two oh in business administration. /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+qy,A,Does/VBZ that/DT make/VB sense/NN ?/.,Does that make sense? /
+ny,B,Yeah/UH ./.,Yeah. /
+ny,B,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+sd,B,I/PRP see/VBP what/WP you/PRP 're/VBP saying/VBG ./.,I see what you're saying. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,"I/PRP always/RB ,/, you/PRP know/VBP ,/, tell/VBP them/PRP that/IN you/PRP should/MD major/VB in/IN something/NN you/PRP ,/, you/PRP 're/VBP going/VBG to/TO get/VB good/JJ grades/NNS in/IN ./.","I always, {D you know, } tell them that you should major in something [ you, + you're ] going to get good grades in."
+b,B,Yeah/UH ./.,Yeah. /
++,A,"Because/IN that/DT ,/, that/DT 's/BES always/RB ,/, I/PRP think/VBP ,/, more/RBR important/JJ ,/, you/PRP know/VBP ,/, overall/RB ./.","Because [ that, + that's ] always, I think, more important, {D you know, } overall. /"
+h,A,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+t3,B,"Uh/UH ,/, give/VB me/PRP five/CD minutes/NNS ./.","{F Uh, } <<muffled>> give me five minutes. /"
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"Oh/UH ,/, you/PRP ,/, you/PRP 're/VBP at/IN the/DT office/NN now/RB ?/.","{F Oh, } [ you, + you're ] at the office now? /"
+ny,B,Yeah/UH ./.,Yeah. /
+qy,A,At/IN work/NN ?/.,At work? /
+%,A,Yeah/UH ./.,Yeah. /
+qy,B,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP 'm/VBP just/RB getting/VBG ready/JJ to/TO go/VB to/IN lunch/NN ./.,I'm just getting ready to go to lunch <breathing>. /
+%,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sv,B,"that/DT 's/BES like/IN what/WP we/PRP were/VBD saying/VBG ,/, though/RB ,/,","that's like what we were saying, though, /"
+qy,B,"would/MD you/PRP ,/, uh/UH ,/, advise/VB a/DT private/JJ school/NN ,/, or/CC a/DT public/JJ school/NN ,/,","would you, {F uh, } advise a private school, or a public school, /"
+na,A,"I/PRP would/MD ,/, I/PRP would/MD ,/,","[ [ I would, + I would, ] +"
+qw,B,"you/PRP know/VBP ,/, what/WP 's/BES the/DT trade/GW off/^NN there/RB ,/,","{D you know, } what's the trade off there, /"
+%,B,"what/WP ,/,","what, -/"
++,A,"it/PRP would/MD ,/,","it would, ] - /"
+^h,A,"I/PRP ,/, I/PRP tell/VBP you/PRP ,/,","[ I, + I tell you, ] /"
+sd,A,"I/PRP live/VBP in/IN Maryland/NNP ,/,","I live in Maryland, /"
+sd,A,"and/CC the/DT public/JJ schools/NNS here/RB are/VBP ,/,","{C and } the public schools here are,"
+x,B,./.,<Talking>.
++,A,pretty/RB good/JJ ./.,pretty good. /
+sd,A,"I/PRP teach/VBP at/IN a/DT public/JJ school/NN ,/, actually/RB ,/,","I teach at a public school, actually, /"
+sd,A,"and/CC I/PRP know/VBP that/IN the/DT S/NNP A/NNP T/NNP scores/NNS for/IN our/PRP$ admitting/VBG freshmen/NNS are/VBP higher/JJR than/IN a/DT lot/NN of/IN the/DT public/JJ sch-/NNS ,/, a/DT lot/NN of/IN the/DT private/JJ schools/NNS ./.","{C and } I know that the S A T scores for our admitting freshmen are higher than [ a lot of the public sch-, + a lot of the private schools. ] /"
+sd,A,"And/CC ,/, um/UH ,/, I/PRP actually/RB ,/, I/PRP would/MD full/GW time/^RB at/IN a/DT ,/, at/IN a/DT public/JJ school/NN ,/,","{C And, } {F um, } [ I actually, + I would ] full time [ at a, + at a ] public school, - /"
+sd,A,"and/CC then/RB right/RB now/RB I/PRP 'm/VBP teaching/VBG part/GW time/^RB at/IN a/DT private/JJ school/NN ,/, at/IN a/DT Catholic/NNP institution/NN ./.","{C and then } right now I'm teaching part time [ at a private school, + at a <noise> Catholic institution. ] /"
+bk,B,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+sv,A,"And/CC ,/, um/UH ,/, and/CC I/PRP really/RB think/VBP ,/, I/PRP think/VBP I/PRP 'm/VBP getting/VBG a/DT better/JJR caliber/NN of/IN student/NN at/IN the/DT private/JJ school/NN ,/, because/IN I/PRP think/VBP their/PRP$ parents/NNS pay/VBP more/JJR ,/,","[ {C And, } + {F um } <lipsmack>, {C and } ] [ I really think, + I think ] I'm getting a better </noise> caliber of student at the private school, because I think their parents pay more, /"
+sv,A,"and/CC I/PRP think/VBP the/DT kids/NNS are/VBP a/DT little/JJ bit/NN more/RBR challenged/JJ ,/, because/IN their/PRP$ parents/NNS are/VBP probably/RB college/NN educated/VBN ,/,","{C and } I think the kids are a little bit more challenged, because their parents are probably college educated, /"
+sv,A,"where/WRB at/IN the/DT public/JJ school/NN ,/, I/PRP do/VBP n't/RB think/VB as/IN many/JJ parents/NNS are/VBP public/JJ ,/, are/VBP ,/, are/VBP college/NN educated/JJ ,/,","where at the public school, I don't think as many parents [ [ are public, + are, ] + are college educated, ] /"
+sv,A,"and/CC I/PRP do/VBP n't/RB ,/, I/PRP think/VBP because/IN it/PRP costs/VBZ less/RBR ,/, the/DT kid/NN does/VBZ n't/RB take/VB it/PRP quite/RB as/RB serious/JJ ,/, you/PRP know/VBP ,/,","{C and } [ I don't, + I think ] because it costs less, the kid doesn't take it quite as serious, {D you know, } /"
+%,A,"they/PRP 're/VBP not/RB ,/, th-/PRP ,/,","[ they're not, + th-, ] - /"
+sv,A,"it/PRP ,/, it/PRP 's/BES the/DT minimal/JJ cost/NN ./.","[ it, + it's ] the minimal cost. /"
+sv,A,But/CC I/PRP think/VBP you/PRP can/MD get/VB a/DT good/JJ education/NN at/IN public/JJ or/CC private/JJ,{C But } <beep> I think you can get a good education at public or private <beep> /
+sv,A,"but/CC I/PRP think/VBP you/PRP can/MD also/RB get/VB a/DT bad/JJ education/NN at/IN public/JJ or/CC private/JJ ,/, you/PRP know/VBP ,/,","{C but } I think you can also get a bad education at public or private, {D you know, } /"
+%,A,I/PRP --/:,I -- -/
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"--/: you/PRP have/VBP to/TO really/RB ,/, you/PRP have/VBP to/TO look/VB around/RB at/IN the/DT school/NN ./.","-- [ you have to really, + you have to ] look around at the school. /"
+sv,A,"I/PRP ,/, I/PRP think/VBP the/DT bad/JJ part/NN is/VBZ that/IN most/JJS parents/NNS or/CC kids/NNS do/VBP n't/RB know/VB what/WP to/TO look/VB for/IN ./.","[ I, + I ] think the bad part is that most parents or kids don't know what to look for. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,yeah/UH ./.,yeah. /
+aa,B,"I/PRP think/VBP ,/, uh/UH ,/, I/PRP would/MD agree/VB with/IN that/DT ./.","I think, {F uh, } I would agree with that. /"
+sd,B,"In/IN fact/NN ,/, the/DT thing/NN that/WDT ,/, I/PRP 'm/VBP going/VBG through/IN the/DT same/JJ thing/NN ,/, where/WRB in/IN graduate/NN school/NN ,/,","In fact, [ the thing that, + I'm going through the same thing, ] where in graduate school,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,I/PRP was/VBD trying/VBG to/TO choose/VB ./.,I was trying to (( choose )) . /
+sv,B,"You/PRP know/VBP ,/, a/DT particular/JJ institution/NN might/MD be/VB better/JJR --/:","{D You know, } a particular institution might be better --"
+b,A,Right/UH ./.,Right. /
++,B,--/: for/IN my/PRP$ area/NN --/:,-- for my area -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"--/: yet/RB ,/, like/UH ,/, say/UH ,/, you/PRP know/VBP ,/, the/DT University/NNP of/IN Small/NNP Town/NNP in/IN Arkansas/NNP or/CC something/NN ,/,","-- [ yet, + {D like, } {D say, } {D you know, } the University of Small Town in Arkansas or something,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,might/MD have/VB some/DT top/JJ specialists/NNS in/IN my/PRP$ area/NN ./.,might have some top specialists in my area. /
+b,A,Right/UH ./.,Right. /
+sv,B,"Yet/RB ,/, if/IN I/PRP go/VBP to/IN U/NNP of/IN I/NNP or/CC C/NNP M/NNP U/NNP or/CC ,/, you/PRP know/VBP ,/, some/DT ,/, you/PRP know/VBP ,/, any/DT big/JJ name/NN school/NN ,/, my/PRP$ quality/NN of/IN education/NN might/MD not/RB be/VB that/RB much/RB better/JJR ,/,","Yet, ] if I go to U of I or C M U or, {D you know, } [ some, + {D you know, } any ] big name school, my quality of education might not be that much better, /"
+sv,B,"but/CC it/PRP 's/BES the/DT same/JJ thing/NN ,/,","{C but } it's the same thing, /"
+sv,B,"there/EX 's/BES ,/, you/PRP know/VBP ,/, what/WP will/MD the/DT name/NN recognition/NN ,/,","there's, {D you know, } what will the name recognition,"
+b,A,Right/UH ./.,Right. /
++,B,"get/VB me/PRP ,/,","get me,"
+b,A,"Yeah/UH ,/,","Yeah, /"
++,B,kind/NN of/IN thing/NN ./.,kind of thing. /
+qh,A,does/VBZ it/PRP have/VB a/DT big/NNP ten/CD football/NN team/NN,does it have a big ten football team /
+%,A,"or/CC ,/,","{C or, } -/"
+aa,B,"Yeah/UH ,/,","Yeah, <laughter> /"
+aa,B,yeah/UH ./.,yeah <breathing>. /
+sv,B,That/DT 's/BES that/DT 's/BES usually/RB the/DT basic/JJ criteria/NNS ./.,[ That's + <breathing> that's ] usually the basic criteria. /
+aa,A,Yeah/UH ./.,Yeah. /
+aa,A,"I/PRP mean/VBP ,/, uh/UH ,/, yeah/UH ,/,","{E I mean, } {F uh, } yeah, /"
+qh,A,"is/VBZ it/PRP a/DT PAC/NNP ten/CD school/NN ,/, you/PRP know/VBP ./.","is it a PAC ten school, {D you know. } /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"But/CC I/PRP think/VBP ,/,","{C But } I think, - /"
+%,A,"yeah/UH ,/,","yeah, /"
+sd,A,"see/UH ,/, I/PRP 'm/VBP ,/, I/PRP 'm/VBP at/IN the/DT University/NNP of/IN Maryland/NNP ,/, so/RB in/IN this/DT ,/, this/DT region/NN ,/, um/UH ,/, though/IN I/PRP go/VBP to/IN a/DT smaller/JJR branch/NN of/IN the/DT University/NNP of/IN Maryland/NNP ,/, my/PRP$ diploma/NN will/MD still/RB say/VB University/NNP of/IN Maryland/NNP ./.","{D see, } [ I'm, + I'm ] at the University of Maryland, {C so } in [ this, + this ] region, {F um, } though I go to a smaller branch of the University of Maryland, my diploma will still say University of Maryland. /"
+b,B,Oh/UH ./.,(( {F Oh } )) . /
+sd,A,"Um/UH ,/, you/PRP know/VBP ,/, it/PRP does/VBZ n't/RB ,/, does/VBZ n't/RB differentiate/VB on/IN my/PRP$ diploma/NN ,/, though/IN I/PRP would/MD put/VB it/PRP on/IN my/PRP$ resume/NN ,/, what/WDT program/NN I/PRP went/VBD to/IN ./.","{F Um, } <lipsmack> {D you know, } it [ doesn't, + doesn't ] differentiate on my diploma, though I would put it on my resume, what program I went to. /"
+sd,A,"But/CC I/PRP ,/, I/PRP think/VBP ,/, you/PRP know/VBP ,/, I/PRP 'm/VBP actually/RB at/IN a/DT smaller/JJR program/NN ,/,","{C But } [ I, + I ] think, {D you know, } I'm actually at a smaller program, /"
+sd,A,"I/PRP 'm/VBP not/RB at/IN the/DT col-/NN ,/, the/DT big/JJ College/NNP Park/NNP campus/NN ,/, you/PRP know/VBP ,/,","I'm not at [ the col-, + the big College Park campus, ] {D you know, } /"
+sd,A,that/DT 's/BES the/DT big/JJ one/NN with/IN the/DT football/NN team/NN ./.,that's the big one with the football team. /
+b,B,Yeah/UH ./.,Yeah. /
+aa,A,"So/RB I/PRP ,/, I/PRP think/VBP ,/, um/UH ,/, I/PRP think/VBP you/PRP 're/VBP right/JJ ,/, that/IN there/EX 's/BES a/DT lot/NN of/IN ,/, there/EX 's/BES difficult/JJ decisions/NNS there/RB based/VBN on/IN name/NN recognition/NN ./.","{C So } [ [ I, + I think, ] + {F um, } I think ] you're right, that [ there's a lot of, + there's difficult decisions ] there based on name recognition. /"
+sd,A,"Um/UH ,/, you/PRP know/VBP ,/, when/WRB I/PRP first/RB was/VBD applying/VBG for/IN graduate/NN schools/NNS ,/, I/PRP applied/VBD to/IN some/DT big/JJ programs/NNS ,/, you/PRP know/VBP ,/, in/IN this/DT area/NN ,/, like/IN Stevens/NNP Institute/NNP of/IN Technology/NNP ,/, which/WDT is/VBZ recognized/VBN in/IN the/DT Northeast/NNP as/IN ,/, as/IN ,/, you/PRP know/VBP ,/, one/CD step/NN below/IN M/NNP I/NNP T/NNP in/IN a/DT sense/NN ,/,","{F Um, } <lipsmack> {D you know, } when I first was applying for graduate schools, I applied to some big programs, {D you know, } in this area, like Stevens Institute of Technology, which is recognized in the Northeast [ as, + as, ] {D you know, } one step below M I T in a sense,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"you/PRP know/VBP ,/,","{D you know, } /"
+sv,A,"so/RB it/PRP 's/HVS got/VBN big/JJ name/NN recognition/NN in/IN this/DT area/NN ,/, a/DT big/JJ science/NN school/NN ,/, no/DT football/NN team/NN ,/, but/CC a/DT big/JJ science/NN school/NN ,/,","{C so } it's got big name recognition in this area, a big science school, no football team, but a big science school, /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,and/CC technical/JJ people/NNS know/VBP that/DT ./.,{C and } technical people know that. /
+%,A,"But/CC I/PRP don/VBP ,/,","{C But } I don-, - /"
+%,A,"yeah/UH ,/,","yeah, /"
+aa,A,"I/PRP think/VBP you/PRP 're/VBP right/JJ ,/,","I think you're right, /"
+sv,A,you/PRP really/RB have/VBP to/TO think/VB about/IN that/DT for/IN the/DT job/NN ./.,you really have to think about that for the job. /
+sd,A,"I/PRP went/VBD to/IN a/DT very/RB small/JJ state/NN college/NN when/WRB I/PRP got/VBD my/PRP$ bachelor/NN 's/POS ,/,","I went to a very small state college when I got my bachelor's, /"
+%,A,"and/CC when/WRB I/PRP ,/,","{C and } when I, - /"
+sd,A,"now/RB ,/, I/PRP was/VBD in/IN education/NN at/IN first/JJ when/WRB I/PRP was/VBD looking/VBG for/IN jobs/NNS ,/,","{D now, } I was in education at first when I was looking for jobs, /"
+sd,A,"I/PRP was/VBD going/VBG to/TO be/VB a/DT teacher/NN ,/,","I was going to be a teacher, /"
+sd,A,"I/PRP was/VBD just/RB a/DT high/JJ school/NN teacher/NN ,/,","I was just a high school teacher, /"
+sd,A,"so/RB most/JJS people/NNS recognized/VBD that/DT institution/NN because/IN it/PRP was/VBD a/DT teaching/NN school/NN sort/RB of/RB ,/,","{C so } most people recognized that institution because it was a teaching school sort of, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"you/PRP know/VBP ,/, but/CC then/RB when/WRB I/PRP went/VBD ,/, um/UH ,/, for/IN graduate/NN work/NN ,/, you/PRP know/VBP ,/, or/CC for/IN a/DT new/JJ job/NN ,/, people/NNS said/VBD to/IN me/PRP ,/, you/PRP know/VBP ,/, Shippensburg/NNP State/NNP ,/, where/WRB is/VBZ that/DT ,/, you/PRP know/VBP ./.","{D you know, } {C but } then when I went, {F um, } <lipsmack> for graduate work, {D you know, } or for a new job, people said to me, {D you know, } Shippensburg State, where is that, {D you know } <laughter>. /"
+b,B,"Yeah/UH ,/,","Yeah, <breathing> /"
+b,B,yeah/UH ./.,yeah <breathing>. /
+sd,A,"And/CC ,/, you/PRP know/VBP ,/, when/WRB I/PRP went/VBD into/IN higher/JJR education/NN ,/, even/RB at/IN other/JJ universities/NNS ,/, they/PRP were/VBD n't/RB aware/JJ of/IN it/PRP ,/, you/PRP know/VBP ./.","{C And, } {D you know, } when I went into higher education, even at other universities, they weren't aware of it, {D you know. } /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"So/RB I/PRP think/VBP yeah/UH ,/,","{C So } I think yeah, /"
+sv,A,"that/DT 's/BES important/JJ ,/,","that's important, /"
+sv,A,"um/UH ,/, ./. I/PRP think/VBP it/PRP depends/VBZ on/IN if/IN you/PRP want/VBP to/TO be/VB a/DT ,/, if/IN you/PRP want/VBP a/DT regional/JJ job/NN or/CC a/DT national/JJ job/NN ,/,","{F um, } <lipsmack>. I think it depends on [ if you want to be a, + if you want a ] regional job or a national job, /"
+sv,A,"you/PRP need/VBP that/DT first/JJ ,/,","you need that first,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"job/NN or/CC so/RB out/IN of/IN school/NN ,/, too/RB ./.","job or so out of school, too. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,"I/PRP ,/, I/PRP guess/VBP another/DT thing/NN that/WDT concerns/VBZ me/PRP is/VBZ ,/, uh/UH ,/, so/RB many/JJ people/NNS ,/, it/PRP seems/VBZ like/IN everybody/NN today/NN is/VBZ still/RB in/IN that/DT MUMBLEx/XX job/NN market/NN","[ I, + I ] guess another thing that concerns me is, {F uh, } [ so many people, + ] it seems like everybody today is still in that (( )) job market <<speaker talking to someone else in room>> /"
+qw,B,"and/CC ,/, uh/UH ,/, um/UH ,/, where/WRB was/VBD I/PRP at/IN ?/.","{C and, } {F uh, } {F um, } where was I at? /"
+sv,B,"Oh/UH ,/, go/VBG ,/, in/IN going/VBG to/IN school/NN ,/, you/PRP get/VBP taught/VBN the/DT things/NNS you/PRP learn/VBP in/IN school/NN ,/,","{F Oh, } [ go-, + in going ] to school, you get taught the things you learn in school, /"
+sv,B,"but/CC there/EX is/VBZ also/RB a/DT whole/JJ other/JJ dimension/NN ,/, I/PRP mean/VBP the/DT growing/NN up/RP while/IN you/PRP 're/VBP going/VBG to/TO school/VB part/NN ./.","{C but } there is also a whole other dimension, {E I mean } the growing up while you're going to school part. /"
+aa,A,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,A,yeah/UH ./.,yeah. /
+sd,B,"And/CC ,/, uh/UH ,/, actually/RB ,/, in/IN the/DT Midwest/NNP especially/RB ,/, a/DT lot/NN of/IN the/DT schools/NNS have/VBP ,/, like/IN University/NNP of/IN Missouri/NNP ,/, will/MD have/VB a/DT main/JJ campus/NN like/IN Columbia/NNP ,/, which/WDT is/VBZ big/JJ ,/, multi/GW disciplinary/^JJ ,/,","{C And, } {F uh, } actually, in the Midwest especially, a lot of the schools [ have, + like University of Missouri, will have ] a main campus like Columbia, which is big, multi disciplinary, /"
+b,A,Right/UH ./.,Right. /
+sd,B,"and/CC they/PRP 'll/MD have/VB a/DT satellite/NN campus/NN in/IN a/DT ,/, usually/RB in/IN a/DT smaller/JJR town/NN that/WDT specializes/VBZ in/IN the/DT technical/JJ field/NN ./.","{C and } they'll have a satellite campus [ in a, + usually in a ] smaller town <breathing> that specializes in the technical field. /"
+sv,B,"So/RB you/PRP 've/VBP really/RB ,/, uh/UH ,/, I/PRP guess/VBP sacrificed/VBN --/:","{C So } you've really, {F uh, } I guess sacrificed --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: some/DT social/JJ --/:,-- some social --
+b,A,Right/UH ./.,Right. /
++,B,--/: exposure/NN to/IN different/JJ groups/NNS and/CC everything/NN ./.,-- exposure to different groups and everything. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,depending/VBG on/IN your/PRP$ technical/JJ areas/NNS ./.,depending on your technical areas. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+b^m,B,Yeah/UH ./.,Yeah. /
+ba,A,I/PRP could/MD see/VB that/DT ./.,I could see that. /
+sd,A,"But/CC ,/, you/PRP know/VBP ,/, at/IN some/DT of/IN the/DT large/JJ schools/NNS ,/, I/PRP know/VBP that/IN at/IN ,/, at/IN ,/, at/IN University/NNP of/IN Maryland/NNP where/WRB I/PRP am/VBP ,/, you/PRP know/VBP ,/, in/IN a/DT P/NNP H/NNP D/NNP program/NN ,/, I/PRP ,/, I/PRP have/VBP n't/RB even/RB met/VBN ,/, uh/UH ,/, someone/NN outside/IN of/IN my/PRP$ area/NN of/IN information/NN systems/NNS except/IN for/IN ,/,","{C But, } {D you know, } [ at some of the large schools, + I know that [ [ at, + at, ] + at ] University of Maryland ] where I am, {D you know, } in a P H D program, [ I, + I ] haven't even met, {F uh, } someone outside of my area of information systems except for, -/"

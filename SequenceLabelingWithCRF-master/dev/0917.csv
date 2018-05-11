@@ -1,0 +1,189 @@
+act_tag,speaker,pos,text
+qy,A,You/PRP have/VBP any/DT pets/NNS ?/.,You have any pets? /
+br,B,Do/VBP I/PRP have/VB pets/NNS ?/.,Do I have pets? /
+ny,A,Yeah/UH ./.,Yeah. /
+ny,B,"Yes/UH ,/,","Yes, /"
+sd,B,I/PRP have/VBP a/DT cat/NN,I have a cat /
+sd,B,and/CC I/PRP have/VBP two/CD dogs/NNS ./.,{C and } I have two dogs. /
+b^m,A,"Two/CD dogs/NNS ,/,","Two dogs, /"
+qw,A,what/WP kind/NN ?/.,what kind? /
+sd,B,I/PRP have/VBP a/DT Schnauzer/NNP,I have a Schnauzer /
+sd,B,and/CC I/PRP have/VBP a/DT Sheltie/NNP ./.,{C and } I have a Sheltie. /
+b^m,A,Schnauzers/NNPS ./.,Schnauzers. /
+qy,A,Is/VBZ it/PRP a/DT miniature/JJ or/CC a/DT standard/JJ Schnauzer/NNP ?/.,Is it a miniature or a standard Schnauzer? /
+sd,B,"It/PRP ,/, it/PRP 's/BES a/DT miniature/JJ ./.","[ It, + it's ] a miniature. /"
+%,A,Uh/UH ./.,{F Uh. }
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"I/PRP 'm/VBP going/VBG into/IN all/DT this/DT because/IN I/PRP used/VBD to/TO w-/XX ,/, I/PRP just/RB got/VBD done/VBN working/VBG at/IN a/DT pet/NN shop/NN actually/UH ./.","I'm going into all this because [ I used to w-, + I just got done <laughter> working ] at a pet shop actually. /"
+b,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Well/UH ,/, the/DT Schnauzer/NNP I/PRP 'm/VBP ,/, I/PRP 'm/VBP watching/VBG for/IN one/NN of/IN ,/, uh/UH ,/, the/DT managers/NNS where/WRB I/PRP work/VBP","{D Well, } the Schnauzer [ I'm, + I'm ] watching for one of, {F uh, } the managers where I work /"
+sd,B,and/CC he/PRP 's/HVS been/VBN transferred/VBN to/IN Germany/NNP for/IN a/DT while/NN --/:,{C and } he's been transferred to Germany for a while -- /
+b,A,Uh/UH ./.,{F Uh. } /
+sd,B,--/: and/CC I/PRP 'm/VBP taking/VBG care/NN of/IN his/PRP$ dog/NN,-- {C and } I'm taking care of his dog /
+sd,B,"and/CC ,/, uh/UH ,/, and/CC I/PRP had/VBD just/RB got/VBN the/DT kitten/NN when/WRB he/PRP asked/VBD me/PRP that/DT","[ {C and, } + {F uh, } {C and } ] I had just got the kitten when he asked me that /"
+sd,B,"and/CC he/PRP says/VBZ ,/, well/UH ,/, my/PRP$ dog/NN does/VBZ n't/RB like/VB cats/NNS ,/,","{C and } he says, {D well, } my dog doesn't like cats, /"
+x,A,./.,<Laughter>.
+sd,B,"and/CC I/PRP said/VBD ,/, well/UH ,/, we/PRP wo/MD n't/RB tell/VB him/PRP it/PRP 's/BES a/DT c-/NN ,/, we/PRP wo/MD n't/RB tell/VB her/PRP it/PRP 's/BES a/DT cat/NN ,/,","{C and } I said, {D well, } [ we won't tell him it's a c-, + we won't tell her it's a cat, ]"
+x,A,./.,<Laughter>.
++,B,"because/RB it/PRP was/VBD a/DT kitten/NN ,/,","because it was a kitten, /"
+sv,B,"and/CC ,/, you/PRP know/VBP ,/, they/PRP just/RB ,/, they/PRP just/RB love/VBP kittens/NNS ./.","{C and, } {D you know, } [ they just, + they just ] love kittens. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,They/PRP just/RB are/VBP fascinated/JJ ./.,They just are fascinated. /
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,So/UH she/PRP does/VBZ n't/RB know/VB that/IN this/DT is/VBZ a/DT cat/NN yet/RB ./.,{C So } she doesn't know that this is a cat yet. /
+ba,A,That/DT 's/BES good/JJ ./.,That's good. /
+x,B,./.,<Laughter>.
+sv,A,"They/PRP say/VBP ,/,","They (( say )) , -/"
+sd,B,And/CC they/PRP get/VBP along/RP real/RB good/RB ./.,{C And } they get along real good. /
+sd,B,"I/PRP said/VBD if/IN Tom/NNP could/MD see/VB dog/NN lick/VB this/DT kitty/NN ,/, he/PRP 'd/MD flip/VB ./.","I said if Tom could see dog lick this kitty, he'd flip. / *[[listen]]"
+x,A,./.,<Laughter>.
+sd,B,So/RB that/DT was/VBD interesting/JJ ./.,<Laughter> {C So } that was interesting. /
+bf,A,Did/VBD n't/RB expect/VB that/DT would/MD happen/VB ./.,Didn't expect that would happen. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+ba,A,"that/DT 's/BES cool/JJ ,/,","that's cool, /"
+ba,A,that/DT 's/BES nice/JJ ./.,that's nice. /
+^h,A,"Uh/UH ,/, let/VB 's/PRP see/VB ,/,","{F Uh, } let's see, /"
+qw,A,what/WP was/VBD the/DT other/JJ dog/NN you/PRP had/VBD ?/.,what was the other dog you had? /
+sd,B,It/PRP 's/BES a/DT sheltie/NNP ./.,It's a sheltie. /
+b^m,A,"Oh/UH ,/, a/DT sheltie/NNP ./.","{F Oh, } a sheltie. /"
+sd,B,"She/PRP 's/BES real/RB s/JJ ,/, sweet/JJ little/JJ dog/NN ./.","She's real [ s-, + sweet ] little dog. /"
+sd,B,She/PRP 's/HVS got/VBN a/DT very/RB nice/JJ temperament/NN ./.,She's got a very nice temperament. /
+sv,B,"Uh/UH ,/, they/PRP 're/VBP not/RB as/RB aggressive/JJ as/IN a/DT Schnauzer/NNP ./.","{F Uh, } they're not as aggressive as a Schnauzer. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"You/PRP know/VBP ,/, the/DT Schnauzers/NNPS are/VBP a/DT little/RB aggressive/JJ ./.","{D You know, } the Schnauzers are a little aggressive. /"
+sv,A,They/PRP can/MD be/VB nippy/JJ ./.,<Laughter> They can be nippy. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,shelties/NNPS are/VBP nice/JJ ./.,shelties are nice. /
+sv,A,Everybody/NN seems/VBZ to/TO be/VB really/RB happy/JJ with/IN them/PRP ./.,Everybody seems to be really happy with them. /
+sv,A,They/PRP 're/VBP good/JJ temperament/NN ./.,They're good temperament. /
+sv,B,They/PRP 're/VBP a/DT good/JJ temperament/NN --/:,They're a good temperament -- /
+sv,A,They/PRP put/VBP up/RP with/IN a/DT lot/NN ./.,They put up with a lot. /
+sv,B,"--/: and/CC they/PRP ,/, and/CC they/PRP just/RB ,/, uh/UH ,/,","-- [ {C and } they, + {C and } they ] just, {F uh, } - /"
+%,B,"they/PRP ,/,","they, - /"
+sv,B,I/PRP think/VBP they/PRP have/VBP a/DT good/JJ head/NN on/IN their/PRP$ shoulders/NNS ./.,I think they have a good head on their shoulders. /
+sv,B,"I/PRP think/VBP they/PRP have/VBP a/DT ,/, a/DT higher/JJR level/NN of/IN intelligence/NN than/IN other/JJ ,/, uh/UH ,/, dogs/NNS that/WDT I/PRP have/VBP encountered/VBN ./.","I think they have [ a, + a ] higher level of intelligence than other, {F uh, } dogs that I have encountered. /"
+sv,A,"Schnauzers/NNPS ,/, in/IN particular/JJ probably/RB ./.","<Laughter> Schnauzers, in particular probably. /"
+aa,B,"Well/UH ,/,","{D Well, }"
+x,A,./.,<Laughter>.
++,B,"yeah/UH ,/,","yeah, /"
+sv,B,"but/CC also/RB some/DT poodles/NNS ,/, uh/UH --/:","{C but } also some poodles, {F uh } -- /"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,B,"--/: they/PRP 're/VBP kind/RB of/RB ,/,","-- they're kind of, - /"
+sv,B,"there/EX are/VBP some/DT smart/JJ ones/NNS out/IN there/RB ,/,","there are some smart ones out there, /"
+sv,B,"but/CC there/EX 's/BES some/DT also/RB some/DT ,/, uh/UH ,/, not/RB so/RB smart/JJ ones/NNS ./.","{C but } there's [ some + also some, ] {F uh, } not so smart ones <laughter>. /"
+b,A,"Yeah/UH ,/,","<Laughter> Yeah, /"
+%,A,"I/PRP g-/XX ,/,","I g-, - /"
+sv,A,"it/PRP seems/VBZ the/DT smaller/JJR the/DT are/VBP ,/, the/DT ,/, the/DT worse/JJR off/RP they/PRP are/VBP ./.","it seems the smaller the are, [ the, + the ] worse off they are <laughter>. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"that/DT 's/BES ,/, that/DT 's/BES ,/, maybe/RB that/DT 's/BES ,/, there/EX 's/BES ,/, uh/UH ,/, some/DT credence/NN in/IN that/DT statement/NN ./.","[ [ that's, + that's, ] + maybe [ that's, + there's, ] ] {F uh, } some credence in that statement. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"the-/XX ,/, they/PRP 're/VBP bred/VBN down/RP so/RB much/JJ ./.","[ the-, + they're ] bred down so much. /"
+%,A,"It/PRP 's/BES ,/,","It's, -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,They/PRP are/VBP n't/RB the/DT best/JJS pets/NNS ./.,They aren't the best pets. /
+sd,B,"I/PRP ,/, I/PRP 'd/MD ,/, I/PRP really/RB do/VBP n't/RB know/VB --/:","[ [ I, + I'd, ] + I ] really don't know --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: what/WP the/DT best/JJS pet/NN is/VBZ ./.,-- what the best pet is. /
+sv,B,I/PRP guess/VBP it/PRP 's/BES up/RP to/IN the/DT individual/NN and/CC how/WRB they/PRP relate/VBP to/IN their/PRP$ animal/NN ./.,I guess it's up to the individual and how they relate to their animal. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"I/PRP mean/VBP ,/, some/DT people/NNS seem/VBP fairly/RB well/RB suited/JJ for/IN --/:","{E I mean, } some people seem fairly well suited [ for -- +"
++,A,"--/: for/IN ,/, uh/UH ,/, miniature/JJ poodles/NNS and/CC such/JJ ./.","-- for, ] {F uh, } miniature poodles and such. /"
++,B,And/CC bull/NN dogs/NNS ./.,And bull dogs <laughter>. /
+x,A,./.,<Laughter>.
+sd,B,"But/CC I/PRP do/VBP n't/RB know/VB about/IN these/DT ,/, uh/UH ,/, these/DT ,/, uh/UH ,/, uh/UH ,/, these/DT pincers/NNS ,/, these/DT ,/, now/RB ,/, what/WP are/VBP they/PRP called/VBN ./. Pit/NN bulls/NNS ,/, pit/NN bulls/NNS --/:","{C But } I don't know about [ [ [ these, + {F uh, } these, ] + {F uh, } {F uh, } these ] pincers, + these, now, what are they called. [ Pit bulls, + pit bulls ] ] --"
+^2,A,Pit/NN bull/NN ./.,Pit bull. /
++,B,--/: that/WDT are/VBP so/RB vicious/JJ ./.,-- that are so vicious. /
+%,A,"They/PRP might/MD ,/,","They might, - /"
+sv,A,they/PRP 're/VBP actually/RB very/RB friendly/JJ dogs/NNS ./.,they're actually very friendly dogs. /
+bh,B,Are/VBP they/PRP really/RB ?/.,Are they really? /
+sd,B,I/PRP do/VBP n't/RB think/VB I/PRP 've/VBP ever/RB --/:,I don't think I've ever --
+sv,A,"Uh/UH ,/, they/PRP 're/VBP really/RB nice/JJ ./.","{F Uh, } they're really nice. /"
++,B,--/: seen/VBN one/CD ./.,-- seen one. /
+sd,A,"I/PRP ,/, I/PRP 've/VBP dealt/VBN with/IN quite/RB a/DT few/JJ of/IN them/PRP ./.","[ I, + I've ] dealt with quite a few of them. /"
+sd,A,"People/NNS ,/, uh/UH ,/, customers/NNS that/WDT bring/VBP them/PRP into/IN the/DT shop/NN and/CC ask/VBP me/PRP like/UH ,/, they/PRP ,/, uh/UH ,/, fit/VBP collars/NNS and/CC stuff/NN on/IN them/PRP","[ People, {F uh, } + customers ] that bring them into the shop and ask me {D like, } they, {F uh, } fit collars and stuff on them /"
+sd,A,"and/CC they/PRP are/VBP ,/, they/PRP are/VBP just/RB really/RB nice/JJ ,/, really/RB friendly/JJ ,/, uh/UH ,/, kind/RB of/RB like/IN medium/JJ intelligence/NN ./. Uh/UH ,/,","{C and } [ they are, + they are ] just really nice, really friendly, {F uh, } kind of like medium intelligence. {F Uh, } /"
+qw,B,"Well/UH ,/, how/WRB do/VBP they/PRP become/VB s-/XX ,/,","{D Well, } how do they become s-, - /"
+%,B,"w-/XX ,/,","w-, - /"
+qw,B,"how/WRB did/VBD they/PRP get/VB their/PRP$ reputation/NN ,/, then/RB ?/.","how did they get their reputation, then? /"
+sd,A,"Well/UH ,/, because/RB some/DT people/NNS ,/, uh/UH ,/, want/VBP to/TO train/VB them/PRP as/IN ,/,","{D Well, } because some people, {F uh, } want to train them as, -/"
+bf,B,"Oh/UH ,/, they/PRP train/VBP them/PRP to/TO be/VB that/DT way/NN ,/, then/RB ./.","{F Oh, } they train them to be that way, then. /"
+aa,A,Yeah/UH ./.,Yeah. /
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,A,You/PRP really/RB ca/MD n't/RB get/VB a/DT pit/NN bull/NN from/IN birth/NN that/WDT 's/BES that/DT way/NN ./.,You really can't get a pit bull from birth that's that way. /
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,it/PRP takes/VBZ a/DT lot/NN of/IN training/NN and/CC a/DT lot/NN of/IN abuse/NN to/TO get/VB a/DT dog/NN to/TO really/RB --/:,it takes a lot of training and a lot of abuse to get a dog to really --
+ba,B,"Oh/UH ,/, dear/UH ,/,","{F Oh, } dear, /"
+bf,B,so/UH the/DT --/:,{C so } [ the -- +
++,A,--/: respond/VB ./.,-- respond. /
++,B,--/: the/DT poor/JJ animal/NN is/VBZ doing/VBG it/PRP in/IN self/GW protection/^NN ./.,-- the ] poor animal is doing it in self protection. /
+aa,A,Right/UH ./.,Right. /
+ba,B,"Oh/UH ,/, dear/UH ./.","{F Oh, } dear. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"they/PRP are/VBP n't/RB ,/, they/PRP are/VBP n't/RB by/IN nature/NN really/RB nasty/JJ critters/NNS ./.","[ they aren't, + they aren't ] by nature really nasty critters. /"
+sd,A,They/PRP are/VBP very/RB determined/JJ critters/NNS --/:,They are very determined critters -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: and/CC so/RB once/RB you/PRP get/VBP them/PRP going/VBG ,/, it/PRP 's/BES not/RB good/JJ to/TO ,/, to/TO deal/VB with/IN ,/, but/CC ,/, they/PRP ,/, I/PRP ,/, I/PRP really/RB like/VBP them/PRP ./.","-- {C and so } once you get them going, it's not good [ to + <laughter>, to ] deal with, but, [ they, + ] [ I, + I ] really like them. / *[[two utts?]]"
+sd,A,"I/PRP was/VBD ,/, I/PRP was/VBD impressed/JJ by/IN them/PRP ./.","[ I was, + I was ] impressed by them. /"
+sd,A,"They/PRP 're/VBP ,/, they/PRP 're/VBP real/RB sturdy/JJ little/JJ critters/NNS","[ They're, + they're ] real sturdy little critters /"
+sd,A,and/CC they/PRP are/VBP n't/RB that/RB big/JJ ./.,{C and } they aren't that big.
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"And/CC ,/, uh/UH ,/, just/RB really/RB friendly/JJ ./.","And, {F uh, } just really friendly. /"
+ba,B,"Well/UH ,/, that/DT 's/BES unusual/JJ ./.","{D Well, } that's unusual. /"
+sd,A,"I/PRP was/VBD ,/, I/PRP was/VBD --/:","[ I was, + I was ] --"
+%,B,"I/PRP ,/,","I, -/"
++,A,--/: overwhelmed/JJ ./.,-- overwhelmed. /
+bf,B,"Huh/UH ,/, well/UH ,/, I/PRP suppose/VBP you/PRP were/VBD surprised/VBN ./.","{F Huh, } {D well, } I suppose you were surprised. /"
+x,A,./.,<Laughter>.
+x,B,./.,<Laughter>.
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,After/IN --/:,After --
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"right/RB now/RB ,/,","right now, -/"
++,B,"--/: the/DT reputation/NN that/IN ,/, you/PRP know/VBP","-- the reputation that, {D you know } - /"
+sd,B,"they/PRP have/VBP quite/RB an/DT ,/, uh/UH ,/, uh/UH ,/, notable/JJ reputation/NN as/RB far/RB as/IN ,/, you/PRP know/VBP ,/,","they have quite an, {F uh, } {F uh, } notable reputation as far as, {D you know, } -/"
+sd,A,They/PRP picked/VBD up/RP a/DT lot/NN of/IN bad/JJ press/NN lately/RB ./.,They picked up a lot of bad press lately. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"they/PRP 're/VBP banned/VBN from/IN ,/, in/IN some/DT areas/NNS I/PRP understand/VBP ./.","they're banned [ from, + in ] some areas I understand. /"
+b,A,"Well/UH ,/, yeah/UH ./.","{D Well, } yeah. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"But/CC ,/, any/DT ,/, any/DT ,/, any/DT pet/NN 's/BES going/VBG to/TO ,/, can/MD ,/, can/MD be/VB bad/JJ if/IN you/PRP train/VBP it/PRP to/TO be/VB that/DT way/NN ./.","{C But, } [ [ any, + any, ] + any ] pet's [ going to, + [ can, + can ] ] be bad if you train it to be that way. /"
+%,B,"You/PRP know/VBP ,/, that/IN ,/,","{D You know, } that, - /"
+sv,B,"they/PRP must/MD have/VB just/RB targeted/VBN that/DT breed/NN and/CC said/VBN ,/, boy/UH ,/, we/PRP 're/VBP going/VBG ,/,","they must have just targeted that breed and said, boy, we're going <laughter>, /"
+b,A,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+%,A,"it/PRP 's/BES ,/, when/WRB ,/,","it's, when, - /"
+sd,A,"in/IN my/PRP$ hometown/NN ,/, they/PRP just/RB outlawed/VBD ferrets/NNS --/:","in my hometown, they just outlawed ferrets --"
+b,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
++,A,"--/: because/IN they/PRP had/VBD one/CD incident/NN of/IN a/DT ferret/NN ,/, uh/UH ,/, attacking/VBG a/DT k-/NN ,/, a/DT child/NN --/:","-- because they had one incident of a ferret, {F uh, } attacking [ a k-, + a child ] --"
+b,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
++,A,--/: in/IN a/DT house/NN ./.,-- in a house. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP mean/VBP ,/, these/DT people/NNS had/VBD left/VBN this/DT infant/NN in/IN the/DT same/JJ room/NN with/IN this/DT loose/JJ ferret/NN ./.","{E I mean, } these people had left this infant in the same room with this loose ferret. /"
+sd,A,"The/DT ,/, the/DT ferret/NN is/VBZ used/JJ to/IN running/VBG the/DT house/NN and/CC was/VBD kind/RB of/RB wild/NN --/:","[ The, + the ] ferret is used to running the house and was kind of wild -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: and/CC ,/, you/PRP know/VBP ,/, they/PRP should/MD expect/VB something/NN like/IN that/DT to/TO happen/VB ./.","-- {C and, } {D you know, } they should expect something like that to happen. /"
+%,A,"And/CC so/RB bas-/XX ,/,","{C And so } bas-, - /"
+sd,A,now/RB it/PRP 's/BES like/IN ferrets/NNS are/VBP outlawed/VBN in/IN the/DT town/NN ./.,now it's like ferrets are outlawed in the town. /
+qy,B,"Oh/UH ,/, did/VBD it/PRP attack/VB the/DT child/NN ,/, then/RB ?/.","{F Oh, } did it attack the child, then? /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"it/PRP ,/, it/PRP bit/VBD him/PRP ./.","[ it, + it ] bit him. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC that/DT was/VBD ,/, that/DT was/VBD not/RB a/DT good/JJ thing/NN ,/,","{C And } [ that was, + that was ] not a good thing, /"
+sv,A,"but/CC I/PRP think/VBP it/PRP was/VBD probably/RB a/DT ,/, an/DT individual/JJ ferret/NN thing/NN ,/, because/IN it/PRP was/VBD f-/XX ,/, it/PRP was/VBD a/DT fairly/RB wild/JJ ferret/NN ./.","{C but } I think it was probably [ a, + an ] individual ferret thing, because [ it was f-, + it was a fairly ] wild ferret. /"
+sv,B,"Well/UH ,/, the/DT --/:","{D Well, } [ the -- +"
+%,A,"Had/VBD n't/RB ,/, they/PRP had/VBD n't/RB ,/,","[ Hadn't, + they hadn't, ] -/"
++,B,--/: the/DT people/NNS that/WDT owned/VBD him/PRP should/MD have/VB been/VBN on/IN the/DT --/:,-- the ] people that owned him should have been on the --
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,I/PRP mean/VBP --/:,{E I mean } --
++,B,--/: lookout/NN for/IN that/DT ./.,-- lookout for that. /
++,A,"--/: they/PRP really/RB should/MD have/VB ,/, should/MD have/VB expected/VBN it/PRP ./.","-- they really [ should have, + should have ] expected it."
++,A,And/CC taken/VBN the/DT precautions/NNS ./.,{C And } taken the precautions. /
+sd,A,They/PRP did/VBD n't/RB ./.,They didn't. /
++,B,"Sure/UH ,/,","Sure, /"
+aa,B,yeah/UH ./.,yeah. /
+sv,A,"It/PRP 's/BES too/RB bad/JJ it/PRP happened/VBD ,/, though/RB ./.","It's too bad it happened, though. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"because/RB then/RB the/DT ,/, the/DT animal/NN 's/BES in/IN trouble/NN ,/, and/CC not/RB the/DT person/NN ./.","{C because } then [ the, + the ] animal's in trouble, and not the person. /"
+aa,A,Right/UH ./.,Right. /

@@ -1,0 +1,136 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+"fo_o_fw_""_by_bc",A,should/MD begin/VB ./.,"should begin. / *[[listen; could probably code if we could tell if it said ""we"" or ""you""]]"
+aa,B,Okay/UH ./.,Okay. /
+aa,B,All/RB right/JJ ./.,All right. /
+sd,A,"Uh/UH ,/, I/PRP can/MD begin/VB this/DT ,/, um/UH ,/,","{F Uh, } I can begin this, {F um, } /"
+sd,A,basically/RB I/PRP work/VBP for/IN Honeywell/NNP in/IN Minneapolis/NNP --/:,basically I work for Honeywell in Minneapolis -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: and/CC the/DT ,/, the/DT benefit/NN program/NN we/PRP have/VBP here/RB is/VBZ really/RB quite/RB good/JJ ./.","-- {C and } [ the, + the ] benefit program we have here is really quite good. /"
+sd,A,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP pretty/RB pleased/JJ with/IN it/PRP ./.","[ I'm, + I'm ] pretty pleased with it. /"
+sd,A,"They/PRP cover/VBP ,/, uh/UH ,/, just/RB about/RB everything/NN ,/, vision/NN ,/, dental/JJ ,/, medical/JJ --/:","They cover, {F uh, } just about everything, vision, dental, medical -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ad,A,"--/: uh/UH ,/, you/PRP name/VBP it/PRP ,/,","-- {F uh, } you name it, /"
+sd,A,"and/CC for/IN me/PRP this/DT is/VBZ the/DT first/JJ job/NN I/PRP 've/VBP had/VBN where/WRB they/PRP 've/VBP covered/VBN that/RB much/JJ ,/,","{C and } for me this is the first job I've had where they've covered that much, /"
+sd,A,so/RB I/PRP 'm/VBP pretty/RB satisfied/JJ myself/PRP ./.,{C so } I'm pretty satisfied myself. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qw,A,"Um/UH ,/, what/WP 's/BES your/PRP$ situation/NN ?/.","{F Um, } what's your situation? /"
+sd,B,"I/PRP work/VBP for/IN the/DT University/NNP of/IN New/NNP Hampshire/NNP ,/,","I work for the University of New Hampshire, /"
+sv,B,and/CC --/:,{C and } --
+b,A,Oh/UH ./.,Oh. /
++,B,"--/: uh/UH ,/, our/PRP$ benefits/NNS package/NN is/VBZ n't/RB ,/, uh/UH ,/, is/VBZ n't/RB quite/RB as/RB good/JJ in/IN some/DT ways/NNS ./. Uh/UH ,/, you/PRP know/VBP ,/,","-- {F uh, } our benefits package [ isn't, + {F uh, } isn't ] quite as good in some ways. {F Uh, } {D you know, } /"
+sd,B,overall/RB I/PRP 'm/VBP satisfied/JJ with/IN it/PRP ./.,overall I'm satisfied with it. /
+sd,B,"We/PRP do/VBP n't/RB have/VB the/DT vision/NN care/NN ,/,","We don't have the vision care, /"
+sd,B,"we/PRP do/VBP have/VB the/DT health/NN care/NN and/CC the/DT ,/, uh/UH ,/, and/CC the/DT medi-/XX ,/, or/CC the/DT dental/JJ ./.","we do have the health care [ and the, + {F uh, } and the ] [ medi-, + {E or } the dental. ] /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,Uh/UH ./.,{F Uh. } /
+qy,A,Are/VBP you/PRP a/DT professor/NN there/RB ?/.,Are you a professor there? /
+nn,B,"No/UH ,/,","No, /"
+sd,B,"I/PRP work/VBP in/IN ,/, I/PRP 'm/VBP a/DT ,/, on/IN the/DT professional/JJ administrative/JJ and/CC technical/JJ staff/NN ,/,","[ I work in, + I'm [ a, + on ] ] the professional administrative and technical staff, /"
+sd,B,"and/CC I/PRP ,/, effectively/RB I/PRP run/VBP the/DT telephone/NN switch/NN at/IN ,/, uh/UH ,/, at/IN the/DT University/NNP of/IN New/NNP Hampshire/NNP ./.","{C and } [ I, + effectively I ] run the telephone switch [ at, + {F uh, } at ] the University of New Hampshire. /"
+bk,A,"Oh/UH ,/, I/PRP see/VBP ,/,","{F Oh, } I see, /"
+bk,A,okay/UH ./.,okay. /
+sd,B,"Uh/UH ,/, so/RB the/DT ,/, uh/UH ,/, the/DT benefits/NNS ,/,","{F Uh, } {D so } [ the, + {F uh, } the ] benefits, /"
+sd,B,"uh/UH ,/, probably/RB the/DT main/JJ thing/NN I/PRP like/VBP about/IN the/DT benefits/NNS is/VBZ the/DT ,/, uh/UH ,/, the/DT ,/, uh/UH ,/, very/RB generous/JJ vacation/NN time/NN and/CC sick/JJ time/NN ./.","{F uh, } probably the main thing I like about the benefits is [ the, + {F uh, } the, ] {F uh, } very generous vacation time and sick time. /"
+aa,A,"Oh/UH ,/, no/DT doubt/NN ./.","{F Oh, } no doubt <laughter>. /"
+sd,B,"We/PRP get/VBP fifteen/CD days/NNS a/DT year/NN sick/JJ time/NN ,/,","We get fifteen days a year sick time, /"
+sd,B,"and/CC ,/, uh/UH ,/, we/PRP get/VBP twenty-four/CD days/NNS a/DT year/NN ,/, right/RB from/IN the/DT day/NN one/CD when/WRB you/PRP start/VBP work/NN ,/, you/PRP get/VBP twenty-four/CD days/NNS a/DT year/NN ,/, uh/UH ,/, time/NN off/RP ./.","{C and, } {F uh, } [ we get twenty-four days a year, + right from the day one when you start work, you get twenty-four days a year, ] {F uh, } time off. /"
+b,A,Right/UH ./.,Right. /
+ba,A,"Well/UH ,/, that/DT 's/BES good/JJ ./.","{D Well, } that's good. /"
+b,B,Yeah/UH ./.,Yeah. /
+b^m,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"that/DT 's/BES one/CD of/IN the/DT things/NNS I/PRP guess/VBP I/PRP would/MD change/VB about/IN Honeywell/NNP ,/, is/VBZ ,/, uh/UH ,/,","that's one of the things I guess I would change about Honeywell, is, {F uh, } - /"
+sd,A,"I/PRP used/VBD to/TO work/VB with/IN the/DT Army/NNP Research/NNP Institute/NNP ,/,","I used to work with the Army Research Institute, /"
+sd,A,"and/CC being/VBG a/DT ,/, uh/UH ,/, a/DT government/NN organization/NN you/PRP got/VBD quite/PDT a/DT few/JJ holidays/NNS off/RP ./.","{C and } being [ a, + {F uh, } a ] government organization you got quite a few holidays off. /"
+b,B,Right/UH ./.,Right. /
+sd,A,But/CC here/RB you/PRP do/VBP n't/RB get/VB that/DT ./.,{C But } here you don't get that. /
+sd,A,You/PRP maybe/RB get/VBP two/CD or/CC three/CD a/DT year/NN ./.,You maybe get two or three a year. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"So/RB it/PRP 's/BES really/RB ,/,","{C So } it's really, - /"
+sv,A,"unless/IN you/PRP ,/, unless/IN you/PRP have/VBP some/DT vacation/NN time/NN or/CC some/DT ,/, some/DT sick/JJ leave/NN or/CC whatever/WP ,/, um/UH ,/, you/PRP kind/RB of/RB have/VBP to/TO finagle/VB your/PRP$ way/NN around/RP to/TO get/VB that/DT time/NN ./.","[ unless you, + unless you ] have some vacation time or [ some, + some ] sick leave or whatever, {F um, } you kind of have to finagle your way around to get that time. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"So/RB ,/, that/DT 's/BES ,/, that/DT 's/BES kind/RB of/RB a/DT drawback/NN I/PRP think/VBP ./.","{C So, } [ that's, + that's ] kind of a drawback I think. /"
+h,A,"But/CC ,/, uh/UH ./. I/PRP do/VBP n't/RB know/VB ./.","{C But, } {F uh. } I don't know. /"
+qw,A,"What/WP do/VBP you/PRP consider/VB most/RBS important/JJ ,/, you/PRP think/VBP ,/, in/IN terms/NNS of/IN ,/, of/IN the/DT different/JJ benefits/NNS ?/.","What do you consider most important, you think, in terms [ of, + of ] the different benefits? /"
+sv,B,"Well/UH ,/, I/PRP think/VBP ,/, uh/UH ,/, the/DT ,/, the/DT health/NN care/NN ,/, of/IN course/NN ,/, is/VBZ an/DT important/JJ ,/, and/CC has/VBZ to/TO be/VB the/DT single/JJ most/RBS important/JJ benefit/NN --/:","{D Well, } I think, {F uh, } [ the, + the ] health care, of course, is an important, and has to be the single most important benefit -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC ,/, uh/UH ,/, the/DT rates/NNS that/WDT we/PRP keep/VBP paying/VBG seem/VB to/TO keep/VB increasing/VBG ,/, uh/UH --/:","-- {C and, } {F uh, } the rates that we keep paying seem to keep increasing, {F uh } --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: you/PRP know/VBP ,/,","-- {D you know, } /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP a/DT little/RB disturbed/JJ about/IN that/DT ,/,","[ I'm, + I'm ] a little disturbed about that, /"
+sv,B,"but/CC I/PRP think/VBP that/DT 's/BES a/DT national/JJ trend/NN ,/,","{C but } I think that's a national trend, /"
+sd,B,"and/CC I/PRP do/VBP n't/RB know/VB that/IN ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB what/WP the/DT solution/NN is/VBZ to/IN it/PRP ./.","{C and } [ I don't know that, + {F uh, } I don't know what ] the solution is to it. /"
+sv,B,It/PRP 's/BES bigger/JJR than/IN just/RB the/DT benefits/NNS part/NN ./.,It's bigger than just the benefits part. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP do/VBP n't/RB know/VB if/IN you/PRP saw/VBD on/IN TWENTY/CD TWENTY/CD the/DT other/JJ night/NN ,/,","I don't know if you saw on TWENTY TWENTY the other night, /"
+sd,A,"they/PRP ,/, uh/UH ,/, they/PRP basically/RB reviewed/VBD Oregon/NNP 's/POS plan/NN --/:","[ they, + {F uh, } they ] basically reviewed [ Oregon's plan -- +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: or/CC The/DT Oregon/NNP Plan/NNP --/:,-- {E or } The Oregon Plan ] --
+b,B,Right/UH ./.,Right. /
++,A,"--/: toward/IN ,/, uh/UH ,/, nationalizing/VBG health/NN care/NN and/CC that/DT kind/NN of/IN thing/NN ./.","-- toward, {F uh, } nationalizing health care and that kind of thing. /"
+sv,A,It/PRP 's/BES kind/RB of/RB an/DT interesting/JJ plan/NN ./.,It's kind of an interesting plan. /
+sv,A,It/PRP 's/BES kind/RB of/RB cold/JJ though/RB ./.,It's kind of cold though. /
+sd,A,"They/PRP 've/VBP essentially/RB made/VBN up/RP a/DT list/NN of/IN ,/, uh/UH ,/, oh/UH ,/, all/PDT the/DT different/JJ ,/, uh/UH ,/, medical/JJ maladies/NNS that/WDT you/PRP can/MD have/VB --/:","They've essentially made up a list of, {F uh, } {F oh, } all the different, {F uh, } medical maladies that you can have --"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,"--/: and/CC then/RB basically/RB made/VBN a/DT cutoff/NN ,/,","-- and then basically made a cutoff, /"
+sd,A,"about/RB six/CD hundred/CD and/CC eighty-seven/CD and/CC below/IN will/MD not/RB be/VB covered/VBN by/IN ,/, by/IN ,/, uh/UH ,/, subsidized/JJ health/NN care/NN ,/,","about six hundred and eighty-seven and below will not be covered [ by, + by, ] {F uh, } subsidized health care, /"
+sd,A,and/CC the/DT ones/NNS above/IN would/MD ./.,{C and } the ones above would. /
+%,B,Um/UH ./.,{F Um. } /
+sd,A,So/RB it/PRP 's/BES kind/RB of/RB like/IN drawing/VBG this/DT line/NN,{C So } it's kind of like drawing this line /
+sd,A,"and/CC ,/, and/CC if/IN you/PRP have/VBP it/PRP great/JJ ,/,","[ {C and, } + {C and } ] if you have it great, /"
+sd,A,"if/IN you/PRP do/VBP n't/RB ,/, you/PRP 're/VBP kind/RB of/RB out/IN of/IN luck/NN --/:","if you don't, you're kind of out of luck -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: but/CC ,/, um/UH ,/, it/PRP was/VBD kind/RB of/RB an/DT interesting/JJ show/NN ./.","-- {C but, } {F um, } it was kind of an interesting show. /"
+%,B,Um/UH ./.,{F Um. } /
+sd,A,"I/PRP think/VBP you/PRP 're/VBP right/JJ ,/,","I think you're right, /"
+sv,A,"I/PRP think/VBP health/NN care/NN is/VBZ probably/RB the/DT ,/, the/DT most/JJS pressing/JJ --/:","I think health care is probably [ [ the, + the most pressing -- ] +"
+b,B,Right/UH ./.,Right. /
++,A,"--/: uh/UH ,/, the/DT pressing/JJ one/CD ,/,","-- {F uh, } the pressing ] one, /"
+sd,A,"but/CC I/PRP 'll/MD tell/VB you/PRP ,/, I/PRP ,/, I/PRP do/VBP n't/RB mind/VB having/VBG dental/JJ ,/, you/PRP know/VBP ,/,","{C but } I'll tell you, [ I, + I ] don't mind having dental, {D you know, } /"
+sv,A,"sometimes/RB dental/JJ costs/NNS can/MD be/VB ,/, um/UH ,/, just/RB about/RB as/RB expensive/JJ ,/, if/IN not/RB more/JJR ,/,","sometimes dental costs can be, {F um, } just about as expensive, if not more, /"
+sd,A,and/CC I/PRP know/VBP historically/RB a/DT lot/NN of/IN companies/NNS I/PRP think/VBP carried/VBD dental/JJ as/IN a/DT rider/NN along/IN with/IN the/DT medical/JJ --/:,{C and } I know historically a lot of companies I think carried dental as a rider along with the medical -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: but/CC I/PRP 'm/VBP not/RB sure/JJ that/DT 's/BES ,/, that/DT 's/BES widely/RB followed/VBN any/DT more/JJR ./.","-- {C but } I'm not sure [ that's, + that's ] widely followed any more. /"
+sd,A,"I/PRP 'm/VBP not/RB sure/JJ ,/,","I'm not sure, /"
+qw,A,"how/WRB ,/, how/WRB does/VBZ ,/, uh/UH ,/, University/NNP of/IN New/NNP Hampshire/NNP handle/VB it/PRP ?/.","[ how, + how ] does, {F uh, } University of New Hampshire handle it? /"
+sd,B,"Well/UH ,/, we/PRP have/VBP two/CD different/JJ plans/NNS that/WDT we/PRP can/MD subscribe/VB to/IN under/IN dental/JJ ,/, uh/UH ,/, depending/VBG ,/,","{D Well, } we have two different plans that we can subscribe to under dental, {F uh, } depending, /"
+sd,B,"and/CC ,/, and/CC the/DT cost/NN between/IN them/PRP is/VBZ very/RB ,/, is/VBZ very/RB little/JJ ./.","[ {C and, } + {C and } ] the cost between them [ is very, + is very ] little. /"
+sv,B,"I/PRP think/VBP it/PRP costs/VBZ me/PRP something/NN like/IN five/CD dollars/NNS a/DT ,/, a/DT month/NN for/IN the/DT dental/JJ plan/NN ./.","I think it costs me something like five dollars [ a, + a ] month for the dental plan. /"
+%,A,Um/UH ./.,{F Um. } /
+sd,B,"But/CC it/PRP pays/VBZ ,/, uh/UH ,/, a/DT substantial/JJ amount/NN ./.","{C But } it pays, {F uh, } a substantial amount. /"
+sd,B,"I/PRP mean/VBP ,/, the/DT examinations/NNS and/CC ,/, and/CC ,/, uh/UH ,/, checkups/NNS every/DT year/NN ,/, or/CC every/DT six/CD months/NNS are/VBP free/JJ --/:","{E I mean, } the examinations [ and, + and, ] {F uh, } checkups [ every year, + {E or } every six months ] are free -- /"
+ba,A,Great/UH ./.,Great. /
+sd,B,"--/: and/CC ,/, uh/UH ,/, it/PRP ,/, it/PRP covers/VBZ the/DT bulk/NN of/IN the/DT dental/JJ expenses/NNS ./.","-- {C and, } {F uh, } [ it, + it ] covers the bulk of the dental expenses. /"
+qy,A,"Is/VBZ that/DT ,/, uh/UH ,/, let/VB me/PRP interrupt/VB ,/, is/VBZ that/DT the/DT same/JJ for/IN both/DT ,/, uh/UH ,/, professors/NNS and/CC ,/, and/CC also/RB staff/NN and/CC administration/NN ,/,","[ Is that, + {F uh, } {A let me interrupt, } is that ] the same for both, {F uh, } professors [ and, + and ] also staff and administration, /"
+qy,A,"is/VBZ that/DT generally/RB across/IN the/DT board/NN ,/, do/VBP you/PRP think/VB","is that generally across the board, do you think /"
+%,A,"or/CC ,/,","{C or, } -/"
+ny,B,"Uh/UH ,/, yes/UH ,/,","{F Uh, } yes, /"
+sd,B,it/PRP is/VBZ ./.,it is. /
+sd,B,"The/DT benefits/NNS plan/NN is/VBZ different/JJ for/IN operating/VBG ,/, for/IN what/WP we/PRP call/VBP operating/VBG staff/NN ,/, which/WDT are/VBP considered/VBN to/TO be/VB ,/, uh/UH ,/, clerical/JJ personnel/NNS ,/, accountants/NNS ,/, things/NNS like/IN that/DT --/:","The benefits plan is different [ for operating, + for what we call operating ] staff, which are considered to be, {F uh, } clerical personnel, accountants, things like that --"
+b,A,Right/UH ./.,Right. /
++,B,"--/: as/IN opposed/VBN to/IN what/WP they/PRP call/VBP the/DT P/NN A/NN T/NN staff/NN ,/, which/WDT I/PRP belong/VBP to/IN --/:","-- as opposed to what they call the P A T staff, which I belong to -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"--/: but/CC the/DT main/NN ,/,","-- {C but } the main, - /"
+sv,B,"I/PRP think/VBP the/DT ,/, the/DT health/NN and/CC all/PDT that/DT and/CC the/DT dental/JJ is/VBZ the/DT same/JJ for/IN everybody/NN ,/, and/CC the/DT retirement/NN plan/NN ./.","I think [ the, + the ] health and all that and the dental is the same for everybody, and the retirement plan. /"
+sd,B,But/CC --/:,{C But } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: the/DT main/JJ difference/NN is/VBZ in/IN the/DT ,/, uh/UH ,/, the/DT way/NN sick/JJ time/NN is/VBZ accrued/VBN and/CC vacation/NN time/NN is/VBZ accrued/VBN ./.","-- the main difference is in [ the, + {F uh, } the ] way sick time is accrued and vacation time is accrued. /"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,B,"Uh/UH ,/, for/IN the/DT operating/VBG staff/NN it/PRP 's/BES on/IN a/DT seniority/NN ,/, it/PRP 's/BES ,/, you/PRP know/VBP ,/, based/VBN on/IN how/WRB long/JJ they/PRP 've/VBP worked/VBN there/RB ./.","{F Uh, } for the operating staff it's [ on a seniority, + it's, {D you know, } based on how long they've worked there. ] /"
+b,A,Right/UH ./.,Right. /
+sd,B,"That/DT determines/VBZ how/WRB much/JJ ,/, uh/UH ,/, vacation/NN time/NN they/PRP get/VBP ./.","That determines how much, {F uh, } vacation time they get. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP 'm/VBP kind/RB of/RB interested/JJ because/IN I/PRP 'm/VBP actually/RB ,/, that/DT 's/BES the/DT route/NN I/PRP 'd/MD like/VB to/TO take/VB when/WRB I/PRP finally/RB get/VBP my/PRP$ degree/NN --/:","I'm kind of interested because [ I'm + {D actually, } that's the route I'd ] like to take when I finally get my degree --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: is/VBZ to/TO ,/, uh/UH ,/, is/VBZ to/TO teach/VB in/IN a/DT university/NN ./.","-- [ is to, + {F uh, } is to ] teach in a university. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,I/PRP 'm/VBP a/DT doctoral/JJ student/NN in/IN Florida/NNP right/RB now/RB --/:,I'm a doctoral student in Florida right now -- /
+b,B,Oh/UH ./.,Oh. /
+%,A,"--/: but/CC ,/, uh/UH ,/,","-- {C but, } {F uh, } - /"
+b,A,"yeah/UH ,/,","yeah, /"
+sv,A,"that/DT 's/BES ,/, that/DT 's/BES interesting/JJ ./.","[ that's, + that's ] interesting. /"
+sd,A,"That/DT 's/BES one/CD of/IN the/DT things/NNS I/PRP 'd/MD like/VB to/TO think/VB about/IN is/VBZ in/IN what/WDT kind/NN of/IN benefits/NNS they/PRP would/MD ,/, uh/UH ,/, they/PRP would/MD cover/VB and/CC things/NNS like/IN that/DT ./.","That's one of the things I'd like to think about is in what kind of benefits [ they would, + {F uh, } they would ] cover and things like that. /"
+sd,B,"College/NN programs/NNS belong/VBP to/IN this/DT T/NN I/NN A/NN A/NN ,/, uh/UH ,/, C/NN R/NN E/NN F/NN retirement/NN fund/NN ./.","College programs belong to this T I A A, {F uh, } C R E F retirement fund. /"
+bh,A,"Oh/UH ,/, is/VBZ that/DT right/JJ ?/.","{F Oh, } is that right? /"
+na,B,"Right/UH ,/,","Right, /"
+sd,B,"and/CC in/IN the/DT case/NN of/IN the/DT University/NNP of/IN New/NNP Hampshire/NNP ,/, uh/UH ,/,","{C and } in the case of the University of New Hampshire, {F uh, } -/"

@@ -1,0 +1,161 @@
+act_tag,speaker,pos,text
+sd,B,"My/PRP$ name/NN 's/BES Mary/NNP Dell/NNP ,/,","My name's Mary Dell, /"
+sd,B,"and/CC I/PRP live/VBP in/IN the/DT Dallas/NNP ,/, Texas/NNP area/NN where/WRB there/EX 's/BES a/DT lot/NN of/IN pollution/NN ./.","{C and } I live in the Dallas, Texas area where there's a lot of pollution <laughter>. /"
+b,A,"Okay/UH ,/,","<Laughter> Okay, /"
+sd,A,and/CC I/PRP 'm/VBP up/IN in/IN Wisconsin/NNP --/:,{C and } I'm up in Wisconsin -- /
+b,B,Oh/UH ./.,Oh. /
+sd,A,"--/: uh/UH ,/, my/PRP$ name/NN is/VBZ Terry/NNP --/:","-- {F uh, } my name is Terry -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, in/IN the/DT small/JJ town/NN we/PRP do/VBP n't/RB ,/,","-- {C and, } {F uh, } in the small town we don't, - /"
+sd,A,"but/CC ,/, uh/UH ,/, we/PRP 're/VBP not/RB that/RB far/RB from/IN the/DT city/NN where/WRB there/EX 's/BES tons/NNS of/IN pollution/NN ./.","{C but, } {F uh, } we're not that far from the city where there's tons of pollution. /"
+b,B,Yes/UH ./.,Yes. /
+b,A,"Okay/UH ,/,","Okay, /"
+ad,A,"I/PRP 'll/MD go/VB ahead/RB and/CC start/VB recording/VBG that/DT ,/,","I'll go ahead and start recording that, /"
+aa,B,Okay/UH ./.,Okay. /
+b,A,"Okay/UH ,/, um/UH ,/,","<Beep> Okay, {F um, } /"
+sd,A,just/RB in/IN particular/JJ here/RB in/IN the/DT Twin/NNP Cities/NNPS we/PRP have/VBP a/DT lot/NN of/IN big/JJ corporations/NNS,just in particular here in the Twin Cities we have a lot of big corporations /
+sv,A,"and/CC ,/, um/UH --/:","{C and, } {F um } --"
+b,B,Oh/UH ./.,Oh. /
++,A,--/: I/PRP 'm/VBP sure/JJ there/EX 's/BES a/DT lot/NN of/IN pollution/NN ./.,-- I'm sure there's a lot of pollution. /
+%,A,"We/PRP ,/, uh/UH ,/,","We, {F uh, } - /"
+sd,A,"before/IN moving/VBG to/IN Wisconsin/NNP lived/VBD across/IN from/IN where/WRB they/PRP were/VBD ,/, um/UH ,/, gravel/NN pits/NNS --/:","before moving to Wisconsin lived across from where they were, {F um, } gravel pits --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC also/RB where/WRB they/PRP were/VBD making/VBG tar/NN ,/,","-- and also where they were making tar, /"
+sd,A,and/CC so/RB we/PRP would/MD occasionally/RB if/IN the/DT wind/NN was/VBD blowing/VBG the/DT right/JJ direction/NN would/MD get/VB the/DT smell/NN of/IN tar/NN,{C and so } we [ would + occasionally if the wind was blowing the right direction would ] get the smell of tar /
+%,A,and/CC --/:,{C and } --
+ba,B,Ooh/UH ./.,Ooh. /
++,A,"--/: it/PRP would/MD ,/, uh/UH ,/,","-- it would, {F uh, } - /"
+%,A,"smell/VB the/DT continuous/JJ ,/,","smell the continuous, - /"
+sd,A,"you/PRP knew/VBD that/IN you/PRP were/VBD also/RB breathing/VBG that/DT into/IN your/PRP$ lungs/NNS ,/,","you knew that you were also breathing that into your lungs, /"
+sd,A,so/RB --/:,[ {C so } + --
+b,B,Right/UH ./.,Right. /
++,A,"--/: and/CC it/PRP was/VBD like/IN miles/NNS away/RB ,/,","-- {C and } ] it was like miles away, /"
+sv,A,but/CC just/RB the/DT idea/NN of/IN having/VBG that/DT come/VB across/RB the/DT way/NN it/PRP did/VBD in/IN the/DT wind/NN --/:,{C but } just the idea of having that come across the way it did in the wind --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: kind/RB of/RB made/VBD you/PRP know/VBP that/IN there/EX was/VBD a/DT lot/NN of/IN pollution/NN ,/,","-- kind of made you know that there was a lot of pollution, /"
+sd,A,"and/CC that/DT was/VBD just/RB one/CD small/JJ corporation/NN that/WDT was/VBD doing/VBG the/DT pollution/NN of/IN that/DT ,/,","{C and } that was just one small corporation that was doing the pollution of that, /"
+sd,A,but/CC --/:,{C but } --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: also/RB ,/, um/UH ,/, where/WRB we/PRP also/RB lived/VBD ,/, too/RB ,/, it/PRP was/VBD very/RB close/RB to/IN a/DT highway/NN ,/,","-- [ also, + {F um, } where we also ] lived, too, it was very close to a highway, /"
+sd,A,"so/RB got/VBD a/DT lot/NN of/IN fumes/NNS from/IN ,/, uh/UH ,/, trucks/NNS --/:","{C so } got a lot of fumes from, {F uh, } trucks --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: and/CC cars/NNS,-- and cars /
+sd,A,"and/CC you/PRP would/MD literally/RB see/VB the/DT pollution/NN on/IN your/PRP$ furniture/NN ,/,","{C and } you would literally see the pollution on your furniture, /"
+sd,A,"I/PRP mean/VBP ,/, it/PRP was/VBD --/:","{E I mean, } it was --"
+ba,B,"Oh/UH ,/, gosh/UH ,/,","{F Oh, } gosh, /"
++,A,"--/: on/IN your/PRP$ tables/NNS ,/,","-- on your tables, /"
+sd,A,"you/PRP would/MD dust/VB every/DT day/NN ,/,","you would dust every day, /"
+sd,A,"and/CC it/PRP was/VBD dirty/JJ ,/, um/UH ,/, type/NN of/IN dust/NN ,/,","{C and } it was dirty, {F um, } type of dust, /"
+sd,A,"I/PRP mean/VBP ,/, it/PRP was/VBD n't/RB the/DT typical/JJ dust/NN that/WDT you/PRP get/VBP way/RB out/IN in/IN the/DT country/NN --/:","{E I mean, } it wasn't the typical dust that you get way out in the country --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: um/UH --/:,-- {F um } -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"--/: for/IN ,/,","-- for, - /"
+sd,A,"I/PRP live/VBP in/IN a/DT small/JJ ,/, um/UH ,/, town/NN now/RB quite/RB a/DT ways/NNS from/IN the/DT Twin/NNP Cities/NNPS ,/, about/RB an/DT hour/NN away/RB ,/,","I live in a small, {F um, } town now quite a ways from the Twin Cities, about an hour away, /"
+sd,A,"and/CC I/PRP may/MD dust/VB once/RB a/DT week/NN ,/,","{C and } I may dust once a week, /"
+sd,A,and/CC that/DT 's/BES all/DT it/PRP needs/VBZ versus/IN every/DT day/NN when/WRB I/PRP lived/VBD in/IN the/DT city/NN --/:,{C and } that's all it needs versus every day when I lived in the city -- /
+sd,B,Huh/UH --/:,{F Huh } --
+%,A,--/: so/RB ./.,-- {C so. } -/
++,B,"--/: I/PRP 'd/VBD never/RB thought/VBN about/IN that/DT being/VBG a/DT cause/NN ,/,","-- I'd never thought about that being a cause, /"
+sd,B,I/PRP have/VBP to/TO dust/VB a/DT lot/NN as/IN well/RB ./.,I have to dust a lot as well. /
+b,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,A,"it/PRP ,/, it/PRP comes/VBZ right/RB on/IN through/IN --/:","[ it, + it ] comes right on [ through + --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: through/IN the/DT screens/NNS ,/,","-- through ] the screens, /"
+sv,A,"the/DT only/JJ way/NN that/WDT you/PRP could/MD actually/RB live/VB in/IN the/DT ,/, in/IN the/DT city/NN is/VBZ to/TO close/VB your/PRP$ windows/NNS and/CC have/VB an/DT air/NN cleaner/NN system/NN right/RB in/IN your/PRP$ home/NN --/:","the only way that you could actually live [ in the, + in the ] city is to close your windows and have an air cleaner system right in your home --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: that/WDT would/MD take/VB the/DT air/NN from/IN the/DT outside/NN and/CC clean/VB the/DT air/NN before/IN it/PRP would/MD get/VB into/IN the/DT house/NN --/:,-- that would take the air from the outside and clean the air before it would get into the house -- /
+ba,B,My/PRP$ goodness/NN ./.,My goodness. /
+sv,A,--/: and/CC so/RB it/PRP was/VBD quite/RB a/DT dirty/JJ city/NN ./.,-- {C and so } it was quite a dirty city. /
+sv,A,"Um/UH ,/, if/IN you/PRP were/VBD well/RB protected/JJ by/IN trees/NNS ,/, which/WDT catch/VBP a/DT lot/NN of/IN the/DT pollution/NN --/:","{F Um, } if you were well protected by trees, which catch a lot of the pollution --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: then/RB you/PRP 're/VBP fine/JJ ,/,","-- then you're fine, /"
+sv,A,"but/CC most/JJS of/IN the/DT time/NN in/IN the/DT city/NN you/PRP have/VBP lots/NNS of/IN high/JJ rises/NNS ,/, you/PRP have/VBP lots/NNS of/IN other/JJ things/NNS that/WDT are/VBP not/RB catching/VBG the/DT pollution/NN","{C but } most of the time in the city you have lots of high rises, you have lots of other things that are not catching the pollution /"
+sv,A,and/CC it/PRP 's/BES just/RB going/VBG --/:,{C and } it's just going --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: for/IN miles/NNS and/CC miles/NNS and/CC miles/NNS ,/,","-- for miles and miles and miles, /"
+sv,A,"and/CC it/PRP 's/BES landing/VBG somewhere/RB with/IN the/DT wind/NN ,/,","{C and } it's landing somewhere with the wind, /"
+%,A,"but/CC ,/,","{C but, } -/"
+sv,B,That/DT 's/BES kind/RB of/RB the/DT way/NN Dallas/NNP is/VBZ ./.,That's kind of the way Dallas is. /
+sv,B,"We/PRP 're/VBP so/RB flat/JJ and/CC open/JJ ,/,","We're so flat and open, /"
+sd,B,"and/CC I/PRP live/VBP in/IN a/DT suburb/NN that/WDT does/VBZ n't/RB have/VB much/JJ vegetation/NN ,/, trees/NNS --/:","{C and } I live in a suburb that doesn't have much vegetation, trees -- /"
+b,A,Sure/UH ./.,Sure. /
+sd,B,"--/: it/PRP was/VBD all/DT cotton/NN fields/NNS ,/,","-- it was all cotton fields, /"
+sv,B,so/RB --/:,{C so } --
+b,A,Sure/UH ./.,Sure. /
++,B,"--/: we/PRP do/VBP n't/RB have/VB that/DT advantage/NN ,/,","-- we don't have that advantage, /"
+sv,B,"and/CC ours/PRP I/PRP think/VBP is/VBZ primarily/RB cars/NNS ,/, where/WRB we/PRP do/VBP n't/RB carpool/VB like/IN we/PRP should/MD --/:","{C and } ours I think is primarily cars, where we don't carpool like we should --"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
++,B,--/: an/DT airport/NN ./.,-- an airport. /
+sd,B,"I/PRP work/VBP in/IN a/DT building/NN ,/,","I work in a building, /"
+sd,B,I/PRP 'm/VBP nineteen/CD floors/NNS up/IN --/:,I'm nineteen floors up -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC I/PRP look/VBP out/IN toward/IN D/NNP F/NNP W/NNP International/NNP ,/,","-- {C and } I look out toward D F W International, /"
+sv,B,and/CC there/EX 's/BES just/RB an/DT awful/JJ brown/JJ haze/NN all/PDT the/DT time/NN --/:,{C and } there's just an awful brown haze all the time -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,--/: and/CC I/PRP can/MD imagine/VB it/PRP 's/BES even/RB worse/JJR for/IN people/NNS living/VBG over/IN near/RB the/DT airport/NN ./.,-- {C and } I can imagine it's even worse for people living over near the airport. /
+b,A,"Oh/UH ,/, sure/UH ,/,","{F Oh, } sure, /"
+b,A,"sure/UH ,/,","sure, /"
+b,A,yeah/UH ./.,yeah. /
+%,A,"It/PRP 's/BES ,/,","It's, - /"
+sd,A,"I/PRP mean/VBP ,/, our/PRP$ air/NN quality/NN ,/, um/UH ,/, in/IN the/DT Twin/NNP Cities/NNPS is/VBZ a/DT lot/NN better/JJR than/IN what/WP we/PRP 've/VBP heard/VBN about/IN California/NNP and/CC --/:","{E I mean, } our air quality, {F um, } in the Twin Cities is a lot better than what we've heard about California and --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: maybe/RB in/IN the/DT other/JJ areas/NNS ,/,","-- maybe in the other areas, /"
+sv,A,"but/CC ,/, um/UH ,/, they/PRP were/VBD always/RB talking/VBG about/IN the/DT air/NN quality/NN of/IN today/NN is/VBZ this/DT ,/, you/PRP know/VBP ,/, the/DT ozone/NN or/CC whatever/WDT ,/,","{C but, } {F um, } they were always talking about the air quality of today is this, {D you know, } the ozone or whatever, /"
+sv,A,and/CC it/PRP 's/BES kind/RB of/RB scary/JJ because/IN the/DT air/NN is/VBZ something/NN we/PRP take/VBP for/IN granted/VBN --/:,{C and } it's kind of scary because the air is something we take for granted -- /
+b,B,Yes/UH ./.,Yes. /
+sv,A,"--/: and/CC many/JJ people/NNS are/VBP too/RB busy/JJ getting/VBG to/IN work/NN ,/, not/RB thinking/VBG about/IN ,/, Okay/UH ,/, I/PRP could/MD have/VB carpooled/VBN with/IN a/DT friend/NN ,/,","-- {C and } many people are too busy getting to work, not thinking about, Okay, I could have carpooled with a friend, /"
+sd,A,even/RB --/:,even --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: my/PRP$ husband/NN was/VBD ,/, uh/UH ,/, talking/VBG to/IN some/DT of/IN the/DT guys/NNS at/IN work/NN ,/,","-- my husband was, {F uh, } talking to some of the guys at work, /"
+sd,A,"now/UH he/PRP 's/BES ,/, uh/UH ,/, fifteen/CD miles/NNS away/RB from/IN work/NN ,/,","{D now } he's, {F uh, } fifteen miles away from work, /"
+sd,A,"but/CC he/PRP was/VBD talking/VBG ,/, would/MD n't/RB it/PRP be/VB nice/JJ to/TO carpool/VB ,/,","{C but } he was talking, wouldn't it be nice to carpool, /"
+sd,A,"and/CC the/DT guy/NN says/VBZ ,/, Well/UH ,/, it/PRP 's/BES too/RB close/RB ,/,","{C and } the guy says, {D Well, } it's too close, /"
+^q,A,it/PRP would/MD n't/RB pay/VB --/:,it wouldn't pay -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"--/: and/CC ,/, so/RB ./.","-- {C and, so. } -/"
+sd,B,Want/VB to/TO meet/VB my/PRP$ own/JJ schedule/NN --/:,Want to meet my own schedule --
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"and/CC ,/,","{C and, } -/"
++,B,"--/: those/DT are/VBP the/DT arguments/NNS we/PRP hear/VBP ,/,","-- those are the arguments we hear, /"
+sd,A,"ex-/XX ,/, exactly/UH ,/, and/CC so/RB ,/, my/PRP$ husband/NN says/VBZ ,/, Well/UH ,/, that/DT 's/BES fine/JJ ,/, you/PRP know/VBP ,/,","[ ex-, + exactly, ] {C and so, } my husband says, {D Well, } that's fine, {D you know, } /"
+sv,A,it/PRP would/MD save/VB quite/RB a/DT bit/NN on/IN the/DT wear/NN and/CC tear/NN on/IN cars/NNS --/:,it would save quite a bit on the wear and tear on cars --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC ,/, you/PRP know/VBP ,/, the/DT gas/NN ,/,","-- and, {D you know, } the gas, /"
+%,A,"and/CC ,/, no/DT ,/,","{C and, } no, /"
+sv,A,everybody/NN has/VBZ their/PRP$ preference/NN to/TO drive/VB by/IN themselves/PRP,everybody has their preference to drive by themselves /
+sv,A,"or/CC ,/, if/IN they/PRP do/VBP ,/, they/PRP ,/, they/PRP drive/VBP with/IN one/CD little/JJ buddy/NN ,/, uh/UH ,/,","{C or, } if they do, [ they, + they ] drive with one little buddy, {F uh, } /"
+sv,A,at/IN least/JJS it/PRP 's/BES with/IN one/CD person/NN --/:,at least it's with one person -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,--/: but/CC most/JJS of/IN the/DT time/NN people/NNS are/VBP saying/VBG forget/VB it/PRP ./.,-- {C but } most of the time people are saying forget it. /
+^q,A,"I/PRP do/VBP n't/RB want/VB to/TO carpool/VB ,/,","I don't want to carpool, /"
+^q,A,"it/PRP 's/BES too/RB much/NN of/IN a/DT hassle/NN ,/,","it's too much of a hassle, /"
+^q,A,it/PRP 's/BES too/RB much/JJ involvement/NN --/:,it's too much involvement -- /
+sv,B,But/CC we/PRP 're/VBP --/:,{C But } we're --
+%,A,"--/: but/CC yet/RB ,/,","-- {C but } yet, -/"
++,B,--/: paying/VBG for/IN it/PRP ./.,-- paying for it. /
+aa,A,"Yes/UH ,/,","Yes, /"
+sv,A,"we/PRP are/VBP ,/,","we are, /"
+sd,A,and/CC I/PRP think/VBP of/IN my/PRP$ daughter/NN,{C and } I think of my daughter /
+sv,A,"and/CC I/PRP 'm/VBP sure/JJ you/PRP think/VBP of/IN your/PRP$ children/NNS ,/,","{C and } I'm sure you think of your children, /"
+sv,A,"and/CC you/PRP kind/RB of/RB say/VBP to/IN yourself/PRP ,/, what/WP kind/NN of/IN future/NN will/MD they/PRP have/VB when/WRB they/PRP think/VBP back/RB and/CC say/VBP ,/, well/UH ,/, my/PRP$ parents/NNS did/VBD have/VBP the/DT choice/NN to/TO kind/RB of/RB make/NN a/DT difference/NN --/:","{C and } you kind of say to yourself, what kind of future will they have when they think back and say, {D well, } my parents did have the choice to kind of make a difference -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: and/CC maybe/RB people/NNS are/VBP trying/VBG ,/,","-- {C and } maybe people are trying, /"
+sv,A,"but/CC they/PRP have/VBP to/TO change/VB attitudes/NNS ,/,","{C but } they have to change attitudes, /"
+sv,B,And/CC it/PRP seems/VBZ to/IN me/PRP that/IN it/PRP 's/BES already/RB so/RB evident/JJ with/IN our/PRP$ children/NNS having/VBG a/DT lot/NN more/JJR respiratory/JJ infections/NNS --/:,{C And } it seems to me that it's already so evident with our children having a lot more respiratory infections --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: than/IN we/PRP had/VBD growing/VBG up/RP --/:,-- than we had growing up --
+b,A,Sure/UH ./.,Sure. /
++,B,--/: you/PRP can/MD really/RB see/VB it/PRP ./.,-- you can really see it. /
+sd,B,"I/PRP ,/, I/PRP had/VBD a/DT chance/NN to/TO go/VB to/IN Bolivia/NNP a/DT couple/NN years/NNS ago/RB ,/,","[ I, + I ] had a chance to go to Bolivia a couple years ago, /"
+sd,B,"and/CC of/IN course/NN there/EX 's/BES no/DT industry/NN ,/, very/RB little/JJ trash/NN ,/,","{C and } of course there's no industry, very little trash, /"
+sv,B,they/PRP --/:,[ they -- +
+b,A,Sure/UH ./.,Sure. /
++,B,"--/: they/PRP do/VBP n't/RB even/RB have/VB that/RB much/JJ that/WDT they/PRP burn/VBP ,/, because/IN --/:","-- they ] don't even have that much that they burn, because --"
+b,A,Sure/UH ./.,Sure. /
++,B,--/: they/PRP consume/VBP everything/NN down/RP --/:,-- they consume everything down --
+%,A,"Well/UH ,/, they/PRP ,/,","{D Well, } they, -/"
++,B,"--/: to/IN the/DT thread/NN ,/,","-- to the thread, /"
+sd,B,"and/CC it/PRP amazed/VBD me/PRP ,/,","{C and } it amazed me, /"
+sd,B,"I/PRP ,/, I/PRP just/RB had/VBD totally/RB forgotten/VBN how/WRB .../:","[ I, + I ] just had totally forgotten how ... -/"

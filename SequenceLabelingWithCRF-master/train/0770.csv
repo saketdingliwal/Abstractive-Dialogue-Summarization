@@ -1,0 +1,127 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+sd,A,looks/VBZ like/IN we/PRP 're/VBP ready/JJ to/TO go/VB ./.,looks like we're ready to go. /
+%,A,"Capital/JJ punishment/NN ,/, uh/UH ,/,","Capital punishment, {F uh, } - /"
+sd,A,"the/DT problem/NN I/PRP have/VBP with/IN capital/JJ punishment/NN is/VBZ that/IN ,/, uh/UH ,/, uh/UH ,/, it/PRP 's/BES supposed/VBN to/TO be/VB a/DT deterrent/NN to/IN crime/NN ,/,","the problem I have with capital punishment is that, {F uh, } {F uh, } it's supposed to be a deterrent to crime, /"
+sv,A,but/CC I/PRP do/VBP n't/RB think/VB that/IN it/PRP really/RB actually/RB does/VBZ that/DT ./.,{C but } I don't think that it really actually does that. /
+sv,A,"I/PRP do/VBP n't/RB think/VB it/PRP deters/VBZ anybody/NN ,/, because/IN most/JJS of/IN the/DT time/NN crimes/NNS are/VBP ,/, uh/UH ,/, are/VBP committed/VBN with/IN a/DT ,/, without/IN any/DT thought/NN to/IN the/DT consequences/NNS","I don't think it deters anybody, because <throat_clearing> most of the time crimes [ are, + {F uh, } are ] committed [ with a, + without any ] thought to the consequences /"
+sv,A,"and/CC they/PRP do/VBP n't/RB think/VB that/DT ,/, uh/UH ,/, stop/VB and/CC think/VB and/CC say/VB ,/, well/UH ,/, maybe/RB I/PRP should/MD n't/RB do/VB this/DT ,/, uh/UH ,/, because/IN ,/, uh/UH ,/, I/PRP might/MD get/VB the/DT gas/NN chamber/NN or/CC something/NN like/IN that/DT ./.","{C and } they don't [ think that, + {F uh, } stop and think and say, ] {D well, } maybe I shouldn't do this, {F uh, } because, {F uh, } I might get the gas chamber or something like that. /"
+sv,A,They/PRP worry/VBP about/IN it/PRP afterwards/RB,They worry about it afterwards /
+sv,A,and/CC then/RB they/PRP try/VBP and/CC get/VB out/IN of/IN it/PRP ./.,{C and then } they try and get out of it. /
+qo,A,"And/CC ,/, uh/UH ,/, how/WRB about/IN you/PRP ?/.","<inhaling> {C And, } {F uh, } how about you <throat_clearing>? /"
+sv,B,"Well/UH ,/, I/PRP think/VBP that/IN in/IN some/DT cases/NNS ,/, it/PRP is/VBZ warranted/JJ ./.","{D Well, } I think that in some cases, it is warranted. /"
+aa,A,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,A,"I/PRP do/VBP ,/, too/RB ,/,","I do, too, /"
+aa,A,yep/UH ./.,yep. /
+%,B,"And/CC I/PRP do/VBP n't/RB ,/,","{C And } I don't, - /"
+sv,B,I/PRP think/VBP in/IN some/DT cases/NNS it/PRP does/VBZ n't/RB matter/VB if/IN it/PRP 's/BES a/DT deterrent/NN or/CC not/RB ./.,I think in some cases it doesn't matter if it's a deterrent or not. /
+aa,A,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,A,"yeah/UH ,/,","yeah, /"
+sd,A,you/PRP still/RB have/VBP to/TO do/VB it/PRP ./.,you still have to do it. /
+%,A,"I/PRP ,/,","[ I, +"
+sd,B,I/PRP mean/VBP --/:,{E I mean } --
++,A,"I/PRP ,/,","I, ] -/"
++,B,"--/: I/PRP mean/VBP ,/, I/PRP 'm/VBP thinking/VBG of/IN an/DT extreme/JJ case/NN like/IN a/DT serial/JJ murderer/NN --/:","-- {E I mean, } I'm thinking of an extreme case like a serial murderer -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"--/: or/CC ,/,","-- {C or, } -/"
+bf,A,"So/RB you/PRP 're/VBP in/IN ,/, you/PRP 're/VBP in/IN favor/NN of/IN capital/JJ punishment/NN ,/, then/RB ./.","{C So } [ you're in, + you're in ] favor of capital punishment, then. /"
+aap_am,B,"Well/UH ,/, for/IN some/DT things/NNS ./.","{D Well, } for some things. /"
+b,A,Right/UH ./.,Right. /
+sv,B,I/PRP think/VBP for/IN serial/JJ murder/NN --/:,I think for serial murder --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: it/PRP is/VBZ warranted/JJ because/IN if/IN a/DT person/NN who/WP would/MD do/VB something/NN like/IN that/DT in/IN cold/JJ --/:,-- it is warranted because if a person who would do something like that in cold --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: blood/NN ,/,","-- blood, -/"
+sv,A,"Needs/VBZ to/TO be/VB punished/VBN or/CC ,/, uh/UH ,/, eliminated/VBN from/IN society/NN ./.","Needs to be punished or, {F uh, } eliminated from society. /"
+sv,B,"I/PRP mean/VBP ,/,","{E I mean, }"
+x,A,./.,<Throat_clearing>.
++,B,you/PRP ca/MD n't/RB guarantee/VB that/IN they/PRP would/MD n't/RB escape/VB --/:,you can't guarantee that they wouldn't escape --
+b,A,Right/UH ./.,Right. /
++,B,--/: from/IN prison/NN --/:,-- from prison --
+^2,A,And/CC then/RB do/VB it/PRP all/RB over/RB again/RB ./.,And then do it all over again. /
++,B,--/: and/CC do/VB it/PRP again/RB ./.,-- and do it again. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC I/PRP do/VBP n't/RB think/VB that/IN ,/, that/IN rehabilitation/NN is/VBZ effective/JJ ./.","{C And } I don't think [ that, + that ] rehabilitation is effective. /"
+aa,A,Right/UH ./.,Right. /
+aa,A,"Have/VBP to/TO agree/VB with/IN you/PRP ,/,","Have to agree with you, /"
+sd,A,"and/CC I/PRP 'm/VBP kind/RB of/RB i-/IN ,/, in/IN favor/NN of/IN capital/JJ punishment/NN also/RB ./.","{C and } I'm kind of [ i-, + in ] favor of capital punishment also. /"
+sv,A,"I/PRP just/RB do/VBP n't/RB think/VB that/IN it/PRP acts/VBZ much/RB as/IN a/DT deterrent/NN to/IN these/DT people/NNS because/IN ,/, uh/UH ,/, you/PRP still/RB see/VBP them/PRP committing/VBG the/DT same/JJ crimes/NNS ,/,","I just don't think that it acts much as a deterrent to these people because, {F uh, } you still see them committing the same crimes, /"
+sd,A,"but/CC ,/, I/PRP tend/VBP to/TO agree/VB with/IN you/PRP that/IN ,/, uh/UH ,/, we/PRP should/MD have/VB it/PRP ./.","{C but, } I tend to agree with you that, {F uh, } we should have it <throat_clearing>. /"
+sv,A,"I/PRP just/RB ,/, I/PRP do/VBP n't/RB know/VB that/IN it/PRP 's/BES always/RB effective/JJ ,/,","[ I just, + I ] don't know that it's always effective <laughter>, /"
+sv,A,"but/CC I/PRP guess/VBP we/PRP ,/, uh/UH ,/, we/PRP 're/VBP kind/RB of/RB stuck/VBN with/IN it/PRP ./.","{C but } I guess [ we, + {F uh, } we're ] kind of stuck with it. /"
+sv,A,"It/PRP 's/BES ,/, it/PRP 's/BES a/DT difficult/JJ ,/, uh/UH ,/, problem/NN ,/, is/VBZ n't/RB it/PRP ,/, to/TO determine/VB how/WRB you/PRP 're/VBP going/VBG to/TO punish/VB somebody/NN for/IN a/DT particular/JJ crime/NN ,/, uh/UH ,/,","[ It's, + it's ] a difficult, {F uh, } problem, isn't it, to determine how you're going to punish somebody for a particular crime, <inhaling> {F uh, } /"
+sv,B,"But/CC ,/, then/RB ,/, you/PRP know/VBP ,/, I/PRP think/VBP that/IN ,/, that/IN some/DT murderers/NNS do/VBP n't/RB really/RB warrant/VB capital/JJ punishment/NN ./.","{C But, } then, {D you know, } I think [ that, + that ] some murderers don't really warrant capital punishment."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"You/PRP know/VBP ,/,","{D You know, }"
+x,A,./.,<Throat_clearing>.
++,B,"just/RB ,/, like/UH ,/, for/IN example/NN ,/, uh/UH ,/, you/PRP know/VBP ,/, you/PRP hear/VBP about/IN cases/NNS where/WRB women/NNS have/VBP killed/VBN their/PRP$ husbands/NNS --/:","[ just, + ] like, for example, {F uh, } {D you know, } you hear about cases where women have killed their husbands --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: who/WP abused/VBD them/PRP --/:,-- who abused them -- /
+b,A,"Right/UH ,/,","Right, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sv,B,"--/: and/CC I/PRP do/VBP n't/RB think/VB ,/,","-- {C and } I don't think,"
+x,A,./.,<Cough>.
++,B,that/DT would/MD really/RB warrant/VB capital/JJ punishment/NN ./.,that would really warrant capital punishment. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+qy,A,"huh/UH ./. Do/VBP you/PRP think/VB they/PRP should/MD be/VB punished/VBN at/IN all/DT ,/, or/CC ,/, uh/UH ,/, like/IN go/VB to/IN prison/NN ,/, uh/UH ,/,","{F huh. } Do you think they should be punished at all, or, {F uh, } <throat_clearing> {D like } go to prison, {F uh, } /"
+sv,A,because/IN they/PRP 're/VBP not/RB really/RB a/DT danger/NN to/IN society/NN ./.,{C because } they're not really a danger to society. /
+qy^d,A,"It/PRP was/VBD almost/RB really/RB self/NN defense/NN ,/, is/VBZ n't/RB it/PRP ,/, in/IN a/DT case/NN like/IN that/DT ./.","It was almost really self defense, isn't it, in a case like that. /"
+na,B,"Uh/UH ,/, it/PRP is/VBZ to/IN a/DT certain/JJ extent/NN --/:","{F Uh } <breathing>, it is to a certain extent -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"--/: but/CC I/PRP think/VBP ,/,","-- {C but } I think, - /"
+h,B,"I/PRP do/VBP n't/RB know/VB because/IN ,/,","I don't know because, -/"
+sd,A,"I/PRP know/VBP they/PRP put/VBP ,/, uh/UH ,/, put/VBP them/PRP in/IN jail/NN sometimes/RB ,/, I/PRP guess/VBP ./. Uh/UH ,/,","I know they [ put, + {F uh, } put ] them in jail sometimes, I guess. {F Uh, } /"
+sv,B,"I/PRP think/VBP in/IN s-/XX ,/,","I think in s-, - /"
+sv,B,"and/CC it/PRP ,/,","{C and } it,"
+x,A,./.,<Throat_clearing>.
++,B,just/RB would/MD depend/VB upon/IN the/DT circumstances/NNS --/:,just would depend upon the circumstances --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC ,/, and/CC the/DT extent/NN of/IN the/DT abuse/NN --/:","-- [ and, + and ] the extent of the abuse --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: and/CC ,/, and/CC if/IN another/DT alternative/NN was/VBD --/:","-- [ and, + and ] if another alternative was --"
+b,A,Um/UH ./.,Um. /
++,B,--/: available/JJ ./.,-- available. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"You/PRP know/VBP ,/, now/RB ,/, I/PRP wonder/VBP what/WP you/PRP think/VBP about/IN this/DT","{D You know, } {D now, } I wonder what you think about this /"
+sd,A,"and/CC ,/, uh/UH ,/, unfortunately/RB ,/, we/PRP ,/, we/PRP do/VBP n't/RB get/VB to/TO do/VB it/PRP ,/,","{C and, } {F uh, } unfortunately, [ we, + we ] don't get to do it, /"
+sd,A,"but/CC ,/, uh/UH ,/, it/PRP used/VBD to/TO be/VB a/DT long/JJ time/NN ago/RB ,/, I/PRP guess/VBP in/IN Biblical/JJ times/NNS when/WRB they/PRP had/VBD punishment/NN ,/, if/IN somebody/NN did/VBD something/NN ,/, for/IN example/NN ,/, to/IN your/PRP$ family/NN ,/, then/RB you/PRP had/VBD the/DT right/NN to/TO administer/VB the/DT punishment/NN ./.","{C but, } {F uh, } it used to be a long time ago, I guess in Biblical times <throat_clearing> when they had punishment <inhaling>, if somebody did something, for example, to your family, then you had the right to administer the punishment. /"
+sd,A,"So/RB if/IN somebody/NN killed/VBD somebody/NN in/IN your/PRP$ family/NN ,/, then/RB you/PRP had/VBD the/DT right/NN to/TO ,/, uh/UH ,/, if/IN that/DT person/NN was/VBD caught/VBN and/CC found/VBN guilty/JJ ,/, you/PRP had/VBD the/DT right/NN to/TO ,/, uh/UH ,/, execute/VB that/DT person/NN ./.","{C So } if somebody killed somebody in your family <throat_clearing>, then [ you had the right to, + {F uh, } {A if that person was caught and found guilty, } you had the right to, ] {F uh, } execute that person. /"
+sd,A,"And/CC I/PRP know/VBP that/DT ,/, uh/UH ,/, if/IN somebody/NN had/VBD done/VBN something/NN to/IN my/PRP$ family/NN ,/, I/PRP would/MD feel/VB that/IN I/PRP had/VBD the/DT right/NN to/TO ,/, to/TO get/VB revenge/NN on/IN them/PRP","{C And } I know that, {F uh, } if somebody had done something to my family, I would feel that I had the right [ to, + to ] get revenge on them /"
+sd,A,"and/CC ,/, uh/UH ,/, but/CC ,/, I/PRP ,/, I/PRP do/VBP n't/RB think/VB that/DT 's/BES done/VBN much/RB anywhere/RB ./.","[ {C and, } + {F uh, } <throat_clearing> {C but, } ] [ I, + I ] don't think that's done much anywhere <laughter>. /"
+sv,A,That/DT 's/BES kind/RB of/RB drastic/JJ punishment/NN ./.,That's kind of drastic punishment. /
+sv,B,"Well/UH ,/, I/PRP think/VBP that/DT would/MD be/VB kind/RB of/RB drastic/JJ punishment/NN ./.","{D Well, } I think that would be kind of drastic punishment. /"
+b,A,Right/UH ./.,Right. /
+%,B,"And/CC ,/,","{C And, } -/"
+sv,A,Might/MD make/VB you/PRP feel/VB better/RB,Might make you feel better /
+%,A,"but/CC ,/,","{C but } <laughter>, -/"
+sv,B,"But/CC ,/, one/CD thing/NN ,/, I/PRP think/VBP that/IN if/IN there/EX is/VBZ a/DT chance/NN for/IN rehabilitation/NN --/:","{C But, } one thing, I think that if there is a chance for rehabilitation --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: then/RB that/DT chance/NN sh/MD ,/, should/MD be/VB investigated/VBN ./.","-- then that chance [ sh-, + should ] be investigated. /"
+b,A,Right/UH ./.,Right. /
+sv,B,"But/CC ,/, like/IN I/PRP said/VBD ,/, if/IN ,/, if/IN someone/NN is/VBZ ,/, is/VBZ just/RB pathologically/RB --/:","{C But, } like I said, [ if, + if ] someone [ is, + is ] just pathologically --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: going/VBG to/TO murder/VB people/NNS no/DT matter/NN what/WP --/:,-- going to murder people no matter what --
+b,A,Right/UH ./.,Right. /
++,B,--/: then/RB I/PRP think/VBP they/PRP should/MD be/VB eliminated/VBN from/IN --/:,-- then I think they should be eliminated from --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: society/NN ./.,-- society. /
+aa,A,"Right/UH ,/,","Right, /"
+sv,A,because/IN they/PRP 're/VBP a/DT danger/NN to/IN everybody/NN else/RB ./.,because they're a danger to everybody else. /
+sv,A,"Huh/UH ,/, that/DT 's/BES interesting/JJ ./.","{F Huh, } that's interesting. /"
+aa,A,"I/PRP have/VBP to/TO ,/, uh/UH --/:","I have to, {F uh } --"
+%,B,"But/CC ,/,","{C But, } -/"
++,A,--/: agree/VB with/IN that/DT ./.,-- agree with that. /
+sv,A,"There/EX 's/BES a/DT lot/NN of/IN folks/NNS ,/, probably/RB ,/, that/WDT are/VBP in/IN prison/NN that/WDT ,/, uh/UH ,/, that/WDT are/VBP n't/RB really/RB a/DT danger/NN to/IN society/NN ,/, huh/UH ,/,","There's a lot of folks, probably, that are in prison [ that, + {F uh, } that ] aren't really a danger to society, {F huh, } /"
+%,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+^2,B,And/CC a/DT lot/NN of/IN people/NNS that/WDT are/VBP a/DT danger/NN --/:,{C And } a lot of people that <laughter> are a danger --
+aa,A,Right/UH ./.,<Laughter> Right. /
++,B,--/: to/IN society/NN that/WDT are/VBP n't/RB in/IN prison/NN ./.,-- to society that aren't in prison. /
+aa,A,"Right/UH ,/,","<Laughter> Right, /"
+sv,A,probably/RB more/JJR of/IN them/PRP then/RB the/DT other/JJ way/NN around/IN ./.,probably more of them then the other way around <laughter>. /
+sv,A,Interesting/JJ ./.,Interesting. /
+%,A,"I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB ,/, not/RB sure/JJ","[ [ I don't, + I don't, ] + not sure ] - /"
+sd,A,"I/PRP ,/, I/PRP 'm/VBP in/IN Washington/NNP ,/, D/NNP C/NNP or/CC at/IN least/JJS very/RB close/RB to/IN it/PRP ./.","[ I, + I'm ] in Washington, D C or at least very close to it. /"
+sd,A,"I/PRP 'm/VBP not/RB sure/JJ what/WDT kind/NN of/IN ,/, uh/UH ,/, capital/JJ punishment/NN we/PRP have/VBP here/RB ./.","I'm not sure what kind of, {F uh, } capital punishment we have here. /"
+sd,B,"Well/UH ,/, I/PRP know/VBP in/IN North/NNP Carolina/NNP ,/, we/PRP do/VBP have/VB capital/JJ punishment/NN ./.","{D Well, } I know in North Carolina, we do have capital punishment. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC I/PRP 'm/VBP in/IN ,/, I/PRP 'm/VBP from/IN South/NNP Carolina/NNP ./.","{C And } [ I'm ((in)), + I'm from ] South Carolina. /"

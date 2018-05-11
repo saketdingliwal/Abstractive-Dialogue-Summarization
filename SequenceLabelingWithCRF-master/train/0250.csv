@@ -1,0 +1,154 @@
+act_tag,speaker,pos,text
+qw,A,Where/WRB is/VBZ your/PRP$ favorite/JJ place/NN to/TO go/VB ?/.,Where is your favorite place to go? /
+sd,B,"Well/UH ,/, we/PRP have/VBP n't/RB traveled/VBN outside/IN the/DT United/NNP States/NNP that/RB much/RB ./.","{D Well, } we haven't traveled outside the United States that much. /"
+sd,B,"Uh/UH ,/, we/PRP usually/RB take/VBP family/NN type/NN vacations/NNS ./.","{F Uh, } we usually take family type vacations. /"
+sd,B,We/PRP 're/VBP looking/VBG forward/RB to/IN one/CD in/IN October/NNP to/IN Disneyworld/NNP in/IN Florida/NNP ./.,We're looking forward to one in October to Disneyworld in Florida. /
+ba,A,"Oh/UH ,/, that/DT 's/BES great/JJ ./.","{F Oh, } that's great. /"
+sd,B,We/PRP have/VBP a/DT nine/CD year/NN old/NN ./.,We have a nine year old. /
+qy,A,Have/VBP you/PRP ever/RB been/VBN there/RB ?/.,Have you ever been there? /
+na,B,"When/WRB ,/, when/WRB both/DT of/IN my/PRP$ kids/NNS were/VBD much/RB younger/JJR ./.","[ When, + when ] both of my kids were much younger. /"
+sd,B,And/CC this/DT time/NN we/PRP 're/VBP going/VBG to/TO be/VB going/VBG with/IN just/RB one/CD daughter/NN,{C And } this time we're going to be going with just one daughter /
+sd,B,"and/CC she/PRP 's/BES nine/CD ,/,","{C and } she's nine, /"
+sd,B,so/RB it/PRP ought/MD to/TO just/RB be/VB a/DT ball/NN ./.,{C so } it ought to just be a ball. /
+sv,A,"Oh/UH ,/, that/DT 's/BES a/DT perfect/JJ age/NN --/:","{F Oh, } that's a perfect age --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: for/IN Disneyworld/NNP ./.,-- for Disneyworld. /
+aa,B,"I/PRP think/VBP so/RB ,/, too/RB ./.","I think so, too. /"
+ba,A,"Oh/UH ,/, that/DT 's/BES great/JJ ./.","{F Oh, } that's great. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,so/UH we/PRP 've/VBP been/VBN there/RB a/DT number/NN of/IN times/NNS,{C so } we've been there a number of times /
+sd,A,"and/CC ,/, uh/UH ,/, we/PRP 're/VBP going/VBG next/JJ year/NN ./.","{C and, } {F uh, } we're going next year. /"
+sd,A,We/PRP have/VBP a/DT business/NN trip/NN every/DT fall/NN ./.,We have a business trip every fall. /
+sd,A,"Well/UH ,/, we/PRP go/VBP on/IN a/DT lot/NN of/IN business/NN trips/NNS ./.","{D Well, } we go on a lot of business trips. /"
+sd,A,"I/PRP ,/,","[ I, +"
+ba,B,"Oh/UH ,/, wonderful/JJ ./.","{F Oh, } wonderful. /"
++,A,I/PRP do/VBP n't/RB work/VB ./.,I ] don't work. /
+bf,B,So/RB you/PRP travel/VBP a/DT lot/NN ./.,{C So } you travel a lot. /
+aa,A,"Well/UH ,/, we/PRP do/VBP ./.","{D Well, } we do. /"
+%,A,"We/PRP g-/XX ,/,","We g-, - /"
+sd,A,my/PRP$ husband/NN travels/VBZ a/DT couple/NN times/NNS a/DT month/NN,my husband travels a couple times a month /
+sd,A,"and/CC in/IN the/DT position/NN he/PRP 's/BES in/IN ,/, they/PRP do/VBP n't/RB care/VB if/IN I/PRP go/VBP along/IN ./.","{C and } in the position he's in, they don't care if I go along. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,So/IN it/PRP 's/BES great/JJ ./.,{C So } it's great. /
+sd,A,I/PRP just/RB kind/RB of/RB join/VBP up/RP when/WRB it/PRP 's/BES something/NN interesting/JJ,I just kind of join up when it's something interesting /
+sd,A,and/CC --/:,{C and } --
+b,B,Sure/UH ./.,Sure. /
++,A,"--/: uh/UH ,/, Disneyworld/NNP is/VBZ the/DT one/CD for/IN a/DT week/NN next/JJ year/NN --/:","-- {F uh, } Disneyworld is the one for a week next year -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC it/PRP will/MD be/VB at/IN this/DT time/NN of/IN the/DT year/NN,-- {C and } it will be at this time of the year /
+sd,A,"and/CC this/DT year/NN we/PRP 're/VBP leaving/VBG ,/, uh/UH ,/, uh/UH ,/, matter/NN of/IN fact/NN we/PRP 're/VBP leaving/VBG next/JJ Saturday/NNP for/IN New/NNP Orleans/NNP ./.","{C and } this year [ we're leaving, + {F uh, } {F uh, } matter of fact we're leaving ] next Saturday for New Orleans. /"
+sv,B,"Oh/UH ,/, that/DT will/MD be/VB fun/NN ,/, too/RB ./.","{F Oh, } that will be fun, too. /"
+qy,A,"Have/VBP ,/, have/VBP you/PRP ever/RB been/VBN there/RB ?/.","[ Have, + have ] you ever been there? /"
+ny,B,Yes/UH ./.,Yes. /
+sd,B,We/PRP went/VBD years/NNS ago/RB ./.,We went years ago. /
+sd,B,We/PRP have/VBP n't/RB been/VBN lately/RB,We haven't been lately /
+sd,B,"and/CC I/PRP know/VBP they/PRP 've/VBP changed/VBN it/PRP a/DT lot/NN and/CC upgraded/VBN everything/NN ,/,","{C and } I know they've changed it a lot and upgraded everything, /"
+sd,B,but/CC we/PRP used/VBD to/TO have/VB a/DT lot/NN of/IN fun/NN there/RB ./.,{C but } we used to have a lot of fun there. /
+sd,A,"Well/UH ,/, you/PRP know/VBP ,/, we/PRP went/VBD there/RB once/RB ./.","{D Well, } {D you know, } we went there once. /"
+sd,A,"In/IN fact/NN ,/, we/PRP had/VBD been/VBN in/IN Dallas/NNP","In fact, we had been in Dallas /"
+sd,A,and/CC we/PRP were/VBD on/IN our/PRP$ way/NN home/RB,{C and } we were on our way home /
+sd,A,and/CC we/PRP were/VBD driving/VBG,{C and } we were driving /
+sd,A,and/CC we/PRP said/VBD let/VB 's/PRP go/VB to/IN New/NNP Orleans/NNP ./.,{C and } we said let's go to New Orleans. /
+sd,A,"So/RB when/WRB he/PRP said/VBD ,/, well/UH ,/, this/DT year/NN ,/, you/PRP know/VBP ,/, I/PRP have/VBP a/DT week/NN there/RB on/IN a/DT ,/, a/DT project/NN","{C So } when he said, {D well, } this year, {D you know, } I have a week there on [ a, + a ] project /"
+sd,A,"he/PRP 's/BES going/VBG to/TO be/VB ,/,","he's going to be, - /"
+sd,A,"and/CC then/RB I/PRP said/VBD ,/, well/UH ,/, I/PRP 'll/MD going/VBG along/IN ,/,","{C and then } I said, {D well, } I'll going along, /"
+^q,A,I/PRP hope/VBP it/PRP 's/BES swimming/NN season/NN,I hope it's swimming season /
+sd,A,"because/IN it/PRP was/VBD n't/RB a/DT tremendous/JJ thing/NN ,/, amount/NN of/IN things/NNS to/TO do/VB ./.","<laughter> {C because } it wasn't a tremendous [ thing, + amount of things ] [ to do. +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,That/WDT I/PRP wanted/VBD to/TO do/VB there/RB ./.,That I wanted to do ] there. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"if/IN you/PRP do/VBP n't/RB like/VB the/DT night/NN life/NN and/CC the/DT antique/NN shopping/NN ,/, there/EX is/VBZ n't/RB much/RB there/RB ,/,","if you don't like the night life and the antique shopping, there isn't much there, /"
+sv,B,"but/CC ,/, that/DT can/MD be/VB fun/NN ./.","{C but, } that can be fun. /"
+sd,A,"It/PRP ,/, well/UH ,/, and/CC that/DT 's/BES probably/RB ,/,","[ It, + {D well, } {C and } that's ] probably, - /"
+sd,A,"we/PRP do/VBP like/VB the/DT night/NN life/NN ,/, to/IN an/DT extent/NN","we do like the night life, to an extent /"
+sd,A,and/CC they/PRP do/VBP have/VB a/DT Mardi/NNP Gras/NNP night/NN planned/VBN ./.,{C and } they do have a Mardi Gras night planned. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC I/PRP 'm/VBP kind/RB of/RB anxious/JJ for/IN that/DT ,/,","{C And } I'm kind of anxious for that, /"
+sd,A,"but/CC ,/, uh/UH ,/, yours/JJ to/IN Disneyworld/NN sounds/VBZ a/DT little/JJ bit/NN better/JJR ./.","{C but, } {F uh, } yours to Disneyworld sounds <laughter> a little bit better. /"
+x,B,./.,<Laughter>.
+qy,A,Did/VBD you/PRP know/VBP that/IN next/JJ week/NN there/EX 's/BES several/JJ T/NN V/NN shows/NNS coming/VBG from/IN there/RB in/IN celebration/NN of/IN their/PRP$ anniversary/NN ./.,Did you know that next week there's several T V shows coming from there in celebration of their anniversary. /
+nn,B,"No/UH ,/,","No, /"
+sd,B,"I/PRP know/VBP this/DT is/VBZ a/DT real/RB good/JJ time/NN to/TO go/VB ,/, because/IN they/PRP are/VBP having/VBG so/RB many/JJ activities/NNS and/CC special/JJ shows/NNS ./.","I know this is a real good time to go, because they are having so many activities and special shows. /"
+sd,A,"Well/UH ,/, and/CC with/IN a/DT daughter/NN ,/, nine/CD ,/, it/PRP is/VBZ just/RB ,/,","{D Well, } {C and } with a daughter, nine, it is just, - /"
+sd,A,she/PRP 's/BES old/JJ enough/RB to/TO really/RB grasp/VB --/:,she's old enough to really grasp --
+b,B,Yes/UH ./.,Yes. /
++,A,"--/: the/DT meaning/NN behind/IN ,/,","-- the meaning behind, -/"
+bf,B,Be/VB excited/JJ about/IN all/DT of/IN it/PRP ./.,Be excited about all of it. /
+sv,A,"Uh/UH ,/, so/UH ,/, well/UH ,/, if/IN you/PRP 're/VBP working/VBG ,/, then/RB you/PRP 're/VBP probably/RB on/IN a/DT limited/JJ amount/NN of/IN time/NN per/IN year/NN that/WDT you/PRP can/MD go/VB ./.","{F Uh, } {D so, } {D well, } if you're working, then you're probably on a limited amount of time per year that you can go. /"
+ar,B,"Well/UH ,/, not/RB really/RB ,/,","{D Well, } not really, /"
+sd,B,we/PRP 're/VBP doing/VBG the/DT same/JJ thing/NN ./. Tying/VBG it/PRP in/RP with/IN my/PRP$ husband/NN 's/POS business/NN trip/NN,we're doing the same thing. Tying it in with my husband's business trip /
+sd,B,and/CC I/PRP just/RB save/VBP vacation/NN for/IN things/NNS like/IN that/DT ./.,{C and } I just save vacation for things like that.
+%,A,"Oh/UH ,/, that/DT 's/BES ,/,","{F Oh, } that's, -/"
++,B,"And/CC ,/, uh/UH ,/, just/RB travel/VB whenever/WRB we/PRP can/MD ./.","{C And, } {F uh, } just travel whenever we can. /"
+sv,A,"Well/UH ,/, I/PRP really/RB ,/, I/PRP think/VBP travel/VB ,/,","{D Well, } I really, I think travel <static>, - /"
+sd,A,"when/WRB I/PRP heard/VBD my/PRP$ topic/NN today/NN ,/, I/PRP thought/VBD ,/, okay/UH --/:","when I heard my topic today, I thought, okay --"
+^2,B,How/WRB easy/JJ ./.,How easy <laughter>. /
++,A,"--/: that/DT 's/BES my/PRP$ fav/JJ ,/, that/DT 's/POS my/PRP$ favorite/JJ","[ -- that's my fav-, + that's my favorite ] <laughter> - /"
+%,A,"becau-/IN ,/,","{C becau-, } -/"
+b,B,Right/UH ./.,Right. /
+sd,A,And/CC really/RB at/IN our/PRP$ point/NN of/IN life/NN our/PRP$ children/NNS are/VBP grown/JJ,{C And } really at our point of life our children are grown /
+sd,A,"and/CC ,/, uh/UH ,/, it/PRP has/VBZ just/RB worked/VBN out/RP really/RB well/RB with/IN this/DT ,/, uh/UH ,/, position/NN he/PRP 's/BES in/IN ./.","{C and, } {F uh, } it has just <static> worked out really well with this, {F uh, } position he's in."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,Because/IN I/PRP can/MD go/VB at/IN a/DT spur/NN of/IN the/DT moment/NN or/CC what/WP have/VBP you/PRP,Because I can go at a spur of the moment or what have you /
+sd,A,and/CC it/PRP depends/VBZ where/WRB he/PRP 's/BES going/VBG whether/CC or/CC not/RB I/PRP decide/VBP to/TO go/VB along/IN --/:,{C and } it depends where he's going <static> whether or not I decide to go along -- /
+b,B,Sure/UH ./.,Sure. /
+sd,A,"--/: but/CC I/PRP do/VBP ,/, do/VBP like/VB to/TO travel/VB","-- {C but } I [ do, + do ] like to travel /"
+%,A,"and/CC it/PRP 's/BES ,/, uh/UH ,/,","{C and } it's, {F uh, } <static> - /"
+sd,A,I/PRP do/VBP n't/RB mind/VB the/DT pool/NN life/NN at/IN all/DT --/:,I don't mind the pool life at all --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: during/IN the/DT day/NN ./.,-- during the day. /
+sd,A,And/CC I/PRP like/VBP to/TO sight/GW see/^VB,{C And } I like to sight see /
+sd,A,and/CC I/PRP love/VBP to/TO shop/VB ./.,{C and } I love to shop. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"So/IN it/PRP 's/BES ,/,","{D So } it's <laughter>, -/"
+bf,B,So/RB that/DT 's/BES perfect/JJ ./.,{D So } that's perfect. /
+qh,B,What/WP more/RBR could/MD you/PRP ask/VB for/IN ?/.,What more could you ask for? /
+aa,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+%,A,"but/CC it/PRP ,/,","{C but } it, -/"
+bf,B,And/CC then/RB got/VBD to/TO pick/VB and/CC choose/VB the/DT places/NNS ./.,{C And then } got to pick and choose the places. -/
+sd,A,"Well/UH ,/, and/CC one/CD of/IN my/PRP$ very/RB favorite/JJ is/VBZ Las/NNP Vegas/NNP ./.","{D Well, } {C and } one of my very favorite <static> is Las Vegas. /"
+b,B,Oh/UH ./.,Oh. /
+%,A,"Uh/UH ,/, that/WDT","{F Uh, } that - /"
+sd,A,"I/PRP would/MD have/VB to/TO say/VB we/PRP both/DT end/VBP up/RP going/VBG to/IN Las/NNP Vegas/NNP ,/, uh/UH ,/, probably/RB once/RB every/DT maybe/RB year/NN and/CC a/DT half/NN ./.","I would have to say we both end up going to Las Vegas, {F uh, } probably once every maybe year and a half. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC presently/RB we/PRP have/VBP quite/RB a/DT few/JJ frequent/JJ flyer/NN miles/NNS --/:,{C And } presently we have quite a few frequent flyer miles -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC so/RB I/PRP 've/VBP just/RB requested/VBN that/IN they/PRP send/VBP us/PRP two/CD of/IN our/PRP$ coach/NN tickets/NNS,-- {C and so } I've just requested that they send us two of our coach tickets /
+sd,A,because/IN we/PRP have/VBP a/DT lot/NN of/IN flying/NN with/IN Continental/NNP --/:,{C because } we have a lot of flying with Continental -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC they/PRP 're/VBP recommending/VBG that/IN you/PRP use/VBP those/DT because/IN they/PRP do/VBP n't/RB know/VB the/DT future/NN of/IN Continental/NNP ./.,-- {C and } they're recommending that you use those because they don't know the future of Continental. /
+aa,B,"Right/RB ,/,","Right, /"
+sd,B,it/PRP 's/BES kind/RB of/RB shaky/JJ ./.,it's kind of shaky. /
+sd,A,"And/CC I/PRP said/VBD now/RB that/IN we/PRP have/VBP all/PDT the/DT miles/NNS ,/,","{C And } I said now that we have all the miles, /"
+^q,A,we/PRP better/RB start/VBP using/VBG them/PRP ./.,we better <laughter> start using them. /
+aa,B,That/DT 's/BES true/JJ ./.,That's true. /
+%,A,"Uh/UH ,/,","{F Uh, } /"
+aa,B,It/PRP really/RB is/VBZ ./.,It really is. /
+sd,A,So/RB we/PRP are/VBP thinking/VBG that/IN we/PRP might/MD go/VB to/IN Las/NNP Vegas/NNP during/IN the/DT winter/NN this/DT year/NN sometime/RB for/IN just/JJ kind/RB of/RB a/DT quick/JJ trip/NN ./.,{C So } we are thinking that we might go to Las Vegas during the winter this year sometime for just kind of a quick trip. /
+sd,A,"Uh/UH ,/, when/WRB we/PRP normally/RB go/VBP that/DT way/NN ,/, we/PRP like/VBP to/TO go/VB to/IN California/NNP at/IN the/DT same/JJ time/NN ,/, because/IN we/PRP really/RB do/VBP n't/RB get/VB out/IN there/RB as/RB often/RB as/IN you/PRP could/MD probably/RB --/:","{F Uh, } when we normally go that way, we like to go to California at the same time, because we really don't get out there as often as you could probably --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: from/IN Texas/NNP ./.,-- from Texas. /
+sd,B,"Our/PRP$ last/JJ big/JJ trip/NN ,/, we/PRP drove/VBD through/IN New/NNP Mexico/NNP and/CC Colorado/NNP and/CC went/VBD to/IN the/DT Grand/NNP Canyon/NNP and/CC ,/, and/CC ,/, uh/UH ,/, back/RB through/IN Silverton/NNP and/CC Durango/NNP","Our last big trip, we drove through New Mexico and Colorado and went to the Grand Canyon [ and, + and, ] {F uh, } back through Silverton and Durango /"
+sd,B,"and/CC ,/, oh/UH ,/, it/PRP was/VBD fun/NN ./.","{C and, } {F oh, } it was fun. /"
+sd,B,It/PRP was/VBD so/RB relaxing/JJ and/CC a/DT really/RB neat/JJ part/NN of/IN the/DT country/NN,It was so relaxing and a really neat part of the country /
+sd,B,and/CC the/DT kids/NNS were/VBD old/JJ enough/RB to/TO really/RB enjoy/VB it/PRP ./.,{C and } the kids were old enough to really enjoy it. /
+%,B,"Our/PRP$ ,/,","Our, -/"
+sv,A,I/PRP think/VBP that/DT 's/BES a/DT good/JJ trip/NN ./.,I think that's a good trip. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC really/RB ,/, for/IN the/DT children/NNS to/TO learn/VB as/RB well/RB for/IN a/DT family/NN vacation/NN that/WDT would/MD be/VB excellent/JJ ./.","{C And } really, for the children to learn as well for a family vacation that would be excellent. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"Now/RB we/PRP did/VBD ,/, what/WP we/PRP sometimes/RB do/VBP since/IN we/PRP are/VBP in/IN Ohio/NNP","Now we did, what we sometimes do since we are in Ohio /"
+sd,A,"and/CC it/PRP takes/VBZ a/DT while/NN just/RB to/TO even/RB get/VB to/IN the/DT ,/, what/WP I/PRP would/MD call/VB the/DT more/RBR picturesque/JJ part/NN of/IN the/DT country/NN ,/,","{C and } it takes a while just to even get to [ the, + what I would call the ] more picturesque part of the country, /"
+sd,A,"we/PRP will/MD fly/VB to/IN something/NN like/IN ,/,","we will fly to something like, - /"
+sd,A,once/IN we/PRP flew/VBD to/IN Colorado/NNP to/IN Denver/NNP,once we flew to Colorado to Denver /
+sd,A,and/CC then/RB we/PRP rented/VBD a/DT car/NN for/IN two/CD weeks/NNS,{C and then } we rented a car for two weeks /
+sd,A,and/CC we/PRP went/VBD through/IN the/DT northern/JJ route/NN and/CC through/IN Utah/NNP --/:,{C and } we went through the northern route and through Utah --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: and/CC as/RB far/RB west/RB as/IN Las/NNP Vegas/NNP,-- and as far west as Las Vegas /
+sd,A,"and/CC then/RB we/PRP returned/VBD through/IN ,/, uh/UH ,/, New/NNP Mexico/NNP that/WDT you/PRP just/RB mentioned/VBD ./.","{C and then } we returned through, {F uh, } New Mexico that you just mentioned. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC it/PRP was/VBD --/:,{C And } [ it was -- +
+sv,B,"Oh/UH ,/, there/EX 's/BES --/:","{F Oh, } there's --"
++,A,"--/: oh/UH ,/, it/PRP was/VBD just/RB great/JJ ./.","-- {F oh, } it was ] just great. /"
++,B,--/: too/RB much/JJ to/TO see/VB really/RB ./.,-- too much to see really. /
+sv,A,"Oh/UH ,/, I/PRP ,/, I/PRP think/VBP that/DT 's/BES ,/, that/DT 's/BES the/DT way/NN to/TO ,/,","{F Oh, } [ I, + I ] think [ that's, + that's ] <static> the way to, -/"

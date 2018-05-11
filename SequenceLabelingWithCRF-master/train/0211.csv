@@ -1,0 +1,144 @@
+act_tag,speaker,pos,text
+fp,A,Hi/UH ./.,Hi. /
+qy,A,"So/UH ,/, do/VBP you/PRP think/VB you/PRP get/VBP good/JJ coverage/NN from/IN the/DT sources/NNS that/WDT you/PRP have/VBP ?/.","{D So, } do you think you get good coverage from the sources that you have? /"
+nn,B,"Uh/UH ,/, actually/RB no/UH ,/,","{F Uh, } actually no, /"
+sd,B,"because/IN ,/, because/IN I/PRP 'm/VBP in/IN school/NN ./.","[ {C because, } + {C because } ] I'm in school. /"
+sd,B,"I/PRP ,/, I/PRP kind/RB of/RB miss/VBP out/RP on/IN most/JJS of/IN the/DT current/JJ events/NNS ./.","[ I, + I ] kind of miss out on most of the current events. /"
+sd,B,I/PRP just/RB catch/VBP the/DT major/JJ ones/NNS off/IN the/DT news/NN or/CC if/IN someone/NN starts/VBZ to/TO talk/VB about/IN it/PRP ./.,I just catch the major ones off the news or if someone starts to talk about it. /
+qy,A,Do/VBP you/PRP watch/VB a/DT lot/NN of/IN T/NN V/NN to/TO get/VB the/DT news/NN then/RB ?/.,Do you watch a lot of T V to get the news then? /
+ng,B,"Uh/UH ,/, I/PRP do/VBP n't/RB watch/VB a/DT lot/NN of/IN it/PRP ,/,","{F Uh, } I don't watch a lot of it, /"
+%,B,"but/CC that/DT 's/BES the/DT on/JJ ,/,","{C but } that's the on-, - /"
+sd,B,basically/RB that/IN 's/BES my/PRP$ only/JJ major/JJ source/NN of/IN information/NN ./.,basically that's my only major source of information. /
+%,A,Um/UH ./.,{F Um. } /
+qo,B,"What/WP about/IN ,/, what/WP about/IN you/PRP ?/.","[ What about, + what about ] you? /"
+sd,A,"Well/UH ,/, I/PRP read/VBP ,/, uh/UH ,/,","{D Well, } I read, {F uh, } - /"
+sd,A,I/PRP get/VBP a/DT bunch/NN of/IN different/JJ things/NNS ./.,I get a bunch of different things. /
+sd,A,I/PRP get/VBP a/DT newspaper/NN every/DT day/NN,I get a newspaper every day /
+sd,A,"and/CC I/PRP try/VBP to/TO at/IN ,/, at/IN least/JJS have/VB a/DT few/JJ minutes/NNS to/TO look/VB through/IN that/DT","{C and } I try to [ at, + at ] least have a few minutes to look through that /"
+sd,A,"and/CC I/PRP look/VBP through/IN ,/, uh/UH ,/,","{C and } I look through, {F uh, } - /"
+sd,A,"I/PRP get/VBP a/DT NEWSWEEK/NNP every/DT week/NN which/WDT I/PRP ,/, I/PRP pretty/RB much/RB read/VBP that/DT cover/NN to/IN cover/NN","I get a NEWSWEEK every week which [ I, + I ] pretty much read that cover to cover /"
+%,A,"and/CC I/PRP ,/, as/RB far/RB as/IN ,/, you/PRP know/VBP ,/,","{C and } I, as far as, {D you know, } - /"
+sd,A,that/DT satisfies/NNS most/JJS of/IN the/DT short/JJ term/NN news/NN I/PRP get/VBP ./.,that satisfies most of the short term news I get. /
+sd,A,"Uh/UH ,/, do/VBP n't/RB watch/VB much/JJ T/NN V/NN ,/,","{F Uh, } don't watch much T V, /"
+sd,A,do/VBP n't/RB have/VB enough/JJ time/NN,don't have enough time /
+sd,A,"and/CC ,/, uh/UH ,/, do/VBP n't/RB listen/VB to/IN the/DT radio/NN too/RB much/RB especially/RB the/DT news/NN channels/NNS or/CC anything/NN like/IN that/DT ,/, you/PRP know/VBP ,/,","{C and, } {F uh, } don't listen to the radio too much especially the news channels or anything like that, {D you know, } /"
+sv,A,they/PRP might/MD give/VB you/PRP a/DT little/JJ blurbs/NNS like/IN --/:,they might give you a little blurbs like --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: this/DT happened/VBD or/CC that/DT happened/VBD,-- this happened or that happened /
+sd,A,and/CC that/DT 's/BES about/RB all/DT I/PRP ever/RB hear/VBP of/IN it/PRP ./.,{C and } that's about all I ever hear of it. /
+sd,A,"Uh/UH ,/, but/CC most/JJS of/IN my/PRP$ news/NN probably/RB comes/VBZ from/IN NEWSWEEK/NNP","{F Uh, } {C but } most of my news probably comes from NEWSWEEK /"
+sd,A,"and/CC for/IN the/DT longer/JJR term/NN I/PRP ,/, I/PRP read/VBP ,/, uh/UH ,/, like/IN SCIENTIFIC/NNP AMERICAN/NNP and/CC ,/, and/CC ,/, uh/UH ,/, READERS/^NNP^POS '/'' DIGEST/NNP and/CC some/DT of/IN those/DT other/JJ types/NNS of/IN magazines/NNS that/WDT come/VBP out/RP which/WDT ,/, they/PRP ,/,","{C and } for the longer term [ I, + I ] read, {F uh, } {D like } SCIENTIFIC AMERICAN [ and, + and, ] {F uh, } READERS' DIGEST and some of those other types of magazines that come out which, they, - /"
+sd,A,"the/DT news/NN is/VBZ n't/RB ,/, like/IN ,/, immediate/JJ what/WP you/PRP 'd/MD generally/RB think/VB of/IN as/IN news/NN ,/,","the news isn't, {D like, } immediate what you'd generally think of as news, /"
+sd,A,but/CC it/PRP 's/BES recent/JJ material/NN ./.,{C but } it's recent material. /
+^2,B,And/CC it/PRP 's/BES more/JJR in/IN depth/NN ./.,{C And } it's more in depth. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"it/PRP is/VBZ ,/, it/PRP is/VBZ more/JJR in/IN depth/NN ,/, less/RBR broad/JJ ./.","[ it is, + it is ] more in depth, less broad. /"
+ar,A,"Well/UH ,/, actually/UH ,/, it/PRP 's/BES ,/, probably/RB is/VBZ n't/RB less/RBR broad/JJ ,/,","{D Well, } {D actually, } it's, probably isn't less broad, /"
+sv,A,but/CC it/PRP 's/BES just/RB more/JJR in/IN depth/NN,{C but } it's just more in depth /
+sv,A,"and/CC ,/, uh/UH ,/, it/PRP is/VBZ ,/, it/PRP is/VBZ more/RBR sig/JJ ,/, it/PRP is/VBZ more/RBR just/RB significant/JJ information/NN ,/, you/PRP know/VBP ./.","{C and, } {F uh, } [ [ it is, + it is more sig-, ] + it is more just significant ] information, {D you know. } /"
+sd,A,"It/PRP is/VBZ the/DT big/JJ events/NNS ,/, not/RB the/DT little/JJ events/NNS ./.","It is the big events, not the little events. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Not/RB the/DT fact/NN that/IN there/EX was/VBD a/DT big/JJ auto/NN accident/NN down/IN on/IN the/DT corner/NN of/IN Broad/NNP and/CC Main/NNP ,/, you/PRP know/VBP ./.","Not the fact that there was a big auto accident down on the corner of Broad and Main, {D you know. } /"
+aa,B,"I/PRP know/VBP ,/,","I know, /"
+sv,B,where/WRB they/PRP 're/VBP just/RB trying/VBG to/TO fill/VB in/RP ./.,where they're just trying to fill in. /
+aa,A,"Yes/UH ,/,","Yes, /"
+sv,A,"or/CC they/PRP 're/VBP making/VBG ,/, making/VBG time/NN because/IN they/PRP to/TO fill/VB in/IN an/DT hour/NN 's/POS worth/JJ of/IN news/NN ./.","{C or } they're [ making, + making ] time because they to fill in an hour's worth of news. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Uh/UH ,/, I/PRP get/VBP kind/RB of/RB bored/JJ watching/VBG T/NN V/NN actually/RB ,/, when/WRB I/PRP watch/VBP the/DT news/NN on/IN T/NN V/NN because/IN --/:","{F Uh, } I get kind of bored watching T V actually, when I watch the news on T V because --"
+b,B,"I/PRP know/VBP ,/,","I know, /"
+sd,B,"I/PRP do/VBP ,/, I/PRP do/VBP ,/, too/RB ./.","[ I do, + I do, ] too. /"
++,A,--/: it/PRP goes/VBZ so/RB slow/JJ,-- it goes so slow /
+sv,A,"and/CC ,/, then/RB there/EX 's/BES nothing/NN that/WDT ,/, you/PRP know/VBP ,/, really/RB is/VBZ like/IN oh/UH ,/, so/RB exciting/JJ ./.","{C and, then } there's nothing that, {D you know, } really is {D like } {F oh, } so exciting. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"you/PRP may/MD find/VB one/CD little/JJ ,/, uh/UH ,/, news/NN item/NN interesting/JJ","you may find one little, {F uh, } news item interesting /"
+sv,B,"so/RB you/PRP have/VBP to/TO wait/VB twenty/CD minutes/NNS to/TO ,/, to/TO hear/VB about/IN it/PRP ./.","{C so } you have to wait twenty minutes [ to, + to ] hear about it. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"that/DT ,/, that/DT 's/BES about/RB what/WP it/PRP ends/VBZ up/RP being/VBG ./.","[ that, + that's ] about what it ends up being. /"
+sv,A,Listen/VB to/IN the/DT news/NN to/TO hear/VB the/DT traffic/NN report/NN or/CC something/NN ./.,Listen to the news to hear the traffic report or something <laughter>. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"actually/RB ,/, y-/PRP ,/, you/PRP mention/VBP NEWSWEEK/NNP ,/,","{D actually, } [ y-, + you ] mention NEWSWEEK, /"
+sd,B,"I/PRP ,/, I/PRP ,/, I/PRP do/VBP like/VB ,/, uh/UH ,/, U/NNP S/NNP NEWS/NNP AND/CC WORLD/NNP REPORT/NNP ./.","[ [ I, + I, ] + I ] do like, {F uh, } U S NEWS AND WORLD REPORT. /"
+sd,B,"I/PRP do/VBP n't/RB get/VB to/TO read/VB it/PRP as/RB much/RB as/IN I/PRP like/VBP ,/,","I don't get to read it as much as I like, /"
+sv,B,"but/CC that/DT 's/BES ,/, I/PRP think/VBP that/DT 's/BES a/DT good/JJ magazine/NN ./.","{C but } [ that's, + I think that's ] a good magazine. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,I/PRP think/VBP they/PRP 're/VBP about/RB the/DT same/JJ ./.,I think they're about the same. /
+sv,A,"I/PRP ,/, you/PRP know/VBP ,/, they/PRP ,/, they/PRP certainly/RB have/VBP a/DT very/RB similar/JJ ,/, uh/UH ,/, charter/NN at/IN least/JJS in/IN my/PRP$ mind/NN ./.","[ [ I, + {D you know, } they, ] + they ] certainly have a very similar, {F uh, } charter at least in my mind. /"
+qw,A,"And/CC ,/, uh/UH ,/, uh/UH ,/, what/WDT ,/, what/WDT kind/NN of/IN ,/, uh/UH ,/, what/WDT kind/NN of/IN news/NN normally/RB interests/VBZ you/PRP ,/,","{C And, } {F uh, } {F uh, } [ [ what, + what kind of, ] + {F uh, } what kind of ] news normally interests you, /"
+qw,A,"I/PRP mean/VBP what/WDT do/VBP you/PRP ,/, what/WDT ,/, what/WDT do/VBP you/PRP find/VB interesting/JJ --/:","{E I mean } [ what do you, + [ what, + what ] do you ] find interesting --"
+sd,B,Well/UH --/:,{D Well } --
++,A,--/: versus/IN what/WDT do/VBP you/PRP find/VB boring/JJ ?/.,-- versus what do you find boring? /
++,B,"--/: right/RB now/RB trying/VBG to/TO keep/VB abreast/RB of/IN ,/, uh/UH ,/, what/WP 's/BES going/VBG on/RP in/IN Europe/NNP ,/, you/PRP know/VBP ,/, with/IN all/PDT the/DT ,/, U/NNP S/NNP S/NNP R/NNP 's/POS satellites/NNS breaking/VBG off/RP ,/, trying/VBG to/TO become/VB independent/JJ and/CC ,/, you/PRP know/VBP ,/, European/JJ community/NN coming/VBG together/RB ./.","-- right now trying to keep abreast of, {F uh, } what's going on in Europe, {D you know, } with all the, U S S R's satellites breaking off, trying to become independent and, {D you know, } European community coming together. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"That/DT 's/BES going/VBG to/TO affect/VB our/PRP$ ,/, uh/UH ,/, economy/NN quite/RB a/DT bit/NN ./.","That's going to affect our, {F uh, } economy quite a bit. /"
+aa,A,"I/PRP think/VBP it/PRP will/MD ,/,","I think it will, - /"
+sd,A,"uh/UH ,/, they/PRP ,/, they/PRP keep/VBP claiming/VBG it/PRP 's/BES going/VBG to/TO have/VB a/DT big/JJ influence/NN ,/,","{F uh, } [ they, + they ] keep claiming it's going to have a big influence, /"
+sd,A,but/CC we/PRP 've/VBP yet/RB to/TO see/VB it/PRP,{C but } we've yet to see it /
+%,A,"and/CC th-/XX ,/,","{C and } th-, - /"
+sd,A,"it/PRP 's/BES real/RB short/JJ term/NN yet/RB ,/, though/RB ,/,","it's real short term yet, though, /"
+sd,A,"I/PRP mean/VBP ,/, it/PRP 's/HVS only/RB been/VBN ,/, three/CD months/NNS or/CC something/NN like/IN that/DT --/:","{E I mean, } it's only been, three months or something like that --"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,--/: since/IN that/IN happened/VBD,-- since that happened /
+%,A,"so/RB ,/,","{D so, } -/"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,But/CC they/PRP like/VBP to/TO tell/VB us/PRP that/IN it/PRP 's/BES going/VBG to/TO be/VB important/JJ ./.,{C But } they like to tell us that it's going to be important <laughter>. /
+sv,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP pretty/RB sure/JJ it/PRP is/VBZ ,/, because/IN ,/, uh/UH --/:","[ I'm, + I'm ] pretty sure it is, because, {F uh } --"
+aa,A,"I/PRP think/VBP it/PRP is/VBZ ,/, too/RB ./.","I think it is, too. /"
++,B,"--/: once/RB ,/, once/RB Europe/NNP becomes/VBZ unified/JJ and/CC ,/, uh/UH ,/, their/PRP$ economy/NN becomes/VBZ one/CD big/JJ economy/NN we/PRP 're/VBP going/VBG to/TO be/VB ,/, uh/UH ,/, kind/RB of/RB hurting/VBG ./.","-- [ once, + once ] Europe becomes unified and, {F uh, } their economy becomes one big economy we're going to be, {F uh, } kind of hurting <laughter>. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"I/PRP ,/, I/PRP think/VBP that/DT 's/BES a/DT possibility/NN ,/,","[ I, + I ] think that's a possibility, - /"
+sv,A,"uh/UH ,/, it/PRP ,/, we/PRP might/MD also/RB be/VB helped/VBN ,/, though/RB ,/, because/IN it/PRP ,/, it/PRP will/MD be/VB easier/JJR to/TO do/VB business/NN over/IN there/RB ,/, too/RB ./.","{F uh, } [ it, + we ] might also be helped, though, because [ it, + it ] will be easier to do business over there, too. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,definitely/UH ./.,definitely. /
+sv,A,For/IN the/DT companies/NNS that/WDT already/RB have/VBP a/DT presence/NN over/IN there/RB,For the companies that already have a presence over there /
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP know/VBP of/IN at/IN least/JJS one/CD company/NN that/WDT specifically/RB went/VBD over/IN there/RB and/CC established/VBD a/DT presence/NN before/IN nineteen/CD ninety-two/CD so/IN that/IN they/PRP would/MD have/VB it/PRP when/WRB it/PRP --/:","{C and, } {F uh, } I know of at least one company that specifically went over there and established a presence before nineteen ninety-two so that they would have it when it --"
+b,B,"Oh/UH ,/, yeah/UH --/:","{F Oh, } yeah -- /"
++,A,--/: came/VBD time/NN ./.,-- came time. /
+bf,B,"--/: so/RB they/PRP have/VBP a/DT toe/NN hold/NN ,/,","-- so they have a toe hold, /"
+bf,B,I/PRP good/JJ toe/NN hold/NN ./.,I good toe hold. /
+aa,A,Yep/UH ./.,Yep. /
+sv,A,"Because/IN once/RB you/PRP 're/VBP in/IN there/RB ,/, then/RB you/PRP can/MD easily/RB expand/VB ./.","{C Because } once you're in there, then you can easily expand. /"
+sv,A,But/CC getting/VBG in/IN after/IN nineteen/CD ninety-two/CD is/VBZ more/RBR difficult/JJ ./.,{C But } getting in after nineteen ninety-two is more difficult. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"because/IN ,/, when/WRB they/PRP first/RB start/VBP off/RP ,/, they/PRP 're/VBP going/VBG to/TO be/VB highly/RB protectionist/JJ","{C because, } when they first start off, they're going to be highly protectionist /"
+%,B,"so/RB ,/,","{D so, } -/"
+aa,A,Yes/UH ./.,Yes. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC there/EX 's/BES already/RB a/DT lot/NN of/IN evidence/NN that/IN they/PRP are/VBP being/VBG very/RB protectionist/JJ ,/,","{C And } there's already a lot of evidence that they are being very protectionist, /"
+sv,A,"even/RB amongst/IN themselves/PRP ,/, they/PRP 're/VBP being/VBG somewhat/RB protectionist/JJ ,/, you/PRP know/VBP ./.","even amongst themselves, they're being somewhat protectionist, {D you know. } /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Like/IN ,/, England/NNP does/VBZ n't/RB want/VB to/TO do/VB one/CD thing/NN","{D Like, } England doesn't want to do one thing /"
+sd,A,"and/CC ,/, and/CC Sweden/NNP does/VBZ n't/RB want/VB to/TO do/VB other/JJ thing/NN","[ {C and, } + {C and } ] Sweden doesn't want to do other thing /"
+sv,A,"and/CC they/PRP 're/VBP ,/, they/PRP 've/VBP all/DT got/VBN their/PRP$ own/JJ reasons/NNS which/WDT have/VBP to/TO be/VB resolved/JJ yet/RB ./.","{C and } [ they're, + they've ] all got their own reasons which have to be resolved yet. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"And/CC some/DT of/IN it/PRP ,/, I/PRP mean/VBP ,/, is/VBZ ,/,","{C And } some of it, {E I mean, } is, - /"
+sd,A,"I/PRP 'm/VBP sure/JJ within/IN those/DT people/NNS 's/POS minds/NNS ,/, it/PRP 's/BES quite/RB justified/JJ ./.","I'm sure within those people's minds, it's quite justified. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP ,/, I/PRP can/MD understand/VBP their/PRP$ viewpoint/NN ,/,","[ I, + I ] can understand their viewpoint, /"
+sd,B,"they/PRP 're/VBP just/RB ,/, they/PRP 're/VBP starting/VBG off/RP ,/,","[ they're just, + they're ] starting off, /"
+sd,B,"their/PRP$ economy/NN 's/BES a/DT little/JJ bit/NN weak/JJ ,/,","their economy's a little bit weak, /"
+sd,B,so/RB you/PRP want/VBP to/TO --/:,{C so } you want to --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: get/VB established/JJ before/IN they/PRP --/:,-- get established before they --
+^2,A,Before/IN they/PRP --/:,Before they --
++,B,"--/: com-/XX ,/,","-- com-, -/"
++,A,--/: open/VBP up/RP their/PRP$ borders/NNS to/IN everyone/NN ./.,-- open up their borders to everyone. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,totally/UH ./.,totally. /
+qw,A,"Uh/UH ,/, what/WP is/VBZ the/DT ,/, uh/UH ,/,","{F Uh, } what is the, {F uh, } - /"
+qy,A,do/VBP you/PRP watch/VB anything/NN like/IN with/IN sports/NNS or/CC anything/NN like/IN that/DT ?/.,do you watch anything {D like } with sports or anything like that? /
+^h,B,Actually/RB I/PRP 'm/VBP not/RB really/RB into/IN sports/NNS ./.,{D Actually } I'm not really into sports. /
+^h,B,"My/PRP$ roommates/NNS are/VBP ,/,","My roommates are, /"
+sd,B,"so/RB ,/, unfortunately/RB ,/, I/PRP forced/VBD to/TO watch/VB quite/RB a/DT bit/NN of/IN sports/NNS ./.","{C so, } unfortunately, I forced to watch quite a bit of sports. /"
+x,A,./.,<Laughter>.
+x,B,./.,<Laughter>.
+bf,A,Against/IN your/PRP$ will/NN ./.,Against your will. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"we/PRP have/VBP to/TO ,/, fight/VB over/IN the/DT remote/JJ control/NN ./.","we have to, fight over the remote control. /"
+b,A,"Yeah/UH ,/,","<Laughter> Yeah, /"
+sd,A,at/IN least/JJS you/PRP guys/NNS have/VBP a/DT remote/JJ control/NN ./.,at least you guys have a remote control. /
+x,B,./.,<Laughter>.
+sv,A,It/PRP 's/BES sometimes/RB better/JJR to/TO not/RB have/VB one/CD of/IN those/DT ./.,It's sometimes better to not have one of those. /
+sd,A,"Course/NN ,/, you/PRP can/MD always/RB mislocate/VB it/PRP ./.","Course, you can always [ mislocate it. +"
+x,B,./.,<Laughter>.
++,A,"Or/CC misplace/VB it/PRP ,/, I/PRP mean/VBP ,/, not/RB mislocate/VB it/PRP ,/, but/CC misplace/VB it/PRP","{E Or } misplace it, ] {E I mean, not mislocate it, but misplace it } /"
+%,A,"and/CC ,/,","{C and, } -/"

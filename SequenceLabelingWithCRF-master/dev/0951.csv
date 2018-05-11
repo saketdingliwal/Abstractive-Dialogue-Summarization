@@ -1,0 +1,200 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,Okay/UH ./.,Okay. /
+qo,A,"So/UH ,/, uh/UH ,/, what/WP do/VBP you/PRP think/VB about/IN it/PRP ?/.","{D So, } {F uh, } what do you think about it? /"
+sd,B,"Well/UH ,/, um/UH ,/, I/PRP guess/VBP I/PRP ,/, I/PRP 'm/VBP more/RBR concerned/JJ about/IN public/JJ safety/NN than/IN I/PRP am/VBP about/IN the/DT ,/, um/UH ,/, the/DT concern/NN for/IN the/DT private/JJ ,/, uh/UH ,/, the/DT idea/NN of/IN ,/,","{D Well, } {F um, } I guess [ I, + I'm ] more concerned about public safety than I am about [ the, + {F um, } the ] concern for the private, {F uh, } the idea of,"
+^2,A,Privacy/NN ./.,Privacy. /
++,B,"preserving/VBG privacy/NN for/IN ,/,","preserving privacy for,"
+b,A,Right/UH ./.,Right. /
++,B,"the/DT individual/NN ,/, um/UH ,/,","the individual, {F um, } /"
+sd,B,"because/IN I/PRP ca/MD n't/RB really/RB see/VB why/WRB anyone/NN ,/, um/UH ,/, who/WP has/VBZ nothing/NN to/TO hide/VB would/MD object/VB ./.","{C because } I can't really see why anyone, {F um, } who has nothing to hide would object. /"
+sd,A,"Well/UH ,/, there/EX is/VBZ always/RB the/DT ,/, uh/UH ,/, the/DT possibility/NN ,/, even/RB remote/JJ as/IN it/PRP is/VBZ ,/, of/IN ,/, uh/UH ,/, of/IN mistaken/JJ ,/, uh/UH ,/, of/IN ,/,","{D Well, } there is always [ the, + {F uh, } the ] possibility, even remote as it is, [ [ of, + {F uh, } of ] mistaken, + {F uh, } of, ] -/"
+ba,B,"That/DT 's/BES ,/, of/IN course/NN ,/, that/DT is/VBZ certainly/RB true/JJ ,/,","[ That's, + of course, that is ] certainly true, /"
+b,A,Yeah/UH ./.,Yeah. /
+b,B,yeah/UH ./.,yeah. /
+sd,A,And/CC see/VB that/DT bothers/VBZ me/PRP ./.,{C And } {D see } that bothers me. /
+sd,A,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP a/DT ,/, I/PRP mean/VBP ,/, I/PRP 'm/VBP ,/, I/PRP 'm/VBP very/RB much/RB for/IN drug/NN testing/NN ,/,","[ [ [ I'm, + I'm a, ] + {E I mean, } I'm, ] + I'm ] very much for drug testing, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"uh/UH ,/, I/PRP really/RB am/VBP ./.","{F uh, } I really am. /"
+oo_co_cc,A,"I/PRP mean/VBP ,/, I/PRP 'm/VBP going/VBG ,/, I/PRP 'm/VBP going/VBG to/TO take/VB the/DT negative/JJ side/NN just/RB for/IN a/DT second/NN ,/,","{E I mean, } [ I'm going, + I'm going ] to take the negative side just for a second,"
+b,B,Sure/UH ./.,Sure. /
++,A,just/RB to/TO do/VB it/PRP ./.,just to do it. /
+sd,A,"Um/UH ,/, see/UH ,/, I/PRP have/VBP to/TO take/VB ,/, uh/UH ,/, medication/NN for/IN a/DT ,/, uh/UH ,/, for/IN ,/, for/IN kidney/NN transplant/NN ./.","{F Um, } {D see, } I have to take, {F uh, } medication [ [ for a, + {F uh, } for, ] + for ] kidney transplant. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC I/PRP 'm/VBP going/VBG to/TO be/VB taking/VBG that/DT the/DT rest/NN of/IN my/PRP$ life/NN ./.,{C And } I'm going to be taking that the rest of my life. /
+%,A,"Now/UH ,/, you/PRP ,/,","{D Now, } you, -/"
+b,B,Sure/UH ./.,Sure. /
+sd,A,"I/PRP do/VBP n't/RB know/VB how/WRB that/DT 's/BES going/VBG to/TO affect/VB ,/, uh/UH ,/,","I don't know how that's going to affect, {F uh, } /"
+qy^d,B,If/IN you/PRP had/VBD to/TO have/VB a/DT drug/NN test/NN ?/.,If you had to have a drug test? /
+b,A,Right/UH ./.,Right. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,I/PRP mean/VBP I/PRP have/VBP n't/RB had/VBN one/CD yet/RB ./.,{E I mean } I haven't had one yet. /
+%,A,"Um/UH ,/, T/NNP I/NNP ,/,","{F Um, } T I, - /"
+sd,A,I/PRP work/VBP for/IN Texas/NNP Instruments/NNPS --/:,I work for Texas Instruments -- /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+sd,A,"--/: and/CC ,/, and/CC ,/, uh/UH ,/, we/PRP ,/, you/PRP know/VBP ,/, we/PRP do/VBP have/VB the/DT random/JJ drug/NN testing/NN","-- [ {C and, } + {C and, } ] {F uh, } [ we, + {D you know, } we ] do have the random drug testing /"
+sd,A,but/CC I/PRP 've/VBP missed/VBN it/PRP so/RB far/RB ./.,{C but } I've missed it so far. /
+sd,A,"But/CC I/PRP mean/VBP ,/, it/PRP ,/, in/IN the/DT back/NN of/IN my/PRP$ mind/NN ,/, it/PRP always/RB bothers/VBZ me/PRP ./.","{C But } {E I mean, } [ it, + in the back of my mind, it ] always bothers me. /"
+sd,A,"And/CC what/WP happens/VBZ if/IN it/PRP ,/, you/PRP know/VBP ,/, if/IN it/PRP ,/, if/IN they/PRP catch/VBP it/PRP ,/,","{C And } what happens [ [ if it, + {D you know, } if it, ] + if they ] catch it, /"
+sd,A,"they/PRP think/VBP that/IN I/PRP 'm/VBP ,/, you/PRP know/VBP ,/, I/PRP 'm/VBP on/IN drugs/NNS","they think that [ I'm, + {D you know, } I'm ] on drugs /"
+sd,A,"and/CC they/PRP send/VBP me/PRP and/CC ,/, and/CC have/VBP me/PRP ,/, uh/UH ,/, you/PRP know/VBP ,/, go/VB through/IN this/DT ,/, this/DT ,/,","{C and } they send me [ and, + and ] have me, {F uh, } {D you know, } go through [ this, + this, ]"
+^2,B,Checked/VBD out/RP or/CC whatever/WDT ./.,Checked out or whatever. /
++,A,"thing/NN ,/, you/PRP know/VBP ,/,","thing, {D you know, } /"
+b,A,yeah/UH ./.,yeah. /
+sd,B,"But/CC it/PRP seems/VBZ to/IN me/PRP that/IN there/EX are/VBP ways/NNS to/TO accommodate/VB that/DT ./. Um/UH ,/,","{C But } it seems to me that there are ways to accommodate that. {F Um, } /"
+sd,B,"I/PRP agree/VBP that/IN ,/, that/IN some/DT innocent/JJ person/NN might/MD be/VB victimized/VBN ,/,","I agree [ that, + that ] some innocent person might be victimized,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"by/IN a/DT false/JJ test/NN ,/,","by a false test, /"
+sv,B,"but/CC I/PRP would/MD think/VB that/IN ,/, um/UH ,/, that/IN some/DT guidelines/NNS could/MD be/VB set/VBN up/RP to/TO avoid/VB that/DT ./.","{C but } I would think [ that, + {F um, } that ] some guidelines could be set up to avoid that. /"
+sv,B,"For/IN example/NN ,/, that/DT one/CD ,/, uh/UH ,/, positive/JJ would/MD not/RB be/VB ,/, uh/UH ,/, accepted/VBN as/IN an/DT automatic/JJ ,/, um/UH ,/, reason/NN for/IN whatever/WDT they/PRP might/MD be/VB going/VBG ,/,","For example, that one, {F uh, } positive would not be, {F uh, } accepted as an automatic, {F um, } reason for whatever they might be going,"
+b,A,Right/UH ./.,Right. /
++,B,"to/TO do/VB if/IN they/PRP found/VBD a/DT positive/JJ ,/, uh/UH ,/, dismissal/NN or/CC treatment/NN or/CC whatever/WDT ,/, but/CC that/IN ,/, that/IN what/WP it/PRP would/MD do/VB is/VBZ it/PRP would/MD trigger/VB ,/, perhaps/RB ,/, uh/UH ,/, one/CD or/CC two/CD more/JJR stages/NNS where/WRB further/JJR tests/NNS could/MD be/VB ta-/XX ,/, uh/UH ,/, done/VBN ./.","to do if they found a positive, {F uh, } dismissal or treatment or whatever, {C but } [ that, + that ] what it would do is it would trigger, perhaps, {F uh, } one or two more stages where further tests could be [ ta-, + ] {F uh, } done. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Because/IN ,/, um/UH ,/, there/EX are/VBP ,/, there/EX must/MD be/VB people/NNS like/IN you/PRP ,/, or/CC in/IN other/JJ circumstances/NNS ,/, that/WDT could/MD come/VB up/RP with/IN ,/, with/IN ,/, uh/UH ,/, false/JJ positives/NNS for/IN certain/JJ kind/NN of/IN drugs/NNS ./.","{C Because, } {F um, } [ there are, + there must ] be people like you, or in other circumstances, that could come up [ with, + with, ] {F uh, } false positives for certain kind of drugs. /"
+sv,B,"On/IN the/DT other/JJ hand/NN ,/, um/UH ,/, I/PRP think/VBP there/EX 's/BES certainly/RB some/DT professions/NNS that/WDT ought/MD to/TO be/VB tested/VBN --/:","On the other hand, {F um, } I think there's certainly some professions that ought to be tested --"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,B,"--/: because/IN of/IN the/DT ,/, of/IN their/PRP$ responsibility/NN for/IN the/DT public/JJ welfare/NN ,/, and/CC certainly/RB people/VB in/IN ,/, uh/UH ,/, industries/NNS ,/, well/UH ,/, the/DT transportation/NN industry/NN ,/,","-- because [ of the, + of their ] responsibility for the public welfare, and certainly people in, {F uh, } industries, {D well, } the transportation industry,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"for/IN spe-/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, specifically/RB ./.","[ for spe-, + {F uh, } {D you know, } specifically. ] /"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,B,"But/CC ,/, um/UH ,/, in/IN many/JJ ,/, many/JJ cases/NNS whether/IN or/CC not/RB an/DT individual/NN has/VBZ a/DT problem/NN with/IN drugs/NNS ,/, it/PRP 's/BES not/RB even/RB going/VBG to/TO effect/VB anybody/NN but/CC his/PRP$ ,/, uh/UH ,/, you/PRP know/VBP ,/, himself/PRP and/CC his/PRP$ own/JJ family/NN ,/, perhaps/RB ,/, um/UH ,/, depending/VBG on/IN the/DT kind/NN of/IN drug/NN he/PRP might/MD be/VB on/IN ./.","{C But, } {F um, } in [ many, + many ] cases whether or not an individual has a problem with drugs, it's not even going to effect anybody but [ his, + {F uh, } {D you know, } himself ] and his own family, perhaps, {F um, } depending on the kind of drug he might be on. /"
+b,A,Right/UH ./.,Right. /
+sv,B,"But/CC ,/, um/UH ,/, and/CC eventually/RB that/DT 's/BES going/VBG to/TO show/VB up/RP anyway/RB in/IN the/DT way/NN he/PRP works/VBZ ,/,","{C But, } {F um, } {C and } eventually that's going to show up anyway in the way he works,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,and/CC so/RB on/IN ./.,and so on. /
+sv,B,But/CC there/EX 's/BES so/RB many/JJ things/NNS that/WDT it/PRP would/MD make/VB a/DT difference/NN ./.,{C But } there's so many things that it would make a difference. /
+sd,B,"I/PRP guess/VBP I/PRP ,/, I/PRP ,/, uh/UH ,/, I/PRP would/MD not/RB want/VB to/TO have/VB anyone/NN in/IN my/PRP$ family/NN ,/, uh/UH ,/, victimized/VBN by/IN someone/NN who/WP ,/, you/PRP know/VBP ,/, a/DT ,/, a/DT bus/NN driver/NN or/CC a/DT train/NN engineer/NN or/CC something/NN like/IN that/DT ,/, who/WP ,/, um/UH ,/, you/PRP know/VBP ,/, had/VBD n't/RB been/VBN tested/VBN ./.","I guess [ [ I, + I, ] + {F uh, } I ] would not want to have anyone in my family, {F uh, } victimized by [ someone who, + {D you know, } [ a, + a ] bus driver or a train engineer or something like that, who, ] {F um, } {D you know, } hadn't been tested. /"
+b,A,Right/UH ./.,Right. /
+sd,A,"Well/UH ,/, I/PRP ,/, you/PRP know/VBP ,/, I/PRP 'm/VBP ,/, like/IN I/PRP said/VBD ,/, I/PRP 'm/VBP ,/, I/PRP 'm/VBP very/RB much/RB pro/JJ testing/NN ,/, um/UH ,/,","{D Well, } [ [ I, + {D you know, } I'm, ] + {D like } I said, [ I'm, + I'm ] ] very much pro testing, {F um, } /"
+sd,A,"and/CC ,/, and/CC this/DT is/VBZ why/WRB ./.","[ {C and, } + {C and } ] this is why. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Uh/UH ,/, number/NN one/CD is/VBZ I/PRP ,/, I/PRP 'm/VBP ,/, I/PRP 'm/VBP kind/RB of/RB ,/,","{F Uh, } number one is [ [ I, + I'm, ] + I'm ] kind of, - /"
+sd,A,"I/PRP know/VBP this/DT sounds/VBZ like/IN a/DT slogan/NN for/IN the/DT government/NN ,/,","I know this sounds like a slogan for the government, /"
+sd,A,"but/CC I/PRP ,/, you/PRP know/VBP ,/, we/PRP are/VBP in/IN a/DT war/NN against/IN ,/,","{C but } [ I, + {D you know, } we ] are in a war against,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,drugs/NNS ./.,drugs. /
+sv,A,I/PRP mean/VBP --/:,{E I mean } --
+b,B,Sure/UH ./.,Sure. /
++,A,"--/: it/PRP 's/BES ,/, it/PRP 's/BES horrible/JJ ./.","-- [ it's, + it's ] horrible. /"
+sv,A,"I/PRP mean/VBP ,/, you/PRP do/VBP n't/RB know/VB whether/IN the/DT person/NN sitting/VBG next/RB to/IN you/PRP --/:","{E I mean, } you don't know whether the person sitting next to you --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: anywhere/RB is/VBZ on/IN drugs/NNS or/CC not/RB ,/,","-- anywhere is on drugs or not, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,and/CC it/PRP takes/VBZ some/DT drastic/JJ steps/NNS at/IN this/DT point/NN ./.,{C and } it takes some drastic steps at this point. /
+sv,A,"And/CC I/PRP think/VBP ,/, personally/RB ,/, the/DT drastic/JJ step/NN has/VBZ to/TO be/VB that/IN ,/, um/UH ,/, that/IN you/PRP ca/MD n't/RB work/VB if/IN you/PRP continue/VBP taking/VBG drugs/NNS ./.","{C And } I think, personally, the drastic step has to be [ that, + {F um, } that ] you can't work if you continue taking drugs. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"I/PRP mean/VBP ,/, it/PRP 's/BES as/RB simple/JJ as/IN that/DT ./.","{E I mean, } it's as simple as that. /"
+sv,A,"I/PRP mean/VBP ,/, make/VB it/PRP so/RB ,/,","{E I mean, } [ [ make it so, +"
+^2,B,Make/VBP it/PRP difficult/JJ enough/RB ./.,Make it difficult enough. /
++,A,"Well/UH ,/, make/VB it/PRP ,/, uh/UH ,/, ma-/XX ,/, not/RB necessarily/RB difficult/JJ ,/,","{D Well, } make it, ] + {F uh, } ma-, ] not necessarily difficult, /"
+sv,A,but/CC make/VB it/PRP so/IN that/IN it/PRP 's/BES not/RB glamorous/JJ ./.,{C but } make it so that it's not glamorous. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sv,A,"I/PRP mean/VBP ,/, it/PRP 's/BES glamorous/JJ taking/VBG drugs/NNS ,/,","{E I mean, } it's glamorous taking drugs, /"
+sv,A,or/CC at/IN least/JJS it/PRP seems/VBZ that/DT way/NN ./.,{C or } at least it seems that way. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+^2,B,"according/VBG to/IN what/WP you/PRP ,/,","according to what [ you, +"
+aa,A,Yeah/UH ./.,Yeah. /
++,B,you/PRP hear/VBP ./.,you ] hear. /
+sv,B,"The/DT people/NNS who/WP ,/, um/UH ,/, have/VBP serious/JJ problems/NNS ,/, I/PRP mean/VBP ,/,","The people who, {F um, } have serious problems, {E I mean, } - /"
+%,B,"we/PRP have/VBP ,/, um/UH ,/,","we have, {F um, } - /"
+sv,B,really/RB I/PRP guess/VBP we/PRP 're/VBP kind/RB of/RB lucky/JJ ./.,{D really } I guess we're kind of lucky. /
+sd,B,"We/PRP really/RB only/RB know/VBP of/IN one/CD ,/, uh/UH ,/, young/JJ man/NN who/WP ,/, uh/UH ,/, who/WP 's/BES a/DT fam-/XX ,/,","We really only know of one, {F uh, } young man [ who, + {F uh, } who's ] a fam-, - /"
+sd,B,"they/PRP go/VBP to/IN our/PRP$ church/NN ,/,","they go to our church, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"and/CC it/PRP 's/BES the/DT son/NN and/CC so/RB on/IN ,/,","{C and } it's the son and so on, /"
+sd,B,"and/CC he/PRP was/VBD friends/NNS with/IN my/PRP$ children/NNS um/UH ,/,","{C and } he was friends with my children <swallowing> {F um, } /"
+sd,B,"and/CC he/PRP 's/BES really/RB the/DT only/RB one/NN that/WDT I/PRP know/VBP of/IN personally/RB who/WP got/VBD himself/PRP really/RB messed/JJ up/RP ,/, um/UH ,/, ha/VBG ,/, having/VBG been/VBN involved/JJ with/IN drugs/NNS ./.","{C and } he's really the only one that I know of personally who got himself really messed up, {F um, } [ ha-, + having ] been involved with drugs. /"
+sd,B,"But/CC I/PRP know/VBP of/IN a/DT number/NN of/IN other/JJ people/NNS who/WP have/VBP ,/, you/PRP know/VBP ,/, gotten/VBN all/DT messed/JJ up/RP ./.","{C But } I know of a number of other people who have, {D you know, } gotten all messed up. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,Most/JJS of/IN these/DT are/VBP young/JJ people/NNS ./.,Most of these are young people. /
+sd,B,I/PRP work/VBP in/IN the/DT education/NN system/NN,I work in the education system /
+sd,B,and/CC so/RB I/PRP have/VBP a/DT little/RB more/JJR contact/NN with/IN that/DT ./.,{C and so } I have a little more contact with that. /
+sd,B,"But/CC ,/, um/UH ,/, the/DT effect/NN that/WDT it/PRP 's/HVS had/VBN on/IN this/DT young/JJ man/NN 's/POS life/NN is/VBZ so/RB dramatic/JJ that/IN it/PRP 's/BES heartbreaking/JJ --/:","{C But, } {F um, } the effect that it's had on this young man's life is so dramatic that it's heartbreaking -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,--/: and/CC he/PRP may/MD never/RB really/RB be/VB a/DT productive/JJ member/NN of/IN society/NN ./.,-- {C and } he may never really be a productive member of society. /
+sv,B,"But/CC sadder/JJR than/IN that/DT ,/, he/PRP may/MD never/RB be/VB able/JJ to/TO have/VB a/DT normal/JJ ,/, happy/JJ life/NN because/IN it/PRP has/VBZ strung/VBN him/PRP out/RP so/IN that/IN he/PRP has/VBZ anxieties/NNS now/RB that/WDT are/VBP ,/, are/VBP almost/RB uncontrollable/JJ ./.","{C But } sadder than that, he may never be able to have a normal, happy life because it has strung him out so that he has anxieties now that [ are, + are ] almost uncontrollable. /"
+sd,B,"I/PRP mean/VBP ,/, he/PRP ,/, he/PRP puts/VBZ himself/PRP in/IN the/DT hospital/NN fairly/RB regularly/RB thinking/VBG that/IN ,/, you/PRP know/VBP ,/, he/PRP ,/, he/PRP 's/BES not/RB sure/JJ if/IN he/PRP 's/BES going/VBG try/VB to/TO commit/VB suicide/NN or/CC not/RB ./.","{E I mean, } [ he, + he ] puts himself in the hospital fairly regularly thinking that, {D you know, } [ he, + he's ] not sure if he's going try to commit suicide or not. /"
+b,A,Huh/UH ./.,Huh. /
+sv,B,"I/PRP mean/VBP ,/, he/PRP 's/BES ,/, you/PRP know/VBP ,/, he/PRP 's/BES so/RB messed/JJ up/RP ./.","{E I mean, } [ he's, + {D you know, } he's ] so messed up. /"
+b,A,Right/UH ./.,Right. /
+sd,B,"And/CC ,/, um/UH ,/, this/DT was/VBD a/DT nice/JJ ,/, sweet/JJ ,/, young/JJ man/NN who/WP ,/, teenager/NN ,/, you/PRP know/VBP ,/,","{C And, } {F um, } this was a nice, sweet, young man who, teenager, {D you know, } - /"
+sd,B,"and/CC he/PRP 's/BES now/RB a/DT young/JJ man/NN about/RB twenty/CD ,/, I/PRP guess/VBP ,/, who/WP ,/, um/UH ,/, just/RB got/VBD really/RB down/IN the/DT wrong/JJ path/NN ./.","{C and } he's now a young man about twenty, I guess, who, {F um, } just got really down the wrong path. /"
+b,A,Right/UH ./.,Right. /
+sd,B,"And/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, I/PRP do/VBP n't/RB know/VB that/IN ,/, that/IN his/PRP$ problem/NN would/MD ever/RB have/VB been/VBN detected/VBN by/IN drug/NN testing/NN ./.","{C And, } {F uh, } {D you know, } I don't know [ that, + that ] his problem would ever have been detected by drug testing. /"
+sd,B,"But/CC seeing/VBG what/WP drugs/NNS did/VBD to/IN him/PRP makes/VBZ me/PRP see/VB ,/, makes/VBZ me/PRP realize/VB what/WP it/PRP could/MD do/VB to/IN people/NNS ,/, you/PRP know/VBP ,/, in/IN the/DT work/NN force/NN as/IN well/RB ./.","{C But } seeing what drugs did to him [ makes me see, + makes me realize ] what it could do to people, {D you know, } in the work force as well. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Um/UH ,/, it/PRP 's/BES horrible/JJ ./.","{F Um, } it's horrible. /"
+%,A,"Well/UH ,/, then/RB ,/,","{D Well, } then, - /"
+ad,A,"let/VB 's/PRP ,/, let/VB 's/PRP answer/VB the/DT second/JJ half/NN of/IN the/DT question/NN ./.","[ let's, + let's ] answer the second half of the question. /"
+qw,A,"What/WDT limits/NNS ought/MD to/TO be/VB put/VBN on/IN it/PRP ,/, do/VBP you/PRP think/VB ?/.","What limits ought to be put on it, do you think? /"
+sv,B,"Well/UH ,/, the/DT limits/NNS ,/, uh/UH ,/, uh/UH ,/, would/MD ,/, I/PRP think/VBP ,/, have/VB to/TO do/VB with/IN what/WP I/PRP 'd/VBD alluded/VBN to/TO before/RB ,/, that/IN there/EX needs/VBZ to/TO be/VB a/DT further/RBR ,/, um/UH ,/, that/DT ,/, that/DT one/CD positive/JJ on/IN a/DT drug/NN test/NN ,/,","{D Well, } the limits, {F uh, } {F uh, } would, I think, have to do with what I'd alluded to before, [ that there needs to be a further, + {F um, } [ that, + that ] one positive ] on a drug test,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"would/MD not/RB constitute/VB ,/, uh/UH ,/, dismissal/NN or/CC grounds/NNS for/IN whatever/WDT the/DT company/NN or/CC agency/NN might/MD ,/, uh/UH ,/, have/VB set/VBN up/RP for/IN those/DT who/WP genuinely/RB have/VBP a/DT problem/NN ./.","would not constitute, {F uh, } dismissal or grounds for whatever the company or agency might, {F uh, } have set up for those who genuinely have a problem. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"In/IN other/JJ words/NNS ,/, there/EX needs/VBZ to/TO be/VB ,/, um/UH ,/, more/RBR than/IN ,/,","In other words, there needs to be, {F um, } more than, -/"
+^2,A,Treatment/NN before/IN for/IN dismissal/NN type/NN thing/NN ./.,Treatment before for dismissal type thing. /
+%,B,"Pard-/UH ,/,","Pard-, - /"
+aa,B,"yes/UH ,/,","yes, /"
+b,B,"right/UH ,/,","right, /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"there/EX needs/VBZ to/TO be/VB more/JJR than/IN one/CD test/NN ,/,","there needs to be more than one test, /"
+sv,B,"and/CC there/EX needs/VBZ to/TO be/VB some/DT ,/, some/DT measure/NN of/IN ,/, uh/UH ,/, certainty/NN before/IN anything/NN drastic/JJ happens/VBZ ./.","{C and } there needs to be [ some, + some ] measure of, {F uh, } certainty before anything drastic happens. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"There/EX are/VBP lots/NNS of/IN things/NNS that/WDT are/VBP involved/JJ there/RB ,/, um/UH ,/, such/IN as/IN ,/, perhaps/RB ,/, insurance/NN --/:","There are lots of things that are involved there, {F um, } such as, perhaps, [ insurance -- +"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: uh/UH ,/, you/PRP know/VBP ,/, denial/NN of/IN insurance/NN for/IN someone/NN ,/, um/UH ,/,","-- {F uh, } {D you know, } denial of insurance ] for someone, {F um, } /"
+sv,B,"and/CC undoubtedly/RB there/EX are/VBP people/NNS who/WP would/MD be/VB victimized/VBN by/IN this/DT ,/, um/UH ,/, that/WDT would/MD ,/, that/IN ,/, you/PRP know/VBP ,/,","{C and } undoubtedly there are people who would be victimized by this, {F um, } [ that would, + that, ] {D you know, } - /"
+sv,B,"it/PRP would/MD be/VB unfair/JJ ,/,","it would be unfair, /"
+sv,B,"and/CC people/NNS who/WP are/VBP on/IN medication/NN ,/, for/IN example/NN ,/, or/CC ,/, um/UH ,/, even/RB people/NNS who/WP might/MD be/VB of/IN the/DT gay/JJ community/NN ,/,","{C and } people who are on medication, for example, or, {F um, } even people who might be of the gay community, - /"
+sv,B,"and/CC I/PRP 'm/VBP not/RB an/DT advocate/NN for/IN that/DT particular/JJ segment/NN of/IN society/NN ,/,","{C and } I'm not an advocate for that particular <laughter> segment of society, /"
+sv,B,"but/CC ,/, um/UH ,/, I/PRP think/VBP that/IN there/EX does/VBZ n't/RB need/VB to/TO be/VB fuel/NN to/IN the/DT fire/NN for/IN discrimination/NN --/:","{C but, } {F um, } I think that there doesn't need to be fuel to the fire for discrimination --"
+b,A,Right/UH ./.,Right. /
+sv,B,"because/IN it/PRP makes/VBZ a/DT bigger/JJR problem/NN ./. Um/UH ,/,","{C because } it makes a bigger problem. {F Um, } /"
+sv,B,"so/RB it/PRP seems/VBZ to/IN me/PRP that/IN ,/, that/IN ,/, um/UH ,/, there/EX needs/VBZ to/TO be/VB some/DT ground/NN ,/, you/PRP know/VBP ,/, some/DT rules/NNS --/:","{C so } it seems to me [ that, + that, ] {F um, } there needs to be [ some ground, + {D you know, } some rules ] --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: that/WDT protect/VBP ./.,-- that protect. /
+sv,B,"I/PRP 'm/VBP not/RB sure/JJ ,/, though/RB ,/, when/WRB we/PRP talk/VBP about/IN what/WDT rules/NNS ,/, if/IN any/DT ,/, that/IN we/PRP should/MD say/VB ,/, well/UH ,/, certain/JJ segments/NNS should/MD not/RB have/VB to/TO be/VB tested/VBN ./.","I'm not sure, though, when we talk about what rules, if any, that we should say, {D well, } certain segments should not have to be tested. /"
+sd,B,"I/PRP really/RB do/VBP n't/RB see/VB why/WRB ,/,","I really don't see why, /"
+sd,A,"Personally/RB ,/, I/PRP think/VBP that/DT 's/BES what/WP I/PRP was/VBD about/RB to/TO say/VB --/:","Personally, I think that's what I was about to say --"
+b,B,"And/CC ,/, yeah/UH ./.","{C And, } yeah. /"
++,A,--/: is/VBZ that/IN everyone/NN needs/VBZ to/TO be/VB tested/VBN ./.,-- is that everyone needs to be tested. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP do/VBP n't/RB ,/,","[ I don't, +"
+%,A,"It/PRP ,/, you/PRP know/VBP ,/,","It, {D you know, } -/"
++,B,"I/PRP do/VBP n't/RB know/VB why/WRB it/PRP would/MD be/VB ,/, you/PRP know/VBP ,/, uh/UH ,/, bad/JJ to/TO test/VB just/RB every-/NN ,/,","I don't ] know why it would be, {D you know, } {F uh, } bad to test just every-, /"
+sv,B,"and/CC it/PRP may/MD be/VB ,/, you/PRP know/VBP ,/,","{C and } it may be, {D you know, } - /"
+sv,B,"it/PRP 's/BES not/RB feasible/JJ to/TO do/VB everyone/NN ,/,","it's not feasible to do everyone, /"
+sv,B,"but/CC certainly/RB random/JJ testing/NN ,/, the/DT fact/NN that/IN people/NNS know/VBP that/IN ,/, that/IN they/PRP ,/,","{C but } certainly random testing, the fact that people know [ that, + that ] they, -/"
+^2,A,That/IN it/PRP could/MD happen/VB ./.,That it could happen. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,would/MD be/VB some/DT measure/NN of/IN protection/NN ./.,would be some measure of protection. - /
+sv,B,"But/CC the/DT bottom/NN line/NN is/VBZ that/IN ,/, that/IN if/IN ,/, if/IN you/PRP 're/VBP going/VBG to/TO stay/VB clean/JJ and/CC straight/JJ ,/, then/RB ,/, um/UH ,/, you/PRP 're/VBP ,/, you/PRP 're/VBP going/VBG to/TO do/VB that/DT because/IN you/PRP want/VBP to/TO ./.","{C But } the bottom line is [ that, + that ] [ if, + if ] you're going to stay clean and straight, <laughter> then, {F um, } [ you're, + you're ] going to do that because you want to. /"
+b,A,Right/UH ./.,Right. /
+b,B,Really/UH ./.,Really. /
+sv,A,"Well/UH ,/, there/EX 's/BES ,/, yeah/UH ,/, there/EX ,/, there/EX 's/BES going/VBG to/TO be/VB some/DT measure/NN of/IN incentive/NN ,/, uh/UH ,/, reward/NN or/CC whatever/WDT ,/,","{D Well, } [ [ there's, + {D yeah, } there, ] + there's ] going to be some measure of incentive, {F uh, } reward or whatever, /"
+sv,A,but/CC the/DT reward/NN ultimately/RB comes/VBZ down/IN to/IN what/WP you/PRP want/VBP ./.,{C but } the reward ultimately comes down to what you want. /
+b,B,Yeah/UH ./.,Yeah. /
+aa,A,"So/RB I/PRP ,/, I/PRP 've/VBP got/VBN to/TO agree/VB with/IN that/DT ./.","{C So } [ I, + I've ] got to agree with that. /"
+x,B,./.,<Cough>.
+%,A,"So/UH ,/, um/UH ,/,","{D So, } {F um, } -/"
+ba,B,That/DT 's/BES very/RB true/JJ ./.,That's very true. /
+%,A,Um/UH ./.,{F Um. } /
+sv,B,"Well/UH ,/, it/PRP sounds/VBZ like/IN we/PRP agree/VBP ,/, anyway/RB ./.","{D Well, } it sounds like we agree, anyway. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,I/PRP think/VBP so/RB ./.,I think so. /
+x,B,./.,<Laughter>.
+sv,A,"I/PRP think/VBP we/PRP ,/, I/PRP think/VBP we/PRP did/VBD pretty/RB good/RB ./.","[ I think we, + I think we ] did pretty good. /"
+b,B,Yeah/UH ./.,Yeah. /
+b,A,"Well/UH ,/, all/RB right/JJ ,/,","{D Well, } all right, /"
+sv,A,"well/UH ,/, uh/UH ,/, I/PRP guess/VBP that/DT 's/BES about/RB it/PRP ./.","{D well, } {F uh, } I guess that's about it. /"
+sv,B,I/PRP guess/VBP if/IN that/DT 's/BES all/DT we/PRP 've/VBP done/VBN,I guess if that's all we've done /
+sv,B,and/CC I/PRP guess/VBP we/PRP 've/VBP talked/VBN long/RB enough/RB ./.,{C and } I guess we've talked long enough. /
+b,A,All/RB right/JJ ./.,All right. /
+fc,B,It/PRP was/VBD nice/RB talking/VBG to/IN you/PRP ./.,It was nice talking to you. /
+fc,A,"It/PRP was/VBD ,/, it/PRP was/VBD talk/NN ,/, nice/JJ talking/VBG to/IN you/PRP ,/, too/RB ./.","[ It was, + it was ] [ talk, + nice talking ] to you, too. /"
+fc,B,"Okay/UH ,/,","Okay, /"
+fc,B,bye-bye/UH ./.,bye-bye. /
+fc,A,"All/RB right/JJ ,/,","All right, /"
+fc,A,bye-bye/UH ./.,bye-bye. /

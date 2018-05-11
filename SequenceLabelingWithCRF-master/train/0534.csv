@@ -1,0 +1,116 @@
+act_tag,speaker,pos,text
+qw,A,What/WDT kind/NN of/IN books/NNS do/VBP you/PRP like/IN best/JJS ?/.,What kind of books do you like best? /
+sd,B,"Well/UH ,/, I/PRP alternate/JJ between/IN Danielle/NNP Steele/NNP is/VBZ one/CD of/IN my/PRP$ very/JJ favorites/NNS","{D Well, } I alternate between Danielle Steele <laughter> is one of my very favorites /"
+sd,B,"and/CC ,/, uh/UH ,/, then/RB I/PRP try/VBP to/TO go/VB into/IN one/CD of/IN the/DT self/NN improvement/NN books/NNS ./.","[ {C and, } + {F uh, } {C then } ] I try to go into one of the self improvement books. /"
+sd,B,"Uh/UH ,/, we/PRP ,/, we/PRP take/VBP books/NNS every/DT once/RB in/IN a/DT while/NN in/IN our/PRP$ Sunday/NNP school/NN class/NN and/CC go/VBP through/IN them/PRP ./.","{F Uh, } [ we, + we ] take books every once in a while in our Sunday school class and go through them. /"
+sd,B,"Uh/UH ,/, I/PRP love/VBP Scott/NNP Peck/NNP and/CC his/PRP$ ROAD/NN LESS/JJ TRAVELED/VBD ./.","{F Uh, } I love Scott Peck and his ROAD LESS TRAVELED. /"
+b,A,"Huh/UH ,/, yeah/UH ,/,","{F Huh, } yeah, /"
+sd,A,I/PRP 've/VBP heard/VBN of/IN that/DT one/CD ./.,I've heard of that one. /
+sd,A,I/PRP --/:,I --
+sd,B,"Oh/UH ,/, it/PRP is/VBZ --/:","{F Oh, } [ it is -- +"
++,A,--/: do/VBP n't/RB think/VB I/PRP 've/VB read/VBN it/PRP ./.,-- don't think I've read it. /
++,B,--/: it/PRP is/VBZ wonderful/JJ ./.,-- it is ] wonderful. /
+sd,B,"I/PRP ,/, I/PRP thoroughly/RB enjoyed/VBD that/DT ./.","[ I, + I ] thoroughly enjoyed that. /"
+qw,B,What/WDT do/VBP you/PRP read/VB ?/.,What do you read? /
+sd,A,"Well/UH ,/, uh/UH ,/, I/PRP 'm/VBP a/DT Tom/NNP Clancy/NNP fan/NN ./.","{D Well, } {F uh, } I'm a Tom Clancy fan. /"
+bk,B,Okay/UH ./.,Okay. /
+sd,A,"And/CC I/PRP read/VBD ,/,","{C And } I read, - /"
+sd,A,"I/PRP just/RB finished/VBD a/DT book/NN on/IN Novelle/NNP Netware/NNP ,/, uh/UH ,/,","I just finished a book on Novelle Netware, {F uh, } /"
+sd,A,that/DT 's/BES computer/NN stuff/NN ./.,that's computer stuff. /
+sd,A,I/PRP do/VBP a/DT lot/NN --/:,I do a lot --
+b,B,"Oh/UH ,/, yes/UH ./.","{F Oh, } yes. /"
++,A,--/: of/IN computer/NN reading/NN,-- of computer reading /
+sd,A,"and/CC ,/, uh/UH ,/, I/PRP 'm/VBP just/RB finishing/VBG another/DT one/CD up/RP on/IN ,/, uh/UH ,/, statistical/JJ sampling/NN ,/,","{C and, } {F uh, } I'm just finishing another one up on, {F uh, } statistical sampling, /"
+sd,A,"so/RB ,/, I/PRP do/VBP more/JJR work/NN kind/RB of/RB related/JJ reading/NN than/IN ,/, uh/UH ,/, just/RB for/IN enjoyment/NN ./.","{C so, } I do more work kind of related reading than, {F uh, } just for enjoyment. /"
+sd,B,"I/PRP ,/, I/PRP try/VBP to/TO keep/VB a/DT book/NN going/VBG all/PDT the/DT time/NN ./.","[ I, + I ] try to keep a book going all the time. /"
+sd,B,"Uh/UH ,/, I/PRP try/VBP to/TO read/VB when/WRB I/PRP first/JJ wake/VBP up/RP in/IN the/DT morning/NN and/CC then/RB before/IN I/PRP go/VBP to/TO sleep/VB ./.","{F Uh, } I try to read when I first wake up in the morning and then before I go to sleep. /"
+sd,B,"So/RB I/PRP probably/RB get/VBP ,/, oh/UH ,/, thirty/CD to/IN fifty/CD pages/NNS a/DT day/NN read/VBN ./.","{C So } I probably get, {F oh, } thirty to fifty pages a day read. /"
+ba,A,"Well/UH ,/, that/DT 's/BES pretty/RB good/JJ ./.","{D Well, } that's pretty good. /"
+%,B,"And/CC I/PRP just/RB ,/, you/PRP know/VBP ,/,","{C And } I just, {D you know, } - /"
+%,B,"I/PRP do/VBP n't/RB feel/VB like/IN ,/,","I don't feel like, - /"
+sd,B,"in/IN fact/NN this/DT morning/NN ,/, I/PRP was/VBD almost/RB late/JJ for/IN work/NN because/IN I/PRP 'm/VBP almost/RB at/IN the/DT end/NN of/IN this/DT book/NN","in fact this morning, I was almost late for work because I'm almost at the end of this book /"
+sd,B,and/CC I/PRP did/VBD n't/RB want/VB to/TO put/VB it/PRP down/RB ./.,{C and } I didn't want to put it down <laughter>. /
+sd,A,"Oh/UH ,/, I/PRP 've/VBP had/VBN them/PRP like/IN that/DT before/RB ,/, too/RB ./.","<Laughter> {F Oh, } I've had them like that before, too. /"
+sd,B,"But/CC I/PRP like/VBP ,/, I/PRP like/VBP mysteries/NNS ./.","{C But } [ I like, + I like ] mysteries. /"
+b^m,A,Mysteries/NNP ./.,Mysteries. /
+qy,A,Any/DT particular/JJ writer/NN ?/.,Any particular writer? /
+ny,B,"Uh/UH ,/, yes/UH ,/,","{F Uh, } yes, /"
+sd,B,"I/PRP like/VBP ,/, uh/UH ,/, uh/UH ,/, oh/UH ,/,","I like, {F uh, } {F uh, } {F oh, - /"
+sd,B,I/PRP 'm/VBP drawing/VBG a/DT blank/NN ./.,} I'm drawing a blank. /
+sd,B,"Uh/UH ,/, he/PRP wrote/VBD the/DT ,/, uh/UH ,/, BOURNE/NNP ULTIMATUM/NN ./.","{F Uh, } he wrote the, {F uh, } BOURNE ULTIMATUM. /"
+^2,A,"Ludwig/NNP ,/,","Ludwig, /"
+%,A,"Lud-/NNP ,/,","Lud-, -/"
+aa,B,"Ludwig/NNP ,/, yes/UH ./.","Ludwig, yes. /"
+aa,A,Yes/UH ./.,Yes. /
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP like/VBP Jeffrey/NNP Archer/NNP ./.","{C And, } {F uh, } I like Jeffrey Archer. /"
+sd,B,He/PRP is/VBZ an/DT English/NNP author/NN who/WP writes/VBZ some/DT mystery/NN ./.,He is an English author who writes some mystery. /
+sd,B,"Uh/UH ,/, well/UH ,/, I/PRP guess/VBP they/PRP 're/VBP ,/, they/PRP 're/VBP a/DT type/NN of/IN mystery/NN ./.","{F Uh, } {D well, } I guess [ they're, + they're ] a type of mystery. /"
+%,B,"They/PRP 're/VBP usually/RB some/DT p-/XX ,/,","They're usually some p-, - /"
+sd,B,he/PRP 's/BES a/DT ex-lawyer/NN,he's a ex-lawyer /
+sd,B,"so/RB ,/, or/CC ,/, he/PRP ,/, he/PRP 's/BES a/DT lawyer/NN who/WP no/RB longer/RB practices/VBZ ,/,","[ {C so, } + {C or, } ] [ he, + he's ] a lawyer who no longer practices, /"
+sd,B,but/CC --/:,{C but } --
++,B,"--/: his/PRP$ are/VBP all/DT ,/, have/VBP some/DT part/NN of/IN the/DT law/NN ,/, uh/UH ,/, enveloped/VBN in/IN them/PRP ./.","-- his [ are all, + ] have some part of the law, {F uh, } enveloped in them. /"
+sd,A,"So/RB ,/, you/PRP kind/RB of/RB learn/VBP something/NN as/RB well/RB as/IN en/VBP ,/, enjoy/VBP yourself/PRP ./.","{C So, } you kind of learn something as well as [ en-, + enjoy ] yourself. /"
+b,B,"Right/UH ,/,","Right, /"
+sd,B,"and/CC then/RB ,/, uh/UH ,/, the/DT new/JJ author/NN that/WDT came/VBD out/RP with/IN ,/, uh/UH ,/, oh/UH ,/, the/DT one/CD that/WDT ,/, uh/UH ,/, Harrison/NNP Ford/NNP starred/VBD in/IN ./.","{C and then, } {F uh, } the new author that came out with, {F uh, } {F oh, } the one that, {F uh, } Harrison Ford starred in. /"
+^2,A,RAIDERS/NNS OF/IN THE/DT LOST/JJ ARK/NN stuff/NN ./.,RAIDERS OF THE LOST ARK stuff. /
+ar,B,"No/UH ,/,","No, /"
+ar,B,"no/UH ,/,","no, /"
+sd,B,it/PRP was/VBD --/:,it was --
+b,A,Oh/UH ./.,Oh. /
++,B,"--/: the/DT ,/, uh/UH ,/,","-- the, {F uh, } - /"
+sd,B,"it/PRP 's/BES late/JJ ,/,","<breathing> it's late, /"
+sd,B,"I/PRP 'm/VBP tired/JJ ,/,","I'm tired, /"
+sd,B,so/RB I/PRP 'm/VBP not/RB --/:,{C so } <laughter> I'm not --
+qw,A,"What/WP ,/,","[ What, +"
++,B,--/: thinking/VBG too/RB well/RB ./.,-- thinking too well. /
++,A,"what/WP time/NN is/VBZ it/PRP there/RB ,/, ten/CD thirty/CD ?/.","what ] time is it there, ten thirty? /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, it/PRP 's/BES nine/CD thirty/CD here/RB ./.","{F Uh, } it's nine thirty here. /"
+sd,B,"Oh/UH ,/, it/PRP 's/BES ,/, uh/UH ,/, it/PRP was/VBD his/PRP$ first/JJ book/NN ./.","{F Oh, } [ it's, + {F uh, } it ] was his first book. /"
+sd,B,"It/PRP came/VBD ,/, it/PRP was/VBD on/IN the/DT top/NN of/IN the/DT list/NN ,/, uh/UH ,/,","[ It came, + it ] was on the top of the list, {F uh, } /"
+sd,B,he/PRP was/VBD a/DT D/NN A/NN ./.,he was a D A. /
+qy,A,"Uh/UH ,/, PRESUMED/VBD INNOCENT/JJ ?/.","{F Uh, } PRESUMED INNOCENT? /"
+ny,B,Yes/UH ./.,Yes. /
+sd,A,"Oh/UH ,/, I/PRP have/VBP n't/RB seen/VBN the/DT movie/NN ,/, uh/UH ,/, or/CC n-/XX ,/, read/VBN the/DT book/NN","{F Oh, } I haven't seen the movie, {F uh, } or [ n-, + ] read the book /"
+b,B,"Okay/UH ,/,","Okay, /"
+sd,B,"and/CC then/RB he/PRP 's/BES ,/, he/PRP came/VBD out/RP with/IN the/DT second/JJ one/CD ./.","{C and then } [ he's, + he ] came out with the second one. /"
+sd,B,"Uh/UH ,/, a/DT sequel/NN to/IN it/PRP ./.","{F Uh, } a sequel to it. /"
+sd,B,And/CC both/DT of/IN those/DT I/PRP 've/VBP enjoyed/VBN real/RB well/RB ./.,{C And } both of those I've enjoyed real well. /
+sd,B,"But/CC I/PRP ,/, I/PRP like/VBP that/DT ./.","{C But } [ I, + I ] like that. /"
+sd,B,I/PRP love/VBP Danielle/NNP Steele/NNP,I love Danielle Steele /
+sd,B,"and/CC ,/, and/CC ,/, you/PRP know/VBP ,/, if/IN I/PRP want/VBP to/TO get/VB a/DT fantasy/NN and/CC --/:","[ {C and, } + {C and, } ] {D you know, } if I want to get a fantasy and <laughter> --"
+qy,A,Is/VBZ she/PRP --/:,[ Is she -- +
++,B,--/: get/VB away/RB from/IN it/PRP all/DT ./.,-- get away from it all. /
++,A,--/: is/VBZ she/PRP kind/RB of/RB racy/JJ ?/.,-- is she ] kind of racy? /
+nn,B,"No/UH ,/,","No, /"
+nn,B,"no/UH ,/,","no, /"
+sd,B,she/PRP is/VBZ n't/RB at/IN all/DT ./.,she isn't at all. /
+^2,A,Just/RB feel/VB good/JJ ./.,Just feel good. /
+%,B,"Her/PRP$ books/NNS ,/, uh/UH ,/,","Her books, {F uh, } - /"
+sv,B,you/PRP always/RB cry/VBP ./.,you always cry. /
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+sd,B,"I/PRP mean/VBP ,/, it/PRP 's/BES ,/, it/PRP 's/BES always/RB good/JJ for/IN good/JJ tears/NNS ./.","{E I mean, } [ it's, + it's ] always good for good tears. /"
+x,A,,<Laughter>.
+sd,B,"Uh/UH ,/, one/CD book/NN that/WDT she/PRP wrote/VBD that/WDT 's/BES good/JJ for/IN both/DT men/NNS and/CC women/NNS is/VBZ FINE/JJ THINGS/NNS ,/,","{F Uh, } one book that she wrote that's good for both men and women is FINE THINGS, /"
+sd,A,"M-/PRP$ ,/, my/PRP$ mother-in-law/NN 's/BES a/DT real/JJ fan/NN of/IN hers/PRP ./.","[ M-, + my ] mother-in-law's a real fan of hers. /"
+sd,B,"it/PRP 's/BES ,/, it/PRP 's/BES always/RB going/VBG to/TO make/VB you/PRP have/VB a/DT good/JJ cry/NN","[ it's, + it's ] always going to make you have a good cry /"
+sd,B,and/CC you/PRP know/VBP it/PRP 's/BES going/VBG it/PRP turn/VBP out/RP good/JJ,{C and } you know it's going it turn out good /
+sd,B,and/CC you/PRP 're/VBP going/VBG to/TO be/VB happy/JJ in/IN the/DT end/NN ./.,{C and } you're going to be happy in the end <laughter>. /
+ba,A,"Oh/UH ,/, well/UH ,/, that/DT 's/BES nice/JJ ./.","{F Oh, } {D well, } that's nice. /"
+%,B,"And/CC I/PRP said/VBD ,/, you/PRP know/VBP ,/,","{C And } I said, {D you know, } - /"
+sd,B,I/PRP do/VBP n't/RB want/VB anything/NN too/RB real/JJ anymore/RB ./.,I don't want anything too real anymore. /
+sd,B,I/PRP have/VBP enough/RB of/IN that/DT in/NN my/PRP$ own/JJ life/NN ./.,I have enough of that in my own life. /
+sd,B,"I/PRP want/VBP ,/, I/PRP want/VBP happy/JJ ,/, fantasy/NN","[ I want, + I want ] happy, fantasy /"
+%,B,like/IN ./.,{D like. } -/
+b,A,Yeah/UH ./.,<Laughter> Yeah. /
+sd,A,"Uh/UH ,/, you/PRP mentioned/VBD Sunday/NNP school/NN Ladonna/NNP ./.","{F Uh, } you mentioned Sunday school Ladonna. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"Uh/UH ,/, do/VBP you/PRP ,/,","{F Uh, } do you, - /"
+qy,A,"are/VBP you/PRP a/DT BIBLE/NNP fan/NN ,/, too/RB ?/.","are you a BIBLE fan, too? /"
+na,B,"Uh/UH ,/, I/PRP ,/, I/PRP do/VBP my/PRP$ share/NN of/IN it/PRP ./.","{F Uh, } [ I, + I ] do my share of it. /"
+sd,B,"I/PRP ,/, I/PRP certainly/RB ca/MD n't/RB say/VB that/IN I/PRP understand/VBP a/DT lot/NN of/IN it/PRP ./.","[ I, + I ] certainly can't say that I understand a lot of it. /"
+b,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sv,A,"but/CC ,/, uh/UH ,/, that/DT 's/BES always/RB a/DT challenge/NN ./.","{C but, } {F uh, } that's always a challenge. /"
+qy,A,"So/RB do/VBP you/PRP do/VB ,/,","{C So } do you do, - /"
+sd,A,"my/PRP$ wife/NN talks/VBZ with/IN other/JJ people/NNS ,/,","my wife talks with other people, -/"

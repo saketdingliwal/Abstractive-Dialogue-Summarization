@@ -1,0 +1,269 @@
+act_tag,speaker,pos,text
+qo,A,"What/WP do/VBP you/PRP think/VB about/IN ,/, uh/UH ,/, the/DT way/NN the/DT criminal/NN justice/NN system/NN handles/VBZ trials/NNS ?/.","What do you think about, {F uh, } the way the criminal justice system handles trials? /"
+sd,B,"Well/UH ,/, you/PRP know/VBP ,/, they/PRP tell/VBP you/PRP that/IN you/PRP get/VBP tried/VBN by/IN a/DT jury/NN of/IN your/PRP$ peers/NNS --/:","{D Well, } {D you know, } they tell you that you get tried by a jury of your peers -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"--/: but/CC ,/, you/PRP know/VBP ,/, it/PRP 's/BES pretty/RB hard/JJ to/TO try/VB ,/, let/VB 's/PRP say/VB ,/, the/DT man/NN down/IN the/DT street/NN that/WDT 's/BES living/VBG on/IN Social/NNP Security/NNP or/CC somebody/NN that/WDT 's/BES on/IN a/DT limited/JJ income/NN to/TO be/VB tried/VBN by/IN a/DT jury/NN of/IN his/PRP$ peers/NNS if/IN most/RBS of/IN the/DT people/NNS ,/,","-- {C but, } {D you know, } it's pretty hard to try, {A let's say, } the man down the street that's living on Social Security or somebody that's on a limited income to be tried by a jury of his peers if most of the people, - /"
+sd,B,"like/IN the/DT juries/NNS that/WDT I/PRP 've/VBP served/VBN on/IN ,/, are/VBP businessmen/NNS ./.","{D like } the juries that I've served on, are businessmen. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,Okay/UH,Okay /
+sd,B,"now/RB they/PRP do/VBP n't/RB understand/VB that/IN ,/, you/PRP know/VBP ,/, maybe/RB he/PRP needed/VBD fifty/CD dollars/NNS","now they don't understand that, {D you know, } maybe he needed fifty dollars /"
+sd,B,so/RB he/PRP held/VBD up/RP the/DT seven/CD eleven/CD ./.,{C so } he held up the seven eleven. / *[[Seven Eleven]]
+b,A,Yeah/UH ./.,Yeah. /
+b,B,Okay/UH,Okay /
+sd,B,"they/PRP do/VBP n't/RB understand/VB that/DT because/IN they/PRP have/VBP fifty/CD dollars/NNS ,/,","they don't understand that because they have fifty dollars,"
+x,A,,<Throat_clearing>.
++,B,"all/PDT the/DT time/NN ,/,","all the time, /"
+sv,B,"so/RB ,/, you/PRP know/VBP ,/, I/PRP think/VBP that/IN it/PRP ,/, a/DT trial/NN by/IN your/PRP$ peers/NNS should/MD be/VB exactly/RB that/DT ,/, someone/NN in/IN your/PRP$ own/JJ age/NN bracket/NN ,/,","{C so, } {D you know, } I think that [ it, + ] a trial by your peers should be exactly that, someone in your own age bracket, /"
+sv,B,"someone/NN that/WDT ,/, you/PRP know/VBP ,/, you/PRP ca/MD n't/RB really/RB do/VB it/PRP ethnically/RB ,/, you/PRP know/VBP ,/,","[ someone that, + ] {D you know, } you can't really do it ethnically, {D you know, } /"
+sv,B,"but/CC you/PRP could/MD do/VB it/PRP ,/,","{C but } [ you could do it, +"
+b,A,Yeah/UH ./.,Yeah. /
++,B,you/PRP could/MD probably/RB get/VB it/PRP a/DT little/RB closer/JJR ./.,you could ] probably get it a little closer. /
+sd,B,But/CC then/RB there/EX 's/BES another/DT thing/NN that/WDT I/PRP disagree/VBP with/IN in/IN Texas/NNP is/VBZ sometimes/RB you/PRP have/VBP a/DT jury/NN of/IN six/CD,{C But } then there's another thing that I disagree with in Texas is sometimes you have a jury of six /
+sd,B,and/CC sometimes/RB you/PRP have/VBP a/DT jury/NN of/IN twelve/CD ./.,{C and } sometimes you have a jury of twelve. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,And/CC I/PRP do/VBP n't/RB know/VB why/WRB they/PRP do/VBP that/DT ./.,{C And } I don't know why they do that. /
+qy,B,"Do/VBP you/PRP have/VB any/DT reason/NN ,/,","Do you have any reason, /"
+qy,B,do/VBP you/PRP know/VB of/IN any/DT reason/NN why/WRB they/PRP do/VBP that/DT ?/.,do you know of any reason why they do that? /
+sd,A,"Well/UH ,/, I/PRP think/VBP the/DT six/CD is/VBZ called/VBN a/DT Grand/NNP Jury/NNP","{D Well, } I think the six is called a Grand Jury /"
+sd,A,and/CC that/DT 's/BES mostly/RB to/TO decide/VB whether/IN or/CC not/RB the/DT person/NN 's/BES actually/RB going/VBG to/TO stand/VB trial/NN ./.,{C and } that's mostly to decide whether or not the person's actually going to stand trial. /
+bk,B,"Okay/UH ,/,","Okay, /"
+%,B,see/VB ./.,see <<very faint>>. /
+sd,A,"Whether/IN they/PRP 're/VBP acquitted/VBN or/CC whether/IN they/PRP 're/VBP actually/RB going/VBG to/TO be/VB accused/VBN of/IN ,/, you/PRP know/VBP ,/,","Whether they're acquitted or whether they're actually going to be accused [ of, + ] {D you know, }"
+b,B,Okay/UH ./.,Okay <<very faint>>. /
++,A,and/CC held/VBN over/RP for/IN trial/NN ./.,and held over for trial. /
+sd,B,I/PRP do/VBP n't/RB know/VB much/JJ about/IN the/DT Grand/NNP Jury/NNP ./.,I don't know much about the Grand Jury. /
+qw,B,"How/WRB do/VBP you/PRP feel/VB about/IN the/DT ,/,","How do you feel about the, - /"
+sd,B,"in/IN Texas/NNP I/PRP noticed/VBD since/IN I/PRP 've/VBP been/VBN here/RB ,/, in/IN twelve/CD years/NNS that/IN they/PRP ,/, they/PRP break/VBP up/RP the/DT ,/, the/DT trial/NN and/CC then/RB the/DT sentencing/NN part/NN of/IN the/DT trial/NN ./.","in Texas I noticed since I've been here, [ in + ] twelve years that [ they, + they ] break up [ the, + the ] trial and then the sentencing part of the trial. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+h,A,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+%,A,"I/PRP ,/, I/PRP think/VBP that/IN ,/, uh/UH ,/,","[ I, + I ] think that, {F uh, } - /"
+sd,A,I/PRP know/VBP that/IN judges/NNS are/VBP n't/RB supposed/VBN to/TO be/VB crooked/JJ ./.,I know that judges aren't supposed to be crooked. /
+%,A,"However/RB ,/,","However, -/"
+sv,B,"Well/UH ,/, we/PRP know/VBP there/EX 's/BES a/DT few/JJ out/IN there/RB ./.","{D Well, } we know there's a few out there. /"
+aa,A,Yeah/UH ./.,Yeah. /
+sv,A,"It/PRP seems/VBZ like/IN if/IN you/PRP break/VB the/DT sentencing/NN away/RB from/IN the/DT jury/NN and/CC give/VB it/PRP ,/, you/PRP give/VBP it/PRP to/IN one/CD person/NN you/PRP 're/VBP letting/VBG there/EX be/VB a/DT whole/JJ lot/NN more/JJR of/IN an/DT opportunity/NN for/IN something/NN to/TO either/DT go/NN wrong/RB","It seems like if you break the sentencing away from the jury and [ give it, + you give it ] to one person you're letting there be a whole lot more of an opportunity for something to either go wrong /"
+%,A,"or/CC for/IN ,/, you/PRP know/VBP ,/,","{C or } for, {D you know, } - /"
+sv,A,"if/IN ,/, if/IN ,/, if/IN the/DT judge/NN is/VBZ not/RB of/IN high/JJ moral/JJ standards/NNS --/:","[ [ if, + if, ] + if ] the judge is not of high moral standards --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: he/PRP could/MD be/VB bought/VBN off/RP ,/, much/RB easier/JJR --/:","-- he could be bought off, much easier --"
+b,B,Yeah/UH,Yeah /
+%,B,"it/PRP 's/BES ,/,","it's, -/"
++,A,--/: than/IN twelve/CD people/NNS could/MD ./.,-- than twelve people could. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,would/MD be/VB pretty/RB hard/JJ ./.,would be pretty hard. /
+sd,B,"Well/UH I/PRP do/VBP n't/RB think/VB ,/, you/PRP know/VBP ,/, I/PRP do/VBP n't/RB think/VB that/IN ,/, if/IN I/PRP was/VBD the/DT criminal/NN ,/, that/IN I/PRP would/MD like/VB the/DT judge/NN passing/VBG sentence/NN on/IN me/PRP ./.","{D Well } [ I don't think, + {D you know, } I don't think ] that, if I was the criminal, that I would like the judge passing sentence on me. /"
+sv,B,"If/IN the/DT jury/NN found/VBD me/PRP guilty/JJ ,/, then/RB they/PRP should/MD be/VB able/JJ to/TO decide/VB at/IN the/DT same/JJ time/NN what/WP my/PRP$ punishment/NN should/MD be/VB ./.","If the jury found me guilty, then they should be able to decide at the same time what my punishment should be. /"
+%,B,"And/CC I/PRP think/VBP it/PRP 's/BES ,/,","{C And } I think it's, - /"
+sv,B,"not/RB only/RB that/DT ,/, it/PRP 's/BES a/DT waste/NN of/IN our/PRP$ money/NN ./.","not only that, it's a waste of our money. /"
+sd,B,"We/PRP have/VBP to/TO have/VB a/DT trial/NN for/IN this/DT person/NN ,/,","We have to have a trial for this person, /"
+sd,B,"then/RB two/CD weeks/NNS down/IN the/DT road/NN we/PRP have/VBP to/TO sente/VB ,/, sent/VB ,/, excuse/VB me/PRP ,/, set/VB a/DT sentencing/NN date/NN --/:","then two weeks down the road we have to [ [ sente-, + sent-, ] + ] {E excuse me, } set a sentencing date --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: so/RB now/RB we/PRP 're/VBP back/RB in/IN court/NN again/RB,-- so now we're back in court again /
+sd,B,and/CC that/DT 's/BES more/JJR money/NN spent/VBN ./.,{C and } that's more money spent. /
+sd,A,"It/PRP 's/BES not/RB so/RB much/JJ that/IN I/PRP ,/, that/IN ,/, I/PRP have/VBP n't/RB seen/VBN a/DT lot/NN of/IN really/RB bad/JJ sentences/NNS passed/VBN either/CC by/IN trials/NNS or/CC by/IN judges/NNS ./.","It's not so much [ that I, + that, I haven't ] seen a lot of really bad sentences passed either by trials or by judges."
+aa,B,No/UH ./.,No. /
++,A,"What/WP bothers/VBZ me/PRP is/VBZ that/IN ,/, uh/UH ,/, they/PRP really/RB do/VBP n't/RB mean/VB anything/NN ./.","What bothers me is that, {F uh, } they really don't mean anything. /"
+sd,A,Someone/NN could/MD be/VB sentenced/VBN to/IN thirty-five/CD years/NNS,Someone could be sentenced to thirty-five years /
+sv,A,"and/CC yet/RB ,/, you/PRP know/VBP ,/, the/DT ,/, the/DT parole/NN system/NN ,/, it/PRP 's/BES going/VBG to/TO let/VB them/PRP out/RB in/IN ,/, in/IN three/CD years/NNS for/IN good/JJ behavior/NN ./.","{C and } yet, {D you know, } [ the, + the ] parole system, it's going to let them out [ in, + in ] three years for good behavior. /"
+sv,B,And/CC it/PRP 's/BES not/RB working/VBG either/RB ./.,{C And } it's not working either. /
+aa,A,"No/UH ,/,","No, /"
+aa,A,it/PRP 's/BES not/RB ./.,it's not. /
+sv,B,It/PRP seems/VBZ that/IN we/PRP have/VBP more/JJR and/CC more/JJR repeat/JJ offenders/NNS ./.,It seems that we have more and more repeat offenders. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+aa,B,"I/PRP know/VBP ,/,","I know, /"
+sd,B,"I/PRP do/VBP n't/RB know/VB how/WRB you/PRP all/DT are/VBP there/RB where/WRB you/PRP 're/VBP at/IN ,/,","I don't know how you all are there where you're at, /"
+sd,B,"but/CC where/WRB we/PRP 're/VBP at/IN ,/, now/RB our/PRP$ jails/NNS are/VBP overcrowded/JJ ./.","{C but } where we're at, now our jails are overcrowded. /"
+sd,B,We/PRP just/RB built/VBD a/DT brand/NN new/JJ one/NN two/CD years/NNS ago/RB ./.,We just built a brand new one two years ago. /
+sv,A,"Oh/UH ,/, I/PRP think/VBP they/PRP 're/VBP all/DT overcrowded/JJ ./.","{F Oh, } I think they're all overcrowded. /"
+sd,B,And/CC it/PRP 's/BES overcrowded/JJ ./.,{C And } it's overcrowded. /
+%,A,"They/PRP 've/VBP ,/, uh/UH ,/,","They've, {F uh, } -/"
+sd,B,So/RB now/RB they/PRP start/VBP turning/VBG them/PRP loose/JJ ./.,{C So } now they start turning them loose. /
+sd,A,"I/PRP think/VBP I/PRP heard/VBD Fort/NNP Worth/NNP that/IN ,/, uh/UH ,/, they/PRP 've/VBP been/VBN ordered/VBN to/TO do/VB something/NN because/IN their/PRP$ jail/NN is/VBZ so/RB overcrowded/JJ ./.","I think I heard Fort Worth that, {F uh, } they've been ordered to do something because their jail is so overcrowded. /"
+sd,A,They/PRP 're/VBP not/RB allowed/JJ to/TO accept/VB any/DT new/JJ inmates/NNS ./.,They're not allowed to accept any new inmates. /
+qw,A,Now/RB what/WP are/VBP they/PRP supposed/VBN to/TO do/VB ?/.,Now what are they supposed to do? /
+sd,B,They/PRP turn/VBP them/PRP loose/JJ ./.,They turn them loose. /
+ar,A,"Well/UH ,/, no/UH ,/,","{D Well, } no, /"
+sd,A,"I/PRP mean/VBP ,/, they/PRP 're/VBP not/RB allowed/VBN to/TO accept/VB any/DT new/JJ inmates/NNS ./.","{E I mean, } they're not allowed to accept any new inmates. /"
+b,B,Yeah/UH ./.,Yeah. /
+qw,A,So/RB what/WP are/VBP they/PRP supposed/VBN to/TO do/VB with/IN people/NNS that/WDT they/PRP need/VBP to/TO put/VB in/IN jail/NN ?/.,{C So } what are they supposed to do with people that they need to put in jail? /
+%,A,You/PRP know/VBP ./.,{D You know. } -/
+sd,B,"Well/UH ,/, the/DT way/NN ,/, it/PRP seems/VBZ the/DT way/NN it/PRP 's/HVS been/VBN working/VBG here/RB 's/BES ,/,","{D Well, } [ the way, + it seems the way ] it's been working here's, -/"
+%,A,"There/EX ,/, yeah/UH ,/,","There, {D yeah, } -/"
+ad,B,Go/VB ahead/RB ./.,Go ahead. / *[[ LISTEN - are utterances 1 and 2 really from the same speaker? ]]
+sd,B,"It/PRP seems/VBZ the/DT way/NN it/PRP 's/HVS been/VBN working/VBG here/RB is/VBZ they/PRP let/VBP those/DT out/NN that/WDT have/VBP spent/VBN two/CD or/CC three/CD years/NNS out/IN of/IN their/PRP$ five/CD to/IN twenty/CD sentence/NN ,/,","It seems the way it's been working here is they let those out that have spent two or three years out of their five to twenty sentence,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,or/CC five/CD to/IN life/NN ./.,or five to life. /
+sd,A,Something/NN that/WDT is/VBZ working/VBG,Something that is working - /
+sd,A,"and/CC I/PRP ,/, I/PRP really/RB like/VBP the/DT system/NN of/IN house/NN arrest/NN where/WRB a/DT ,/, a/DT ,/,","{C and } [ I, + I ] really like the system of house arrest where [ [ a, + a, ] + ]"
+b,B,Yeah/UH,Yeah /
+%,B,"that/DT ,/,","that, -/"
++,A,"someone/NN 's/POS wear/NN ,/, someone/NN wears/VBZ a/DT bracelet/NN --/:","[ someone's wear, + someone wears ] a bracelet --"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"and/CC they/PRP ,/,","{C and } [ they, +"
++,A,"--/: like/IN a/DT ankle/NN bracelet/NN that/WDT 's/BES a/DT monitor/NN ,/,","-- like a ankle bracelet that's a monitor, /"
++,B,"They/PRP keep/VBP ,/,","They ] keep, -/"
+sd,A,"and/CC they/PRP are/VBP not/RB allowed/VBN ,/,","{C and } they are not allowed, - /"
+sd,A,"I/PRP mean/VBP ,/, th-/XX ,/, some/DT of/IN them/PRP are/VBP even/RB allowed/VBN to/TO work/VB ,/,","{E I mean, } [ th-, + ] some of them are even allowed to work, /"
+sd,A,"they/PRP can/MD go/VB to/IN their/PRP$ regular/JJ job/NN ,/,","they can go to their regular job, /"
+sd,A,"they/PRP come/VBP home/NN ,/,","they come home, /"
+sd,A,"they/PRP have/VBP to/TO be/VB home/NN by/IN such/PDT and/CC such/PDT a/DT time/NN ,/,","they have to be home by such and such a time, /"
+sd,A,"they/PRP 're/VBP instructed/VBN ,/, uh/UH ,/, so/IN that/IN ,/, this/DT ,/, this/DT electronic/JJ monitor/NN --/:","they're instructed, {F uh, } so that, [ this, + this ] electronic monitor --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: is/VBZ turned/VBN on/RP at/IN ,/, at/IN a/DT certain/JJ time/NN","-- is turned on at, at a certain time /"
+sd,A,and/CC it/PRP connects/VBZ them/PRP up/RP to/IN a/DT system/NN where/WRB they/PRP know/VBP their/PRP$ whereabouts/NN ./.,{C and } it connects them up to a system where they know their whereabouts./
+b,B,All/RB right/JJ ./.,All right. /
+sd,A,"And/CC ,/, uh/UH ,/, they/PRP can/MD put/VB a/DT ,/,","{C And, } {F uh, } they can put a, - /"
+sd,A,they/PRP usually/RB install/VBP a/DT video/NN monitor/NN in/IN the/DT house/NN,they usually install a video monitor in the house /
+sd,A,"and/CC when/WRB the/DT parole/NN officer/NN calls/VBZ to/TO check/VB on/IN them/PRP ,/, they/PRP 're/VBP instructed/VBN to/TO turn/VB it/PRP on/RP and/CC stand/VB in/IN front/NN of/IN it/PRP ./.","{C and } when the parole officer calls to check on them, they're instructed to turn it on and stand in front of it."
+b,B,All/RB right/JJ ./.,All right. /
++,A,So/IN that/IN they/PRP can/MD see/VB that/IN this/DT person/NN is/VBZ actually/RB at/IN home/NN in/IN their/PRP$ house/NN doing/VBG what/WP they/PRP 're/VBP supposed/VBN to/TO be/VB doing/VBG,So that they can see that this person is actually at home in their house doing what they're supposed to be doing /
+sv,A,and/CC that/DT 's/BES working/VBG rather/RB well/RB ./.,{C and } that's working rather well. /
+sv,A,That/DT 's/BES a/DT good/JJ system/NN ./.,That's a good system. /
+sv,A,"That/DT allows/VBZ people/NNS ,/,","That allows people,"
+aa,B,"Yeah/UH ,/,","Yeah, /"
++,A,"to/TO actually/RB continue/VB to/TO be/VB productive/JJ members/NNS of/IN society/NN while/IN they/PRP 're/VBP ,/, you/PRP know/VBP ,/,","to actually continue to be productive members of society while they're, {D you know, }"
+bf,B,instead/IN of/IN being/VBG completely/RB penned/VBN up/RP ./.,instead of being completely penned up. /
++,A,paying/VBG back/RB for/IN whatever/WDT crime/NN they/PRP 've/VBP committed/VBN ./.,paying back for whatever crime they've committed. /
+sv,B,"And/CC that/DT way/NN it/PRP would/MD give/VB ,/, you/PRP know/VBP ,/,","{C And } that way it would give, {D you know, } - /"
+sd,B,"the/DT probation/NN department/NN and/CC parole/NN department/NN ,/, they/PRP 've/VBP got/VBN to/TO be/VB overloaded/JJ with/IN as/IN many/JJ criminals/NNS as/IN we/PRP have/VBP here/RB in/IN ,/, in/IN Lubbock/NNP ./.","the probation department and parole department, they've got to be overloaded with as many criminals as we have here [ in, + in ] Lubbock. /"
+b,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+b,A,yeah/UH ./.,yeah. /
+sd,B,"And/CC that/DT would/MD give/VB ,/, you/PRP know/VBP ,/,","{C And } that would give, {D you know, } - /"
+sd,B,"at/IN least/JJS they/PRP do/VBP n't/RB have/VB to/TO drive/VB all/RB over/IN town/NN trying/VBG to/TO find/VB one/CD guy/NN ,/,","at least they don't have to drive all over town trying to find one guy,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,A,"I/PRP ,/, I/PRP 've/VBP really/RB ,/,","[ I, + I've ] really, -/"
++,B,or/CC trying/VBG to/TO see/VB six/CD or/CC seven/CD people/NNS ./.,or trying to see six or seven people. /
+sd,A,I/PRP could/MD go/VB on/RP for/IN hours/NNS about/IN the/DT criminal/NN justice/NN system/NN and/CC what/WP I/PRP think/VBP we/PRP ought/MD to/TO do/VB about/IN it/PRP ./.,I could go on for hours about the criminal justice system and what I think we ought to do about it. /
+sd,A,"But/CC ,/,","{C But, }"
+sv,B,"Sometimes/RB it/PRP 's/BES pretty/RB messed/JJ up/RP ,/,","Sometimes it's pretty messed up, /"
+^g,B,is/VBZ n't/RB it/PRP ./.,isn't it. /
++,A,Something/NN that/IN I/PRP really/RB do/VBP n't/RB understand/VB is/VBZ when/WRB someone/NN goes/VBZ to/IN jail/NN --/:,Something that I really don't understand is when someone goes to jail --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC they/PRP have/VBP a/DT job/NN in/IN jail/NN and/CC they/PRP work/VBP ,/, that/IN they/PRP should/MD ,/,","-- and they have a job in jail and they work, that they should, - /"
+%,A,"I/PRP ,/,","I, - /"
+h,A,"and/CC this/DT may/MD sound/VB cruel/JJ ,/,","{C and } this may sound cruel, /"
+sv,A,but/CC I/PRP do/VBP not/RB think/VB that/IN they/PRP should/MD be/VB allowed/VBN cigarettes/NNS ./.,{C but } I do not think that they should be allowed cigarettes. /
+sv,A,I/PRP mean/VBP they/PRP 're/VBP in/IN jail/NN for/IN crying/VBG out/IN loud/JJ ./.,{E I mean } they're in jail for crying out loud. /
+b,B,Yeah/UH ./.,Yeah. /
+qh,A,What/WP do/VBP they/PRP need/VB cigarettes/NNS for/RB ?/.,What do they need cigarettes for? /
+%,B,"Well/UH ,/, see/VB","{D Well, } {D see } - /"
+sd,B,and/CC there/EX 's/BES another/DT thing/NN about/IN the/DT justice/NN system/NN that/WDT I/PRP do/VBP n't/RB like/VB,{C and } there's another thing about the justice system that I don't like /
+sd,B,"and/CC there/EX 's/BES a/DT lot/NN of/IN people/NNS that/WDT tell/VBP me/PRP that/IN ,/, that/IN maybe/RB my/PRP$ thoughts/NNS are/VBP wrong/JJ ./.","{C and } there's a lot of people that tell me [ that, + that ] maybe my thoughts are wrong. /"
+sd,B,I/PRP came/VBD from/IN California/NNP --/:,I came from California -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC when/WRB you/PRP 're/VBP in/IN jail/NN ,/, they/PRP take/VBP you/PRP out/RB just/RB like/IN they/PRP do/VBP in/IN Alabama/NNP or/CC anywhere/RB else/RB ,/, what/WP they/PRP call/VBP a/DT chain/NN gang/NN ./.","-- {C and } when you're in jail, they take you out just like they do in Alabama or anywhere else, what they call a chain gang. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC they/PRP clean/VBP the/DT city/NN parks/NNS ./.,{C And } they clean the city parks. /
+sv,A,"Oh/UH ,/, I/PRP think/VBP that/DT 's/BES a/DT wonderful/JJ idea/NN ./.","{F Oh, } I think that's a wonderful idea. /"
+sd,B,And/CC they/PRP clean/VBP the/DT city/NN streets/NNS ./.,{C And } they clean the city streets. /
+sv,B,"But/CC you/PRP know/VBP ,/, we/PRP have/VBP criminals/NNS in/IN jail/NN that/WDT do/VBP nothing/NN but/CC sit/VB on/IN their/PRP$ duff/NN all/DT day/NN","{C But } {D you know, } we have criminals in jail that do nothing but sit on their duff all day /"
+sd,B,"and/CC here/RB it/PRP costs/VBZ us/PRP seventeen/CD to/IN eighteen/CD thousand/CD dollars/NNS a/DT year/NN to/TO support/VB a/DT prisoner/NN ,/,","{C and } here it costs us seventeen to eighteen thousand dollars a year to support a prisoner, /"
+sd,A,More/RBR than/IN that/DT ./.,More than that. /
+%,B,"and/CC I/PRP know/VBP ,/,","{C and } I know, /"
+b,B,"yeah/UH ,/,","yeah, /"
+sd,A,More/RBR than/IN that/DT ./.,More than that. /
+sd,B,but/CC I/PRP know/VBP families/NNS myself/PRP that/WDT have/VBP three/CD and/CC four/CD children/NNS in/IN Lubbock/NNP that/WDT do/VBP n't/RB make/VB that/RB much/JJ ./.,{C but } I know families myself that have three and four children in Lubbock that don't make that much. /
+aa,A,I/PRP know/VBP ./.,I know. /
+sd,B,"And/CC they/PRP 're/VBP not/RB ,/, you/PRP know/VBP ,/, they/PRP 're/VBP not/RB doing/VBG anything/NN to/TO support/VB themselves/PRP ,/,","{C And } [ they're not, + {D you know, } they're not ] doing anything to support themselves,"
+sd,A,"The/DT thing/NN that/DT ,/,","[ The thing that, +"
++,B,while/IN they/PRP 're/VBP there/RB ./.,while they're there. /
++,A,"the/DT thing/NN that/WDT gets/VBZ me/PRP is/VBZ that/IN while/IN we/PRP 're/VBP supporting/VBG them/PRP ,/,","the thing that ] gets me is that while we're supporting them,"
+x,B,,<Cough>.
++,A,they/PRP 're/VBP working/VBG ./.,they're working. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,When/WRB they/PRP get/VBP out/IN of/IN jail/NN they/PRP get/VBP handed/VBN all/PDT that/DT money/NN ./.,When they get out of jail they get handed all that money. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,That/DT really/RB ticks/VBZ me/PRP off/RP ./.,That really ticks me off. /
+sv,A,"I/PRP think/VBP that/IN while/IN they/PRP are/VBP in/IN jail/NN and/CC they/PRP are/VBP working/VBG ,/, their/PRP$ wages/NNS --/:","I think that while they are in jail and they are working, their wages --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: should/MD go/VB ,/,","-- should go, - /"
+h,A,"like/IN ,/, I/PRP do/VBP n't/RB know/VB ,/,","{D like, } I don't know, /"
+%,A,"they/PRP could/MD ,/,","they could, - /"
+sv,A,"some/DT percentage/NN ,/, like/IN eighty-five/CD percent/NN of/IN their/PRP$ wages/NNS should/MD go/VB toward/IN their/PRP$ room/NN and/CC board/NN --/:","some percentage, {D like } eighty-five percent of their wages should go toward their room and board --"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,"well/UH ,/,","{D well, }"
++,A,--/: figured/VBD on/IN a/DT whatever/WDT basis/NN how/WRB much/JJ it/PRP costs/VBZ to/TO actually/RB support/VBP them/PRP for/IN a/DT year/NN ./.,-- figured on a whatever basis how much it costs to actually support them for a year. /
++,B,Uh-huh/UH ./.,Uh-huh. /
+%,B,See/VB now/RB MUMBLEx/XX ./.,{D See } now (( )) . -/
+sv,A,"And/CC when/WRB they/PRP get/VBP out/RB they/PRP should/MD have/VB a/DT ,/, I/PRP do/VBP n't/RB know/VB ,/, you/PRP know/VBP ,/, some/DT reasonable/JJ amount/NN of/IN money/NN --/:","{C And } when they get out they should have [ a, + ] {A I don't know, } {D you know, } some reasonable amount of money --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: to/TO start/VB ,/, like/IN a/DT couple/NN of/IN thousand/CD dollars/NNS ,/,","-- to start, like a couple of thousand dollars, /"
+sv,A,"but/CC there/EX should/MD be/VB a/DT limit/NN over/IN which/WDT they/PRP ,/, that/IN it/PRP all/DT goes/VBZ back/RB to/IN the/DT State/NNP ./.","{C but } there should be a limit over which [ they, that + ] it all goes back to the State. /"
+sv,A,"Anything/NN that/WDT they/PRP 've/VBP earned/VBN while/IN they/PRP 're/VBP in/IN prison/NN should/MD go/VB back/RB to/IN the/DT State/NNP except/IN for/IN that/DT ,/, you/PRP know/VBP ,/, there/EX needs/VBZ to/TO be/VB some/DT allowance/NN for/IN when/WRB someone/NN gets/VBZ out/RB that/IN they/PRP have/VBP some/DT money/NN to/TO start/VB with/IN ./.","Anything that they've earned while they're in prison should go back to the State except for that, {D you know, } there needs to be some allowance for when someone gets out that they have some money to start with. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"but/CC at/IN least/JJS they/PRP would/MD ,/, at/IN least/JJS that/DT way/NN they/PRP would/MD be/VB helping/VBG pay/VB for/IN their/PRP$ own/JJ ./.","{C but } [ at least they would, + at least ] that way they would be helping pay for their own. /"
+aa,A,"Exactly/UH ,/,","Exactly, /"
+aa,A,absolutely/RB ./.,absolutely. /
+sd,B,"And/CC something/NN else/RB that/IN I/PRP would/MD ,/,","[ {C And } something else that I would, +"
+sv,A,That/DT 's/BES the/DT part/NN that/WDT I/PRP really/RB think/VBP we/PRP need/VBP to/TO change/VB ./.,That's the part that I really think we need to change. /
++,B,"And/CC something/NN else/RB that/WDT I/PRP would/MD like/VB to/TO see/VB is/VBZ ,/, is/VBZ ,/, uh/UH ,/, victim/NN reimbursement/NN ,/, you/PRP know/VBP ,/, because/IN they/PRP ,/, you/PRP know/VBP ,/, like/IN you/PRP say/VBP these/DT guys/NNS are/VBP in/IN jail/NN","{C And } something else that I would ] like to see [ is, + is, ] {F uh, } victim reimbursement, {D you know, } because they, {D you know, } like you say these guys are in jail /"
+sd,B,"and/CC they/PRP 're/VBP working/VBG ,/,","{C and } they're working, /"
+sd,B,"they/PRP 're/VBP getting/VBG paid/VBN ,/,","they're getting paid, /"
+sv,B,"but/CC the/DT guy/NN that/WDT they/PRP messed/VBD over/RP to/TO get/VB there/RB or/CC they/PRP stole/VBD something/NN from/IN ,/, or/CC beat/VB to/IN death/NN","{C but } the guy that they messed over to get there or they stole something from, or beat to death /"
+%,B,"or/CC ,/,","{C or, } -/"
+^2,A,"Has/VBZ nothing/NN ,/,","Has nothing, /"
+aa,A,right/UH ./.,right. /
+sv,B,"has/VBZ nothing/NN ,/, you/PRP know/VBP ./.","has nothing, {D you know. } /"
+sv,B,"Our/PRP$ ,/, our/PRP$ victims/NNS are/VBP victimized/VBN ,/, period/NN ,/,","[ Our, + our ] victims are victimized, period, /"
+sd,B,"and/CC the/DT law/NN has/VBZ no/DT ,/, no/DT ,/, uh/UH ,/, regulations/NNS to/TO deal/VB with/IN that/DT ./.","{C and } the law has [ no, + no, ] {F uh, } regulations to deal with that. /"
+aa,A,Absolutely/UH ./.,Absolutely. /
+sv,B,"They/PRP ,/, they/PRP know/VBP how/WRB to/TO deal/VB with/IN the/DT penal/JJ system/NN","[ They, + they ] know how to deal with the penal system /"
+sv,B,"and/CC they/PRP know/VBP how/WRB to/TO deal/VB with/IN the/DT criminal/NN ,/,","{C and } they know how to deal with the criminal, /"
+sv,B,"but/CC they/PRP do/VBP n't/RB know/VB how/WRB to/TO deal/VB with/IN the/DT victim/NN because/IN we/PRP as/IN citizens/NNS ,/, I/PRP guess/VBP have/VBP n't/RB laid/VBN anything/NN up/IN there/RB for/IN them/PRP to/TO deal/VB with/IN on/IN that/DT aspect/NN ./.","{C but } they don't know how to deal with the victim because we as citizens, I guess haven't laid anything up there for them to deal with on that aspect. /"
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"But/CC it/PRP 's/BES ,/,","{C But } it's, - /"
+%,B,"but/CC I/PRP sure/RB do/VBP n't/RB ,/,","{C but } I sure don't, - /"
+sd,B,"I/PRP ,/, I/PRP strongly/RB disagree/VBP with/IN any/DT judge/NN passing/VBG sentence/NN on/IN a/DT person/NN himself/PRP ./.","[ I, + I ] strongly disagree with any judge passing sentence on a person himself. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"There/RB that/DT ,/,","There that, -/"
+sv,A,"I/PRP think/VBP it/PRP works/VBZ much/RB better/JJR if/IN it/PRP 's/BES ,/, if/IN it/PRP 's/BES the/DT actual/JJ jury/NN ./.","I think it works much better [ if it's, + if it's ] the actual jury. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"because/IN ,/, well/UH ,/, th-/XX ,/, see/VB the/DT jury/NN is/VBZ dealing/VBG with/IN the/DT seriousness/NN of/IN the/DT crime/NN ,/,","{C because, } {D well, } [ th-, + ] {D see } the jury is dealing with the seriousness of the crime, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"the/DT jury/NN gets/VBZ to/TO see/VB the/DT whole/JJ trial/NN ,/, as/IN does/VBZ the/DT judge/NN ,/,","the jury gets to see the whole trial, as does the judge, /"
+sv,B,"but/CC you/PRP know/VBP ,/, if/IN ,/, if/IN they/PRP figure/VBP there/EX 's/BES maybe/RB litigating/VBG circumstances/NNS ,/, or/CC something/NN like/IN that/DT whereas/IN maybe/RB the/DT judge/NN does/VBZ ,/, just/RB does/VBZ n't/RB care/VB ,/, you/PRP committed/VBD this/DT crime/NN","{C but } {D you know, } [ if, + if ] they figure there's maybe litigating circumstances, or something like that whereas maybe the judge [ does, + just doesn't ] care, you committed this crime /"
+^q,B,so/RB I/PRP 'm/VBP just/RB going/VBG to/TO throw/VB the/DT book/NN at/IN you/PRP ./.,{C so } I'm just going to throw the book at you. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Whereas/IN the/DT jury/NN may/MD have/VB a/DT little/JJ ,/, shall/MD we/PRP say/VB ,/, sympathy/NN ,/, you/PRP know/VBP ,/,","Whereas the jury may have a little, {A shall we say, } sympathy, {D you know, } /"
+^q,B,"he/PRP did/VBD this/DT ,/,","he did this, /"
+^q,B,"but/CC ,/, you/PRP know/VBP ,/, why/WRB did/VBD he/PRP do/VB this/DT ,/,","{C but, } {D you know, } why did he do this, /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"in/IN some/DT ,/,","in some,"
+^q,B,"is/VBZ there/EX ,/, is/VBZ there/EX a/DT basis/NN for/IN it/PRP ./.","[ is there, + is there ] a basis for it. /"
++,A,"cases/NNS tha/WDT ,/, it/PRP would/MD work/VB that/DT way/NN ./.","cases [ tha-, + ] it would work that way. /"
+sv,A,In/IN some/DT cases/NNS it/PRP would/MD work/VB the/DT other/JJ way/NN ./.,In some cases it would work the other way. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"in/IN some/DT cases/NNS where/WRB the/DT judge/NN says/VBZ okay/JJ ,/, I/PRP 'll/MD give/VB you/PRP ,/, you/PRP know/VBP ,/, two/CD to/IN three/CD years/NNS","in some cases where the judge says okay, I'll give you, {D you know, } two to three years /"
+%,B,"and/CC ,/,","{C and, } -/"
+sv,A,"The/DT jury/NN would/MD ,/, would/MD ,/, slam/VB them/PRP","The jury [ would, + would, ] slam them /"
+sv,A,"and/CC ,/,","[ {C and, } +"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"and/CC I/PRP think/VBP that/IN ,/, that/IN the/DT jury/NN probably/RB has/VBZ more/JJR of/IN a/DT right/NN to/TO sentence/VB than/IN the/DT judge/NN all/PDT the/DT time/NN ./.","{C and } ] I think [ that, + that ] the jury probably has more of a right to sentence than the judge all the time. /"
+sv,B,"Well/UH ,/, they/PRP have/VBP a/DT stronger/JJR debate/NN ,/, too/RB ,/, because/IN there/EX 's/BES twelve/CD people/NNS there/RB ./.","{D Well, } they have a stronger debate, too, because there's twelve people there. /"
+sd,B,They/PRP have/VBP to/TO decide/VB whether/IN or/CC not/RB he/PRP 's/BES guilty/JJ,They have to decide whether or not he's guilty /
+sd,B,"and/CC then/RB they/PRP can/MD sit/VB in/IN th-/DT ,/, at/IN the/DT same/JJ time/NN and/CC decide/VB what/WP his/PRP$ punishment/NN would/MD be/VB ,/,","{C and then } they can sit [ in th-, + ] at the same time and decide what his punishment would be, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,and/CC you/PRP 'd/MD have/VB more/JJR than/IN one/CD person/NN 's/POS input/NN on/IN it/PRP ./.,{C and } you'd have more than one person's input on it. /
+aa,A,Yeah/UH ./.,Yeah. /
+sv,A,I/PRP think/VBP that/DT 's/BES probably/RB a/DT much/RB fairer/JJR way/NN ./.,I think that's probably a much fairer way. /
+sd,B,"And/CC ,/, you/PRP know/VBP ,/, we/PRP 're/VBP supposed/VBN to/TO be/VB ,/, and/CC I/PRP quote/VBP ,/, in/IN a/DT democratic/JJ society/NN ./.","{C And, } {D you know, } we're supposed to be, {A and I quote, } in a democratic society. /"
+x,A,,<Laughter>.
+^q,B,"So/RB ,/, you/PRP know/VBP ,/, if/IN you/PRP can/MD find/VB me/PRP guilty/JJ ,/, then/RB you/PRP ought/MD to/TO be/VB able/JJ to/TO pass/VB sentence/NN ./.","{C So, } {D you know, } if you can find me guilty, then you ought to be able to pass sentence. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"And/CC a/DT lot/NN of/IN jurors/NNS ,/,","{C And } a lot of jurors, - /"
+sd,B,"not/RB that/IN I/PRP know/VBP of/IN ,/,","not that I know of, - /"
+sv,B,"but/CC ,/, you/PRP know/VBP ,/, a/DT lot/NN of/IN jurors/NNS may/MD just/RB sit/VB there/RB and/CC say/VB ,/, yeah/UH ,/, he/PRP 's/BES guilty/JJ ,/,","{C but, } {D you know, } a lot of jurors may just sit there and say, {D yeah, } he's guilty, /"
+^q,B,"but/CC I/PRP do/VBP n't/RB have/VB to/TO deal/VB with/IN it/PRP from/IN here/RB ,/, you/PRP know/VBP ,/,","{C but } I don't have to deal with it from here, {D you know, } /"
+sv,B,so/RB --/:,{C so } --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: the/DT judge/NN takes/VBZ care/NN of/IN all/DT of/IN that/DT ./.,-- the judge takes care of all of that. /
+sv,A,"It/PRP might/MD be/VB more/JJR ,/,","It might be more, - /"
+sv,A,"it/PRP would/MD be/VB more/JJR work/NN for/IN the/DT jury/NN ,/,","it would be more work for the jury, /"
+sv,A,but/CC it/PRP would/MD be/VB a/DT more/RBR responsible/JJ --/:,{C but } it would be a more responsible --
+aa,B,Yeah/UH,Yeah /
+aa,B,"it/PRP would/MD ,/,","it would, /"
++,A,--/: way/NN to/TO deal/VB with/IN it/PRP ./.,-- way to deal with it. /
+aa,B,"yeah/UH ,/,","yeah, /"
+sv,B,"serving/VBG on/IN the/DT jury/NN would/MD be/VB definitely/RB more/JJR respo/JJ ,/, you/PRP 'd/MD have/VB to/TO be/VB a/DT definitely/RB more/RBR responsible/JJ person/NN ./.","serving on the jury [ would be definitely more respo-, + you'd have to be a definitely more responsible ] person. /"
+sd,A,"The/DT thing/NN that/WDT I/PRP ,/, I/PRP do/VBP n't/RB really/RB like/VB ,/,","The thing that [ I, + I ] don't really like, - /"
+sd,A,"I/PRP ,/, I/PRP do/VBP n't/RB know/VB ,/, if/IN ,/, uh/UH ,/, a/DT lot/NN of/IN jury/NN selection/NN processes/NNS that/IN I/PRP 've/VBP seen/VBN have/VBP been/VBN a/DT ,/,","[ I, + I ] don't know, if, {F uh, } a lot of jury selection processes that I've seen have been a, -/"

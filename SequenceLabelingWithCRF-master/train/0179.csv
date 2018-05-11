@@ -1,0 +1,246 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+sd,A,"the/DT topic/NN was/VBD ,/, should/MD the/DT United/NNP States/NNPS adopt/VBP the/DT metric/JJ system/NN ,/, and/CC if/IN so/RB ,/, should/MD ,/, uh/UH ./.","the topic was, should the United States adopt the metric system, and if so, should, {F uh. } -/"
+qw,B,How/WRB should/MD they/PRP do/VB it/PRP ?/.,<Breathing> How should they do it? /
+qw,B,Why/WRB did/VBD n't/RB it/PRP work/VB last/JJ time/NN ?/.,Why didn't it work last time? /
+b^m,A,And/CC why/WRB did/VBD n't/RB it/PRP work/VB last/JJ time/NN ?/. ./.,{C And } why didn't it work last time? <laughter>. /
+sd,B,"Well/UH ,/, I/PRP 'm/VBP all/RB for/IN it/PRP ./.","{D Well, } I'm all for it. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"well/UH ,/, I/PRP ,/, I/PRP am/VBP too/RB ./.","{D well, } [ I, + I ] am too. /"
+sv,A,"I/PRP wish/VBP ,/, uh/UH ,/, it/PRP had/VBD started/VBN a/DT long/JJ time/NN ago/RB ,/, is/VBZ the/DT problem/NN ,/, because/IN we/PRP 're/VBP so/RB wound/VBN up/RP in/IN the/DT --/:","I wish, {F uh, } it had started a long time ago, is the problem, because we're so wound up [ in the + --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: in/IN the/DT system/NN that/WDT we/PRP 've/VBP got/VBN that/DT ,/, you/PRP know/VBP ,/, trying/VBG to/TO convert/VB over/RP ,/,","-- in the ] system that we've got that, {D you know, } trying to convert over, /"
+sd,A,"and/CC I/PRP guess/VBP ,/, what/WP 'd/MD they/PRP try/VB ,/, they/PRP tried/VBD what/WP 'd/MD the/^PRP call/VB it/PRP ,/, soft/JJ conversion/NN and/CC hard/JJ conversion/NN --/:","{C and } I guess, [ what'd they try, + they tried ] what'd the call it, soft conversion and hard conversion -- -/"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"they/PRP tried/VBD the/DT ,/,","they tried the, -/"
+sd,A,--/: one/CD of/IN them/PRP is/VBZ where/WRB you/PRP just/RB take/VBP whatever/WP 's/BES already/RB standard/JJ,-- one of them is where you just take whatever's already standard /
+sd,A,and/CC you/PRP give/VBP it/PRP some/DT sort/NN of/IN a/DT weird/JJ metric/NN number/NN like/IN six/CD point/NN two/CD eight/CD seven/CD instead/IN of/IN six/CD millimeter/NN ./.,{C and } you give it some sort of a weird metric number like six point two eight seven instead of six millimeter. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+sd,B,direct/JJ conversion/NN ./.,direct conversion. /
+h,A,"I/PRP ,/, I/PRP do/VBP n't/RB know/VB ./. Uh/UH ./.","[ I, + I ] don't know. {F Uh. } /"
+sv,B,"I/PRP think/VBP they/PRP just/RB ought/MD to/TO ,/, you/PRP know/VBP ,/, start/VB ,/, uh/UH ,/, just/RB go/VB all/PDT the/DT way/NN on/IN new/JJ products/NNS introduced/VBD or/CC whatever/WP ,/, you/PRP know/VBP ,/, start/VB your/PRP$ packaging/NN ,/, go/VB to/IN liters/NNS instead/IN of/IN quarts/NNS ,/,","I think they [ [ just ought to, + {D you know, } start, ] + {F uh, } just go ] all the way on new products introduced or whatever, {D you know, } start your packaging, go to liters instead of quarts, /"
+sv,B,"and/CC you/PRP know/VBP ,/, people/NNS if/IN they/PRP have/VBP to/TO are/VBP going/VBG to/TO learn/VB to/TO think/VB that/DT way/NN ./.","{C and } {D you know, } people if they have to are going to learn to think that way. /"
+qy^d,A,"Well/UH do/VBP n't/RB most/JJS of/IN them/PRP ,/, does/VBZ n't/RB just/RB about/RB everything/NN now/RB have/VBP both/DT metric/NN and/CC English/JJ ./.","{D Well } [ don't most of them, + doesn't just ] about everything now have both metric and English. /"
+na,B,"They/PRP do/VBP ,/,","They do, /"
+sv,B,"but/CC things/NNS are/VBP generally/RB packaged/VBN in/IN the/DT English/JJ sized/JJ packages/NNS ,/, you/PRP know/VBP ./.","{C but } things are generally packaged in the English sized packages, {D you know. } /"
+sv,B,"You/PRP buy/VBP a/DT quart/NN of/IN milk/NN ,/,","You buy a quart of milk, /"
+sv,B,"and/CC sure/UH it/PRP has/VBZ ,/, has/VBZ the/DT metric/NN equivalent/NN written/VBN on/IN there/RB ,/,","{C and } sure it [ has, + has ] the metric equivalent written on there, /"
+sv,B,but/CC it/PRP still/RB a/DT quart/NN ./.,{C but } it still a quart. /
+aa,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+aa,A,yeah/UH ./.,yeah. /
+sv,B,"But/CC if/IN they/PRP started/VBD putting/VBG it/PRP in/IN liters/NNS ,/, liter/NN of/IN oil/NN ,/, and/CC you/PRP know/VBP ,/, liters/NNS of/IN gasoline/NN ,/, people/NNS are/VBP going/VBG to/TO learn/VB to/TO think/VB in/IN metric/NN ./.","{C But } if they started putting it in liters, [ liter + ] of oil, and {D you know, } liters of gasoline, people are going to learn to think in metric. /"
+sv,B,"As/RB long/RB as/IN you/PRP can/MD still/RB buy/VB a/DT product/NN in/IN the/DT English/JJ units/NNS ,/, that/DT 's/BES how/WRB you/PRP 're/VBP going/VBG to/TO think/VB of/IN it/PRP ./.","As long as you can still buy a product in the English units, that's how you're going to think of it. /"
+sd,A,"I/PRP kind/RB of/RB remember/VBP back/RB when/WRB gas/NN prices/NNS started/VBD up/RP ,/, you/PRP know/VBP ,/, pretty/RB dramatically/RB when/WRB they/PRP started/VBD getting/VBG toward/IN a/DT dollar/NN a/DT gallon/NN range/NN ,/,","I kind of remember back when gas prices started up, {D you know, } pretty dramatically when they started getting toward a dollar a gallon range, /"
+sd,A,"somebody/NN had/VBD ,/, uh/UH ,/,","somebody had, {F uh, } /"
+sd,A,I/PRP believe/VBP it/PRP was/VBD Exxon/NNP --/:,I believe it was Exxon -- /
+ba,B,It/PRP figures/VBZ ./.,It figures. /
+sd,A,"--/: we/PRP were/VBD living/VBG in/IN Lubbock/NNP at/IN the/DT time/NN ,/,","-- we were living in Lubbock at the time, /"
+sd,A,"they/PRP started/VBD marketing/VBG it/PRP in/IN liters/NNS ,/,","they started marketing it in liters, /"
+sd,A,and/CC it/PRP was/VBD only/JJ like/IN twenty-nine/CD and/CC thirty/CD cents/NNS a/DT liter/NN ./.,{C and } it was only {D like } twenty-nine and thirty cents a liter. /
+sd,A,"So/RB they/PRP could/MD put/VB this/DT sign/NN out/IN front/RB that/WDT said/VBD ,/, you/PRP know/VBP ,/, thirty-nine/CD cents/NNS a/DT liter/NN ./.","{C So } they could put this sign out front that said, {D you know, } thirty-nine cents a liter. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC nobody/NN had/VBD any/DT idea/NN what/WP a/DT liter/NN was/VBD ,/,","{C And } nobody had any idea what a liter was, /"
+%,A,"so/RB ,/, uh/UH ./.","{C so, } {F uh. } -/"
+ba,B,"That/DT ,/, that/DT 's/BES the/DT problem/NN ./.","[ That, + that's ] the problem. /"
+sd,A,"When/WRB we/PRP finally/RB out/IN that/DT liters/NNS was/VBD about/RB a/DT quart/NN ,/, there/EX 's/BES about/RB four/CD liters/NNS in/IN a/DT gallon/NN","When we finally out that liters was about a quart, there's about four liters in a gallon /"
+sv,A,so/RB you/PRP can/MD figure/VB out/RP what/WP you/PRP 're/VBP actually/RB paying/VBG for/IN it/PRP ./.,{C so } you can figure out what you're actually paying for it. /
+aa,B,Right/UH ./.,Right. /
+sd,B,"It/PRP 's/BES kind/RB of/RB hard/JJ for/IN me/PRP to/TO believe/VB that/IN this/DT day/NN and/CC age/NN ,/,","It's kind of hard for me to believe that this day and age, - /"
+h,B,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,B,"when/WRB I/PRP was/VBD growing/VBG up/RP ,/, we/PRP were/VBD talking/VBG metric/NN system/NN in/IN school/NN ./.","when I was growing up, we were talking metric system in school."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"I/PRP mean/VBP ,/, not/RB ,/, not/RB at/IN first/JJ ,/,","{E I mean, } [ not, + not ] at first, /"
+sd,B,but/CC by/IN the/DT time/NN I/PRP was/VBD in/IN fifth/JJ or/CC sixth/JJ grade/NN anyway/RB ./.,{C but } by the time I was in fifth or sixth grade anyway. /
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Oh/UH ./.,Oh. /
+sv,B,"I/PRP would/MD expect/VB people/NNS with/IN any/DT kind/NN of/IN buying/NN power/NN over/IN the/DT age/NN ,/, you/PRP know/VBP ,/, under/IN the/DT age/NN of/IN thirty/CD or/CC so/RB ,/, to/TO have/VB some/DT idea/NN what/WP it/PRP is/VBZ ,/, anyway/RB ./.","I would expect people with any kind of buying power [ over the age, + {D you know, } under the age ] of thirty or so, to have some idea what it is, anyway. /"
+sd,B,A/DT liter/NN 's/BES about/RB a/DT quart/NN ./.,A liter's about a quart. /
+sv,A,"The/DT ,/, uh/UH ,/, I/PRP think/VBP maybe/RB there/EX 's/BES where/WRB the/DT problem/NN came/VBD in/RP ,/, you/PRP know/VBP ./.","[ The, + {F uh, } I think maybe there's where the ] problem came in, {D you know. } /"
+sv,A,"We/PRP 've/VBP tried/VBN to/TO ,/, instead/IN of/IN learning/VBG ,/,","We've tried to, instead of learning, /"
+sv,A,"it/PRP 's/BES kind/RB of/RB like/IN learning/VBG a/DT language/NN ,/, you/PRP know/VBP ,/,","it's kind of like learning a language, {D you know, } /"
+sv,A,"when/WRB you/PRP learn/VBP one/CD from/IN the/DT other/JJ ,/, you/PRP always/RB end/VBP up/RP in/IN this/DT conversion/NN thing/NN all/PDT the/DT time/NN ./.","when you learn one from the other, you always end up in this conversion thing all the time. /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"So/RB ,/, you/PRP ,/,","{C So, } you, - /"
+%,A,"it/PRP 's/BES almost/RB like/IN ,/, uh/UH ,/,","it's almost like, {F uh, } - /"
+sv,A,"course/NN this/DT country/NN is/VBZ n't/RB a/DT dictatorship/NN ,/,","course this country isn't a dictatorship, /"
+sv,A,"but/CC ,/, you/PRP know/VBP ,/, it/PRP 's/BES like/IN somebody/NN said/VBD ,/, okay/UH as/IN of/IN such/PDT and/CC such/PDT a/DT date/NN ,/, you/PRP know/VBP ,/, anybody/NN caught/VBD talking/VBG in/IN the/DT English/JJ ,/, you/PRP know/VBP ,/,","{C but, } {D you know, } it's like somebody said, {D okay } as of such and such a date, {D you know, } anybody caught talking in the English, {D you know, }"
+x,B,./.,<Laughter>.
++,A,"will/MD be/VB shot/VBN or/CC something/NN like/IN that/DT ,/, you/PRP know/VBP ./.","will be shot or something like that, {D you know. } /"
+%,A,"But/CC ,/, uh/UH ,/,","{C But, } {F uh, } -/"
+sv,B,"Well/UH ,/, thing/NN is/VBZ ,/, it/PRP 's/BES a/DT global/JJ ,/, global/JJ market/NN place/NN these/DT days/NNS ,/,","{D Well, } thing is, it's a [ global, + global ] market place these days, /"
+sv,B,"and/CC ,/, you/PRP know/VBP ,/, we/PRP 're/VBP like/IN ,/, what/WP ,/, one/CD of/IN two/CD backwards/JJ countries/NNS in/IN the/DT world/NN ,/, as/RB far/RB as/IN ,/,","{C and, } {D you know, } we're like, {D what, } one of two backwards countries in the world, as far as, -/"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP read/VBD that/IN ,/, what/WP Uganda/NNP and/CC ,/,","I read that, what Uganda and, -/"
+^2,B,Something/NN ./.,Something. /
+sd,B,I/PRP do/VBP n't/RB remember/VB what/WP the/DT other/JJ one/CD is/VBZ,I don't remember what the other one is /
+%,B,"but/CC ,/,","{C but, } -/"
+%,A,"There/EX 's/BES one/CD or/CC two/CD others/NNS that/WDT just/RB ,/,","There's one or two others that just, -/"
+sv,B,"It/PRP 's/BES just/RB time/NN I/PRP think/VBP for/IN ,/, for/IN us/PRP to/TO go/VB over/RP ./.","It's just time I think [ for, + for ] us to go over. /"
+sv,B,"Because/IN all/DT you/PRP end/VBP up/RP doing/VBG is/VBZ if/IN you/PRP 're/VBP in/IN business/NN or/CC you/PRP 're/VBP in/IN any/DT kind/NN of/IN international/JJ ,/,","{C Because } all you end up doing is if you're in business or you're in any kind of international <<pause>>, -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+h,B,"I/PRP do/VBP n't/RB ,/, you/PRP know/VBP ,/,","I don't, {D you know, } - /"
+sd,B,"I/PRP work/VBP for/IN T/NNP I/NNP ,/,","I work for T I, /"
+sd,B,"we/PRP 're/VBP all/RB around/IN the/DT world/NN ,/,","we're all around the world, /"
+sv,B,you/PRP have/VBP to/TO --/:,you have to --
+sd,A,"Yeah/UH ,/, uh/UH ,/, I/PRP ,/,","[ Yeah, {F uh, } I, +"
++,B,--/: perform/VB this/DT conversion/NN anyway/RB ./.,-- perform this conversion anyway. /
++,A,"Yeah/UH ,/, I/PRP do/VBP ,/, too/RB ./.","Yeah, I ] do, too. /"
+%,B,And/CC ./.,{C And. } -/
+%,A,"And/CC one/CD of/IN the/DT things/NNS that/WDT we/PRP 've/VBP run/VBN into/IN a/DT problem/NN ,/,","{C And } one of the things that we've run into a problem, - /"
+qy^d,A,"course/NN you/PRP 're/VBP familiar/JJ with/IN the/DT T/NNP I/NNP drawing/NN ,/, well/UH ,/, with/IN any/DT drawing/NN system/NN --/:","course you're familiar [ with the T I drawing, {D well, } + with any drawing ] system --"
+na,B,Right/UH ./.,Right. /
+sd,B,Mils/NNS and/CC microns/NNS ./.,Mils and microns. /
++,A,"--/: you/PRP end/VBP up/IN with/IN ,/, you/PRP end/VBP up/RP with/IN things/NNS in/IN inches/NNS --/:","-- [ you end up with, + you end up with ] things [ in inches + --"
+b,B,Right/UH ./.,Right. /
++,A,"--/: in/IN parts/NNS of/IN inches/NNS ,/, you/PRP know/VBP ,/, half/DT ,/, fourth/JJ ,/, you/PRP know/VBP ,/, this/DT sort/NN of/IN thing/NN ./.","-- in parts of inches, ] {D you know, } half, fourth, {D you know, } this sort of thing. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC then/RB you/PRP end/VBP up/RP with/IN a/DT decimal/NN ,/, where/WRB you/PRP start/VBP getting/VBG into/IN mils/NNS ,/, and/CC that/DT sort/NN of/IN thing/NN ./.","{C And then } you end up with a decimal, where you start getting into mils, and that sort of thing. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC then/RB some/DT of/IN them/PRP are/VBP done/VBN in/IN ,/, you/PRP know/VBP ,/, purely/RB metric/JJ ./.","{C And then } some of them are done in, {D you know, } purely metric. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP remember/VBP that/DT stink/NN came/VBD around/RP in/IN the/DT design/NN area/NN a/DT few/JJ years/NNS back/RB when/WRB it/PRP was/VBD all/RB overseas/JJ designs/NNS were/VBD in/IN microns/NNS,I remember that stink came around in the design area a few years back when it was all overseas designs were in microns /
+sd,B,and/CC ours/PRP were/VBD in/IN mils/NNS ./.,{C and } ours were in mils. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC it/PRP got/VBD to/IN ,/, you/PRP know/VBP ,/,","{C And } it got to, {D you know, } - /"
+sd,B,"somewhere/RB down/IN the/DT line/NN they/PRP went/VBD standardized/JJ ,/,","somewhere down the line they went standardized, /"
+sd,B,"they/PRP went/VBD microns/NNS ,/,","they went microns, /"
+sv,B,"but/CC ,/, uh/UH ,/, you/PRP just/RB ,/, you/PRP know/VBP ,/, you/PRP end/VBP up/RP with/IN all/DT kinds/NNS of/IN problems/NNS with/IN converting/VBG your/PRP$ designs/NNS ./.","{C but, } {F uh, } [ you just, + {D you know, } you ] end up with all kinds of problems with converting your designs. /"
+aa,A,Yeah/UH ./.,Yeah. /
+ba,A,"Oh/UH ,/, I/PRP can/MD imagine/VB ./.","{F Oh, } I can imagine. /"
+%,B,So/UH ./.,{D So. } -/
+%,A,"The/DT ,/, uh/UH ,/, the/DT one/CD that/WDT ,/, uh/UH ,/, uh/UH ,/,","[ The, + {F uh, } the ] one that, {F uh, } {F uh, } - /"
+qy,A,have/VBP you/PRP ever/RB lived/VBN in/IN a/DT country/NN where/WRB they/PRP use/VBP metric/NN ./.,have you ever lived in a country where they use metric. /
+nn,B,No/UH ./.,No. /
+sd,A,"I/PRP was/VBD with/IN T/NNP I/NNP in/IN El/NNP Salvador/NNP for/IN a/DT while/NN ,/,","I was with T I in El Salvador for a while, /"
+sd,A,"and/CC I/PRP had/VBD to/TO get/VB used/JJ to/IN ,/, you/PRP know/VBP ,/, purely/RB metric/NN system/NN down/IN there/RB ,/, because/IN they/PRP did/VBD n't/RB understand/VB anything/NN else/RB ./.","{C and } I had to get used to, {D you know, } purely metric system down there, because they didn't understand anything else. /"
+sd,A,"You/PRP know/VBP ,/, if/IN you/PRP start/VBP talking/VBG about/IN miles/NNS ,/, they/PRP 'd/MD look/VB at/IN you/PRP like/IN ,/, what/WP ./.","{D You know, } if you start talking about miles, they'd look at you like, what. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"So/RB ,/, I/PRP had/VBD a/DT little/JJ bit/NN of/IN experience/NN with/IN it/PRP ,/,","{C So, } I had a little bit of experience with it, /"
+sd,A,"and/CC also/RB I/PRP noticed/VBD in/IN Canada/NNP they/PRP ,/, uh/UH ,/, you/PRP drop/VBP a/DT quarter/NN ,/, fifty/CD cents/NNS ,/, whatever/WP ,/, in/IN a/DT coke/NNP machine/NN up/IN there/RB ,/,","{C and } also I noticed in Canada [ they, + {F uh, } you ] drop a quarter, fifty cents, whatever, in a coke machine up there, /"
+sd,A,"and/CC you/PRP get/VBP this/DT funny/JJ looking/JJ coke/NNP ,/, you/PRP know/VBP ,/,","{C and } you get this funny looking coke, {D you know, } /"
+sd,A,it/PRP 's/BES in/IN a/DT can/NN that/WDT 's/BES that/WDT 's/BES taller/JJR but/CC not/RB as/IN big/JJ around/IN ./.,it's in a can [ that's + that's ] taller but not as big around. /
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"You/PRP know/VBP ,/, I/PRP guess/VBP that/DT 's/BES some/DT --/:","{D You know, } I guess that's some -- -/"
+qy^d,B,About/RB half/PDT a/DT liter/NN ./.,About half a liter. /
+aa,A,"--/: it/PRP 's/BES not/RB a/DT liter/NN ,/,","-- it's not a liter, /"
+aa,A,it/PRP 's/BES like/IN a/DT half/PDT a/DT liter/NN or/CC something/NN like/IN that/DT ./.,it's like a half a liter or something like that. /
+sd,A,It/PRP 's/BES a/DT strange/JJ looking/JJ can/NN ./.,It's a strange looking can. /
+sd,A,"But/CC my/PRP$ daughter/GW in/GW law/^NN 's/BES from/IN Panama/NNP ,/,","{C But } my daughter in law's from Panama, /"
+sv,A,"and/CC she/PRP has/VBZ ,/, they/PRP have/VBP had/VBN Americans/NNPS down/IN there/RB for/IN so/RB long/JJ ,/, you/PRP know/VBP ,/, that/IN they/PRP 're/VBP kind/RB of/RB into/IN both/DT systems/NNS ,/,","{C and } [ she has, + they have had ] Americans down there for so long, {D you know, } that they're kind of into both systems, /"
+sd,A,"but/CC ,/, uh/UH ,/, she/PRP gets/VBZ real/RB confused/JJ on/IN distances/NNS","{C but, } {F uh, } she gets real confused on distances /"
+sd,A,and/CC temperature/NN is/VBZ the/DT big/JJ thing/NN --/:,{C and } temperature is the big thing --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: the/DT Centigrade/NNP --/:,-- the Centigrade --
+sd,B,I/PRP would/MD have/VB more/JJR problem/NN --/:,I would have [ more problem + --
++,A,--/: for/IN which/WDT she/PRP says/VBZ Celsius/NNP ./.,-- for which she says Celsius. /
++,B,"--/: more/JJR problem/NN with/IN the/DT temperature/NN ,/, except/IN that/IN ,/, you/PRP know/VBP ,/, working/VBG in/IN engineering/NN ,/, we/PRP do/VBP everything/NN in/IN Centigrade/NNP ,/, or/CC Celsius/NNP ./.","-- more problem ] with the temperature, except that, {D you know, } working in engineering, we do everything in Centigrade, or Celsius. /"
+sd,A,"Well/UH ,/, I/PRP had/VBD kind/RB of/RB gotten/VBN used/JJ to/IN centigrade/NNP temperature/NN ,/, you/PRP know/VBP ,/,","{D Well, } I had kind of gotten used to centigrade temperature, {D you know, } /"
+sv,A,"if/IN it/PRP 's/BES between/IN zero/CD and/CC ten/CD ,/, it/PRP 's/BES cold/JJ ,/,","if it's between zero and ten, it's cold, /"
+sv,A,"and/CC if/IN it/PRP 's/BES ten/CD and/CC twenty/CD it/PRP 's/BES not/RB too/RB bad/JJ ,/,","{C and } if it's ten and twenty it's not too bad, /"
+sv,A,"if/IN it/PRP 's/BES between/IN twenty/CD and/CC thirty/CD it/PRP 's/BES pretty/RB warm/JJ ,/,","if it's between twenty and thirty it's pretty warm, /"
+aa,B,"It/PRP 's/BES getting/VBG warm/JJ ,/, right/UH ./.","It's getting warm, right. /"
+sv,A,if/IN it/PRP 's/BES more/JJR than/IN thirty/CD it/PRP 's/BES just/RB hotter/JJR than/IN all/DT get/VB out/RP ./.,if it's more than thirty it's just hotter than all get out. /
+sv,A,"So/RB ,/, but/CC ,/, uh/UH ./. The/DT big/JJ problem/NN is/VBZ not/RB having/VBG the/DT ,/, uh/UH ,/, the/DT resolution/NN between/IN temperature/NN ,/, you/PRP know/VBP ,/, between/IN a/DT hundred/CD ,/, if/IN you/PRP 're/VBP talking/VBG about/IN a/DT hundred/CD degrees/NNS or/CC what/WP ,/, thirty/CD ,/, zero/CD ,/, you/PRP know/VBP thirty/CD four/CD degrees/NNS ,/, whatever/WP that/DT is/VBZ ./.","[ {C So, } + {C but, } ] {F uh. } The big problem is not having [ the, + {F uh, } the ] resolution [ between temperature, + {D you know, } between a hundred, ] if you're talking about a hundred degrees or what, thirty, zero, {D you know } thirty four degrees, whatever that is. /"
+sv,A,"You/PRP know/VBP ,/, you/PRP do/VBP n't/RB get/VB all/PDT the/DT little/JJ differences/NNS --/:","{D You know, } you don't get all the little differences -- /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+%,B,it/PRP 's/BES about/IN ./.,it's about. -/
+sd,A,"--/: you/PRP know/VBP ,/, the/DT differences/NNS between/IN seventy/CD and/CC seventy-two/CD or/CC seventy-five/CD degrees/NNS is/VBZ n't/RB much/JJ ,/,","-- {D you know, } the differences between seventy and seventy-two or seventy-five degrees isn't much, /"
+sd,A,"but/CC the/DT difference/NN thirty/CD and/CC thirty-five/CD degrees/NNS is/VBZ ,/, quite/PDT a/DT bit/NN ./.","{C but } the difference thirty and thirty-five degrees is, quite a bit. /"
+sd,B,"Is/VBZ about/RB twice/RB as/RB much/JJ ,/, what/WP it/PRP works/VBZ out/IN to/IN ./.","Is about twice as much, what it works out to. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,five/CD ./.,five <laughter>. /
+sd,B,One/CD point/NN eight/CD times/NNS as/IN many/JJ --/:,One point eight times as many --
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,something/NN like/IN that/DT ./.,something like that. /
++,B,--/: points/NNS ./.,-- points. /
+%,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"so/RB ./. I/PRP ,/, I/PRP think/VBP as/RB long/RB as/IN people/NNS have/VBP a/DT choice/NN ,/, they/PRP 're/VBP going/VBG to/TO stick/VB with/IN the/DT American/JJ way/NN ./.","{C so. } [ I, + I ] think as long as people have a choice, they're going to stick with the American way. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC until/IN we/PRP have/VBP to/TO ,/, have/VB to/TO learn/VB to/TO think/VB that/DT way/NN ,/, we/PRP wo/MD n't/RB ./.","{C And } until we [ have to, + have to ] learn to think that way, we won't. /"
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,"Though/IN we/PRP call/VBP it/PRP the/DT English/JJ system/NN ,/,","Though we call it the English system, /"
+sd,A,but/CC I/PRP 'm/VBP not/RB sure/JJ what/WP they/PRP do/VBP in/IN England/NNP now/RB ./.,{C but } I'm not sure what they do in England now. /
+qy,A,"They/PRP 're/VBP ,/, they/PRP 're/VBP on/IN metric/NN ,/, are/VBP n't/RB they/PRP ?/.","[ They're, + they're ] on metric, aren't they? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"for/IN the/DT most/JJS part/NN ,/, I/PRP think/VBP so/RB ./.","for the most part, I think so. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"except/IN they/PRP 've/VBP got/VBN a/DT ,/,","except they've got a, - /"
+sd,A,"now/UH ,/, okay/UH ,/, we/PRP run/VBP into/IN some/DT problems/NNS once/RB ,/,","{D now, } {D okay, } we run into some problems once, /"
+sd,A,"I/PRP remember/VBP ,/, they/PRP 've/VBP got/VBN a/DT nut/NN and/CC bolts/NNS system/NN called/VBD Wentworth/NNP ./.","I remember, they've got a nut and bolts system called Wentworth. /"
+sd,A,"And/CC this/DT thing/NN was/VBD ,/, was/VBD even/RB different/JJ than/IN ,/, you/PRP know/VBP ,/, S/NNP A/NNP E/NNP standards/NNS and/CC stuff/NN ./.","{C And } this thing [ was, + was ] even different than, {D you know, } S A E standards and stuff. /"
+%,A,"So/RB ,/,","{C So, } -/"
+b,B,Right/UH ./.,Right. /
+%,A,"This/DT ,/, this/DT ,/, ca-/XX ,/,","[ This, + this, ] ca-, - /"
+%,A,"okay/UH ,/,","okay, /"
+sd,A,"my/PRP$ dad/NN bought/VBD one/CD of/IN these/DT little/JJ Nash/NNP Metropolitans/NNPS here/RB a/DT few/JJ years/NNS ba-/RB ,/, quite/PDT a/DT few/JJ years/NNS back/RB ,/,","my dad bought one of these little Nash Metropolitans here [ a few years ba-, + quite a few years back, ] /"
+sd,A,"and/CC the/DT thing/NN had/VBD a/DT Austin/NNP Heeley/NNP type/NN engine/NN ,/, you/PRP know/VBP ,/,","{C and } the thing had a Austin Heeley type engine, {D you know, } /"
+sd,A,it/PRP was/VBD Austin/NNP motors/NNS engine/NN and/CC running/NN gear/NN ./.,it was Austin motors engine and running gear. /
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC the/DT body/NN was/VBD built/VBN by/IN Nash/NNP ,/,","{C And } the body was built by Nash, /"
+%,A,"or/CC who/WP ,/, you/PRP know/VBP ,/,","{C or } who, {D you know, } - /"
+sd,A,"Ameri-/NNP ,/, that/DT was/VBD even/RB before/IN American/NNP Motors/NNPS ,/,","[ Ameri-, + that was even before American ] Motors, /"
+sd,A,"but/CC Nash/NNP ,/, essentially/RB ,/, in/IN the/DT U/NNP S/NNP somewhere/RB ./.","{C but } Nash, essentially, in the U S somewhere. - /"
+sd,A,"And/CC that/DT thing/NN had/VBD the/DT darndest/JJS combination/NN of/IN metric/NN and/CC Wentworth/NNP and/CC ,/, uh/UH ,/, S/NNP A/NNP E/NNP ./.","{C And } that thing had the darndest combination of metric and Wentworth and, {F uh, } S A E. /"
+sd,A,He/PRP ended/VBD up/RP with/IN about/RB three/CD sets/NNS of/IN tools/NNS --/:,He ended up with about three sets of tools --
+%,B,He/PRP just/RB get/VBP one/CD more/JJR MUMBLEx/XX ./.,He just get one more (( )) . /
++,A,--/: in/IN order/NN to/TO work/VB on/IN that/DT fool/NN thing/NN ./.,-- in order to work on that fool thing. /
+sd,A,"Because/IN I/PRP think/VBP the/DT Wentworth/NNP and/CC the/DT S/NNP A/NNP E/NNP bolt/NN sizes/NNS were/VBD the/DT same/JJ ,/,","{C Because } I think the Wentworth and the S A E bolt sizes were the same, /"
+sd,A,"but/CC the/DT threads/NNS were/VBD different/JJ ,/,","{C but } the threads were different, /"
+sd,A,"and/CC ,/, uh/UH --/:","{C and, } {F uh } --"
+ba,B,"Oh/UH ,/, that/DT would/MD be/VB a/DT mess/NN ./.","{F Oh, } that would be a mess. /"
++,A,--/: it/PRP was/VBD a/DT total/JJ mess/NN ./.,-- it was a total mess. /
+sd,A,And/CC on/IN my/PRP$ Chevy/NNP van/NN that/WDT 's/BES a/DT couple/NN of/IN years/NNS old/JJ ./.,{C And } on my Chevy van that's a couple of years old. /
+sd,A,Part/NN of/IN it/PRP 's/BES built/VBN in/IN Canada/NNP ./.,Part of it's built in Canada. /
+sd,A,"Matter/NN of/IN fact/NN ,/, the/DT thing/NN is/VBZ ,/, I/PRP always/RB say/VBP it/PRP 's/BES built/VBN off/GW shore/^RB ,/, you/PRP know/VBP ,/, because/IN it/PRP was/VBD assembled/VBN in/IN Canada/NNP ./.","Matter of fact, the thing is, I always say it's built off shore, <laughter> {D you know, } because it was assembled in Canada. /"
+sd,A,"The/DT only/JJ thing/NN that/WDT was/VBD in/IN it/PRP was/VBD built/VBN in/IN the/DT U/NNP S/NNP was/VBD the/DT ,/, uh/UH ,/, differential/JJ ,/,","The only thing that was in it [ was + built in the U S was ] the, {F uh, } differential, /"
+sd,A,"and/CC it/PRP was/VBD built/VBN in/IN Buffalo/NNP ,/, New/NNP York/NNP ./.","{C and } it was built in Buffalo, New York. /"
+sd,A,"But/CC it/PRP 's/HVS got/VBN the/DT hardest/JJS combination/NN of/IN ,/, uh/UH ,/, metric/NN","{C But } it's got the hardest combination of, {F uh, } metric /"
+sd,A,"and/CC ,/, most/JJS of/IN the/DT body/NN parts/NNS seem/VBP to/TO be/VB metric/NN ,/,","{C and, } most of the body parts seem to be metric, /"
+sd,A,"and/CC most/JJS of/IN the/DT engine/NN parts/NNS seem/VBP to/TO be/VB S/NNP A/NNP E/NNP ,/,","{C and } most of the engine parts seem to be S A E, /"
+sd,A,so/RB ./. It/PRP 's/BES just/RB crazy/JJ ./.,{C so. } It's just crazy. /
+aa,B,Right/UH ./.,Right. /
+sv,B,"It/PRP just/RB gets/VBZ bad/JJ ,/,","It just gets bad, /"
+sv,B,"now/RB ,/, you/PRP got/VBD to/TO ,/, you/PRP got/VBD to/TO have/VB one/CD ,/, and/CC not/RB mix/VB them/PRP up/RP ./.","{D now, } [ you got to, + you got to ] have one, and not mix them up. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Because/IN you/PRP 're/VBP never/RB going/VBG to/TO get/VB to/IN one/CD ,/, one/CD system/NN if/IN you/PRP still/RB got/VBD a/DT ,/, got/VBD a/DT mix/NN ./.","{C Because } you're never going to get to [ one, + one ] system if you still [ got a, + got a ] mix. /"
+sv,B,"And/CC of/IN course/NN ,/, here/RB that/DT ,/, that/DT would/MD involve/VB changing/VBG road/NN signs/NNS all/RB across/IN the/DT country/NN ,/, you/PRP know/VBP ,/, miles/NNS per/IN hour/NN to/IN kilometers/NNS per/IN hour/NN ,/, and/CC the/DT whole/JJ nine/CD yards/NNS ./.","{C And } of course, here [ that, + that ] would involve changing road signs all across the country, {D you know, } miles per hour to kilometers per hour, and the whole nine yards. /"
+sv,B,Kind/RB of/RB hard/JJ to/TO do/VB gradually/RB ./.,Kind of hard to do gradually. /
+sd,A,"I/PRP thought/VBD maybe/RB they/PRP would/MD convert/VB to/IN ,/, uh/UH ,/, metric/NN back/RB when/WRB they/PRP went/VBD to/IN the/DT fifty-five/CD mile/NN an/DT hour/NN speed/NN limit/NN ,/, because/IN what/WP is/VBZ it/PRP --/:","I thought maybe they would convert to, {F uh, } metric back when they went to the fifty-five mile an hour speed limit, because what is it --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: fifty-six/CD or/CC fifty-seven/CD 's/BES a/DT hundred/CD ,/, uh/UH ,/, qua-/XX ,/, a/DT hundred/CD kilometers/NNS ,/,","-- fifty-six or fifty-seven's [ a hundred, + {F uh, } [ qua-, + ] a hundred ] kilometers, /"
+%,A,and/CC you/PRP know/VBP --/:,{C and } {D you know } -- -/
+sv,B,"Hell/UH ,/, you/PRP 'd/MD have/VB people/NNS doing/VBG a/DT hundred/CD miles/NNS an/DT hour/NN ./.","{D Hell, } you'd have people doing a hundred miles an hour. /"
+aa,A,"--/: yeah/UH ,/,","-- yeah, /"
+sv,A,"you/PRP 'd/MD have/VB ,/,","you'd have, /"
+sv,A,"hundreds/NNS on/IN the/DT sign/NN looks/VBZ lot/RB better/RB than/IN fifty/CD five/CD ,/,","hundreds on the sign looks lot better than fifty five, /"
+aa,A,"you/PRP 'd/MD have/VB people/NNS going/VBG ,/, you/PRP 're/VBP right/JJ ,/, a/DT hundred/CD miles/NNS an/DT hour/NN ./.","you'd have people going, {A you're right, } a hundred miles an hour. /"
+b,B,Yeah/UH ./.,Yeah. /
+h,A,"And/CC ,/, so/RB ./. I/PRP do/VBP n't/RB know/VB ,/,","{C And, so. } I don't know, /"
+%,A,"I/PRP 'd/MD kind/RB of/RB ,/,","I'd kind of, - /"
+sd,A,"and/CC the/DT other/JJ thing/NN ,/, too/RB ,/, is/VBZ ,/, you/PRP know/VBP ,/, between/IN here/RB and/CC El/NNP Paso/NNP 's/BES ,/, what/WP ,/, five/CD hundred/CD miles/NNS ,/,","{C and } the other thing, too, is, {D you know, } between here and El Paso's, what, five hundred miles, /"
+sd,A,"but/CC it/PRP 's/BES almost/RB eight/CD hundred/CD kilometers/NNS ,/, you/PRP know/VBP ./.","{C but } it's almost eight hundred kilometers, {D you know. } /"
+sv,A,That/DT 'd/MD sure/RB seems/VBZ like/IN a/DT long/JJ way/NN ./.,That'd sure seems like a long way. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"but/CC they/PRP 'd/MD need/VB ,/, they/PRP 'd/MD seem/VB to/TO be/VB ticking/VBG off/RP faster/RBR ,/, too/RB ./.","{C but } [ they'd need, + they'd seem ] to be ticking off faster, too. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,I/PRP guess/VBP that/DT 's/BES it/PRP ./.,I guess that's it. /
+sv,B,"Every/DT road/NN sign/NN you/PRP come/VBP to/IN ,/, is/VBZ like/IN ,/, well/UH I/PRP do/VBP n't/RB know/VB it/PRP that/RB far/RB ./.","Every road sign you come to, is like, {D well } I don't know it that far. /"
+sd,A,"Well/UH they/PRP converted/VBD all/PDT the/DT road/NN signs/VBZ to/IN fifty-five/CD miles/NNS an/DT hour/NN ,/, you/PRP know/VBP ,/,","{D Well } they converted all the road signs to fifty-five miles an hour, {D you know, } /"
+sv,A,they/PRP could/MD 've/VBP converted/VBN it/PRP to/IN metric/NN just/RB about/RB as/RB easy/RB ./.,they could've converted it to metric just about as easy. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"I/PRP think/VBP they/PRP ,/,","I think they, - /"
+sv,B,"you/PRP got/VBD the/DT problem/NN with/IN all/DT your/PRP$ cars/NNS are/VBP still/RB ,/,","you got the problem with all your cars are still, - /"
+%,B,"yeah/UH ,/,","yeah, /"
+sv,B,you/PRP still/RB got/VBD cars/NNS on/IN the/DT road/NN that/WDT do/VBP n't/RB have/VB both/DT ./.,you still got cars on the road that don't have both. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"At/IN that/DT time/NN ,/, anyway/RB ,/, that/DT was/VBD still/RB when/WRB things/NNS were/VBD ,/,","At that time, {D anyway, } that was still when things were, - /"
+sv,B,"the/DT metric/NN system/NN was/VBD still/RB not/RB ,/,","the metric system was still not, -/"
+^2,A,Not/RB all/DT that/RB common/JJ ./.,Not all that common. /
+sv,B,"You/PRP know/VBP ,/, now/RB cars/NNS ,/, they/PRP have/VBP both/DT ./.","{D You know, } now cars, they have both. /"
+sv,B,Sooner/JJR or/CC later/JJR they/PRP 'll/MD start/VB putting/VBG the/DT miles/NNS on/IN the/DT inside/NN and/CC the/DT kilometers/NNS in/IN big/JJ numbers/NNS so/IN people/NNS start/VBP thinking/VBG that/DT way/NN ./.,Sooner or later they'll start putting the miles on the inside and the kilometers in big numbers so people start thinking that way. /
+sd,A,"I/PRP know/VBP the/DT only/JJ other/JJ place/NN that/IN I/PRP was/VBD ever/RB at/IN where/WRB they/PRP really/RB had/VBD it/PRP mixed/VBD was/VBD ,/, was/VBD in/IN Panama/NNP ,/, where/WRB 's/BES a/DT lot/NN of/IN the/DT road/NN signs/NNS and/CC everything/NN are/VBP in/IN ,/, in/IN miles/NNS per/IN hour/NN","I know the only other place that I was ever at where they really had it mixed [ was, + was ] in Panama, where's a lot of the road signs and everything are [ in, + in ] miles per hour /"
+sd,A,and/CC some/DT are/VBP in/IN kilometers/NNS ./.,{C and } some are in kilometers. /
+sd,A,And/CC you/PRP got/VBD to/TO know/VB where/WRB you/PRP are/VBP --/:,{C And } you got to know where you are --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: because/IN anything/NN that/WDT was/VBD the/DT old/JJ canal/NN zone/NN is/VBZ going/VBG to/TO be/VB miles/NNS per/IN hour/NN ,/,","-- because anything that was the old canal zone is going to be miles per hour, /"

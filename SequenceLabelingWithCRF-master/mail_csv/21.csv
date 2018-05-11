@@ -1,0 +1,75 @@
+speaker,pos
+Doyle,Quick/JJ question/NN ./.
+Doyle,"In/IN earlier/JJR versions/NNS of/IN Acrobat/NNP ,/, it/PRP was/VBD not/RB possible/JJ to/TO make/VB PDF/NNP files/NNS accessible/JJ if/IN the/DT files/NNS were/VBD actually/RB developed/VBN on/IN a/DT Macintosh/NNP ./."
+Doyle,Is/VBZ this/DT still/RB the/DT case/NN with/IN the/DT latest/JJS version/NN of/IN Acrobat/NNP for/IN the/DT Mac/NNP (version/NN I/PRP
+Doyle,Thanks/NNS for/IN any/DT information/NN ./.
+Doyle,Doyle/NN
+Doyle,Doyle/NNP Burnett/NNP
+Doyle,Education/NN and/CC Training/NNP Specialist/NNP
+Doyle,Multiple/JJ Disabilities/NNP Program/NNP
+Doyle,Special/JJ Education/NNP Service/NNP Agency/NNP
+Doyle,
+Doyle,
+Doyle,
+Loretta,"Doyle/NNP ,/,"
+Loretta,The/DT Make/NNP Accessible/JJ command/NN is/VBZ now/RB available/JJ in/IN Acrobat/NNP Pro/NNP 6.0/CD for/IN the/DT Mac/NNP as/RB well/RB as/IN for/IN Windows/NNP ./.
+Loretta,Loretta/NN
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,A/DT clarification:/NN
+Loretta,"it/PRP is/VBZ available/JJ in/IN both/DT Acrobat/NNP 6.0/CD Professional/NNP and/CC Acrobat/NNP 6.0/CD Standard/NNP ,/, for/IN the/DT Mac/NNP and/CC Windows/NNP ./."
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Loretta,
+Sailesh,Hello/NN
+Sailesh,I/PRP am/VBP just/RB not/RB sure/JJ what/WP the/DT Make/NNP Accessible/JJ feature/NN really/RB does/VBZ ./.
+Sailesh,I/PRP am/VBP a/DT JAWS/NNP user/NN and/CC a/DT PDF/NNP file/NN is/VBZ as/IN usable/JJ or/CC unusable/JJ as/IN it/PRP was/VBD before/IN I/PRP run/VBP the/DT Make/NNP Accessible/JJ feature/NN on/IN it/PRP ./.
+Sailesh,I/PRP shall/MD be/VB glad/JJ if/IN you/PRP can/MD enlighten/VB me/PRP on/IN this/DT ./.
+Sailesh,Sailesh/NN
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Sailesh,
+Loretta,"Sailesh/NNP ,/,"
+Loretta,Make/NNP Accessible/NNP is/VBZ a/DT command/NN that/WDT attempts/VBZ to/TO analyze/VB an/DT untagged/JJ PDF/NNP file/NN and/CC infer/VB logical/JJ structure/NN from/IN the/DT marks/NNS on/IN the/DT page/NN ./.
+Loretta,This/DT would/MD be/VB used/VBN by/IN an/DT author/NN who/WP is/VBZ trying/VBG to/TO repair/VB accessibility/NN problems/NNS in/IN an/DT existing/VBG PDF/NNP file/NN ./.
+Loretta,The/DT best/JJS analogy/NN is/VBZ that/IN it/PRP is/VBZ doing/VBG OCR/NNP on/IN the/DT logical/JJ strucure/NN ./.
+Loretta,"Like/IN OCR/NNP technology/NN ,/, it/PRP is/VBZ imperfect/JJ ,/, and/CC the/DT results/NNS should/MD be/VB reviewed/VBN and/CC corrected/VBN ,/, if/IN necessary/JJ ,/, by/IN the/DT author/NN ./."
+Loretta,"In/IN Acrobat/NNP 5/CD ,/, this/DT command/NN was/VBD only/RB available/JJ on/IN Windows/NNP ./."
+Loretta,"In/IN Acrobat/NNP 6/CD ,/, it/PRP is/VBZ available/JJ for/IN both/DT Mac/NNP and/CC Windows/NNP ./."
+Loretta,"When/WRB the/DT Adobe/NNP Reader/NNP 6.0/CD is/VBZ presenting/VBG an/DT untagged/JJ PDF/NNP file/NN to/TO assistive/VB technology/NN ,/, it/PRP automatically/RB runs/VBZ MakeAccessible/NNP internally/RB to/TO infer/VB logical/JJ structure/NN ./."
+Loretta,"This/DT can/MD make/VB loading/VBG an/DT untagged/JJ PDF/NNP considerably/RB slower/JJR than/IN loading/VBG a/DT tagged/JJ PDF/NNP ,/, but/CC makes/VBZ it/PRP possible/JJ ,/, for/IN example/NN ,/, to/TO read/VB tables/NNS even/RB in/IN an/DT untagged/JJ PDF/NNP ./."
+Loretta,Loretta/NN

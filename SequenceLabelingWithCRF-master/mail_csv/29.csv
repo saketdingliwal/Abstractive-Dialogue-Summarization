@@ -1,0 +1,56 @@
+speaker,pos
+Graham,I/PRP have/VBP built/VBN a/DT form/NN which/WDT has/VBZ a/DT submit/NN button/NN on/IN it/PRP ./.
+Graham,"If/IN the/DT user/NN activates/VBZ the/DT button/NN and/CC has/VBZ not/RB filled/VBN out/RP the/DT form/NN correctly/RB ,/, a/DT javascript/NN pop-up/NN is/VBZ presented/VBN to/TO the/DT user/NN ,/, giving/VBG more/JJR information/NN ./."
+Graham,This/DT appears/VBZ to/TO be/VB in/IN breach/NN of/IN checkpoint/NN 10.1/CD
+Graham,
+Graham,"Would/MD it/PRP be/VB acceptable/JJ to/TO provide/VB a/DT warning/NN message/NN ,/, something/NN like/IN 'Submitting/VBG this/DT form/NN may/MD result/VB in/IN a/DT pop-up/JJ dialog/NN being/VBG displayed'/VBN before/IN the/DT submit/NN button/NN ,/, in/IN the/DT same/JJ color/NN as/IN the/DT background/NN ?/."
+Graham,Thus/RB (I/JJ believe)/NN making/VBG the/DT text/NN available/JJ to/TO screen/JJ reader/NN users/NNS but/CC not/RB to/TO sighted/VB users/NNS ?/.
+Graham,Regards/NNS
+Graham,Graham/NNP Oliver/NNP
+Graham,__________________________________________________/NN
+Graham,Do/VB You/PRP
+Graham,Get/NNP email/NN at/IN your/PRP$ own/JJ domain/NN with/IN Yahoo/NNP !/. Mail/NNP ./.
+Graham,
+David,
+David,
+David,
+David,
+David,
+David,
+David,This/DT will/MD show/VB up/RP on/IN any/DT device/NN that/IN cannot/NN display/NN colours/VBZ or/CC does/VBZ not/RB understand/VB the/DT styling/NN used/VBN to/TO set/VB the/DT colours/NN ./.
+David,It/PRP is/VBZ a/DT known/JJ trick/NN for/IN stuffing/VBG keywords/NNS for/IN search/NN engines/NNS and/CC may/MD result/VB in/IN the/DT site/NN being/VBG boycotted/VBN by/IN major/JJ search/NN engines/NNS ./.
+David,"One/CD is/VBZ expecting/VBG a/DT major/JJ change/NN in/IN content/NN when/WRB one/CD submits/VBZ a/DT form/NN ,/, so/IN one/CD of/IN the/DT main/JJ reasons/NNS for/IN avoiding/VBG popups/NN does/VBZ not/RB apply/VB ./."
+Charles,It/PRP also/RB depends/VBZ on/IN how/WRB the/DT screen/NN reader/NN gets/VBZ its/PRP$ content/NN -/:
+Charles,readers/NNS that/WDT are/VBP too/RB smart/JJ about/IN colours/NNS (a/VBP useful/JJ feature)/NN will/MD realise/VB that/IN the/DT text/NN is/VBZ invisible/JJ and/CC skip/VB it/PRP ./.
+Charles,"(given/RB the/DT way/NN this/DT is/VBZ normally/RB used/VBN to/TO stuff/VB keywords/NNS in/IN pages/NNS ,/, it/PRP is/VBZ not/RB a/DT bad/JJ"
+Charles,Charles/NNP McCN/NNP
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,Charles/NNP McCathieNevile/NNP phone:/NN +61/VBD 409/CD 134/CD 136/CD
+Charles,W3C/NNP Web/NNP Accessibility/NNP Initiative/NNP fax:/NN +1/VBD 617/CD 258/CD 5999/CD
+Charles,"Location:/NNP 110/CD Victoria/NNP Street/NNP ,/, Carlton/NNP VIC/NNP 3053/CD ,/, Australia/NNP"
+Charles,"(or/JJ W3C/NNP INRIA/NNP ,/, Route/NNP des/VBZ Lucioles/NNP ,/, BP/NNP 93/CD ,/, 06902/CD Sophia/NNP Antipolis/NNP Cedex/NNP ,/, France)/NNP"
+Anthony,"Hi/NNP All/NNP ,/,"
+Anthony,You/PRP could/MD try/VB using/VBG a/DT spacer/NN image/NN and/CC then/RB put/VB your/PRP$ message/NN in/IN the/DT alt/NN text/NN ./.
+Anthony,I/PRP do/VBP not/RB know/VB how/WRB that/DT will/MD behave/VB in/IN the/DT screenreader/NN but/CC it/PRP may/MD help/VB get/VB around/IN the/DT problem/NN with/IN the/DT search/NN engine/NN ./.
+Anthony,Anthony/NN
+Anthony,
+Anthony,
+Anthony,
+Anthony,
+Anthony,
+Jon,
+Jon,
+Jon,
+Jon,"Perhaps/RB not/RB ,/, since/IN putting/VBG spider-bait/NN in/IN alt/NN attributes/NNS is/VBZ just/RB as/RB old/JJ a/DT search-engine/JJ as/IN hiding/VBG stuff/NN using/VBG colour/NN ./."
+Jon,On/IN the/DT other/JJ hand/NN there/EX is/VBZ not/RB really/RB anyway/RB I/PRP can/MD think/VB of/IN for/IN spiders/NNS to/TO know/VB whether/IN they/PRP are/VBP being/VBG baited/VBN unless/IN there/EX is/VBZ a/DT lot/NN of/IN repetition/NN of/IN words/NNS other/JJ than/IN etc/FW ./.
+Jon,"Spider-baiting/NN in/IN itself/PRP is/VBZ quite/RB a/DT problem/NN for/IN users/NNS of/IN text/NN ,/, whether/IN sighted/VBN text-only/JJ users/NNS or/CC users/NNS of/IN enabling/VBG technologies/NNS ./."
+Jon,I/PRP have/VBP quite/RB often/RB come/VBN across/IN sites/NNS with/IN little/JJ for/IN a/DT text-only/JJ user/NN to/TO read/VB but/CC the/DT keywords/NNS they/PRP want/VBP to/TO be/VB listed/VBN over/IN repeated/VBD 50/CD times/NNS ./.

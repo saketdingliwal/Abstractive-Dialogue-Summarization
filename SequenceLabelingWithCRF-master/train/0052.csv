@@ -1,0 +1,130 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,Okay/UH,Okay /
+%,A,"well/UH ,/,","{D well, } -/"
+sd,B,There/EX we/PRP are/VBP ./.,There we are. /
+b,A,"All/RB right/JJ ./. Um/UH ,/, um/UH ,/, well/UH ,/, uh/UH ,/,","All right. {F Um, } {F um, } {D well, } {F uh, } /"
+ad,A,tell/VB me/PRP about/IN the/DT car/NN that/WDT you/PRP 've/VBP got/VBN ./.,tell me about the car that you've got. /
+sd,B,"Well/UH ,/, I/PRP have/VBP a/DT Honda/NNP ,/, um/UH ,/, hatchback/NN ,/, nineteen/CD eighty-four/CD ./.","<Throat_clearing> {D Well, } I have a Honda, {F um, } hatchback, nineteen eighty-four. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC I/PRP had/VBD a/DT hatchback/NN ,/, a/DT nineteen/CD seventy-eight/CD version/NN before/IN this/DT one/NN ./.","{C And } I had a hatchback, a nineteen seventy-eight version before this one. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP 'll/MD be/VB honest/JJ with/IN you/PRP ./.","{C And, } {F uh, } I'll be honest with you. /"
+sd,B,"I/PRP have/VBP never/RB found/VBN any/DT automobile/NN that/WDT has/VBZ been/VBN more/RBR conscientiously/RB constructed/VBN and/CC ,/, and/CC ,/, uh/UH ,/, put/VBN together/RB","I have never found any automobile that has been more conscientiously constructed [ and, + and, ] {F uh, } put together /"
+sv,B,"and/CC it/PRP ,/, it/PRP does/VBZ its/PRP$ job/NN ./.","{C and } [ it, + it ] does its job. /"
+sd,B,"All/DT I/PRP have/VBP to/TO do/VB on/IN my/PRP$ Honda/NNP is/VBZ change/VB the/DT oil/NN and/CC the/DT filter/NN every/DT thirty-five/CD hundred/CD miles/NNS ,/,","All I have to do on my Honda is change the oil and the filter every thirty-five hundred miles, /"
+sd,B,"and/CC I/PRP ,/, I/PRP did/VBD have/VBP to/TO put/VB two/CD ,/, two/CD new/JJ front/JJ tires/NNS on/IN at/IN fifty/CD thousand/CD miles/NNS ,/,","{C and } [ I, + I ] did have to put [ two, + two ] new front tires on at fifty thousand miles, /"
+sd,B,but/CC that/DT car/NN just/RB purrs/VBZ like/IN the/DT day/NN it/PRP was/VBD built/VBN ./.,{C but } that car just purrs like the day it was built. /
+sd,B,"I/PRP get/VBP forty-two/CD miles/NNS per/IN gallon/NN on/IN the/DT highway/NN and/CC uh/UH ,/, twen-/CD ,/, twenty-eight/CD to/IN thirty/CD driving/VBG around/RB in/IN town/NN ./.","I get forty-two miles per gallon on the highway and {F uh, } [ twen-, + twenty-eight ] to thirty driving around in town. /"
+sd,B,It/PRP 's/BES a/DT five/CD speed/NN straight/JJ stick/NN machine/NN ./.,It's a five speed straight stick machine. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, I/PRP can/MD carry/VB more/JJR in/IN that/DT ,/, uh/UH ,/, that/DT trunk/NN area/NN in/IN my/PRP$ little/JJ Honda/NNP than/IN I/PRP can/MD in/IN the/DT big/JJ cars/NNS ,/,","{C And, } I can carry more in [ that, + {F uh, } that ] trunk area in my little Honda than I can in the big cars, /"
+sd,B,"and/CC I/PRP have/VBP a/DT large/JJ ,/, um/UH ,/, Pontiac/NNP ,/,","{C and } I have a large, {F um, } Pontiac, /"
+sd,B,"and/CC I/PRP have/VBP a/DT sixty-nine/CD Cougar/NNP ,/, which/WDT really/RB is/VBZ ,/, I/PRP 'm/VBP saving/VBG because/IN it/PRP 's/BES ,/, it/PRP 's/BES old/JJ ,/,","{C and } I have a sixty-nine Cougar, which [ really is, + I'm saving because [ it's, + it's ] ] old, /"
+sd,B,but/CC it/PRP 's/BES in/IN beautiful/JJ shape/NN ./.,{C but } it's in beautiful shape. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"But/CC I/PRP can/MD carry/VB as/RB much/JJ in/IN my/PRP$ Honda/NNP or/CC more/JJR than/IN I/PRP can/MD in/IN ,/, in/IN those/DT other/JJ bigger/JJR cars/NNS ./.","{C But } I can carry as much in my Honda or more than I can [ in, + in ] those other bigger cars. /"
+ba,A,"Well/UH ,/, that/DT 's/BES very/RB interesting/JJ ./.","{D Well, } that's very interesting. /"
+sd,A,"I/PRP 've/VBP had/VBN ,/, I/PRP 've/VBP had/VBN exactly/RB the/DT same/JJ experience/NN with/IN the/DT one/NN that/WDT I/PRP 've/VBP got/VBN ./.","[ I've had, + I've had ] exactly the same experience with the one that I've got. /"
+%,A,"It/PRP 's/BES a/DT ,/,","It's a, - /"
+sd,A,and/CC surprisingly/RB it/PRP 's/BES also/RB an/DT eighty-four/CD --/:,{C and } surprisingly it's also an eighty-four -- /
+b,B,"Oh/UH ,/, oh/UH ./.","{F Oh, } {F oh. } /"
+%,A,"--/: and/CC ,/, uh/UH ,/,","-- <Throat_clearing> {C and, } {F uh, } -/"
+qy^d,B,L/NNP X/NNP ?/.,<Throat_clearing> L X? /
+ny,A,"Yeah/UH ,/,","<Throat_clearing> Yeah, /"
+sd,A,I/PRP 'm/VBP still/RB here/RB ./.,I'm still here. /
+br,A,"Um/UH ,/, I/PRP 'm/VBP sorry/JJ what/WP ?/.","{F Um, } {E I'm sorry } what? /"
+qy^d,B,It/PRP was/VBD an/DT L/NNP X/NNP ?/.,It was an L X? /
+ny,A,"Yes/UH ,/,","Yes, /"
+sd,A,"it/PRP 's/BES an/DT L/NNP X/NNP ,/,","it's an L X, /"
+sd,A,"it/PRP 's/BES not/RB a/DT hatchback/NN ,/,","it's not a hatchback, /"
+%,A,"but/CC it/PRP 's/BES ,/, um/UH ,/, it/PRP 's/BES ,/, uh/UH ,/,","{C but } [ it's, + {F um, } it's, ] {F uh, } -/"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+qy^d,B,yours/PRP is/VBZ a/DT four/CD door/NN ./.,yours is a four door. /
+na,A,"Four/CD door/NN ,/,","Four door, /"
+ny,A,yeah/UH --/:,yeah -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: and/CC very/RB ,/, very/RB comfortable/JJ car/NN ./.","-- and very, very comfortable car. /"
+sd,A,Big/JJ roomy/JJ trunk/NN --/:,Big roomy trunk -- /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: uh/UH ,/, and/CC ,/, uh/UH ,/, and/CC very/RB happy/JJ with/IN it/PRP ,/,","-- {F uh, } [ and, + {F uh, } and ] very happy with it, /"
+sd,A,"and/CC I/PRP must/MD admit/VB it/PRP 's/BES ,/, you/PRP know/VBP ,/,","{C and } I must admit it's, {D you know, } - /"
+%,A,"if/IN ,/, if/IN ,/, if/IN ,/, uh/UH ,/,","[ [ if, + if, ] + if, ] {F uh, } - /"
+sd,A,"my/PRP$ only/JJ consideration/NN were/VBD ,/, were/VBD ,/, you/PRP know/VBP ,/, buying/VBG another/DT car/NN just/RB to/TO tool/VB around/RB town/NN in/IN and/CC make/VB ,/, you/PRP know/VBP ,/, brief/JJ trips/NNS and/CC things/NNS like/IN that/DT ,/,","my only consideration [ were, + were, ] {D you know, } buying another car just to tool around town in and make, {D you know, } brief trips and things like that, /"
+sd,A,"I/PRP would/MD very/RB ,/, very/RB seriously/RB consider/VB buying/VBG one/CD ./. Uh/UH ,/,","I would [ very, + very ] seriously consider buying one. {F Uh, } /"
+sv,A,I/PRP think/VBP they/PRP 're/VBP extraordinarily/RB reliable/JJ cars/NNS ./.,I think they're extraordinarily reliable cars. /
+aa,B,"Yes/UH ,/,","Yes, /"
+sv,B,they/PRP are/VBP ./.,they are. /
+sd,A,"Um/UH ,/, my/PRP$ ,/, my/PRP$ real/JJ concern/NN with/IN ,/, uh/UH ,/, uh/UH ,/, why/WRB I/PRP 'm/VBP not/RB sure/JJ I/PRP want/VBP to/TO buy/VB a/DT Honda/NNP ,/, is/VBZ because/IN I/PRP have/VBP to/TO make/VB a/DT kind/NN of/IN a/DT ,/, a/DT steady/JJ ,/, um/UH ,/, trip/NN down/IN the/DT road/NN about/RB once/RB a/DT month/NN ,/, because/IN I/PRP 'm/VBP divorced/JJ","{F Um, } [ my, + my ] real concern with, {F uh, } {F uh, } why I'm not sure I want to buy a Honda, is because I have to make a kind of [ a, + a ] steady, {F um, } trip down the road about once a month, because I'm divorced /"
+sd,A,and/CC I/PRP have/VBP a/DT daughter/NN that/WDT lives/VBZ down/IN in/IN North/NNP Carolina/NNP --/:,{C and } I have a daughter that lives down in North Carolina -- /
+b,B,"Um/UH ,/, uh-huh/UH ./.","{F Um, } uh-huh. /"
+sd,A,"--/: and/CC ,/, uh/UH ,/, I/PRP drive/VBP ,/,","-- {C and, } {F uh, } I drive,"
+x,B,,<Cough>.
++,A,"down/IN Interstate/NNP Ninety-five/CD ,/,","down Interstate Ninety-five, /"
+sv,A,and/CC it/PRP 's/BES just/RB an/DT absolutely/RB wild/JJ highway/NN ./.,{C and } it's just an absolutely wild highway. /
+sv,B,Ninety-five/CD is/VBZ wild/JJ in/IN any/DT car/NN ./.,Ninety-five is wild in any car. /
+aa,B,There/EX 's/BES no/DT doubt/NN about/IN that/DT --/:,There's no doubt about that -- /
+b,A,Yeah/UH,Yeah /
+%,A,"and/CC ,/,","{C and, } -/"
+sd,B,"--/: because/IN I/PRP ,/, I/PRP ,/, I/PRP run/VBP over/IN to/IN Crystal/NNP City/NNP ,/, or/CC used/VBD to/TO ,/,","-- {C because } [ [ I, + I, ] + I ] run over to Crystal City, {E or } used to, /"
+sd,B,I/PRP 'm/VBP retiring/VBG the/DT end/NN of/IN this/DT month/NN --/:,I'm retiring the end of this month -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: but/CC I/PRP 'm/VBP very/RB much/RB aware/JJ of/IN the/DT crazy/JJ driving/NN that/WDT goes/VBZ on/RP over/IN there/RB ./.,-- {C but } I'm very much aware of the crazy driving that goes on over there. /
+aa,A,"And/CC ,/, you/PRP ,/, well/UH ,/, you/PRP 've/VBP got/VBN it/PRP ,/,","{C And, } [ you, + {D well, } you've ] got it, /"
+sd,A,"and/CC ,/, uh/UH ,/, so/RB having/VBG precious/JJ cargo/NN in/IN the/DT car/NN with/IN me/PRP ,/, as/IN you/PRP can/MD well/RB imagine/VB ,/, it/PRP 's/BES very/RB hard/JJ for/IN me/PRP to/TO imagine/VB that/IN ,/, that/IN ,/, uh/UH ,/, a/DT Honda/NNP 's/BES going/VBG to/TO be/VB as/RB safe/JJ a/DT car/NN as/IN ,/, as/IN the/DT one/NN that/WDT I/PRP 've/VBP got/VBN my/PRP$ eye/NN on/IN ,/, which/WDT is/VBZ a/DT Volvo/NNP ./.","[ {C and, } + {F uh, } {C so } ] having precious cargo in the car with me <laughter>, as you can well imagine, it's very hard for me to imagine [ that, + that, ] {F uh, } a Honda's going to be as safe a car [ as, + as ] the one that I've got my eye on, which is a Volvo. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+sd,A,"In/IN ,/, in/IN fact/NN ,/, quite/RB frankly/RB I/PRP 've/VBP owned/VBN a/DT Volvo/NNP in/IN the/DT past/NN ,/,","[ In, + in ] fact, quite frankly I've owned a Volvo in the past, /"
+%,A,and/CC --/:,{C and } --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: uh/UH ,/, I/PRP 've/VBP ,/, I/PRP 've/VBP ,/,","-- {F uh, } [ I've, + I've, ] - /"
+sv,A,"they/PRP 're/VBP expensive/JJ cars/NNS to/TO keep/VB up/RP when/WRB they/PRP need/VBP service/NN ,/,","they're expensive cars to keep up when they need service, /"
+sd,A,"but/CC ,/, uh/UH ,/, I/PRP 've/VBP found/VBN that/IN I/PRP 've/VBP had/VBN a/DT lot/NN of/IN luck/NN with/IN them/PRP ./.","{C but, } {F uh, } <sniffing> I've found that I've had a lot of luck with them. /"
+sd,A,"Uh/UH ,/, course/NN I/PRP 'm/VBP a/DT mechanically/RB inclined/JJ kind/RB of/RB person/NN ,/,","{F Uh, } course I'm a mechanically inclined kind of person, /"
+sd,A,"and/CC I/PRP always/RB wind/VBP up/RP getting/VBG under/IN the/DT hood/NN and/CC finding/VBG out/RP all/PDT the/DT things/NNS that/WDT ,/, you/PRP know/VBP ,/, need/VBP to/TO be/VB taken/VBN care/NN of/IN ,/, and/CC so/RB forth/RB ./.","{C and } I always wind up getting under the hood and finding out all the things that, {D you know, } need to be taken care of, and so forth. /"
+sv,A,"And/CC I/PRP guess/VBP that/DT 's/BES one/CD thing/NN that/WDT ,/, that/WDT recommends/VBZ the/DT Honda/NNP to/IN a/DT lot/NN of/IN people/NNS ,/, is/VBZ is/VBZ there/EX 's/BES just/RB very/RB little/JJ that/WDT you/PRP have/VBP to/TO do/VB under/IN the/DT hood/NN ,/,","{C And } I guess that's one thing [ that, + that ] recommends the Honda to a lot of people, [ is + is ] there's just very little that you have to do under the hood, /"
+%,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+aa,B,"Yes/UH ,/,","Yes, /"
+sd,B,"it/PRP just/RB ,/, just/RB sits/VBZ there/RB and/CC purrs/VBZ ,/,","it [ just, + just ] sits there and purrs, /"
+sd,B,"and/CC you/PRP ,/, all/DT you/PRP got/VBD to/TO do/VB is/VBZ the/DT main/JJ major/JJ thing/NN of/IN changing/VBG that/DT oil/NN and/CC that/DT filter/NN ./.","{C and } [ you, + all you ] got to do is the main major thing of changing that oil and that filter. /"
+sd,B,I/PRP get/VBP six/CD hundred/CD miles/NNS on/IN a/DT tank/NN of/IN gas/NN ./.,I get six hundred miles on a tank of gas. /
+aa,A,"Oh/UH ,/, I/PRP know/VBP ./.","{F Oh, } I know. /"
+sv,A,It/PRP 's/BES really/RB amazing/JJ ./.,It's really amazing. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"It/PRP 's/BES ,/, uh/UH ,/, ,/,","It's, {F uh, } <laughter>, -/"
+^2,B,"Beautiful/JJ ,/, beautiful/JJ machine/NN ./.","Beautiful, beautiful machine. /"
+aa,A,"Absolutely/RB ,/,","Absolutely, /"
+x,B,,<Laughter>.
+ba,A,incredible/JJ ./.,incredible <laughter>. /
+%,A,"So/RB ,/, um/UH ,/, yeah/UH ,/,","{D So, } {F um, } yeah, /"
+sd,A,"anyway/UH ,/, I/PRP 've/VBP been/VBN looking/VBG at/IN the/DT prices/NNS of/IN these/DT cars/NNS and/CC ,/, and/CC so/RB forth/RB ,/,","{D anyway, } I've been looking at the prices of these cars [ and, + and ] so forth, /"
+sv,A,"and/CC I/PRP think/VBP that/IN it/PRP 's/BES ,/, it/PRP 's/BES very/RB surprising/JJ some/DT of/IN these/DT very/RB expensive/JJ Volvos/NNPS can/MD be/VB gotten/VBN for/IN a/DT lot/NN less/JJR money/NN than/IN you/PRP would/MD think/VB if/IN you/PRP 're/VBP --/:","{C and } I think that [ it's, + it's ] very surprising some of these very expensive Volvos can be gotten for a lot less money than you would think if you're --"
+bh,B,"Is/VBZ that/DT right/JJ ,/,","Is that right, /"
+b,B,uh-huh/UH ./.,uh-huh. /
++,A,"--/: willing/JJ to/TO buy/VB ones/NNS that/WDT are/VBP about/RB ,/,","-- willing to buy ones that are about,"
+x,B,,<Throat_clearing>.
++,A,the/DT vintage/NN of/IN the/DT cars/NNS that/WDT you/PRP and/CC I/PRP currently/RB own/VBP --/:,the vintage of the cars that you and I currently own -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"--/: and/CC ,/, um/UH ,/,","-- {C and, } {F um, } -/"
+qy^d,B,"Well/UH ,/, a/DT brand/RB new/JJ Volvo/NNP costs/VBZ ,/, what/WP ,/, thirty/CD thousand/CD dollars/NNS ?/.","{D Well, } a brand new Volvo costs, what, thirty thousand dollars? /"
+na,A,"Well/UH ,/, certainly/RB some/DT of/IN the/DT top/JJ end/NN ones/NNS ./.","{D Well, } certainly some of the top end ones. /"
+sd,A,"You/PRP can/MD still/RB get/VB ,/, get/VB ,/, uh/UH ,/, even/RB the/DT ,/, the/DT low/JJ end/NN wagons/NNS ,/, um/UH ,/, for/IN less/JJR than/IN twenty/CD thousand/CD dollars/NNS --/:","You can still [ get, + get, ] {F uh, } even [ the, + the ] low end wagons, {F um, } for less than twenty thousand dollars -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, we/PRP get/VBP ,/, you/PRP know/VBP ,/,","-- {C and, } {F uh, } we get, {D you know, } - /"
+sd,A,"in/IN the/DT Washington/NNP area/NN ,/, of/IN course/NN ,/, being/VBG as/RB affluent/JJ as/IN it/PRP is/VBZ ,/, there/EX are/VBP lots/NNS and/CC lots/NNS of/IN Volvo/NNP dealerships/NNS down/IN here/RB --/:","in the Washington area, of course, being as affluent as it is, there are lots and lots of Volvo dealerships down here -- /"
+b,B,"Um/UH ,/, uh-huh/UH ./.","{F Um, } uh-huh. /"
+sd,A,"--/: so/RB there/EX 're/VBP lots/NNS and/CC lots/NNS of/IN them/PRP available/JJ in/IN the/DT paper/NN at/IN any/DT ,/, any/DT week/NN ,/,","-- {C so } there're lots and lots of them available in the paper at [ any, + any ] week, /"
+sd,A,"and/CC I/PRP sort/RB of/RB ,/, you/PRP know/VBP ,/, scan/VBP the/DT paper/NN and/CC look/VBP at/IN them/PRP ,/, and/CC so/RB forth/RB","{C and } I sort of, {D you know, } scan the paper and look at them, and so forth /"
+sd,A,and/CC --/:,[ {C and --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: so/RB ,/, um/UH ,/, anyway/UH ,/, and/CC that/DT 's/BES ,/, that/DT 's/BES the/DT other/JJ thing/NN is/VBZ that/IN I/PRP 've/VBP ,/, I/PRP 've/VBP never/RB really/RB been/VBN too/RB terribly/RB much/RB of/IN a/DT new/JJ car/NN person/NN ./.","-- so, } + {F um, } <sniffing> {D anyway, } {C and } ] [ that's, + that's ] the other thing is that [ I've, + I've ] never really been too terribly much of a new car person. /"
+sd,A,"I/PRP think/VBP I/PRP 've/VBP bought/VBN one/CD or/CC two/CD new/JJ cars/NNS in/IN my/PRP$ life/NN ,/,","I think I've bought one or two new cars in my life, /"
+sd,A,"and/CC I/PRP 've/VBP tended/VBN to/TO ,/, um/UH ,/, to/TO ,/, uh/UH ,/, buy/VB cars/NNS that/WDT are/VBP ,/, you/PRP know/VBP ,/, two/CD or/CC three/CD ,/, and/CC sometimes/RB even/RB four/CD and/CC five/CD or/CC six/CD years/NNS old/JJ ./.","{C and } I've tended [ to, + {F um, } to, ] {F uh, } buy cars that are, {D you know, } two or three, and sometimes even four and five or six years old. /"
+sd,A,"This/DT Honda/NNP that/WDT I/PRP have/VBP I/PRP bought/VBN used/JJ ,/,","This Honda that I have I bought used, /"
+sd,A,"and/CC ,/, in/IN fact/NN ,/, it/PRP had/VBD an/DT extraordinarily/RB low/JJ amount/NN of/IN mileage/NN on/IN it/PRP ./.","{C and, } in fact, it had an extraordinarily low amount of mileage on it. /"
+sd,A,"I/PRP 've/VBP just/RB rolled/VBN seventy/CD thousand/CD miles/NNS ,/,","I've just rolled seventy thousand miles, /"
+sd,A,"and/CC it/PRP 's/BES a/DT seventy-four/CD ,/, I/PRP mean/VBP ,/, an/DT eighty-four/CD ./.","{C and } it's [ a seventy-four, + {E I mean, } an eighty-four. ] /"
+%,A,So/RB ./.,{C So } <laughter>. -/
+sd,B,"Well/UH ,/, my/PRP$ ,/, my/PRP$ eighty-four/CD just/RB has/VBZ seventy-seven/CD on/IN it/PRP --/:","{D Well, } [ my, + my ] eighty-four just has seventy-seven on it -- /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"--/: and/CC I/PRP 've/VBP made/VBN many/JJ trips/NNS to/IN Washington/NNP and/CC down/IN to/IN Virginia/NNP Beach/NNP ,/, Virginia/NNP ,/, where/WRB my/PRP$ mother/NN lives/VBZ ,/, and/CC things/NNS like/IN that/DT ,/,","-- {C and } I've made many trips to Washington and down to Virginia Beach, Virginia, where my mother lives, and things like that, /"
+sd,B,"and/CC I/PRP drive/VBP it/PRP ,/,","{C and } I drive it, /"

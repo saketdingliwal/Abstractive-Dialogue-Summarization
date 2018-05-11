@@ -1,0 +1,188 @@
+act_tag,speaker,pos,text
+qy,A,Ready/JJ to/TO talk/VB ?/.,Ready to talk? /
+no,B,I/PRP guess/VBP so/RB ./.,I guess so <laughter>. /
+^h,A,Okay/UH ./.,Okay. /
+^h,B,Okay/UH ./.,Okay. /
+sd,A,"Uh/UH ,/, I/PRP want/VBP to/TO talk/VB about/IN ,/, um/UH ,/, our/PRP$ family/NN budget/NN ,/,","{F Uh, } I want to talk about, {F um, } our family budget,"
+bk,B,Okay/UH ./.,Okay. /
++,A,"and/CC the/DT times/NNS that/IN it/PRP 's/HVS worked/VBN and/CC the/DT times/NNS that/IN it/PRP has/VBZ n't/RB worked/VBN and/CC ,/,","and the times that it's worked and the times that it hasn't worked and,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,give/VB you/PRP a/DT general/JJ description/NN of/IN it/PRP,give you a general description of it /
+ad,A,bit/NN ./.,bit. /
+ad,A,Tell/VB me/PRP how/WRB yours/PRP works/NNS ./.,Tell me how yours works. /
+%,A,"Well/UH ,/, at/IN the/DT my-/XX ,/,","{D Well, } at the my-, - /"
+sd,A,"I/PRP introduced/VBD you/PRP a/DT little/JJ bit/NN to/IN it/PRP ,/, a/DT few/JJ minutes/NNS ago/RB ,/, when/WRB I/PRP said/VBD that/IN we/PRP are/VBP ,/, uh/UH ,/, we/PRP 're/VBP on/IN the/DT east/JJ coast/NN now/RB ./.","I introduced you a little bit to it, a few minutes ago, when I said that [ we are, + {F uh, } we're ] on the east coast now. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"My/PRP$ husband/NN quit/VBD a/DT perfectly/RB wonderful/JJ job/NN and/CC decided/VBD that/IN ,/,","My husband quit a perfectly wonderful job and decided that, - /"
+sd,A,"well/UH ,/, we/PRP both/DT decided/VBD we/PRP wanted/VBD to/TO move/VB to/IN North/NNP Carolina/NNP ./.","{D well, } we both decided we wanted to move to North Carolina. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC so/RB naturally/RB we/PRP put/VBD ourselves/PRP ,/,","{C And so } naturally we put ourselves, - /"
+sd,A,"we/PRP looked/VBD at/IN our/PRP$ budget/NN ,/,","we looked at our budget, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"and/CC so/RB ,/, what/WP we/PRP did/VBD was/VBD draw/VB up/RP a/DT budget/NN that/WDT we/PRP thought/VBD ,/, uh/UH ,/, was/VBD realistic/JJ ./.","{C and so, } what we did was draw up a budget that we thought, {F uh, } was realistic. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, so/RB ,/, we/PRP had/VBD to/TO make/VB some/DT adjustments/NNS","{C And, } {F uh, } {C so, } we had to make some adjustments /"
+sd,A,"because/IN we/PRP really/RB are/VBP kind/RB of/RB looking/VBG for/IN something/NN that/WDT we/PRP want/VBP to/TO do/VB and/CC he/PRP wants/VBZ to/TO do/VB that/DT 's/BES satisfactory/JJ ,/,","{C because } we really are kind of looking for something that we want to do and he wants to do that's satisfactory, /"
+sd,A,and/CC we/PRP 've/VBP been/VBN here/RB seven/CD months/NNS,{C and } we've been here seven months /
+sd,A,and/CC he/PRP 's/HVS still/RB has/VBZ n't/RB hit/VBD up/RP on/IN anything/NN permanently/RB ./.,{C and } he's still hasn't hit up on anything permanently. /
+ba,B,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
+%,A,"So/UH ,/, you/PRP see/VBP ,/,","{C So, } you see, -/"
+bf,B,That/DT throws/VBZ the/DT budget/NN out/IN of/IN whack/NN real/RB fast/RB ./.,That throws the budget out of whack real fast. /
+arp_nd,A,"Well/UH ,/, we/PRP actually/RB planned/VBD for/IN about/RB one/CD year/NN ./.","{D Well, } we actually planned for about one year. /"
+ba,B,"Oh/UH ,/, good/UH ./.","{F Oh, } good. /"
+sd,A,"Uh/UH ,/, that/IN God/NNP because/RB ,/,","{F Uh, } that God because, *[[listen]]"
+aa,B,Really/UH ./.,Really. /
++,A,"it/PRP never/RB occurred/VBD to/IN ,/,","[ it never occurred to + <laughter>,"
+ba,B,That/DT was/VBD smart/JJ ./.,That was smart. /
++,A,it/PRP never/RB occurred/VBD to/IN us/PRP that/IN it/PRP would/MD take/VB seven/CD months/NNS ./.,it never occurred to ] us that it would take seven months. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"And/CC ,/, uh/UH ,/, what/WP we/PRP did/VBD was/VBD just/RB ,/, uh/UH ,/, decide/VB wh-/XX ,/, how/WRB we/PRP had/VBD been/VBN spending/VBG our/PRP$ money/NN before/RB ,/,","{C And, } {F uh, } what we did was just, {F uh, } decide [ wh-, + how ] we had been spending our money before, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,and/CC then/RB we/PRP put/VBP that/DT on/IN the/DT computer/NN,{C and then } we put that on the computer /
+sd,A,"and/CC then/RB we/PRP took/VBD about/RB three/CD months/NNS and/CC ,/, uh/UH ,/, and/CC adjusted/VBD ,/,","{C and then } we took about three months [ and, + {F uh, } and ] adjusted,"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
++,A,"where/WRB we/PRP could/MD come/VB down/RB and/CC where/WRB we/PRP did/VBD n't/RB want/VB to/TO come/VB down/RB ,/,","where we could come down and where we didn't want to come down, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"and/CC we/PRP really/RB ,/, uh/UH ,/, lessened/VBD it/PRP ,/, uh/UH ,/, our/PRP$ living/NN expenses/NNS ,/, uh/UH ,/, more/RBR than/IN what/WP we/PRP thought/VBD we/PRP would/MD ./.","{C and } we really, {F uh, } lessened [ it, + {F uh, } our living expenses, ] {F uh, } more than what we thought we would. /"
+ba,B,"Wow/UH ,/, that/DT 's/BES great/JJ ./.","Wow, that's great. /"
+%,A,"But/CC ,/,","{C But, } -/"
+qy,B,Did/VBD you/PRP have/VB a/DT special/JJ program/NN on/IN your/PRP$ computer/NN to/TO do/VB that/DT,Did you have a special program on your computer to do that /
+qy,B,"or/CC was/VBD this/DT just/RB your/PRP$ own/JJ design/NN of/IN ,/,","{C or } was this just your own design of, -/"
+sd,A,"Oh/UH ,/, just/RB our/PRP$ own/JJ design/NN ./.","{F Oh, } just our own design. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+ba,B,Gosh/UH ./.,Gosh. /
+%,A,"And/CC the/DT ,/,","{C And } the, - /"
+sd,A,"so/UH ,/, but/CC we/PRP 've/VBP had/VBN budgets/NNS that/WDT did/VBD n't/RB work/NN when/WRB our/PRP$ ,/, uh/UH ,/, you/PRP know/VBP ,/,","{D so, } {C but } we've had budgets that didn't work when our, {F uh, } {D you know, } - /"
+%,A,of/IN,of - /
+sd,A,our/PRP$ first/JJ fifteen/CD years/NNS or/CC eighteen/CD years/NNS of/IN being/VBG married/JJ nothing/NN worked/VBD ./.,our first fifteen years or eighteen years of being married nothing worked <laughter>. /
+b,B,Yeah/UH,Yeah /
+sd,A,"We/PRP spent/VBD too/RB much/JJ money/NN ,/,","We spent too much money,"
++,A,"until/IN our/PRP$ children/NNS went/VBD to/IN college/NN ,/,","until our children went to college, /"
+ad,A,so/UH ./.,[ {C so. } +
+b,B,Yeah/UH ./.,Yeah. /
++,A,"So/UH ,/, tell/VB me/PRP about/IN ,/,","{C So, } ] tell me about, - /"
+qy,A,"do/VBP you/PRP all/DT ,/, uh/UH ,/, have/VB a/DT budget/NN ?/.","do you all, {F uh, } have a budget? /"
+sd,B,"Well/UH ,/, we/PRP 've/VBP been/VBN married/JJ for/IN five/CD and/CC a/DT half/DT years/NNS","{D Well, } we've been married for five and a half years /"
+sd,B,"and/CC we/PRP started/VBD out/RP without/IN kids/NNS ,/, of/IN course/NN ,/, and/CC found/VBD it/PRP much/RB easier/JJR to/TO save/VB and/CC used/VBD to/TO do/VB a/DT lot/NN ,/, more/JJR fun/NN kinds/NNS of/IN of/IN things/NNS and/CC ,/, uh/UH ,/, did/VBD really/RB ,/, um/UH ,/, you/PRP know/VBP ,/, have/VB a/DT real/JJ strict/JJ budg-/NN ,/, but/CC ,/, budget/NN","{C and } we started out without kids, of course, and found it much easier to save and used to do a lot <noise>, more fun kinds of of things and, {F uh, } did really, {F um, } {D you know, } have a real strict [ budg-, + {E but, } budget ] /"
+%,B,"but/CC ,/, uh/UH ,/, the/DT","{C but, } {F uh, } the - /"
+%,B,about/RB and/CC,(( about and )) - /
+%,B,"to/IN our/PRP$ ,/,","to our, - /"
+sd,B,"wh/WRB ,/, wh/WRB ,/, wh/WRB ,/, wh/WRB ,/, when/WRB we/PRP first/RB got/VBD married/JJ we/PRP were/VBD in/IN graduate/JJ school/NN","[ [ [ [ wh-, + wh-, ] + wh-, ] + wh-, ] + when ] we first got married we were in graduate school /"
+sd,B,"and/CC we/PRP were/VBD just/RB ,/, you/PRP know/VBP ,/, dirt/NN poor/JJ ./.","{C and } we were just, {D you know, } dirt poor. /"
+sd,B,Then/RB when/WRB we/PRP got/VBD our/PRP$ first/JJ jobs/NNS after/IN about/RB a/DT year/NN of/IN marriage/NN we/PRP decided/VBD we/PRP 'd/MD bank/VB my/PRP$ salary/NN so/RB we/PRP could/MD buy/VB a/DT house/NN ./.,Then when we got our first jobs after about a year of marriage we decided we'd bank my salary so we could buy a house. /
+sd,B,"So/UH ,/, we/PRP virtually/RB did/VBD that/DT for/IN about/RB two/CD years/NNS ,/,","{C So, } we virtually did that for about two years,"
+ba,A,Wonderful/JJ ./.,Wonderful. /
++,B,"which/WDT worked/VBD real/RB well/RB ,/, and/CC then/RB moved/VBD from/IN California/NNP where/WRB we/PRP realized/VBD we/PRP could/MD never/RB buy/VB a/DT house/NN anyway/RB no/DT matter/NN how/WRB much/JJ we/PRP saved/VBD ,/,","which worked real well, and then moved from California where we realized we could never buy a house anyway <laughter> no matter how much we saved,"
+aa,A,Yes/UH ./.,Yes. /
++,B,"and/CC moved/VBD to/IN Texas/NNP ,/, bought/VBD a/DT house/NN immediately/RB ,/, you/PRP know/VBP ,/, which/WDT ,/, of/IN course/NN ,/, is/VBZ now/RB devalued/VBN with/IN the/DT housing/NN market/NN ,/,","and moved to Texas, bought a house immediately, {D you know, } which, of course, is now devalued with the housing market, /"
+sd,B,"so/UH ,/, I/PRP do/VBP n't/RB know/VB if/IN we/PRP ,/, we/PRP did/VBD a/DT good/JJ thing/NN to/TO buy/VB a/DT house/NN or/CC not/RB","{C so, } I don't know if [ we, + <laughter> we ] did a good thing to buy a house or not /"
+sd,B,but/CC at/IN least/JJS we/PRP 've/VBP got/VBD a/DT place/NN to/TO live/VB ./.,{C but } at least we've got a place to live. /
+sd,B,"Um/UH ,/, so/UH ,/, now/UH ,/, since/IN ,/, uh/UH ,/, we/PRP have/VBP a/DT three/CD year/NN old/NN and/CC a/DT two/CD year/NN old/NN now/RB ,/, um/UH ,/,","{F Um, } {C so, } now, since, {F uh, } we have a three year old and a two year old now, {F um, } -/"
+b^m,A,Three/CD and/CC a/DT two/CD year/NN old/NN ./.,Three and a two year old. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ba,A,"Bang/UH ,/,","Bang, / *[[one utt??]]"
+ba,A,bang/UH ./.,bang. /
+sd,B,"That/DT 's/BES ,/, that/DT 's/BES ,/, that/WDT threw/VBD our/PRP$ budget/NN really/RB out/IN of/IN whack/NN too/RB ./.","[ [ That's, + that's, ] + that ] threw our budget really <laughter> out of whack too. /"
+sd,B,"An/CC we/PRP ,/, um/UH ,/, have/VBP been/VBN just/RB forced/VBN to/TO budget/VB much/RB more/RBR because/IN I/PRP quit/VBD working/VBG to/TO be/VB home/RB with/IN the/DT kids/NNS ./.","An we, {F um, } have been just forced to budget much more because I quit working to be home with the kids. /"
+sd,B,"And/CC ,/, um/UH ,/, we/PRP just/RB really/RB have/VBP ,/, uh/UH ,/,","{C And, } {F um, } we just really have, {F uh, } <breathing> - /"
+h,B,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,B,"we/PRP ,/, we/PRP 've/VBP tried/VBN different/JJ times/NNS ,/,","[ we, + we've ] tried different times, /"
+sd,B,"we/PRP 've/VBP done/VBN like/UH a/DT survey/NN of/IN like/UH taking/VBG ,/, you/PRP know/VBP ,/, the/DT past/JJ three/CD months/NNS of/IN where/WRB all/PDT the/DT money/NN went/VBD ./.","we've done {D like } a survey of {D like } taking, {D you know, } the past three months of where all the money went. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC we/PRP really/RB do/VBP n't/RB spend/VB on/IN anything/NN much/JJ of/IN a/DT luxury/NN or/CC anything/NN at/IN all/DT ,/,","{C And } we really don't spend on anything much of a luxury or anything at all, /"
+sd,B,"but/CC it/PRP seems/VBZ like/IN there/EX 's/BES ,/, um/UH ,/, times/NNS when/WRB we/PRP just/RB have/VBP to/TO get/VB out/RP where/WRB we/PRP 'll/MD go/VB and/CC like/UH get/VB a/DT baby-sitter/NN and/CC we/PRP 'll/MD go/VB and/CC we/PRP 'll/MD blow/VB ,/, you/PRP know/VBP ,/, fifty/CD ,/, sixty/CD dollars/NNS in/IN one/CD night/NN going/VBG out/RP to/TO eat/VB ,/, going/VBG to/IN a/DT show/NN or/CC doing/VBG something/NN ,/, you/PRP know/VBP ./.","{C but } it seems like there's, {F um, } times when we just have to get out where we'll go and {D like } get a baby-sitter and we'll go and we'll blow, {D you know, } fifty, sixty dollars in one night going out to eat, going to a show or doing something, {D you know. } /"
+sv,A,"Well/UH ,/, I/PRP think/VBP that/DT 's/BES important/JJ for/IN your/PRP$ budget/NN to/TO be/VB realis/JJ ,/,","{D Well, } I think that's important for your budget to be realis-, - /"
+sv,A,"for/IN it/PRP to/TO work/VB though/IN ,/, you/PRP have/VBP to/TO do/VB something/NN ./.","for it to work though, you have to do something. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"that/DT 's/BES the/DT hard/JJ part/NN because/IN when/WRB we/PRP sit/VBP down/RB to/TO make/VB it/PRP ,/, we/PRP try/VBP to/TO make/VB it/PRP real/RB spartan/JJ and/CC real/RB narrow/JJ so/IN we/PRP can/MD put/VB a/DT certain/JJ amount/NN in/IN savings/NNS every/DT week/NN","that's the hard part because when we sit down to make it, we try to make it real spartan and real narrow so we can put a certain amount in savings every week /"
+sv,B,and/CC then/RB it/PRP 's/BES not/RB really/RB that/RB realistic/JJ,{C and then } it's not really that realistic /
+sd,B,"because/IN we/PRP do/VBP find/VB that/IN we/PRP want/VBP to/TO go/VB and/CC do/VB something/NN or/CC splurge/VB for/IN ,/, you/PRP know/VBP ,/, birthday/NN for/IN somebody/NN","{C because } we do find that we want to go and do something or splurge for, {D you know, } birthday for somebody /"
+sd,B,"or/CC ,/, you/PRP know/VBP ,/, even/RB we/PRP ,/, we/PRP even/RB do/VBP things/NNS real/RB frugally/RB for/IN the/DT kids/NNS ,/,","{C or, } {D you know, } [ even we, + we even ] do things real frugally for the kids, /"
+sd,B,"we/PRP get/VBP a/DT lot/NN of/IN toys/NNS and/CC clothes/NNS and/CC stuff/NN at/IN garage/NN sales/NNS or/CC from/IN friends/NNS because/IN they/PRP do/VBP n't/RB know/VB the/DT difference/NN at/IN this/DT age/NN ,/, you/PRP know/VBP ,/, whether/IN they/PRP 're/VBP JORDACHE/NNP new/JJ or/CC whether/IN they/PRP 're/VBP ,/,","we get a lot of toys and clothes and stuff at garage sales or from friends because they don't know the difference at this age, {D you know, } whether they're JORDACHE new or whether they're <laughter>, *[[listen; ""because"" may start new utt unit]]"
+aa,A,Of/IN course/NN not/RB ./.,Of course not. /
++,B,"you/PRP know/VBP ,/, something/NN","{D you know, } something /"
+sd,B,and/CC they/PRP 're/VBP both/DT boys/NNS,{C and } they're both boys /
+sd,B,"so/RB they/PRP just/RB MUMBLEx/XX one/CD year/NN after/IN the/DT other/JJ in/IN each/DT other/JJ 's/POS clothes/NNS ,/,","{C so } they just (( )) one year after the other in each other's clothes, - /"
+sd,B,"so/UH ./. But/CC ,/, um/UH ,/, that/DT 's/BES the/DT hardest/JJS part/NN for/IN us/PRP is/VBZ that/IN it/PRP 's/BES really/RB ,/, um/UH ,/, you/PRP know/VBP ,/, budgeting/NN and/CC some/DT extra/JJ things/NNS ,/, you/PRP know/VBP ,/, for-/XX ,/, that/WDT are/VBP more/JJR ,/, you/PRP know/VBP ,/, nonessential/JJ items/NNS ./.","{D so. } {C But, } {F um, } that's the hardest part for us is that it's really, {F um, } {D you know, } budgeting and some extra things, {D you know, } [ for-, + ] that are more, {D you know, } nonessential items. /"
+sd,A,"Well/UH ,/, I/PRP found/VBD ,/, uh/UH ,/, that/IN ,/, in/IN the/DT place/NN that/IN it/PRP was/VBD harder/JJR for/IN me/PRP to/TO stick/VB to/IN a/DT budget/NN was/VBD not/RB where/WRB we/PRP were/VBD concerned/JJ ,/,","{D Well, } I found, {F uh, } that, in the place that it was harder for me to stick to a budget was not where we were concerned,"
+b,B,Uh-huh/UH ./.,<<Very faint>> Uh-huh. /
++,A,but/CC where/WRB maybe/RB our/PRP$ friends/NNS were/VBD concerned/JJ and/CC our/PRP$ relatives/NNS and/CC parents/NNS ./.,but where maybe our friends were concerned and our relatives and parents. /
+sd,A,"Uh/UH ,/, we/PRP ,/, we/PRP tended/VBD to/TO want/VB to/TO keep/VB on/RP giving/VBG lavish/JJ ,/,","{F Uh, } [ we, + we ] tended to want to keep on giving lavish,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"gifts/NNS as/IN ,/,","gifts as,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,we/PRP had/VBD done/VBN before/RB ./.,we had done before. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC I/PRP really/RB believe/VBP that/IN if/IN you/PRP 're/VBP going/VBG to/TO cut/VB down/RP on/IN yourself/PRP ,/, you/PRP need/VBP to/TO cut/VB down/RP somewhat/RB on/IN your/PRP$ friends/NNS ./.","{C And } I really believe that if you're going to cut down on yourself, you need to cut down somewhat on your <laughter> friends. /"
+aa,B,"On/IN your/PRP$ friends/NNS ,/,","<Laughter> On your friends, /"
+aa,B,"that/WDT 's/BES true/JJ ,/,","that's true, /"
+aa,B,that/DT 's/BES true/JJ ./.,that's true. /
+sd,B,"Well/UH ,/, we/PRP have/VBP so/RB many/JJ unexpected/JJ things/NNS come/VBN up/RP so/RB often/RB it/PRP seems/VBZ with/IN ,/,","{D Well, } we have so many unexpected things come up so often it seems with, - /"
+sd,B,we/PRP both/DT have/VBP older/JJR cars/NNS,we both have older cars /
+sd,B,"and/CC something/NN will/MD come/VB up/RP and/CC wind/VB up/RP having/VBG to/TO spend/VB a/DT thousand/CD dollars/NNS ,/, you/PRP know/VBP ,/, on/IN the/DT car/NN in/IN two/CD months/NNS or/CC something/NN ,/,","{C and } something will come up and wind up having to spend a thousand dollars, {D you know, } on the car in two months or something, /"
+aa,A,Yes/UH ./.,Yes. /
+sv,B,"and/CC ,/, you/PRP know/VBP ,/, a/DT lot/NN of/IN things/NNS like/IN that/DT that/WDT really/RB ar/VBP ,/, are/VBP hard/JJ to/TO plan/VB for/IN ./.","{C and, } {D you know, } a lot of things like that that really [ ar-, + are ] hard to plan for. /"
+%,B,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, } -/"
+aa,A,"Well/UH ,/, I/PRP really/RB do/VBP ,/,","{D Well, } I really do, /"
+sv,A,I/PRP think/VBP you/PRP have/VBP to/TO budget/VB those/DT things/NNS though/RB ./.,I think you have to budget those things though. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"kind/RB of/RB put/VB in/RP a/DT certain/JJ amount/NN per/IN year/NN ,/,","kind of put in a certain amount per year, / *[[82 and 84 same utt?]]"
+aa,A,Yes/UH ./.,Yes. /
+sv,B,you/PRP 're/VBP going/VBG to/TO have/VB on/IN extra/JJ expenses/NNS for/IN car/NN ./.,you're going to have on extra expenses for car. -/
+aa,A,"Exactly/RB ,/,","Exactly, /"
+sv,A,although/IN so/RB much/RB per/IN month/NN anyway/RB ./.,(( although )) so much per month anyway. -/
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sv,A,"And/CC ,/, uh/UH ,/, that/WDT really/RB should/MD be/VB in/IN your/PRP$ bu-/NN ,/,","{C And, } {F uh, } that really should be in your bu-, - /"
+sv,A,"but/CC if/IN you/PRP do/VBP n't/RB spend/VB it/PRP ,/, it/PRP should/MD be/VB in/IN your/PRP$ bank/NN account/NN at/IN the/DT end/NN of/IN the/DT month/NN ./.","{C but } if you don't spend it, it should be in your bank account at the end of the month <laughter>. /"
+b,B,Yeah/UH,Yeah /
+sd,B,"our/PRP$ biggest/JJS way/NN of/IN saving/VBG money/NN is/VBZ then/RB to/TO stop/VB all/PDT these/DT deductions/NNS ,/, um/UH ,/, you/PRP know/VBP ,/, is/VBZ to/TO ,/,","<laughter> our biggest way of saving money is then to stop all these deductions, {F um, } {D you know, } is to, - /"
+^h,B,"let/VB 's/PRP see/VB ,/,","let's see, /"
+sd,B,"now/RB ,/, I/PRP forget/VBP which/WDT way/NN we/PRP do/VBP it/PRP ./.","{D now, } I forget which way we do it. /"
+sd,B,We/PRP do/VBP n't/RB list/VB all/PRP the/DT deductions/NNS,We don't list all the deductions /
+sd,B,"and/CC then/RB we/PRP get/VBP more/JJR money/NN back/RB ,/, you/PRP know/VBP ,/, at/IN the/DT end/NN of/IN the/DT year/NN ,/,","{C and then } we get more money back, {D you know, } at the end of the year, /"
+ar,A,"Oh/UH ,/, no/UH ,/,","{F Oh, } no, /"
+ar,A,"no/UH ,/,","no, /"
+ar,A,"no/UH ,/,","no, /"
+ar,A,no/UH ./.,no. /
+qy^d,B,"so/UH ,/, that/DT 's/BES not/RB a/DT good/JJ way/NN to/TO ,/,","{C so, } that's not a good way to <laughter>, -/"
+sd,A,You/PRP do/VBP n't/RB want/VB the/DT government/NN to/TO spend/VB your/PRP$ money/NN ./.,You don't want the government to spend your money. /
+%,A,"You/PRP want/VBP to/TO be/VB able/JJ ,/,","You want to be able, -/"
+sd,B,"that/DT 's/BES what/WP my/PRP$ husband/NN said/VBD ,/,","<Laughter> that's what my husband said, /"
+sd,B,"so/RB this/DT last/JJ year/NN he/PRP changed/VBD it/PRP ,/, of/IN course/NN ,/,","{C so } this last year he changed it, of course, /"
+sd,B,we/PRP did/VBD n't/RB get/VB hardly/RB and/CC then/RB nearly/RB as/IN much/JJ back/RB,we didn't get [ hardly and then + ] nearly as much back /
+sd,B,"and/CC it/PRP was/VBD like/IN oh/UH ,/, no/UH ./.","{C and } it was like oh, no. /"
+^q,B,Better/RB find/VB another/DT way/NN of/IN saving/VBG money/NN ./.,Better find another way of saving money <laughter>. /
+sd,A,"Well/UH ,/, uh/UH ,/, but/CC I/PRP do/VBP realize/VB that/IN ,/, that/DT is/VBZ realistic/JJ for/IN some/DT people/NNS ,/,","{D Well, } {F uh, } {C but } I do realize that, that is realistic for some people, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"and/CC it/PRP was/VBD for/IN us/PRP many/JJ years/NNS ,/,","{C and } it was for us many years,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,for/IN many/JJ years/NNS ./.,for many years. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"Uh/UH ,/, and/CC if/IN ,/, and/CC if/IN that/DT 's/BES the/DT only/JJ way/NN that/IN will/MD ,/, it/PRP will/MD make/VB you/PRP save/VBP and/CC have/VBP a/DT little/JJ nest/NN egg/NN at/IN the/DT end/NN of/IN the/DT ,/, the/DT year/NN then/RB doggone/UH it/PRP that/DT 's/BES what/WP you/PRP should/MD do/VB ./.","{F Uh, } [ {C and } if, + {C and } if ] that's the only way that [ will, it + will ] make you save and have a little nest egg at the end of [ the, + the ] year then doggone it that's what you should do. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"because/IN we/PRP do/VBP n't/RB miss/VB it/PRP ,/,","{C because } we don't miss it, /"
+sd,B,"we/PRP really/RB do/VBP n't/RB ,/, when/WRB it/PRP 's/BES just/RB taking/VBG out/IN of/IN the/DT paycheck/NN and/CC stuff/NN ,/,","we really don't, when it's just taking out of the paycheck and stuff, /"
+sd,B,so/UH ./.,[ {C so. } +
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
++,B,"But/CC we/PRP 're/VBP trying/VBG to/TO put/VB a/DT little/JJ money/NN away/RP for/IN the/DT kids/NNS because/IN we/PRP can/MD en/VB ,/, envision/VB the/DT ,/, uh/UH ,/, expenses/NNS for/IN college/NN already/RB ,/, you/PRP know/VBP ,/, eighteen/CD years/NNS away/RB or/CC whatever/RB ./.","{C But } ] we're trying to put a little money away for the kids because we can [ en-, + envision ] the, {F uh, } expenses for college already, {D you know, } <laughter> eighteen years away or whatever. /"
+sd,A,"Well/UH ,/, I/PRP was/VBD just/RB reading/VBG an/DT article/NN in/IN ,/, uh/UH ,/, a/DT North/NNP Carolina/NNP pap-/NN ,/, paper/NN today/RB where/WRB a/DT high/JJ school/NN student/NN obtained/VBD over/IN two/CD hundred/CD thousand/CD dollars/NNS worth/JJ of/IN scholarships/NNS for/IN herself/PRP by/IN sitting/VBG up/RB at/IN night/NN and/CC typing/VBG at/IN ,/, uh/UH ,/, letters/NNS of/IN applications/NNS to/IN universities/NNS ./.","{D Well, } I was just reading an article in, {F uh, } a North Carolina [ pap-, + paper ] today where a high school student obtained over two hundred thousand dollars worth of scholarships for herself by sitting up at night and typing at, {F uh, } letters of applications to universities. /"
+ba,B,Gosh/UH ./.,Gosh. /
+sd,A,"She/PRP was/VBD o-/XX ,/, she/PRP was/VBD third/JJ out/IN of/IN a/DT class/NN of/IN two/CD hundred/CD and/CC twenty/CD ,/,","[ She was o-, + she was ] third out of a class of two hundred and twenty, /"
+sd,A,"so/RB ,/, it/PRP can/MD be/VB done/VBN ./.","{C so, } it can be done. /"
+aap_am,B,"I/PRP guess/VBP ,/,","I guess, /"
+qy,A,"Where/WRB there/EX 's/BES a/DT will/NN ,/,","[ Where there's a will, +"
+ba,B,that/DT 's/BES fantastic/JJ ./.,that's fantastic. /
++,A,"where/WRB there/EX 's/BES a/DT will/NN ,/, there/EX 's/BES a/DT way/NN ,/, right/JJ ?/. ./.","where there's a will, ] there's a way, right? <Laughter>. /"
+ny,B,Yeah/UH ./.,Yeah <laughter>. /
+fc,A,"Well/UH ,/, I/PRP have/VBP enjoyed/VBN talking/VBG to/IN you/PRP ./.","{D Well, } I have enjoyed talking to you. /"
+fc,B,"Well/UH ,/, I/PRP enjoyed/VBD talking/VBG to/IN you/PRP too/RB ,/,","{D Well, } I enjoyed talking to you too, /"
+fc,B,good/JJ luck/NN,good luck /
+fc,B,and/CC do/VBP n't/RB spend/VB any/DT money/NN this/DT weekend/NN ./.,{C and } don't spend any money this weekend <laughter>. /
+fc,A,"Oh/UH ,/, I/PRP know/VBP","{F Oh, } I know /"
+fc,A,we/PRP 'll/MD have/VB to/TO stay/VB home/NN and/CC mow/VB the/DT yard/NN ./.,(( we'll )) have to stay home and mow the yard <laughter>. /
+fc,B,"Oh/UH ,/, boy/UH ./.","{F Oh, } boy. /"
+fc,A,Bye-bye/UH ./.,Bye-bye. /
+fc,B,Bye/UH ./.,Bye. /

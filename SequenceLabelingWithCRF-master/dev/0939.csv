@@ -1,0 +1,136 @@
+act_tag,speaker,pos,text
+qo,A,"Well/UH ,/, what/WP kind/NN of/IN music/NN do/VBP you/PRP like/VB ?/.","{D Well, } what kind of music do you like? /"
+sd,B,"Well/UH ,/, seeing/VBG as/IN how/WRB I/PRP 'm/VBP a/DT musician/NN ,/, I/PRP like/VBP all/DT kinds/NNS of/IN music/NN ./.","{D Well, } seeing as how I'm a musician <laughter>, I like all kinds of music. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,All/DT very/RB very/RB kinds/NNS ./.,All very very kinds. /
+sd,A,Me/PRP too/RB ./.,Me too. /
+sd,A,I/PRP mostly/RB like/VBP classical/JJ and/CC jazz/NN ./.,I mostly like classical and jazz. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Well/UH ,/, I/PRP like/VBP everything/NN from/IN hard/JJ core/NN country/NN to/IN you/PRP know/VBP Wagner/NNP ,/, and/CC Mahler/NNP","{D Well, } I like everything from hard core country to {D you know } Wagner, and Mahler /"
+sd,B,and/CC I/PRP like/VBP new/JJ age/NN stuff/NN ./.,{C and } I like new age stuff. /
+sd,B,"I/PRP ,/, I/PRP basically/RB have/VBP a/DT wide/JJ range/NN of/IN musical/JJ likes/NNS ./.","[ I, + I ] basically have a wide range of musical likes. /"
+qy,B,"Do/VBP you/PRP ,/, uh/UH ,/, are/VBP you/PRP musical/JJ ,/, uh/UH ,/,","[ Do you, + {F uh, } <noise> are you ] musical, {F uh, } /"
+qy,B,are/VBP you/PRP a/DT musician/NN at/IN all/DT ?/.,are you a musician at all? /
+ny,A,Yeah/UH ./.,Yeah <noise>. /
+sd,A,I/PRP play/VBP the/DT trumpet/NN ./.,I play the trumpet. /
+bh,B,Do/VBP you/PRP ?/.,Do you <music>? /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Mostly/RB the/DT trumpet/NN music/NN uh/UH ,/, uh/UH ,/, uh/UH ,/, baroque/JJ and/CC ,/, uh/UH ,/, uh/UH ,/, uh/UH ,/,","Mostly the trumpet music <noise> {F uh, } {F uh, } {F uh, } baroque and, {F uh, } {F uh, } {F uh } <music>,"
+^2,B,Jazz/NN ./.,Jazz. /
++,A,Romantic/JJ ./.,Romantic. /
+sd,A,Baroque/JJ and/CC romantic/JJ ./.,Baroque and romantic. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"that/DT is/VBZ not/RB ,/, there/EX is/VBZ ,/, uh/UH ,/, things/NNS written/VBN for/IN Doc/NNP Severenson/NNP and/CC ,/, uh/UH ,/, a/DT few/JJ other/JJ people/NNS ./.","[ that is not, + there is, ] {F uh, } things written for Doc Severenson and, {F uh, } a few other people. /"
+%,A,"But/CC ,/, uh/UH ,/, they/PRP are/VBP just/RB ,/, uh/UH ,/,","{C But, } {F uh, } <noise> they are just, {F uh, } - /"
+%,A,"as/RB far/RB as/IN solos/NNS and/CC concertos/NNS are/VBP concerned/VBN ,/,","as far as solos and concertos are concerned, - /"
+sd,A,but/CC the/DT rest/NN of/IN them/PRP are/VBP just/RB parts/NNS ./.,{C but } the rest of them are just parts <noise>. /
+b,B,Right/UH ./.,Right. /
+%,A,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, } -/"
+sd,B,"Well/UH ,/, I/PRP love/VBP baroque/JJ music/NN ,/,","{D Well, } I love baroque music, /"
+sd,B,"so/RB ,/, it/PRP is/VBZ one/CD of/IN my/PRP$ favorite/JJ periods/NNS ./.","{C so, } it is one of my favorite periods. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,In/IN fact/NN I/PRP I/PRP sing/VBP with/IN a/DT Texas/NNP baroque/JJ ensemble/NN ./.,In fact [ I + <throat_clearing> I ] sing with a Texas baroque ensemble. /
+b,A,Uh-huh/UH ./.,Uh-huh <dishes>. /
+qw,A,Who/WP are/VBP the/DT trumpet/NN players/NNS ?/.,Who are the trumpet players? /
+sd,B,"Well/UH ,/, we/PRP used/VBD to/TO have/VB ,/, uh/UH ,/, Ralph/NNP Dutchen/NNP ./.","{D Well, } we used to have, {F uh, } Ralph Dutchen. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,But/CC now/RB he/PRP is/VBZ in/IN Massachusetts/NNP ./.,{C But } now he is in Massachusetts. /
+sd,B,He/PRP has/VBZ come/VBN back/RB a/DT couple/NN of/IN times/NNS ./.,He has come back a couple of times. /
+sd,B,"Then/RB there/EX is/VBZ a/DT trumpet/NN player/NN at/IN North/NNP Texas/NNP ,/, the/DT ,/, the/DT teacher/NN ,/, the/DT main/JJ teacher/NN ./.","Then there is a trumpet player at North Texas, [ [ the, + the teacher, ] + the main teacher. ]"
+^2,A,Leonard/NNP MUMBLEx/XX ./.,Leonard (( )) . /
++,B,Yeah/UH ./.,Yeah <throat_clearing>. /
+sd,B,And/CC he/PRP has/VBZ played/VBN ./.,{C And } he has played. /
+sd,B,And/CC the/DT two/CD of/IN them/PRP have/VBP played/VBN natural/JJ trumpets/NNS ./.,{C And } the two of them have played natural trumpets <throat_clearing>. /
+sd,B,"And/CC occasionally/RB ,/, when/WRB she/PRP ca/MD n't/RB get/VB those/DT people/NNS ,/, we/PRP use/VBP you/PRP know/VBP ,/, just/RB uh/UH ,/, E/SYM flat/JJ trumpets/NNS ,/, with/IN valves/NNS","{C And } occasionally, when she can't get those people, we use {D you know, } just {F uh, } E flat trumpets, with valves /"
+sd,B,and/CC like/UH Glen/NNP Bell/NNP plays/VBZ ./.,{C and } {D like } Glen Bell plays. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Uh/UH ,/, Rick/NNP ,/, uh/UH ,/, Bogarts/NNP played/VBD --/:","{F Uh, } Rick, {F uh, } Bogarts played --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: too/RB,-- <Dishes> too /
+sd,B,"so/RB ,/, but/CC actually/UH ,/, I/PRP like/VBP trumpet/NN and/CC organ/NN together/RB ./.","[ {C so } + <noise>, {C but } ] {D actually, } I like trumpet and organ together. /"
+sv,B,It/PRP is/VBZ a/DT nice/JJ combination/NN ./.,It is a nice combination. /
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"Richard/NNP Jung/NNP Julio/NNP recorded/VBD an/DT album/NN at/IN the/DT same/JJ time/NN as/IN MUMBLEx/XX ,/,","Richard Jung Julio recorded <music> an album at the same time as (( )) , /"
+^g,A,did/VBD n't/RB he/PRP ?/.,didn't he? /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP think/VBP he/PRP did/VBD ./.,I think he did. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,With/IN Paul/NNP ./.,With Paul. /
+%,B,Yeah/UH ./.,Yeah <noise>. /
+sv,B,He/PRP is/VBZ wonderful/JJ ./.,He is wonderful. /
+sv,B,Both/DT of/IN them/PRP are/VBP ./.,Both of them are. /
+b,A,Uh-huh/UH ./.,Uh-huh <noise>. /
+qy,B,So/UH do/VBP you/PRP like/VB romantic/JJ music/NN ?/.,{D So } do you like romantic music? /
+no,A,"Well/UH ,/, that/DT is/VBZ what/WP ,/, that/DT is/VBZ mostly/RB the/DT rest/NN of/IN good/JJ trumpet/NN marks/NNS are/VBP romantic/JJ music/NN ,/, Mahler/NNP and/CC Ruckner/NNP and/CC Strauss/NNP ./.","{D Well, } [ that is what, + that is + ] mostly the rest of good trumpet marks are romantic music, Mahler and Ruckner and Strauss <music>. /"
+b,B,Uh-huh/UH ./.,Uh-huh <noise>. /
+qy,B,Do/VBP you/PRP like/VB opera/NN ?/.,Do you like opera? /
+na,A,"Uh/UH ,/, I/PRP like/VBP ,/, I/PRP am/VBP liking/VBG it/PRP more/RBR and/CC more/RBR now/RB ./.","{F Uh, } [ I like, + I am liking ] it more and more now. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,Getting/VBG use/^JJ to/IN it/PRP ./.,Getting use to it <noise>. /
+x,B,MUMBLEx/XX ./.,(( )) .
+sd,A,"They/PRP are/VBP mostly/RB ,/, uh/UH ,/, mostly/RB Mozart/NNP ./.","They are [ mostly, + {F uh, } mostly ] Mozart. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP mean/VBP there/EX is/VBZ not/RB any/DT kind/NN of/IN trumpet/NN parts/NNS ,/,","I mean <noise> there is not any kind of trumpet parts, /"
+sd,A,"but/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, the/DT ,/, I/PRP just/RB like/VBP the/DT melodies/NNS more/RBR --/:","{C but, } {F uh, } {D you know, } [ the, + I just like the ] melodies more --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC ,/, uh/UH ,/, libretto/NN ./.","-- and, {F uh, } libretto. /"
+qy^d,B,You/PRP do/VBP n't/RB like/VB Puccini/NNP ?/.,You don't like Puccini? /
+qy,A,"Uh/UH ,/, yeah/UH ./.","{F Uh, } yeah. /"
+sd,A,I/PRP like/VBP Rossini/NNP better/RBR than/IN Puccini/NNP ./.,I like Rossini better than Puccini. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,I/PRP like/VBP more/JJR comic/JJ licks/NNS ./.,I like more comic licks. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,B,Are/VBP you/PRP going/VBG to/TO go/VB see/VB the/DT Elixir/NNP of/IN Love/NNP ?/.,Are you going to go see the Elixir of Love? /
+nn,A,No/UH ./.,No. /
+qy,B,Do/VBP you/PRP ever/RB go/VB to/IN the/DT Dallas/NNP Opera/NNP ?/.,Do you ever go to the Dallas Opera? /
+nn,A,"Uh/UH ,/, no/UH","{F Uh, } no /"
+sd,A,I/PRP have/VBP never/RB been/VBN to/IN a/DT Dallas/NNP Opera/NNP,I have never been to a Dallas Opera /
+sd,A,only/RB the/DT Fort/NNP Worth/NNP Opera/NNP ./.,only the Fort Worth Opera <noise>. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC my/PRP$ trumpet/NN teacher/NN used/VBD to/TO play/VB in/IN the/DT Fort/NNP Worth/NNP Opera/NNP ./.,{C And } my trumpet teacher used to play in the Fort Worth Opera. /
+qw,B,Who/WP was/VBD your/PRP$ trumpet/NN teacher/NN ?/.,Who was your trumpet teacher? /
+sd,A,John/NNP Nelson/NNP ./.,John Nelson. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP know/VBP him/PRP ,/,","I know him, /"
+sd,B,I/PRP kind/RB of/RB know/VBP him/PRP ./.,I kind of know him. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,B,Is/VBZ he/PRP still/RB around/IN here/RB ?/.,Is he still around here? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,he/PRP plays/VBZ in/IN the/DT Fort/NNP Worth/NNP Symphony/NNP and/CC Fort/NNP Worth/NNP mostly/RB ./.,he plays in the Fort Worth Symphony and Fort Worth mostly. /
+sd,B,"Because/IN I/PRP do/VBP n't/RB ,/, I/PRP have/VBP not/RB seen/VBN him/PRP playing/VBG anywhere/RB lately/RB ,/,","{C Because } [ I don't, + I have not ] seen him playing anywhere lately, /"
+sv,B,but/CC maybe/RB it/PRP is/VBZ cause/IN he/PRP is/VBZ playing/VBG in/IN Fort/NNP Worth/NNP ./.,{C but } maybe it is cause he is playing in Fort Worth <noise>. /
+aa,A,Yeah/UH ./.,Yeah. /
+aa,A,Yeah/UH ./.,Yeah. /
+sd,B,"Well/UH ,/, I/PRP am/VBP basically/RB a/DT Church/NN musician/NN ./.","{D Well, } I am basically a Church musician. /"
+sd,B,I/PRP do/VBP a/DT Church/NN in/IN Plano/NNP ./.,I do a Church in Plano. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC we/PRP do/VBP all/DT kinds/NNS of/IN music/NN at/IN my/PRP$ Church/NN,{C And } we do all <noise> kinds of music at my Church /
+sd,B,"and/CC we/PRP hire/VBP lots/NNS of/IN instrumentalists/NNS off/RP and/CC on/RP for/IN ,/, uh/UH ,/, different/JJ things/NNS ./.","{C and } we hire lots of instrumentalists off and on for, {F uh, } different things. /"
+sd,B,"So/RB ,/, I/PRP am/VBP always/RB making/VBG music/NN of/IN one/CD kind/NN or/CC another/DT ./.","{C So, } I am always making music <dishes> of one kind or another. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qw,A,Which/WDT Church/NN is/VBZ it/PRP ?/.,Which Church is it? /
+sd,B,The/DT Christ/NNP United/NNP Methodist/NNP Church/NNP in/IN Plano/NNP ./.,The Christ United Methodist Church in Plano <noise>. /
+sv,A,It/PRP seems/VBZ like/IN a/DT lot/NN of/IN Churches/NNS are/VBP hiring/VBG more/JJR musicians/NNS now/RB than/IN they/PRP use/^VBD to/TO ./.,It seems like a lot of Churches are hiring more musicians now than they use to. /
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,"Most/JJS Churches/NNS have/VBP the/DT ,/,","Most Churches have the, - /"
+sv,B,"well/UH there/EX are/VBP some/DT of/IN the/DT few/JJ organizations/NNS that/WDT have/VBP the/DT funds/NNS to/TO ,/, uh/UH ,/, you/PRP know/VBP ,/, do/VB like/IN big/JJ big/JJ works/NNS ./. Uh/UH ,/,","{D well } there are some of the few organizations that have the funds to, {F uh, } {D you know, } do {D like } big big works <music>. {F Uh, } /"
+sd,B,"but/CC we/PRP hire/VBP ,/, you/PRP know/VBP ,/, we/PRP hire/VBP an/DT orchestra/NN at/IN least/JJS twice/RB a/DT year/NN and/CC then/RB different/JJ instrumentalists/NNS off/RB and/CC on/RB through/GW out/^IN the/DT year/NN ./.","{C but } [ we hire, + {D you know, } we hire ] an orchestra at least twice a year <noise> and then different instrumentalists off and on through out the year. /"
+sd,B,"In/IN fact/NN ,/, we/PRP have/VBP ,/,","In fact, we have, - /"
+qy,B,do/VBP you/PRP know/VB John/NNP Qumenato/NNP ?/.,do you know John Qumenato? /
+ny,A,Yeah/UH ./.,Yeah. /
+sd,B,He/PRP plays/VBZ at/IN our/PRP$ Church/NN a/DT lot/NN ./.,He plays at our Church a lot. /
+sd,B,In/IN fact/NN he/PRP is/VBZ playing/VBG this/DT Sunday/NNP at/IN our/PRP$ Church/NN ./.,In fact he is playing this Sunday <throat_clearing> at our Church. /
+sd,B,But/CC he/PRP plays/VBZ pretty/RB regularly/RB ./.,{C But } he plays pretty regularly. /
+qy,A,"He/PRP is/VBZ still/RB teaching/VBG at/IN Brookhaven/NNP ,/,","He is still teaching at Brookhaven, /"
+^g,A,is/VBZ n't/RB he/PRP ?/.,<dishes> isn't he? /
+na,B,"Uh/UH ,/, I/PRP think/VBP so/RB ./.","{F Uh, } I think so. /"
+sd,B,He/PRP teaches/VBZ a/DT lot/NN in/IN Plano/NNP at/IN high/JJ schools/NNS --/:,He teaches a lot in Plano at high schools <rattling> -- /
+b,A,"Uh/UH ,/, yeah/UH ./.","{F Uh, } yeah. /"
+sd,B,"--/: and/CC ,/, I/PRP think/VBP he/PRP teaches/VBZ at/IN Brookhaven/NNP ./.","-- {C and, } I think he teaches at Brookhaven. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,because/IN I/PRP heard/VBD Glen/NNP Bell/NNP taught/VBD at/IN Plano/NNP as/RB well/RB ./.,{C because } I heard Glen Bell taught at Plano as well. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,Glen/NNP teaches/VBZ here/RB too/RB ./.,Glen teaches here <noise> too. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"They/PRP are/VBP ,/, the/DT two/CD of/IN them/PRP are/VBP mainly/RB pretty/RB much/RB the/DT ,/, they/PRP have/VBP cornered/VBN the/DT market/NN on/IN trumpet/NN ./.","[ [ They are, + the two of them are mainly pretty much the, ] + they have cornered the market ] on trumpet. /"

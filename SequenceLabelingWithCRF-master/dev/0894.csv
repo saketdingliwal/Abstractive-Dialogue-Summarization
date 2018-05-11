@@ -1,0 +1,164 @@
+act_tag,speaker,pos,text
+sd,A,"All/DT right/JJ ,/, this/DT is/VBZ easy/JJ for/IN me/PRP since/IN I/PRP ,/,","All right, this is easy for me since I, -/"
+sd,B,"And/CC me/PRP too/RB ,/, because/IN I/PRP eat/VBP out/RB a/DT lot/NN ./.","{C And } me too, because I eat out a lot. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"well/UH I/PRP travel/VBP ,/,","{D well } I travel, /"
+sd,A,I/PRP do/VBP about/IN forty/CD percent/NN of/IN my/PRP$ time/NN is/VBZ on/IN the/DT road/NN ./.,I do about forty percent of my time [ is + ] on the road. /
+bf,B,So/IN you/PRP eat/VBP all/DT your/PRP$ meals/NNS out/RP ./.,{C So } you eat all your meals out. /
+sd,A,"I/PRP eat/VBP a/DT lot/NN of/IN meals/NNS out/RP ,/,","I eat a lot of meals out, /"
+sd,A,well/UH I/PRP 'm/VBP also/RB married/JJ,{D well } I'm also married /
+sd,A,"and/CC my/PRP$ wife/NN is/VBZ an/DT A/DT one/CD cook/NN ,/,","{C and } my wife is an A one cook, /"
+sd,A,"but/CC she/PRP enjoys/VBZ eating/VBG out/RP ,/,","{C but } she enjoys eating out, /"
+sd,A,so/RB I/PRP have/VBP to/TO share/VB it/PRP with/IN her/PRP ./.,{C so } I have to share it with her. /
+sd,A,"And/CC ,/, uh/UH ,/, actually/RB it/PRP 's/BES very/RB easy/JJ for/IN me/PRP ,/, because/IN I/PRP ,/, I/PRP have/VBP a/DT prac-/NN ,/, make/VBP it/PRP a/DT practice/NN when/WRB I/PRP am/VBP out/RB ,/,","{C And, } {F uh, } actually it's very easy for me, because [ I, + I ] [ have a prac-, + make it a practice ] when I am out, /"
+sd,A,I/PRP eat/VBP differently/RB than/IN what/WP I/PRP could/MD eat/VB at/IN home/NN or/CC around/IN here/RB ./.,I eat differently than what I could eat at home or around here. /
+b,B,Sure/UH ./.,Sure. /
+sd,A,"So/RB ,/, I/PRP look/VBP for/IN just/RB about/RB anything/NN ,/,","{C So, } I look for just about anything, /"
+sd,A,"and/CC it/PRP 's/BES ,/, it/PRP 's/BES ,/, uh/UH ,/, it/PRP 's/BES a/DT lot/NN of/IN fun/NN ./.","{C and } [ [ it's, + it's, ] + {F uh, } it's ] a lot of fun. /"
+sd,A,"I/PRP do/VBP n't/RB have/VB to/TO worry/VB ,/, really/RB worry/VB too/RB much/RB about/IN price/NN considerations/NNS because/IN I/PRP ,/, you/PRP know/VBP ,/,","I don't have to [ worry, + really worry ] too much about price considerations because I, {D you know, } -/"
+qy,B,"I/PRP was/VBD going/VBG to/TO ask/VB you/PRP ,/, could/MD you/PRP go/VB to/IN ,/, you/PRP know/VBP ,/, nice/JJ places/NNS ,/,","I was going to ask you, could you go to, {D you know, } nice places, /"
+%,B,"and/CC ,/,","{C and, } -/"
+na,A,"Oh/UH ,/, sure/UH ,/,","{F Oh, } sure, /"
+ny,A,"yeah/UH ,/,","yeah, /"
+sd,A,"and/CC it/PRP 's/BES ,/, it/PRP 's/BES really/RB great/JJ ./.","{C and } [ it's, + it's ] really great. /"
+sd,A,"I/PRP ,/, I/PRP ,/,","[ [ I, + I, ] +"
+x,B,./.,<Sniffing>.
++,A,I/PRP like/VBP different/JJ types/NNS of/IN food/NN ./.,I ] like different types of food. /
+qw,B,"So/RB where/WRB are/VBP your/PRP$ ,/, what/WP are/VBP the/DT places/NNS ,/, you/PRP know/VBP ,/, memorable/JJ places/NNS you/PRP 've/VBP eaten/VBN ?/.","{D So } [ where are your, + what are the ] [ places, + {D you know, } memorable places ] you've eaten? /"
+sd,A,"Uh/UH ,/, oh/UH you/PRP na-/XX ,/, okay/UH you/PRP name/VBP it/PRP ./.","{F Uh, } {F oh } [ you na-, + okay you name ] it. /"
+^h,A,"Let/VB 's/PRP see/VB ,/,","Let's see, /"
+sd,A,"you/PRP 've/VBP got/VBN one/CD down/IN in/IN ,/, uh/UH ,/, down/RB near/RB ,/, uh/UH ,/, Addison/NNP ,/,","you've got one [ down in, + {F uh, } down near, ] {F uh, } Addison, /"
+sd,A,"uh/UH ,/, there/EX 's/BES two/CD restaurants/NNS that/WDT I/PRP particularly/RB like/VB that/WDT I/PRP ,/, every/DT time/NN I/PRP get/VBP into/IN Texas/NNP or/CC I/PRP get/VBP into/IN Atlanta/NNP ,/, Georgia/NNP ,/, I/PRP make/VBP sure/JJ I/PRP go/VBP ,/,","{F uh, } there's two restaurants that I particularly like that [ I, + every time I get into Texas or I get into Atlanta, Georgia, ] I make sure I go, /"
+sd,A,and/CC that/DT 's/BES Houston/NNP 's/POS ./.,{C and } that's Houston's. /
+b^m,B,"Oh/UH ,/, Houston/NNP 's/POS ,/,","{F Oh, } Houston's, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+b,A,"Yep/UH ,/,","Yep, /"
+b,A,okay/UH ./.,okay. /
+sd,B,It/PRP 's/BES a/DT great/JJ place/NN ./.,It's a great place. /
+b^m,A,"It/PRP 's/BES ,/, it/PRP 's/BES great/JJ ./.","[ It's, + it's ] great. /"
+sd,A,"There/EX 's/BES a/DT ,/, a/DT restaurant/NN in/IN ,/, um/UH ,/, right/RB outside/IN of/IN Reading/NNP ,/, Pennsylvania/NNP ,/, it/PRP 's/BES called/VBN Alfredo/NNP 's/BES --/:","There's [ a, + a ] restaurant [ in, + {F um, } right outside of ] Reading, Pennsylvania, {A it's called Alfredo's } --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: that/WDT does/VBZ not/RB look/VB like/IN a/DT restaurant/NN that/WDT you/PRP would/MD really/RB want/VB to/TO recommend/VB to/IN a/DT lot/NN of/IN people/NNS ./.,-- that does not look like a restaurant that you would really want to recommend to a lot of people. /
+sd,A,"But/CC it/PRP is/VBZ fab/JJ ,/, fantastic/JJ ./.","{C But } it is [ fab-, + fantastic. ] /"
+sd,A,"Uh/UH ,/, there/EX 's/BES a/DT restaurant/NN ,/, and/CC I/PRP do/VBP n't/RB recall/VB the/DT name/NN of/IN it/PRP ,/, uh/UH ,/, in/IN ,/, uh/UH ,/, Panama/NNP City/NNP ./.","{F Uh, } there's a restaurant, {A and I don't recall the name of it, } {F uh, } in, {F uh, } Panama City. /"
+sv,A,"Of/IN course/NN ,/, not/RB too/RB many/JJ people/NNS want/VBP to/TO rush/VB back/RB to/IN Panama/NNP City/NNP ,/, uh/UH ,/, Panama/NNP ,/, the/DT country/NN ,/, uh/UH ,/, Panama/NNP ./.","Of course, not too many people want to rush back to [ [ Panama City, + {F uh, } Panama, ] + the country, {F uh, } Panama. ] /"
+bk,B,"Oh/UH ,/, okay/UH ,/,","{F Oh, } okay, /"
+sd,B,"because/IN I/PRP was/VBD thinking/VBG ,/,","{C because } I was thinking, - /"
+sd,B,"well/UH ,/, I/PRP ,/, I/PRP grew/VBD up/RP in/IN Panama/NNP City/NNP ./.","{D well, } [ I, + I ] grew up in Panama City. /"
+ar,A,No/UH,No /
+sd,A,this/DT is/VBZ the/DT country/NN --/:,[ this is the country -- +
+aa,B,I/PRP get/VBP it/PRP ./.,I get it. /
++,A,"--/: this/DT is/VBZ the/DT country/NN Panama/NNP ,/, all/RB right/JJ ?/.","-- this is the country ] Panama, all right? /"
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC ,/, uh/UH ,/, but/CC I/PRP have/VBP gotten/VBN to/IN quite/RB a/DT few/JJ ./.","[ {C And, } + {F uh, } {C but } ] I have gotten to quite a few. /"
+sd,A,And/CC I/PRP go/VBP to/IN Canada/NNP and/CC get/VBP quite/RB a/DT few/JJ restaurants/NNS up/IN there/RB ./.,{C And } I go to Canada and get quite a few restaurants up there. /
+sd,A,"I/PRP ,/, you/PRP know/VBP ,/, and/CC I/PRP know/VBP the/DT locations/NNS ,/,","[ I, + {D you know, } {C and } I ] know the locations, /"
+sd,A,"and/CC I/PRP know/VBP the/DT places/NNS ,/,","{C and } I know the places, /"
+sd,A,"but/CC I/PRP ,/, lot/NN of/IN times/NNS I/PRP do/VBP n't/RB remember/VB the/DT names/NNS ./.","{C but } [ I, + lot of times I ] don't remember the names. /"
+sd,A,I/PRP 'd/MD have/VB to/TO go/VB back/RB through/IN some/DT expense/NN reports/NNS ./.,I'd have to go back through some expense reports. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"But/CC particularly/RB ,/, down/IN in/IN your/PRP$ area/NN ,/, I/PRP 'm/VBP looking/VBG for/IN some/DT ,/, some/DT more/JJR restaurants/NNS ./.","{C But } particularly, down in your area, I'm looking for [ some, + some ] more restaurants. /"
+sd,A,"So/RB ,/, I/PRP ,/, you/PRP know/VBP ,/, I/PRP do/VBP n't/RB know/VB what/WP 's/BES ,/, what/WP 's/BES down/IN there/RB ,/,","{C So, } [ I, + {D you know, } I ] don't know [ what's, + what's ] down there,"
+qy,B,Do/VBP you/PRP like/VB Mexican/JJ ?/.,Do you like Mexican? /
++,A,the/DT ones/NNS out/IN in/IN Addison/NNP ./.,the ones out in Addison. /
+qy,B,Do/VBP you/PRP like/VB Mexican/JJ food/NN ./.,Do you like Mexican food. /
+ng,A,Not/RB particularly/RB --/:,Not particularly -- /
+b,B,Oh/UH ./.,Oh. /
+sd,A,"--/: that/DT 's/BES one/CD of/IN the/DT few/JJ ,/,","-- that's one of the few, - /"
+qw,A,"why/WRB ,/, which/WDT one/NN were/VBD you/PRP going/VBG to/TO recommend/VB ?/.","[ why, + which ] one were you going to recommend? /"
+sd,B,"Well/UH ,/, I/PRP mean/VBP ,/, there/EX 's/BES so/RB many/JJ places/NNS here/RB ,/, you/PRP know/VBP ,/,","{D Well, } {E I mean, } there's so many places here, {D you know, } /"
+sd,B,"there/EX 's/BES just/RB ,/, it/PRP 's/BES just/RB lots/NNS of/IN good/JJ Mexican/JJ restaurants/NNS here/RB ./.","[ there's just, + it's just ] lots of good Mexican restaurants here. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"But/CC in/IN the/DT Addison/NNP ,/, well/UH about/RB everything/NN that/IN you/PRP could/MD want/VB in/IN Dallas/NNP is/VBZ in/IN the/DT Addison/NNP area/NN ,/, anyway/RB ./.","{C But } in the Addison, {D well } about everything that you could want in Dallas is in the Addison area, anyway. /"
+b,A,Right/UH ./.,Right. /
+sd,B,"I/PRP mean/VBP ,/, now/RB there/EX 's/BES a/DT new/JJ Italian/JJ place/NN Sfuzi/NNP --/:","{E I mean, } now there's a new Italian place Sfuzi -- /"
+b,A,"Okay/UH ,/,","Okay, /"
+%,A,"I/PRP have/VBP a/DT ,/,","I have a, -/"
+sd,B,"--/: that/WDT has/VBZ a/DT great/JJ ,/, I/PRP 've/VBP not/RB been/VBN there/EX ,/, but/CC it/PRP has/VBZ a/DT great/JJ reputation/NN as/IN one/CD of/IN the/DT best/JJS restaurants/NNS in/IN Dallas/NNP ,/,","-- [ that has a great, + {A I've not been there, but } it has a great ] reputation as one of the best restaurants in Dallas, /"
+sd,B,and/CC now/RB there/EX 's/BES one/CD in/IN Addison/NNP ./.,{C and } now there's one in Addison. /
+b,A,"Okay/UH ,/,","Okay, /"
+%,A,"let/VB ,/,","let, - /"
+sd,A,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP writing/VBG it/PRP down/RP ./.","[ I'm, + I'm ] writing it down <laughter>. /"
+sd,B,"It/PRP 's/BES F/NNP ,/, S/NNP it/PRP 's/BES S/NNP F/NNP U/NNP Z/NNP I/NNP ./.","[ It's F, S + it's S F U Z I. ] /"
+b,A,Okay/UH ./.,Okay. /
+sd,B,"And/CC it/PRP 's/BES on/IN ,/, it/PRP 's/BES in/IN Addison/NNP ,/,","{C And } [ it's on, + it's in ] Addison, /"
+sd,B,and/CC it/PRP 's/BES a/DT great/JJ place/NN ./.,{C and } it's a great place. /
+sd,B,Also/RB a/DT great/JJ place/NN that/WDT they/PRP have/VBP like/IN Cajun/NNP food/NN is/VBZ Copelands/NNP ./.,Also a great place that they have {D like } Cajun food is Copelands. /
+sd,A,I/PRP 've/VBP been/VBN there/RB ./.,I've been there. /
+sd,B,Now/RB I/PRP really/RB like/VBP Copelands/NNP ./.,{D Now } I really like Copelands. /
+b,A,"Okay/UH ,/,","Okay, /"
+sd,A,I/PRP 've/VBP been/VBN there/RB ./.,I've been there. /
+sd,A,"Um/UH ,/, one/CD down/IN there/RB is/VBZ the/DT ,/, uh/UH ,/, I/PRP think/VBP it/PRP 's/BES an/DT old/JJ schoolhouse/NN ./.","{F Um, } one down there is [ the, + {F uh, } I think it's an ] old schoolhouse. /"
+bf,B,"Oh/UH ,/, the/DT ,/, yeah/UH ,/, the/DT ,/, I/PRP know/VBP ,/,","{F Oh, } [ the, + {D yeah, } the, ] I know, - /"
+ar,B,"no/RB ,/,","no, /"
+sd,B,I/PRP do/VBP n't/RB like/VB that/DT place/NN ./.,I don't like that place. /
+sd,A,"Well/UH ,/, I/PRP like/VBP the/DT food/NN ,/,","{D Well, } I like the food, /"
+sd,A,but/CC I/PRP do/VBP n't/RB care/VB for/IN the/DT clowning/NN around/IN ./.,{C but } I don't care for the clowning around. /
+%,B,"See/VB ,/, uh/UH ,/, uh/UH ,/,","{D See, } {F uh, } {F uh, } - /"
+b,B,"yeah/UH ,/,","yeah, /"
+sd,B,"I/PRP ,/, I/PRP ,/,","[ [ I, + I, ] +"
+x,A,./.,<Laughter>.
++,B,"when/WRB I/PRP went/VBD ,/, I/PRP thought/VBD the/DT food/NN was/VBD not/RB good/JJ ./.","when I ] went, I thought the food was not good. /"
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+sd,A,"Oh/UH I/PRP 've/VBP had/VBN ,/,","{F Oh } I've had, -/"
+bf,B,"Magic/NNP Time/NNP Machine/NNP is/VBZ the/DT place/NN you/PRP 're/VBP thinking/VBG of/IN ,/,","Magic Time Machine is the place you're thinking of, /"
+aa,A,"That/DT 's/BES it/PRP ,/,","That's it, /"
+aa,A,that/DT 's/BES it/PRP ./.,that's it. /
+sd,A,I/PRP 've/VBN had/VBD excellent/JJ food/NN there/RB ./.,I've had excellent food there. /
+sd,B,"See/VB ,/, I/PRP ,/, when/WRB I/PRP went/VBD ,/, I/PRP thought/VBD ,/,","{D See, } [ I, + when I ] went, I thought, - /"
+sd,B,the/DT people/NNS drove/VBD me/PRP crazy/JJ --/:,the people drove me crazy --
+aa,A,True/JJ ./.,True. /
++,B,--/: first/JJ of/IN all/DT --/:,-- first of all -- /
+aa,A,True/JJ ./.,True. /
+sd,B,--/: but/CC then/RB I/PRP just/RB thought/VBD the/DT food/NN was/VBD over/RB priced/JJ for/IN what/WP it/PRP was/VBD ./.,-- {C but } then I just thought the food was over priced for what it was. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,"all/RB right/JJ ,/,","all right, /"
+ba,A,"well/UH ,/, that/DT 's/BES great/JJ ./.","{D well, } that's great. /"
+%,A,"Uh/UH ,/, no/UH ,/,","{F Uh, } no, /"
+sd,A,Italian/JJ is/VBZ fine/JJ ./.,Italian is fine. /
+sd,A,"I/PRP make/VBP it/PRP a/DT habit/NN of/IN always/RB going/VBG out/RP to/IN Pasta/NNP Oggi/NNP 's/POS which/WDT is/VBZ right/JJ down/IN there/RB in/IN Ad-/NNP ,/,","I make it a habit of always going out to Pasta Oggi's which is right down there in Ad-, -/"
+qy,B,"Do/VBP you/PRP like/VB ,/, like/IN Southwestern/NNP ?/.","Do you [ like, + like ] Southwestern? /"
+ny,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,"Well/UH ,/, now/RB there/EX 's/BES a/DT good/JJ place/NN in/IN Addison/NNP too/RB called/VBD Blue/NNP Mesa/NNP Grill/NNP --/:","{D Well, } now there's a good place in Addison too called Blue Mesa Grill --"
+b,A,All/DT right/JJ ./.,All right. /
++,B,"--/: that/WDT 's/BES on/IN Belt/NNP Line/NNP that/WDT 's/BES close/RB to/IN Houston/NNP 's/POS ,/, as/IN a/DT matter/NN of/IN fact/NN ./.","-- that's on Belt Line that's close to Houston's, as a matter of fact. /"
+bh,A,Really/UH ?/.,Really? /
+sd,B,"And/CC ,/, um/UH ,/, it/PRP 's/BES great/JJ ,/,","{C And, } {F um, } it's great, /"
+%,B,"I/PRP mean/VBP ,/, their/PRP$ ,/, they/PRP have/VBP ,/, I/PRP think/VBP ,/,","{E I mean, } [ their, + they have, ] I think, - /"
+sd,B,"sometimes/RB I/PRP 've/VBP been/VBN when/WRB I/PRP thought/VBD ,/, Well/UH ,/, it/PRP was/VBD n't/RB as/RB good/JJ ,/,","sometimes I've been when I thought, {D Well, } it wasn't as good, /"
+sd,B,"but/CC I/PRP went/VBD there/RB recently/RB ,/,","{C but } I went there recently, /"
+sd,B,"and/CC I/PRP thought/VBD ,/, Well/UH ,/, this/DT really/RB is/VBZ good/JJ ./.","{C and } I thought, {D Well, } this really is good. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"So/RB that/DT 's/BES ,/, that/DT 's/BES a/DT very/RB good/JJ place/NN to/TO eat/VB ,/, The/DT Blue/NNP Mesa/NNP Grill/NNP ./.","{C So } [ that's, + that's ] a very good place to eat, The Blue Mesa Grill. /"
+ba,A,Good/UH ./.,Good. /
+%,B,"And/CC ,/, um/UH ,/,","{C And, } {F um, } -/"
+sd,A,"Well/UH ,/, this/DT is/VBZ great/JJ ./.","{D Well, } this is great. /"
+sd,A,This/DT is/VBZ going/VBG to/TO give/VB me/PRP --/:,This is going to give me --
+^2,B,"A/DT whole/JJ new/JJ ,/,","A whole new,"
++,A,--/: some/DT more/JJR places/NNS to/TO go/VB ./.,-- some more places to go. /
++,B,dining/NN experience/NN ./.,dining experience. /
+b,A,"Okay/UH ,/,","<Laughter> Okay, /"
+b,A,fine/UH ./.,fine. /
+sd,A,"I/PRP guess/VBP our/PRP$ time/NN 's/BES about/IN up/RP ,/,","I guess our time's about up, /"
+%,A,so/RB ./.,{C so. } -/
+qy,B,"Well/UH ,/, they/PRP have/VBP n't/RB beeped/VBN us/PRP ,/, have/VBP they/PRP ?/.","{D Well, } they haven't beeped us, have they? /"
+sd,A,"Uh/UH ,/, well/UH ,/, they/PRP do/VBP n't/RB always/RB ./.","{F Uh, } {D well, } they don't always. /"
+sd,B,"Oh/UH ,/, I/PRP thought/VBD sometimes/RB they/PRP say/VB ,/, you/PRP know/VBP --/:","{F Oh, } I thought sometimes they say, {D you know } --"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP --/:,[ I -- +
++,B,--/: this/DT is/VBZ three/CD minutes/NNS or/CC whatever/WDT ./.,-- this is three minutes or whatever. /
++,A,"--/: they/PRP 've/VBP been/VBN doing/VBG that/DT when/WRB ,/, uh/UH ,/, the/DT circuits/NNS are/VBP busy/JJ --/:","-- they've ] been doing that when, {F uh, } the circuits are busy -- /"
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,A,"--/: and/CC other/JJ than/IN that/DT ,/, they/PRP ,/, you/PRP know/VBP ,/, leave/VBP you/PRP go/VBP about/RB five/CD minutes/NNS ,/,","-- {C and } other than that, they, {D you know, } leave you go about five minutes, /"
+sd,A,"and/CC then/RB ,/, that/DT ,/, that/DT 's/BES about/RB it/PRP ./.","{C and then, } [ that, + that's ] about it. /"
+sd,A,"I/PRP guess/VBP that/DT 's/BES what/WP they/PRP need/VBP for/IN their/PRP$ machines/NNS to/TO get/VB everything/NN down/IN pat/NN ,/,","I guess that's what they need for their machines to get everything down pat, /"
+%,A,so/RB ./.,{C so. } -/
+b,B,"Okay/UH ,/,","Okay, /"
+fc,A,It/PRP was/VBD a/DT pleasure/NN talking/VBG to/IN you/PRP ./.,It was a pleasure talking to you. /
+ft,B,"Well/UH ,/, thanks/NNS for/IN calling/VBG --/:","{D Well, } thanks for calling --"
+fc,A,Okay/UH ./.,Okay. /
++,B,--/: for/IN helping/VBG us/PRP out/RP ./.,-- for helping us out. /
+fc,A,"You/PRP bet/VBP ,/,","You bet, -/"
+fc,B,Bye-bye/UH ./.,Bye-bye. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /

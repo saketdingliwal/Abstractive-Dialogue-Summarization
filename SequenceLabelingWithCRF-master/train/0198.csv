@@ -1,0 +1,149 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"So/UH ,/, P/NN C/NN -s/NNS ,/, personal/JJ computers/NNS ./.","<Throat_clearing> {D So, } P C -s, personal computers. /"
+qy,A,Do/VBP you/PRP have/VB a/DT personal/JJ computer/NN ?/.,Do you have a personal computer? /
+nn,B,No/UH,No /
+sd,B,"I/PRP do/VBP n't/RB ,/, not/RB at/IN home/NN ./.","I don't, not at home. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,I/PRP work/VBP with/IN them/PRP quite/PDT a/DT bit/NN though/RB ./.,I work with them quite a bit though. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,A,"I/PRP ,/, I/PRP work/VBP with/IN them/PRP at/IN Kelly/NNP Services/NNPS ,/, doing/VBG ,/, uh/UH ,/, data/NN entry/NN ./.","[ I, + I ] work with them at Kelly Services, doing, {F uh, } data entry. /"
+b,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qo,A,"What/WP do/VBP you/PRP ,/, what/WP do/VBP you/PRP think/VB about/IN them/PRP ?/.","[ What do you, + what do you ] think about them? /"
+sv,B,"Well/UH ,/, I/PRP think/VBP they/PRP 're/VBP useful/JJ ,/,","{D Well, } I think they're useful, /"
+sv,B,"I/PRP think/VBP they/PRP 're/VBP in/IN some/DT instances/NNS they/PRP 're/VBP ,/, they/PRP 're/VBP over/GW used/^VBN ,/,","I think [ they're + ] in some instances [ they're, + they're ] over used, /"
+^h,B,"well/UH ,/, that/DT 's/BES not/RB the/DT right/JJ way/NN to/TO say/VB it/PRP ./.","{D well, } that's not the right way to say it. /"
+bf,A,You/PRP mean/VBP instead/IN of/IN people/NNS,<Throat_clearing> You mean instead of people /
+%,A,"or/CC ,/,","{C or, } -/"
+na,B,"Well/UH I/PRP think/VBP that/IN ,/, uh/UH ,/, some/DT ,/, some/DT work/NN places/NNS where/WRB I/PRP 've/VBP been/VBN they/PRP ,/, they/PRP set/VBP up/RP","{D Well } I think that, {F uh, } [ some, + some ] work places where I've been [ they, + they ] set up - /"
+sd,B,like/IN every/GW body/^NN has/VBZ their/PRP$ own/JJ P/NN C/NN --/:,{D like } every body has <talking> their own P C --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: which/WDT a/DT lot/NN of/IN times/NNS everybody/NN does/VBZ n't/RB need/VB a/DT P/NN C/NN ,/,","-- which a lot of times everybody doesn't need a P C, /"
+%,B,"and/CC it/PRP really/RB ,/,","{C and } it really, - /"
+sv,B,"without/IN them/PRP knowing/VBG how/WRB to/TO use/VB it/PRP properly/RB ,/, it/PRP slows/VBZ them/PRP down/RP ,/, more/JJR than/IN it/PRP helps/VBZ them/PRP accomplish/VB something/NN ./.","without them knowing how to use it properly, it slows them down, more than it helps them accomplish something. /"
+b,A,Right/UH ./.,Right. /
+sv,B,They/PRP spend/VBP more/JJR time/NN messing/VBG with/IN the/DT P/NN C/NN than/IN they/PRP would/MD actually/RB accomplishing/VBG the/DT tasks/NNS that/IN they/PRP 're/VBP trying/VBG to/TO do/VB if/IN they/PRP did/VBD n't/RB have/VB a/DT P/NN C/NN at/IN all/DT ./.,They spend more time messing with the P C than they would actually accomplishing the tasks that they're trying to do if they didn't have a P C at all. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC you/PRP really/RB have/VBP to/TO be/VB able/JJ to/TO type/VB pretty/RB fast/RB before/RB ,/, you/PRP know/VBP ,/, before/IN it/PRP really/RB saves/VBZ time/NN ./.","{C And } you really have to be able to type pretty fast [ before, + {D you know, } before ] it really saves time. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+ba,B,that/DT 's/BES true/JJ ./.,that's true. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC you/PRP have/VBP to/TO ,/, you/PRP know/VBP ,/, be/VB familiar/JJ with/IN it/PRP ,/,","{C And } you have to, {D you know, } be familiar with it, /"
+sv,B,"like/IN there/EX 're/VBP so/RB many/JJ different/JJ software/NN packages/NNS ,/, it/PRP ,/, you/PRP have/VBP to/TO be/VB familiar/JJ with/IN the/DT one/CD that/WDT you/PRP 're/VBP going/VBG to/TO be/VB using/VBG most/RBS ./.","{D like } there're so many different software packages, [ it, + you ] have to be familiar with the one that you're going to be using most. /"
+b,A,Uh-huh/UH,Uh-huh /
+sv,B,"A/DT lot/NN of/IN times/NNS ,/, uh/UH ,/, people/NNS know/VBP about/IN half/NN of/IN the/DT capabilities/NNS of/IN a/DT package/NN that/WDT they/PRP should/MD know/VB to/TO actually/RB be/VB able/JJ to/TO use/VB it/PRP properly/RB ,/,","A lot of times, {F uh, } people know about half of the capabilities of a package that they should know to actually be able to use it properly, /"
+sv,B,"and/CC so/RB they/PRP waste/VBP more/JJR time/NN with/IN their/PRP$ trying/VBG to/TO ,/, uh/UH ,/, figure/VB out/RP how/WRB to/TO do/VB ,/, you/PRP know/VBP ,/, other/JJ things/NNS ,/, than/IN they/PRP would/MD if/IN they/PRP ,/, if/IN they/PRP actually/RB understood/VBD what/WP they/PRP were/VBD trying/VBG to/TO do/VB ./.","{C and so } they waste more time with their trying to, {F uh, } figure out how to do, {D you know, } other things, than they would [ if they, + <music> if they ] actually understood what they were trying to do. /"
+sv,B,"You/PRP know/VBP ,/, like/IN ,/, uh/UH ,/, they/PRP want/VBP to/TO ,/, to/TO format/VB a/DT report/NN a/DT certain/JJ way/NN --/:","{D You know, } {D like, } {F uh, } they want [ to, + to ] format a report a certain way -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"--/: and/CC if/IN they/PRP really/RB understood/VBD the/DT capabilities/NNS of/IN the/DT package/NN they/PRP could/MD ,/, they/PRP could/MD do/VB that/DT in/IN about/IN ,/, you/PRP know/VBP ,/, half/PDT the/DT time/NN that/WDT they/PRP spend/VBP trying/VBG to/TO figure/VB out/RP how/WRB to/TO do/VB it/PRP without/IN spending/VBG the/DT time/NN to/TO learn/VB the/DT package/NN properly/RB ./.","-- {C and } if they really understood the capabilities of the package [ they could, + they could ] do that in about, {D you know, } half the time that they spend trying to figure out how to do it without spending the time to learn the package properly. /"
+^2,A,"To/TO set/VB up/RP the/DT boundaries/NNS correctly/RB ,/, and/CC --/:","To set up the boundaries correctly, and <throat_clearing> --"
+aa,B,"Right/UH ,/,","Right, /"
+ba,B,exactly/UH ./.,exactly. /
++,A,"--/: how/WRB many/JJ lines/NNS you/PRP 're/VBP going/VBG to/TO use/VB in/IN an/DT ,/,","-- how many lines you're going to use in an, -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"A/DT lot/NN of/IN times/NNS they/PRP ,/, they/PRP ,/, they/PRP do/VBP it/PRP manually/RB on/IN the/DT computer/NN ,/, which/WDT just/RB really/RB is/VBZ a/DT waste/NN of/IN time/NN ,/,","A lot of times [ [ they, + they, ] + they ] do it manually on the computer, which just really is a waste of time, /"
+sv,B,"and/CC then/RB ,/, if/IN they/PRP ever/RB have/VBP to/TO change/VB anything/NN in/IN that/DT ,/, in/IN that/DT ,/, in/IN the/DT document/NN ,/, they/PRP have/VBP to/TO go/VB back/RB and/CC redo/VB it/PRP all/DT manually/RB ,/, whereas/IN if/IN they/PRP had/VBD learned/VBN the/DT package/NN properly/RB to/TO start/VB with/IN and/CC had/VBD set/VBN it/PRP up/RP correctly/RB ,/, the/DT package/NN would/MD do/VB that/DT for/IN them/PRP --/:","{C and then, } if they ever have to change anything [ [ in that, + in that, ] + in the ] document, they have to go back and redo it all manually, whereas if they had learned the package properly to start with and had set it up correctly, the package would do that for them --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: whenever/WRB they/PRP wanted/VBD to/TO make/VB a/DT change/NN ,/,","-- whenever they wanted to make a change, /"
+qh,A,"Ca/MD n't/RB you/PRP ,/, ca/MD n't/RB you/PRP put/VB ,/,","[ [ Can't you, + can't you put, ] +"
+sd,B,"so/IN I/PRP ,/, I/PRP 've/VBP seen/VBN that/DT as/IN a/DT problem/NN ./.","{C so } [ I, + I've ] seen that as a problem. /"
++,A,"Ca/MD n't/RB you/PRP put/VB it/PRP on/IN a/DT disk/NN and/CC then/RB just/RB edit/VB it/PRP ,/, if/IN you/PRP need/VBP to/TO when/WRB you/PRP go/VBP back/RB ./.","Can't you ] put it on a disk and then just edit it, if you need to when you go back. /"
+b,B,"Right/UH ,/,","Right, /"
+sd,B,"but/CC in/IN some/DT ,/, in/IN some/DT cases/NNS the/DT with/IN the/DT formatting/NN ,/, what/WP I/PRP 'm/VBP talking/VBG about/IN is/VBZ that/IN they/PRP would/MD set/VB up/IN ,/, they/PRP set/VBP up/RP a/DT certain/JJ document/NN ,/,","{C but } [ in some, + in some ] cases the with the formatting, what I'm talking about is that [ they would set up, + they set up ] a certain document, /"
+sd,B,and/CC it/PRP may/MD be/VB eight/CD pages/NNS long/JJ ./.,{C and } it may be eight pages long. /
+b,A,Right/UH ./.,Right. /
+sd,B,"And/CC they/PRP set/VBP it/PRP up/RP manually/RB ,/, so/IN that/IN they/PRP have/VBP all/DT their/PRP$ spacings/NNS and/CC formattings/NNS and/CC tabs/NNS set/VBN manually/RB ./.","{C And } they set it up manually, so that they have all their spacings and formattings and tabs set manually. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,A,And/CC --/:,[ {C And } + --
+sd,B,"And/CC ,/, um/UH ,/,","{C And, } {F um, }"
++,A,"--/: and/CC um/UH ,/,","-- {C and } ] {F um, } -/"
++,B,"then/RB when/WRB they/PRP have/VBP to/TO make/VB a/DT change/NN ,/, say/UH they/PRP want/VBP to/TO insert/VB a/DT paragraph/NN ./. They/PRP got/VBN to/TO go/VB through/IN the/DT document/NN and/CC reset/VB all/PDT the/DT page/NN breaks/NNS manually/RB --/:","{C then } when they have to make a change, {A say they want to insert a paragraph. } They got to go through the document and reset all the page breaks manually --"
+^2,A,Rewrite/VB the/DT whole/JJ thing/NN ./.,Rewrite the whole thing. /
++,B,"--/: and/CC rewrite/VB the/DT whole/JJ thing/NN instead/IN of/IN having/VBG the/DT ,/,","-- and rewrite the whole thing instead of having the, - /"
+sd,B,"if/IN ,/, if/IN they/PRP had/VBD set/VBN up/RP the/DT formatting/NN on/IN the/DT system/NN itself/PRP ,/, it/PRP would/MD do/VB that/DT for/IN them/PRP ,/, and/CC save/VB them/PRP a/DT lot/NN of/IN time/NN ./.","[ if, + if ] they had set up the formatting on the system itself, it would do that for them, and save them a lot of time. /"
+sd,B,But/CC a/DT lot/NN of/IN people/NNS do/VBP n't/RB spend/VB the/DT time/NN to/TO learn/VB the/DT package/NN ./.,{C But } a lot of people don't spend the time to learn the package. /
+qo,A,How/WRB does/VBZ the/DT word/NN wrap/NN work/VB on/IN that/DT ?/.,How does the word wrap work on that? /
+qy,A,Do/VBP you/PRP end/VB up/RP with/IN very/RB different/JJ length/NN lines/NNS ?/.,Do you end up with very different length lines? /
+nn,B,"Oh/UH ,/, no/UH ,/,","{F Oh, } no, /"
+nn,B,no/UH,no /
+sd,B,you/PRP can/MD left/NN and/CC right/NN justify/VB the/DT whole/JJ thing/NN ./.,you can left and right justify the whole thing. /
+sd,B,It/PRP comes/VBZ out/RP just/RB perfectly/RB spaced/JJ like/IN a/DT block/NN ./.,It comes out just perfectly spaced like a block. /
+%,A,Um/UH ./.,{F Um. } /
+sd,B,"It/PRP 'll/MD ,/, it/PRP 'll/MD automatically/RB ,/,","[ It'll, + it'll ] automatically, - /"
+sd,B,it/PRP 's/BES like/IN typesetting/NN ./.,it's like typesetting. /
+sd,B,It/PRP 'll/MD automatically/RB do/VB that/DT for/IN you/PRP ./.,It'll automatically do that for you. /
+qy^d,A,And/CC it/PRP divides/VBZ the/DT words/NNS by/IN itself/PRP ?/.,{C And } it divides the words by itself? /
+ng,B,Usually/RB it/PRP does/VBZ n't/RB divide/VB words/NNS ./.,Usually it doesn't divide words. /
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,B,They/PRP usually/RB have/VBP it/PRP space/VB the/DT words/NNS in/IN a/DT line/NN rather/IN than/IN divide/VB a/DT word/NN ./.,They usually have it space the words in a [ line + ] rather than divide a word. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"So/RB ,/, you/PRP see/VBP ,/, like/IN in/IN a/DT newspaper/NN ,/, they/PRP typeset/VBP ./.","{C So, } you see, like in a newspaper, they typeset. /"
+sd,B,They/PRP do/VBP n't/RB usually/RB break/VB words/NNS in/IN a/DT newspaper/NN ./.,They don't usually break words in a newspaper. /
+b,A,Right/UH ./.,Right. /
+sd,B,"If/IN the/DT ,/, if/IN one/CD line/NN is/VBZ going/VBG to/TO be/VB a/DT lot/NN shorter/JJR than/IN another/DT line/NN ,/, they/PRP just/RB add/VBP spaces/NNS to/IN that/DT line/NN to/TO make/VB it/PRP look/VB long/RB as/IN the/DT rest/NN of/IN the/DT lines/NNS ./.","[ If the, + if one ] line is going to be a lot shorter than another line, they just add spaces to that line to make it look long as the rest of the lines. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+bf,A,"They/PRP space/NN it/PRP out/IN in/IN ,/, in/IN the/DT line/NN itself/PRP ./.","They space it out [ in, + in ] the line itself. /"
+aa,B,Right/UH ./.,Right. /
+b,A,Oh/UH ./.,Oh. /
+sd,B,And/CC most/JJS computers/NNS do/VBP that/DT ./.,{C And } most computers do that. /
+%,A,"They/PRP ,/,","They, -/"
+sd,B,"Most/JJS pack-/XX ,/, most/RBS software/NN packages/NNS will/MD do/VB that/DT for/IN you/PRP ./.","[ Most pack-, + most software packages ] will do that for you. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP 've/VBP ,/, I/PRP 've/VBP known/VBN people/NNS that/WDT have/VBP used/VBN a/DT package/NN for/IN ,/, for/IN five/CD years/NNS ,/, you/PRP know/VBP ,/,","[ I've, + I've ] known people that have used a package [ for, + for ] five years, {D you know, } /"
+sd,B,"and/CC I/PRP would/MD say/VB ,/, well/UH ,/, have/VBP you/PRP ,/, you/PRP know/VBP ,/, you/PRP know/VBP more/JJR about/IN this/DT package/NN than/IN I/PRP do/VBP ,/,","{C and } I would say, {D well, } [ have you, + ] {D you know, } you know more about this package than I do, /"
+^q,B,how/WRB do/VBP you/PRP left/NN justify/VB ?/.,how do you left justify? /
+sd,B,"And/CC they/PRP would/MD say/VB ,/, I/PRP do/VBP n't/RB know/VB ./.","{C And } they would say, I don't know. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC it/PRP would/MD take/VB me/PRP maybe/RB two/CD or/CC three/CD minutes/NNS looking/VBG in/IN the/DT manual/NN to/TO figure/VB out/RP what/WDT command/NN it/PRP was/VBD that/WDT caused/VBD this/DT to/TO happen/VB ./.,{C And } it would take me maybe two or three minutes looking in the manual to figure out what command it was that caused this to happen. /
+sd,B,"And/CC they/PRP would/MD say/VB ,/, how/WRB did/VBD you/PRP do/VB that/DT ?/.","{C And } they would say, how did you do that? /"
+sd,B,"And/CC I/PRP 'm/VBP like/IN ,/, well/UH it/PRP 's/BES really/RB easy/JJ ./.","{C And } I'm like, {D well } it's really easy. /"
+sd,B,"And/CC they/PRP were/VBD like/IN ,/, well/UH ,/, I/PRP never/RB knew/VBD that/DT ./.","{C And } they were like, {D well, } I never knew that. /"
+sd,B,"So/RB obviously/RB they/PRP 'd/MD never/RB considered/VBN looking/VBG it/PRP up/RP ,/, you/PRP know/VBP ./.","{C So } obviously they'd never considered looking it up, {D you know. } /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"Do/VBP you/PRP think/VB it/PRP 's/BES a/DT lack/NN of/IN training/NN ,/,","Do you think it's a lack of training, /"
+qrr,A,or/CC it/PRP 's/BES just/RB that/IN they/PRP do/VBP n't/RB use/VB the/DT materials/NNS that/WDT are/VBP available/JJ to/TO them/PRP ./.,{C or } it's just that they don't use the materials that are available to them. /
+no,B,"Sometimes/RB it/PRP 's/BES ,/,","Sometimes it's, - /"
+no,B,"sometimes/RB ,/,","sometimes, - /"
+no,B,"well/UH ,/, it/PRP 's/BES a/DT number/NN of/IN different/JJ things/NNS ./.","{D well, } it's a number of different things. /"
+sv,B,"Sometimes/RB they/PRP do/VBP n't/RB ,/, uh/UH ,/, they/PRP do/VBP n't/RB think/VB that/IN they/PRP can/MD get/VB any/DT information/NN out/IN of/IN the/DT manual/NN ./.","Sometimes [ they don't, + {F uh, } they don't ] think that they can get any information out of the manual. /"
+sv,B,Some/DT manuals/NNS are/VBP n't/RB really/RB designed/VBN very/RB well/RB ./.,Some manuals aren't really designed very well. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"But/CC some/DT of/IN them/PRP ,/,","{C But } some of them,"
+x,A,,<Cough>.
++,B,"are/VBP ,/,","are, /"
+sd,B,"and/CC more/JJR and/CC more/JJR of/IN them/PRP are/VBP coming/VBG out/RB written/VBN in/IN a/DT way/NN that/IN it/PRP ,/, that/IN just/RB a/DT basic/JJ ,/, general/JJ user/NN can/MD understand/VB them/PRP ./.","{C and } more and more of them are coming out written in a way [ that it, + that just ] a basic, general user can understand them. /"
+sd,B,"So/RB ,/, I/PRP think/VBP ,/, um/UH ,/, people/NNS think/VBP it/PRP 's/BES going/VBG to/TO take/VB them/PRP a/DT lot/NN longer/RBR to/TO learn/VB it/PRP properly/RB than/IN it/PRP really/RB would/MD ,/,","{C So, } I think, {F um, } people think it's <talking> going to take them a lot longer to learn it properly than it really would, /"
+sd,B,"and/CC so/RB they/PRP 're/VBP really/RB wasting/VBG time/NN rather/IN than/IN saving/VBG themselves/PRP time/NN ,/, because/IN they/PRP think/VBP ,/, well/UH ,/, it/PRP 's/BES quicker/RBR just/RB to/TO do/VB it/PRP myself/PRP --/:","{C and so } they're really wasting time rather than saving themselves time, because they think, {D well, } it's quicker just to do it myself --"
+b,A,Right/UH ./.,Right. /
++,B,--/: when/WRB it/PRP 's/BES really/RB not/RB ./.,-- when it's really not. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,A,It/PRP 's/BES better/JJR to/TO learn/VB it/PRP directly/RB from/IN the/DT manual/NN ./.,It's better to learn it directly from the manual. /
+sv,B,"Well/UH ,/, I/PRP think/VBP so/RB ./.","{D Well, } I think so. /"
+sv,A,Especially/RB when/WRB you/PRP have/VBP to/TO trouble/NN shoot/VB some/DT things/NNS ./.,Especially when you have to trouble shoot some things. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+aa,B,Exactly/UH ./.,Exactly. /
+sd,A,"Because/IN a/DT lot/NN of/IN the/DT times/NNS the/DT computer/NN the/DT program/NN still/RB has/VBZ ,/, uh/UH ,/, bugs/NNS in/IN it/PRP ,/,","<Talking> {C Because } a lot of the times the computer <throat_clearing> [ the + ] program still has, {F uh, } bugs in it, /"
+sd,A,and/CC you/PRP have/VBP to/TO work/VB around/IN it/PRP ./.,{C and } you have to work around it. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy^d,A,"Have/VBP you/PRP worked/VBN mostly/RB on/IN I/NNP B/NNP M/NNP ,/,","Have you worked mostly on I B M, /"
+na,B,"With/IN P/NN C/NN -s/NNS they/PRP 're/VBP either/CC I/NNP B/NNP M/NNP or/CC I/NNP B/NNP M/NNP compatible/JJ ,/, mostly/RB ./.","With P C -s they're either <talking> I B M or I B M compatible, mostly. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"that/DT 's/BES a-/XX ,/, --/:","[ that's a-, + --"
+sd,B,"That/DT is/VBZ the/DT ,/, you/PRP know/VBP ,/, the/DT industry/NN standard/NN ./.","That is [ the, + {D you know, } the ] industry standard. /"
++,A,"--/: that/DT 's/BES all/DT I/PRP 've/VBP seen/VBN in/IN offices/NNS ,/, is/VBZ I/NNP B/NNP M/NNP ./.","-- that's all ] I've seen in offices, is I B M. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"There/EX 's/BES a/DT lot/NN of/IN really/RB good/JJ I/NNP B/NNP M/NNP compatibles/NNS ,/, too/RB ./.","There's a lot of really good I B M compatibles, too. /"
+sd,B,"They/PRP do/VBP n't/RB have/VB to/TO necessarily/RB be/VB the/DT I/NNP B/NNP M/NNP brand/NN ,/,","They don't have to necessarily be the I B M brand, /"
+sd,B,but/CC they/PRP have/VBP to/TO adhere/VB to/IN that/DT industry/NN standard/NN ./.,{C but } they have to adhere to that industry standard. /
+b,A,Right/UH ./.,Right. /
+qy,A,Well/UH do/VBP you/PRP think/VB it/PRP 's/HVS been/VBN five/CD minutes/NNS yet/RB,{D Well } do you think it's been five minutes yet /
+%,A,"or/CC ,/,","{C or, } -/"
+na,B,"Oh/UH ,/, probably/RB ./.","{F Oh, } probably. /"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+x,B,,<Laughter>.
+fc,A,Well/UH it/PRP was/VBD nice/JJ talking/VBG to/IN you/PRP ./.,{D Well } it was nice talking to you. /
+fc,B,Okay/UH ./.,Okay. /
+fc,A,Thank/VB you/PRP ./.,Thank you. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /

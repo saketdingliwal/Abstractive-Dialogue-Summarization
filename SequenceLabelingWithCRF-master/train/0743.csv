@@ -1,0 +1,331 @@
+act_tag,speaker,pos,text
+qy,B,"Are/VBP you/PRP a/DT Vietnam/NNP veteran/NN ,/, Dudley/NNP ?/. ./.","Are you a Vietnam veteran, Dudley? <Music>. /"
+nn,A,"Uh/UH ,/, no/UH ./.","{F Uh, } no. /"
+bh,B,No/UH ?/.,No? /
+x,A,,<Throat_clearing>.
+qy,B,Do/VBP you/PRP have/VB family/NN who/WP were/VBD in/IN the/DT Vietnam/NNP War/NNP ?/.,Do you have family who were in the Vietnam War? /
+nn,A,"Uh/UH ,/, no/UH ./.","{F Uh, } no. /"
+sd,A,"My/PRP$ father/NN was/VBD ,/, uh/UH ,/, came/VBD in/RB right/RB after/IN World/NNP War/NNP two/CD ./.","My father [ was, + {F uh, } came ] in right after World War two. /"
+bk,B,Okay/UH ./.,Okay. /
+qy^d,B,"So/RB he/PRP was/VBD too/RB old/JJ ,/,","{C So } he was too old, /"
+qy,B,"and/CC you/PRP were/VBD too/RB young/JJ ,/, right/UH ?/.","{C and } you were too young, right? /"
+na,A,"I/PRP am/VBP too/RB young/JJ ,/, yeah/UH ./.","I am too young, yeah. /"
+bk,B,All/RB right/JJ ./.,All right. /
+qy,B,Do/VBP you/PRP know/VB some/DT folks/NNS who/WP have/VBP been/VBN there/RB ?/.,Do you know some folks who have been there? /
+ny,A,"Uh/UH ,/, yes/UH ./.","{F Uh, } yes. /"
+bk,B,Okay/UH ./.,Okay. /
+sd,A,A/DT couple/NN ./.,A couple. /
+b,B,Okay/UH ./.,Okay. /
+qo,B,How/WRB did/VBD it/PRP influence/VB them/PRP ?/.,How did it influence them? /
+sd,A,"Uh/UH ,/, the/DT ,/, the/DT one/CD guy/NN I/PRP worked/VBD with/IN down/IN in/IN Austin/NNP hated/VBD it/PRP ./.","{F Uh, } [ the, + the ] one guy I worked with down in Austin hated it. /"
+sd,A,"Uh/UH ,/, he/PRP was/VBD a/DT lineman/NN down/IN there/RB ./.","{F Uh, } he was a lineman down there. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC while/IN he/PRP was/VBD there/RB ,/, he/PRP caught/VBD some/DT kind/NN of/IN a/DT strange/JJ disease/NN ./.","{C And } while he was there, he caught some kind of a strange disease. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, all/DT his/PRP$ hair/NN fell/VBD out/RP ,/,","{C And, } {F uh, } all his hair fell out, /"
+sd,A,and/CC he/PRP had/VBD like/UH a/DT hundred/CD and/CC five/CD fever/NN for/IN a/DT while/NN,{C and } he had {D like } a hundred and five fever for a while /
+%,A,"and/CC ,/,","[ {C and, } +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"And/CC ,/, uh/UH ,/,","{C And, } ] {F uh, } -/"
+qw,B,"Uh/UH ,/, what/WP about/IN long/JJ lasting/VBG effects/NNS on/IN him/PRP ?/.","{F Uh, } what about long lasting effects on him? /"
+qy,B,Has/VBZ he/PRP still/RB suffering/VBG from/IN those/DT problems/NNS ?/.,Has he still suffering from those problems? /
+sv,A,"I/PRP do/VBP not/RB think/VB he/PRP was/VBD in/IN combat/NN ,/,","I do not think he was in combat, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"so/RB ,/,","{C so, }"
+sd,B,"Well/UH ,/, I/PRP have/VBP talked/VBN with/IN a/DT number/NN of/IN Vietnam/NNP veterans/NNS ,/,","{D Well, } I have talked with a number of Vietnam veterans, /"
+sd,B,"and/CC I/PRP really/RB ,/, I/PRP had/VBD no/DT one/NN directly/RB related/JJ to/IN me/PRP involved/JJ ./.","{C and } [ I really, + I had ] no one directly related to me involved. /"
++,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"But/CC ,/, uh/UH ,/, my/PRP$ sister/NN 's/POS husband/NN was/VBD in/IN Vietnam/NNP ./.","{C But, } {F uh, } my sister's husband was in Vietnam. /"
+sd,B,"And/CC it/PRP ,/, it/PRP really/RB made/VBD a/DT completely/RB different/JJ man/NN out/IN of/IN him/PRP ./.","{C And } [ it, + it ] really made a completely different man out of him. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"He/PRP went/VBD to/IN Vietnam/NNP one/CD man/NN and/CC came/VBD back/RB another/DT ,/, not/RB better/JJR ./.","He went to Vietnam one man and came back another, not better. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Then/RB ,/, uh/UH ,/, another/DT friend/NN of/IN mine/PRP went/VBD ,/,","Then, {F uh, } another friend of mine went, /"
+sd,B,and/CC he/PRP was/VBD in/IN combat/NN ./.,{C and } he was in combat. /
+sd,B,"But/CC he/PRP came/VBD back/RB ,/,","{C But } he came back, /"
+sd,B,"and/CC he/PRP said/VBD ,/, ``/`` Okay/UH ,/, that/DT is/VBZ it/PRP ./. That/DT is/VBZ behind/IN me/PRP ./. I/PRP am/VBP going/VBG on/IN with/IN my/PRP$ life/NN ./. ''/''","{C and } he said, ""Okay, that is it. That is behind me. I am going on with my life."" /"
+sd,B,Much/JJ like/IN what/WP Roger/NNP Staubach/NNP did/VBD ./.,Much like what Roger Staubach did. /
+b,A,Right/UH ./.,Right. /
+qy^d,B,"He/PRP was/VBD ,/, uh/UH ,/, he/PRP was/VBD a/DT Vietnam/NNP war/NN veteran/NN ./.","[ He was, + {F uh, } he was ] a Vietnam war veteran. /"
+ny,A,Yeah/UH ./.,Yeah. /
+%,B,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, } -/"
+sd,A,"But/CC he/PRP was/VBD in/IN the/DT Navy/NNP ,/, though/RB ,/,","{C But } he was in the Navy, though,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,he/PRP was/VBD ./.,(( he was )) . /
+ba,B,That/DT is/VBZ true/JJ ./.,That is true. /
+sd,A,It/PRP makes/VBZ a/DT lot/NN of/IN difference/NN ./.,It makes a lot of difference. /
+b,B,Right/UH ./.,Right. /
+sd,B,"And/CC ,/, but/CC ,/, uh/UH ,/, most/JJS of/IN the/DT folks/NNS that/WDT I/PRP have/VBP met/VBN that/WDT were/VBD actually/RB on/IN the/DT land/NN ,/, or/CC in/IN combat/NN ,/, are/VBP still/RB ,/, still/RB carry/VBP a/DT lot/NN of/IN anger/NN ./.","{C And, } {C but, } {F uh, } most of the folks that I have met that were actually on the land, or in combat, [ are still, + still ] carry a lot of anger. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,They/PRP really/RB do/VBP ./.,They really do. /
+sv,B,"And/CC ,/, uh/UH ,/, I/PRP ,/, I/PRP ,/, I/PRP ,/, I/PRP really/RB do/VBP not/RB think/VB that/IN we/PRP did/VBD those/DT young/JJ men/NNS right/JJ ./.","{C And, } {F uh, } [ [ [ I, + I, ] + I, ] + I ] really do not think that we did those young men right. /"
+b,A,Huh/UH ./.,Huh. /
+sv,B,"I/PRP think/VBP that/IN ,/, uh/UH ,/, Desert/NNP Storm/NNP ,/,","I think that, {F uh, } Desert Storm,"
+x,A,,<Throat_clearing>.
++,B,shows/VBZ a/DT lot/NN of/IN learning/VBG since/IN that/DT time/NN ./.,shows a lot of learning since that time. /
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+%,B,Uh/UH ./.,{F Uh } <<faintly>>. /
+sv,A,"Well/UH ,/, the/DT armed/JJ forces/NNS did/VBD so/RB much/JJ to/TO ,/, you/PRP know/VBP ,/, Agent/NNP Orange/NNP ,/,","{D Well, } the armed forces did so much to, {D you know, } Agent Orange, /"
+sv,A,they/PRP did/VBD so/RB much/JJ to/IN their/PRP$ own/JJ people/NNS all/DT during/IN that/DT time/NN ./.,they did so much to their own people all during that time. /
+b,B,Yeah/UH ./.,Yeah. /
+ba,B,That/DT is/VBZ true/JJ ./.,That is true. /
+sv,A,"You/PRP know/VBP ,/, and/CC they/PRP ta/VBP ,/, they/PRP take/VBP a/DT ,/,","{D You know, } {C and } [ [ they ta-, + they take a, ] +"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"even/RB now/RB ,/, uh/UH ,/, they/PRP take/VBP a/DT free/JJ hand/NN as/RB far/RB as/IN medicine/NN and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, how/WRB they/PRP treat/VBP the/DT war/NN casualties/NNS ,/, you/PRP know/VBP ./.","even now, {F uh, } they take a ] free hand as far as medicine and, {F uh, } {D you know, } how they treat the war casualties, {D you know. } /"
+sv,A,"If/IN you/PRP come/VBP back/RB and/CC your/PRP$ leg/NN is/VBZ blown/VBN off/RP ,/,","If you come back and your leg is blown off,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"you/PRP know/VBP ,/, or/CC ,/, or/CC it/PRP is/VBZ hanging/VBG by/IN a/DT thread/NN ,/, they/PRP still/RB ca/MD n't/RB put/VB it/PRP back/RB together/RB now/RB ./.","{D you know, } [ or, + or ] it is hanging by a thread, they still can't put it back together now. /"
+sv,A,"But/CC ,/,","[ {C But, } +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"But/CC what/WP they/PRP do/VBP afterwards/RB and/CC how/WRB they/PRP re/VBP ,/, rehabilitate/VBP you/PRP ./.","{C But } ] what they do afterwards and how they [ re-, + rehabilitate ] you. -/"
+sv,B,"Well/UH ,/, you/PRP know/VBP ,/, one/CD of/IN the/DT most/RBS troublesome/JJ things/NNS that/WDT I/PRP have/VBP encountered/VBN as/IN a/DT result/NN is/VBZ the/DT incredible/JJ influx/NN of/IN southeast/JJ Asians/NNPS into/IN this/DT country/NN --/:","{D Well, } {D you know, } one of the most troublesome things that I have encountered as a result is the incredible influx of southeast Asians into this country --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: since/IN that/DT conflict/NN ./.,-- since that conflict. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Uh/UH ,/, not/RB so/RB ,/,","{F Uh, } not so,"
+x,A,,<Throat_clearing>.
++,B,"much/JJ that/IN I/PRP say/VBP ,/,","much that I say,"
+x,A,,<Sniffing>.
++,B,I/PRP do/VBP not/RB want/VB you/PRP here/RB ./.,I do not want you here. /
+sv,B,But/CC there/EX is/VBZ just/RB such/PDT a/DT surge/NN of/IN southeast/JJ Asians/NNPS ./.,{C But } there is just such a surge of southeast Asians. /
+sv,B,"It/PRP has/VBZ affected/VBN the/DT culture/NN of/IN this/DT country/NN ,/, uh/UH ,/,","It has affected the culture of this country, {F uh, }"
+ba,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,"It/PRP 's/BES ab-/XX ,/,","[ It's ab-, +"
++,B,very/RB much/RB ./.,very much. /
++,A,it/PRP 's/BES about/RB nine/CD or/CC ten/CD percent/NN now/RB ./.,it's about ] nine or ten percent now. /
+b,B,Yeah/UH ./.,Yeah. /
+b,B,Yeah/UH ./.,Yeah. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"Well/UH ,/, uh/UH ,/, the/DT culture/NN is/VBZ changing/VBG ./.","{D Well, } {F uh, } the culture is changing. /"
+sv,B,"Look/VB how/WRB much/RB more/RBR Oriental/JJ food/NN we/PRP have/VBP ,/, restaurants/NNS now/RB ,/,","Look how much more Oriental food we have, restaurants now,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,for/IN example/NN ./.,for example. /
+sv,B,"Uh/UH ,/, even/RB ten/CD years/NNS ago/RB ,/, there/EX were/VBD not/RB that/RB many/JJ ./.","{F Uh, } even ten years ago, there were not that many. /"
+sv,B,"A/DT lot/NN of/IN shops/NNS are/VBP ,/, are/VBP operated/VBN by/IN southeast/JJ Asians/NNPS ./.","A lot of shops [ are, + are ] operated by southeast Asians. /"
+ba,A,That/DT 's/BES true/JJ ./.,(( That's true )) . /
+sv,B,A/DT lot/NN of/IN people/NNS have/VBP complained/VBN in/IN the/DT schools/NNS ./.,A lot of people have complained in the schools. /
+sv,B,There/EX is/VBZ a/DT culture/NN change/NN there/RB ./.,There is a culture change there. /
+sv,B,"The/DT southeast/JJ Asians/NNPS seem/VBP to/TO be/VB very/RB hungry/JJ ,/,","The southeast Asians seem to be very hungry, /"
+sv,B,there/EX seem/VB to/TO be/VB very/RB studious/JJ ./.,there seem to be very studious. /
+sv,B,"And/CC ,/, uh/UH ,/, tends/VBZ to/TO cause/VB our/PRP$ kids/NNS to/TO really/RB have/VBP to/TO buckle/VB down/RP to/TO keep/VB up/RP with/IN them/PRP ,/, which/WDT is/VBZ not/RB bad/JJ ./.","{C And, } {F uh, } tends to cause our kids to really have to buckle down to keep up with them, which is not bad. /"
+b,A,No/UH ./.,No. /
+sv,B,Not/RB really/RB ./.,Not really. /
+sv,B,"Uh/UH ,/, but/CC it/PRP might/MD in/IN the/DT long/JJ run/NN you/PRP can/MD see/VB where/WRB scholarships/NNS ,/, for/IN example/NN ,/,","{F Uh, } {C but } it might in the long run you can see where scholarships, for example,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"uh/UH ,/, even/RB jobs/NNS ./. Uh/UH ,/, jobs/NNS that/WDT would/MD normally/RB go/VB to/IN an/DT American/NNP ,/, with/IN a/DT lesser/JJR education/NN ,/, might/MD be/VB going/VBG to/IN ,/, to/IN some/DT of/IN these/DT people/NNS here/RB ./.","{F uh, } even jobs. {F Uh, } jobs that would normally go to an American, with a lesser education, might be going [ to, + to ] some of these people here. /"
+sv,B,"And/CC that/DT is/VBZ all/PDT a/DT result/NN of/IN ,/, of/IN ,/, of/IN Vietnam/NNP ./.","{C And } that is all a result [ [ of, + of, ] + of ] Vietnam. /"
+sv,B,"And/CC ,/, and/CC you/PRP see/VBP a/DT lot/NN of/IN ,/,","[ {C And, } + {C and } ] you see [ a lot of, +"
+x,A,,<Throat_clearing>.
++,B,"a/DT lot/NN of/IN men/NNS that/WDT were/VBD over/IN there/RB ,/, brought/VBD families/NNS back/RB ./.","a lot of ] men that were over there, brought families back. /"
+b,A,Yeah/UH ./.,Yeah. /
+%,A,"That/DT is/VBZ ,/,","That is, -/"
+sd,B,"Uh/UH ,/, and/CC it/PRP concerns/VBZ me/PRP that/IN there/EX is/VBZ probably/RB a/DT lot/NN of/IN mixed/JJ breed/NN youngsters/NNS still/RB there/RB ./.","{F Uh, } {C and } it concerns me that there is probably a lot of mixed breed youngsters still there. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC I/PRP would/MD be/VB concerned/JJ or/CC interested/JJ to/TO find/VB out/RP how/WRB they/PRP are/VBP doing/VBG now/RB ./.,{C And } I would be concerned or interested to find out how they are doing now. /
+sv,A,"Well/UH ,/, they/PRP are/VBP probably/RB not/RB doing/VBG very/RB well/RB at/IN all/DT ./.","{D Well, } they are probably not doing very well at all. /"
+%,B,"I/PRP know/VBP that/DT there/EX ,/,","I know that there, -/"
+sv,A,"Because/IN I/PRP know/VBP there/EX is/VBZ ,/, there/EX is/VBZ still/JJ people/NNS even/RB in/IN the/DT Dallas/NNP area/NN ./.","{C Because } I know [ there is, + there is ] still people even in the Dallas area. /"
+sv,A,"There/EX are/VBP ,/, there/EX are/VBP still/JJ people/NNS trying/VBG to/TO get/VB some/DT member/NN of/IN their/PRP$ family/NN back/RB from/IN ,/, uh/UH ,/, Vietnam/NNP ./.","[ There are, + there are ] still people trying to get some member of their family back from, {F uh, } Vietnam. /"
+qy,B,You/PRP are/VBP talking/VBG about/IN P/NNP O/NNP W/NNP -s/NNS --/:,You are talking about P O W -s --
+%,A,"Uh/UH ,/,","{F Uh, } /"
++,B,--/: or/CC --/:,-- or --
+%,A,"uh/UH ,/,","{F uh, } /"
++,B,--/: missing/VBG in/IN actions/NNS ?/.,-- missing in actions? /
+sd,A,"na/JJ ,/, native/JJ Vietnamese/JJ people/NNS ./.","[ na-, + native ] Vietnamese people. /"
+bf,B,Native/JJ Vietnamese/JJ people/NNS ./.,Native Vietnamese people. /
+aa,A,Yeah/UH ./.,Yeah. /
+b,B,Okay/UH ./.,Okay. /
+sd,A,"They/PRP were/VBD lost/VBN ,/, you/PRP know/VBP ,/, when/WRB they/PRP were/VBD little/JJ ,/,","They were lost, {D you know, } when they were little, /"
+sd,A,"and/CC ,/, and/CC they/PRP c-/XX ,/, never/RB did/VBD get/VB back/RB","[ {C and, } + {C and } ] they [ c-, + ] never did get back /"
+%,A,"or/CC ,/,","{C or, } -/"
+%,B,"Oh/UH ,/, I/PRP had/VBD not/RB ./.","{F Oh, } I had not. - /"
+sd,B,"That/DT ,/, that/DT had/VBD not/RB occurred/VBN to/IN me/PRP ./.","[ That, + that ] had not occurred to me. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,That/DT would/MD be/VB --/:,That would be --
+sv,A,"And/CC ,/, uh/UH ,/,","[ {C And, } + {F uh, }"
++,B,--/: an/DT interesting/JJ concept/NN ./.,-- an interesting concept. /
++,A,"and/CC ,/, as/IN is/VBZ really/RB a/DT big/JJ waste/NN because/IN they/PRP did/VBD n't/RB ,/, they/PRP did/VBD n't/RB win/VB ,/,","{C and, } ] as is really a big waste because [ they didn't, + they didn't ] win, /"
+sd,A,they/PRP did/VBD n't/RB regain/VB any/DT of/IN the/DT land/NN that/WDT they/PRP had/VBD ./.,they didn't regain any of the land that they had. /
+sd,A,"It/PRP spilled/VBD over/RP into/IN ,/, uh/UH ,/, now/RB I/PRP ca/MD n't/RB even/RB think/VB of/IN the/DT country/NN ./.","It spilled over into, {F uh, } now I can't even think of the country. /"
+%,A,"But/CC ,/,","{C But, } -/"
+qy^d,B,Cambodia/NNP ?/.,Cambodia? /
+ny,A,Yeah/UH ./.,Yeah. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"and/CC ,/,","[ {C and, } +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,and/CC all/DT they/PRP did/VBD is/VBZ run/VB and/CC hide/VB ./.,{C and } ] all they did is run and hide. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC they/PRP were/VBD not/RB really/RB fighting/VBG ,/, you/PRP know/VBP ,/,","{C And } they were not really fighting, {D you know, } /"
+sv,A,"it/PRP ,/, it/PRP would/MD have/VB been/VBN the/DT same/JJ as/IN Desert/NNP Storm/NNP if/IN all/DT they/PRP had/VBD been/VBN fighting/VBG was/VBD North/NNP Vietnam/NNP ./.","[ it, + it ] would have been the same as Desert Storm if all they had been fighting was North Vietnam. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"But/CC ,/, and/CC I/PRP am/VBP not/RB even/RB sure/JJ who/WP was/VBD involved/JJ more/RBR ./. Whether/IN it/PRP was/VBD China/NNP or/CC Russia/NNP ./.","{C But, } {C and } I am not even sure who was involved more. Whether it was China or Russia. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"You/PRP know/VBP ,/, they/PRP were/VBD pouring/VBG ,/, they/PRP were/VBD pouring/VBG weapons/NNS in/IN there/RB and/CC ,/, and/CC advising/VBG ,/, well/UH ,/, digging/VBG tunnels/NNS for/IN them/PRP ./.","{D You know, } [ they were pouring, + they were pouring ] weapons in there [ and, + and ] [ advising, + {E well, } digging ] tunnels for them."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"You/PRP know/VBP ,/,","{D You know, } /"
+sv,A,and/CC there/EX is/VBZ no/DT way/NN that/WDT they/PRP could/MD ever/RB catch/VB them/PRP ./.,{C and } there is no way that they could ever catch them. /
+sv,B,"Well/UH ,/, I/PRP think/VBP the/DT terrain/NN had/VBD a/DT lot/NN to/TO do/VB with/IN the/DT ,/, the/DT success/NN of/IN Desert/NNP Storm/NNP as/IN opposed/VBN to/IN that/DT in/IN Vietnam/NNP ./.","{D Well, } I think the terrain had a lot to do with [ the, + the ] success of Desert Storm as opposed to that in Vietnam. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,that/DT is/VBZ right/JJ ./.,that is right. /
+sd,B,"You/PRP know/VBP ,/, there/EX is/VBZ incredible/JJ cover/NN --/:","{D You know, } there is incredible cover --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: in/IN Vietnam/NNP ./.,-- in Vietnam. /
+sd,B,"And/CC you/PRP ca/MD n't/RB find/VB much/JJ cover/NN on/IN ,/, in/IN a/DT sand/NN --/:","{C And } you can't find much cover [ on, + <laughter> in ] a sand --"
+b,A,"Yeah/UH ,/,","Yeah, /"
++,B,--/: dune/NN ./.,-- dune <laughter>. /
+b,A,"yeah/UH ,/,","yeah, /"
+sd,A,"all/DT they/PRP can/MD do/VB is/VBZ dig/VB in/IN ,/,","all they can do is dig in, /"
+%,A,"and/CC they/PRP ,/,","{C and } they,"
+ba,B,That/DT is/VBZ right/JJ ./.,That is right. /
++,A,"you/PRP know/VBP ,/,","{D you know, } - /"
+sd,A,and/CC then/RB they/PRP try/VBP to/TO camouflage/VB the/DT top/NN ./.,{C and then } they try to camouflage the top. /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b^m,B,uh-huh/UH ./.,uh-huh. /
+sv,A,"Well/UH now/RB ,/, even/RB ,/, I/PRP think/VBP even/RB now/RB ,/, and/CC in/IN Vietnam/NNP they/PRP could/MD probably/RB have/VB done/VBN a/DT better/JJR job/NN ./.","[ {D Well } now, even, + I think even now, ] and in Vietnam they could probably have done a better job. /"
+sv,A,"Because/IN they/PRP could/MD ,/, they/PRP could/MD kill/VB all/PDT those/DT plants/NNS ,/, you/PRP know/VBP ,/, which/WDT would/MD devastate/VB the/DT country/NN as/RB far/RB as/IN farming/NN from/IN then/RB on/IN ./.","{C Because } [ they could, + <throat_clearing> they could ] kill all those plants, {D you know, } which would devastate the country as far as farming from then on. /"
+sv,A,"But/CC ,/, and/CC the/DT ,/, and/CC the/DT Corps/NNP of/IN Engineers/NNPS I/PRP think/VBP do/VBP a/DT better/JJR job/NN now/RB ,/, like/IN they/PRP did/VBD in/IN Desert/NNP Storm/NNP ./.","{C But, } [ {C and } the, + {C and } the ] Corps of Engineers I think do a better job now, like they did in Desert Storm. /"
+%,A,Because/IN --/:,{C Because } --
+%,B,"Well/UH ,/,","{D Well, } -/"
++,A,"--/: they/PRP had/VBD ,/,","-- they had, - /"
+sd,A,"he/PRP ,/, he/PRP dug/VBD a/DT bunch/NN of/IN moats/NNS and/CC filled/VBD them/PRP with/IN oil/NN --/:","[ he, + he ] dug a bunch of moats and filled them with oil -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC he/PRP set/VBD a/DT lot/NN of/IN booby/NN traps/NNS all/RB along/IN the/DT way/NN as/IN they/PRP went/VBD ./.,-- {C and } he set a lot of booby traps all along the way as they went. /
+sd,A,"And/CC they/PRP had/VBD to/TO ,/, you/PRP know/VBP ,/, they/PRP had/VBD to/TO blow/VB them/PRP up/RP or/CC ,/,","{C And } [ they had to, + {D you know, } they had to ] blow them up [ or, +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,or/CC disarm/VB them/PRP ./.,or ] disarm them. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC then/RB they/PRP had/VBD to/TO fill/VB in/RP little/JJ bridges/NNS all/PDT the/DT way/NN where/WRB he/PRP ,/, where/WRB he/PRP had/VBD made/VBN those/DT moats/NNS ./.","{C And then } they had to fill in little bridges all the way [ where he, + where he ] had made those moats. /"
+qw,B,What/WDT world/NN war/NN do/VBP you/PRP think/VB they/PRP found/VBD the/DT experience/NN for/IN that/DT ?/.,What world war do you think they found the experience for that? /
+%,A,"Uh/UH ,/,","{F Uh, } /"
+qy,B,Do/VBP n't/RB you/PRP think/VB they/PRP learned/VBD from/IN the/DT mistakes/NNS in/IN Vietnam/NNP ?/.,Don't you think they learned from the mistakes in Vietnam? /
+%,A,"W-/XX ,/,","W-, - /"
+ny,A,"yeah/UH ,/,","yeah, /"
+sd,A,partially/RB ./.,partially. /
+sv,B,"Part/NN of/IN it/PRP is/VBZ that/DT ,/,","Part of it is that,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,part/NN of/IN it/PRP is/VBZ technology/NN ./.,part of it is technology. /
+b,A,Yeah/UH ./.,Yeah. /
+bf,A,"Part/NN of/IN it/PRP is/VBZ technology/NN ,/, yeah/UH ./.","Part of it is technology, yeah. /"
+sv,B,But/CC --/:,{C But } --
+%,A,Because/IN --/:,{C Because } --
++,B,"--/: when/WRB ,/, when/WRB ,/,","-- [ [ when, + when, ] +"
++,A,"--/: all/DT ,/,","-- all, - /"
+ad,A,go/VB ahead/RB ./.,go ahead. /
++,B,"When/WRB you/PRP get/VBP into/IN trouble/NN like/IN that/DT in/IN a/DT place/NN like/IN Vietnam/NNP ,/, you/PRP do/VBP tend/VB to/TO analyze/VB the/DT problems/NNS that/WDT you/PRP get/VBP into/IN ,/,","When ] you get into trouble like that in a place like Vietnam, you do tend to analyze the problems that you get into, /"
+sv,B,"and/CC you/PRP say/VBP ,/, ``/`` Never/RB more/JJR ./. ''/''","{C and } you say, ""Never more."" /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"And/CC ,/, and/CC you/PRP overcome/VBP those/DT problems/NNS ,/,","[ {C And, } + {C and } ] you overcome those problems, /"
+sv,B,and/CC you/PRP are/VBP prepared/JJ next/JJ time/NN ./.,{C and } you are prepared next time. /
+sv,A,"I/PRP think/VBP that/DT is/VBZ one/CD of/IN the/DT reasons/NNS that/IN they/PRP have/VBP ,/, they/PRP have/VBP pretty/RB much/RB avoided/VBN getting/VBG involved/JJ in/IN South/NNP America/NNP ./.","I think that is one of the reasons [ that they have, + they have ] pretty much avoided getting involved in South America. /"
+sv,A,Because/IN --/:,{C Because } --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: look/VB what/WP happened/VBD when/WRB they/PRP were/VBD looking/VBG for/IN Noriega/NNP ,/,","-- look what happened when they were looking for Noriega, /"
+sv,A,"and/CC they/PRP lost/VBD him/PRP for/IN four/CD hours/NNS when/WRB they/PRP were/VBD right/RB on/IN top/RB of/IN him/PRP ,/,","{C and } they lost him for four hours when they were right on top of him,"
+b,B,Right/UH ./.,Right. /
++,A,you/PRP know/VBP ./.,{D you know. } /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,He/PRP probably/RB just/RB went/VBD right/RB down/IN into/IN a/DT tunnel/NN ./.,He probably just went right down into a tunnel. /
+b,B,Sure/UH ./.,Sure. /
+b,B,Sure/UH ./.,Sure. /
+b,B,Sure/UH ./.,Sure. /
+sv,B,"Well/UH ,/, I/PRP know/VBP that/IN ,/, uh/UH ,/, from/IN a/DT personal/JJ standpoint/NN ,/, people/NNS was/VBD one/CD of/IN the/DT finest/JJS assets/NNS that/WDT we/PRP lost/VBD ./.","{D Well, } I know that, <sigh> {F uh, } from a personal standpoint, people was one of the finest assets that we lost. /"
+sv,B,We/PRP did/VBD not/RB actually/RB physically/RB lose/VB them/PRP ./.,We did not actually physically lose them. /
+sv,B,"They/PRP did/VBD not/RB lose/VB their/PRP$ lives/NNS ,/,","They did not lose their lives, /"
+sv,B,but/CC they/PRP lost/VBD a/DT whole/JJ lot/NN of/IN the/DT life/NN they/PRP might/MD have/VBP had/VBN ./.,{C but } they lost a whole lot of the life they might have had. /
+b,A,Yeah/UH ./.,Yeah. /
+ba,A,That/DT is/VBZ right/JJ ./.,That is right. /
+sv,B,"Uh/UH ,/, being/VBG entirely/RB different/JJ people/NNS ./.","{F Uh, } being entirely different people. /"
+sv,B,I/PRP had/VBD dinner/NN Monday/NNP night/NN with/IN a/DT Vietnam/NNP veteran/NN who/WP is/VBZ just/RB now/RB beginning/VBG to/TO recover/VB from/IN the/DT drug/NN and/CC alcohol/NN struggle/NN that/WDT he/PRP had/VBD ./.,I had dinner Monday night with a Vietnam veteran who is just now beginning to recover from the drug and alcohol struggle that he had. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,That/DT is/VBZ a/DT long/JJ time/NN to/TO suffer/VB ./.,That is a long time to suffer. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC they/PRP ,/, they/PRP really/RB need/VBP ,/,","{C And } [ they, + they ] really need, - /"
+sv,A,"everybody/NN that/WDT has/VBZ ,/, that/WDT has/VBZ stood/VBN there/RB ,/,","everybody [ that has, + that has ] stood there, - /"
+%,A,"it/PRP 's/BES ,/,","it's, - /"
+%,A,"when/WRB i-/IN ,/,","when i-, - /"
+sv,A,in/IN Vietnam/NNP I/PRP think/VBP it/PRP was/VBD much/RB closer/JJR contact/NN ./.,in Vietnam I think it was much closer contact. /
+sv,A,"You/PRP stand/VBP there/RB with/IN a/DT rifle/NN and/CC blow/VBP a/DT ,/, a/DT piece/NN of/IN somebody/NN apart/RB ,/,","You stand there with a rifle and blow [ a, + a ] piece of somebody apart,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"or/CC blow/VBP their/PRP$ head/NN off/RP ,/,","or blow their head off, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"and/CC that/DT has/VBZ to/TO affect/VB you/PRP if/IN you/PRP are/VBP human/JJ ,/, you/PRP know/VBP ./.","{C and } that has to affect you if you are human, {D you know. } /"
+ba,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sv,A,So/RB they/PRP had/VBD to/TO --/:,{C So } they had to --
+%,B,"I/PRP ca/MD n't/RB ,/, uh/UH ,/,","I can't, {F uh, } -/"
++,A,"--/: work/VB all/DT that/DT ,/, that/DT anger/NN out/RP ,/, and/CC the/DT ,/, and/CC the/DT nightmares/NNS that/WDT come/VBP along/IN with/IN it/PRP ./.","-- work all [ that, + that ] anger out, [ and the, + and the ] nightmares that come along with it. /"
+ba,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+ba,B,"You/PRP bet/VBP ,/,","You bet, /"
+sv,A,"I/PRP do/VBP not/RB ,/,","[ I do not, +"
+ba,B,you/PRP bet/VBP ./.,you bet. /
++,A,"I/PRP do/VBP not/RB really/RB think/VB that/IN anybody/NN can/MD ever/RB for/VB ,/, forget/VB that/DT ,/,","I do not ] really think that anybody can ever [ for-, + forget ] that, /"
+sv,A,"but/CC they/PRP can/MD ,/, they/PRP can/MD reason/VB and/CC ,/,","{C but } [ they can, + they can ] reason [ and, +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"and/CC try/VB to/TO adjust/VB to/IN ,/, to/IN why/WRB they/PRP were/VBD there/RB ./.","and ] try to adjust [ to, + to ] why they were there. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"Well/UH ,/, you/PRP see/VBP that/DT is/VBZ what/WP the/DT veterans/NNS are/VBP so/RB angry/JJ about/IN now/RB ./.","{D Well, } you see that is what the veterans are so angry about now. /"
+sd,B,"They/PRP say/VBP ,/, ``/`` Well/UH ,/, we/PRP 're/VBP ,/,","They say, {D ""Well, } we're,"
+x,A,,<Throat_clearing>.
++,B,"going/VBG to/TO listen/VB to/IN this/DT and/CC we/PRP are/VBP going/VBG to/TO look/VB at/IN this/DT ,/, find/VBP out/RP what/WP our/PRP$ mistakes/NNS were/VBD ,/, and/CC we/PRP are/VBP not/RB going/VBG to/TO make/VB them/PRP again/RB ./. ''/''","going to listen to this and we are going to look at this, find out what our mistakes were, and we are not going to make them again."" /"
+sv,B,But/CC that/DT does/VBZ not/RB undo/VB the/DT ones/NNS that/WDT were/VBD done/VBN ./.,{C But } that does not undo the ones that were done. /
+sv,B,And/CC that/DT is/VBZ what/WP makes/VBZ the/DT veterans/NNS angry/JJ ./.,{C And } that is what makes the veterans angry. /
+b,A,Right/UH ./.,Right. /
+sd,B,And/CC I/PRP can/MD not/RB blame/VB them/PRP ./.,{C And } I cannot blame them. /
+sd,B,I/PRP do/VBP not/RB know/VB a/DT solution/NN ./.,I do not know a solution. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,But/CC I/PRP sure/RB can/MD not/RB blame/VB them/PRP for/IN being/VBG angry/JJ ./.,{C But } I sure cannot blame them for being angry. /
+sv,B,"On/IN the/DT other/JJ hand/NN ,/, you/PRP know/VBP ,/, you/PRP can/MD be/VB angry/JJ about/IN something/NN for/IN a/DT very/RB long/JJ time/NN ,/,","On the other hand, {D you know, } you can be angry about something for a very long time, /"
+sv,B,"or/CC you/PRP can/MD say/VB ,/, ``/`` Well/UH ,/, that/DT is/VBZ the/DT way/NN it/PRP is/VBZ ,/, ''/'' and/CC go/VB on/IN with/IN your/PRP$ life/NN ./.","{C or } you can say, {D ""Well, } that is the way it is,"" and go on with your life. /"
+%,B,"Uh/UH ,/,","{F Uh, } /"
+b,A,Right/UH ./.,Right. /
+sd,B,"For/IN the/DT most/JJS part/NN ,/, I/PRP wish/VBP that/IN it/PRP had/VBD not/RB happened/VBN ./.","For the most part, I wish that it had not happened. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,But/CC it/PRP did/VBD ./.,{C But } it did. /
+sv,A,"And/CC that/DT ,/,","[ [ {C And } that, +"
++,A,"and/CC that/DT was/VBD ,/, that/DT was/VBD in/IN the/DT ,/, in/IN the/DT era/NN when/WRB Kennedy/NNP was/VBD president/NN that/IN they/PRP were/VBD afraid/JJ of/IN everything/NN ,/,","{C and } that was, ] + that was ] [ in the, + in the ] era when Kennedy was president that they were afraid of everything,"
++,A,you/PRP know/VBP ./.,{D you know. } /
+sd,A,"And/CC ,/, and/CC ,/, and/CC they/PRP f-/XX ,/, initially/RB got/VBD into/IN it/PRP because/IN of/IN Eisenhower/NNP ./.","[ [ {C And, } + {C and, } ] + {C and } ] they [ f-, + ] initially got into it because of Eisenhower. /"
+sv,A,"And/CC he/PRP just/RB ,/, he/PRP did/VBD not/RB want/VB to/TO be/VB in/IN it/PRP any/DT more/JJR than/IN ,/, than/IN what/WP we/PRP started/VBD out/RP in/IN August/NNP with/IN Desert/NNP Storm/NN ./.","{C And } [ he just, + he did ] not want to be in it any more [ than, + than ] what we started out in August with Desert Storm. /"
+ba,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,A,And/CC then/RB it/PRP just/RB blew/VBD up/RP into/IN the/DT war/NN ./.,{C And then } it just blew up into the war. /
+sv,B,"Well/UH ,/, it/PRP has/VBZ been/VBN that/DT way/NN for/IN a/DT very/RB ,/, very/RB long/JJ time/NN ,/, though/RB ./.","{D Well, } it has been that way for a very, very long time, though. /"
+sd,B,"I/PRP can/MD remember/VB when/WRB I/PRP was/VBD in/IN the/DT sixth/JJ grade/NN ,/,","I can remember when I was in the sixth grade, /"
+sd,B,and/CC that/DT was/VBD many/JJ years/NNS ago/RB ./.,{C and } that was many years ago. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,We/PRP were/VBD reading/VBG about/IN the/DT French/NNPS --/:,We were reading about the French --
+b,A,"French/NNPS ,/, yeah/UH ./.","French, yeah. /"
++,B,--/: struggling/VBG with/IN that/DT --/:,-- struggling with that --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: in/IN southeast/JJ Asia/NNP ./.,-- in southeast Asia. /
+sd,B,"So/RB ,/, and/CC ,/, and/CC ,/, and/CC the/DT Asians/NNPS historically/RB have/VBP always/RB had/VBN these/DT kinds/NNS of/IN wars/NNS going/VBG on/RP ./.","{C So, } [ [ {C and, } + {C and, } ] + {C and } ] the Asians historically have always had these kinds of wars going on. /"
+b,A,"Right/UH ,/, yeah/UH ./.","Right, yeah. /"
+sv,B,"There/EX ,/, there/EX has/VBZ not/RB been/VBN a/DT lot/NN of/IN peace/NN in/IN that/DT part/NN of/IN the/DT world/NN ./.","[ There, + there ] has not been a lot of peace in that part of the world. /"
+b,A,Uh-huh/UH,Uh-huh /
+x,A,./.,<barking>.
+h,B,"I/PRP really/RB ,/, I/PRP do/VBP not/RB know/VB ,/,","[ I really, + I do ] not know, /"
+sv,B,"i-/XX ,/, we/PRP should/MD not/RB have/VB maybe/RB gotten/VBN involved/JJ ./.","[ i-, + we ] should not have maybe gotten involved. /"
+sv,B,"But/CC if/IN we/PRP did/VBD ,/, we/PRP certainly/RB should/MD have/VB supported/VBN our/PRP$ people/NNS who/WP were/VBD there/RB ./.","{C But } if we did, we certainly should have supported our people who were there. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,More/RBR so/RB supported/VBD them/PRP when/WRB they/PRP got/VBD home/NN ./.,More so supported them when they got home. /
+b,A,Right/UH ./.,Right. /
+sv,B,"And/CC ,/, uh/UH ,/, I/PRP am/VBP afraid/JJ that/IN they/PRP were/VBD treated/VBN as/IN castaways/NNS for/IN the/DT most/JJS part/NN ./.","{C And, } {F uh, } I am afraid that they were treated as castaways for the most part. /"
+ba,A,Exactly/UH ./.,Exactly. /
+sd,B,"And/CC I/PRP ,/, I/PRP saw/VBD the/DT movie/NN ,/,","{C And } [ I, + I ] saw the movie,"
+x,A,,<Cough> <throat_clearing>.
++,B,"BORN/NNP ON/IN THE/DT FOURTH/NNP OF/IN JULY/NNP ,/,","BORN ON THE FOURTH OF JULY, /"
+sv,B,and/CC I/PRP think/VBP it/PRP did/VBD a/DT good/JJ job/NN depicting/VBG the/DT temperament/NN of/IN the/DT times/NNS ./.,{C and } I think it did a good job depicting the temperament of the times. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,"More/JJR than/IN ,/, what/WP was/VBD ,/, APOCALYPSE/NNP NOW/NNP ./.","More than, {A what was, } APOCALYPSE NOW <laughter>. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,B,"Well/UH ,/, Dudley/NNP ,/, have/VBP we/PRP pretty/RB well/RB discussed/VBN the/DT subject/NN ?/.","{D Well, } Dudley, have we pretty well discussed the subject? /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,I/PRP think/VBP so/RB ./.,I think so. /
+sv,B,"Well/UH ,/, I/PRP think/VBP so/RB ./.","{D Well, } I think so. /"
+fc,B,I/PRP enjoyed/VBD talking/VBG to/IN you/PRP ./.,I enjoyed talking to you. /
+fc,A,"Yes/UH ,/,","Yes, /"
+fc,A,it/PRP was/VBD nice/JJ talking/VBG to/IN you/PRP ./.,it was nice talking to you. /
+fc,B,Uh-huh/UH ./.,Uh-huh. /
+fc,A,"Okay/UH ,/,","Okay, /"
+fc,A,bye-bye/UH ./.,bye-bye. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

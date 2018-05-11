@@ -1,0 +1,207 @@
+act_tag,speaker,pos,text
+qw,A,"Well/UH ,/, what/WP kind/NN of/IN vacations/NNS do/VBP you/PRP like/VB to/TO take/VB ?/. MUMBLEx/XX ./.","{D Well, } what kind of vacations do you like to take? (( )) . /"
+sd,B,"Well/UH ,/, we/PRP 've/VBP ,/, uh/UH ,/, we/PRP 've/VBP been/VBN fortunate/JJ enough/RB to/TO take/VB a/DT couple/NN of/IN trips/NNS over/IN to/IN Europe/NNP","{D Well, } [ we've, + {F uh, } we've ] been fortunate enough to take a couple of trips over to Europe /"
+sd,B,so/UH ./.,[ {C so } + <laughter>.
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"So/RB ,/, I/PRP ,/, I/PRP guess/VBP those/DT are/VBP the/DT types/NNS I/PRP like/VBP ./.","{C So, } ] [ I, + I ] guess those are the types I like <laughter>. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,We/PRP 've/VBP really/RB enjoyed/VBN them/PRP ./.,We've really enjoyed them. /
+b,A,Yeah/UH ./.,Yeah. /
+qw,A,Where/WRB have/VBP you/PRP gone/VBN there/RB ?/.,Where have you gone there? /
+sd,B,"We/PRP 've/VBP gone/VBN to/IN ,/, um/UH ,/, Germany/NNP ,/, Switzerland/NNP ,/, Austria/NNP ,/, Ireland/NNP and/CC England/NNP ./.","We've gone to, {F um, } Germany, Switzerland, Austria, Ireland and England. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,We/PRP 've/VBP been/VBN to/IN Germany/NNP twice/RB ./.,We've been to Germany twice. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"But/CC ,/, um/UH ,/, I/PRP guess/VBP my/PRP$ favorite/JJ is/VBZ probably/RB Switzerland/NNP and/CC Ireland/NNP ./.","{C But, } {F um, } I guess my favorite is probably Switzerland and Ireland. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Yeah/UH,Yeah /
+sd,A,"well/UH ,/, I/PRP 've/VBP been/VBN over/IN there/RB too/RB ./.","{D well, } I've been over there too. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qw,B,Where/WRB have/VBP you/PRP been/VBN ?/.,Where have you been? /
+%,A,I/PRP even/RB ./.,I even. - /
+^h,A,"Let/VB 's/PRP see/VB ,/, um/UH ,/,","Let's see, {F um, } /"
+sd,A,mostly/RB Germany/NNP and/CC France/NNP ./.,mostly Germany and France. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,I/PRP lived/VBD in/IN France/NNP for/IN a/DT year/NN and/CC a/DT half/NN,I lived in France for a year and a half /
+%,A,so/RB --/:,{C so } --
+ba,B,"Oh/UH ,/, how/WRB neat/JJ ./.","{F Oh, } how neat. /"
++,A,"--/: I/PRP was/VBD able/JJ ,/,","-- I was able, - /"
+sd,A,"but/CC ,/, I/PRP ,/, once/RB when/WRB I/PRP had/VBD a/DT chance/NN in/IN France/NNP to/TO go/VB on/IN vacation/NN instead/IN of/IN travelling/VBG around/IN France/NNP I/PRP went/VBD to/IN Germany/NNP --/:","{C but, } [ I, + once when I ] had a chance in France to go on vacation instead of travelling around France I went to Germany -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: because/RB ,/, uh/UH ,/, I/PRP 've/VBP got/VBN relatives/NNS there/RB","-- {C because, } {F uh, } I've got relatives there /"
+sd,A,and/CC I/PRP just/RB --/:,{C and } I just --
+ba,B,"Oh/UH ,/, that/DT 's/BES neat/JJ ./.","{F Oh, } that's neat. /"
++,A,--/: like/VBP it/PRP there/RB ./.,-- like it there. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/UH ,/, but/CC ,/, um/UH ,/, Austria/NNP ,/, I/PRP found/VBD really/RB pretty/JJ --/:","[ {C So, } + {C but, } ] {F um, } Austria, I found really pretty --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: and/CC Switzerland/NNP ,/,","-- and Switzerland, /"
+%,A,"yeah/UH ,/,","yeah, /"
+sd,A,"and/CC I/PRP ,/, I/PRP lived/VBD in/IN the/DT Alps/NNPS in/IN France/NNP","{C and } [ I, + I ] lived in the Alps in France /"
+sd,A,so/RB I/PRP --/:,{C so } [ I + --
+ba,B,"Oh/UH ,/, how/WRB neat/JJ ./.","{F Oh, } how neat. /"
++,A,--/: anything/NN in/IN the/DT mountains/NNS over/IN there/EX I/PRP just/RB love/VBP ./.,-- anything in the mountains over there I ] just love. /
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,"Then/RB I/PRP finally/RB made/VBD it/PRP to/IN England/NNP ,/, too/RB ,/, uh/UH ,/, on/IN my/PRP$ way/NN home/RB ,/, um/UH ,/,","Then I finally made it to England, too, {F uh, } on my way home, {F um, } /"
+sd,A,"I/PRP lived/VBD in/IN Africa/NNP ,/, actually/RB ,/,","I lived in Africa, actually, /"
+%,A,and/CC on/IN my/PRP$ way/NN home/NN from/IN there/RB ./.,{C and } on my way home from there. -/
+qy^d,B,You/PRP lived/VBD in/IN Africa/NNP ?/.,You lived in Africa? /
+ny,A,Yeah/UH ./.,Yeah. /
+ba,B,"Oh/UH ,/, my/PRP$ goodness/NN ./.","{F Oh, } my goodness <laughter>. /"
+aa,A,Yeah/UH ./.,Yeah. /
+ba,B,Wow/NN ./.,Wow. /
+sd,A,"So/UH ,/, um/UH ,/, and/CC you/PRP always/RB have/VBP to/TO go/VB out/RB ,/, fly/VB through/IN ,/, or/CC unless/IN you/PRP fly/VBP from/IN Nairobi/NNP ,/, you/PRP have/VBP to/TO fly/VB through/IN ,/, um/UH ,/, uh/UH ,/, Europe/NNP on/IN your/PRP$ way/NN home/NN ./.","[ {C So, } + {F um, } {C and } ] [ you always have to go out, fly through, + {E or } unless you fly from Nairobi, you have to fly through, ] {F um, } {F uh, } Europe on your way home. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/UH ,/, I/PRP went/VBD to/TO England/NNP ,/,","{C So, } I went to England, /"
+sd,A,and/CC I/PRP really/RB liked/VBD it/PRP there/RB too/RB ./.,{C and } I really liked it there too. /
+sv,B,It/PRP 's/BES so/RB expensive/JJ over/IN there/RB ./.,It's so expensive over there <laughter>. /
+aa,A,"I/PRP know/VBP ,/,","I know, /"
+aa,A,it/PRP 's/BES true/JJ ./.,it's true. /
+x,B,./.,<Laughter>.
+sv,A,That/DT 's/BES the/DT one/CD thing/NN ./.,That's the one thing. /
+aa,B,It/PRP really/RB is/VBZ ./.,It really is. /
+%,B,"It/PRP just/RB ,/, it/PRP 's/BES ,/, it/PRP 's/BES ,/,","[ [ It just, + it's, ] + it's, ] - /"
+sd,B,"I/PRP love/VBP to/TO go/VB over/IN there/RB ,/,","I love to go over there, /"
+sv,B,but/CC it/PRP 's/BES so/RB darn/VBN expensive/JJ --/:,{C but } it's so darn expensive --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: to/TO go/VB over/RB ./.,-- to go over. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"actually/RB now/RB you/PRP can/MD get/VB some/DT really/RB good/JJ deals/NNS flying/VBG over/RB ,/,","{D actually } now you can get some really good deals flying over, /"
+%,A,but/CC it/PRP 's/BES --/:,{C but } it's -- -/
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,--/: once/IN you/PRP 're/VBP there/RB you/PRP still/RB have/VBP to/TO spend/VB money/NN ./.,-- once you're there you still have to spend money <laughter>.
+aa,B,"Oh/UH ,/, I/PRP know/VBP ,/,","{F Oh, } I know, /"
+%,B,just/RB ./.,just. -/
++,A,"Unless/IN you/PRP know/VBP people/NNS ,/, you/PRP know/VBP ./.","Unless you know people, {D you know } <laughter>. /"
+aa,B,Right/UH ./.,Right. /
+sd,B,"Then/RB you/PRP can/MD stay/VB with/IN them/PRP ,/,","Then you can stay with them, /"
+%,B,and/CC --/:,{C and } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: yeah/UH ./.,-- yeah. /
+sv,A,That/DT helps/VBZ a/DT lot/NN ./.,That helps a lot. /
+b,B,Yeah/UH ./.,Yeah. /
+%,A,But/CC ./.,{C But. } -/
+sd,B,You/PRP know/VBP there/EX 's/BES a/DT lot/NN of/IN places/NNS in/IN the/DT states/NNS that/WDT we/PRP have/VBP n't/RB even/RB gone/VBN ./.,{D You know } there's a lot of places in the states that we haven't even gone. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"You/PRP know/VBP ,/, I/PRP 'd/MD like/VB to/TO go/VB to/IN Hawaii/NNP some/DT time/NN ,/,","{D You know, } I'd like to go to Hawaii some time, /"
+%,B,and/CC --/:,[ {C and } + --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: and/CC ,/, uh/UH ,/, we/PRP made/VBD it/PRP ,/,","-- {C and, } ] {F uh, } we made it, - /"
+sd,B,"we/PRP 've/VBP ,/, we/PRP 've/VBP at/IN least/JJS gone/VBN to/IN the/DT Grand/NNP Canyon/NNP and/CC Niagara/NNP Falls/NNP ./.","[ we've, + we've ] at least gone to the Grand Canyon and Niagara Falls. /"
+%,B,So/UH ./.,{C So. } -/
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,Feel/VB like/IN we/PRP 've/VBP accomplished/VBN a/DT little/JJ bit/NN here/RB ./.,Feel like we've accomplished a little bit here. /
+sd,A,I/PRP have/VBP n't/RB ./.,I haven't. /
+%,A,"I/PRP 've/VBP been/VBN ,/, I/PRP 've/VBP ,/,","[ I've been, + I've, ] - /"
+sd,A,most/JJS of/IN my/PRP$ vacationing/NN in/IN the/DT U/NNP S/NNP has/VBZ been/VBN on/IN the/DT West/NNP Coast/NNP --/:,most of my vacationing in the U S has been on the West Coast -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: or/CC this/DT summer/NN I/PRP went/VBD to/IN Colorado/NNP --/:,-- {C or } this summer I went to Colorado -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, I/PRP 'd/MD love/VB to/TO go/VB to/IN the/DT East/NNP Coast/NNP ,/, during/IN the/DT Fall/NN ./.","-- {C and, } {F uh, } I'd love to go to the East Coast, during the Fall. /"
+%,B,"The/DT ,/, oh/UH ,/, the/DT","[ The, + {F oh, } the ] - /"
+%,B,"it/PRP 's/BES ,/, oh/UH ,/,","it's, {F oh, } - /"
+sd,B,I/PRP 've/VBP always/RB wanted/VBN to/TO go/VB there/RB ./.,I've always wanted to go there. /
+sd,B,"I/PRP 've/VBP seen/VBN pictures/NNS ,/,","I've seen pictures, /"
+sv,B,"and/CC ,/, and/CC --/:","[ {C and, } + {C and } ] --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: it/PRP looks/VBZ gorgeous/JJ ./.,-- it looks gorgeous. /
+sd,B,"We/PRP ,/, um/UH ,/, we/PRP made/VBD a/DT trip/NN up/IN the/DT East/NNP Coast/NNP ./.","[ We, + {F um, } we ] made a trip up the East Coast. /"
+sd,B,"It/PRP was/VBD ,/, uh/UH ,/, in/IN the/DT summer/NN --/:","It was, {F uh, } in the summer -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: and/CC it/PRP really/RB is/VBZ pretty/JJ ./.,-- {C and } it really is pretty. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"It/PRP 's/BES ,/, uh/UH ,/,","It's, {F uh, } - /"
+sd,B,both/DT coasts/NNS are/VBP really/RB pretty/RB --/:,both coasts are really pretty -- /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"--/: but/CC ,/, um/UH ,/, I/PRP love/VBP the/DT Carolinas/NNPS ./.","-- {C but, } {F um, } I love the Carolinas. /"
+sd,B,It/PRP 's/BES just/RB gorgeous/JJ over/IN there/RB ./.,It's just gorgeous over there. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP have/VBP n't/RB been/VBN there/RB ,/, anywhere/RB on/IN the/DT East/NNP Coast/NNP ./.","I haven't been [ there, + anywhere ] on the East Coast. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,I/PRP think/VBP Tennessee/NNP has/VBZ been/VBN the/DT furthest/RBS east/RB I/PRP 've/VBP been/VBN ./.,I think Tennessee has been the furthest east I've been. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,Yeah/UH ./.,Yeah. /
+ad,B,"Well/UH ,/, you/PRP 'll/MD just/RB have/VB to/TO plan/VB a/DT vacation/NN some/DT time/NN --/:","{D Well, } you'll just have to plan a vacation some time --"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aap_am,A,I/PRP guess/VBP so/RB ./.,I guess so. /
++,B,"--/: and/CC ,/, and/CC go/VB over/IN there/RB ./.","-- [ and, + and ] go over there. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"but/CC there/EX 's/BES ,/, you/PRP know/VBP ,/, there/EX 's/BES a/DT lot/NN to/TO see/VB here/RB --/:","{C but } [ there's, + {D you know, } there's ] a lot to see here -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: but/CC I/PRP just/RB love/VBP going/VBG over/IN to/IN Europe/NNP because/IN it/PRP 's/BES so/RB ,/, their/PRP$ way/NN of/IN life/NN is/VBZ just/RB so/RB different/JJ than/IN ours/JJ ./.","-- {C but } I just love going over to Europe because [ it's so, + their way of life is just so ] different than ours. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"You/PRP know/VBP ,/, we/PRP 're/VBP so/RB fast/RB paced/VBN here/RB ,/,","{D You know, } we're so fast paced here, /"
+sd,B,"and/CC over/IN there/RB ,/, you/PRP know/VBP ,/, every/DT time/NN we/PRP 'd/MD go/VB and/CC ,/, and/CC eat/VB dinner/NN or/CC lunch/NN or/CC whatever/WDT we/PRP 'd/MD always/RB have/VB to/TO ask/VB for/IN the/DT check/NN --/:","{C and } over there, {D you know, } every time we'd go [ and, + and ] eat dinner or lunch or whatever we'd always have to ask for the check --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: you/PRP know/VBP --/:,-- {D you know } <laughter> -- /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,--/: they/PRP 're/VBP so/RB leisurely/RB over/IN there/EX --/:,-- they're so leisurely over there -- /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"--/: and/CC it/PRP 's/BES kind/RB of/RB nice/JJ to/TO ,/, to/TO have/VB that/DT ./.","-- {C and } it's kind of nice [ to, + to ] have that. /"
+b,A,Yeah/UH ./.,Yeah. /
+%,A,"So/UH the/DT type/NN of/IN vacation/NN you/PRP 'd/MD like/VB ,/, um/UH ,/,","{C So } the type of vacation you'd like, {F um, } - /"
+qy,A,"like/VB ,/, would/MD you/PRP go/VB over/RB and/CC spend/VB a/DT lot/NN of/IN time/NN in/IN one/CD place/NN ,/, or/CC travel/VB to/IN whole/JJ bunch/NN of/IN different/JJ places/NNS in/IN one/CD week/NN ?/.","{D like, } would you go over and spend a lot of time in one place, or travel to whole bunch of different places in one week? /"
+sd,B,"Well/UH ,/, usually/RB a/DT bunch/NN of/IN different/JJ places/NNS ./.","{D Well, } usually a bunch of different places. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"main-/RB ,/, mainly/RB probably/RB because/IN you/PRP want/VBP to/TO see/VB everything/NN ./.","[ [ main-, + mainly ] + probably ] because you want to see everything. /"
+aa,B,"Right/UH ,/,","Right, /"
+sd,B,see/VB as/RB much/RB as/IN --/:,see as much as --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: you/PRP can/MD while/IN you/PRP 're/VBP there/RB ./.,-- you can while you're there. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,I/PRP know/VBP ./.,I know. /
+b,B,Yeah/UH ./.,Yeah. /
+b,A,Yeah/UH ./.,Yeah. /
+qo,B,How/WRB did/VBD you/PRP like/IN Africa/NNP ?/.,How did you like Africa? /
+sd,A,"Well/UH ,/, I/PRP liked/VBD it/PRP ./.","{D Well, } I liked it. /"
+sd,A,"I/PRP was/VBD working/VBG in/IN Cameroon/NNP ,/, Africa/NNP --/:","I was working in Cameroon, Africa -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC it/PRP 's/BES not/RB a/DT ,/, it/PRP 's/BES not/RB a/DT place/NN for/IN tourists/NNS ,/,","-- {C and } [ it's not a, + <inhaling> it's not a ] place for tourists, /"
+sd,A,"I/PRP mean/VBP ,/, they/PRP 're/VBP not/RB used/JJ to/IN having/VBG tourists/NNS there/EX ,/,","{E I mean, } they're not used to having tourists there, /"
+%,A,so/RB --/:,{C so } --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: it/PRP 's/BES ,/,","-- it's, - /"
+sd,A,you/PRP 're/VBP kind/RB of/RB roughing/VBG it/PRP ./.,you're kind of roughing it. /
+sd,A,"But/CC ,/, um/UH ,/, I/PRP liked/VBD it/PRP ,/,","{C But, } {F um, } I liked it, /"
+sd,A,I/PRP liked/VBD it/PRP ./.,I liked it. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"The/DT people/NNS there/EX are/VBP just/RB very/RB ,/, very/RB friendly/JJ","The people there are just [ very, + very ] friendly /"
+%,A,and/CC ./.,{C and. } -/
+qw,B,What/WP type/NN of/IN work/NN ?/.,What type of work? /
+sd,A,"Um/UH ,/, I/PRP was/VBD working/VBG with/IN an/DT organization/NN that/WDT does/VBZ Bible/NN translation/NN ./.","{F Um, } I was working with an organization that does Bible translation. /"
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,A,"So/UH I/PRP was/VBD doing/VBG linguistic/JJ work/NN actually/RB ,/, travelling/VBG around/IN ,/, finding/VBG out/RP about/IN languages/NNS ,/, and/CC --/:","{C So } I was doing linguistic work actually, travelling around, finding out about languages, and --"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
++,A,"--/: uh/UH ,/, what/WP they/PRP call/VBP survey/NN work/NN ./.","-- {F uh, } what they call survey work. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,Find/VB out/RP where/WRB the/DT languages/NNS are/VBP ./.,Find out where the languages are. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/UH ,/, I/PRP travelled/JJ a/DT lot/NN around/IN the/DT country/NN and/CC met/VBD a/DT lot/NN of/IN people/NNS ./.","{C So, } I travelled a lot around the country and met a lot of people. /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,Um/UH ./.,{F Um. } /
+ba,B,That/DT 's/BES neat/JJ ./.,That's neat. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP enjoyed/VBD it/PRP ./.,I enjoyed it. /
+%,A,So/UH ./.,{C So. } -/
+sd,B,"I/PRP 've/VBP ,/, I/PRP 've/VBP always/RB ,/, um/UH ,/, I/PRP 've/VBP talked/VBN to/IN people/NNS who/WP have/VBP been/VBN to/IN Africa/NNP ,/,","[ [ I've, + I've always, ] + {F um, } I've ] talked to people who have been to Africa, /"
+%,B,"and/CC they/PRP ,/,","{C and } they, - /"
+sd,B,and/CC then/RB of/IN course/NN when/WRB that/DT movie/NN OUT/IN OF/IN AFRICA/NNP came/VBD out/RP ./.,{C and then } of course when that movie OUT OF AFRICA came out <laughter>. -/
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Um/UH ,/, but/CC I/PRP 've/VBP always/RB thought/VBN it/PRP would/MD be/VB neat/JJ to/TO go/VB on/IN a/DT safari/NN over/IN there/RB ./.","{F Um, } {C but } I've always thought it would be neat to go on a safari over there. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"my/PRP$ cousin/NN came/VBD over/IN while/IN I/PRP was/VBD there/RB ,/,","my cousin came over while I was there, /"
+sd,A,and/CC she/PRP came/VBD to/IN Cameroon/NNP,{C and } she came to Cameroon /
+sd,A,and/CC then/RB she/PRP went/VBD over/IN to/IN Nairobi/NNP and/CC took/VBD a/DT safari/NN around/RB --/:,{C and then } she went over to Nairobi and took a safari around --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: you/PRP know/VBP ,/, close/RB to/IN Nairobi/NNP in/IN Kenya/NNP ./.","-- {D you know, } close to Nairobi in Kenya. /"
+ba,B,Oh/UH how/WRB neat/JJ ./.,{F Oh } how neat. /
+sd,A,"So/UH ,/, she/PRP 'd/MD always/RB dreamed/VBN of/IN doing/VBG that/DT too/RB ./.","{C So, } she'd always dreamed of doing that too. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+ba,B,that/DT 's/BES great/JJ ./.,that's great. /
+%,A,So/UH ./. Yeah/UH ./.,{C So. } Yeah. /
+qy,A,So/UH is/VBZ there/EX any/DT place/NN you/PRP would/MD try/VB to/TO talk/VB me/PRP into/IN going/VBG to/IN ?/.,{C So } is there any place you would try to talk me into going to <laughter>? /
+%,B,Uh/UH ./.,{F Uh. } /
+sv,A,It/PRP sounds/VBZ like/IN we/PRP 've/VBP been/VBN to/TO some/DT of/IN the/DT same/JJ places/NNS ./.,It sounds like we've been to some of the same places. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,it/PRP does/VBZ ./.,it does. /

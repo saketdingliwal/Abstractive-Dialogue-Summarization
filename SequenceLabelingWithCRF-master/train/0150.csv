@@ -1,0 +1,98 @@
+act_tag,speaker,pos,text
+sd,B,I/PRP guess/VBP we/PRP 're/VBP ready/JJ to/TO talk/VB ./.,I guess we're ready to talk. /
+fp,A,"How/WRB you/PRP doing/VBG ,/, Howard/NNP ?/.","How you doing, Howard? /"
+sd,A,"This/DT is/VBZ a/DT ,/, a/DT subject/NN that/WDT I/PRP 'm/VBP not/RB real/RB well/RB versed/JJ on/RP ,/,","This is [ a, + a ] subject that I'm not real well versed on, /"
+%,A,but/CC ./.,{C but. } -/
+ad,B,"Well/UH ,/, let/VB 's/PRP talk/NN about/IN air/NN pollution/NN ./.","{D Well, } let's talk about air pollution. /"
+aa,A,Okay/UH ./.,Okay. /
+qw,B,What/WP do/VBP you/PRP think/VB causes/VBP air/NN pollution/NN in/IN Dallas/NNP ?/.,What do you think causes air pollution in Dallas? /
+qw,B,Or/CC where/WRB are/VBP you/PRP from/RB ?/.,{C Or } where are you from? /
+"fo_o_fw_""_by_bc",A,No/UH ./.,No. /
+qy^d,B,Maybe/RB you/PRP 're/VBP not/RB in/IN Dallas/NNP ./.,Maybe you're not in Dallas. /
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+sd,A,"I/PRP 'm/VBP from/IN the/DT ,/, uh/UH ,/,","I'm from the, {F uh, } - /"
+sd,A,I/PRP 'm/VBP from/IN Dallas/NNP ./.,I'm from Dallas. /
+sd,A,I/PRP 'm/VBP in/IN Richardson/NNP ./.,I'm in Richardson. /
+bk,B,"Okay/UH ./. Uh/UH ,/,","Okay. {F Uh, } /"
+qo,A,What/WP do/VBP you/PRP think/VB as/RB far/RB as/IN air/NN pollution/NN in/IN the/DT Dallas/NNP area/NN ?/.,What do you think as far as air pollution in the Dallas area? /
+sd,B,"Well/UH ,/, I/PRP have/VBP some/DT small/JJ experience/NN in/IN this/DT area/NN ./.","{D Well, } I have some small experience in this area. /"
+sd,B,The/DT brown/JJ haze/NN that/WDT you/PRP see/VBP if/IN you/PRP look/VBP down/IN Central/NNP towards/IN downtown/NN --/:,The brown haze that you see if you look down Central towards downtown --
+b,A,Right/UH ./.,Right. /
++,B,"--/: a/DT lot/NN of/IN that/DT is/VBZ ,/, uh/UH ,/, tied/VBN up/RP with/IN the/DT oxides/NNS or/CC nitrogen/NN although/IN some/DT of/IN the/DT kind/RB of/RB bluish/JJ gray/JJ stuff/NN we/PRP see/VBP sometimes/RB is/VBZ tied/VBN up/RP with/IN particulates/NNS ./.","-- a lot of that is, {F uh, } tied up with the oxides or nitrogen although some of the kind of bluish gray stuff we see sometimes is tied up with particulates. /"
+sd,B,"But/CC ,/, uh/UH ,/, the/DT ,/, one/CD of/IN the/DT major/JJ problems/NNS that/WDT Dallas/NNP has/VBZ is/VBZ oxides/NNS and/CC nitrogen/NN ./.","{C But, } {F uh, } [ the, + ] one of the major problems that Dallas has is oxides and nitrogen. /"
+sd,B,"That/DT 's/BES because/IN of/IN all/PDT the/DT equipment/NN that/WDT 's/BES being/VBG operated/VBN ./. But/CC at/IN the/DT same/JJ time/NN ,/, uh/UH ,/, because/IN we/PRP do/VBP n't/RB have/VB ,/, we/PRP do/VBP n't/RB burn/VB a/DT lot/NN of/IN coal/NN and/CC solid/JJ materials/NNS we/PRP ,/,","That's because of all the equipment that's being operated. But at the same time, {F uh, } because [ we don't have, + we don't ] burn a lot of coal and solid materials we,"
+x,A,,<Throat_clearing>.
++,B,do/VBP n't/RB get/VB a/DT lot/NN of/IN particulates/NNS ./.,don't get a lot of particulates. /
+sd,B,Now/RB particulates/NNS would/MD come/VB from/IN trash/NN burning/NN or/CC incineration/NN or/CC something/NN like/IN that/DT here/RB in/IN Dallas/NNP ./.,Now particulates would come from trash burning or incineration or something like that here in Dallas. /
+b,A,Right/UH ./.,Right. /
+sd,B,"Uh/UH ,/, power/NN plants/NNS since/IN ,/,","{F Uh, } power plants since, -/"
+x,A,,<Throat_clearing>.
+sd,B,"many/JJ of/IN our/PRP$ local/JJ power/NN plants/NNS ,/, uh/UH ,/, are/VBP natural/JJ gas/NN most/RBS of/IN the/DT time/NN ,/, uh/UH ,/, the/DT things/NNS that/WDT come/VBP off/IN of/IN those/DT plants/NNS are/VBP carbon/NN dioxide/NN ,/, and/CC N/NN O/NN X/NN ./.","many of our local power plants, {F uh, } are natural gas most of the time, {F uh, } the things that come off of those plants are carbon dioxide, and N O X. /"
+sd,B,"There/EX 's/BES no/DT particulates/NNS in/IN natural/JJ gas/NN ,/, of/IN course/NN ./.","There's no particulates in natural gas, of course. /"
+sd,B,And/CC we/PRP pick/VBP up/RP a/DT little/JJ bit/NN of/IN sulphur/NN off/IN some/DT of/IN these/DT products/NNS ./.,{C And } we pick up a little bit of sulphur off some of these products. /
+sd,B,"We/PRP 're/VBP burning/VBG fuel/NN oil/NN and/CC a/DT few/JJ other/JJ things/NNS ,/,","We're burning fuel oil and a few other things, /"
+sd,B,"but/CC gasoline/NN ,/, of/IN course/NN ,/, now/RB the/DT lead/NN 's/BES out/RP ,/, at/IN least/JJS theoretically/RB ,/, uh/UH ,/, I/PRP guess/VBP you/PRP could/MD say/VB we/PRP 're/VBP picking/VBG up/RP some/DT sulphur/NN because/IN a/DT lot/NN of/IN the/DT fuels/NNS does/VBZ have/VBP sulphur/NN ./.","{C but } gasoline, of course, now the lead's out, at least theoretically, {F uh, } I guess you could say we're picking up some sulphur because a lot of the fuels does have sulphur. /"
+sd,B,That/DT 's/BES why/WRB we/PRP get/VBP that/DT rotten/JJ egg/NN smell/NN sometime/RB off/IN the/DT catalytic/JJ converter/NN --/:,That's why we get that rotten egg smell sometime off the catalytic converter --
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
++,B,"--/: the/DT sulphur/NN ,/, yes/UH ./.","-- the sulphur, yes. /"
+sd,B,"And/CC that/DT 's/BES ,/, uh/UH ,/, course/NN hydrogen/NN sulfide/NN ,/, which/WDT is/VBZ when/WRB you/PRP burn/VBP gasoline/NN ,/, you/PRP also/RB produce/VBP some/DT water/NN vapor/NN --/:","{C And } that's, {F uh, } course hydrogen sulfide, which is when you burn gasoline, you also produce some water vapor --"
+b,A,Sure/UH ./.,Sure. /
++,B,--/: and/CC that/DT goes/VBZ back/RB in/RB with/IN your/PRP$ sulphur/NN,-- and that goes back in with your sulphur /
+sd,B,and/CC under/IN the/DT right/JJ condition/NN you/PRP get/VBP H/NNP two/CD S/NNP ./.,{C and } under the right condition you get H two S. /
+%,B,"But/CC ,/, anyway/RB ,/, uh/UH ,/,","{C But, } anyway, {F uh, } -/"
+sv,A,"Well/UH ,/, you/PRP are/VBP ,/, you/PRP are/VBP well/GW versed/^JJ on/IN the/DT subject/NN ,/, I/PRP tell/VBP you/PRP ./.","{D Well, } [ you are, + you are ] well versed on the subject, I tell you. /"
+bd,B,"Well/UH ,/, I/PRP do/VBP n't/RB know/VB ./.","{D Well, } I don't know. /"
+sd,A,This/DT is/VBZ not/RB one/CD of/IN my/PRP$ better/JJR ones/NNS ./.,This is not one of my better ones. /
+sd,A,"I/PRP guess/VBP ,/, I/PRP guess/VBP I/PRP notice/VBP it/PRP the/DT most/RBS just/RB ,/, uh/UH ,/, in/IN driving/VBG around/IN Dallas/NNP with/IN all/PDT the/DT ,/, the/DT highway/NN equipment/NN that/WDT 's/BES working/VBG on/IN the/DT --/:","[ I guess, + <throat_clearing> I guess ] I notice it the most just, {F uh, } in driving around Dallas with all [ the, + <inhaling> the ] highway equipment that's working [ on the + --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: on/IN ,/, six/CD thirty-five/CD and/CC seventy-five/CD ,/, just/RB the/DT cars/NNS in/IN general/NN ./.","-- on, ] six thirty-five and seventy-five, just the cars in general. /"
+sd,A,That/DT 's/BES where/WRB I/PRP see/VBP most/RBS of/IN it/PRP ./.,That's where I see most of it. /
+%,B,"Ro-/NNP ,/,","Ro-, - /"
+sd,B,"uh/UH ,/, Ron/NNP a/DT lot/NN of/IN this/DT is/VBZ caused/VBN by/IN the/DT fact/NN that/IN cars/NNS sitting/VBG in/IN traffic/NN tend/VBP to/TO run/VB rich/RB because/IN the/DT way/NN the/DT pollution/NN is/VBZ ./.","{F uh, } Ron a lot of this is caused by the fact that cars sitting in traffic tend to run rich because the way the pollution is. /"
+b,A,Right/UH ./.,Right. /
+sd,B,"And/CC when/WRB they/PRP run/VBP rich/RB they/PRP ,/, they/PRP spit/VBP out/RB a/DT lot/NN of/IN hydrocarbons/NNS ,/,","{C And } when they run rich [ they, + they ] spit out a lot of hydrocarbons, /"
+sd,B,and/CC that/DT 's/BES another/DT part/NN of/IN the/DT problem/NN ./.,{C and } that's another part of the problem. /
+sd,B,The/DT gas/NN is/VBZ not/RB being/VBG burned/VBN completely/RB ./.,The gas is not being burned completely. /
+sd,B,"But/CC ,/, uh/UH ,/, hopefully/RB ,/, if/IN we/PRP ever/RB get/VBP our/PRP$ road/NN system/NN fixed/VBN up/RP ,/, this/DT will/MD get/VB a/DT lot/NN better/JJR ./.","{C But, } {F uh, } hopefully, if we ever get our road system fixed up, this will get a lot better. /"
+sd,A,"Oh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/, I/PRP 've/VBP lived/VBN here/RB since/IN seventy-four/CD ,/, Howard/NNP ,/,","{F Oh, } I don't know, I've lived here since seventy-four, Howard, /"
+sd,A,"and/CC ,/, I/PRP d-/XX ,/, I/PRP think/VBP ,/, I/PRP think/VBP they/PRP been/VBN working/VBG on/IN the/DT highways/NNS around/IN here/RB since/IN I/PRP 've/VBP been/VBN here/RB ,/,","{C and, } [ I d-, + ] [ I think, + I think ] they been working on the highways around here since I've been here, /"
+x,B,,<Laughter>.
+sv,A,"and/CC I/PRP think/VBP ,/, I/PRP think/VBP they/PRP 'll/MD be/VB working/VBG on/IN them/PRP long/RB after/IN my/PRP$ wife/NN and/CC I/PRP are/VBP gone/VBN ./.","{C and } [ I think, + I think ] they'll be working on them long after my wife and I are gone. /"
+sd,B,"Well/UH ,/, I/PRP guess/VBP ,/, I/PRP ,/, not/RB trying/VBG to/TO top/VB you/PRP ,/, but/CC I/PRP grew/VBD up/RP in/IN Dallas/NNP county/NN and/CC I/PRP can/MD remember/VB when/WRB they/PRP built/VBD the/DT north/JJ part/NN of/IN North/NNP Central/NNP which/WDT was/VBD built/VBN after/IN the/DT south/JJ part/NN of/IN --/:","{D Well, } I guess, [ I, + ] not trying to top you, but I grew up in Dallas county and I can remember when they built the north part of North Central which was built after the south part of --"
+b,A,Right/UH ./.,Right <laughter>. /
++,B,--/: Central/NNP,-- Central /
+sd,B,"and/CC ,/, uh/UH ,/, I/PRP can/MD remember/VB coming/VBG over/IN the/DT hill/NN down/IN there/RB long/JJ about/RB ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/, little/JJ bit/NN north/RB of/IN mark-/NN ,/, Mockingbird/NNP on/IN up/IN in/IN ,/, over/IN those/DT hills/NNS","{C and, } {F uh, } I can remember coming over the hill down there long about, {F uh, } I don't know, little bit north of [ mark-, + ] Mockingbird on up [ in, + ] over those hills /"
+sd,B,and/CC I/PRP said/VBD I/PRP wonder/VBP if/IN they/PRP 'll/MD ever/RB need/VB this/DT road/NN ./.,{C and } I said I wonder if they'll ever need this road. /
+x,A,,<Laughter>.
+sd,B,"Course/NN ,/, it/PRP was/VBD designed/VBN for/IN most/RBS of/IN us/PRP to/TO go/VB about/RB forty-five/CD miles/NNS an/DT hour/NN because/IN the/DT short/JJ on/GW ramps/^NNS and/CC are/VBP ,/, off/GW ramps/^NNS ,/,","Course, it was designed for most of us to go about forty-five miles an hour because the short on ramps and [ are, + ] off ramps, /"
+ba,B,"but/CC ,/, gosh/UH ,/,","{C but, } gosh, /"
+sv,B,"seems/VBZ like/IN ,/, uh/UH ,/, those/DT ramps/NNS might/MD kill/VB us/PRP yet/RB ./.","seems like, {F uh, } those ramps might kill us yet. /"
+%,B,"I/PRP ,/,","I, - /"
+sd,B,hopefully/RB the/DT new/JJ ones/NNS will/MD be/VB a/DT lot/NN better/JJR ./.,hopefully the new ones will be a lot better. /
+ba,A,I/PRP understand/VBP ./.,I understand. /
+sd,A,"I/PRP sure/RB hope/VBP so/RB ,/, I/PRP tell/VBP you/PRP ./.","I sure hope so, I tell you. /"
+sd,A,"You/PRP know/VBP ,/, you/PRP get/VBP out/IN on/IN the/DT ,/, uh/UH ,/, interstate/JJ highways/NNS versus/IN ,/,","{D You know, } you get out on the, {F uh, } interstate highways versus, - /"
+sd,A,I/PRP travel/VBP quite/RB a/DT bit/NN,I travel quite a bit /
+sd,A,"and/CC traveling/VBG from/IN ,/, like/IN ,/, Dallas/NNP to/IN Austin/NNP to/IN San/NNP Antonio/NNP it/PRP 's/BES the/DT same/JJ thing/NN as/RB far/RB as/IN the/DT pollution/NN created/VBN by/IN the/DT automobiles/NNS in/IN the/DT ,/, in/IN the/DT stalled/JJ traffic/NN and/CC the/DT busy/JJ highways/NNS ,/, you/PRP ,/, you/PRP ,/, you/PRP 're/VBP at/IN your/PRP$ best/JJS","{C and } traveling from, {D like, } Dallas to Austin to San Antonio it's the same thing as far as the pollution created by the automobiles [ in the, + in the ] stalled traffic and the busy highways, [ [ you, + you, ] + you're ] at your best /"
+sd,A,"and/CC ,/, I/PRP guess/VBP when/WRB you/PRP 're/VBP out/IN on/IN the/DT interstate/NN ,/, heading/VBG north/RB or/CC south/RB and/CC you/PRP 're/VBP just/RB cruising/VBG right/RB along/IN and/CC there/EX 's/BES no/DT build/GW up/^NN of/IN cars/NNS","{C and, } I guess when you're out on the interstate, <inhaling> heading north or south and you're just cruising right along and there's no build up of cars /"
+%,A,"and/CC ,/,","{C and, } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+qy,B,"Ron/NNP ,/, have/VBP you/PRP noticed/VBN when/WRB you/PRP 're/VBP driving/VBG south/RB on/IN thirty-five/CD ,/, I/PRP guess/VBP towards/IN Waxahachie/NNP ,/, Hillsborough/NNP on/IN down/IN to/IN Austin/NNP ,/,","Ron, have you noticed when you're driving south on thirty-five, I guess towards Waxahachie, Hillsborough on down to Austin,"
+x,A,,<Noise>.
++,B,"you/PRP hit/VB a/DT point/NN down/IN there/RB about/RB ,/, I/PRP think/VBP where/WRB they/PRP call/VBP Bear/NNP Creek/NNP exit/NN --/:","you hit a point down there about, I think where they call Bear Creek exit --"
+ny,A,Yes/UH ./.,Yes. /
++,B,--/: on/IN just/RB this/DT side/NN of/IN the/DT county/NN line/NN ./.,-- on just this side of the county line <static>. /
+sd,B,"Right/UH along/IN in/IN there/RB somewhere/RB ,/, suddenly/RB the/DT air/NN feels/VBZ cleaner/JJR ./.","Right along in there somewhere, suddenly the air feels cleaner. /"
+qy,B,Have/VBP you/PRP noticed/VBD that/DT ?/.,Have you noticed that? /
+ng,A,"I/PRP tell/VBP you/PRP what/WP ,/, I/PRP ,/, I/PRP do/VBP n't/RB think/VB I/PRP really/RB have/VBP ,/,","I tell you what, [ I, + I ] don't think I really have, /"
+sd,A,but/CC I/PRP 'm/VBP going/VBG that/DT way/NN Tuesday/NNP,{C but } I'm going that way Tuesday /
+oo_co_cc,A,and/CC I/PRP 'm/VBP going/VBG to/TO make/VB it/PRP a/DT point/NN to/TO ./.,{C and } I'm going to make it a point to. /
+sd,B,"Well/UH ,/, sometimes/RB it/PRP depends/VBZ on/IN which/WDT way/NN the/DT winds/NNS blowing/VBG --/:","{D Well, } sometimes it depends on which way the winds blowing -- /"
+b,A,Sure/UH ./.,Sure. /
+sd,B,"--/: but/CC ,/, uh/UH ,/, I/PRP also/RB travel/VBP a/DT little/JJ bit/NN","-- {C but, } {F uh, } I also travel a little bit /"
+sd,B,"and/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/, it/PRP just/RB seems/VBZ like/IN there/EX 's/BES a/DT certain/JJ point/NN down/IN there/RB where/WRB you/PRP can/MD breathe/VB easier/JJR ./.","{C and, } {F uh, } I don't know, it just seems like there's a certain point down there where you can breathe easier. /"
+sd,B,It/PRP may/MD be/VB all/RB in/IN my/PRP$ mind/NN ./.,It may be all in my mind. /
+aa,A,"Oh/UH ,/, I/PRP know/VBP ./.","{F Oh, } I know. /"
+x,B,,<Laughter>.
+sd,A,"I/PRP know/VBP going/VBG to/IN ,/, uh/UH ,/, uh/UH ,/,","I know going to, {F uh, } {F uh, } - /"
+sd,A,"I/PRP detest/VBP going/VBG to/IN Houston/NNP because/IN it/PRP 's/BES such/PDT a/DT ,/,","I detest going to Houston because it's such a, -/"

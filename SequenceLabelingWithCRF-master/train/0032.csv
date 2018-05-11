@@ -1,0 +1,115 @@
+act_tag,speaker,pos,text
+sd,A,"Uh/UH ,/, well/UH ,/, I/PRP ,/, I/PRP guess/VBP it/PRP 's/BES a/DT subject/NN I/PRP have/VBP n't/RB thought/VBN too/RB much/RB about/IN ./.","<Child_talking> {F Uh, } {D well, } [ I, + I ] guess it's a subject I haven't thought too much about. /"
+sv,A,"Uh/UH ,/, I/PRP do/VBP n't/RB know/VB if/IN there/EX 's/BES so/RB much/RB wrong/JJ with/IN the/DT public/NN schools/NNS ,/, uh/UH ,/, as/RB much/RB as/IN ,/,","{F Uh, } I don't know if there's so much wrong with the public schools, {F uh, } as much as,"
+x,B,./.,<Noise> <<sounds like a printer>>.
++,A,we/PRP 're/VBP expecting/VBG too/RB much/RB out/IN of/IN them/PRP ./.,we're expecting too much out of them. /
+aa,B,"Uh/UH ,/, that/DT might/MD be/VB a/DT lot/NN to/TO do/VB with/IN it/PRP ./.","{F Uh, } that might be a lot to do with it. /"
+sd,B,"I/PRP know/VBP a/DT lot/NN of/IN it/PRP here/RB in/IN my/PRP$ state/NN ,/,","I know a lot of it here in my state, - /"
+sd,B,"I/PRP 'm/VBP from/IN Mississippi/NNP ,/,","I'm from Mississippi, /"
+qw^d,B,I/PRP 'm/VBP not/RB sure/JJ where/WRB you/PRP 're/VBP from/IN ./.,I'm not sure where you're from. /
+sd,A,"Minnesota/NNP ,/, Wisconsin/NNP ./.","Minnesota, Wisconsin. /"
+bk,B,"Minnesota/NNP ,/,","Minnesota, /"
+bk,B,okay/UH ./.,okay. /
+sd,B,Well/UH a/DT lot/NN of/IN it/PRP in/IN Mississippi/NNP here/RB has/VBZ got/VBN to/TO do/VB with/IN funding/NN ./.,{D Well } a lot of it in Mississippi here has got to do with funding. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Problems/NNS with/IN our/PRP$ educational/JJ system/NN ,/, a/DT lot/NN of/IN it/PRP 's/BES due/IN to/IN money/NN ./.","Problems with our educational system, a lot of it's due to money. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC they/PRP 're/VBP trying/VBG to/TO spend/VB money/NN where/WRB we/PRP do/VBP n't/RB have/VB it/PRP,{C And } they're trying to spend money where we don't have it /
+sd,B,and/CC there/EX 's/BES a/DT lot/NN of/IN things/NNS we/PRP need/VBP that/WDT we/PRP just/RB ca/MD n't/RB afford/VB ./.,{C and } there's a lot of things we need that we just can't afford. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,"Well/UH ,/, it/PRP 's/BES ,/, it/PRP is/VBZ getting/VBG very/RB expensive/JJ to/TO run/VB schools/NNS ,/,","{D Well, } [ it's, + it is ] getting very expensive to run schools, /"
+%,A,so/RB ./.,{C so. } -/
+aa,B,Well/UH it/PRP is/VBZ ./.,{D Well } it is. /
+sd,A,They/PRP 've/VBP got/VBN computers/NNS now/RB that/WDT you/PRP got/VBD to/TO train/VB on/IN ./.,They've got computers now that you got to train on. /
+sv,A,There/EX 's/BES just/RB --/:,There's just --
+b,B,Right/UH ./.,Right. /
++,A,"--/: so/RB much/JJ ,/, uh/UH ,/, more/JJR and/CC less/JJR money/NN to/TO do/VB it/PRP with/IN ./.","-- so much, {F uh, } more and less money to do it with. /"
+aa,B,That/DT 's/BES true/JJ ./.,That's true. /
+sv,B,"And/CC a/DT lot/NN of/IN it/PRP ,/, lot/NN of/IN it/PRP has/VBZ to/TO do/VB with/IN ,/, uh/UH ,/, salaries/NNS too/RB ,/, speaking/VBG --/:","{C And } a [ lot of it, + lot of it ] has to do with, {F uh, } salaries too, speaking --"
+b,A,Right/UH ./.,Right. /
++,B,--/: of/IN money/NN ./.,-- of money. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Cause/IN if/IN you/PRP ca/MD n't/RB pay/VB the/DT right/JJ people/NNS ,/, you/PRP know/VBP ,/, they/PRP 're/VBP not/RB to/TO be/VB able/JJ to/TO do/VB ,/, they/PRP 're/VBP not/RB ,/, not/RB going/VBG to/TO get/VB the/DT people/NNS that/WDT can/MD do/VB a/DT good/JJ job/NN ./.","Cause if you can't pay the right people, {D you know, } [ they're not to be able to do, + they're [ not, + not ] going to get ] the people that can do a good job. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH ./.,yeah. /
+%,A,"I/PRP ,/, I/PRP ,/, I/PRP guess/VBP that/IN in/IN ,/, uh/UH ,/,","[ [ I, + I, ] + I ] guess that in, {F uh, } - /"
+sv,A,"talking/VBG on/IN a/DT lot/NN of/IN the/DT things/NNS as/RB far/RB as/IN the/DT discipline/NN in/IN the/DT schools/NNS ,/, I/PRP ,/, I/PRP think/VBP they/PRP 're/VBP expecting/VBG schools/NNS to/TO discipline/VB the/DT kids/NNS","talking on a lot of the things as far as the discipline in the schools, [ I, + I ] think they're expecting schools to discipline the kids /"
+sv,A,"and/CC ,/, uh/UH ,/, I/PRP think/VBP it/PRP should/MD go/VB right/RB back/RB to/IN the/DT parents/NNS ./.","{C and, } {F uh, } I think it should go right back to the parents."
+aa,B,Right/UH ./.,Right. /
++,A,If/IN you/PRP do/VBP n't/RB train/VB your/PRP$ kids/NNS right/RB then/RB ./.,If you don't train your kids right then <laughter>. /
+aa,B,Right/UH ./.,Right. /
+sd,B,I/PRP feel/VBP the/DT same/JJ way/NN ./.,I feel the same way. /
+sv,B,A/DT lot/NN has/VBZ to/TO do/VB with/IN how/WRB the/DT kids/NNS were/VBD raised/VBN at/IN home/NN ./.,A lot has to do with how the kids were raised at home. /
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,yeah/UH ./.,yeah. /
+sv,B,"And/CC then/RB when/WRB the/DT kids/NNS get/VBP to/IN school/NN ,/, they/PRP try/VBP to/TO take/VB away/RB a/DT lot/NN of/IN things/NNS that/WDT they/PRP can/MD do/VB to/TO discipline/VB the/DT kids/NNS ./.","{C And then } when the kids get to school, they try to take away a lot of things that they can do to discipline the kids. /"
+sv,B,"I/PRP mean/VBP ,/, they/PRP 've/VBP so/RB severely/RB limited/VBN","{E I mean, } they've so severely limited /"
+sv,B,what/WDT disciplinary/JJ action/NN you/PRP can/MD do/VB ./.,what disciplinary action you can do. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH ./.,yeah. /
+sd,A,"I/PRP ,/, I/PRP know/VBP when/WRB I/PRP ,/, uh/UH ,/, was/VBD going/VBG to/IN school/NN it/PRP was/VBD n't/RB uncommon/JJ for/IN a/DT teacher/NN to/TO strike/VB a/DT student/NN that/WDT was/VBD misbehaving/VBG ./.","[ I, + I ] know when I, {F uh, } <child> was going to school it wasn't uncommon for a teacher to strike a student that was misbehaving. /"
+aa,B,Exactly/UH ./.,Exactly. /
+aa,B,Right/UH ./.,Right. /
+sv,A,I/PRP mean/VBP they/PRP do/VBP that/DT now/RB,{E I mean } they do that now /
+sv,A,and/CC they/PRP could/MD probably/RB lose/VB their/PRP$ job/NN ./.,{C and } they could probably lose their job <laughter>. /
+sv,B,Lose/VBP their/PRP$ job/NN and/CC big/JJ lawsuit/NN and/CC all/PDT that/DT ./.,Lose their job and big lawsuit and all that. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH ./.,yeah <noise>. /
+sv,B,I/PRP feel/VBP that/DT 's/BES got/VBN a/DT lot/NN to/TO do/VB with/IN it/PRP ./.,I feel that's got a lot to do with it. /
+sv,B,People/NNS are/VBP n't/RB as/RB afraid/JJ of/IN misbehaving/VBG as/IN they/PRP used/VBD to/TO be/VB ./.,People aren't as afraid of misbehaving as they used to be. /
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,right/UH ./.,right. /
+aa,A,Yeah/UH ./.,Yeah <child_talking>. /
+sd,A,"It/PRP seems/VBZ that/DT 'd/MD be/VB a/DT subject/NN that/WDT I/PRP ,/, I/PRP do/VBP n't/RB have/VB much/JJ to/TO say/VB on/IN ./.","It seems (( that'd )) be a subject that [ I, + I ] don't have much to say on <laughter>. /"
+b,B,Really/UH ./.,Really. /
+sd,B,"We/PRP ,/, we/PRP 've/VBP talked/VBN some/RB about/IN it/PRP in/IN my/PRP$ state/NN because/IN we/PRP 've/VBP had/VBN a/DT lot/NN of/IN ,/, uh/UH ,/, prob-/NNS ,/,","[ We, + we've ] talked some about it in my state because we've had a lot of, {F uh, } prob-, - /"
+sd,B,our/PRP$ governor/NN that/WDT just/RB got/VBD thrown/VBN out/RP of/IN office/NN was/VBD trying/VBG to/TO be/VB real/RB big/JJ on/IN education/NN,our governor that just got thrown out of office was trying to be real big on education /
+sd,B,but/CC he/PRP was/VBD n't/RB ./.,{C but } he wasn't. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,And/CC a/DT lot/NN of/IN his/PRP$ problems/NNS had/VBD to/TO do/VB with/IN money/NN mostly/RB ./.,{C And } a lot of his problems had to do with money mostly. /
+%,B,"I/PRP know/VBP a/DT lot/NN ,/, a/DT lot/NN of/IN ,/,","I know [ a lot, + a lot of, ] - /"
+sv,B,if/IN you/PRP have/VBP more/JJR money/NN it/PRP 's/BES just/RB logical/JJ that/IN you/PRP can/MD provide/VB a/DT better/JJR school/NN system/NN ./.,if you have more money it's just logical that you can provide a better school system. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC ,/, unfortunately/RB ,/, there/EX 's/BES not/RB many/JJ places/NNS to/TO get/VB that/DT money/NN ./.","{C And, } unfortunately, there's not many places to get that money. /"
+b,A,Yeah/UH ./.,Yeah </child_talking>. /
+sv,B,"Then/RB if/IN you/PRP do/VBP n't/RB have/VB qualified/JJ teachers/NNS in/IN the/DT different/JJ MUMBLEx/XX ,/,","Then if you don't have qualified teachers in the different (( )) , - /"
+sd,B,I/PRP know/VBP one/CD of/IN my/PRP$ physics/NN professors/NNS at/IN college/NN has/VBZ addressed/VBN this/DT ./.,I know one of my physics professors at college has addressed this. /
+sv,B,"That/IN most/JJS of/IN the/DT teachers/NNS at/IN the/DT elementary/JJ and/CC high/JJ school/NN level/NN are/VBP n't/RB scientists/NNS ,/,","That most of the teachers at the elementary and high school level aren't scientists, /"
+sv,B,they/PRP 're/VBP teachers/NNS ./.,they're teachers. /
+sv,B,And/CC they/PRP may/MD not/RB know/VB a/DT lot/NN about/IN what/WP they/PRP 're/VBP teaching/VBG ./.,{C And } they may not know a lot about <talking> what they're teaching. /
+sv,B,Where/WRB they/PRP may/MD have/VB just/RB had/VBD a/DT teaching/NN major/NN and/CC then/RB had/VBD some/DT social/JJ studies/NNS courses/NNS,Where they may have just had a teaching major and then had some social studies courses /
+sv,B,and/CC they/PRP 're/VBP trying/VBG to/TO teach/VB social/JJ studies/NNS ./.,{C and } they're trying to teach social studies. /
+sv,B,And/CC they/PRP do/VBP n't/RB know/VB a/DT lot/NN about/IN that/DT ./.,{C And } they don't know a lot about that </talking>. /
+b,A,Right/UH ./.,Right. /
+sv,B,"Where/WRB maybe/RB a/DT physics/NN professor/NN ,/,","Where maybe a physics professor, - /"
+sd,B,"he/PRP ,/, my/PRP$ professor/NN was/VBD a/DT physics/NN professor/NN","[ he, + my ] professor was a physics professor /"
+sd,B,and/CC he/PRP said/VBD a/DT lot/NN of/IN teachers/NNS teaching/VBG physics/NN today/RB have/VBP no/DT background/NN of/IN physics/NN at/IN the/DT high/JJ school/NN level/NN ./.,{C and } he said a lot of teachers teaching physics today have no background of physics at the high school level. /
+sv,B,"So/RB therefore/RB ,/, they/PRP 're/VBP teaching/VBG from/IN a/DT teacher/NN 's/POS point/NN of/IN view/NN and/CC not/RB from/IN a/DT physicist/NN point/NN of/IN view/NN ./.","{C So } therefore, they're teaching from a teacher's point of view and not from a physicist point of view. /"
+sv,B,And/CC that/DT causes/VBZ a/DT lot/NN of/IN trouble/NN ./.,{C And } that causes a lot of trouble. /
+aa,A,Right/UH ./.,Right. /
+aa,A,Yeah/UH ./.,Yeah. /
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sv,A,"e-/XX ,/, e-/XX ,/, maybe/RB they/PRP should/MD sit/VB back/RB and/CC ,/, and/CC kind/RB of/RB ,/, uh/UH ,/, decide/VB on/IN where/WRB the/DT money/NN 's/BES best/RB spent/VBN ./.","[ [ e-, + e-, ] + maybe ] they should sit back [ and, + and ] kind of, {F uh, } decide on where the money's best spent. /"
+sv,A,"I/PRP know/VBP in/IN a/DT lot/NN of/IN cases/NNS ,/, uh/UH ,/, different/JJ districts/NNS like/VBP to/TO have/VB nice/JJ fancy/JJ schools/NNS ./.","I know in a lot of cases, {F uh, } different districts like to have nice fancy schools. /"
+b,B,Right/UH ./.,Right. /
+sv,A,"And/CC maybe/RB they/PRP should/MD be/VB a/DT little/RB more/RBR ,/, uh/UH ,/, uh/UH ,/, concerned/JJ with/IN paying/VBG the/DT right/JJ people/NNS to/TO teach/VB and/CC ,/, and/CC be/VB ,/, uh/UH ,/, satisfied/JJ with/IN maybe/RB a/DT little/RB older/JJR school/NN ./.","{C And } maybe they should be a little more, {F uh, } {F uh, } concerned with paying the right people to teach [ and, + and ] be, {F uh, } satisfied with maybe a little older school. /"
+aa,B,Exactly/UH ./.,Exactly. /
+sd,B,"Because/IN ,/, I/PRP mean/VBP ,/, here/RB in/IN the/DT town/NN I/PRP went/VBD to/IN high/JJ school/NN ,/,","{C Because, } {E I mean, } here in the town I went to high school, /"
+sd,B,"one/CD of/IN the/DT ,/, there/EX were/VBD four/CD high/JJ schools/NNS in/IN my/PRP$ county/NN ,/, one/CD of/IN the/DT high/JJ schools/NNS was/VBD blown/VBN away/RP by/IN a/DT tornado/NN ./.","[ one of the, + {A there were four high schools in my county, } one of the ] high schools was blown away by a tornado. /"
+sd,B,"So/RB when/WRB they/PRP rebuilt/VBD that/DT school/NN ,/, they/PRP had/VBD a/DT ,/, a/DT top/NN of/IN the/DT line/NN ,/, high/JJ tech/JJ school/NN there/RB ./.","{C So } when they rebuilt that school, they had [ a, + a ] top of the line, high tech school there. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC the/DT other/JJ schools/NNS were/VBD built/VBN back/RB in/IN maybe/RB the/DT fifties/NNS or/CC early/JJ sixties/NNS,{C And } the other schools were built back in maybe the fifties or early sixties /
+sd,B,"and/CC then/RB when/WRB ,/, uh/UH ,/, the/DT evaluation/NN committees/NNS came/VBD through/RB ,/, they/PRP praised/VBD the/DT school/NN that/WDT had/VBD been/VBN rebuilt/VBN while/IN they/PRP were/VBD down/GW grading/^VBG all/PDT these/DT other/JJ ones/NNS ./. Telling/VBG them/PRP what/WP they/PRP needed/VBD to/TO do/VB to/TO fix/VB up/RP this/DT building/NN","{C and then } when, {F uh, } the evaluation committees came through, they praised the school that had been rebuilt while they were down grading all these other ones. Telling them what they needed to do to fix up this building /"
+sv,B,and/CC this/DT and/CC this/DT and/CC this/DT and/CC so/RB it/PRP kind/RB of/RB would/MD make/VB you/PRP think/VBP that/IN we/PRP 'd/MD all/DT be/VB better/JJR off/RP if/IN all/PDT the/DT schools/NNS were/VBD blown/VBN away/RB by/IN tornadoes/NNS and/CC we/PRP had/VBD to/TO rebuild/VB them/PRP ./.,[ [ [ {C and } this + {C and } this ] + {C and } this ] + {C and so } it ] kind of would make you think that we'd all be better off if all the schools were blown away by tornadoes and we had to rebuild them. /
+b,A,Yeah/UH ./.,<Laughter> Yeah. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"Well/UH I/PRP ,/, I/PRP know/VBP ,/, uh/UH ,/, where/WRB I/PRP came/VBD from/IN ./. We/PRP did/VBD n't/RB have/VB a/DT very/RB ,/, uh/UH ,/, rich/JJ community/NN","{D Well } [ I, + I ] know, {F uh, } where I came from. We didn't have a very, {F uh, } rich community /"
+sd,A,"and/CC ,/, uh/UH ,/, high/JJ school/NN that/WDT I/PRP went/VBD to/IN was/VBD very/RB old/JJ","{C and, } {F uh, } high school that I went to was very old /"
+sd,A,"and/CC ,/, uh/UH ,/, as/RB far/RB as/IN I/PRP know/VBP ,/, it/PRP 's/BES still/RB there/RB ./.","{C and, } {F uh, } as far as I know, it's still there. /"
+sd,A,"They/PRP 've/VBP e/VBN ,/, expanded/VBN on/IN it/PRP","They've [ e-, + expanded ] on it /"
+sd,A,but/CC they/PRP 've/VBP never/RB built/VBN a/DT new/JJ one/CD,{C but } they've never built a new one /
+sd,A,"and/CC it/PRP 's/BES probably/RB fifty/CD ,/, sixty/CD years/NNS old/JJ or/CC ,/, or/CC better/RB","{C and } it's probably fifty, sixty years old [ or, + or ] better /"
+sd,A,and/CC --/:,{C and } --
+b,B,Right/UH ./.,Right. /
++,A,"--/: I/PRP do/VBP n't/RB foresee/VB them/PRP ,/, uh/UH ,/, building/VBG a/DT new/JJ one/CD for/IN a/DT long/JJ time/NN because/IN they/PRP ca/MD n't/RB afford/VB it/PRP ./.","-- I don't foresee them, {F uh, } building a new one for a long time because they can't afford it. /"
+aa,B,Exactly/UH ./.,Exactly </noise>. /

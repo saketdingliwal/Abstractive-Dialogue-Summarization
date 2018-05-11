@@ -1,0 +1,235 @@
+act_tag,speaker,pos,text
+fa,A,"I/PRP 'm/VBP sorry/JJ ,/, um/UH --/:","I'm sorry, {F um } -- /"
+bd,B,"That/DT 's/BES okay/JJ ,/,","That's okay, /"
+sd,B,I/PRP did/VBD n't/RB hear/VB ./.,I didn't hear. /
+sd,A,--/: hobbies/NNS ./.,-- hobbies. /
+b,B,Okay/UH ./.,Okay. /
+^h,A,"Let/VB me/PRP see/VB ,/,","Let me see, /"
+sd,A,"I/PRP do/VBP n't/RB know/VB if/IN that/DT took/VBD or/CC not/RB ,/,","I don't know if that took or not, /"
+oo_co_cc,A,I/PRP 'll/MD do/VB it/PRP again/RB ./.,I'll do it again. /
+b,B,Okay/UH ./.,Okay. /
+%,A,Okay/UH ./.,<Beep> Okay. /
+qw,A,What/WP are/VBP your/PRP$ hobbies/NNS ?/.,What are your hobbies? /
+qy,A,"I/PRP hear/VBP you/PRP have/VB kids/NNS ,/, right/JJ ?/.","I hear you have kids, right? /"
+sd,B,You/PRP heard/VBD her/PRP in/IN the/DT background/NN ./.,You heard her in the background <laughter>. /
+sd,B,That/DT 's/BES babies/NNS ./.,That's babies. /
+qy,A,"That/IN 's/BES your/PRP$ full/JJ time/NN ,/, uh/UH ,/, hobby/NN ,/, right/RB ?/.","<Laughter> That's your full time, {F uh, } hobby, right? /"
+na,B,"Takes/VBZ a/DT lot/NN of/IN time/NN ,/, huh/UH ./.","Takes a lot of time, {F huh. } /"
+sd,B,"I/PRP like/VBP ,/, uh/UH ,/, most/JJS sports/NNS ./.","I like, {F uh, } most sports. /"
+sd,B,I/PRP like/VBP to/TO do/VB that/DT ./.,I like to do that. /
+sd,B,I/PRP kind/RB of/RB like/VBP to/TO do/VB a/DT little/JJ bit/NN of/IN sewing/NN ./.,I kind of like to do a little bit of sewing. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Oh/UH ,/, little/JJ bit/NN of/IN embroidery/NN work/NN ,/, once/RB in/IN a/DT while/NN ./.","{F Oh, } little bit of embroidery work, once in a while. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qo,B,What/WP do/VBP you/PRP like/VB to/TO do/VB ?/.,What do you like to do? /
+sd,A,"Um/UH ,/, I/PRP try/VBP to/TO do/VB some/DT painting/VBG ,/, although/IN I/PRP 'm/VBP not/RB very/RB good/JJ at/IN it/PRP ./.","{F Um, } I try to do some painting, although I'm not very good at it <laughter>. /"
+ba,B,"Well/UH ,/, I/PRP 'm/VBP sure/JJ you/PRP probably/RB are/VBP ./.","{D Well, } I'm sure you probably are. /"
+bd,A,"Well/UH ,/, no/UH ,/,","{D Well, } no, /"
+bd,A,not/RB really/RB ./.,not <laughter> really. /
+sv,B,"You/PRP like/VBP it/PRP ,/,","<Laughter> You like it, /"
+sv,B,that/DT 's/BES the/DT main/JJ MUMBLEx/XX ./.,that's the main (( )) . -/
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP ,/, I/PRP have/VBP ,/, you/PRP know/VBP ,/, I/PRP inherited/VBD the/DT genes/NNS that/WDT make/VBP me/PRP think/VB I/PRP 'm/VBP creative/JJ ,/,","[ [ I, + I have, ] + {D you know, } I inherited ] the genes that make me think I'm creative,"
+x,B,./.,<Laughter>.
++,A,but/CC not/RB the/DT ones/NNS that/WDT give/VBP me/PRP the/DT ability/NN to/TO be/VB ./.,but not the ones that give me the ability to be. /
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
+sd,A,"So/RB ,/, I/PRP always/RB try/VBP ./.","{C So, } I always try. /"
+x,B,./.,<Laughter>.
+sd,A,"I/PRP ,/, I/PRP do/VBP some/DT sewing/VBG ,/, mostly/RB out/IN of/IN necessity/NN ./.","[ I, + I ] do some sewing, mostly out of necessity. /"
+sd,A,"Um/UH ,/, I/PRP 'm/VBP making/VBG drapes/NNS for/IN my/PRP$ house/NN ,/, just/RB because/IN I/PRP 'm/VBP ,/,","{F Um, } I'm making drapes for my house, just because I'm, -/"
+ba,B,"Oh/UH ,/, boy/UH ,/, that/WDT 's/BES hard/RB sewing/NN ./.","{F Oh, } boy, that's hard sewing. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aap_am,A,"well/UH ,/, it/PRP is/VBZ n't/RB and/CC it/PRP is/VBZ ./.","{D well, } it isn't and it is. /"
+%,A,"It/PRP is/VBZ ,/, you/PRP know/VBP ,/,","It is, {D you know, } - /"
+sd,A,"actually/RB the/DT sewing/NN is/VBZ n't/RB the/DT hard/JJ part/NN ,/,","actually the sewing isn't the hard part, /"
+sv,A,it/PRP 's/BES just/RB being/VBG able/JJ to/TO lay/VB out/RB the/DT material/NN and/CC measure/VB it/PRP --/:,it's just being able to lay out the material and measure it --
+bf,B,"Measure/VB it/PRP and/CC get/VB it/PRP to/TO ,/,","Measure it and get it to, -/"
++,A,--/: because/IN you/PRP need/VBP so/RB much/JJ room/NN ./.,-- because you need so much room. /
+aap_am,B,"Well/UH ,/, if/IN it/PRP ,/, it/PRP depends/VBZ on/IN how/WRB elaborate/JJ you/PRP get/VBP it/PRP ./.","{D Well, } [ if + ] [ it, + it ] depends on how elaborate you get it. /"
+sv,B,"If/IN you/PRP get/VBP pleats/NNS and/CC all/DT kinds/NNS of/IN ,/,","If you get pleats and all kinds of, -/"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP 've/VBP been/VBN doing/VBG that/DT,I've been doing that /
+%,A,"and/CC ,/,","{C and, }"
+ba,B,That/DT 's/BES a/DT lot/NN of/IN work/NN ./.,That's a lot of work. /
++,A,"That/IN ,/,","That, - /"
+aa,A,"yeah/UH ,/,","yeah, /"
+%,A,"that/IN ,/,","that, - /"
+sd,A,but/CC usually/RB have/VB to/TO do/VB the/DT pleats/NNS by/IN hand/NN ./.,{C but } usually have to do the pleats by hand. /
+sd,A,"So/IN that/IN ,/, at/IN least/JJS --/:","{C So } that, at least --"
+b,B,Oh/UH ./.,Oh. /
++,A,"--/: I/PRP can/MD do/VB ,/, you/PRP know/VBP ,/, watching/VBG T/NN V/NN or/CC whatever/WDT","-- I can do, {D you know, } watching T V or whatever /"
+%,A,"but/CC ,/,","{C but, } -/"
+b,B,"Right/UH ,/,","Right, /"
+b,B,right/UH ./.,right. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"and/CC I/PRP 've/VBP ,/, I/PRP 've/VBP gone/VBN and/CC ,/, you/PRP know/VBP ,/, put/VBN the/DT needle/NN through/IN my/PRP$ thumb/NN a/DT few/JJ times/NNS ,/,","{C and } [ I've, + I've ] gone and, {D you know, } put the needle through my thumb a few times <laughter>,"
+x,B,./.,<Laughter>.
++,A,trying/VBG to/TO get/VB it/PRP through/IN,trying to get it through /
+%,A,"but/CC ,/,","{C but, } -/"
+ba,B,That/DT feels/VBZ really/RB good/JJ ./.,That feels really good. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"so/IN that/DT 's/BES not/RB really/RB my/PRP$ favorite/JJ thing/NN to/TO do/VB or/CC anything/NN ,/, but/CC I/PRP ,/, I/PRP need/VBP to/TO do/VB it/PRP ./.","{C so } that's not really my favorite thing to do or anything, but [ I, + I ] need to do it. /"
+aa,B,"To/TO do/VB it/PRP ,/,","To do it, /"
+aa,B,right/UH ./.,right. /
+sd,A,"I/PRP have/VBP ,/, let/VB 's/PRP see/VB ,/, I/PRP have/VBP a/DT dog/NN ,/, and/CC a/DT lot/NN of/IN fish/NN ./.","[ I have, + let's see, I have ] a dog, and a lot of fish. /"
+sd,A,"Keeping/VBG fish/NN ,/, I/PRP guess/VBP --/:","Keeping fish, I guess --"
+b^m,B,Keeping/VBG fish/NN MUMBLEx/XX ./.,Keeping fish (( )) . -/
++,A,--/: is/VBZ my/PRP$ biggest/JJS hobby/NN ./.,-- is my biggest hobby. /
+sv,B,"Well/UH ,/, they/PRP 're/VBP probably/RB easier/JJR than/IN keeping/VBG dogs/NNS ,/, though/RB ,/, are/VBP n't/RB they/PRP ./.","{D Well, } they're probably easier than keeping dogs, though, aren't they. /"
+aap_am,A,"Um/UH ,/, yes/UH and/CC no/UH ./.","{F Um, } yes and no. /"
+sd,A,"It/PRP depends/VBZ on/IN how/WRB frequently/RB they/PRP die/VBP ,/, and/CC --/:","It depends on how frequently they die, and --"
+ba,B,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
++,A,--/: how/WRB much/RB that/DT bothers/VBZ you/PRP ./.,-- how much that bothers you. /
+b^m,B,"How/WRB much/RB that/DT bothers/VBZ you/PRP ,/,","How much that bothers you, /"
+sv,B,and/CC you/PRP probably/RB have/VBP to/TO clean/VB out/RP the/DT tank/NN too/RB ./.,{C and } you probably have to clean out the tank too. /
+%,A,"That/DT 's/BES ,/,","That's, - /"
+arp_nd,A,"you/PRP do/VBP n't/RB have/VB to/TO do/VB as/RB much/RB as/IN ,/, as/IN I/PRP thought/VBD ./.","you don't have to do as much [ as, + as ] I thought. /"
+%,A,"In/IN fact/NN ,/, my/PRP$ problem/NN ,/,","In fact, my problem, - /"
+sd,A,I/PRP had/VBD fish/NNS as/IN a/DT kid/NN,I had fish as a kid /
+sd,A,and/CC they/PRP always/RB died/VBD --/:,{C and } they always died --
+ba,B,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
++,A,"--/: immediately/RB ,/,","-- immediately, /"
+sv,A,"and/CC ,/, what/WP ,/, I/PRP 'm/VBP ,/, what/WP I/PRP think/VBP now/RB is/VBZ the/DT reason/NN is/VBZ I/PRP kept/VBD the/DT tank/NN too/RB clean/JJ --/:","{C and, } [ what, I'm, + what I ] think now is the reason is I kept the tank too clean -- /"
+ba,B,"Oh/UH ,/, you/PRP 're/VBP kidding/VBG --/:","{F Oh, } you're kidding -- /"
+%,A,"--/: because/IN you/PRP have/VBP ,/,","-- {C because } you have, -/"
+bf,B,"--/: because/IN they/PRP need/VBP to/TO have/VB a/DT little/JJ bit/NN of/IN the/DT ,/,","-- {C because } they need to have a little bit of the, -/"
+aa,A,"Right/UH ,/,","Right, /"
+sv,A,"you/PRP need/VBP to/TO let/VB the/DT bacteria/NNS build/VB up/RP ,/,","you need to let the bacteria build up, /"
+sv,A,and/CC then/RB it/PRP keeps/VBZ all/PDT the/DT chemicals/NNS in/IN balance/NN ./.,{C and then } it keeps all the chemicals in balance. /
+b,B,I/PRP see/VBP ./.,I see. /
+sd,A,"And/CC I/PRP would/MD just/RB take/VB everything/NN out/RB and/CC just/RB like/UH ,/, you/PRP know/VBP ,/, wash/VB it/PRP with/IN scalding/VBG hot/JJ water/NN --/:","{C And } I would just take everything out and just {D like, } {D you know, } wash it with scalding hot water -- /"
+ba,B,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
+sd,A,"--/: and/CC it/PRP would/MD kill/VB all/PDT the/DT bacteria/NNS ,/,","-- {C and } it would kill all the bacteria, /"
+sd,A,and/CC that/DT would/MD screw/VB up/RP all/PDT the/DT chemical/NN cycles/NNS again/RB --/:,{C and } that would screw up all the chemical cycles again -- /
+bf,B,And/CC so/RB you/PRP 'd/MD have/VB to/TO --/:,{C And so } you'd have to --
+%,A,--/: so/UH ./.,-- {C so. } -/
++,B,--/: start/VB all/RB over/RB --/:,-- start all over --
+aa,A,Right/UH ./.,Right. /
++,B,--/: to/TO build/VB that/IN up/RP probably/RB ./.,-- to build that up probably. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+sd,A,"So/RB now/RB only/RB ,/, I/PRP only/RB clean/VBP things/NNS to/TO make/VB things/NNS look/VB more/RBR aesthetically/RB pleasing/JJ --/:","{C So } now [ only, + I only ] clean things to make things look more aesthetically pleasing -- /"
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,right/UH ./.,right. /
+sd,A,--/: and/CC I/PRP do/VBP n't/RB try/VB and/CC sterilize/VB things/NNS ./.,-- {C and } I don't try and sterilize things <laughter>. /
+bf,B,Do/VBP n't/RB go/VB through/IN the/DT whole/JJ nine/CD yards/NNS,Don't go through the whole nine yards /
+sv,B,and/CC --/:,{C and } --
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
++,B,--/: they/PRP kind/RB of/RB need/VBP a/DT little/JJ bit/NN of/IN that/DT ./.,-- they kind of need a little bit of that. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+bf,B,So/UH you/PRP 've/VBP had/VBD fish/NNS for/IN a/DT long/JJ time/NN ./.,{C So } you've had fish for a long time. /
+%,A,"Well/UH ,/, I/PRP 've/VBP had/VBN them/PRP ,/,","{D Well, } I've had them, - /"
+sd,A,"I/PRP guess/VBP it/PRP 's/HVS been/VBN two/CD years/NNS now/RB I/PRP 've/VBP had/VBN a/DT ,/, a/DT tank/NN here/RB ,/,","I guess it's been two years now I've had [ a, + a ] tank here, /"
+sd,A,"and/CC then/RB back/RB at/IN home/NN I/PRP used/VBD to/TO have/VB a/DT small/JJ ,/, you/PRP know/VBP ,/, five/CD gallon/NN tank/NN ./.","{C and then } back at home I used to have a small, {D you know, } five gallon tank. /"
+sd,A,But/CC that/DT never/RB worked/VBD well/RB ./.,{C But } that never worked well. /
+qw,B,What/WP size/NN do/VBP you/PRP have/VB now/RB ?/.,What size do you have now? /
++,A,I/PRP have/VBP fifty-five/CD gallons/NNS now/RB ./.,I have fifty-five gallons now. / *[[sd]]
+ba,B,"Oh/UH ,/, that/DT 's/BES a/DT good/JJ size/NN ./.","{F Oh, } that's a good size. /"
+sd,A,It/PRP 's/BES a/DT lot/RB easier/JJR ./.,It's a lot easier. /
+qy,B,"Have/VBP you/PRP ever/RB had/VBN it/PRP ,/, uh/UH ,/, crack/VB or/CC break/VB or/CC leak/VB ./.","Have you ever had it, {F uh, } crack or break or leak. /"
+nn,A,No/UH ./.,No <laughter>. /
+x,B,MUMBLEx/XX ./.,<Laughter> (( )) .
+nn,A,"No/UH ,/,","No, /"
+sd,A,not/RB yet/RB ./.,not yet. /
+sv,B,"Fifty-five/CD gallons/NNS ,/, you/PRP 'd/MD hope/VB it/PRP would/MD never/RB do/VB that/DT ./.","Fifty-five gallons, you'd hope it would never do that. /"
+aa,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+sd,A,I/PRP really/RB do/VBP ./.,I really do. /
+%,A,"But/CC ,/, you/PRP know/VBP ./.","{C But, } {D you know. } -/"
+qy,B,Do/VBP you/PRP have/VB all/DT kinds/NNS of/IN different/JJ fish/NN,Do you have all kinds of different fish /
+%,B,"or/CC ,/,","{C or, } -/"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP just/RB have/VBP ,/, you/PRP know/VBP ,/, what/WP they/PRP call/VBP community/NN fish/NN --/:","I just have, {D you know, } what they call community fish --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: guppies/NNS ,/, and/CC platies/NNS and/CC ,/, and/CC basic/NN things/NNS ./.","-- guppies, and platies [ and, + and ] basic things. /"
+sd,A,I/PRP do/VBP n't/RB get/VB into/IN the/DT --/:,I don't get into the -- -/
+^2,B,Real/RB exotic/NN ./.,Real exotic. -/
+aa,A,"--/: right/UH ,/,","-- right, /"
+aa,A,right/UH ./.,right. /
+sd,A,The/DT expensive/JJ ones/NNS ./.,The expensive ones. /
+sv,B,"Well/UH ,/, they/PRP 're/VBP probably/RB hardy/JJ ,/, harder/JJR to/TO take/VB care/VB of/IN","{D Well, } they're probably [ hardy, + harder ] to take care of /"
+%,B,"and/CC ,/,","{C and, } -/"
+aa,A,They/PRP are/VBP ./.,They are. /
+sd,A,They/PRP 're/VBP very/RB expensive/JJ,They're very expensive /
+sv,A,"and/CC ,/, you/PRP know/VBP ,/, when/WRB you/PRP die/VBP ,/, it/PRP 's/BES like/IN ,/, when/WRB they/PRP die/VBP it/PRP 's/BES more/RBR like/IN an/DT investment/NN ./.","{C and, } {D you know, } [ when you die, it's like, + when they die it's more like ] an investment. /"
+b,B,"Yes/UH ,/,","Yes, /"
+ba,B,I/PRP bet/VBP it/PRP is/VBZ ./.,I bet it is. /
+sv,A,You/PRP lost/VBD an/DT investment/NN,You lost an investment /
+%,A,"so/UH ,/,","{C so, } -/"
+qy,B,"Do/VBP you/PRP have/VB problems/NNS with/IN them/PRP ,/, uh/UH ,/, the/DT fish/NN eating/VBG each/DT other/JJ ?/.","Do you have problems with [ them, + {F uh, } the fish ] eating each other? /"
+nn,A,"No/UH ,/,","No, /"
+sd,A,not/RB really/RB ./.,not really. /
+sd,A,Only/RB if/IN there/EX 's/BES baby/NN fish/NN ./.,Only if there's baby fish. /
+b,B,Right/UH ./.,Right. /
+sd,A,You/PRP always/RB have/VBP to/TO isolate/VB those/DT ./.,You always have to isolate those. /
+%,B,"Then/RB you/PRP have/VBP to/TO ,/,","Then you have to, - /"
+qw,B,how/WRB do/VBP you/PRP isolate/VB them/PRP ?/.,how do you isolate them? /
+sd,A,You/PRP get/VBP a/DT --/:,You get a -- -/
+qy^d,B,A/DT jar/NN or/CC something/NN,A jar or something /
+%,B,or/CC ./.,{C or. } -/
+nn,A,"--/: well/UH ,/, no/UH ,/,","-- {D well, } no, /"
+sd,A,they/PRP have/VBP breeders/NNS ./.,they have breeders. /
+bk,B,Okay/UH ./.,Okay. /
+sd,A,It/PRP 's/BES a/DT little/RB plastic/JJ things/NNS that/WDT sort/RB of/RB floats/VBZ --/:,It's a little plastic things that sort of floats -- /
+b,B,Okay/UH ./.,Okay. /
+sd,A,--/: and/CC you/PRP put/VBP the/DT mother/NN fish/NN in/IN there/RB,-- {C and } you put the mother fish in there /
+sd,A,and/CC then/RB it/PRP 's/HVS got/VBN like/UH a/DT trough/NN underneath/IN her/PRP --/:,{C and then } it's got {D like } a trough underneath her -- /
+b,B,Okay/UH ./.,Okay. /
+sd,A,--/: so/RB as/IN the/DT babies/NNS come/VBP out/RB they/PRP fall/VBP down/RB in/IN the/DT trough/NN,-- {C so } as the babies come out they fall down in the trough /
+sd,A,and/CC there/EX 's/BES a/DT hole/NN in/IN the/DT middle/NN so/IN they/PRP fall/VBP into/IN the/DT bottom/NN part/NN of/IN the/DT chamber/NN --/:,{C and } there's a hole in the middle so they fall into the bottom part of the chamber --
+b,B,Oh/UH ./.,Oh. /
++,A,--/: so/UH the/DT mother/NN ca/MD n't/RB get/VB to/IN them/PRP either/RB ./.,-- so the mother can't get to them either. /
+%,A,"And/CC that/DT 's/BES ,/, you/PRP know/VBP ,/,","{C And } that's, {D you know, } - /"
+sd,A,"it/PRP kind/RB of/RB works/VBZ ,/,","it kind of works, /"
+sd,A,but/CC it/PRP 's/HVS also/RB got/VBN slots/NNS in/IN it/PRP so/IN the/DT water/NN can/MD circulate/VB --/:,{C but } it's also got slots in it so the water can circulate -- /
+b,B,Right/UH ./.,Right. /
+sd,A,it/PRP 'll/MD fit/VB out/RP the/DT slots/NNS ./.,it'll fit out the slots. /
+bf,B,It/PRP 'll/MD go/VB through/IN the/DT slot/NN ./.,It'll go through the slot. /
+aa,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+sd,A,"so/UH ./. But/CC ,/, you/PRP know/VBP ,/, it/PRP works/VBZ ,/, I/PRP guess/VBP ./.","[ {C so. } + {C But, } ] {D you know, } it works, I guess. /"
+qy^d,B,That/DT works/VBZ all/RB right/RB then/RB ./.,That works all right then. /
+bf,B,"They/PRP do/VBP n't/RB ,/, uh/UH ,/, want/VB the/DT mothers/NNS to/TO be/VB with/IN the/DT little/JJ fish/NN either/RB ./.","They don't, {F uh, } want the mothers to be with the little fish either. /"
+sd,A,"Oh/UH ,/, they/PRP 'll/MD eat/VB them/PRP ./.","{F Oh, } they'll eat them. /"
+qy^d,B,They/PRP will/MD ./.,They will. /
+ny,A,Yeah/UH ./.,Yeah. /
+qy,B,Is/VBZ n't/RB that/DT odd/JJ ./.,Isn't that odd. /
+ny,A,Yes/UH ./.,Yes. /
+sv,B,You/PRP would/MD n't/RB think/VB that/DT ./.,You wouldn't think that. /
+sd,A,"It/PRP ,/, and/CC it/PRP 's/BES funny/JJ because/IN the/DT one/NN I/PRP have/VBP ,/, every/DT single/JJ month/NN without/IN fail/NN she/PRP has/VBZ babies/NNS ./.","[ It, + {C and } it's ] funny because the one I have, every single month without fail she has babies. /"
+ba,B,You/PRP 're/VBP kidding/VBG ./.,You're kidding. /
+aa,A,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
+sd,A,"All/PDT the/DT time/NN ,/,","All the time, /"
+%,A,"and/CC ,/, um/UH ,/, I/PRP ,/,","{C and, } {F um, } I, - /"
+%,A,"and/CC she/PRP 's/BES supposed/VBN to/TO ,/,","{C and } she's supposed to, - /"
+sd,A,"her/PRP$ variety/NN ,/, it/PRP says/VBZ they/PRP wo/MD n't/RB eat/VB the/DT babies/NNS ,/,","her variety, it says they won't eat the babies, /"
+sd,A,and/CC I/PRP 've/VBP seen/VBN her/PRP do/VB it/PRP ./.,{C and } I've seen her do it. /
+%,A,So/UH ./.,{C So. } -/
+qy,B,"And/CC that/DT just/RB makes/VBZ you/PRP sick/JJ almost/RB ,/, does/VBZ n't/RB it/PRP ?/.","{C And } that just makes you sick almost, doesn't it? /"
+%,A,"Oh/UH ,/, it/PRP 's/BES ter/JJ ,/,","{F Oh, } it's ter-, - /"
+sd,A,"well/UH ,/, it/PRP makes/VBZ you/PRP understand/VBP that/IN ,/, you/PRP know/VBP ,/, things/NNS are/VBP different/JJ ./.","{D well, } it makes you understand that, {D you know, } things are different <laughter>. /"
+bf,B,"Things/NNS are/VBP different/JJ in/IN the/DT animal/NN kingdom/NN ,/, huh/UH ./.","Things are different in the animal kingdom, {F huh. } /"
+sd,A,"We/PRP might/MD ,/, right/JJ ./. We/PRP might/MD decide/VB what/WP 's/BES proper/JJ and/CC what/WP is/VBZ n't/RB ,/,","[ We might, + {D right. } We might ] decide what's proper and what isn't, /"
+sv,A,but/CC --/:,{C but } --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: you/PRP know/VBP ,/, that/DT 's/BES the/DT way/NN it/PRP is/VBZ for/IN them/PRP ./.","-- {D you know, } that's the way it is for them. /"
+bf,B,That/DT 's/BES kind/RB of/RB the/DT way/NN they/PRP do/VBP it/PRP ./.,That's kind of the way they do it. /
+aa,A,Yeah/UH ./.,Yeah. /
+aa,A,That/DT 's/BES it/PRP ./.,That's it. /
+bf,B,Survival/NN of/IN the/DT fittest/JJS or/CC something/NN ./.,Survival of the fittest or something. /
+aa,A,"Yes/UH ,/,","Yes, /"
+sd,A,"because/IN if/IN the/DT baby/NN is/VBZ strong/JJ enough/RB ,/, it/PRP can/MD swim/VB away/RB fast/RB enough/RB --/:","{C because } if the baby is strong enough, it can swim away fast enough --"
+b,B,Right/UH ./.,Right. /
++,A,--/: and/CC go/VB hide/VB ./.,-- and go hide. /
+bf,B,"Go/VB hide/VB from/IN them/PRP ,/,","Go hide from them, /"
+qh,B,well/UH --/:,{D well } --
+%,A,So/UH ./.,{D So. } -/
++,B,"--/: and/CC then/RB ,/, you/PRP think/VBP ,/, well/UH ,/, how/WRB did/VBD they/PRP do/VB it/PRP out/IN in/IN the/DT real/JJ world/NN anyway/RB --/:","-- {C and then, } you think, {D well, } how did they do it out in the real world anyway --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: when/WRB these/DT fish/NNS are/VBP in/IN the/DT tropicals/NNS or/CC wherever/WRB they/PRP are/VBP --/:,-- when these fish are in the tropicals or wherever they are --
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
++,B,"--/: kind/RB of/RB trying/VBG to/TO keep/VB up/RP with/IN that/DT ,/,","-- kind of trying to keep up with that, /"
+qy^d,B,"but/CC ./. If/IN you/PRP 're/VBP like/IN me/PRP ,/, you/PRP never/RB have/VBP enough/RB time/NN for/IN the/DT hobbies/NNS ./.","{C but. } If you're like me, you never have enough time for the hobbies. /"
+nn,A,"No/UH ,/,","No, /"
+sd,A,not/RB really/RB ./.,not really. /
+x,B,./.,<Laughter>.
+sd,A,"I/PRP ,/, I/PRP try/VBP ./.","[ I, + I ] try. /"
+sd,A,"I/PRP also/RB ,/, I/PRP play/VBP a/DT couple/NN of/IN instruments/NNS ./.","[ I also, + I ] play a couple of instruments. /"

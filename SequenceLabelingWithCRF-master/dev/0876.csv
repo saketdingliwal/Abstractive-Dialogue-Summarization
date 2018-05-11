@@ -1,0 +1,158 @@
+act_tag,speaker,pos,text
+sd,A,"I/PRP guess/VBP ,/, um/UH ,/, I/PRP 'm/VBP going/VBG to/IN school/NN while/IN I/PRP 'm/VBP working/VBG at/IN T/NNP I/NNP ,/,","I guess, {F um, } I'm going to school while I'm working at T I, /"
+sd,A,"so/RB there/EX 's/BES not/RB a/DT whole/JJ a/DT lot/NN of/IN time/NN that/WDT I/PRP 've/VBP got/VBN ,/, uh/UH ,/, for/IN hobbies/NNS it/PRP seems/VBZ like/IN lately/RB ./.","{C so } there's not a whole a lot of time that I've got, {F uh, } for hobbies it seems like lately. /"
+sd,A,But/CC one/CD of/IN the/DT things/NNS that/WDT I/PRP do/VBP when/WRB I/PRP 've/VBP got/VBN some/DT spare/JJ time/NN is/VBZ I/PRP do/VBP some/DT woodworking/NN ./.,{C But } one of the things that I do when I've got some spare time is I do some woodworking. /
+sd,A,"And/CC that/DT ,/, oh/UH ,/, I/PRP guess/VBP ,/, ranges/VBZ anywhere/RB from/IN ,/, uh/UH ,/, carpentry/NN work/NN to/IN ,/, um/UH ,/, um/UH ,/, some/DT types/NNS of/IN furniture/NN and/CC ,/, um/UH ,/, oh/UH ,/, I/PRP do/VBP n't/RB know/VB what/WP you/PRP would/MD call/VB them/PRP ,/, knickknacks/NNS ,/, I/PRP guess/VBP ,/, stuff/NN you/PRP hang/VBP on/IN the/DT wall/NN to/TO put/VB a/DT mirror/NN on/RP","{C And } that, {F oh, } I guess, ranges anywhere from, {F uh, } carpentry work to, {F um, } {F um, } some types of furniture and, {F um, } {F oh, } I don't know what you would call them, knickknacks, I guess, stuff you hang on the wall to put a mirror on /"
+sd,A,"and/CC I/PRP made/VBD some/DT ,/, um/UH ,/, candle/NN sconces/NNS that/WDT you/PRP hang/VBP on/IN the/DT .../:","{C and } I made some, {F um, } candle sconces that you hang on the ... -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP have/VBP quite/PDT a/DT few/JJ of/IN those/DT that/WDT my/PRP$ uncle/NN made/VBD ./.,I have quite a few of those that my uncle made. /
+sd,A,"There/EX 's/BES something/NN about/IN working/VBG with/IN wood/NN that/WDT ,/, that/WDT I/PRP enjoy/VBP ,/, that/IN ,/,","There's something about working with wood [ that, + that ] I enjoy, that, - /"
+sd,A,I/PRP do/VBP n't/RB know/VB if/IN it/PRP 's/BES the/DT saw/NN dust/NN or/CC the/DT mess/NN you/PRP make/VBP or/CC the/DT smell/NN of/IN the/DT wood/NN,I don't know if it's the saw dust or the mess you make or the smell of the wood /
+%,A,"but/CC ,/,","{C but, } -/"
+sv,B,"As/IN you/PRP know/VBP ,/, I/PRP think/VBP it/PRP 's/BES more/RBR like/IN the/DT mess/NN you/PRP make/VBP ,/, is/VBZ n't/RB it/PRP ?/.","<Laughter> As you know, I think it's more like the mess you make, isn't it? /"
+sd,B,You/PRP do/VBP n't/RB have/VB to/TO worry/VB about/IN cleaning/VBG it/PRP up/RP ./.,You don't have to worry about cleaning it up. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"because/IN it/PRP 's/BES ,/, it/PRP 's/BES out/IN there/RB ./.","because [ it's, + it's ] out there. /"
+sd,A,"You/PRP know/VBP I/PRP do/VBP n't/RB have/VB to/TO worry/VB about/IN getting/VBG stuff/NN on/IN the/DT carpet/NN except/IN when/WRB I/PRP track/VBP in/RB saw/NN dust/NN ,/,","{D You know } I don't have to worry about getting stuff on the carpet except when I track in saw dust, /"
+sd,A,"and/CC the/DT wife/NN gets/VBZ kind/RB of/RB aggravated/JJ about/IN that/DT ,/,","{C and } the wife gets kind of aggravated about that, /"
+sd,A,"but/CC then/RB ,/, I/PRP get/VBP the/DT opportunity/NN to/TO vacuum/VB ,/,","{C but } then, I get the opportunity to vacuum, /"
+sd,A,so/RB I/PRP guess/VBP I/PRP get/VBP some/DT of/IN both/DT ./.,{C so } I guess I get some of both. /
+qw,A,What/WP are/VBP some/DT of/IN your/PRP$ things/NNS you/PRP like/VBP to/TO do/VB ?/.,What are some of your things you like to do? /
+sd,B,"Well/UH ,/, when/WRB I/PRP have/VBP time/NN I/PRP do/VBP like/VB to/TO sew/VB ,/,","{D Well, } when I have time I do like to sew, /"
+sd,B,"um/UH ,/, I/PRP had/VBD been/VBN doing/VBG a/DT lot/NN of/IN crocheting/NN ./.","{F um, } I had been doing a lot of crocheting. /"
+sd,B,I/PRP make/VBP a/DT lot/NN of/IN afghans/NNS or/CC used/VBD to/TO make/VB a/DT lot/NN of/IN them/PRP ./.,I make a lot of afghans or used to make a lot of them. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"My/PRP$ mother/NN was/VBD real/RB heavy/RB into/IN crafts/NNS ,/,","My mother was real heavy into crafts, /"
+sd,B,"and/CC I/PRP would/MD help/VB her/PRP with/IN whatever/WDT she/PRP happened/VBD to/TO be/VB doing/VBG ,/,","{C and } I would help her with whatever she happened to be doing, /"
+sd,B,"and/CC then/RB ,/, she/PRP would/MD go/VB to/IN these/DT ,/, uh/UH ,/, arts/NNS and/CC crafts/NNS shows/NNS and/CC sell/VB her/PRP$ needlework/NN ./.","{C and then, } she would go to these, {F uh, } arts and crafts shows and sell her needlework. /"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,"So/RB ,/, a/DT lot/NN of/IN times/NNS I/PRP 'd/MD help/VB her/PRP with/IN that/DT ./.","{C So, } a lot of times I'd help her with that. /"
+sd,B,I/PRP have/VBP n't/RB had/VBN much/JJ opportunity/NN to/TO work/VB on/IN any/DT other/JJ craft/NN stuff/NN lately/RB,I haven't had much opportunity to work on any other craft stuff lately /
+sd,B,we/PRP 've/VBP been/VBN trying/VBG to/TO start/VB up/RP a/DT business/NN and/CC then/RB trying/VBG to/TO get/VB my/PRP$ garden/NN going/VBG ./.,we've been trying to start up a business and then trying to get my garden going. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,it/PRP 's/BES a/DT good/JJ time/NN for/IN gardening/NN ./.,it's a good time for gardening. /
+aa,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,B,it/PRP 's/HVS been/VBN beautiful/JJ this/DT last/JJ week/NN,it's been beautiful this last week /
+%,B,"but/CC ,/,","{C but, } -/"
+sd,A,"I/PRP could/MD do/VB with/IN a/DT little/RB less/JJR wind/NN ,/,","I could do with a little less wind, /"
+sd,A,"but/CC I/PRP think/VBP the/DT ,/, the/DT temperature/NN has/VBZ been/VBN pretty/RB good/JJ so/RB far/RB for/IN working/VBG outside/RB ./.","{C but } I think [ the, + the ] temperature has been pretty good so far for working outside. /"
+b,B,Yeah/UH ./.,Yeah. /
+qy,A,"Do/VBP you/PRP find/VB you/PRP do/VBP most/JJS of/IN your/PRP$ ,/, your/PRP$ ,/, uh/UH ,/, crocheting/NN or/CC your/PRP$ knit/NN work/NN around/IN Christmas/NNP time/NN ?/.","Do you find you do most of [ your, + your, ] {F uh, } crocheting or your knit work around Christmas time? /"
+sd,B,I/PRP usually/RB start/VBP in/IN the/DT fall/NN ./.,I usually start in the fall. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC my/PRP$ husband/NN says/VBZ I/PRP do/VBP it/PRP ,/, you/PRP know/VBP ,/, make/VB afghans/NNS so/RB I/PRP can/MD keep/VB my/PRP$ lap/NN warm/JJ ./.","{C And } my husband says I do it, {D you know, } make afghans so I can keep my lap warm. /"
+sd,A,"Well/UH ,/, that/DT 's/BES kind/RB of/RB what/WP my/PRP$ wife/NN says/VBZ ./.","{D Well, } that's kind of what my wife says. /"
+sd,A,"She/PRP enjoys/VBZ doing/VBG it/PRP during/IN the/DT cold/JJ weather/NN because/IN she/PRP 's/HVS always/RB got/VBN something/NN to/TO cover/VB her/PRP$ ,/, her/PRP$ legs/NNS and/CC feet/NNS with/IN while/IN she/PRP is/VBZ working/VBG on/IN it/PRP ./.","She enjoys doing it during the cold weather because she's always got something to cover [ her, + her ] legs and feet with while she is working on it. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP know/VBP it/PRP seems/VBZ like/IN ,/, she/PRP ,/,","I know it seems like, she, - /"
+sd,A,"I/PRP think/VBP she/PRP made/VBD three/CD this/DT year/NN one/CD for/IN ,/, uh/UH ,/, my/PRP$ father-in-law/NN and/CC then/RB a/DT couple/NN of/IN brothers/NNS and/CC sisters/NNS ./.","I think she made three this year one for, {F uh, } my father-in-law and then a couple of brothers and sisters. /"
+sv,A,"So/RB ,/, those/DT things/NNS they/PRP take/VBP some/DT time/NN to/TO make/VB ./.","{C So, } those things they take some time to make. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP found/VBD one/CD that/WDT 's/BES real/RB easy/JJ ,/,","I found one that's real easy, /"
+%,B,"it/PRP 's/BES ,/, it/PRP 's/BES ,/, um/UH ,/, um/UH ,/, um/UH ,/,","[ it's, + it's, ] {F um, } {F um, } {F um, } - /"
+sd,B,"shoot/UH ,/, I/PRP ca/MD n't/RB even/RB remember/VB the/DT name/NN of/IN it/PRP now/RB ,/,","shoot, I can't even remember the name of it now, /"
+sd,B,but/CC you/PRP make/VBP it/PRP in/IN strips/NNS ./.,{C but } you make it in strips. /
+sd,B,"And/CC it/PRP 's/BES real/RB easy/JJ to/TO do/VB ,/,","{C And } it's real easy to do, /"
+sd,B,and/CC it/PRP 's/BES just/RB that/IN it/PRP does/VBZ n't/RB keep/VB your/PRP$ feet/NNS quite/RB as/RB warm/JJ because/IN you/PRP do/VBP it/PRP in/IN strips/NNS like/IN that/DT,{C and } it's just that it doesn't keep your feet quite as warm because you do it in strips like that /
+%,B,"but/CC it/PRP 's/BES ,/,","{C but } it's, -/"
+bf,A,"Well/UH ,/, that/DT 's/BES kind/RB of/RB like/JJ quilting/NN ./.","{D Well, } that's kind of like quilting. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+%,A,"I/PRP think/VBP tha-/DT ,/, --/:","I think tha-, -- -/"
+sd,B,Mile/NNP a/DT Minute/NNP ./.,Mile a Minute. /
+sd,B,That/DT 's/BES the/DT name/NN of/IN it/PRP ./.,That's the name of it. /
+b^m,A,--/: Mile/NNP a/DT Minute/NNP ./.,-- Mile a Minute. /
+sd,B,Mile/NNP a/DT Minute/NNP ./.,Mile a Minute. /
+sd,A,"Well/UH ,/, I/PRP 'm/VBP not/RB sure/JJ what/WP she/PRP does/VBZ","{D Well, } I'm not sure what she does /"
+%,A,"I/PRP ,/, I/PRP ,/,","[ I, + I, ] - /"
+sd,A,"first/JJ thing/NN that/WDT comes/VBZ to/IN mind/NN is/VBZ some/DT kind/NN of/IN chain/NN stitch/NN because/IN she/PRP starts/VBZ and/CC goes/VBZ all/PDT the/DT way/NN across/RB ,/, you/PRP know/VBP ,/, back/RB and/CC forth/RB until/IN she/PRP winds/VBZ up/RP with/IN this/DT big/JJ piece/NN of/IN ,/, of/IN afghan/NN ./.","first thing that comes to mind is some kind of chain stitch because she starts and goes all the way across, {D you know, } back and forth until she winds up with this big piece [ of, + of ] afghan. /"
+qy,A,"I/PRP guess/VBP that/DT is/VBZ your/PRP$ standard/JJ knitting/NN ,/, is/VBZ n't/RB it/PRP ?/.","I guess that is your standard knitting, isn't it? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+ny,B,yeah/UH ./.,yeah. /
+sd,B,"Usually/RB single/JJ crochet/NN would/MD ,/, is/VBZ ,/, is/VBZ always/RB starts/VBZ it/PRP off/RP ./.","Usually single crochet [ [ [ would, + is, ] + is ] + always starts ] it off. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP know/VBP ,/,","I know, /"
+ad,B,"If/IN we/PRP have/VBP a/DT problem/NN with/IN our/PRP$ connection/NN and/CC get/VBP disconnected/VBN some/DT time/NN or/CC other/JJ ,/, do/VBP n't/RB worry/VB about/IN it/PRP ./.","If we have a problem with our connection and get disconnected some time or other, don't worry about it. /"
+sd,B,"We/PRP have/VBP a/DT ,/, a/DT very/RB small/JJ phone/NN company/NN down/IN here/RB ./.","We have [ a, + a ] very small phone company down here. /"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,B,And/CC my/PRP$ husband/NN says/VBZ that/DT 's/BES called/VBN rinky-dink/JJ ./.,{C And } <cough> my husband says that's called rinky-dink <laughter>. /
+bf,A,Instead/RB of/IN call/NN waiting/NN or/CC call/NN anything/NN else/RB ./.,Instead of call waiting or call anything else. /
+ar,B,"No/UH ,/,","No, /"
+ar,B,no/UH ./.,no. /
+x,A,./.,<Throat_clearing>.
+sd,B,We/PRP ca/MD n't/RB have/VB that/DT down/IN here/RB ./.,We can't have that down here. /
+sd,B,We/PRP get/VBP disconnected/VBN all/PDT the/DT time/NN ./.,We get disconnected all the time. /
+sv,A,"Well/UH ,/, I/PRP guess/VBP that/DT 's/BES ,/, that/DT 's/BES one/CD way/NN to/TO end/VB a/DT conversation/NN ./.","{D Well, } I guess [ that's, + that's ] one way to end a conversation. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"well/UH ,/, it/PRP gets/VBZ a/DT little/RB aggravating/JJ ./.","{D well, } it gets a little aggravating. /"
+sd,B,I/PRP 've/VBP got/VBN kids/NNS all/DT over/IN the/DT United/NNP States/NNPS,I've got kids all over the United States /
+sd,B,"and/CC ,/, and/CC ,/, you/PRP know/VBP ,/, sometimes/RB they/PRP get/VBP disconnected/VBN when/WRB I/PRP 'm/VBP talking/VBG to/IN them/PRP ./.","[ {C and, } + {C and, } ] {D you know, } sometimes they get disconnected when I'm talking to them. /"
+b,A,Yeah/UH ./.,Yeah. /
+%,A,"What/WP ,/,","What, - /"
+qy,A,have/VBP you/PRP started/VBN your/PRP$ garden/NN yet/RB ?/.,have you started your garden yet? /
+ny,B,Yes/UH ./.,Yes. /
+sd,B,"We/PRP planted/VBD ,/, um/UH ,/, potatoes/NNS and/CC onions/NNS and/CC bell/NN peppers/NNS ./.","We planted, {F um, } potatoes and onions and bell peppers. /"
+ba,A,"Um/UH ,/, boy/UH ./.","{F Um, } boy. /"
+t1,B,"Uh/UH ,/, what/WP else/RB did/VBD I/PRP get/VB in/IN there/RB ,/,","{F Uh, } what else did I get in there, /"
+sd,B,and/CC jalapeno/NN peppers/NNS ./.,and jalapeno peppers. /
+ba,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sv,A,always/RB got/VBD to/TO have/VB those/DT ./.,always got to have those. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP think/VBP I/PRP had/VBD four/CD ,/, uh/UH ,/, jalapeno/NN plants/NNS last/JJ year/NN ./.","I think I had four, {F uh, } jalapeno plants last year. /"
+sd,A,"I/PRP think/VBP one/CD of/IN them/PRP died/VBD ,/,","I think one of them died, /"
+sd,A,"but/CC I/PRP ,/, I/PRP 've/VBP got/VBN ,/, s-/XX ,/, I/PRP 've/VBP put/VBN them/PRP ,/, I/PRP chop/VBP them/PRP up/RP and/CC put/VBP them/PRP in/IN jars/NNS and/CC usually/RB give/VBP them/PRP away/RB because/IN I/PRP ,/, there/EX is/VBZ no/DT way/NN that/IN I/PRP can/MD eat/VB all/DT of/IN those/DT","{C but } [ [ [ I, + I've got, s-, ] + I've put them, ] + I chop them up and put them ] in jars and usually give them away because [ I, + there is no way that I ] can eat all of those /"
+sd,A,"nobody/NN else/RB in/IN the/DT family/NN likes/VBZ them/PRP ,/,","nobody else in the family likes them, /"
+sd,A,but/CC always/RB got/VBD to/IN the/DT keep/VB those/DT planted/VBN ./.,{C but } always got to the keep those planted. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"oh/UH ,/, my/PRP$ husband/NN does/VBZ n't/RB like/VB them/PRP either/RB ,/,","{F oh, } my husband doesn't like them either, /"
+sd,B,but/CC I/PRP can/MD always/RB give/VB them/PRP away/RB ./.,{C but } I can always give them away. /
+sd,A,"Well/UH ,/, that/DT 's/BES kind/RB of/RB the/DT way/NN I/PRP am/VBP ,/, um/UH ./.","{D Well, } that's kind of the way I am, {F um. } /"
+sv,B,Besides/IN they/PRP 're/VBP fun/JJ to/TO grow/VB ./.,Besides they're fun to grow. /
+sd,A,"I/PRP planted/VBD ,/, uh/UH ,/, zucchini/NNS last/JJ year/NN ./.","I planted, {F uh, } zucchini last year. /"
+sd,A,"Uh/UH ,/, I/PRP planted/VBD four/CD hills/NNS of/IN them/PRP ./.","{F Uh, } I planted four hills of them. /"
+sd,A,"I/PRP think/VBP I/PRP had/VBD three/CD or/CC four/CD seeds/NNS in/IN each/DT one/CD of/IN them/PRP ,/,","I think I had three or four seeds in each one of them, /"
+sd,A,and/CC those/DT things/NNS just/RB flat/JJ took/VBD over/RP ./.,{C and } those things just flat took over. /
+sd,A,"Um/UH ,/, it/PRP was/VBD n't/RB until/IN late/RB ,/, I/PRP guess/VBP in/IN the/DT summer/NN ,/,","{F Um, } it wasn't until late, I guess in the summer, /"
+sd,A,"maybe/RB it/PRP was/VBD because/IN it/PRP was/VBD too/RB dry/JJ ,/,","maybe it was because it was too dry, /"
+sd,A,"they/PRP finally/RB started/VBD making/VBG zucchini/NNS ,/,","they finally started making zucchini, /"
+sd,A,"and/CC I/PRP 'm/VBP not/RB sure/JJ when/WRB a/DT good/JJ time/NN to/TO plant/VB those/DT is/VBZ ,/, if/IN they/PRP should/MD be/VB planted/VBN early/RB or/CC later/RB ./.","{C and } I'm not sure when a good time to plant those is, if they should be planted early or later. /"
+sd,A,"It/PRP seems/VBZ like/IN all/DT I/PRP got/VBD was/VBD ,/,","It seems like all I got was, -/"
+sd,B,Supposedly/RB after/IN the/DT soil/NN warms/VBZ up/RP ./.,Supposedly after the soil warms up. /
+aa,A,"I/PRP would/MD think/VB so/RB ,/, um/UH ,/,","I would think so, {F um, } /"
+sd,A,"seems/VBZ like/IN these/DT all/DT ,/, they/PRP all/DT went/VBD to/IN ,/, uh/UH ,/, to/IN leaf/VB ,/,","seems like [ these all, + they all ] went [ to, + {F uh, } to ] leaf, /"
+sd,A,and/CC it/PRP was/VBD n't/RB until/IN late/JJ in/IN the/DT summer/NN they/PRP started/VBD making/VBG fruit/NN ./.,{C and } it wasn't until late in the summer they started making fruit. /
+sd,A,"So/RB ,/, I/PRP do/VBP n't/RB know/VB if/IN I/PRP ,/,","{C So, } I don't know if I, - /"
+sd,A,Mom/NNP would/MD say/VB you/PRP planted/VBD them/PRP in/IN the/DT wrong/JJ sign/NN of/IN the/DT moon/NN ./.,Mom would say you planted them in the wrong sign of the moon.
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"You/PRP know/VBP ,/,","{D You know, } /"
+sd,A,"but/CC I/PRP do/VBP n't/RB ,/, I/PRP had/VBD n't/RB looked/VBN at/IN a/DT farmers/NNS almanac/NN to/TO find/VB out/RP when/WRB a/DT good/JJ time/NN for/IN zucchini/NNS is/VBZ ./.","{C but } [ I don't, + I hadn't ] looked at a farmers almanac to find out when a good time for zucchini is. /"
+sd,B,"I/PRP ,/, I/PRP doubt/VBP if/IN zucchini/NNS is/VBZ in/IN there/RB ./.","<Laughter> [ I, + I ] doubt if zucchini is in there. /"
+aap_am,A,"It/PRP may/MD not/RB be/VB ,/,","It may not be, /"
+aap_am,A,it/PRP may/MD not/RB be/VB ./.,it may not be. /
+sv,B,"Probably/RB the/DT same/JJ time/NN the/DT ,/, the/DT other/JJ squash/NN is/VBZ though/RB ./.","Probably the same time [ the, + the ] other squash is though. /"
+qy,A,You/PRP think/VBP they/PRP 're/VBP later/RB in/IN the/DT year/NN ?/.,You think they're later in the year? /
+ny,B,Yeah/UH ./.,Yeah. /
+%,A,Uh/UH ./.,{F Uh. } /
+sd,B,About/IN the/DT same/JJ time/NN that/WDT you/PRP plant/VBP okra/NN because/IN it/PRP 's/BES supposed/JJ to/TO be/VB warm/JJ ./.,About the same time that you plant okra because it's supposed to be warm. /
+aa,A,"Well/UH ,/, that/DT 's/BES true/JJ ./.","{D Well, } that's true. /"
+sd,A,"Most/RBS of/IN the/DT okra/NN that/WDT is/VBZ growing/VBG around/RB higher/JJR is/VBZ ,/, is/VBZ ,/, uh/UH ,/, later/JJ okra/NN ./.","Most of the okra that is growing around higher [ is, + is, ] {F uh, } later okra. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Well/UH that/DT 's/BES about/RB ,/, um/UH ,/,","Well that's about, {F um, } -/"
+sd,B,"We/PRP decided/VBD this/DT year/NN ,/,","We decided this year, -/"
+ad,A,Go/VB ahead/RB ./.,Go ahead. /
+fa,B,"I/PRP 'm/VBP sorry/JJ ,/,","I'm sorry, /"
+ad,B,go/VB ahead/RB ./.,go ahead. /
+sd,A,"Well/UH ,/, I/PRP was/VBD just/RB going/VBG to/TO say/VB ,/, it/PRP 's/BES a/DT little/JJ over/IN six/CD or/CC seven/CD minutes/NNS ./.","{D Well, } I was just going to say, it's a little over six or seven minutes. /"
+ad,A,"So/RB whenever/WRB you/PRP feel/VBP comfortable/JJ about/IN concluding/VBG ,/, well/UH ,/, I/PRP 'm/VBP ,/,","{C So } whenever you feel comfortable about concluding, {D well, } I'm, - /"
+ad,A,that/WDT would/MD be/VB fine/JJ ./.,that would be fine. /
+sd,B,"Oh/UH ,/, just/RB any/DT time/NN ./.","{F Oh, } just any time. /"
+aa,A,"Well/UH ,/, all/RB right/JJ ./.","{D Well, } all right. /"
+sd,A,I/PRP guess/VBP we/PRP 'll/MD call/VB this/DT one/CD quits/VBZ,I guess we'll call this one quits /
+ft,A,"an/DT ,/, and/CC thanks/NNS for/IN participating/VBG ./.","[ {C an, } + {C and } ] thanks for participating. /"
+aa,B,All/DT right/JJ ./.,All right. /
+fc,B,"Well/UH ,/, I/PRP 've/VBP enjoyed/VBN talking/VBG to/IN you/PRP ./.","{D Well, } I've enjoyed talking to you. /"
+fc,A,"All/RB right/JJ ,/,","All right, /"
+fc,A,have/VB a/DT good/JJ time/NN ./.,have a good time. /
+fc,B,Okay/UH ./.,Okay. /
+fc,B,Bye/UH ./.,Bye. /
+fc,A,Bye/UH ./.,Bye. /

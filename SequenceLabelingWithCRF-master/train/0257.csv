@@ -1,0 +1,219 @@
+act_tag,speaker,pos,text
+sd,A,"Uh/UH ,/, we/PRP are/VBP to/TO discuss/VB air/NN pollution/NN and/CC ,/, uh/UH ,/, what/WP we/PRP think/VBP the/DT causes/NNS are/VBP ./.","{F Uh, } we are to discuss air pollution and, {F uh, } what we think the causes are./"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC I/PRP probably/RB would/MD ,/, uh/UH ,/, target/VB ,/, uh/UH ,/,","{C And } I probably would, {F uh, } target, {F uh, }"
+x,B,,<Music>.
++,A,industry/NN as/IN being/VBG number/NN one/CD polluter/NN ./.,industry as being number one polluter. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,that/DT 's/BES probably/RB a/DT major/JJ one/NN ./.,that's probably <child_talking> a major one. /
+sv,B,"I/PRP think/VBP ,/, uh/UH ,/, individually/RB ,/, uh/UH ,/, just/RB by/IN the/DT vast/JJ number/NN of/IN people/NNS there/EX are/VBP ,/, there/EX 's/BES I/PRP think/VBP cars/NNS are/VBP also/RB a/DT major/JJ contributor/NN to/IN it/PRP ./.","I think, {F uh, } individually, {F uh, } just by the vast number of people there are, [ there's + ] I think cars are also a major contributor to it. /"
+arp_nd,A,"Well/UH ,/, vehicles/NNS","{D Well, } vehicles /"
+%,A,"and/CC ,/, and/CC ,/,","[ {C and, } + {C and, } ] -/"
+x,B,,<Child_talking>.
+aa,A,yes/UH ./.,yes. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b^m,B,vehicles/NNS ./.,vehicles </child_talking>. /
+aa,A,"Right/UH ,/,","Right, /"
+sd,A,"because/IN ,/, uh/UH ,/, there/EX 's/BES a/DT lot/NN of/IN commercial/JJ vehicles/NNS out/IN there/RB ,/,","{C because, } {F uh, } there's a lot of commercial vehicles out there,"
+x,B,,<<Music gets louder>>.
++,A,"especially/RB those/DT ,/, the/DT big/JJ rigs/NNS like/IN the/DT busses/NNS and/CC ,/, um/UH ,/,","especially [ those, + ] the big rigs like the busses and, {F um, }"
+x,B,,<Child_talking>.
++,A,"the/DT big/JJ ,/,","the big,"
+b,B,Huh/UH ./.,(( Huh )) . /
++,A,"uh/UH ,/, eighteen/CD wheelers/NNS and/CC so/RB forth/RB ./.","{F uh, } eighteen wheelers and so forth. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+sv,A,"I/PRP think/VBP they/PRP would/MD generate/VB probably/RB ,/, uh/UH ,/, one/CD of/IN them/PRP would/MD probably/RB generate/VB enough/RB for/IN three/CD cars/NNS ./.","I think [ they would generate probably, + {F uh, } one of them would probably generate ] enough for three cars. /"
+x,B,,<Noise> <laughter>.
+x,A,,<Laughter>.
+x,B,,<Child_talking>.
+%,A,"But/CC that/DT 's/BES not/RB ,/,","{C But } that's not, - /"
+sv,A,"and/CC I/PRP think/VBP it/PRP can/MD be/VB resolved/VBN if/IN ,/, uh/UH ,/, if/IN they/PRP really/RB let/VBP go/RP with/IN ,/,","{C and } I think it can be resolved [ if, + {F uh, } if ] they really let go with,"
+t3,B,"Just/RB a/DT minute/NN ,/, I/PRP 'm/VBP on/IN the/DT phone/NN ./.","<<Faint and muffled, talking to child>>. Just a minute, I'm on the phone </music>. /"
++,A,"the/DT technology/NN that/WDT they/PRP have/VBP at/IN ,/, uh/UH ,/, at/IN their/PRP$ hand/NN ,/,","the technology that they have [ at, + {F uh, } at ] their hand, /"
+sv,A,and/CC they/PRP have/VBP n't/RB released/VBN it/PRP yet/RB ./.,{C and } they haven't released it yet. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"I/PRP think/VBP there/EX 's/BES a/DT lot/NN of/IN hold/NN back/RB ,/, uh/UH ,/, because/IN ,/,","I think there's a lot of hold back, {F uh, } because,"
+x,B,,<Child_talking>.
++,A,"of/IN ,/, uh/UH ,/, oh/UH ,/, priorities/NNS that/WDT they/PRP have/VBP ,/,","of, {F uh, } {F oh, } priorities that they have,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"you/PRP know/VBP ,/,","{D you know, } /"
+x,B,,<Child_yelling>.
+%,A,"and/CC ,/, uh/UH ,/, it/PRP 's/BES ,/,","{C and, } {F uh, } it's, -/"
+%,B,"Well/UH ,/, it/PRP ,/,","(( {D Well, } it )) , -/"
+sd,A,You/PRP have/VBP some/DT children/NNS ./.,You have some children. /
+aa,B,Yes/UH ./.,</Child_yelling>. Yes <laughter>. /
+x,A,,<Laughter>.
+sd,B,"I/PRP have/VBP ,/, I/PRP have/VBP five/CD in/IN the/DT kitchen/NN at/IN the/DT moment/NN ./.","[ I have, + I have ] five in the kitchen at the moment. /"
+t3,B,"You/PRP need/VBP to/TO shut/VB the/DT door/NN ,/, please/VB ./.","<<Talking to children.>> You need to shut the door, please. /"
+t3,B,Shut/VB the/DT door/NN right/RB now/RB ./.,Shut the door right now. /
+t3,B,We/PRP have/VBP the/DT air/NN conditioner/NN running/VBG ./.,We have the air conditioner running. /
+t3,B,What/WP do/VBP you/PRP need/VB ?/.,What do you need? /
+t3,B,./. Hurry/VB ./.,<Music>. Hurry. /
+t3,B,I/PRP 'm/VBP on/IN the/DT phone/NN ./.,I'm on the phone <child_talking>. /
+t3,B,"Yes/UH ,/,","Yes, /"
+t3,B,you/PRP may/MD ./.,you may. /
+sd,B,And/CC they/PRP keep/VBP turning/VBG the/DT tape/NN recorder/NN up/RP besides/RB ./.,{C And } they keep turning the tape recorder up besides <laughter> </music>. /
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay <laughter>. /"
+x,B,,<Child_yelling>.
+qy,A,"Do/VBP you/PRP have/VB ,/, do/VBP you/PRP watch/VB children/NNS","[ Do you have, + do you ] watch children /"
+qrr,A,"or/CC do/VBP you/PRP ,/,","{C or } do you, -/"
+sd,B,"Um/UH ,/, I/PRP have/VBP three/CD of/IN my/PRP$ own/JJ","</Child_yelling> {F Um, } I have three of <child_laughing> my own /"
+sd,B,"and/CC I/PRP have/VBP ,/, uh/UH ,/, two/CD that/WDT I/PRP 'm/VBP tending/VBG for/IN the/DT summer/NN ./.","{C and } I have, {F uh, } two that I'm tending for the summer."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"Off/RB and/CC on/RB ,/,","Off and on, /"
+%,B,"so/RB ,/,","{C so, } -/"
+ba,A,"Well/UH ,/, that/DT 's/BES interesting/JJ ./.","{D Well, } that's interesting. /"
+x,B,,<Child_laughing>.
+qy,A,"Um/UH ,/, is/VBZ there/EX anything/NN ,/,","{F Um, } is there anything, -/"
+sd,B,They/PRP cause/VBP more/JJR noise/NN pollution/NN than/IN air/NN pollution/NN ./.,They cause more noise pollution than air pollution <laughter>. /
+sv,A,"Well/UH ,/, temporarily/RB they/PRP do/VBP ./.","<Laughter> {D Well, } temporarily they do. /"
+aa,B,"That/DT 's/BES right/JJ ,/,","That's right, /"
+aa,B,that/DT 's/BES right/JJ ./.,that's right. /
+sv,A,"Then/RB we/PRP get/VBP out/IN of/IN that/DT phase/NN ,/,","<Laughter> Then we get out of that phase,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,soon/RB enough/RB ./.,soon enough. /
+sv,B,"But/CC ,/, um/UH ,/, I/PRP think/VBP another/DT ,/,","{C But, } {F um, } I think another, <child_yelling> - /"
+sd,B,"you/PRP can/MD tell/VB when/WRB you/PRP go/VBP around/IN cities/NNS ,/, you/PRP can/MD smell/VB specific/JJ things/NNS from/IN ,/, from/IN ,/, specific/JJ industries/NNS ./.","you can tell when you go around cities, you can smell specific things [ from, + <child_yelling> from, ] <child_yelling> specific industries. /"
+sd,A,"Oh/UH ,/, yes/UH ./.","{F Oh, } yes. /"
+sd,B,"I/PRP remember/VBP being/VBG ,/,","I remember being, - /"
+sd,B,"I/PRP ,/, I/PRP grew/VBD up/RP in/IN New/NNP Jersey/NNP --/:","[ I, + I ] grew up in <child_talking> New Jersey -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC ,/, uh/UH ,/, I/PRP can/MD remember/VB the/DT smell/NN of/IN Newark/NNP vividly/RB ./.","-- {C and, } {F uh, } I can remember the smell of Newark <music> vividly <laughter>. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,sure/UH ./.,sure. /
+sv,B,"And/CC it/PRP 's/BES the/DT type/NN of/IN industry/NN ,/, you/PRP know/VBP ,/, which/WDT obviously/RB if/IN you/PRP can/MD smell/VB it/PRP ,/, it/PRP 's/BES in/IN the/DT air/NN ./.","<Laughter> {C And } it's the type of industry, {D you know, } which obviously if you can smell it, it's in the air. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Well/UH ,/, I/PRP know/VBP ,/, uh/UH ,/, uh/UH ,/, in/IN Michigan/NNP ,/, uh/UH ,/, the/DT way/NN they/PRP used/VBD to/TO take/VB care/NN of/IN the/DT trash/NN is/VBZ they/PRP would/MD incinerate/VB it/PRP ,/,","{D Well, } I know, {F uh, } {F uh, } in Michigan, {F uh, } the way they used to take care of the trash is they would incinerate it, /"
+sd,A,and/CC the/DT fumes/NNS from/IN the/DT incineration/NN was/VBD a/DT terrible/JJ pollutant/NN to/IN the/DT air/NN ./.,{C and } the fumes from the incineration was a terrible pollutant to the air. /
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"And/CC ,/, um/UH ,/, of/IN course/NN ,/, now/RB ,/,","{C And, } {F um, } of course, now, -/"
+sv,B,"Well/UH ,/, people/NNS think/VBP you/PRP burn/VBP it/PRP ,/, it/PRP 's/BES gone/JJ ,/,","{D Well, } people think you burn it, it's gone, /"
+sd,B,but/CC it/PRP 's/BES not/RB gone/JJ ./.,{C but } it's not gone. /
+aa,A,"No/UH ,/,","No, /"
+%,A,"and/CC when/WRB they/PRP ,/,","{C and } when they, -/"
+x,B,,</Music>.
+sd,A,and/CC you/PRP bury/VBP it/PRP,{C and } you bury it /
+sv,A,"and/CC it/PRP 's/BES not/RB gone/JJ either/RB ,/, because/IN it/PRP has/VBZ untold/JJ ramifications/NNS ./.","{C and } it's not gone either, because it has untold ramifications. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC ,/, uh/UH ,/,","[ {C And, } + {F uh, }"
+sd,B,Then/RB it/PRP just/RB gets/VBZ into/IN the/DT soil/NN and/CC into/IN the/DT water/NN ./.,Then it just gets into the soil and into the water <music>. /
++,A,"And/CC it/PRP gets/VBZ into/IN ,/, into/IN people/NNS ,/,","{C And } ] it gets [ into, + into ] people,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"you/PRP know/VBP ,/, which/WDT is/VBZ ,/, uh/UH ,/, the/DT ,/, the/DT most/RBS important/JJ ,/, um/UH ,/, resource/NN that/WDT we/PRP have/VBP is/VBZ people/NNS ,/,","{D you know, } which is, {F uh, } [ the, + the ] most important, {F um, } resource that we have is people, /"
+sv,A,"and/CC they/PRP 're/VBP ,/, and/CC they/PRP 're/VBP destroying/VBG us/PRP ,/,","[ {C and } they're, + {C and } they're ] destroying us, /"
+sv,A,"they/PRP ,/,","they,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,really/RB are/VBP ./.,really are. /
+sv,B,"We/PRP really/RB have/VBP to/TO do/VB more/JJR ,/,","We really have to do more, /"
+sv,A,"So/RB I/PRP think/VBP the/DT cockroach/NN will/MD evolve/VB ,/, uh/UH ,/, sa-/RB ,/, safely/RB ./.","{C So } I think the cockroach will evolve, {F uh, } [ sa-, + safely ] <laughter>. /"
+x,B,,<Laughter>.
+h,A,So/RB they/PRP say/VBP ./.,So they say <laughter>. /
+sv,B,I/PRP think/VBP we/PRP 've/VBP got/VBN to/TO do/VB more/JJR with/IN the/DT recycling/NN ./.,I think we've got to do more with the recycling. /
+%,B,"That/DT 's/BES ,/,","That's, - /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP really/RB glad/JJ to/TO see/VB that/IN there/EX 's/BES more/JJR of/IN that/DT happening/VBG ./.","[ I'm, + I'm ] really glad to see that there's more of that happening. /"
+aa,A,"Yes/UH ,/,","Yes, /"
+sv,A,but/CC there/EX 's/BES not/RB enough/RB ./.,{C but } there's not enough. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,And/CC we/PRP need/VBP expert/NN cooperation/NN ./.,{C And } we need expert cooperation. /
+%,B,"Well/UH ,/, it/PRP 's/BES a/DT ,/,","{D Well, } it's a, - /"
+%,B,"we/PRP 're/VBP getting/VBG ,/,","we're getting, - /"
+sv,B,"at/IN least/JJS they/PRP 're/VBP starting/VBG ,/, you/PRP know/VBP ./.","at least they're starting, {D you know. } /"
+aa,A,Yeah/UH ./.,Yeah. /
+sv,A,"Education/NN of/IN the/DT ,/,","[ Education of the, +"
+sv,B,So/RB at/IN least/JJS they/PRP 're/VBP moving/VBG that/DT direction/NN ./.,{C So } at least they're moving that direction. /
++,A,"Education/NN of/IN the/DT people/NNS is/VBZ primary/JJ ,/, I/PRP would/MD think/VB ./.","Education of the ] people is primary, I would think. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC ,/, uh/UH ,/, and/CC we/PRP 're/VBP hard/JJ to/TO teach/VB ./.","[ {C And, } + {F uh, } {C and } ] we're hard to teach. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,B,"Well/UH ,/,","{D Well, } -/"
+sv,A,We/PRP are/VBP hard/JJ to/TO teach/VB ./.,We are hard to teach. /
+sv,B,"it/PRP 's/BES going/VBG to/TO ,/, it/PRP 's/BES probably/RB going/VBG to/TO be/VB a/DT generation/NN or/CC two/CD before/RB ,/,","[ it's going to, + it's probably going to ] be a generation or two [ before, +"
+aa,A,"Absolutely/UH ,/,","Absolutely, /"
+aa,A,yeah/UH ./.,yeah. /
++,B,"before/IN it/PRP 's/BES really/RB going/VBG ,/,","before ] it's really going,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"very/RB well/RB ,/, because/IN now/RB the/DT adults/NNS are/VBP more/RBR aware/JJ of/IN it/PRP ,/,","very well, because now the adults are more aware of it, /"
+sv,B,"and/CC the/DT children/NNS are/VBP being/VBG taught/VBN in/IN the/DT schools/NNS more/JJR ,/, it/PRP 'll/MD be/VB ,/, you/PRP know/VBP ,/, on/IN down/IN the/DT road/NN this/DT is/VBZ going/VBG to/TO be/VB passed/VBN on/RP ,/, which/WDT is/VBZ good/JJ ./.","{C and } the children are being taught in the schools [ more, + ] it'll be, {D you know, } on down the road this is going to be passed on, which is good. /"
+aa,A,"Absolutely/UH ,/,","Absolutely, /"
+aa,A,yes/UH ./.,yes. /
+sv,A,"Uh/UH ,/, of/IN course/NN ,/, uh/UH ,/, we/PRP would/MD like/VB to/TO see/VB it/PRP accelerated/VBN because/IN ,/, uh/UH ,/, of/IN the/DT critical/JJ nature/NN of/IN it/PRP ./.","{F Uh, } of course, {F uh, } we would like to see it accelerated because, {F uh, } of the critical nature of it. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"The/DT ,/, the/DT learning/NN of/IN it/PRP and/CC the/DT ,/,","[ The, + the ] learning of it and the, - /"
+sv,A,"just/RB to/TO ,/, um/UH ,/, think/VBP that/DT way/NN ,/, we/PRP have/VBP to/TO be/VB in/IN that/DT thought/NN pattern/NN and/CC able/JJ to/TO ,/, um/UH ,/, motivate/VB ourselves/PRP to/TO ,/, um/UH ,/, uh/UH ,/, do/VBP what/WP is/VBZ right/JJ for/IN the/DT atmosphere/NN ./.","just to, {F um, } think that way, we have to be in that thought pattern and able to, {F um, } motivate ourselves to, {F um, } {F uh, } do what is right for the atmosphere. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Um/UH ,/, I/PRP think/VBP we/PRP 're/VBP all/DT contributors/NNS ./.","{F Um, } I think we're all contributors. /"
+sv,A,"I/PRP mean/VBP ,/, every/DT human/JJ being/NN that/IN lives/VBZ is/VBZ a/DT contributor/NN ,/,","{E I mean, } every human being that lives is a contributor,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"to/IN pollution/NN ,/,","to pollution, /"
+%,A,"so/RB ,/,","{C so, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,we/PRP just/RB um/UH ./.,we just <<faint>> {F um. } -/
+aa,B,"I/PRP think/VBP you/PRP 're/VBP right/JJ ,/,","I think you're right, /"
+sv,B,education/NN is/VBZ a/DT big/JJ thing/NN --/:,education is a big thing --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: you/PRP know/VBP ,/,","-- {D you know, } /"
+sv,B,"and/CC as/IN we/PRP educate/VB them/PRP individually/RB what/WP they/PRP can/MD do/VB ,/, people/NNS become/VBP more/RBR aware/JJ of/IN the/DT things/NNS in/IN industry/NN too/RB that/WDT ,/, that/WDT are/VBP causing/VBG problems/NNS","{C and } as we educate them individually what they can do, </music> people become more aware of the things in industry too [ that, + that ] are causing problems /"
+sv,B,"and/CC ,/, and/CC I/PRP think/VBP that/IN they/PRP 'll/MD grad-/RB ,/, they/PRP 'll/MD work/VB towards/IN solving/VBG those/DT problems/NNS more/RBR too/RB ./. Um/UH ,/,","[ {C and, } + {C and } ] I think that [ they'll grad-, + they'll work ] towards solving those problems more too. {F Um, } /"
+sv,A,"Well/UH ,/, hopefully/RB it/PRP can/MD be/VB resolved/VBN within/IN a/DT shorter/JJR time/NN frame/NN than/IN we/PRP have/VBP seen/VBN it/PRP done/VBN in/IN the/DT past/NN ./.","{D Well, } hopefully it can be resolved within a shorter time frame than we have seen it done in the past."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"That/IN the/DT time/NN frame/NN for/IN cleaning/VBG up/RP our/PRP$ air/NN and/CC our/PRP$ ,/, and/CC our/PRP$ ,/, um/UH ,/, land/NN ,/, you/PRP know/VBP ,/, which/WDT ,/, uh/UH ,/, we/PRP get/VBP our/PRP$ nutrients/NNS from/RB ./.","That the time frame for cleaning up our air [ and our, + and our, ] {F um, } <lipsmack> land, {D you know, } which, {F uh, } we get our nutrients from. -/"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"You/PRP know/VBP ,/, I/PRP mean/VBP ,/,","{D You know, } {E I mean, }"
+x,B,,<Child_yelling>.
++,A,everything/NN goes/VBZ back/RB to/IN the/DT land/NN ./.,everything goes back to the land. /
+t3,B,Just/RB a/DT minute/NN and/CC I/PRP 'll/MD turn/VB it/PRP up/RP ./.,Just a minute and I'll turn it up. /
+t3,B,"I/PRP 'll/MD turn/VB it/PRP up/RP in/IN a/DT minute/NN ,/, honey/NN ,/, when/WRB I/PRP 'm/VBP done/VBN ./.","I'll turn it up in a minute, {A honey, } when I'm done. /"
+sv,A,"So/RB um/UH ,/, it/PRP 's/BES just/RB ,/, um/UH ,/, very/RB critical/JJ ,/, I/PRP think/VBP at/IN this/DT point/NN to/TO ,/,","{C So } <breathing> {F um, } it's just, {F um, } very critical, I think at this point to,"
+b,B,Uh-huh/UH,Uh-huh /
+x,B,./.,<music>.
++,A,"uh/UH ,/, get/VB that/DT through/IN to/IN the/DT people/NNS and/CC get/VB us/PRP educated/VBN ./.","{F uh, } get that through to the people and get us educated. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"Well/UH ,/, I/PRP think/VBP science/NN has/VBZ come/VBN a/DT long/JJ way/NN to/IN making/VBG it/PRP so/IN that/IN it/PRP 's/BES possible/JJ to/TO find/VB ways/NNS to/TO solve/VB the/DT problem/NN ./.","{D Well, } I think science has come a long way to making it so that it's possible to find ways to solve the problem </music>. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"Um/UH ,/,","<Popping>. {F Um, } /"
+sd,A,"I/PRP ,/, I/PRP do/VBP n't/RB know/VB if/IN they/PRP offer/VBP classes/NNS in/IN ,/, uh/UH ,/, the/DT ,/, uh/UH ,/, in/IN the/DT grade/NN school/NN ,/,","[ I, + I ] don't know if they offer classes [ in, {F uh, } the, + {F uh, } in the ] grade school,"
+x,B,,</Popping>.
++,A,"uh/UH ,/, uh/UH ,/, subjecting/NN ./.","{F uh, } {F uh, } subjecting. /"
+sd,B,I/PRP think/VBP they/PRP teach/VB it/PRP a/DT lot/NN in/IN science/NN ./.,I think they teach it a lot in science <popping>. /
+b^m,A,"In/IN science/NN ,/,","In science, /"
+bk,A,okay/UH ./.,okay. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP would/MD think/VB that/IN that/DT 's/BES where/WRB it/PRP would/MD come/VB through/RB ./.,I would think that that's where it would come through. /
+qw,A,What/WDT grade/NN level/NN would/MD that/DT be/VB ?/.,What grade level would that be? /
+qy,A,"Would/MD that/WDT be/VB ,/, um/UH ,/, perhaps/RB ,/,","Would that be, {F um, } perhaps,"
+sd,B,"I/PRP ,/,","[ I, +"
++,A,"the/DT first/JJ grade/NN level/NN ,/, which/WDT would/MD be/VB ,/,","the first grade level, which would be, -/"
++,B,I/PRP think/VBP they/PRP 're/VBP kind/RB of/RB getting/VBG it/PRP in/IN all/DT different/JJ grades/NNS ./.,I ] think they're kind of getting it in all different grades. /
+qy,A,"Well/UH ,/, I/PRP mean/VBP ,/, are/VBP they/PRP starting/VBG ,/, though/RB ,/, at/IN ,/, at/IN ,/, with/IN the/DT children/NNS that/WDT are/VBP so/RB ,/,","{D Well, } {E I mean, } are they starting, though, [ [ at, + at, ] + ] with the children that are so, /"
+sv,A,their/PRP$ little/JJ minds/NNS are/VBP like/IN sponges/NNS,their little minds are like sponges /
+sv,A,"and/CC they/PRP can/MD really/RB ,/,","{C and } they can really <breathing>,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"uh/UH ,/, relate/VB to/IN that/DT ./.","{F uh, } relate to that. /"
+sd,B,I/PRP think/VBP they/PRP are/VBP starting/VBG probably/RB in/IN the/DT first/JJ grade/NN ./.,</Popping> I think they are starting probably in the first grade. /
+sd,B,"They/PRP 're/VBP ,/, you/PRP know/VBP ,/, they/PRP 're/VBP hearing/VBG somewhat/RB about/IN it/PRP ./.","[ They're, + {D you know, } they're ] hearing somewhat about it. /"
+sd,B,"Um/UH ,/, I/PRP know/VBP ,/, uh/UH ,/, Target/NNP has/VBZ their/PRP$ program/NN to/TO make/VB kids/NNS more/RBR aware/JJ of/IN it/PRP","{F Um, } <popping> I know, {F uh, } Target has their program to make kids more aware of it /"
+%,B,"and/CC ,/,","{C and, } -/"
+br,A,Target/NNP stores/NNS ?/.,Target stores? /
+aa,B,Yeah/UH ./.,</Popping> Yeah. /
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,B,"They/PRP 've/VBP got/VBN ,/, if/IN you/PRP go/VBP in/IN the/DT entrance/NN ,/, they/PRP 've/VBP got/VBN ,/, uh/UH ,/, stands/NNS usually/RB where/WRB they/PRP have/VBP ,/, um/UH ,/, little/JJ ,/, uh/UH ,/, kind/RB of/RB a/DT little/JJ newspaper/NN thing/NN --/:","[ They've got, + if you go in the entrance, they've got, ] {F uh, } stands usually where they have, {F um, } [ little, + {F uh, } kind of a little ] newspaper thing --"
+b,A,Okay/UH ./.,Okay. /
++,B,--/: that/WDT the/DT kids/NNS can/MD read/VB,-- that the kids can read /
+sd,B,"and/CC ,/,","[ {C and } + <popping>,"
+bk,A,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
++,B,"and/CC they/PRP can/MD form/VB a/DT ,/, a/DT group/NN to/TO ,/, um/UH ,/,","{C and } ] they can form [ a, + </popping> a ] group to, {F um, } -/"
+b,A,"Uh-huh/UH ,/,","<<Faint>> Uh-huh, /"
+^2,A,help/VB fight/VB the/DT pollution/NN ./.,help fight the pollution. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,yeah/UH ./.,yeah. /
+ba,A,"Oh/UH ,/, that/DT 's/BES wonderful/JJ ./.","{F Oh, } that's wonderful. /"
+%,B,"So/RB ,/,","{C So, } -/"
+sv,A,"Well/UH ,/, I/PRP 'm/VBP sure/JJ that/IN ,/, uh/UH ,/, perhaps/RB they/PRP 're/VBP the/DT leaders/NNS ,/, you/PRP know/VBP ,/,","{D Well, } I'm sure that, {F uh, } perhaps they're the leaders, {D you know, } /"
+sv,A,"and/CC other/JJ will/MD ,/, others/NNS will/MD pick/VB up/RP on/IN their/PRP$ example/NN and/CC carry/VB it/PRP ,/, uh/UH ,/, further/RB ./.","{C and } [ other will, + others will ] pick up on their example and carry it, {F uh, } further. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"You/PRP know/VBP ,/, because/IN ,/, uh/UH ,/, thoughts/NNS are/VBP ,/,","{D You know, } {C because, } {F uh, } thoughts are, -/"
+sv,B,"Well/UH ,/, I/PRP ,/, I/PRP know/VBP it/PRP 's/BES har/JJ ,/, it/PRP 's/BES a/DT hard/JJ problem/NN to/TO solve/VB because/IN you/PRP ,/, you/PRP know/VBP ,/, like/IN McDonald/NNP 's/POS has/VBZ changed/VBN back/RB and/CC forth/RB between/IN paper/NN and/CC foam/NN and/CC that/DT kind/NN of/IN thing/NN ,/,","{D Well, } [ I, + I ] know [ it's har-, + it's a hard ] problem to solve because [ you, + {D you know, } ] {D like } McDonald's has changed back and forth between paper and foam and that kind of thing, /"
+b,A,Uh-huh/UH ./.,<<Faint>> Uh-huh. /
+sd,B,"and/CC they/PRP do/VBP all/PDT these/DT studies/NNS on/IN which/WDT ones/NNS pollute/VBP more/RBR ,/,","{C and } they do all these studies on which ones pollute more, /"
+sd,B,and/CC then/RB there/EX 's/BES the/DT paper/NN and/CC plastic/NN bag/NN question/NN ./.,{C and then } there's the paper and plastic bag question. /

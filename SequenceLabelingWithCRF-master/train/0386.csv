@@ -1,0 +1,158 @@
+act_tag,speaker,pos,text
+sv,A,"Uh/UH ,/, national/JJ health/NN insurance/NN ,/, I/PRP think/VBP ,/, is/VBZ a/DT problem/NN inasmuch/RB as/IN the/DT quality/NN of/IN health/NN care/NN that/WDT people/NNS would/MD receive/VB ./.","{F Uh, } national health insurance, I think, is a problem inasmuch as the quality of health care that people would receive. /"
+b,B,Right/UH ./.,Right. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"because/IN ,/, uh/UH ,/, the/DT articles/NNS that/WDT I/PRP 've/VBP read/VBN regarding/VBG national/JJ health/NN service/NN in/IN Canada/NNP and/CC England/NNP has/VBZ indicated/VBN that/IN ,/, uh/UH ,/,","{C because, } {F uh, } the articles that I've read regarding national health service in Canada and England has indicated that, {F uh, } - /"
+%,A,"what/WP i-/XX ,/,","what i-, - /"
+sd,A,"stay/VBP ,/, stay/VBP in/IN line/NN for/IN ,/, uh/UH ,/, four/CD hours/NNS to/TO get/VB an/DT aspirin/NN from/IN a/DT doctor/NN ./.","[ stay, + stay ] in line for, {F uh, } four hours to get an aspirin from a doctor. /"
+b,B,Right/UH ./.,Right. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP sort/RB of/RB mixed/JJ on/IN this/DT ./.","[ I'm, + <throat_clearing> I'm ] sort of mixed on this. /"
+sv,B,"I/PRP think/VBP that/IN the/DT ,/, the/DT answer/NN may/MD lie/VB in/IN ,/, uh/UH ,/, not/RB in/IN so/RB much/JJ a/DT ,/, uh/UH ,/, national/JJ kind/NN of/IN medical/JJ thing/NN that/WDT li-/IN ,/, like/IN England/NNP has/VBZ but/CC more/JJR of/IN a/DT ,/, um/UH ,/, national/JJ insurance/NN ,/, uh/UH ,/, sort/RB of/RB clearinghouse/NN or/CC whatever/WDT ./.","I think that [ the, + the ] answer <throat_clearing> may lie [ in, + {F uh, } not in ] so much a, {F uh, } national kind of medical thing that {D li-, } {D like } England has but more of a, {F um, } <throat_clearing> national insurance, {F uh, } sort of clearinghouse or whatever. /"
+sv,B,"I/PRP think/VBP that/DT ,/, uh/UH ,/, too/RB many/JJ ,/, uh/UH ,/,","I think that, {F uh, } too many, {F uh, } - /"
+sv,B,"the/DT problem/NN with/IN ,/, with/IN right/RB now/RB is/VBZ w-/XX ,/, that/IN we/PRP 've/VBP got/VBN too/RB many/JJ different/JJ health/NN insurances/NNS that/WDT people/NNS have/VBP to/TO go/VB through/IN","the problem [ [ with, + with ] + ] right now is [ w-, + ] that we've got too many different health insurances that people have to go through /"
+sd,B,"and/CC ,/, and/CC I/PRP think/VBP that/IN ,/, I/PRP think/VB you/PRP ,/, you/PRP mentioned/VBD Canada/NNP ./.","[ {C and, } + {C and } ] [ I think that, + I think ] [ you, + you ] mentioned Canada. /"
+sd,B,"I/PRP think/VBP that/IN they/PRP have/VBP a/DT system/NN where/WRB ,/, uh/UH ,/, they/PRP ,/, the/DT government/NN deals/VBZ with/IN the/DT ,/, with/IN ,/,","I think that they have a system where, {F uh, } [ they, + the government ] deals [ with the, + with, ] - /"
+sd,B,"I/PRP mean/VBP ,/, you/PRP ,/, you/PRP go/VBP to/IN whoever/WP you/PRP want/VBP but/CC file/VBP through/IN one/CD ,/, one/CD s-/XX ,/, particular/JJ ,/,","{E I mean, } [ you, + you ] go to whoever you want but file through [ one, + one ] [ s-, + particular, ]"
+b,A,"Um/UH ,/, I/PRP see/VBP ./.","{F Um, } I see. /"
++,B,"uh/UH ,/, setup/NN","{F uh, } setup /"
+sd,B,"and/CC that/DT way/NN they/PRP ,/, they/PRP are/VBP able/JJ to/TO reduce/VB prices/NNS because/IN they/PRP 've/VBP ,/, you/PRP know/VBP ,/, it/PRP 's/BES ,/, it/PRP 's/BES all/DT one/CD ,/, one/CD centralized/JJ thing/NN ./.","{C and } that way <throat_clearing> [ they, + they ] are able to reduce prices because [ they've, + ] {D you know, } [ it's, + it's ] all [ one, + one ] centralized thing. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,"Well/UH ,/, I/PRP ,/, I/PRP think/VBP that/IN ,/, uh/UH ,/, again/RB having/VBG gone/VBN through/IN a/DT period/NN when/WRB I/PRP was/VBD out/IN of/IN work/NN and/CC had/VBD to/TO buy/VB health/NN insurance/NN on/IN my/PRP$ own/JJ ,/,","{D Well, } [ I, + I ] think that, {F uh, } again having gone through a period when I was out of work and had to buy health insurance on my own,"
+x,B,./.,<<Very faint>> <throat_clearing>.
++,A,"if/IN you/PRP do/VBP n't/RB have/VB a/DT company/NN supporting/VBG you/PRP in/IN the/DT ,/, uh/UH ,/, picking/VBG up/RP the/DT major/JJ portion/NN of/IN your/PRP$ health/NN insurance/NN ,/,","if you don't have a company [ supporting you in the, + ] {F uh, } picking up the major portion of your health insurance,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"the/DT cost/NN is/VBZ p/JJ ,/, almost/RB prohibitive/JJ ./.","the cost is [ p-, + almost prohibitive. ] /"
+aa,B,Right/UH ./.,Right. /
+sd,B,"Uh/UH ,/, I/PRP ,/, I/PRP was/VBD listening/VBG ,/, uh/UH ,/, on/IN the/DT radio/NN the/DT other/JJ day/NN","{F Uh, } <throat_clearing> [ I, + I ] was listening, {F uh, } on the radio the other day /"
+sd,B,"and/CC they/PRP were/VBD talking/VBG that/IN ,/, s-/NN ,/, s-/NN ,/, something/NN like/IN this/DT ,/,","{C and } they were talking that, [ [ s-, + s-, ] + something ] like this, - /"
+sd,B,"I/PRP think/VBP they/PRP were/VBD talking/VBG about/IN the/DT fact/NN that/IN ,/, um/UH ,/, the/DT money/NN that/WDT could/MD be/VB saved/VBN ,/, um/UH ,/, in/IN administrative/JJ costs/NNS and/CC so/RB forth/RB nationwide/JJ by/IN consolidating/VBG into/IN sort/RB of/RB a/DT national/JJ insurance/NN provider/NN ,/, um/UH ,/, could/MD ,/, uh/UH ,/, could/MD ,/,","I think they were talking about the fact that, {F um, } the money that could be saved, {F um, } <throat_clearing> in administrative costs and so forth nationwide by consolidating into sort of a national insurance provider, {F um, } [ could, + {F uh, } could, ] - /"
+sv,B,"they/PRP could/MD make/VB it/PRP ,/, i-/PRP ,/, i-/PRP ,/, provide/VB health/NN insurance/NN to/IN ,/, to/IN people/NNS who/WP could/MD n't/RB afford/VB it/PRP just/RB by/IN the/DT money/NN they/PRP would/MD save/VB ./.","they could make it, [ [ i-, + i-, ] + ] provide health insurance [ to, + to ] people who couldn't afford it just by the money they would save. /"
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,"Uh/UH ,/, we/PRP 're/VBP currently/RB ,/, where/WRB I/PRP 'm/VBP working/VBG now/RB ,/, under/IN Blue/NNP Cross/NNP ./.","<lipsmack> {F Uh, } we're currently, where I'm working now, under Blue Cross. /"
+x,B,./.,<<Very faint>> <throat_clearing>. /
+sd,A,I/PRP do/VBP n't/RB know/VB what/WP the/DT total/JJ cost/NN of/IN the/DT program/NN is/VBZ,I don't know what the total cost of the program is /
+sd,A,"but/CC for/IN dependent/NN coverage/NN I/PRP 'm/VBP paying/VBG a/DT hundred/CD and/CC seventy/CD dollars/NNS a/DT ,/, a/DT month/NN or/CC something/NN like/IN that/DT ./.","{C but } for dependent coverage I'm paying a hundred and seventy dollars [ a, + a ] month or something like that. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"So/RB I/PRP assume/VBP that/IN probably/RB the/DT total/JJ cove-/NN ,/, cost/NN is/VBZ probably/RB ,/,","{C So } I assume that probably the total [ cove-, + cost ] is probably,"
+x,B,./.,<Throat_clearing>.
++,A,three/CD fifty/CD to/IN four/CD hundred/CD ./.,three fifty to four hundred. /
+sd,A,They/PRP 're/VBP probably/RB picking/VBG up/RP about/RB half/NN of/IN it/PRP ./.,They're probably picking up about half of it. /
+b,B,Right/UH ./.,Right. /
+sv,A,"And/CC that/DT 's/BES a/DT pretty/RB good/JJ policy/NN ,/,","{C And } that's a pretty good policy, /"
+sv,A,"but/CC if/IN you/PRP had/VBD something/NN like/IN one/CD of/IN these/DT ,/, uh/UH ,/,","{C but } if you had something like one of these, {F uh, }"
+x,B,./.,<Throat_clearing>.
++,A,"health/NN maintenance/NN programs/NNS ,/,","health maintenance programs, /"
+x,B,./.,<Throat_clearing>.
+b,B,"Yeah/UH ,/,","Yeah, /"
+^2,B,H/NNP M/NNP O/NNP ./.,H M O. /
++,A,"H/NNP M/NNP O/NNP ,/, uh/UH ,/, where/WRB the/DT ,/, uh/UH ,/, where/WRB you/PRP go/VBP to/IN the/DT doctor/NN and/CC it/PRP only/RB costs/VBZ you/PRP ten/CD dollars/NNS and/CC the/DT insurance/NN picks/VBZ up/RP the/DT rest/NN ./.","H M O, {F uh, } [ where the, + {F uh, } where ] you go to the doctor and it only costs you ten dollars and the insurance picks up the rest."
+x,B,./.,<<Very faint>> <throat_clearing>.
++,A,"If/IN you/PRP tried/VBD to/TO buy/VB something/NN like/IN that/DT ,/, I/PRP 'm/VBP prob-/RB ,/, it/PRP would/MD probably/RB be/VB five/CD or/CC six/CD hundred/CD dollars/NNS a/DT month/NN for/IN just/RB the/DT cost/NN of/IN something/NN ./.","If you tried to buy something like that, [ I'm prob-, + it would probably ] be five or six hundred dollars a month for just the cost of something. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"and/CC they/PRP 're/VBP ,/, they/PRP 're/VBP fairly/RB expensive/JJ ./.","{C and } [ they're, + <throat_clearing> they're ] fairly expensive. /"
+sd,B,"I/PRP ,/, I/PRP ,/, um/UH ,/, I/PRP ha/VBP ,/, I/PRP was/VBD on/IN an/DT H/NNP M/NNP O/NNP ,/, uh/UH ,/, up/IN until/IN last/JJ year/NN --/:","[ [ [ I, + I, ] + {F um, } I ha-, ] + I was ] on an H M O, {F uh, } up until last year --"
+b,A,Yeah/UH ./.,<<Very faint>> Yeah. /
++,B,"--/: and/CC ,/, uh/UH ,/, through/IN work/NN ./.","-- [ and, + ] {F uh, } through work. /"
+%,B,"And/CC it/PRP was/VBD ,/,","{C And } it was, - /"
+sd,B,I/PRP forget/VBP how/WRB much/JJ I/PRP paid/VBD a/DT month/NN,I forget how much I paid a month /
+sd,B,"but/CC it/PRP was/VBD much/JJ ,/, you/PRP know/VBP ,/, is/VBZ at/IN least/JJS twice/RB if/IN not/RB more/RBR expensive/JJ than/IN the/DT regular/JJ health/NN care/NN ./.","{C but } it [ was much, + {D you know, } is at least twice if not ] more expensive than <throat_clearing> the regular health care. /"
+b,A,Yeah/UH ./.,<<Very faint>> Yeah. /
+sd,B,"And/CC ,/, uh/UH ,/, the/DT reason/NN I/PRP ,/, I/PRP quite/^VBD was/VBD because/IN of/IN ,/, uh/UH ,/, not/RB because/IN I/PRP did/VBD n't/RB like/VB it/PRP ,/,","{C And, } {F uh, } the reason [ I, + I ] quite was [ because of, + {F uh, } not because ] I didn't like it, /"
+sd,B,"I/PRP ,/, I/PRP really/RB kind/RB of/RB did/VBD ./.","[ I, + I ] really kind of did. /"
+sd,B,"Uh/UH ,/, the/DT reason/NN I/PRP quite/^VBD was/VBD just/RB because/IN the/DT ,/, the/DT doctor/NN a/DT ,/, a/DT certain/JJ doctor/NN that/WDT we/PRP en/VBD ,/, enjoyed/VBD going/VBG to/IN was/VBD no/DT longer/RBR associated/JJ with/IN that/DT H/NNP M/NNP O/NNP","{F Uh, } the reason I quite was just because [ [ the, + the ] doctor + [ a, + a ] certain doctor ] that we [ en-, + enjoyed ] going to was no longer associated with that H M O /"
+sd,B,"so/RB we/PRP ,/, my/PRP$ wife/NN decided/VBD she/PRP wanted/VBD to/TO ,/, to/TO stay/VB with/IN that/DT doctor/NN ,/,","{C so } [ we, + my wife ] decided she wanted [ to, + to ] stay with that doctor, /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"so/RB ,/, we/PRP went/VBD to/IN the/DT ,/, to/IN the/DT ,/, the/DT medical/JJ insurance/NN that/WDT we/PRP have/VBP at/IN ,/, here/RB at/IN work/NN ,/,","{C so, } <throat_clearing> we went [ to the, + to [ the, + the ] ] medical insurance that we have [ at, + here at ] work, /"
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"and/CC ,/, uh/UH ,/, I/PRP ,/, uh/UH ,/, I/PRP like/VBP the/DT ,/, I/PRP like/VBP the/DT convenience/NN of/IN the/DT H/NNP M/NNP O/NNP in/IN ,/, in/IN a/DT certain/JJ respect/NN because/IN it/PRP ,/, uh/UH ,/, even/RB though/IN you/PRP 're/VBP ,/,","{C and, } {F uh, } <breathing> [ [ I, + {F uh, } I ] like the, + I like the ] convenience of the H M O [ in, + in ] a certain respect because [ it, + ] {F uh, } even though you're, - /"
+sv,B,once/IN you/PRP find/VBP the/DT doctor/NN that/WDT you/PRP like/VBP it/PRP 's/BES not/RB a/DT problem/NN ./.,once you find the doctor that you like it's not a problem. /
+sv,B,"You/PRP know/VBP ,/, a/DT lot/NN of/IN people/NNS complain/VBP saying/VBG well/UH ,/, I/PRP do/VBP n't/RB want/VB to/TO ,/, uh/UH ,/, have/VB to/TO be/VB told/VBN who/WP I/PRP need/VBP to/TO go/VB to/IN","{D You know, } a lot of people complain saying {D well, } I don't want to, {F uh, } have to be told who I need to go to /"
+sv,B,"but/CC ,/, you/PRP know/VBP ,/, if/IN you/PRP do/VBP n't/RB have/VB a/DT doctor/NN anyway/RB normally/RB it/PRP does/VBZ n't/RB really/RB make/VB much/JJ difference/NN ./.","{C but, } {D you know, } <noise> if you don't have a doctor anyway normally it doesn't really make much difference."
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,that/DT 's/BES right/JJ ./.,that's right. /
++,B,"Because/IN you/PRP can/MD ,/, you/PRP know/VBP ,/, if/IN ,/, if/IN you/PRP find/VBP someone/NN you/PRP really/RB like/VBP","Because you can, {D you know, } [ if, + if ] you find someone you really like - /"
+sd,B,"and/CC then/RB ,/, we/PRP did/VBD find/VB several/JJ good/JJ doctors/NNS ./.","{C and then, } we did find several good doctors. /"
+sd,B,"And/CC ,/, um/UH ,/, like/IN you/PRP say/VBP it/PRP 's/BES ,/, uh/UH ,/, five/CD dollars/NNS an/DT office/NN visit/NN ./.","{C And, } {F um, } <throat_clearing> like you say it's, {F uh, } five dollars an office visit. /"
+sd,B,"And/CC ,/, um/UH ,/, my/PRP$ wife/NN was/VBD in/IN the/DT hospital/NN had/VBD our/PRP$ ,/, had/VBD our/PRP$ daughter/NN","{C And, } {F um, } my wife was in the hospital [ had our, + had our ] daughter /"
+sd,B,and/CC I/PRP think/VBP her/PRP$ total/JJ bill/NN was/VBD around/RB three/CD hundred/CD dollars/NNS --/:,{C and } I think her total bill was around three hundred dollars --
+ba,A,"Oh/UH ,/, goodness/UH ./.","{F Oh, } goodness. /"
++,B,--/: for/IN everything/NN ./.,-- for everything. /
+bf,A,Delivery/NN room/NN and/CC everything/NN ./.,Delivery room and everything. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Include/VBG ,/, including/VBG a/DT private/JJ room/NN because/IN there/EX was/VBD a/DT little/RB extra/JJ that/WDT she/PRP had/VBD to/TO pay/VB","[ Include-, + including ] a private room because there was a little extra that she had to pay /"
+sd,B,"but/CC that/DT was/VBD ,/, that/WDT was/VBD still/RB included/VBN in/IN that/DT pr-/NN ,/, that/DT cost/NN","{C but } [ that was, + that was ] still included in [ that pr-, + that cost ] /"
+%,B,so/RB ./.,{C so. } -/
+b,A,Yeah/UH ./.,<<Very faint>> Yeah. /
+sv,B,"It/PRP 's/BES really/RB nice/JJ because/IN they/PRP ,/, th-/PRP ,/, you/PRP know/VBP ,/, their/PRP$ ,/, their/PRP$ attitude/NN is/VBZ different/JJ than/IN ,/, than/IN a/DT regular/JJ ,/, uh/UH ,/, insurance/NN ,/, uh/UH ,/, health/NN insurance/NN ,/, uh/UH ,/, the/DT ,/, in/IN ,/, in/IN a/DT ,/, H/NNP M/NNP O/NNP ,/, you/PRP know/VBP ,/,","<Throat_clearing> It's really nice because [ [ [ they, + th-, ] + {D you know, } their, ] + their ] attitude is different [ than, + than ] a regular, {F uh, } [ insurance, + {F uh, } health insurance, ] {F uh, } [ the, + ] [ in, + in ] a, H M O, {D you know, } /"
+sv,B,"they/PRP 're/VBP trying/VBG to/TO prevent/VB a/DT problem/NN by/IN ,/, by/IN keeping/VBG the/DT cost/NN down/RP at/IN the/DT front/JJ end/NN ,/,","they're trying to prevent a problem [ by, + by ] keeping the cost down at the front end,"
+b,A,Yeah/UH ./.,<<Very faint>> Yeah. /
++,B,"you/PRP know/VBP ,/, and/CC have/VBP you/PRP come/VB in/IN ,/, you/PRP know/VBP ,/,","{D you know, } and have you come in, {D you know, } /"
+sd,B,"they/PRP ,/, they/PRP charge/VBP five/CD dollars/NNS","[ they, + they ] charge five dollars /"
+sd,B,"a/DT s-/NN ,/,","a [ s-, + ]"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"you/PRP know/VBP ,/, pop/NN ,/,","{D you know, } pop, /"
+sv,B,"you/PRP 're/VBP more/RBR willing/JJ to/TO go/VB in/RB and/CC try/VB ,/,","you're more willing to go in and try,"
+x,A,MUMBLEx/XX ./.,(( )) .
++,B,to/TO take/VB care/NN of/IN a/DT problem/NN before/IN it/PRP grows/VBZ big/JJ ./.,to take care of a problem before it grows big. /
+sv,A,"As/IN to/IN a/DT company/NN 's/POS benefit/NN ,/,","As to a company's benefit,"
+x,B,./.,<<Very faint>> <throat_clearing>.
++,A,to/TO have/VB a/DT program/NN like/IN that/DT because/IN it/PRP keeps/VBZ their/PRP$ employees/NNS healthy/JJ and/CC on/IN the/DT job/NN ./.,to have a program like that because it keeps their employees healthy and on the job. -/
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"Because/IN they/PRP do/VBP n't/RB have/VB to/TO worry/VB about/IN going/VBG in/RB and/CC ,/, and/CC paying/VBG ,/,","<Laughter> {C Because } they don't have to worry about going in [ and, + and ] paying,"
+x,B,./.,<<Very faint>> <throat_clearing>.
++,A,"uh/UH ,/, seventy-five/CD dollars/NNS to/TO have/VB the/DT doctor/NN look/VB at/IN you/PRP for/IN ten/CD minutes/NNS ./.","{F uh, } seventy-five dollars to have the doctor look at you for ten minutes. /"
+b,B,Right/UH ./.,Right. /
+%,A,"That/DT 's/BES a/DT ,/,","<<Very faint>> That's a, -/"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP ,/, I/PRP ,/, uh/UH ,/, I/PRP ,/, I/PRP really/RB liked/VBD it/PRP ./.","[ [ [ I, + I, ] + {F uh, } I, ] + I ] really liked it. /"
+sd,B,"We/PRP both/DT ,/, my/PRP$ wife/NN and/CC I/PRP both/DT did/VBD ./.","[ We both, + my wife and I both ] did. /"
+sv,B,"You/PRP ,/, you/PRP do/VBP n't/RB have/VB to/TO worry/VB about/IN filling/VBG out/RP forms/NNS ,/, uh/UH ,/, you/PRP know/VBP ,/, for/IN reimbursement/NN and/CC all/DT or/CC ,/, you/PRP know/VBP ,/, getting/VBG paid/VBN eight/CD percent/NN of/IN ,/, of/IN whatever/WDT ./.","[ You, + you ] don't have to worry about filling out forms, {F uh, } {D you know, } for reimbursement and all or, {D you know, } getting paid eight percent [ of, + of ] whatever. /"
+sv,B,"You/PRP just/RB pay/VBP the/DT ,/, the/DT five/CD dollars/NNS right/RB then/RB","You just pay [ the, + the ] five dollars right then /"
+sv,B,and/CC then/RB you/PRP 're/VBP done/VBN with/IN it/PRP ./.,{C and then } you're done with it. /
+aa,A,Yeah/UH ./.,Yeah. /
+sv,A,"But/CC here/RB again/RB the/DT ,/, the/DT doctor/NN 's/POS practices/NNS in/IN hospitals/NNS ,/,","{C But } here again [ the, + the ] doctor's practices in hospitals,"
+x,B,./.,<Throat_clearing>.
++,A,"have/VBP gon/VBN ,/, become/VBN fairly/RB sizable/JJ businesses/NNS under/IN themselves/PRP now/RB ./.","have [ gon-, + become ] fairly sizable businesses under themselves now. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Uh/UH ,/, you/PRP take/VBP a/DT hospital/NN ,/, uh/UH ,/, the/DT physical/JJ plant/NN itself/PRP ,/,","{F Uh, } you take a hospital, {F uh, } the physical plant itself, /"
+sv,A,"you/PRP have/VBP to/TO pay/VB your/PRP$ share/NN of/IN the/DT operating/NN of/IN that/DT eight/CD story/NN building/NN ,/, uh/UH ,/, when/WRB the/DT e/JJ ,/, rooms/NNS are/VBP empty/JJ ./.","you have to pay your share of the operating of that eight story building, {F uh, } when the [ e-, + ] rooms are empty. /"
+b,B,Right/UH ./.,Right. /
+sv,A,"So/RB ,/, they/PRP spread/VBP the/DT costs/NNS out/RP over/IN ,/, uh/UH ,/, all/PDT the/DT patient/NN costs/NNS","{C So, } they spread the costs out over, {F uh, } all the patient costs /"
+sv,A,"and/CC ,/, uh/UH ,/, that/DT 's/BES how/WRB you/PRP come/VBP up/RP with/IN aspirin/NN that/WDT costs/VBZ four/CD dollars/NNS apiece/RB and/CC things/NNS like/IN that/DT ./.","{C and, } {F uh, } that's how you come up with aspirin that costs four dollars apiece and things like that."
+b,B,Right/UH ./.,Right. /
++,A,"The/DT horror/NN stories/NNS that/WDT you/PRP hear/VBP about/IN people/NNS going/VBG into/IN the/DT hospital/NN for/IN a/DT week/NN and/CC ,/, uh/UH ,/, it/PRP being/VBG ,/,","The horror stories that you hear about people going into the hospital for a week and, {F uh, } it being,"
+x,B,./.,<Throat_clearing>.
++,A,a/DT four/CD thousand/CD dollar/NN bill/NN ./.,a four thousand dollar bill. /
+%,B,"Well/UH ,/, they/PRP ,/, and/CC you/PRP know/VBP ,/, they/PRP 're/VBP also/RB p-/XX ,/,","{D Well, } [ they, + [ and + ] {E you know, } they're ] also p-, - /"
+%,B,"take/VBG ,/,","take-, - /"
+sv,B,they/PRP 're/VBP taking/VBG up/RP the/DT cost/NN of/IN people/NNS who/WP ca/MD n't/RB pay/VB ./.,they're taking up the cost of people who can't pay. /
+b,A,Right/UH ./.,Right. /
+sv,B,"You/PRP know/VBP ,/, they/PRP ,/, they/PRP get/VBP a/DT lot/NN of/IN ,/, uh/UH ,/, a/DT lot/NN of/IN ,/, uh/UH ,/, people/NNS who/WP are/VBP j-/RB ,/, just/RB have/VBP to/TO be/VB there/RB and/CC ca/MD n't/RB afford/VB it/PRP","{D You know, } [ they, + they ] get [ a lot of, + {F uh, } a lot of, ] {F uh, } people who [ are + ] [ j-, + just ] have to be there and can't afford it /"
+sv,B,"and/CC so/RB they/PRP ,/, they/PRP know/VBP they/PRP 're/VBP not/RB going/VBG to/TO get/VB pa-/XX ,/,","{C and so } [ they, + they ] know they're not going to [ get pa-, +"
+b,A,Yeah/UH ./.,<<Very faint>> Yeah. /
++,B,"you/PRP know/VBP ,/, get/VB money/NN from/IN them/PRP","{D you know, } get money ] from them /"
+sv,B,"so/IN they/PRP ,/,","{C so } they,"
+b,A,Yeah/UH ./.,<<Very faint>> Yeah. /
++,B,have/VBP to/TO absorb/VB it/PRP somewhere/RB else/RB ./.,have to absorb it somewhere else. /
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,"My/PRP$ daughter/NN and/CC son-in-law/NN had/VBD a/DT baby/NN ,/,","My daughter and son-in-law had a baby,"
+x,B,./.,<Throat_clearing>.
++,A,"here/RB about/RB ,/, uh/UH ,/, what/WP ,/,","here about, {F uh, } what, - /"
+sd,A,"he-/XX ,/, he/PRP 'll/MD be/VB three/CD in/IN August/NNP ./.","[ he-, + he'll ] be three in August. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, their/PRP$ insurance/NN plan/NN that/WDT they/PRP 're/VBP under/IN encourages/VBZ you/PRP to/TO shorten/VB your/PRP$ stay/NN in/IN the/DT hospital/NN ./.","{C And, } {F uh, } their insurance plan that they're under encourages you to shorten your stay in the hospital. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC like/UH she/PRP went/VBD in/IN ,/,","{C And } {D like } she went in, /"
+sd,A,she/PRP had/VBD the/DT baby/NN,she had the baby /
+sd,A,and/CC she/PRP was/VBD out/RB in/IN two/CD days/NNS time/NN ./.,{C and } she was out in two days time. /
+b,B,Right/UH ./.,Right. /
+sd,A,"And/CC it/PRP was/VBD treated/VBN almost/RB like/IN it/PRP was/VBD an/DT outpatient/NN visit/NN to/IN the/DT hospital/NN ,/,","{C And } it was treated almost like it was an outpatient visit to the hospital, /"
+b,B,Right/UH ./.,Right. /
+sd,A,"the/DT ,/, the/DT deductibles/NNS did/VBD n't/RB apply/VB ./.","[ the, + the ] deductibles didn't apply. /"
+b,B,Right/UH ./.,Right. /
+sv,A,"And/CC so/RB that/DT 's/BES one/CD way/NN ,/, one/CD way/NN the/DT insurance/NN companies/NNS are/VBP trying/VBG to/TO hold/VB costs/NNS down/RB is/VBZ by/IN ,/, uh/UH ,/,","{C And so } that's [ one way, + one way ] the insurance companies are trying to hold costs down is by, {F uh, } - /"
+^q,A,"okay/UH ,/,","okay, /"
+^q,A,"if/IN you/PRP 'll/MD shorten/VB your/PRP$ stay/NN then/RB we/PRP will/MD ,/, uh/UH ,/, waive/VB the/DT deductible/NN ./.","if you'll shorten your stay then we will, {F uh, } waive the deductible. /"
+aa,B,Right/UH ./.,<Throat_clearing> Right. /
+sd,B,"Our/PRP$ ,/, our/PRP$ insurance/NN is/VBZ ,/, uh/UH ,/, is/VBZ doing/VBG something/NN similar/JJ where/WRB they/PRP 're/VBP also/RB going/VBG to/TO mor/VB ,/,","[ Our, + our ] insurance [ is, + {F uh, } is ] doing something similar where they're also going <throat_clearing> to mor-, -/"

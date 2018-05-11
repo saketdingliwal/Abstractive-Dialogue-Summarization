@@ -1,0 +1,215 @@
+act_tag,speaker,pos,text
+fp,A,Hello/UH ./.,Hello. /
+fp,B,Hi/UH ./.,Hi. /
+b,A,"Okay/UH ,/,","Okay, /"
+sd,A,I/PRP pressed/VBD one/CD,I pressed one /
+sd,A,so/RB I/PRP guess/VBP we/PRP 're/VBP recording/VBG now/RB ./.,{C so } I guess we're recording now. /
+b,B,Okay/UH ./.,Okay. /
+b^m,A,"Okay/UH ,/, um/UH ./.","Okay, {F um. } /"
+sd,B,"Um/UH ,/, as/RB far/RB as/IN spare/JJ time/NN ,/, they/PRP talked/VBD about/IN ,/,","{F Um, } as far as spare time, they talked about, - /"
+%,B,"I/PRP do/VBP n't/RB ,/, I/PRP think/VBP ,/,","[ I don't, + I think, ] - /"
+qh,B,who/WP has/VBZ any/DT spare/JJ time/NN ?/.,who has any spare time <laughter>? /
+x,A,,<Laughter>.
+sd,B,"I/PRP 've/VBP got/VBN a/DT ,/, a/DT six/CD year/NN old/JJ and/CC a/DT ,/, um/UH ,/,","I've got [ a, + a ] six year old and a, {F um, } - /"
+sd,B,"well/UH ,/, my/PRP$ baby/NN 's/BES one/CD today/NN ./.","{D well, } my baby's one today. /"
+b,A,Um/UH ./.,{F Um. } /
+sd,B,Today/NN 's/BES his/PRP$ birthday/NN ./.,Today's his birthday. /
+b,A,Um/UH ./.,{F Um. } /
+sd,B,"And/CC I/PRP 'm/VBP also/RB ,/, I/PRP 'm/VBP expecting/VBG ,/,","{C And } [ I'm also, + I'm ] expecting, /"
+h,B,"and/CC ,/, so/RB ,/, I/PRP ,/, I/PRP do/VBP n't/RB know/VB ,/,","{C and, so, } [ I, + I ] don't know, /"
+sd,B,I/PRP have/VBP n't/RB had/VBN much/JJ spare/JJ time/NN lately/RB,I haven't had much spare time lately <laughter> /
+%,B,"but/CC ,/,","{C but, } -/"
+b,A,"Okay/UH ,/,","Okay, /"
+sd,A,"well/UH ,/, I/PRP 've/VBP ,/, I/PRP have/VBP had/VBN some/DT because/IN I/PRP was/VBD working/VBG for/IN P/NNP I/NNP E/NNP ,/,","{D well, } [ I've, + I have ] had some because I was working for P I E, /"
+sd,A,and/CC they/PRP went/VBD bankrupt/JJ,{C and } they went bankrupt /
+sd,A,so/RB --/:,{C so } --
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
++,A,--/: I/PRP 've/VBP got/VBN quite/PDT a/DT bit/NN of/IN spare/JJ time/NN right/RB now/RB ./.,-- I've got quite a bit of spare time right now. /
+sd,A,"And/CC I/PRP 've/VBP been/VBN making/VBG dolls/NNS ,/, cloth/NN dolls/NNS ./.","{C And } I've been making dolls, cloth dolls. /"
+bh,B,"Oh/UH ,/, have/VBP you/PRP ?/.","{F Oh, } have you? /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+bk,B,Oh/UH ./.,Oh. /
+%,A,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, } -/"
+qy,B,You/PRP sew/VBP the/DT bodies/NNS and/CC everything/NN ?/.,You sew the bodies and everything? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"it/PRP 's/BES a/DT ,/, they/PRP 're/VBP all/DT cloth/NN ./.","[ it's a, + they're all ] cloth. /"
+sd,A,"It/PRP 's/BES not/RB ,/, uh/UH ,/, any/DT porcelain/NN at/IN all/DT ./.","It's not, {F uh, } any porcelain at all. /"
+qy,B,"So/RB ,/, so/RB you/PRP just/RB sew/VBP everything/NN up/RP ,/, huh/UH ?/.","[ {C So, } + {C so } ] you just sew everything up, huh? /"
+ny,A,Yeah/UH --/:,Yeah -- /
+bk,B,Oh/UH ./.,Oh. /
+sd,A,--/: and/CC I/PRP make/VBP the/DT clothes/NNS for/IN them/PRP ./.,-- {C and } I make the clothes for them. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qw,B,What/WP kind/NN --/:,What kind -- -/
+%,A,And/CC ./.,{C And. } -/
+qy,B,--/: do/VBP they/PRP have/VB yarn/NN hair/NN,-- do they have yarn hair /
+%,B,"or/CC ,/,","{C or, } -/"
+nn,A,"Um/UH ,/, no/UH ,/,","{F Um, } no, /"
+sd,A,you/PRP can/MD get/VB the/DT little/JJ curly/JJ hair/NN --/:,you can get the little curly hair --
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
++,A,--/: at/IN the/DT craft/NN shop/NN ./.,-- at the craft shop. /
+bk,B,Oh/UH ./.,Oh. /
+sd,A,I/PRP made/VBD some/DT of/IN them/PRP with/IN that/DT hair/NN,I made some of them with that hair /
+ad,A,"and/CC then/RB ,/, uh/UH ,/, do/VB n't/RB ask/VB me/PRP what/WP the/DT other/JJ hair/NN I/PRP made/VBD ,/,","{C and then, } {F uh, } don't ask me what the other hair I made, - /"
+sd,A,"it/PRP looked/VBD like/IN ,/, um/UH ,/, it/PRP looked/VBD ,/,","[ it looked like, + {F um, } it looked, ] - /"
+sd,A,"well/UH ,/, I/PRP made/VBD some/DT of/IN them/PRP with/IN regular/JJ wigs/NNS ./.","{D well, } I made some of them with regular wigs. /"
+bh,B,"Oh/UH ,/, did/VBD you/PRP ?/.","{F Oh, } did you? /"
+sd,A,"I/PRP went/VBD to/IN the/DT flea/NN markets/NNS and/CC bought/VBD ,/, you/PRP know/VBP ,/, like/UH the/DT wigs/NNS for/IN a/DT dollar/NN ./.","I went to the flea markets and bought, {D you know, } {D like } the wigs for a dollar. /"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,A,Then/RB I/PRP cut/VBD a/DT V/SYM shape/NN out/IN of/IN the/DT back/NN of/IN them/PRP --/:,Then I cut a V shape out of the back of them --
+ba,B,"Oh/UH ,/, my/PRP$ goodness/NN ./.","{F Oh, } my goodness. /"
++,A,--/: and/CC then/RB sewed/VBD them/PRP on/RB ./.,-- and then sewed them on. /
+sv,B,It/PRP sounds/VBZ like/IN you/PRP 're/VBP creative/JJ ./.,It sounds like you're creative. /
+sd,A,They/PRP looked/VBD really/RB cute/JJ ./.,They looked really cute <laughter>. /
+qy,B,"Uh/UH ,/, do/VBP you/PRP sell/VB them/PRP ?/.","{F Uh, } do you sell them? /"
+na,A,"I/PRP have/VBP sold/VBN five/CD of/IN them/PRP ,/, so/RB far/RB ./.","I have sold five of them, so far. /"
+bh,B,"Oh/UH ,/, have/VBP you/PRP ?/.","{F Oh, } have you? /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP just/RB have/VBP to/TO get/VB a/DT place/NN where/WRB ,/, you/PRP know/VBP ,/, I/PRP can/MD sell/VB them/PRP actually/UH ./.","I just have to get a place where, {D you know, } I can sell them {D actually. } /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+ba,B,I/PRP bet/VBP ./.,I bet. /
+x,A,MUMBLEx/XX ./.,(( )) .
+qw,B,How/WRB long/JJ does/VBZ it/PRP take/VB you/PRP to/TO make/VB one/CD ?/.,How long does it take you to make one? /
+sd,A,"Uh/UH ,/, if/IN I/PRP would/MD just/RB work/VB all/DT day/NN long/JJ ,/, making/VBG the/DT clothes/NNS and/CC everything/NN ,/, probably/RB about/RB two/CD and/CC a/DT half/NN days/NNS ./.","{F Uh, } if I would just work all day long, making the clothes and everything, probably about two and a half days. /"
+bh,B,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+bk,B,Oh/UH ./.,Oh. /
+%,A,So/UH ./.,{D So. } -/
+qy,B,Do/VBP you/PRP enjoy/VB it/PRP ?/.,Do you enjoy it? /
+ny,A,Yes/UH --/:,Yes -- /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,--/: I/PRP really/RB do/VBP ./.,-- I really do. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, then/RB I/PRP also/RB crochet/VBP","{C And, then } I also crochet /"
+%,A,"and/CC ,/,","{C and, } -/"
+sd,B,"I/PRP ,/, I/PRP ,/, I/PRP can/MD crochet/VB and/CC knit/VB ./.","[ [ I, + I, ] + I ] can crochet and knit. /"
+sd,B,"Um/UH ,/, actually/UH ,/, I/PRP started/VBD an/DT afghan/NN ,/,","{F Um, } {D actually, } I started an <laughter> afghan, /"
+sd,B,but/CC it/PRP 's/HVS been/VBN a/DT whole/JJ long/JJ time/NN ago/RB --/:,{C but } it's been a whole long time ago --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: probably/RB over/IN a/DT year/NN ago/RB,-- probably over a year ago /
+sd,B,"and/CC it/PRP 's/BES MUMBLEx/XX sitting/VBG in/IN my/PRP$ closet/NN half/RB done/JJ right/RB now/RB ,/,","{C and } it's (( )) sitting in my closet half done right now, /"
+x,A,,<Laughter>.
+sd,B,"but/CC ,/, it/PRP 's/BES a/DT knitting/NN one/NN ./.","{C but, } it's a knitting one. /"
+%,B,"And/CC ,/,","{C And, } -/"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP tried/VBD knitting/VBG first/RB ,/,","I tried knitting first, /"
+h,A,"but/CC ,/, I/PRP do/VBP n't/RB know/VB ,/,","{C but, } I don't know, /"
+sd,A,"I/PRP ,/, I/PRP did/VBD n't/RB like/VB it/PRP ./.","[ I, + I ] didn't like it. /"
+b,B,"Oh/UH ,/, did/VBD n't/RB you/PRP ./.","{F Oh, } didn't you. /"
+sd,A,"So/RB then/RB I/PRP went/VBD to/IN crocheting/VBG ,/,","{C So } then I went to crocheting, /"
+sd,A,but/CC now/RB I/PRP want/VBP to/TO learn/VB how/WRB to/TO knit/VB again/RB ./.,{C but } now I want to learn how to knit again. /
+b,B,Oh/UH ./.,Oh. /
+%,B,"I/PRP en/VBP ,/,","I en-, -/"
+b,A,You/PRP know/VBP ./.,{D You know. } /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP enjoy/VBP knitting/VBG ./.,I enjoy knitting. /
+sd,B,"I/PRP ,/, I/PRP kind/RB of/RB like/VBP that/DT ,/,","[ I, + I ] kind of like that, /"
+sd,B,"but/CC I/PRP just/RB ,/, like/IN I/PRP say/VBP ,/, have/VBP n't/RB done/VBN it/PRP for/IN a/DT while/NN ./.","{C but } I just, like I say, haven't done it for a while. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC I/PRP do/VBP like/VB sewing/VBG sometimes/RB ./.,{C And } I do like sewing sometimes. /
+sd,B,"I/PRP ,/, I/PRP 've/VBP made/VBN a/DT few/NN of/IN the/DT ,/, you/PRP know/VBP ,/, just/RB the/DT little/JJ valence/NN curtains/NNS in/IN my/PRP$ house/NN ,/, and/CC --/:","[ I, + I've ] made a few of [ the, + {D you know, } just the ] little valence curtains in my house, and --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: things/NNS like/IN that/DT ./.,-- things like that. /
+sv,B,"But/CC ,/, it/PRP ,/, it/PRP 's/BES just/RB finding/VBG the/DT time/NN for/IN these/DT things/NNS that/WDT you/PRP --/:","{C But, } [ it, + it's ] just finding the time for <laughter> these things that [ you -- +"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH ./.,yeah. /
++,B,--/: you/PRP enjoy/VBP ./.,-- you ] enjoy. /
+%,B,"But/CC ,/,","{C But, } -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP ,/, in/IN fact/NN ,/, I/PRP just/RB bought/VBD a/DT serger/NN in/IN December/NNP ./.","[ I, + in fact, I ] just bought a serger in December. /"
+sd,B,"oh/UH ,/, I/PRP would/MD love/VB one/CD of/IN these/DT ./.","{F oh, } I would love one of these. /"
+b,A,Yeah/UH ./.,Yeah. /
+ba,B,"Oh/UH ,/, that/DT 's/BES neat/JJ ./.","{F Oh, } that's neat. /"
+sd,A,"I/PRP have/VBP n't/RB done/VBN everything/NN on/IN it/PRP yet/RB ,/, you/PRP know/VBP ,/,","I haven't done everything on it yet, {D you know, } /"
+sd,A,"but/CC just/RB what/WP little/JJ bit/NN I/PRP have/VBP used/VBN it/PRP for/IN ,/, I/PRP really/RB like/VBP it/PRP ./.","{C but } just what little bit I have used it for, I really like it. /"
+sv,B,"Oh/UH ,/, those/DT are/VBP wonderful/JJ are/VBP n't/RB they/PRP ./.","{F Oh, } those are wonderful aren't they. /"
+sv,A,"You/PRP know/VBP ,/, especially/RB making/VBG the/DT seams/NNS and/CC things/NNS like/IN that/DT you/PRP know/VBP ,/, it/PRP 's/HVS ,/, it/PRP 's/HVS got/VBN such/PDT a/DT professional/JJ finish/NN on/IN them/PRP ./.","{D You know, } especially making the seams and things like that {D you know, } [ it's, + <cough> it's ] got such a professional finish on them. /"
+aa,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,B,"that/DT ,/, and/CC that/DT 's/BES what/WP I/PRP hate/VBP doing/VBG is/VBZ the/DT finishing/NN stuff/NN ./.","[ that, + {C and } that's ] what I hate doing is the finishing stuff. /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,It/PRP 'd/MD be/VB nice/JJ to/TO have/VB that/DT ./.,It'd be nice to have that. /
+sd,A,So/RB I/PRP like/VBP that/DT ./.,{C So } I like that. /
+ba,B,"Oh/UH ,/, that/DT 's/BES neat/JJ ./.","{F Oh, } that's neat. /"
+%,A,And/CC ./.,{C And. } -/
+qy,B,"Well/UH ,/, do/VBP you/PRP have/VB ,/, um/UH ,/, uh/UH ,/,","{D Well, } do you have, {F um, } {F uh, } - /"
+sv,B,"I/PRP guess/VBP you/PRP 're/VBP kind/RB of/RB young/JJ ,/,","I guess you're kind of young, /"
+qy,B,"I/PRP was/VBD going/VBG to/TO say/VB ,/, do/VBP you/PRP have/VB grand/GW kids/^NNS or/CC anything/NN to/TO make/VB dolls/NNS for/IN ./.","I was going to say, do you have grand kids or anything to make dolls for. /"
+sv,A,"Well/UH ,/, fifty-seven/CD 's/BES not/RB young/JJ ,/,","{D Well, } fifty-seven's not young, /"
+nn,A,"but/CC no/UH ,/,","{C but } no, /"
+sd,A,"my/PRP$ son/NN 's/HVS ,/, has/VBZ been/VBN married/JJ for/IN almost/RB ten/CD years/NNS ,/,","my son's, has been married for almost ten years, /"
+sd,A,but/CC they/PRP do/VBP n't/RB have/VB any/DT children/NNS ./.,{C but } they don't have any children. /
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,A,"So/RB ,/, I/PRP just/RB make/VBP clothes/NNS for/IN my/PRP$ dolls/NNS ./.","{C So, } I just make clothes for my dolls. /"
+b,B,"Oh/UH ,/, well/UH ./.","{F Oh, } well. /"
+x,A,,<Laughter>.
+qw,B,"Well/UH ,/, how/WRB did/VBD you/PRP get/VB involved/VBN in/IN that/DT ?/.","{D Well, } how did you get involved in that? /"
+sd,A,"Just/RB ,/, you/PRP know/VBP ,/, just/RB like/UH sewing/VBG and/CC stuff/NN and/CC decided/VBD to/TO buy/VB a/DT pattern/NN and/CC try/VB to/TO make/VB a/DT doll/NN ./.","[ Just, + {D you know, } just ] {D like } sewing and stuff and decided to buy a pattern and try to make a doll. /"
+bf,B,"So/RB you/PRP did/VBD buy/VB a/DT pattern/NN ,/, and/CC then/RB started/VBD from/IN there/RB ./.","{C So } you did buy a pattern, and then started from there. /"
+sd,A,"And/CC they/PRP ,/, they/PRP turned/VBD out/RP really/RB cute/JJ ./.","{C And } [ they, + they ] turned out really cute. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,you/PRP got/VBN to/TO have/VB a/DT pattern/NN for/IN the/DT body/NN --/:,you got to have a pattern for the body --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: you/PRP know/VBP ./.,-- {D you know. } /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, } -/"
+qy,B,"Ha/VBP ,/, have/VBP you/PRP ever/RB seen/VBN those/DT bunnies/NNS --/:","[ Ha-, + have ] you ever seen those bunnies --"
+ny,A,Yes/UH ./.,Yes. /
++,B,--/: that/WDT they/PRP dress/VBP ?/.,-- that they dress? /
+ny,A,Yes/UH ./.,Yes. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP ,/, I/PRP did/VBD make/VB some/DT clothes/NNS for/IN one/CD of/IN those/DT --/:","[ I, + I ] did [ make some clothes for one of those -- +"
+qy,A,Are/VBP n't/RB they/PRP cute/JJ ?/.,Aren't they cute? /
++,B,--/: dress/VB one/CD of/IN those/DT ./.,-- dress one of those. ] /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP have/VBP quite/PDT a/DT few/NN of/IN them/PRP actually/UH in/IN my/PRP$ house/NN ,/,","I have quite a few of them {D actually } in my house, /"
+sd,B,"I/PRP ,/, and/CC most/JJS of/IN them/PRP I/PRP have/VBP bought/VBN ,/, um/UH ,/, already/RB clothed/VBN ,/,","[ I, + ] {C and } most of them I have bought, {F um, } already clothed, /"
+sd,B,but/CC I/PRP did/VBD --/:,{C but } [ I did + --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: I/PRP did/VBD make/VB the/DT dress/NN on/IN one/CD ,/,","-- I did ] make the dress on one, /"
+sd,B,and/CC I/PRP kind/RB of/RB made/VBD the/DT pattern/NN up/RP ./.,{C and } I kind of made the pattern up. /
+sd,B,"It/PRP 's/BES not/RB ,/, it/PRP 's/BES probably/RB not/RB the/DT best/JJS","[ It's not, + it's probably not ] the best <child_talking> /"
+%,B,"but/CC ,/,","{C but } <laughter>, -/"
+ar,A,"No/UH ,/,","No, /"
+sd,A,"I/PRP ,/, I/PRP bought/VBD a/DT bunny/NN pattern/NN one/CD time/NN ,/,","[ I, + I ] bought a bunny pattern one time, /"
+sd,A,"but/CC when/WRB I/PRP sewed/VBD it/PRP up/RP ,/, the/DT face/NN of/IN it/PRP looked/VBD like/IN a/DT mouse/NN ./.","{C but } when I sewed it up, the face of it looked like a mouse. /"
+bh,B,"Oh/UH ,/, it/PRP did/VBD ?/.","{F Oh, } it did? /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+bk,B,Oh/UH ./.,Oh. /
+sd,A,"See/UH ,/, it/PRP was/VBD too/RB pointed/JJ ./.","{D See, } it was too pointed. /"
+bk,B,Oh/UH ./.,Oh. /
+sd,A,"So/RB I/PRP tore/VBD it/PRP back/RB apart/RB again/RB ,/,","{C So } I tore it back apart again, /"
+sd,A,and/CC I/PRP have/VBP n't/RB tried/VBN another/DT one/CD ./.,{C and } I haven't tried another one. /
+qy,B,"You/PRP have/VBP n't/RB sewn/VBN it/PRP back/RB up/RP ,/, huh/UH ?/.","You haven't sewn it back up, huh? /"
+nn,A,"No/UH ,/,","No, /"
+sd,A,"but/CC I/PRP bought/VBD a/DT little/JJ lamb/NN pattern/NN and/CC the/DT material/NN and/CC everything/NN to/TO make/VB it/PRP out/IN of/IN ,/,","{C but } I bought a little lamb pattern and the material and everything to make it out of, /"
+sd,A,but/CC I/PRP have/VBP n't/RB made/VBN it/PRP yet/RB ./.,{C but } I haven't made it yet. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,B,"Uh/UH ,/, do/VBP you/PRP do/VB any/DT kind/NN of/IN painting/NN or/CC anything/NN ?/.","{F Uh, } do you do any kind of painting or anything? /"
+nn,A,"No/UH ,/,","No, /"
+sd,A,I/PRP do/VBP n't/RB --/:,I don't --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: paint/VB ,/, except/IN I/PRP stenciled/VBD my/PRP$ wall/NN ./.","-- paint, except I stenciled my wall. /"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+x,A,,<Laughter>.
+sd,B,"I/PRP tri/VBD ,/, I/PRP tried/VBD that/DT ,/,","[ I tri-, + I tried ] that, /"
+sd,B,"I/PRP did/VBD ,/, I/PRP ,/, I/PRP ended/VBD up/RP just/RB stenciling/VBG a/DT ,/, um/UH ,/, a/DT blind/NN ,/, like/UH a/DT ,/, just/RB a/DT roller/NN shade/NN ./.","[ [ I did, + I, ] + I ended ] up just stenciling [ [ [ a, + {F um, } a blind, ] + {D like } a, ] + just a roller shade. ] /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"But/CC ,/, I/PRP ,/, I/PRP can/MD ,/, I/PRP had/VBD a/DT hard/JJ time/NN stenciling/VBG ./.","{C But, } [ [ I, + I can, ] + I had ] a hard time stenciling. /"
+sd,B,For/IN some/DT reason/NN I/PRP just/RB could/MD n't/RB do/VB it/PRP ./.,For some reason I just couldn't do it. /
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+sd,B,And/CC people/NNS have/VBP told/VBN me/PRP it/PRP 's/BES very/RB easy/JJ ./.,{C And } people have told me it's very easy. /
+b,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,A,"I/PRP ,/, my/PRP$ neighbor/NN did/VBD it/PRP first/RB","[ I, + my neighbor ] did it first /"
+sd,A,and/CC I/PRP seen/VBN her/PRP$ house/NN,{C and } I seen her house /
+sd,A,"and/CC I/PRP saw/VBD how/WRB beautiful/JJ it/PRP looked/VBD ,/,","{C and } I saw how beautiful it looked, /"
+sd,A,"so/RB then/RB I/PRP decided/VBD well/UH ,/, I/PRP was/VBD going/VBG to/TO do/VB it/PRP ,/,","{C so } then I decided {D well, } I was going to do it, /"
+sd,A,and/CC --/:,{C and } --
+b,B,Well/UH ./.,{D Well. } -/
++,A,"--/: uh/UH ,/, it/PRP turned/VBD out/RP really/RB ,/, really/RB good/JJ ./.","-- {F uh, } it turned out really, really good. /"
+qw,B,What/WP design/NN did/VBD you/PRP use/VB ?/.,What design did you use? /
+sd,A,"Uh/UH ,/, mostly/JJ flowers/NNS --/:","{F Uh, } mostly flowers --"
+b,B,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
++,A,--/: you/PRP know/VBP ./.,-- {D you know. } /
+qw,B,"And/CC ,/, what/WP room/NN ?/.","And, what room? /"
+sd,A,"I/PRP 've/VBP done/VBN it/PRP in/IN the/DT all/DT ,/, uh/UH ,/, all/DT my/PRP$ rooms/NNS ./.","I've done it in [ [ the + all, ] + {F uh, } all ] my rooms. /"
+bh,B,Have/VBP you/PRP ?/.,Have you? /
+sd,A,"I/PRP put/VBD it/PRP in/IN the/DT bedrooms/NNS and/CC the/DT bathroom/NN ,/,","I put it in the bedrooms and the bathroom, /"

@@ -1,0 +1,207 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+sd,A,"I/PRP guess/VBP we/PRP 're/VBP supposed/VBN to/TO discuss/VB the/DT ,/, uh/UH ,/, school/NN system/NN ./.","I guess we're supposed to discuss the, {F uh, } school system. /"
+qy,A,That/DT should/MD n't/RB be/VB too/RB much/JJ trouble/NN for/IN the/DT two/CD of/IN us/PRP ./. Right/UH ?/.,That shouldn't be too much trouble for the two of us. Right? /
+nn,B,No/UH ./.,No. /
+sd,B,As/IN many/JJ years/NNS as/IN we/PRP 've/VBP been/VBN involved/VBN in/IN one/NN ./.,As many years as we've been involved in one. /
+sd,B,"I/PRP really/RB feel/VBP fortunate/JJ in/IN that/DT there/EX ,/, even/RB though/IN there/EX are/VBP problems/NNS ,/,","I really feel fortunate in that there, even though there are problems, /"
+sd,B,they/PRP 're/VBP not/RB a/DT lot/NN of/IN problems/NNS where/WRB I/PRP teach/VBP ./.,they're not a lot of problems where I teach. /
+b,A,Right/UH ./.,Right. /
+sd,B,"But/CC from/IN talking/VBG to/IN people/NNS in/IN other/JJ districts/NNS there/EX are/VBP some/DT major/JJ problems/NNS ,/, uh/UH ,/, with/IN dropouts/NNS ./.","<Lipsmack> {C But } from talking to people in other districts there are some major problems, {F uh, } with dropouts. /"
+sd,B,"Uh/UH ,/, when/WRB I/PRP was/VBD in/IN Minnesota/NNP last/JJ summer/NN --/:","{F Uh, } when I was in Minnesota last summer --"
+b,A,Uh-huh/UH ./.,Uh-huh <sniffing>. /
++,B,"--/: there/EX was/VBD a/DT teacher/NN who/WP said/VBD that/IN ,/, uh/UH ,/, on/IN a/DT given/VBN day/NN she/PRP did/VBD n't/RB know/VB how/WRB many/JJ of/IN her/PRP$ students/NNS would/MD show/VB up/RP","-- there was a teacher who said that, {F uh, } on a given day she didn't know how many of her students would show up /"
+sd,B,and/CC sometimes/RB they/PRP did/VBD n't/RB even/RB show/VB up/RP for/IN class/NN,{C and } sometimes they didn't even show up for class /
+sd,B,"and/CC she/PRP taught/VBD in/IN high/JJ school/NN in/IN inner/JJ city/NN ,/, uh/UH ,/, Minneapolis/NNP ./.","{C and } she taught in high school in inner city, {F uh, } Minneapolis. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, they/PRP just/RB did/VBD n't/RB come/VBN to/IN school/NN ./.","{C And, } {F uh, } they just didn't come to school. /"
+qy,A,That/DT 's/BES really/RB sad/JJ is/VBZ n't/RB it/PRP ?/. ./.,That's really sad isn't it? <throat_clearing>. /
+sd,B,And/CC I/PRP can/MD not/RB imagine/VB being/VBG able/JJ to/TO do/VB much/RB of/IN anything/NN when/WRB they/PRP do/VBP n't/RB even/RB come/VB to/IN school/NN ./.,{C And } I cannot imagine being able to do much of anything when they don't even come to school. /
+b,A,Right/UH ./.,Right. /
+sd,A,"Well/UH just/RB recently/RB in/IN the/DT paper/NN here/RB ,/, were/VBD articles/NNS about/IN students/NNS ,/, uh/UH ,/, working/VBG ./. High/JJ school/NN students/NNS --/:","{D Well } just recently in the paper here, were articles about students, {F uh, } working. High school students --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: that/WDT work/VBP and/CC the/DT percentage/NN of/IN hours/NNS that/WDT they/PRP work/VBP and/CC how/WRB that/DT affects/VBZ their/PRP$ grades/NNS ./.,-- that work and the percentage of hours that they work and how that affects their grades. /
+sd,A,"But/CC then/RB the/DT follow-up/NN the/DT next/JJ day/NN was/VBD ,/,","{C But then } the follow-up the next day was, - /"
+sd,A,"I/PRP was/VBD kind/RB of/RB glad/JJ to/TO see/VB ,/,","I was kind of glad to see, <noise> - /"
+sd,A,"because/IN it/PRP ,/, it/PRP said/VBD that/IN ,/, you/PRP know/VBP ,/,","{C because } [ it, + it ] said that, {D you know, } - /"
+^q,A,yes/UH,yes /
+sd,A,"but/CC for/IN those/DT students/NNS who/WP are/VBP determined/VBN to/TO do/VB well/RB anyway/RB ,/, that/IN ,/, you/PRP know/VBP ,/, handling/VBG a/DT job/NN was/VBD very/RB possible/JJ ./.","{C but } for those students who are determined to do well anyway, that, {D you know, } handling a job was very possible."
+x,B,./.,<Lipsmack>.
++,A,"You/PRP know/VBP ,/, and/CC that/DT it/PRP seemed/VBD to/TO have/VB more/JJR to/TO do/VB with/IN other/JJ factors/NNS ./.","{D You know, } and that it seemed to have more to do <<pause>> with other factors. /"
+aa,B,I/PRP think/VBP so/RB too/RB ./.,I think so too. /
+sd,A,"You/PRP know/VBP like/IN ,/, what/WP are/VBP their/PRP$ plans/NNS after/IN high/JJ school/NN ,/, you/PRP know/VBP ./.","{D You know } {D like, } what are their plans after high school, {D you know. } /"
+sd,A,And/CC what/WP 's/BES their/PRP$ home/NN situation/NN ./.,{C And } what's their home situation. /
+%,A,"You/PRP know/VBP that/IN ,/,","{D You know } that, -/"
+sv,B,The/DT home/NN is/VBZ the/DT key/NN ./.,The home is the key. /
+b,A,Right/UH ./.,Right. /
+sv,B,"I/PRP think/VBP really/RB is/VBZ because/IN if/IN the/DT home/NN ,/,","I think really is because if the home,"
+b,A,./.,<Breathing>.
++,B,does/VBZ not/RB place/VB a/DT high/JJ priority/NN on/IN education/NN --/:,does not place a high priority on education -- -/
++,A,Right/UH ./.,Right. /
+sv,B,"--/: and/CC ,/, uh/UH ,/, the-/DT ,/, the/DT main/JJ goal/NN is/VBZ making/VBG money/NN now/RB","-- {C and, } {F uh, } [ the-, + the ] main goal is making money now /"
+sv,B,and/CC it/PRP may/MD be/VB a/DT survival/NN thing/NN --/:,{C and } it may be a survival thing --
+b,A,Right/UH ./.,Right. /
++,B,"--/: for/IN the/DT family/NN ,/, which/WDT you/PRP can/MD understand/VB ./.","-- for the family, which you can understand. /"
+b,A,Sure/UH ./.,Sure. /
+%,B,"So/UH ,/, uh/UH ,/,","{D So, } {F uh, } -/"
+sv,A,But/CC there/EX can/MD still/RB be/VB an/DT attitude/NN of/IN --/:,{C But } there can still be an attitude of -- -/
+b,B,Right/UH ./.,Right. /
+^q,A,"--/: you/PRP know/VBP ,/, this/DT is/VBZ a/DT stopgap/NN measure/NN because/IN we/PRP need/VBP it/PRP right/RB now/RB ,/,","-- {D you know, } this is a stopgap measure because we need it right now, /"
+sv,A,"but/CC ,/, but/CC that/DT the/DT most/RBS important/JJ thing/NN is/VBZ still/RB ,/, you/PRP know/VBP --/:","[ {C but, } + {C but } ] [ that + the ] most important thing is still, <<pause>> {D you know } --"
+^2,B,Your/PRP$ education/NN ./.,Your education. /
++,A,--/: getting/VBG your/PRP$ education/NN ./.,-- getting your education. /
+x,B,./.,<Breathing>.
+sd,A,"Well/UH when/WRB they/PRP meant/VBD ,/, said/VBD the/DT ,/, the/DT topic/NN ,/, you/PRP know/VBP ,/, of/IN what/WP 's/BES wrong/JJ with/IN the/DT public/JJ schools/NNS ,/, my/PRP$ ,/, my/PRP$ first/JJ im-/NN ,/, impulse/NN was/VBD it/PRP is/VBZ n't/RB really/RB what/WP 's/BES wrong/JJ with/IN the/DT public/JJ ,/, public/JJ schools/NNS ./.","{D Well } when they [ meant, + said ] [ the, + the ] topic, {D you know, } of what's wrong with the public schools, [ my, + my ] first [ im-, + impulse ] was <<pause>> it isn't really what's wrong with the [ public, + public ] schools. /"
+sd,A,It/PRP 's/BES what/WP 's/BES wrong/JJ with/IN families/NNS ./.,It's what's wrong with families <laughter>. /
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
+sd,B,It/PRP 's/BES what/WP 's/BES wrong/JJ with/IN families/NNS,It's what's wrong with families /
+sv,B,"and/CC if/IN ,/, if/IN children/NNS come/VB to/TO school/NN ,/,","{C and } [ if, + if ] children come to school,"
++,B,"yes/UH ,/, insecure/JJ and/CC their/PRP$ mo-/XX ,/, biggest/JJS concern/NN is/VBZ survival/NN --/:","{A yes, } insecure and their [ mo-, + ] biggest concern is survival --"
+b,A,Right/UH ./.,Right. /
++,B,"--/: both/DT at/IN home/NN ,/,","-- both at home, - /"
+sv,B,they/PRP do/VBP n't/RB know/VB what/WP to/TO expect/VB at/IN home/NN ./.,they don't know what to expect at home. /
+sv,B,"They/PRP do/VBP n't/RB feel/VB secure/JJ there/RB ,/,","They don't feel secure there, /"
+sv,B,they/PRP do/VBP n't/RB know/VB what/WP 's/BES going/VBG to/TO happen/VB just/RB out/IN front/NN of/IN their/PRP$ apartment/NN complex/NN ./.,they don't know what's going to happen just out front of their apartment complex. /
+b,A,Right/UH ./.,Right. /
+sd,B,For/IN example/NN that/DT child/NN that/WDT was/VBD shot/VBN ./.,For example that child that was shot. -/
+b,A,Right/UH ./.,Right. /
+qh,B,"Uh/UH ,/, how/WRB can/MD they/PRP concentrate/VB on/IN schooling/NN ?/.","<Noise> {F Uh, } how can they concentrate on schooling? /"
+sd,B,I/PRP agree/VBP --/:,I agree --
+b,A,Right/UH ./.,Right. /
++,B,"--/: with/IN you/PRP ,/,","-- with you, /"
+sv,B,I/PRP think/VBP that/DT 's/BES the/DT main/JJ problem/NN ./.,I think that's the main problem. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC schools/NNS now/RB are/VBP supposed/VBN to/TO solve/VB social/JJ problems/NNS ,/, uh/UH ,/, mental/JJ and/CC emotional/JJ problems/NNS --/:","{C And } schools now are supposed to solve social problems, {F uh, } mental and emotional problems --"
+%,A,Huh/UH ./.,{F Huh. } /
++,B,--/: as/RB well/RB as/IN educate/VB the/DT kids/NNS and/CC try/VB to/TO provide/VB them/PRP with/IN some/DT security/NN ./.,-- as well as educate the kids and try to provide them with some security. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,And/CC that/DT 's/BES overwhelming/JJ ./.,{C And } that's overwhelming. /
+sd,A,"Well/UH we/PRP 've/VBP got/VBN ,/, uh/UH ,/, you/PRP know/VBP at/IN our/PRP$ school/NN we/PRP have/VBP over/IN a/DT thousand/CD elementary/JJ kids/NNS","{D Well } [ we've got, + {F uh, } {D you know } at our school we have ] over a thousand elementary kids /"
+sd,A,and/CC last/JJ year/NN was/VBD the/DT first/JJ year/NN that/WDT we/PRP ever/RB had/VBD more/RBR than/IN one/CD counselor/NN ./.,{C and } last year was the first year that we ever had more than one counselor. /
+sd,A,And/CC that/DT 's/BES just/RB really/RB not/RB enough/RB ./.,{C And } that's just really not enough. /
+aa,B,No/UH ./.,No. /
+aa,B,It/PRP is/VBZ n't/RB ./.,It isn't. /
+sd,A,And/CC I/PRP was/VBD talking/VBG to/IN somebody/NN that/WDT teaches/VBZ in/IN a/DT middle/JJ school/NN,{C And } I was talking to somebody that teaches <noise> in a middle school /
+sd,A,"and/CC they/PRP said/VBD ,/, oh/UH ,/, but/CC we/PRP need/VBP more/RBR in/IN the/DT middle/JJ school/NN because/IN that/DT 's/BES when/WRB kids/NNS are/VBP ,/, you/PRP know/VBP ,/, at/IN a/DT tougher/JJR and/CC rougher/JJR age/NN and/CC all/PDT that/DT ./.","{C and } they said, {F oh, } [ but + ] we need more in the middle school because that's when kids are, {D you know, } at a tougher and rougher age and all that. /"
+sd,A,"But/CC ,/, you/PRP know/VBP ,/, part/NN of/IN my/PRP$ feeling/NN is/VBZ that/IN if/IN you/PRP solve/VBP ,/VBP help/VB them/PRP to/TO work/VB through/IN their/PRP$ problems/NNS while/IN they/PRP 're/VBP littler/JJR ,/, then/RB they/PRP wo/MD n't/RB have/VB as/RB many/JJ problems/NNS up/IN there/RB ./.","{C But, } {D you know, } part of my feeling is that if you [ solve, + help ] them to work through their problems while they're littler, then they won't have as many problems up there. /"
+aa,B,True/UH ./.,True. /
+sv,B,"I/PRP think/VBP they/PRP ,/, there/EX has/VBZ to/TO be/VB at/IN least/JJS a/DT counselor/NN","I think [ they, + there ] has to be at least a counselor /"
+sd,B,and/CC we/PRP just/RB recently/RB had/VBD a/DT counselor/NN at/IN elementary/JJ ./.,{C and } we just recently had a counselor at elementary. /
+sd,B,We/PRP did/VBD n't/RB even/RB have/VB counselors/NNS in/IN elementary/JJ ./.,We didn't even have counselors in elementary. /
+b,A,Really/UH ./.,Really. /
+sd,B,"We/PRP have/VBP always/RB ,/, though/RB ,/, had/VBN three/CD at/IN middle/JJ schools/NNS because/IN we/PRP had/VBD about/RB a/DT thousand/CD kids/NNS","We have always, though, had three at middle schools because we had about a thousand kids /"
+sd,B,and/CC they/PRP divided/VBD them/PRP up/RP between/IN three/CD counselors/NNS,{C and } they divided them up between three counselors /
+sd,B,but/CC for/IN a/DT good/JJ while/NN every/DT year/NN they/PRP 'd/MD have/VB a/DT different/JJ counselor/NN,{C but } for a good while every year they'd have a different counselor /
+sd,B,and/CC they/PRP decided/VBD that/DT did/VBD n't/RB work/NN ./.,{C and } they decided that didn't work. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"So/RB they/PRP started/VBD ,/, uh/UH ,/, dividing/VBG the/DT kids/NNS up/RP so/IN that/IN a/DT counselor/NN stays/VBZ with/IN her/PRP$ group/NN of/IN counselees/NNS --/:","{D So } they started, {F uh, } dividing the kids up so that a counselor stays with her group of counselees --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,They/PRP --/:,[ They -- +
++,B,--/: through/IN --/:,-- [ through -- +
++,A,--/: they/PRP do/VBP that/DT here/RB ./.,-- they ] do that here. /
++,B,"--/: you/PRP know/VBP ,/, through/IN all/DT three/CD years/NNS of/IN middle/JJ school/NN ./.","-- {D you know, } through ] all three years of middle school. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,And/CC I/PRP think/VBP that/DT would/MD give/VB them/PRP more/JJR security/NN in/IN going/VBG to/IN the/DT counselor/NN ./.,{C And } I think that would give them more security in going to the counselor. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,If/IN they/PRP have/VBP a/DT rapport/NN with/IN their/PRP$ counselor/NN ./.,If they have a rapport with their counselor. /
+sd,B,"Now/RB if/IN they/PRP do/VBP n't/RB ,/,","{D Now } if they don't,"
++,B,I/PRP hope/VBP they/PRP have/VBP the/DT flexibility/NN to/TO be/VB able/JJ to/TO change/VB --/:,I hope they have the flexibility to be able to change --
+b,A,yeah/UH ./.,yeah. /
++,B,--/: a/DT child/NN that/WDT really/RB is/VBZ in/IN need/NN of/IN counseling/NN help/NN if/IN they/PRP absolutely/RB refuse/VBP to/TO work/VB with/IN them/PRP ./.,-- a child that really is in need of counseling help if they absolutely refuse to work with them. /
+sd,B,And/CC occasionally/RB that/DT happens/VBZ ./.,{C And } occasionally that happens. /
+b,A,Right/UH ./.,Right. /
+sv,B,"But/CC ,/, it/PRP is/VBZ frightening/JJ","{C But, } it is frightening /"
+sv,B,"b-/IN ,/,","[ {C b-, } +"
+aa,A,"Yes/UH ,/,","Yes, /"
+aa,A,it/PRP certainly/RB is/VBZ ./.,it certainly is. /
++,B,"Because/IN ,/, uh/UH ,/, education/NN is/VBZ the/DT key/NN to/IN our/PRP$ future/NN","{C Because, } ] {F uh, } education is the key to our future /"
+qh,B,"and/CC ,/, uh/UH ,/, if/IN we/PRP have/VBP children/NNS who/WP are/VBP not/RB getting/VBG their/PRP$ education/NN ,/, for/IN one/CD reason/NN or/CC another/DT ,/, then/RB what/WP are/VBP we/PRP going/VBG to/TO do/VB with/IN them/PRP ?/.","{C and, } {F uh, } if we have children who are not getting their education, for one reason or another, then what are we going to do with them? /"
+aa,A,Yeah/UH ./.,Yeah. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right <<very faintly>>. /
+qh,B,What/WP 's/BES going/VBG to/TO happen/VB to/IN them/PRP ?/.,What's going to happen to them? /
+qh,B,"Are/VBP they/PRP going/VBG to/TO be/VB able/JJ to/TO ,/, uh/UH ,/, work/VB at/IN other/JJ kind/NN of/IN menial/JJ jobs/NNS","Are they going to be able to, {F uh, } work at other kind of menial jobs /"
+qh,B,or/CC are/VBP they/PRP going/VBG to/TO be/VB the/DT thieves/NNS and/CC the/DT people/NNS --/:,{C or } are they going to be the thieves and the people --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: in/IN prison/NN ./.,-- in prison. /
+sd,B,And/CC our/PRP$ prisons/NNS are/VBP filling/VBG up/RP faster/RB then/RB we/PRP can/MD build/VB them/PRP ./.,{C And } our prisons are filling up faster then we can build them. /
+b,A,Right/UH ./.,Right. /
+sv,B,That/DT 's/BES no/RB good/JJ ./.,That's no good. /
+sd,A,"I/PRP 'm/VBP on/IN that/DT ,/, um/UH ,/, campus/NN strategic/JJ planning/NN committee/NN for/IN my/PRP$ school/NN ./.","I'm on that, {F um, } campus strategic planning committee for my school. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, one/CD of/IN the/DT ,/, uh/UH ,/, you/PRP know/VBP ,/, oh/UH ,/,","{C And, } {F uh, } one of the, {F uh, } <sigh> {D you know, } {F oh, } - /"
+sd,A,"they/PRP have/VBP all/PDT these/DT different/JJ names/NNS for/IN things/NNS ,/, strategies/NNS and/CC all/PDT these/DT different/JJ things/NNS ./.","they have all these different names for things, strategies and all these different things. /"
+sd,A,"But/CC ,/, anyway/RB ,/, one/CD of/IN the/DT key/JJ things/NNS was/VBD that/IN that/IN we/PRP believed/VBD that/IN the/DT public/JJ education/NN is/VBZ the/DT best/JJS economic/JJ value/NN ./.","{C But, } anyway, one of the key things was [ that + that ] we believed that the public education is the best <lipsmack> <<pause>> economic value. /"
+sd,A,Then/RB I/PRP think/VBP they/PRP decided/VBD to/TO strike/VB economic/JJ ./.,Then I think they decided to strike economic. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Anyway/RB ,/, you/PRP know/VBP ,/, the/DT point/NN was/VBD ,/, what/WP happens/VBZ when/WRB public/JJ education/NN fails/VBZ ?/.","<Laughter> Anyway, {D you know, } the point was, what happens when public education fails? /"
+qh,A,You/PRP know/VBP --/:,{D You know } --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: will/MD then/RB people/VB go/VB to/IN private/JJ schools/NNS ?/.,-- will then people go to private schools? /
+qh,A,"You/PRP know/VBP ,/, well/UH ,/, what/WP kind/NN of/IN a/DT situation/NN do/VBP they/PRP get/VB there/RB","{D You know, } {D well, } what kind of a situation do they get there /"
+qh,A,"and/CC what/WP are/VBP ,/, you/PRP know/VBP ,/,","{C and } what are, {D you know, } - /"
+qh,A,"and/CC what/WP kind/NN of/IN state/NN are/VBP we/PRP in/IN if/IN ,/, if/IN most/JJS people/NNS are/VBP going/VBG to/IN private/JJ schools/NNS ./.","{C and } what kind of state are we in [ if, + if ] most people are going to private schools. /"
+sv,B,"Well/UH I/PRP think/VBP ,/, uh/UH ,/, one/CD thing/NN that/WDT we/PRP 'll/MD see/VB is/VBZ that/IN we/PRP wo/MD n't/RB be/VB educating/VBG everybody/NN ./.","{D Well } I think, {F uh, } one thing that we'll see is that we won't be educating everybody. /"
+b,A,Right/UH ./.,Right. /
+sv,B,There/EX will/MD be/VB a/DT lot/NN of/IN people/NNS who/WP will/MD not/RB get/VB even/RB a/DT menial/JJ education/NN like/IN in/IN other/JJ countries/NNS of/IN the/DT world/NN --/:,There will be a lot of people who will not get even a menial education like in other countries of the world --
+b,A,Right/UH ./.,Right. /
++,B,--/: where/WRB they/PRP do/VBP n't/RB try/VB to/TO educate/VB everyone/NN ./.,-- where they don't try to educate everyone. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,That/DT 's/BES one/CD of/IN the/DT things/NNS that/WDT we/PRP do/VBP ./.,That's one of the things that we do. /
+sd,B,We/PRP try/VBP to/TO educate/VB everyone/NN ./.,We try to educate everyone. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+sd,B,We/PRP 're/VBP the/DT only/JJ country/NN in/IN the/DT world/NN that/WDT does/VBZ ./.,We're the only country in the world that does. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC let/VBP everyone/NN have/VB an/DT opportunity/NN to/TO reach/VB higher/JJR education/NN --/:,{C And } let everyone have an opportunity to reach higher education --
+b,A,Uh-huh/UH ./.,Uh-huh <<very faintly>>. /
++,B,"--/: if/IN they/PRP 're/VBP willing/JJ ,/, you/PRP know/VBP ,/, to/TO work/VB --/:","-- if they're willing, {D you know, } to work --"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: and/CC have/VBP ,/, uh/UH ,/, some/DT ability/NN ./.","-- and have, {F uh, } some ability. /"
+sd,B,They/PRP can/MD do/VB that/DT ./.,They can do that. /
+sd,A,"and/CC one/CD of/IN the/DT Plano/NNP school/NN district/NN 's/POS ,/, you/PRP know/VBP ,/, goals/NNS is/VBZ that/IN they/PRP will/MD graduate/VB every/DT child/NN that/WDT ,/, uh/UH ,/, that/WDT is/VBZ here/RB in/IN the/DT ninth/JJ grade/NN ,/,","{C and } one of the Plano school district's, {D you know, } goals <noise> is that they will graduate every child [ that, + {F uh, } that ] is here in the ninth grade, /"
+h,A,I/PRP believe/VBP --/:,I believe --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: it/PRP 's/BES something/NN like/IN that/DT ,/,","-- it's something like that, /"
+sd,A,it/PRP 's/BES worded/VBN ./.,it's worded. /
+h,A,"And/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ./.","{C And, } {F uh, } <lipsmack> I don't know <laughter>. /"
+sv,B,Well/UH you/PRP know/VBP if/IN we/PRP can/MD keep/VB them/PRP in/IN school/NN ./.,{D Well } {D you know } if we can keep them in school. -/
+b,A,Right/UH ./.,Right. /
+b,B,Uh-huh/UH --/:,Uh-huh -- /
+sv,A,That/DT 's/BES --/:,That's --
+sv,B,"--/: then/RB that/DT ,/, that/WDT helps/VBZ a/DT lot/NN ./.","-- then [ that, + that ] helps a lot. /"
++,A,"--/: so/RB important/JJ ,/,","-- so important, /"
+sv,B,I/PRP think/VBP the/DT gang/NN violence/NN is/VBZ scaring/VBG everyone/NN to/IN death/NN too/RB ./.,I think the gang violence is scaring everyone to death too. /
+ba,A,Oh/UH gosh/UH ./.,{F Oh } gosh. /
+sd,A,"Well/UH that/DT new/JJ movie/NN ,/,","{D Well } [ that new movie, +"
+sd,B,It/PRP 's/BES scary/JJ to/IN me/PRP ./.,It's scary to me. /
++,A,"That/DT new/JJ movie/NN out/RP ,/,","<Laughter> That new movie ] out, - /"
+%,A,"I/PRP ,/, um/UH ,/,","I, {F um, } - /"
+sv,A,"really/RB ,/,","[ really, +"
+aa,B,"I/PRP ,/,","[ I, +"
++,A,really/RB a/DT frightening/JJ situation/NN ./.,really ] a frightening situation. - /
+sv,A,I/PRP guess/VBP we/PRP 're/VBP both/DT lucky/JJ ./.,I guess we're both lucky.
++,B,We/PRP are/VBP ./.,We ] are. /
++,A,To/TO be/VB in/IN situations/NNS and/CC schools/NNS where/WRB we/PRP do/VBP n't/RB see/VB that/DT ./.,To be in situations and schools where we don't see that. /
+sd,A,My/PRP$ folks/NNS talk/VBP about/IN it/PRP a/DT lot/NN in/IN Illinois/NNP ./.,My folks talk about it a lot in Illinois. /
+sd,A,My/PRP$ mother/NN was/VBD is/VBZ was/VBD teacher/NN for/IN years/NNS and/CC years/NNS,My mother was is was teacher for years and years /
+sd,A,"and/CC ,/, uh/UH ,/, they/PRP live/VBP in/IN Peoria/NNP ,/, Illinois/NNP ,/,","{C and, } {F uh, } <lipsmack> they live in Peoria, Illinois, /"
+sd,A,"and/CC they/PRP 're/VBP talking/VBG a/DT lot/NN about/IN the/DT ,/, you/PRP know/VBP ,/, the/DT school/NN situation/NN there/RB ,/, too/RB ./.","{C and } <noise> they're talking a lot about [ the, + {D you know, } the ] school situation there, too. / *[[their should be they're]]"
+qy,A,"So/UH ,/, well/UH ,/, shall/MD we/PRP wrap/VB it/PRP up/RP ?/.","{D So, } <lipsmack> {D well, } shall we wrap it up? /"
+sv,B,"Uh/UH ,/, I/PRP would/MD imagine/VB that/IN we/PRP 've/VBP talked/VBN the/DT amount/NN of/IN time/NN necessary/JJ ./.","{F Uh, } I would imagine that we've talked the amount of time necessary. /"
+aa,A,I/PRP think/VBP we/PRP have/VBP to/^RB ./.,I think we have to. /
+b,B,Okay/UH ./.,Okay. /
+fc,A,So/UH I/PRP 'll/MD see/VB you/PRP when/WRB we/PRP see/VBP you/PRP ./.,{C So } I'll see you when we see you. /
+fc,B,Alright/UH ./.,Alright. /
+sd,B,"We/PRP were/VBD in/IN ,/, uh/UH ,/, Austin/NNP yesterday/NN ./.","We were in, {F uh, } Austin yesterday. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,The/DT reason/NN that/WDT I/PRP was/VBD n't/RB at/IN church/NN,<Lipsmack> The reason that I wasn't at church - /
+sd,A,"and/CC we/PRP went/VBD to/TO hear/VB ,/, uh/UH ,/, James/NNP wind/NN ensemble/NN concert/NN --/:","{C and } we went to hear, {F uh, } James wind ensemble concert -- /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"--/: they/PRP left/VBD this/DT morning/NN for/IN ,/, uh/UH ,/, England/NNP ./.","-- they left this morning for, {F uh, } England. /"
+ba,B,"Oh/UH ,/, how/WRB exciting/JJ ./.","{F Oh, } how exciting. /"
+qy,A,Is/VBZ n't/RB that/DT wonderful/JJ ?/.,Isn't that wonderful? /
+na,B,"Oh/UH ,/, that/DT is/VBZ wonderful/JJ ./.","{F Oh, } that is wonderful. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+ba,B,What/WP an/DT experience/NN ./.,What an experience. /
+sd,A,"And/CC ,/, uh/UH ,/, the/DT university/NN .../:","{C And, } {F uh, } the university <<voices fade>> ... -/"

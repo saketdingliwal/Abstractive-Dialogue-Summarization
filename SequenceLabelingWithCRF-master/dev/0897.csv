@@ -1,0 +1,208 @@
+act_tag,speaker,pos,text
+qo,A,"Uh/UH ,/, so/UH ,/, Jack/NNP ,/, what/WDT type/NN of/IN music/NN do/VBP you/PRP like/VB ?/.","{F Uh, } {D so, } Jack, what type of music do you like? /"
+sd,B,"Well/UH ,/, I/PRP like/VBP ,/, uh/UH ,/, classical/JJ ,/,","{D Well, } I like, {F uh, } classical,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"and/CC ,/, uh/UH ,/, sort/RB of/RB ,/, uh/UH ,/, popular/JJ rock/NN type/NN music/NN ./. Uh/UH ,/,","and, {F uh, } sort of, {F uh, } popular rock type music. {F Uh, } /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,I/PRP enjoy/VBP classical/JJ too/RB ./.,I enjoy classical too. /
+sd,A,"I/PRP never/RB really/RB had/VBD listened/VBN to/IN it/PRP till/IN I/PRP ,/, I/PRP got/VBD married/VBN ,/,","I never really had listened to it till [ I, + I ] got married, /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"and/CC ,/, and/CC my/PRP$ wife/NN ,/, uh/UH ,/, enjoys/VBZ it/PRP ./.","[ {C and, } + {C and } ] my wife, {F uh, } enjoys it. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/RB I/PRP had/VBD never/RB listened/VBN to/IN it/PRP bef-/RB ,/, till/IN then/RB ,/,","{C So } I had never listened to it [ bef-, + till ] then, /"
+sd,A,"but/CC now/RB I/PRP listen/VBP to/IN it/PRP well/UH ,/, whenever/WRB she/PRP does/VBZ ./.","{C but } now I listen to it {D well, } whenever she does. /"
+sd,A,"And/CC even/RB every/DT once/RB in/IN a/DT while/NN I/PRP put/VBP it/PRP on/IN myself/PRP ,/, you/PRP know/VBP ./.","{C And } even every once in a while I put it on myself, {D you know. } /"
+b,B,Yep/UH ./.,Yep. /
+%,A,"Um/UH ,/, wh-/XX ,/,","{F Um, } [ wh-, + ] -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP ,/, I/PRP used/VBD to/TO play/VB the/DT piano/NN ,/,","[ I, + I ] used to play the piano, /"
+sd,B,"and/CC I/PRP like/VBP ,/, uh/UH ,/, Bach/NNP and/CC ,/,","{C and } I like, {F uh, } Bach and,"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,B,"Um/UH ,/, sort/RB of/RB the/DT baroque/NN music/NN ,/, Handel/NNP and/CC ,/,","{F Um, } sort of the baroque music, Handel and,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"uh/UH ,/, Vivaldi/NNP and/CC those/DT kinds/NNS of/IN ,/,","{F uh, } Vivaldi and those kinds of, -/"
+b,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sv,A,"see/UH those/DT ,/, those/DT are/VBP really/RB nice/JJ ./.","{D see } [ those, + those ] are really nice. /"
+sd,A,I/PRP like/VBP those/DT ./.,I like those. /
+b,B,"Yep/UH ,/,","Yep, /"
+b,B,yep/UH ./.,yep. /
+sd,A,"Though/IN I/PRP ,/, I/PRP could/MD n't/RB tell/VB you/PRP anything/NN about/IN them/PRP other/JJ than/IN when/WRB my/PRP$ wife/NN says/VBZ ,/, This/DT is/VBZ Bach/NNP ,/, you/PRP know/VBP ./.","Though [ I, + I ] couldn't tell you anything about them other than when my wife says, This is Bach, {D you know. } /"
+b,B,Oh/UH ./.,Oh. /
+b,B,"Yep/UH ,/,","Yep, /"
+b,B,yep/UH ./.,yep. /
+x,A,./.,<Laughter>.
+sd,B,"Well/UH ,/, I/PRP ,/, you/PRP know/VBP ,/, I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB know/VB all/RB that/RB much/RB myself/PRP ,/,","{D Well, } [ I, + {D you know, } [ I don't, + I don't ] ] know all that much myself, /"
+sd,B,"I/PRP just/RB ,/, I/PRP just/RB know/VBP ,/,","[ I just, + I just ] know,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,when/WRB I/PRP hear/VBP it/PRP that/IN I/PRP like/VBP it/PRP ./.,when I hear it that I like it. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"that/IN you/PRP w/WP ,/,","that you w-, - /"
+%,A,what/WP you/PRP like/VBP ./.,what you like. - /
+qo,A,How/WRB about/IN popular/JJ music/NN ?/.,How about popular music? /
+^h,B,Yeah/UH ./.,Yeah. /
+sd,B,"Uh/UH ,/, whatsever/WP 's/BES on/IN the/DT radio/NN is/VBZ ,/, is/VBZ usually/RB okay/JJ with/IN me/PRP ,/,","{F Uh, } whatsever's on the radio [ is, + is ] usually okay with me, /"
+sd,B,"but/CC ,/,","{C but, }"
+b,A,Um/UH ./.,{F Um. }
++,B,"um/UH ,/, sometimes/RB I/PRP have/VBP a/DT hard/JJ time/NN unders/VBG ,/, you/PRP know/VBP ,/, hearing/VBG the/DT words/NNS clearly/RB if/IN I/PRP 'm/VBP in/IN the/DT car/NN and/CC there/EX 's/BES noise/NN and/CC stuff/NN","{F um, } sometimes I have a hard time [ unders-, + {D you know, } hearing ] the words clearly if I'm in the car and there's noise and stuff /"
+%,B,"so/RB ,/,","{C so, } -/"
++,A,Yeah/UH ./.,Yeah. /
+sd,B,It/PRP 's/BES mostly/RB just/RB the/DT tunes/NNS ./.,It's mostly just the tunes. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP 'm/VBP pretty/RB much/JJ the/DT same/JJ way/NN ./.,I'm pretty much the same way. /
+sv,A,"You/PRP know/VBP ,/, people/NNS always/RB say/VBP ,/, Wow/UH !/. Th-/DT ,/, the/DT meanings/NNS of/IN those/DT words/NNS ./.","{D You know, } people always say, Wow! [ Th-, + the ] meanings of those words. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,I/PRP know/VBP ./.,I know. /
+sd,A,"And/CC I/PRP 'm/VBP always/RB ,/, meaning/VBG ?/.","{C And } I'm always, meaning? /"
+%,A,"There/EX 's/BES wor-/XX ,/, well/UH ,/, you/PRP know/VBP ,/,","There's [ wor-, + ] {D well, } {D you know, } -/"
+x,B,./.,<Laughter>.
+sd,A,"I/PRP just/RB thought/VBD they/PRP just/RB all/DT sort/RB of/RB rhymed/VBD ,/, you/PRP know/VBP ./.","I just thought they just all sort of rhymed, {D you know. } /"
+ba,B,"I/PRP know/VBP ,/,","I know, /"
+ba,B,I/PRP know/VBP ./.,I know. /
+sd,B,About/RB the/DT only/JJ thing/NN I/PRP can/MD remember/VB after/IN the/DT song/NN is/VBZ over/IN is/VBZ the/DT refrain/NN ./.,About the only thing I can remember after the song is over is the refrain. /
+b,A,"Right/UH ,/,","Right, /"
+b,A,yeah/UH ./.,yeah. /
+sv,A,"That/IN ,/, whenever/WRB they/PRP say/VBP it/PRP two/CD or/CC three/CD times/NNS ./.","That, whenever they say it two or three times. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,yeah/UH ./.,yeah. /
+sd,A,I/PRP 'm/VBP the/DT same/JJ way/NN ./.,I'm the same way <laughter>. /
+%,A,Yeah/UH ./.,Yeah. /
+sv,A,"It/PRP 's/BES funny/JJ ,/, uh/UH ,/, depending/VBG on/IN where/WRB you/PRP live/VBP ,/,","It's funny, {F uh, } depending on where you live, /"
+sd,A,"I/PRP ,/, I/PRP ,/, I/PRP commute/VBP back/RB and/CC forth/RB between/IN Baltimore/NNP and/CC a/DT rural/JJ town/NN called/VBN Salisbury/NNP ,/,","[ [ I, + I, ] + I ] commute back and forth between Baltimore and a rural town called Salisbury,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"which/WDT is/VBZ two/CD and/CC a/DT half/NN hours/NNS away/RB ,/,","which is two and a half hours away, /"
+sd,A,"and/CC the/DT difference/NN in/IN the/DT radio/NN with/IN popular/JJ music/NN ,/,","{C and } the difference in the radio with popular music,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"is/VBZ totally/RB different/JJ ,/, you/PRP know/VBP ,/,","is totally different, {D you know, } /"
+%,A,"when/WRB ,/,","when, -/"
+bh,B,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"because/IN Baltimore/NNP will/MD play/VB more/JJR ,/, uh/UH ,/, what/WP might/MD be/VB considered/VBN m-/XX ,/, a/DT little/JJ bit/NN more/RBR progressive/JJ ?/.","{C because } Baltimore will play more, {F uh, } what might be considered [ m-, + a little bit more ] progressive? /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC as/RB soon/RB as/IN you/PRP go/VBP down/IN to/IN Salisbury/NNP ,/, this/DT town/NN that/WDT 's/BES ,/, you/PRP know/VBP ,/, uh/UH ,/, two/CD and/CC a/DT half/NN hours/NNS away/RB in/IN the/DT suburbs/NNS or/CC whatever/WP ,/, uh/UH ,/, in/IN a/DT real/RB rural/JJ Balt-/NNP ,/, uh/UH ,/, Maryland/NNP ,/,","{C And } as soon as you go down to Salisbury, this town that's, {D you know, } {F uh, } two and a half hours away in the suburbs or whatever, {F uh, } in a real rural [ Balt-, + ] {F uh, } Maryland,"
+bh,B,Yes/UH ?/.,Yes? /
++,A,"they/PRP ,/, it/PRP turns/VBZ into/IN ber-/XX ,/, basically/RB classic/JJ rock/NN ./.","[ they, + it ] turns into [ ber-, + basically ] classic rock. /"
+bh,B,Yeah/UH ?/.,Yeah? /
+%,A,"And/CC they/PRP do/VBP n't/RB ,/, you/PRP know/VBP ./.","{C And } they don't, {D you know. } -/"
+qy,B,Oldies/NNS or/CC what/WP ?/.,Oldies or what? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,mostly/RB oldies/NNS ./.,mostly oldies. /
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"But/CC classic/JJ rock/NN ,/, you/PRP know/VBP ,/, with/IN ,/,","{C But } classic rock, {D you know, with, - /"
+sd,A,"if/IN ,/, you/PRP know/VBP ,/, like/IN when/WRB the/DT Doors/NNPS movie/NN came/VBD out/RP ,/, you/PRP know/VBP ,/, Doors/NNPS was/VBD really/RB on/IN the/DT radio/NN there/RB ,/,","[ if, + {D you know, } {D like } when ] the Doors movie came out, {D you know, } Doors was really on the radio there,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"you/PRP know/VBP ./. Where/WRB ,/, you/PRP know/VBP ,/, you/PRP 'd/MD hear/VB was-/XX ,/, one/CD or/CC two/CD of/IN their/PRP$ more/RBR famous/JJ songs/NNS ,/, maybe/RB top/JJ forty/CD in/IN Baltimore/NNP ,/,","{D you know. } Where, {D you know, } you'd hear [ was-, + ] one or two of their more famous songs, maybe top forty in Baltimore, /"
+sd,A,"but/CC in/IN Salisbury/NNP ,/, you/PRP woul/MD ,/, that/DT 's/BES all/DT you/PRP would/MD hear/VB was/VBD ,/, This/DT is/VBZ the/DT Doors/NNPS !/. ,/, you/PRP know/VBP ./.","{C but } in Salisbury, [ you woul-, + that's all you would ] hear was, This is the Doors!, {D you know. } /"
+b,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sd,A,"So/RB ,/, it/PRP was/VBD sort/RB of/RB a/DT funny/JJ thing/NN ./.","{C So, } it was sort of a funny thing. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sv,B,"There/EX 's/BES a/DT big/JJ variation/NN among/IN the/DT country/NN ,/,","There's a big variation among the country, /"
+sv,B,"I/PRP mean/VBP ,/, if/IN you/PRP ,/,","{E I mean, } if you,"
+%,A,"Y-/XX ,/,","Y-, -/"
++,B,"go/VBP down/IN south/RB ,/, country/JJ music/NN and/CC ,/,","go down south, country music and, -/"
+aa,A,"Yes/UH ,/,","Yes, /"
+%,A,"that/DT 's/BES ,/,","that's, - /"
+sd,A,I/PRP 'm/VBP starting/VBG to/TO realize/VB that/DT ./.,I'm starting to realize that. /
+sd,A,"I/PRP never/RB really/RB thought/VBD about/IN that/DT much/JJ ,/,","I never really thought about that much, /"
+aa,A,but/CC there/EX is/VBZ ./.,{C but } there is. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+b^m,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"I/PRP never/RB ,/,","[ [ I never, +"
+%,B,"So/UH ,/,","{D So, } -/"
++,A,"I/PRP never/RB ,/, I/PRP did/VBD n't/RB ,/,","I never, ] + I didn't, ] - /"
+sd,A,"I/PRP ,/, I/PRP lived/VBD in/IN Pittsburgh/NNP before/IN Baltimore/NNP ,/,","[ I, + I ] lived in Pittsburgh before Baltimore, /"
+sd,A,"and/CC I/PRP did/VBD n't/RB ,/, I/PRP never/RB really/RB noticed/VBD the/DT difference/NN when/WRB I/PRP moved/VBD to/IN this/DT area/NN ?/.","{C and } [ I didn't, + I never really noticed ] the difference when I moved to this area? /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,I/PRP really/RB did/VBD n't/RB notice/VB at/IN all/DT ./.,I really didn't notice at all. /
+sd,A,It/PRP just/RB seemed/VBD the/DT same/JJ ./.,It just seemed the same. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"But/CC when/WRB I/PRP went/VBD more/RBR rural/JJ ,/, you/PRP know/VBP ,/, that/IN ,/, it/PRP really/RB changed/VBD ./.","{C But } when I went more rural, {D you know, } [ that, + it ] really changed. /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"So/UH ,/,","{D So, } -/"
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"Chicago/NNP has/VBZ a/DT lot/NN of/IN good/JJ stations/NNS ,/, uh/UH ,/,","Chicago has a lot of good stations, {F uh, } /"
+bh,A,"Oh/UH ,/, does/VBZ it/PRP ?/.","{F Oh, } does it? /"
+%,A,Yeah/UH ./.,Yeah. /
+ny,B,Yes/UH ./.,Yes. /
+sd,B,"Uh/UH ,/, in/IN fact/NN they/PRP have/VBP ,/, they/PRP have/VBP a/DT continuous/JJ news/NN station/NN ,/, which/WDT is/VBZ nice/JJ if/IN you/PRP 're/VBP driving/VBG and/CC you/PRP want/VBP to/IN h/VB ,/,","{F Uh, } in fact [ they have, + they have ] a continuous news station, which is nice if you're driving and you want to h-, -/"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"now/UH ,/, you/PRP do/VBP n't/RB have/VB to/TO wait/VB till/IN the/DT hour/NN mark/NN ./.","{D now, } you don't have to wait till the hour mark. /"
+sd,B,"It/PRP 's/BES ,/, it/PRP 's/BES ,/, it/PRP 's/BES sort/RB of/RB constant/JJ ./.","[ [ It's, + it's, ] + it's ] sort of constant. /"
+sd,B,"You/PRP just/RB turn/VBP there/RB ,/,","You just turn there, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"and/CC ,/, uh/UH ,/, you/PRP get/VBP the/DT latest/JJS news/NN and/CC everything/NN ./.","{C and, } {F uh, } you get the latest news and everything. /"
+sd,B,"It/PRP 's/BES ,/, uh/UH ,/, it/PRP 's/BES sort/RB of/RB like/IN C/NNP N/NNP N/NNP ,/, you/PRP know/VBP ,/,","[ It's, + {F uh, } it's ] sort of like C N N, {D you know, } /"
+sd,B,you/PRP turn/VBP on/IN your/PRP$ T/NN V/NN,you turn on your T V /
+sd,B,and/CC it/PRP 's/BES on/RP ./.,{C and } it's on. /
+b,A,Right/UH ./.,Right. /
+b,A,Yeah/UH ./.,Yeah. /
+ba,A,"Boy/UH ,/, that/DT would/MD really/RB be/VB beneficial/JJ ./.","Boy, that would really be beneficial. /"
+b,B,"So/RB ,/, yeah/UH ./.","{C So, } yeah. /"
+sv,A,"Because/IN you/PRP never/RB hear/VBP the/DT ,/, you/PRP never/RB hear/VBP the/DT news/NN basically/RB on/IN the/DT radio/NN ./.","{C Because } [ you never hear the, + you never hear the ] news basically on the radio. /"
+sd,A,I/PRP never/RB get/VBP it/PRP ./.,I never get it. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,yeah/UH ./.,yeah. /
+sv,A,"You/PRP know/VBP ,/, and/CC if/IN you/PRP do/VBP n't/RB ,/, if/IN you/PRP do/VBP n't/RB read/VB the/DT paper/NN ,/, you/PRP sort/RB of/RB fall/VBP behind/RB if/IN you/PRP 're/VBP in/IN ,/,","{D You know, } {C and } [ if you don't, + if you don't ] read the paper, you sort of fall behind if you're in,"
+aa,B,Yep/UH ./.,Yep. /
++,A,the/DT car/NN all/PDT the/DT time/NN ./.,the car all the time. /
+aa,B,"Yep/UH ,/,","Yep, /"
+aa,B,yep/UH ./.,yep. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+ba,A,that/DT 's/BES pretty/RB good/JJ ./.,that's pretty good. /
+%,B,"So/RB ,/,","{C So, } - /"
+%,B,"yeah/UH ,/,","yeah, /"
+sd,B,"I/PRP like/VBP to/TO listen/VB to/IN tapes/NNS ,/, uh/UH ,/, of/IN music/NN or/CC ,/,","I like to listen to tapes, {F uh, } of music [ or, +"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"or/CC ,/, um/UH ,/, stuff/NN on/IN a/DT long/JJ trip/NN ./.","or, ] {F um, } stuff on a long trip. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC ,/, um/UH ,/, now/RB you/PRP can/MD even/RB get/VB books/NNS on/IN tape/NN ,/, um/UH ./.","{C And, } {F um, } now you can even get books on tape, {F um. } /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH ./.,yeah. /
+sd,A,"On/IN fact/NN ,/, my/PRP$ ,/, uh/UH ,/, my/PRP$ grandmother/NN does/VBZ that/DT a/DT lot/NN ,/,","On fact, [ my, + {F uh, } my ] grandmother does that a lot,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"because/IN she/PRP 's/BES blind/JJ ,/,","because she's blind, /"
+sd,A,"or/CC what/WP ,/, she/PRP 's/BES losing/VBG her/PRP$ sight/NN or/CC whatever/WP ./.","{C or } [ what-, + ] she's losing her sight or whatever. /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"But/CC ,/,","{C But, } - /"
+%,A,"yeah/UH ,/,","yeah, /"
+%,A,"that/DT ,/, of/IN ,/, in/IN ,/,","that, [ of, + in, ] - /"
+sd,A,"I/PRP can/MD imagine/VB ,/, you/PRP know/VBP ,/, if/IN you/PRP 're/VBP driving/VBG cross/GW country/^RB ,/,","I can imagine, {D you know, } if you're driving cross country,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"you/PRP know/VBP ,/, uh/UH ,/, listening/VBG to/IN a/DT story/NN ./.","{D you know, } {F uh, } listening to a story. /"
+%,A,"S-/XX ,/,","S-, - /"
+sv,A,"lot/NN of/IN the/DT classics/NNS are/VBP really/RB ,/,","lot of the classics are really,"
+b,B,Right/UH ./.,Right. /
++,A,on/IN tape/NN ./.,on tape. /
+aa,B,"Yep/UH ,/,","Yep, /"
+aa,B,yep/UH ./.,yep. /
+b,A,Yeah/UH ./.,Yeah. /
+ba,B,"So/RB ,/, that/DT 's/BES a/DT lot/NN of/IN fun/NN","{C So, } that's a lot of fun /"
+%,B,"but/CC ,/,","{C but, } -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+ba,A,"that/DT 's/BES ,/, that/DT would/MD be/VB good/JJ ./.","[ that's, + that ] would be good. /"
+aa,B,Yep/UH ./.,Yep. /
+sv,A,"Well/UH ,/, we/PRP strayed/VBD a/DT lot/NN from/IN music/NN ./.","{D Well, } we strayed a lot from music. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,I/PRP guess/VBP so/RB ./.,I guess so. /
+%,B,"Well/UH ,/,","{D Well, } -/"
+sv,A,"But/CC I/PRP ,/, but/CC I/PRP guess/VBP music/NN comes/VBZ into/IN that/DT whole/JJ aspect/NN of/IN listening/NN ./.","[ {C But } I, + {C but } I ] guess music comes into that whole aspect of listening."
+b,B,Right/UH ./.,Right. /
++,A,So/RB as/RB long/RB you/PRP 're/VBP listening/VBG ./.,{D So } as long you're listening. /
+%,A,"So/RB ,/,","{C So, } -/"
+aa,B,Right/UH ./.,Right. /
+aa,B,Yep/UH ./.,Yep. /
+fc,A,"But/CC if/IN you/PRP do/VBP ,/, if/IN you/PRP do/VBP have/VB to/TO go/VB something/NN ,/, I/PRP guess/VBP we/PRP can/MD just/RB cut/VB off/RP ./.","{C But } [ if you do, + if you do ] have to go something, I guess we can just cut off. /"
+fc,B,Yep/UH ./.,Yep. /
+fc,B,Okay/UH ./.,Okay. /
+fc,A,"Well/UH ,/, Jack/NNP ,/, it/PRP was/VBD nice/JJ to/TO talk/VB to/IN you/PRP ./.","{D Well, } Jack, it was nice to talk to you. /"
+fc,B,Yep/UH ./.,Yep. /
+fc,B,"Nice/JJ talking/VBG to/IN you/PRP ,/, Tom/NNP ./.","Nice talking to you, Tom. /"
+fc,A,"A-/XX ,/, and/CC good/JJ luck/NN ,/,","[ {C A-, } + {C and } ] good luck, /"
+fc,A,and/CC I/PRP hope/VBP you/PRP get/VBP some/DT more/JJR calls/NNS and/CC make/VBP some/DT more/JJR calls/NNS ./.,{C and } I hope you get some more calls and make some more calls. /
+fc,B,All/RB right/JJ ./.,All right. /
+fc,B,Good/UH ./.,Good. /
+fc,A,Bye/UH ./.,Bye. /
+fc,B,Thank/VB you/PRP ./.,Thank you. /
+fc,B,"Bye/UH ,/, bye/UH ./.","Bye, bye. /"

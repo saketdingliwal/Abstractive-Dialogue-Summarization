@@ -1,0 +1,153 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,you/PRP 've/VBP done/VBN ./.,you've done. -/
+sd,B,"Our/PRP$ most/RBS recent/JJ series/NN of/IN projects/NNS I/PRP guess/VBP ,/, was/VBD ,/, inside/RB was/VBD ,/, uh/UH ,/, we/PRP remodeled/VBD a/DT bathroom/NN recently/RB ./.","Our most recent series of projects I guess, [ was, + inside was, ] {F uh, } we remodeled a bathroom recently. /"
+qo,A,"Well/UH ,/, how/WRB did/VBD it/PRP go/VB ?/.","{D Well, } how did it go? /"
+sd,B,"Well/UH ,/, it/PRP went/VBD pretty/RB well/RB ,/, uh/UH ,/, other/JJ than/IN the/DT fact/NN that/WDT we/PRP encountered/VBD some/DT ,/, uh/UH ,/, problems/NNS that/WDT you/PRP run/VBP across/IN in/IN older/JJR homes/NNS with/IN plumbing/NN ,/, which/WDT one/CD thing/NN led/VBD to/IN another/DT ,/,","{D Well, } it went pretty well, {F uh, } other than the fact that we encountered some, {F uh, } problems that you run across in older homes with plumbing, which one thing led to another, /"
+sd,B,and/CC eventually/RB we/PRP ended/VBD up/RP replacing/VBG all/PDT the/DT pipes/NNS from/IN the/DT sink/NN clear/RB back/RB to/IN the/DT main/JJ drain/NN ./.,{C and } eventually we ended up replacing all the pipes from the sink clear back to the main drain.
+ba,A,"Gee/UH ,/, like/IN starting/VBG over/IN ,/, I/PRP guess/VBP ./.","{D Gee, } like starting over, I guess. /"
++,B,Which/WDT meant/VBD you/PRP needed/VBD to/TO take/VB the/DT wall/NN out/IN and/CC start/VB all/RB over/IN ./.,Which meant you needed to take the wall out and start all over. /
+%,A,Uh/UH ./.,{F Uh. } /
+sd,B,"It/PRP was/VBD n't/RB one/CD of/IN those/DT ,/,","It wasn't one of those, <child_talking> - /"
+sd,B,it/PRP started/VBD out/RP as/IN a/DT Sunday/NNP project/NN --/:,it started out as a Sunday project -- /
+b,A,Uh-huh/UH ./.,Uh-huh <laughter>. /
+sd,B,"--/: and/CC by/IN ,/, by/IN the/DT next/JJ Sunday/NNP it/PRP was/VBD done/JJ ./.","-- {C and } [ by, + by ] the next Sunday <child_talking> it was done. /"
+sd,B,It/PRP was/VBD n't/RB a/DT one/CD dayer/NN ./.,It wasn't a one dayer. /
+ad,B,Believe/VB me/PRP ./.,Believe me. /
+%,A,"Boy/UH ,/, that/DT sounds/VBZ like/IN ,/, uh/UH ,/,","Boy, that sounds like, {F uh, } - /"
+h,A,"course/NN ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","course, {F uh, } I don't know, /"
+sv,A,"once/IN you/PRP get/VBP it/PRP done/VBN ,/, then/RB you/PRP probably/RB wo/MD n't/RB have/VB that/DT problem/NN again/RB ./.","once you get it done, then you probably won't have that problem again. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,it/PRP 's/BES good/JJ for/IN another/DT thirty/CD years/NNS ./.,it's good for another thirty years. /
+qy^d,A,"Um/UH ,/, you/PRP 've/VBP got/VBN an/DT older/JJR house/NN ?/.","{F Um, } you've got an older house? /"
+ny,B,Yes/UH ./.,Yes. /
+sv,A,"They/PRP are/VBP built/VBN a/DT little/JJ bit/NN more/RBR sturdy/JJ than/IN ,/,","They are built a little bit more sturdy than <noise>, -/"
+sd,B,"Well/UH ,/, that/DT 's/BES the/DT thing/NN that/WDT surprised/VBD me/PRP ,/, because/IN once/RB I/PRP got/VBD into/IN the/DT plumbing/NN --/:","{D Well, } that's the thing that surprised me, because once I got into the plumbing --"
+b,A,Right/UH ./.,Right. /
++,B,"--/: everything/NN in/IN there/RB was/VBD copper/NN ,/,","-- everything in there was copper, /"
+sd,B,and/CC it/PRP was/VBD all/RB soldered/JJ ./.,{C and } it was all soldered. /
+ba,A,"Oh/UH ,/, is/VBZ that/DT right/JJ ./.","{F Oh, } is that right. /"
+sd,B,"That/DT 's/BES what/WP drove/VBD me/PRP bananas/JJ ,/, because/IN ,/, you/PRP know/VBP ,/, I/PRP 'm/VBP going/VBG to/IN the/DT hardware/NN store/NN saying/VBG give/VB me/PRP plastic/JJ pipe/NN and/CC --/:","That's what drove me bananas, because, {D you know, } I'm going to the hardware store saying give me plastic pipe [ and -- +"
+b,A,Yes/UH ./.,Yes. /
++,B,--/: and/CC cement/NN --/:,-- and ] cement --
++,B,--/: to/TO fit/VB them/PRP together/RB,-- to fit them together /
+sd,B,"and/CC nothing/NN wanted/VBD to/TO go/VB ,/,","{C and } nothing wanted to go, /"
+sd,B,so/RB it/PRP was/VBD like/IN I/PRP had/VBD to/TO go/VB all/PDT the/DT way/NN back/RB to/IN the/DT main/JJ drain/NN and/CC start/VB all/RB over/IN ./.,{C so } it was like I had to go all the way back to the main drain and start all over. /
+^2,A,And/CC just/RB start/VB at/IN square/NN one/CD ./.,{C And } just start at square one. /
+b,B,Really/UH ./.,Really. /
+%,A,Uh/UH ./.,{F Uh. } /
+sd,B,"That/DT was/VBD an/PDT all/DT day/NN job/NN ,/, just/RB to/TO get/VB it/PRP plumbed/VBN ./.","That was an all day job, just to get it plumbed. /"
+sv,A,"Well/UH ,/, and/CC then/RB if/IN you/PRP do/VBP it/PRP wrong/RB ./.","{D Well, } {C and then } if you do it wrong <laughter>. -/"
+sd,B,"Fortunately/RB ,/, I/PRP was/VBD very/RB fortunate/JJ ,/, uh/UH ,/, in/IN the/DT fact/NN that/IN ,/, uh/UH ,/, when/WRB I/PRP made/VBD the/DT installation/NN of/IN the/DT sink/NN and/CC everything/NN bolted/VBD up/RP and/CC we/PRP turned/VBD the/DT water/NN on/RP --/:","[ Fortunately, + I was very fortunate, ] {F uh, } in the fact that, {F uh, } when I made the installation of the sink and everything bolted up and we turned the water on --"
+^2,A,Everything/NN went/VBD all/RB right/RB ./.,Everything went all right. /
++,B,"--/: nothing/NN leaked/VBD ,/,","-- nothing leaked, /"
+sd,B,everything/NN worked/VBD ./.,everything worked. /
+sd,B,"And/CC I/PRP just/RB said/VBD ,/, that/DT 's/BES marvelous/JJ ./.","{C And } I just said, that's marvelous. /"
+sd,B,I/PRP appreciate/VBP it/PRP ./.,I appreciate it. /
+sv,A,That/DT 's/BES the/DT type/NN of/IN thing/NN you/PRP cross/VBP your/PRP$ fingers/NNS and/CC are/VBP glad/JJ when/WRB that/DT happens/VBZ ./.,That's the type of thing you cross your fingers and are glad when that happens. /
+sd,B,"Well/UH ,/, I/PRP expected/VBD something/NN to/TO leak/VB ,/, you/PRP know/VBP --/:","{D Well, } I expected something to leak, {D you know } --"
+b,A,Right/UH ./.,Right. /
++,B,"--/: left/VBD a/DT fitting/JJ loose/RB ,/, or/CC --/:","-- left a fitting loose, or --"
+b,A,Yes/UH ./.,Yes. /
++,B,--/: did/VBD n't/RB use/VB teflon/NN tape/NN on/IN one/CD of/IN them/PRP or/CC something/NN like/IN that/DT ./.,-- didn't use teflon tape on one of them or something like that. /
+b,A,Right/UH ./.,Right. /
+sd,B,"But/CC it/PRP all/DT came/VBD together/RB ,/,","{C But } it all came together, /"
+sd,B,"so/RB I/PRP ,/, I/PRP felt/VBD pretty/RB fortunate/JJ about/IN that/DT ./.","{C so } [ I, + I ] felt pretty fortunate about that. /"
+bf,A,"All/DT worked/VBD out/RP all/RB right/RB ,/, huh/UH ./.","All worked out all right, {F huh. } /"
+qo,B,How/WRB about/IN you/PRP ?/.,How about you? /
+sd,A,"Well/UH ,/, um/UH ,/, well/UH probably/RB the/DT last/JJ thing/NN I/PRP did/VBD was/VBD ,/, uh/UH ,/, paint/VB and/CC wallpaper/VB kids/NNS room/NN --/:","[ {D Well, } + {F um, } {D well } ] probably the last thing I did was, {F uh, } paint and wallpaper kids room -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, I/PRP learned/VBD to/TO ,/,","-- {C and, } {F uh, } I learned to, - /"
+sd,A,I/PRP used/VBD the/DT wrong/JJ kind/NN of/IN paint/NN ./.,I used the wrong kind of paint. /
+sd,A,"This/DT was/VBD n't/RB ,/, must/MD have/VB not/RB been/VBN a/DT very/RB good/JJ quality/NN ,/, because/IN it/PRP just/RB has/VBZ n't/RB stood/VBN up/RP very/RB well/RB ./.","This [ wasn't, + ] must have not been a very good quality, because it just hasn't stood up very well. /"
+qw,B,What/WDT kind/NN of/IN paint/NN ?/.,What kind of paint? /
+sd,A,"It/PRP was/VBD a/DT latex/NN paint/NN ,/, paint/NN ,/,","It was a latex [ paint, + paint, ] /"
+sd,A,it/PRP was/VBD flat/JJ --/:,it was flat -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: and/CC I/PRP wonder/VBP if/IN maybe/RB I/PRP should/MD have/VB used/VBN a/DT gloss/NN ./.,-- {C and } I wonder if maybe I should have used a gloss. /
+sd,A,"Uh/UH ,/, but/CC they/PRP say/VBP you/PRP ought/MD to/TO use/VB your/PRP$ gloss/NN mainly/RB in/IN your/PRP$ --/:","{F Uh, } {C but } they say you ought to use your gloss mainly in your --"
++,A,"--/: kitchens/NNS ,/, and/CC things/NNS like/IN that/DT ./.","-- kitchens, and things like that. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+^2,B,"that/DT ,/, and/CC semigloss/NN for/IN trim/NN work/NN ,/, and/CC usually/RB flat/JJ for/IN walls/NNS ./.","that, and semigloss for trim work, and usually flat for walls. /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"but/CC I/PRP think/VBP maybe/RB ,/, uh/UH ,/,","{C but } I think maybe, {F uh, } - /"
+sv,A,I/PRP do/VBP n't/RB know/VB if/IN it/PRP was/VBD just/RB the/DT ./.,I don't know if it was just the. -/
+qy,B,Was/VBD it/PRP not/RB washable/JJ paint/NN ?/.,Was it not washable paint? /
+no,A,"Well/UH ,/, it/PRP ,/, it/PRP is/VBZ a/DT latex/NN paint/NN ,/,","{D Well, } [ it, + it ] is a latex paint, /"
+%,A,"but/CC it/PRP just/RB kind/RB of/RB is/VBZ ,/, is/VBZ ,/,","{C but } it just kind of [ is, + is, ] - /"
+sd,A,"so/RB ,/, you/PRP know/VBP ,/, so/RB it/PRP 's/BES supposed/VBN to/TO wash/VB ,/, you/PRP 're/VBP supposed/VBN to/TO be/VB able/JJ to/TO wash/VB it/PRP --/:","[ {C so, } + {D you know, } {C so } ] [ it's supposed to wash, + you're supposed to be able to wash ] it -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: but/CC it/PRP ,/, um/UH ,/, just/RB looks/VBZ dingy/JJ ./.","-- <Child_yelling> {C but } it, {F um, } just looks dingy. /"
+sd,A,I/PRP do/VBP n't/RB know/VB how/WRB else/RB to/TO explain/VB it/PRP ./.,I don't know how else to explain it. /
+qw,B,What/WDT color/NN is/VBZ it/PRP ?/.,What color is it? /
+sd,A,It/PRP 's/BES pink/JJ ./.,It's pink. /
+b^m,B,"Pink/JJ ,/,","Pink, /"
+bk,B,okay/UH ./.,okay. /
+sd,A,"It/PRP 's/HVS kind/RB of/RB got/VBN ,/, uh/UH ,/, oh/UH ,/, just/RB kind/RB of/RB a/DT worn/JJ look/NN to/IN it/PRP ./.","It's kind of got, {F uh, } {F oh, } just kind of a worn look to it. /"
+sd,A,"I/PRP do/VBP n't/RB know/VB even/RB how/WRB to/TO say/VB ,/,","I don't know even how to say, - /"
+sd,A,just/RB did/VBD n't/RB turn/VB out/RP quite/RB as/RB nice/RB as/IN I/PRP would/MD have/VB liked/VBN,<child_yelling> just didn't turn out quite as nice as I would have liked /
+%,A,"but/CC ,/,","{C but, } -/"
+qy,B,"Did/VBD you/PRP ,/, uh/UH ,/, require/VB more/JJR than/IN one/CD can/NN of/IN paint/NN ?/.","Did you, {F uh, } require more than one can of paint? /"
+sd,A,"I/PRP ,/, we/PRP put/VBD two/CD coats/NNS on/IN it/PRP ,/,","[ I, + we ] <child_yelling> put two coats on it, /"
+sd,A,"and/CC it/PRP 's/BES a/DT small/JJ room/NN ,/,","{C and } it's a small room, /"
+sd,A,"but/CC I/PRP think/VBP it/PRP only/RB took/VBD one/CD ,/, uh/UH ,/, can/NN ./.","{C but } I think it only took one, {F uh, } can. /"
+qy,B,"You/PRP did/VBD n't/RB have/VB to/TO mix/VB paint/NN then/RB ,/, right/UH ./.","You didn't have to mix paint then, right. /"
+nn,A,No/UH ./.,No. /
+bk,B,Okay/UH ./.,Okay. /
+%,A,"We/PRP did/VBD ,/, uh/UH ,/, oh/UH ,/,","We did, {F uh, } {F oh, } - /"
+sd,A,"you/PRP do/VBP mix/VB the/DT color/NN as/RB far/RB as/IN you/PRP start/VBP with/IN ,/, uh/UH ,/, white/JJ","you do mix the color as far as you start with, {F uh, } white /"
+sd,A,and/CC --/:,{C and --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: then/RB they/PRP add/VBP the/DT color/NN ./.,-- then } they add the color. /
+b,B,Yeah/UH ./.,Yeah. /
+qy^d,A,You/PRP know/VBP what/WP I/PRP 'm/VBP saying/VBG,You know what I'm saying /
+%,A,"but/CC ,/,","{C but, } -/"
+ny,B,Yeah/UH ./.,Yeah. /
+qy^d,B,But/CC you/PRP only/RB had/VBD one/CD can/NN of/IN paint/NN that/WDT you/PRP --/:,{C But } you only had one can of paint that you --
+ny,A,Yes/UH ./.,Yes. /
++,B,--/: did/VBD the/DT entire/JJ room/NN with/IN ./.,-- did the entire room with. /
+b,A,Right/UH ./.,Right. /
+sd,A,"And/CC then/RB I/PRP wall/GW papered/^VBD a/DT couple/NN of/IN walls/NNS ,/,","{C And then } I wall papered a couple of walls, /"
+%,A,"and/CC ,/, uh/UH ./.","{C and, } {F uh. } -/"
+qw,B,How/WRB 'd/VBD that/DT go/VB ?/.,How'd that go? /
+sd,A,"Well/UH ,/, that/DT was/VBD the/DT first/JJ time/NN I/PRP 've/VBP ever/RB wallpapered/VBN ,/,","{D Well, } that was the first time I've ever wallpapered, /"
+%,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+qy,B,"Kind/RB of/RB fun/JJ ,/, is/VBZ n't/RB it/PRP ./.","Kind of fun, isn't it. /"
+no,A,That/DT 's/BES an/DT education/NN in/IN itself/PRP ./.,<Laughter> That's an education in itself. /
+b,B,Really/UH ./.,Really. /
+sd,A,"But/CC ,/, uh/UH ,/, the/DT dye/NN lots/NNS ,/, uh/UH ,/, must/MD have/VB been/VBN a/DT little/JJ bit/NN different/JJ from/IN ,/,","{C But, } {F uh, } the dye lots, {F uh, } must have been a little bit different from, - /"
+sd,A,"first/JJ of/IN all/DT it/PRP takes/VBZ quite/PDT a/DT few/JJ rolls/NNS ,/, even/RB a/DT small/JJ room/NN ,/, if/IN you/PRP 're/VBP trying/VBG to/TO match/VB a/DT design/NN ./.","first of all it takes quite a few rolls, even a small room, if you're trying to match a design. /"
+sd,B,Repeating/JJ patterns/NNS is/VBZ what/WP you/PRP have/VBP to/TO check/VB for/IN --/:,Repeating patterns is what you have to check for --
+b,A,Yes/UH ./.,Yes. /
++,B,"--/: when/WRB you/PRP ,/, when/WRB you/PRP buy/VBP your/PRP$ paper/NN ./.","-- [ when you, + when you ] buy your paper. /"
+sd,A,"That/DT 's/BES what/WP I/PRP needed/VBD ,/,","That's what I needed, /"
+sd,A,and/CC I/PRP did/VBD n't/RB think/VB about/IN that/DT ./.,{C and } I didn't think about that. /
+sd,A,I/PRP got/VBN a/DT Mickey/NNP Mouse/NNP print/NN is/VBZ what/WP I/PRP got/VBN ./.,I got a Mickey Mouse print is <laughter> what I got. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,And/CC so/RB a/DT lot/NN is/VBZ wasted/VBN ./.,{C And so } a lot is wasted. /
+sd,B,Normally/RB it/PRP will/MD tell/VB you/PRP on/IN the/DT roll/NN how/WRB often/RB a/DT pattern/NN repeats/VBZ ./.,Normally it will tell you on the roll how often a pattern repeats. /
+sd,A,So/RB you/PRP know/VBP how/WRB ./.,{C So } you know how. - /
+sd,A,"See/UH ,/, I/PRP did/VBD n't/RB even/RB think/VB to/TO look/VB for/IN that/DT ./.","{D See, } I didn't even think to look for that. /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"And/CC then/RB the/DT ,/,","{C And then } the, - /"
+sd,A,"one/CD of/IN them/PRP was/VBD just/RB a/DT different/JJ color/NN ,/, different/JJ color/NN pink/NN ,/, is/VBZ what/WP it/PRP ended/VBD up/RP being/VBG ./.","one of them was just a [ different color, + different color ] pink, is what it ended up being. /"
+%,B,Um/UH ./.,{F Um. } /
+%,A,And/CC MUMBLEx/XX ./.,{C And } (( )) . -/
+qy,B,When/WRB you/PRP did/VBD your/PRP$ papering/NN did/VBD you/PRP start/VB in/IN the/DT middle/NN of/IN the/DT wall/NN ?/.,When you did your papering did you start in the middle of the wall? /
+nn,A,No/UH,No /
+sd,A,I/PRP did/VBD n't/RB ./.,I didn't. /
+qrr,B,Or/CC did/VBD you/PRP start/VB at/IN the/DT edge/NN ?/.,{C Or } did you start at the edge? /
+qy,A,Is/VBZ that/DT how/WRB you/PRP 're/VBP supposed/VBN to/TO do/VB ?/.,Is that how you're supposed to do? /
+sd,A,"I/PRP started/VBD at/IN one/CD edge/NN and/CC went/VBD over/IN ,/,","I started at one edge and went over, /"
+sd,A,then/RB you/PRP had/VBD to/TO cut/VB around/IN the/DT closet/NN --/:,then you had to cut around the closet --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: and/CC cut/VB around/IN a/DT window/NN --/:,-- and cut around a window -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"--/: but/CC ,/, uh/UH ,/,","-- {C but, } {F uh, } -/"
+sd,B,"I/PRP 've/VBP had/VBN my/PRP$ best/JJS luck/NN in/IN papering/NN when/WRB I/PRP start/VBP in/IN the/DT middle/NN of/IN a/DT wall/NN ,/,","I've had my best luck in papering when I start in the middle of a wall, /"
+sd,B,and/CC I/PRP 'll/MD start/VB with/IN a/DT plumb/JJ line/NN ./.,{C and } I'll start with a plumb line.
+bf,A,And/CC start/VB right/RB there/RB ./.,{C And } start right there. -/
++,B,"And/CC start/VB in/IN the/DT middle/NN of/IN the/DT wall/NN ,/, and/CC ,/, and/CC go/VB from/IN there/RB ,/, and/CC go/VB all/PDT the/DT way/NN around/IN the/DT room/NN ./.","And start in the middle of the wall, [ and, + and ] go from there, and go all the way around the room. /"
+qy,A,"Do/VBP you/PRP seem/VB to/TO get/VB it/PRP straighter/JJR ,/,","Do you seem to get it straighter, /"
+qy,A,"is/VBZ that/DT the/DT advantage/NN ,/,","is that the advantage, /"
+qrr,A,"or/CC what/WP 's/BES the/DT ,/,","{C or } what's the, -/"
+%,B,"Well/UH ,/, you/PRP ,/, you/PRP ,/,","{D Well, } [ you, + you, ] -/"

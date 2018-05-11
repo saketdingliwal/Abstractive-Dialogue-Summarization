@@ -1,0 +1,110 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,Okay/UH ./.,<Clicking> Okay. /
+qw,B,"So/RB ,/, what/WP is/VBZ your/PRP$ opinion/NN on/IN ,/, on/IN drug/NN testing/NN ?/.","<Clicking> {D So, } what is your opinion [ on, + on ] drug testing? /"
+sv,A,"Well/UH I/PRP can/MD see/VB it/PRP in/IN certain/JJ cases/NNS where/WRB it/PRP might/MD be/VB ,/, uh/UH ,/, somebody/NN 's/BES in/IN a/DT position/NN that/WDT ,/, uh/UH ,/, perhaps/RB a/DT lot/NN of/IN lives/NNS are/VBP involved/JJ ,/, like/IN ,/, maybe/RB ,/, uh/UH ,/, pilots/NNS that/WDT ,/, uh/UH ,/, you/PRP know/VBP ,/, fly/VBP jets/NNS","<TV> <noise> {D Well } I can see it in certain cases where [ it might be, + ] {F uh, } somebody's in a position that, {F uh, } perhaps a lot of lives are involved, like, maybe, {F uh, } pilots that, {F uh, } {D you know, } fly jets /"
+sv,A,"and/CC ,/, uh/UH ,/, maybe/RB people/NNS that/WDT have/VBP a/DT lot/NN of/IN responsibility/NN over/IN a/DT large/JJ mass/NN of/IN people/NNS ./.","{C and, } {F uh, } maybe people that have a lot of responsibility over a large mass of people. /"
+sv,A,I/PRP could/MD certainly/RB see/VB it/PRP being/VBG done/VBN,I could certainly see it being done /
+%,A,"but/CC ,/, in/IN general/JJ ,/, uh/UH ,/, you/PRP know/VBP ,/,","{C but, } in general, {F uh, } {D you know, } - /"
+sd,A,whether/IN companies/NNS want/VBP to/TO do/VB this/DT,whether companies want to do this - /
+sd,A,and/CC I/PRP know/VBP that/IN companies/NNS do/VBP ./.,{C and } I know that companies do. /
+sd,A,Like/IN factory/NN workers/NNS that/WDT have/VBP lots/NNS of/IN accidents/NNS are/VBP now/RB being/VBG drug/NN tested/VBN ./.,Like factory workers that have lots of accidents are now being drug tested. /
+sd,A,I/PRP know/VBP a/DT couple/NN of/IN corporations/NNS that/WDT are/VBP doing/VBG that/DT ./.,I know a couple of corporations that are doing that. /
+sv,A,"Uh/UH ,/, so/RB ,/, you/PRP know/VBP ,/, they/PRP kind/RB of/RB have/VBP gotten/VBN into/IN the/DT idea/NN that/DT let/VBP 's/PRP drug/NN test/VB them/PRP and/CC let/VB 's/PRP put/VB them/PRP through/IN rehab/NN ./.","{F Uh, } {C so, } {D you know, } they kind of have gotten into the idea that let's drug test them and let's put them through rehab. /"
+sv,A,But/CC there/EX 's/HVS got/VBN to/TO be/VB like/IN a/DT limitation/NN ./.,{C But } there's got to be {D like } a limitation. /
+qh,A,Do/VBP we/PRP drug/NN test/VB everybody/NN that/WDT comes/VBZ in/RB,Do we drug test everybody that comes in /
+qrr,A,"and/CC or/CC do/VBP we/PRP kind/RB of/RB say/VBP ,/, well/UH you/PRP can/MD be/VB drug/NN tested/VBN","[ {C and } + {C or } ] do we kind of say, well you can be drug tested /"
+^q,A,and/CC you/PRP look/VBP okay/JJ because/IN you/PRP look/VBP this/DT way/NN ./.,{C and } you look okay because you look this way. /
+^q,A,"You/PRP 're/VBP ,/, you/PRP 're/VBP very/RB conservative/JJ","[ You're, + you're ] very conservative /"
+^q,A,"and/CC ,/, and/CC there/EX 's/BES just/RB no/DT way/NN that/IN we/PRP would/MD think/VB that/IN you/PRP would/MD use/VB drugs/NNS","[ {C and, } + {C and } ] there's just no way that we would think that you would use drugs /"
+sv,A,"but/CC the/DT guy/NN that/WDT does/VBZ n't/RB fit/VB the/DT stereotype/NN of/IN ,/, uh/UH ,/, the/DT conservative/NN or/CC whatever/WDT could/MD be/VB drug/NN tested/VBN ./.","{C but } the guy that doesn't fit the stereotype of, {F uh, } the conservative or whatever could be drug tested. /"
+%,A,"And/CC ,/,","{C And, } - /"
+%,A,"uh/UH ,/, you/PRP know/VBP ,/, whether/IN legal/JJ rights/NNS and/CC ,/, of/IN that/DT person/NN ,/,","{F uh, } {D you know, } whether legal rights [ and, + ] of that person, - /"
+h,A,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+sv,A,"There/EX 's/BES certainly/RB a/DT lot/NN of/IN things/NNS to/TO really/RB consider/VB ,/, uh/UH ,/, when/WRB you/PRP get/VBP into/IN drug/NN testing/VBG people/NNS just/RB at/IN the/DT work/NN place/NN unless/IN ,/, of/IN course/NN ,/, like/IN I/PRP said/VBD ,/, they/PRP have/VBP a/DT large/JJ responsibility/NN over/IN a/DT mass/NN of/IN people/NNS","There's certainly a lot of things to really consider, {F uh, } when you get into drug testing people just at the work place unless, of course, like I said, they have a large responsibility over a mass of people /"
+sd,A,"uh/UH ,/, that/DT 's/BES about/RB it/PRP ./.","{F uh, } that's about it. /"
+b,B,"Well/UH ,/, yeah/UH ,/,","{D Well, } yeah, /"
+%,B,"it/PRP ,/, it/PRP ,/, it/PRP 's/BES just/RB not/RB the/DT com-/XX ,/,","[ [ it, + it, ] + it's ] just not the com-, - /"
+qy^d,B,you/PRP 're/VBP talking/VBG about/IN company/NN 's/POS liability/NN ./.,you're talking about company's liability. /
+ny,A,"Uh-huh/UH ,/,","Uh-huh, /"
+ny,A,uh-huh/UH ./.,uh-huh. /
+sv,B,"If/IN ,/, if/IN ,/, uh/UH ,/, if/IN the/DT company/NN is/VBZ liable/JJ for/IN something/NN that/WDT ,/, that/WDT ,/, a/DT employee/NN does/VBZ while/IN under/IN the/DT influence/NN of/IN ,/, of/IN a/DT drug/NN ,/, you/PRP know/VBP ,/, then/RB by/IN all/DT means/NNS they/PRP should/MD have/VB the/DT right/NN to/TO ,/, to/TO ,/, to/TO ,/, to/TO --/:","[ [ If, + if, ] + {F uh, } if ] the company is liable for something that, that, a employee does while under the influence [ of, + of ] a drug, {D you know, } then by all means they should have the right [ [ [ [ to, + to, ] + to, ] + <<pause>> to ] -- +"
+aa,A,"Sure/UH ,/,","Sure, /"
+aa,A,sure/UH ./.,sure. /
+sv,A,"And/CC I/PRP think/VBP that/DT 's/BES what/WP companies/NNS are/VBP doing/VBG ,/, uh/UH ,/, more/RBR and/CC more/RBR because/IN there/EX are/VBP products/NNS that/WDT are/VBP out/IN there/RB ./.","{C And } I think that's what companies are doing, {F uh, } more and more because there are products that are out there. /"
++,B,--/: to/TO minimize/VB their/PRP$ liability/NN ./.,-- <Noise> to ] minimize their liability. /
+sd,B,"And/CC there/EX 's/BES also/RB the/DT case/NN about/IN just/RB ,/, uh/UH ,/, uh/UH ,/, health/NN ,/, health/NN and/CC welfare/NN of/IN the/DT ,/, uh/UH ,/, employees/NNS ./.","{C And } there's also the case about just, {F uh, } {F uh, } [ health, + health ] and welfare of the, {F uh, } <swallowing> employees. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"If/IN a/DT company/NN has/VBZ a/DT healthy/JJ work/NN force/NN ,/, their/PRP$ --/:","If a company has a healthy work force, their --"
+aa,A,Exactly/UH ./.,Exactly. /
++,B,--/: insurance/NN rates/NNS are/VBP low/JJ ./.,-- insurance rates are low. /
+b,A,"Sure/UH ,/,","Sure, /"
+b,A,sure/UH ./.,sure. /
+sd,B,"And/CC not/RB only/RB a-/XX ,/, not/RB only/RB low/JJ ,/, there/EX 's/BES all/DT sorts/NNS of/IN a/DT ,/, of/IN a/DT benefits/NNS ,/, uh/UH ,/, financial/JJ benefits/NNS associated/VBN --/:","{C And } [ not only a-, + not only low, ] there's all sorts [ of a, + of a ] [ benefits, + {F uh, } financial benefits ] associated --"
+b,A,Sure/UH ./.,Sure. /
++,B,"--/: with/IN having/VBG ,/, you/PRP know/VBP ,/, having/VBG people/NNS file/VBP fewer/JJR claims/NNS ,/, being/VBG sick/JJ ./.","-- with [ having, + {D you know, } having ] people file fewer claims, being sick. /"
+aa,A,Exactly/UH ./.,Exactly. /
+sd,A,"The/DT only/JJ thing/NN is/VBZ ,/,","The only thing is, -/"
+sd,B,"MUMBLEx/XX There/EX ,/, there/EX 's/BES the/DT whole/JJ question/NN that/IN ,/, that/IN a/DT ,/, that/IN a/DT work/NN force/NN that/WDT is/VBZ known/VBN not/RB to/TO be/VB on/IN drugs/NNS is/VBZ going/VBG to/TO be/VB more/RBR healthy/JJ","(( )) [ There, + ] [ there's + ] the whole question [ [ that, + that a, ] + that a ] work force that is known not to be on drugs is going to be more healthy /"
+sv,B,I/PRP do/VBP n't/RB think/VB anybody/NN --/:,I don't think anybody --
+aa,A,Exactly/UH ./.,Exactly. /
++,B,--/: would/MD argue/VB with/IN that/DT ./.,-- would argue with that. /
+aa,A,Exactly/UH ./.,Exactly. /
+sd,A,"The/DT only/JJ thing/NN is/VBZ ,/, uh/UH ,/,","The only thing is, {F uh, } - /"
+sv,A,the/DT one/CD issue/NN that/WDT I/PRP would/MD take/VB stands/NNS with/IN is/VBZ the/DT fact/NN that/IN the/DT drug/NN testing/NN itself/PRP can/MD be/VB done/VBN on/IN a/DT person/NN that/WDT is/VBZ actually/RB not/RB on/IN drugs/NNS and/CC come/VB out/RP positive/NN ./.,the one issue that I would take stands with is the fact that the drug testing itself can be done on a person that is actually not on drugs and come out positive. /
+b,B,Right/UH ./.,Right. /
+sd,A,"If/IN they/PRP have/VBP had/VBN like/IN ,/, uh/UH ,/, medications/NNS in/IN the/DT past/NN ,/, let/VB 's/PRP say/VB ,/, once/RB a/DT month/NN or/CC twice/RB a/DT month/NN or/CC three/CD times/NNS a/DT month/NN or/CC maybe/RB that/DT week/NN they/PRP take/VBP an/DT Advil/NNP","If they have had {D like, } {F uh, } medications in the past, let's say, once a month or twice a month or three times a month or maybe that week they take an Advil /"
+sv,A,"and/CC the/DT Advil/NNP will/MD ,/, apparently/RB ,/, come/VB out/RP positive/JJ as/IN if/IN they/PRP smoked/VBD marijuana/NN ./.","{C and } the Advil will, apparently, come out positive as if they smoked marijuana. /"
+b,B,Right/UH ./.,Right. /
+sd,A,"Uh/UH ,/, and/CC there/EX 's/BES poppy/NN seed/NN type/NN things/NNS ./.","{F Uh, } {C and } there's poppy seed type things. /"
+sv,A,I/PRP think/VBP that/DT everybody/NN is/VBZ aware/JJ of/IN that/DT,I think that everybody is aware of that /
+qh,A,"but/CC ,/, uh/UH ,/, where/WRB 's/BES the/DT line/NN where/WRB you/PRP ,/, where/WRB you/PRP say/VBP to/IN somebody/NN ,/, I/PRP 'm/VBP going/VBG to/TO drug/NN test/VB you/PRP tomorrow/NN","{C but, } {F uh, } where's the line [ where you, + where you ] say to somebody, I'm going to drug test you tomorrow /"
+^q,A,so/RB please/VB do/VB not/RB take/VB these/DT medications/NNS,{C so } please do not take these medications /
+qh,A,"or/CC where/WRB 's/BES ,/,","{C or } where's, - /"
+qw,A,you/PRP know/VBP how/WRB can/MD --/:,{D you know } [ how can + --
+%,B,"Well/UH ,/, wel-/XX ,/,","{D Well, } wel-, - /"
+%,B,"the/DT ques-/XX ,/,","the ques-, -/"
++,A,--/: how/WRB you/PRP can/MD do/VB it/PRP ?/.,-- how you ] can do it? /
+b,B,Right/UH ./.,Right. /
+qh,B,"The/DT question/NN becomes/VBZ what/WP do/VBP you/PRP do/VB about/IN somebody/NN who/WP tests/VBZ ,/, who/WP tests/VBZ positive/JJ ./.","The question becomes what do you do about somebody [ who tests, + <<mispronounced>> who tests ] positive. /"
+aa,A,Exactly/UH ./.,Exactly. /
+%,B,"D-/XX ,/,","D-, - /"
+sv,B,that/DT 's/BES where/WRB the/DT real/JJ sticking/NN point/NN comes/VBZ in/RB ./.,that's where the real sticking point comes in. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"It/PRP 's/BES not/RB ,/,","It's not, - /"
+sv,B,I/PRP do/VBP n't/RB think/VB there/EX 's/BES any/DT problem/NN with/IN testing/VBG people/NNS ./.,I don't think there's any problem with testing people. /
+b,A,Sure/UH ./.,Sure. /
+qw,B,It/PRP 's/BES what/WP do/VBP you/PRP do/VB with/IN the/DT information/NN ?/.,It's what do you do with the information? /
+aa,A,Sure/UH ./.,Sure. /
+aa,A,Exactly/UH ./.,Exactly. /
+%,A,"An-/XX ,/,","An-, - /"
+sv,A,"and/CC th-/XX ,/, the/DT only/JJ thing/NN that/WDT I/PRP would/MD say/VB on/IN that/DT is/VBZ it/PRP could/MD blacklist/VB an/DT employee/NN later/RB on/RP ./.","{C and } [ th-, + the ] only thing that I would say on that is it could blacklist an employee later on. /"
+sd,A,"Let/VB 's/PRP say/VB ,/, uh/UH ,/, you/PRP 've/VBP taken/VBN medication/NN of/IN some/DT sort/NN ,/, even/RB though/IN they/PRP usually/RB have/VBP you/PRP ,/, at/IN the/DT time/NN ,/, list/VB what/WP medications/NNS you/PRP 've/VBP taken/VBN ./.","Let's say, {F uh, } you've taken medication of some sort, even though they usually have you, at the time, list what medications you've taken. /"
+sd,A,"Uh/UH ,/, let/VB 's/PRP say/VB you/PRP do/VBP come/VB out/RP positive/JJ","{F Uh, } let's say you do come out positive /"
+sd,A,and/CC you/PRP 've/VBP taken/VBN Advil/NNP or/CC any/DT of/IN the/DT Ibuprofen/NNP products/NNS out/IN there/RB ./.,{C and } you've taken Advil or any of the Ibuprofen products out there. /
+sd,A,Or/CC you/PRP 've/VBP had/VBN a/DT cold/NN,{C Or } you've had a cold /
+sd,A,"and/CC you/PRP 've/VBP been/VBN on/IN medication/NN or/CC whatever/WDT ,/,","{C and } you've been on medication or whatever, /"
+sd,A,you/PRP come/VBP out/RP positive/JJ ./.,you come out positive. /
+qh,A,"Is/VBZ it/PRP then/RB the/DT chance/NN that/IN the/DT employer/NN will/MD look/VB at/IN you/PRP in/IN more/RBR of/IN a/DT negative/JJ fashion/NN and/CC say/VB well/UH ,/, you/PRP know/VBP ,/, this/DT is/VBZ kind/RB of/RB iffy/JJ ,/, you/PRP know/VBP ,/,","Is it then the chance that the employer will look at you in more of a negative fashion and say well, {D you know, } this is kind of iffy, {D you know, } /"
+^q,A,are/VBP they/PRP really/RB on/IN drugs/NNS,are they really on drugs /
+^q,A,"or/CC ,/, or/CC they/PRP on/IN drugs/NNS ,/,","[ {C or, } + {C or } ] they on drugs, - /"
+qy,A,you/PRP know/VBP what/WP I/PRP 'm/VBP saying/VBG ./.,you know what I'm saying. /
+qw,A,Where/WRB --/:,Where --
+b,B,Right/UH ./.,Right. /
++,A,"--/: there/EX might/MD be/VB in/IN the/DT back/RB of/IN the/DT mind/NN of/IN the/DT employer/NN that/IN this/DT person/NN ,/, uh/UH ,/, is/VBZ on/IN drugs/NNS","-- there might be in the back of the mind of the employer that this person, {F uh, } is on drugs /"
+sd,A,"or/CC make/VB up/RP ,/, they/PRP may/MD make/VB up/RP their/PRP$ mind/NN that/WDT let/VBP 's/PRP get/VB rid/VBN of/IN this/DT employee/NN ,/,","{C or } [ make up, + they may make up ] their mind that let's get rid of this employee, /"
+qy,A,you/PRP know/VBP what/WP I/PRP 'm/VBP --/:,you know what I'm --
+b,B,Right/UH ./.,Right. /
++,A,--/: saying/VBG ?/.,-- saying? /
+ny,B,"Well/UH ,/, yeah/UH ./.","{D Well, } yeah. /"
+sv,B,"I/PRP think/VBP clearly/RB ,/, the/DT person/NN who/WP is/VBZ the/DT line/NN own-/XX ,/, the/DT line/NN manager/NN --/:","I think clearly, the person who is [ the line own-, + the line manager ] -- -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,--/: the/DT employee/NN should/MD not/RB be/VB privy/JJ to/IN the/DT information/NN of/IN drug/NN testing/NN ./.,-- the employee should not be privy to the information of drug testing. /
+sv,B,"That/DT should/MD go/VB to/IN an/DT entirely/RB different/JJ ,/, uh/UH ,/, agency/NN within/IN a/DT corporation/NN ./.","That should go to an entirely different, {F uh, } agency within a corporation. /"
+aa,A,Exactly/UH ./.,Exactly. /
+b,B,"Uh/UH ,/,","{F Uh, } /"
+%,A,"And/CC it/PRP 's/BES a/DT ,/,","{C And } it's a, - /"
+sd,A,"they/PRP can/MD that/IN the/DT ,/,","they can that the, - /"
+sv,A,"if/IN it/PRP does/VBZ come/VB out/RP positive/JJ the/DT first/JJ time/NN ,/, they/PRP need/VBP to/TO go/VB back/RB and/CC find/VB out/RP what/WP medications/NNS did/VBD that/DT person/NN take/VB ,/,","if it does come out positive the first time, they need to go back and find out what medications did that person take, /"
+qy,A,you/PRP know/VBP what/WP I/PRP mean/VBP ?/.,you know what I mean? /
+sd,A,"It/PRP ,/, it/PRP 's/BES kind/RB of/RB like/IN ,/, uh/UH ,/,","[ It, + it's ] kind of like, {F uh, } - /"
+sv,A,"I/PRP think/VBP most/JJS people/NNS are/VBP aware/JJ ,/, at/IN least/JJS now/RB ,/, common/JJ knowledge/NN is/VBZ that/IN ,/,","I think most people are aware, at least now, common knowledge is that </TV> </noise>, -/"

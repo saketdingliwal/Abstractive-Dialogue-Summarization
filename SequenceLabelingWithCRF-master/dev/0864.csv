@@ -1,0 +1,112 @@
+act_tag,speaker,pos,text
+^h,A,"Uh/UH ,/, let/VB 's/PRP see/VB ./.","{F Uh, } let's see. /"
+sd,A,Personal/JJ computers/NNS ./.,Personal computers. /
+b,B,Yes/UH ./.,Yes. /
+qy,A,"So/RB ,/, do/VBP you/PRP use/VB them/PRP ?/.","{D So, } do you use them? /"
+ny,B,"Uh/UH ,/, yes/UH ,/,","{F Uh, } yes, /"
+sd,B,"um/UH ,/, we/PRP own/VBP one/CD ./.","{F um, } we own one. /"
+ba,A,Terrific/JJ ./.,Terrific. /
+qw,A,What/WDT kind/NN ?/.,What kind? /
+sd,B,"Uh/UH ,/, its/PRP$ an/DT Emerson/NNP eighty/CD eighty-six/CD ,/, um/UH ,/, two/CD low/JJ density/NN floppy/JJ drives/NNS ,/, and/CC no/DT hard/JJ drive/NN yet/RB ./.","{F Uh, } its an Emerson eighty eighty-six, {F um, } two low density floppy drives, and no hard drive yet. /"
+sd,B,"But/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, it/PRP 's/BES ,/, it/PRP comes/VBZ in/RP mighty/RB handy/JJ ./.","{C But, } {F uh, } {D you know, } [ it's, + it ] comes in mighty handy. /"
+qy,A,Mostly/RB for/IN word/NN processing/NN type/NN things/NNS ?/.,Mostly for word processing type things? /
+ny,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,B,a/DT big/JJ chunk/NN of/IN it/PRP 's/BES word/NN processing/NN ./.,a big chunk of it's word processing. /
+sd,B,"We/PRP 're/VBP also/RB taking/VBG programming/NN classes/NNS ,/,","We're also taking programming classes, /"
+sd,B,"and/CC ,/, uh/UH ,/, so/RB there/EX 's/BES a/DT fair/JJ amount/NN of/IN programming/NN getting/VBG done/VBN on/IN it/PRP ./.","{C and, } {F uh, } {C so } there's a fair amount of programming getting done on it. /"
+%,B,"But/CC ,/, uh/UH ,/, uh/UH ,/, the/DT ,/, uh/UH ,/,","{C But, } {F uh, } {F uh, } the, {F uh, } - /"
+sd,B,"right/RB now/RB we/PRP got/VBN a/DT project/NN going/VBG where/WRB we/PRP 're/VBP trying/VBG to/TO put/VB ,/, uh/UH ,/, all/DT my/PRP$ wife/NN 's/POS stray/JJ recipes/NNS on/IN the/DT disk/NN ./.","right now we got a project going where we're trying to put, {F uh, } all my wife's stray recipes on the disk. /"
+ba,A,Nice/JJ ./.,Nice. /
+qy,A,Did/VBD you/PRP buy/VB a/DT program/NN to/TO handle/VB menus/NNS ?/.,Did you buy a program to handle menus? /
+sd,B,"Uh/UH ,/, it/PRP came/VBD with/IN a/DT menus/NNS program/NN ,/,","{F Uh, } it came with a menus program, /"
+%,B,"but/CC ,/, uh/UH ,/, that/DT does/VBZ n't/RB ,/,","{C but, } {F uh, } that doesn't, - /"
+%,B,"it/PRP ,/, it/PRP basi-/RB ,/,","[ it, + it ] basi-, - /"
+%,B,"both/DT ,/, excuse/VB me/PRP ,/,","both, {E excuse me, } - /"
+sd,B,mostly/JJ kind/RB of/RB a/DT pain/NN in/IN the/DT neck/NN without/IN a/DT hard/JJ drive/NN --/:,mostly kind of a pain in the neck without a hard drive -- /
+ba,A,"Oh/UH ,/, yes/UH ./.","{F Oh, } yes. /"
+sd,B,--/: and/CC hopefully/RB sometime/RB this/DT spring/NN we/PRP 'll/MD be/VB able/JJ to/TO get/VB one/CD and/CC get/VB it/PRP configured/VBN ./.,-- {C and } hopefully sometime this spring we'll be able to get one and get it configured. /
+br,A,Eighty/CD eighty-eight/NN is/VBZ what/WP you/PRP said/VBN ?/.,Eighty eighty-eight is what you said? /
+sd,B,Eighty/CD eighty-six/CD ./.,Eighty eighty-six. /
+b^m,A,"Eighty/CD ,/,","Eighty, /"
+sv,A,"oh/UH gosh/UH ,/, it/PRP 's/BES worth/JJ your/PRP$ time/NN to/TO just/RB upgrade/VB ,/,","{F oh } gosh, it's worth your time to just upgrade, /"
+sv,A,they/PRP 're/VBP so/RB darned/RB cheap/JJ now/RB ./.,they're so darned cheap now. /
+qw,B,"Which/WDT ,/,","Which, -/"
+sd,A,Computers/NNS ./.,Computers. /
+sd,B,"Uh/UH ,/, impoverished/JJ college/NN student/NN ./.","{F Uh, } impoverished college student. -/"
+ba,A,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
+sd,B,"This/DT one/CD went/VBD on/IN a/DT credit/NN card/NN ,/,","This one went on a credit card, /"
+sd,B,"and/CC we/PRP got/VBD a/DT way/NN out/RB ,/, while/NN to/TO pay/VB it/PRP off/RP yet/RB ./.","{C and } we got a way out, while to pay it off yet. /"
+sd,A,"Uh/UH ,/, I/PRP 've/VBP ,/, I/PRP 've/VBP got/VBN one/CD at/IN home/NN too/RB ./.","<Laughter> {F Uh, } [ I've, + I've ] got one at home too. /"
+sd,A,"It/PRP 's/BES a/DT three/CD eighty-six/CD ,/, thirty-three/CD megahertz/NN ,/, forty/CD ,/, four/CD meg/NN ram/NN and/CC hundred/CD and/CC thirty/CD meg/NN drive/NN","It's a three eighty-six, thirty-three megahertz, forty, four meg ram and hundred and thirty meg drive /"
+sd,A,and/CC --/:,and --
++,A,--/: super/JJ V/NNP G/NNP A/NNP,-- super V G A /
+sd,A,"and/CC ,/, yeah/UH ,/, it/PRP 's/BES fun/JJ ./.","{C and, } {D yeah, } it's fun. /"
+sd,A,"I/PRP do/VBP programming/NN ,/, too/RB ./.","I do programming, too. /"
+sd,A,"My/PRP$ job/NN is/VBZ ,/, uh/UH ,/, E/NNP D/NNP P/NNP auditor/NN ,/,","My job is, {F uh, } E D P auditor, /"
+sd,A,and/CC so/RB I/PRP 'm/VBP into/IN computers/NNS all/PDT the/DT time/NN ./.,{C and so } I'm into computers all the time. /
+b^m,B,E/NNP D/NNP P/NNP ./.,E D P. /
+sd,A,Electronic/NNP Data/NNP Processing/NNP ./.,Electronic Data Processing. /
+bk,B,"Okay/UH ,/,","Okay, /"
+sv,B,that/DT sounds/VBZ like/IN fun/JJ job/NN ./.,that sounds like fun job. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP really/RB enjoy/VBP it/PRP ,/,","I really enjoy it, /"
+sd,A,and/CC it/PRP treats/VBZ me/PRP well/RB ./.,{C and } it treats me well. /
+b,B,Yes/UH ./.,Yes. /
+qy,A,"Uh/UH ,/, what/WP are/VBP you/PRP studying/VBG in/IN college/NN --/:","{F Uh, } what are you studying in college --"
+sd,B,Uh/UH ./.,{F Uh. }
++,A,--/: computers/NNS ?/.,-- computers? /
++,B,Computer/NN engineering/NN ./.,Computer engineering. /
+ba,A,How/WRB nice/JJ ./.,How nice. /
+sd,B,"Well/UH ,/, computer/NN engineering/NN technology/NN ,/, uh/UH ,/, which/WDT ,/, uh/UH ,/, all/DT I/PRP can/MD understand/VB is/VBZ it/PRP 's/BES a/DT slightly/RB more/JJR hands/NNS on/RP version/NN of/IN computer/NN engineering/NN ./.","{D Well, } computer engineering technology, {F uh, } which, {F uh, } all I can understand is it's a slightly more hands on version of computer engineering. /"
+sd,B,"But/CC ,/, I/PRP 've/VBP got/VBN a/DT ways/NNS to/TO go/VB yet/RB ./.","{C But, } I've got a ways to go yet. /"
+sd,B,"So/RB far/RB most/RBS of/IN what/WP I/PRP 've/VBP done/VBN is/VBZ getting/VBG ,/, gotten/VBN core/NN classes/NNS out/IN of/IN the/DT way/NN ,/,","So far most of what I've done is getting, [ gotten + ] core classes out of the way, /"
+sd,B,"taken/VBN some/DT electronics/NNS classes/NNS ,/, and/CC one/CD class/NN in/IN ,/, um/UH ,/, with/IN computer/NN logic/NN ./.","taken some electronics classes, and one class [ in, + ] {F um, } with computer logic. /"
+sd,A,How/WRB they/PRP work/VBP is/VBZ fascinating/JJ to/IN me/PRP ./.,How they work is fascinating to me. /
+aa,B,"Oh/UH ,/, yes/UH ./.","{F Oh, } yes. /"
+sd,B,I/PRP enjoy/VBP it/PRP myself/PRP ./.,I enjoy it myself <laughter>. /
+sd,B,"The/DT ,/, uh/UH ,/, lab/NN for/IN that/DT ,/, uh/UH ,/, computer/NN logic/NN class/NN was/VBD a/DT lot/NN of/IN fun/NN ./.","The, {F uh, } lab for that, {F uh, } computer logic class was a lot of fun. /"
+bh,A,Was/VBD it/PRP ./.,Was it. /
+%,A,"Did/VBD ,/, di/VBD ,/,","[ Did, + di-, ] -/"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"we/PRP got/VBD to/TO hook/VB up/RP a/DT few/NN ,/, uh/UH ,/, counters/NNS and/CC ,/, uh/UH ,/, deco-/NNS ,/, encoders/NNS ./.","we got to hook up a few, {F uh, } counters and, {F uh, } [ deco-, + encoders. ] /"
+bf,A,"Hardware/NN stuff/NN ,/, huh/UH ./.","Hardware stuff, {F huh. } /"
+aa,B,Yeah/UH ./.,Yeah. /
+qo,A,What/WP do/VBP you/PRP think/VB of/IN that/DT fuzzy/JJ logic/NN ?/.,What do you think of that fuzzy logic? /
+sd,B,"I/PRP 've/VBP not/RB had/VBN a/DT chance/NN to/TO work/VB with/IN it/PRP ,/, although/IN ,/, um/UH ,/, my/PRP$ ,/, uh/UH ,/, data/NNS structures/NNS teacher/NN was/VBD telling/VBG us/PRP something/NN about/IN how/WRB fuz/JJ ,/, fuzzy/JJ logic/NN works/VBZ as/RB far/RB as/IN the/DT concept/NN behind/IN it/PRP ./.","I've not had a chance to work with it, although, {F um, } my, {F uh, } data structures teacher was telling us something about how [ fuz-, + fuzzy ] logic works as far as the concept behind it. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Now/RB how/WRB you/PRP 'd/MD implement/VB that/DT software/NN wise/RB or/CC mechanically/RB I/PRP do/VBP n't/RB know/VB ,/,","{D Now } how you'd implement that software wise or mechanically I don't know, /"
+sd,B,"but/CC ,/, uh/UH ,/, it/PRP sounds/VBZ like/IN a/DT very/RB impressive/JJ piece/NN of/IN ,/, piece/NN of/IN work/NN ./.","{C but, } {F uh, } it sounds like a very impressive [ piece of, + piece of ] work. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,they/PRP 're/VBP pretty/RB amazing/JJ ./.,they're pretty amazing. /
+sd,A,"Uh/UH ,/, I/PRP 've/VBP written/VBN a/DT couple/NN of/IN programs/NNS for/IN ,/, commercially/RB ,/, uh/UH --/:","{F Uh, } I've written a couple of programs for, commercially, {F uh } -- -/"
+b,B,Yes/UH ./.,Yes. /
+sd,A,--/: and/CC it/PRP 's/BES a/DT fun/JJ field/NN ./.,-- {C and } it's a fun field. /
+qy,B,In/IN the/DT fuzzy/JJ logic/NN direction/NN ?/.,In the fuzzy logic direction? /
+br,A,"What/WP ,/,","What, /"
+nn,A,"no/UH ,/,","no, /"
+%,A,"in/IN ,/, uh/UH ,/,","[ in, + ] {F uh, } - /"
+nn,A,"no/UH ,/,","no, /"
+sd,A,"just/RB regular/JJ ,/, uh/UH ,/,","just regular, {F uh, } /"
+sd,A,"but/CC you/PRP have/VBP to/TO take/VB into/IN account/NN ,/, you/PRP know/VBP ,/, with/IN any/DT computer/NN program/NN all/PDT the/DT type/NN of/IN things/NNS people/NNS can/MD do/VB to/IN you/PRP to/TO make/VB your/PRP$ program/NN crash/VB or/CC things/NNS you/PRP --/:","{C but } you have to take into account, {D you know, } with any computer program all the type of things people can do to you to make your program crash or things you --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: normally/RB do/VBP n't/RB consider/VB ./.,-- normally don't consider. /
+sd,B,Entering/VBG bad/JJ information/NN of/IN one/CD sort/NN or/CC another/DT,Entering bad information of one sort or another /
+%,B,"and/CC ,/,","{C and, } -/"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+bf,A,"pushing/VBG keys/NNS certain/JJ times/NNS and/CC ,/,","pushing keys certain times and,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"Uh/UH ,/, messing/VBG up/RP your/PRP$ files/NNS and/CC things/NNS like/IN that/DT ./.","{F Uh, } messing up your files and things like that. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy^d,A,"And/CC you/PRP 're/VBP going/VBG to/TO be/VB an/DT engineer/NN ,/, computer/NN engineer/NN type/NN ./.","{C And } you're going to be an [ engineer, + computer engineer ] type. /"
+ny,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,B,"well/UH ,/, what/WP the/DT computer/NN ,/, what/WP the/DT C/NNP E/NNP T/NNP program/NN seems/VBZ to/TO be/VB so/RB far/RB is/VBZ just/RB a/DT broad/RB based/JJ specialized/JJ from/IN ,/,","{D well, } [ what the computer, + what the C E T ] program seems to be so far is just a broad based specialized from, - /"
+sd,B,"you/PRP get/VBP programming/NN ,/, a/DT fair/JJ amount/NN of/IN programming/NN ,/,","you get [ programming, + a fair amount of programming, ] /"
+sd,B,"you/PRP get/VBP hardware/NN ,/,","you get hardware, /"
+sd,B,"you/PRP get/VBP ,/, uh/UH ,/, more/JJR or/CC less/JJR ,/, uh/UH ,/, you/PRP get/VBP basic/JJ electronics/NNS courses/NNS that/WDT ,/, uh/UH ,/, deal/VBP with/IN ,/, you/PRP know/VBP ,/, not/RB only/RB the/DT digital/JJ circuitry/NN but/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, power/NN supplies/NNS and/CC ,/, and/CC ,/, uh/UH ,/, just/RB the/DT whole/JJ gambit/NN ,/, but/CC mostly/RB towards/IN ,/, uh/UH ,/, computer/NN electronics/NNS ./.","[ you get, {F uh, } more or less, + {F uh, } you get ] basic electronics courses that, {F uh, } deal with, {D you know, } not only the digital circuitry but, {F uh, } {D you know, } power supplies [ and, + and, ] {F uh, } just the whole gambit, but mostly towards, {F uh, } computer electronics. /"
+sd,B,"So/RB ,/, the/DT idea/NN is/VBZ that/IN ,/, um/UH ,/, you/PRP can/MD go/VB in/IN a/DT variety/NN of/IN direction/NN from/IN C/NNP E/NNP T/NNP major/NN ,/,","{C So, } the idea is that, {F um, } you can go in a variety of direction from C E T major, /"
+sd,B,"but/CC I/PRP sa-/XX ,/, I/PRP have/VBP more/JJR MUMBLEx/XX with/IN the/DT hardware/NN than/IN I/PRP do/VBP with/IN the/DT software/NN ,/,","{C but } [ I sa-, + I have ] more (( )) with the hardware than I do with the software, /"
+%,B,"so/RB ,/, yeah/UH","{C so, } yeah /"
+sd,B,I/PRP --/:,[ I --
+%,A,"I/PRP do/VBP n't/RB ,/,","I don't, -/"
++,B,"--/: pretty/RB much/JJ plan/VBP on/IN ,/, I/PRP mean/VBP ,/, so/RB far/RB I/PRP 'm/VBP planning/VBG to/TO go/VB in/IN the/DT engineering/NN direction/NN ./.","-- pretty much plan on, + {E I mean, } so far I'm planning ] to go in the engineering direction. /"
+ba,A,"That/DT 's/BES good/JJ ,/, uh/UH ,/,","That's good, {F uh, } /"

@@ -1,0 +1,99 @@
+act_tag,speaker,pos,text
+qy,A,"Do/VBP you/PRP know/VB anyone/NN that/WDT ,/, uh/UH ,/, is/VBZ ,/, is/VBZ in/IN a/DT nursing/NN home/NN or/CC has/VBZ ever/RB been/VBN in/IN one/CD ?/.","Do you know anyone that, {F uh, } [ is, + is ] in a nursing home or has ever been in one? /"
+nn,B,No/UH ./.,No. /
+sd,B,"But/CC I/PRP ,/, my/PRP$ grandparents/NNS were/VBD looking/VBG into/IN it/PRP before/RB","{C But } [ I, + my grandparents ] were looking into it before /"
+sd,B,so/RB I/PRP know/VBP what/WP they/PRP 've/VBP said/VBN ./.,{C so } I know what they've said. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b^m,B,Uh-huh/UH ./.,Uh-huh. /
+^h,A,"Well/UH ,/, I/PRP 'm/VBP trying/VBG to/TO think/VB ./.","{D Well, } I'm trying to think. /"
+sd,A,"My/PRP$ ,/, uh/UH ,/, uh/UH ,/, wife/NN 's/POS grandmother/NN had/VBD Alzheimer/NNP 's/POS","My, {F uh, } {F uh, } wife's grandmother had Alzheimer's /"
+sd,A,"and/CC they/PRP were/VBD going/VBG to/TO put/VB her/PRP into/IN a/DT ,/, a/DT nursing/NN home/NN","{C and } they were going to put her into [ a, + a ] nursing home /"
+sd,A,"and/CC ,/, uh/UH ,/, they/PRP ,/, when/WRB they/PRP put/VBD her/PRP in/IN ,/, she/PRP had/VBD all/DT kinds/NNS of/IN trouble/NN","{C and, } {F uh, } [ they, + when they ] put her in, she had all kinds of trouble /"
+sd,A,"and/CC the/DT nursing/NN home/NN made/VBD them/PRP come/VB and/CC take/VB her/PRP back/RB because/IN she/PRP was/VBD being/VBG a/DT ,/, a/DT ,/, you/PRP know/VBP ,/, a/DT ,/, a/DT nuisance/NN ./. Or/CC worse/JJR than/IN a/DT nuisance/NN ,/,","{C and } the nursing home made them come <noise> and take her back because she <laughter> was being [ [ [ a, + a, ] + {D you know, } a, ] + a ] nuisance. Or worse than a nuisance, /"
+sd,A,I/PRP mean/VBP --/:,{E I mean } --
+bf,B,Oh/UH they/PRP thought/VBD it/PRP was/VBD too/RB much/JJ of/IN a/DT bother/NN ./.,{F ((Oh)) } they thought it was too much of a bother. /
++,A,"--/: she/PRP sort/RB of/RB went/VBD ,/, you/PRP know/VBP ,/, bananas/JJ","-- she sort of went, {D you know, } bananas /"
+sd,A,"and/CC they/PRP could/MD n't/RB ,/, could/MD n't/RB deal/VB with/IN her/PRP ./.","{C and } they [ couldn't, + couldn't ] deal with her <sigh>. /"
+sd,A,"So/UH ,/, I/PRP guess/VBP you/PRP need/VBP to/TO ,/, uh/UH ,/, know/VB whether/IN it/PRP 's/BES a/PDT ,/, you/PRP know/VBP ,/, a/PDT no/DT deposit/NN ,/, no/DT return/NN kind/NN of/IN thing/NN whether/IN ,/,","{C So, } I guess you need to, {F uh, } know whether it's [ a, + {D you know, } a ] no deposit, no return kind of thing whether <laughter>, -/"
+aa,B,Right/UH ./.,Right. /
+bf,B,"If/IN they/PRP 're/VBP equipped/JJ too/^TO ,/, to/TO handle/VB the/DT kind/NN of/IN patients/NNS you/PRP 're/VBP going/VBG to/TO have/VB --/:","If they're equipped [ too, + to ] handle the kind of patients you're going to have --"
+aa,A,Yeah/UH ./.,Yeah. /
++,B,"--/: you/PRP know/VBP ,/, put/VB in/IN there/RB too/RB ./.","-- {D you know, } put in there too. /"
+sd,B,Because/IN I/PRP know/VBP my/PRP$ grandparents/NNS wanted/VBD to/TO have/VB some/DT independence/NN still/RB ./.,{C Because } I know my grandparents wanted to have some independence still. /
+b,A,Right/UH ./.,Right. /
+sd,B,They/PRP wanted/VBD some/DT place/NN they/PRP can/MD go/VB and/CC have/VB their/PRP$ meals/NNS and/CC a/DT nurse/NN on/IN staff/NN just/RB in/IN case/NN they/PRP needed/VBD her/PRP,They wanted some place they can go and have their meals and a nurse on staff just in case they needed her /
+sd,B,but/CC they/PRP wanted/VBD to/TO be/VB independent/JJ as/IN well/RB ./.,{C but } they wanted to be independent as well.
+b,A,Right/UH ./.,Right. /
++,B,Have/VB their/PRP$ own/JJ room/NN ./.,Have their own room. /
+sd,A,"My/PRP$ grandmother/NN actually/RB was/VBD in/IN a/DT ,/, a/DT nursing/NN home/NN that/WDT ,/, uh/UH ,/,","My grandmother actually was in [ a, + a ] nursing home that, {F uh, } - /"
+sd,A,"there/EX was/VBD a/DT retirement/NN hotel/NN and/CC then/RB a/DT ,/, uh/UH ,/,","there was a retirement hotel and then a, {F uh, } - /"
+sd,A,there/EX was/VBD some/DT sort/NN of/IN full-time/JJ care/NN place/NN that/WDT was/VBD also/RB associated/VBN with/IN it/PRP,there was some sort of full-time care place that was also associated with it /
+sd,A,"so/RB for/IN ,/, uh/UH ,/, the/DT first/JJ few/JJ years/NNS she/PRP had/VBD her/PRP$ own/JJ apartment/NN and/CC ,/, you/PRP know/VBP ,/, made/VBD her/PRP$ own/JJ meals/NNS sometimes/RB ./. But/CC could/MD ,/, could/MD also/RB go/VB and/CC eat/VB someplace/NN else/RB ./.","{C so } for, {F uh, } the first few years she had her own apartment and, {D you know, } made her own meals sometimes. But [ could, + could ] also go and eat someplace else. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC then/RB ,/, uh/UH ,/, as/IN she/PRP became/VBD less/RBR able/JJ to/TO take/VB care/NN of/IN herself/PRP ,/, then/RB she/PRP moved/VBD into/IN this/DT other/JJ part/NN that/WDT was/VBD able/JJ to/TO ,/, uh/UH ,/, provide/VB full-time/JJ care/NN","{C And then, } {F uh, } as she became less able to take care of herself, then she moved into this other part that was able to, {F uh, } provide full-time care /"
+sd,A,"and/CC ,/, uh/UH ,/, she/PRP did/VBD n't/RB have/VB to/TO do/VB anything/NN anymore/RB ./.","{C and, } {F uh, } she didn't have to do anything anymore. /"
+sv,A,But/CC my/PRP$ experience/NN has/VBZ been/VBN that/IN most/JJS people/NNS that/WDT move/VBP into/IN nursing/NN homes/NNS die/VBP very/RB quickly/RB ./.,{C But } my experience has been that most people that move into nursing homes die very quickly. /
+%,A,"And/CC that/DT 's/BES som-/XX ,/,","{C And } that's som-, - /"
+sd,A,"I/PRP do/VBP n't/RB know/VB whether/IN that/DT 's/BES because/IN they/PRP ,/, you/PRP know/VBP ,/, sort/RB of/RB give/VBP up/RP hope/NN once/IN they/PRP get/VBP in/IN there/RB or/CC what/WP the/DT ,/, the/DT reason/NN is/VBZ ./.","I don't know whether that's because they, {D you know, } sort of give up hope once they get in there or what [ the, + the ] reason is. /"
+sv,A,But/CC I/PRP think/VBP the/DT average/JJ length/NN of/IN time/NN that/WDT somebody/NN lives/VBZ in/IN a/DT nursing/NN home/NN is/VBZ only/JJ like/RB six/CD months/NNS or/CC something/NN ./.,{C But } I think the average length of time that somebody lives in a nursing home is only {D like } six months or something. /
+sv,B,Well/UH a/DT lot/NN of/IN it/PRP 's/HVS probably/RB to/TO do/VB with/IN the/DT fact/NN that/IN people/NNS go/VBP to/IN it/PRP because/IN they/PRP need/VBP help/NN ./.,{D Well } a lot of it's probably to do with the fact that people go to it because they need help. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,They/PRP need/VBP health/NN care/NN,They need health care /
+sd,B,so/RB they/PRP 're/VBP already/RB ill/JJ before/IN they/PRP go/VBP ./.,{C so } they're already ill before they go. /
+b,A,Right/UH ./.,Right. /
+sv,B,That/DT 's/BES probably/RB a/DT large/JJ factor/NN ./.,That's probably a large factor. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,"If/IN ,/, if/IN you/PRP can/MD take/VB care/NN of/IN yourself/PRP at/IN all/DT or/CC have/VB someone/NN that/WDT can/MD take/VB care/NN of/IN you/PRP ,/, then/RB you/PRP stay/VBP where/WRB you/PRP are/VBP ./.","[ If, + if ] you can take care of yourself at all or have someone that can take care of you, then you stay where you are. /"
+sv,A,Then/RB you/PRP only/RB go/VBP there/RB as/IN a/DT last/JJ resort/NN ./.,Then you only go there as a last resort. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,Or/CC people/NNS send/VBP you/PRP there/RB as/IN a/DT last/JJ resort/NN ./.,{C Or } people send you there as a last resort. /
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,right/UH ./.,right. /
+sd,B,"That/DT 's/BES what/WP my/PRP$ grandparents/NNS ,/,","That's what my grandparents, - /"
+sd,B,"it/PRP was/VBD just/RB so/IN that/IN the/DT rest/NN of/IN the/DT relatives/NNS would/MD have/VB peace/NN of/IN mind/NN knowing/VBG that/IN if/IN anything/NN happened/VBD ,/, there/EX was/VBD somebody/NN there/RB for/IN them/PRP ./.","it was just so that the rest of the relatives would have peace of mind knowing that if anything happened, there was somebody there for them. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,So/RB that/DT was/VBD their/PRP$ thinking/NN ./.,{C So } that was their thinking. /
+sd,B,Somebody/NN who/WP would/MD know/VB what/WP to/TO do/VB in/IN the/DT event/NN of/IN an/DT emergency/NN ./.,Somebody who would know what to do in the event of an emergency. /
+b,A,Right/UH ./.,Right. /
+sd,B,And/CC also/RB so/IN they/PRP could/MD find/VB someplace/NN that/WDT they/PRP enjoyed/VBD while/IN they/PRP still/RB had/VBD choices/NNS to/TO make/VB ./.,{C And } also so they could find someplace that they enjoyed while they still had choices to make.
+b,A,Right/UH ./.,Right. /
++,B,So/RB they/PRP would/MD n't/RB be/VB stuck/VBN going/VBG into/IN just/RB whatever/WDT nursing/NN home/NN was/VBD available/JJ at/IN the/DT time/NN ./.,So they wouldn't be stuck going into just whatever nursing home was available at the time. /
+sv,B,I/PRP guess/VBP that/DT 's/BES a/DT problem/NN too/RB for/IN people/NNS ./. Wait/NN lists/NNS and/CC all/DT ./.,I guess that's a problem too for people. Wait lists and all. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+h,A,I/PRP guess/VBP ./.,I guess. /
+%,B,"That/DT ,/, uh/UH ,/,","That, {F uh, } - /"
+sv,B,you/PRP ca/MD n't/RB always/RB get/VB in/IN when/WRB you/PRP want/VBP too/^TO,you can't always get in when you want too /
+sd,B,"and/CC of/IN course/NN ,/, you/PRP ca/MD n't/RB just/RB sit/VB around/RB and/CC wait/VB ./.","{C and } of course, you can't just sit around and wait. /"
+aa,A,Right/UH ./.,Right. /
+sv,A,"When/WRB you/PRP need/VBP it/PRP ,/, you/PRP need/VBP it/PRP --/:","When you need it, you need it --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: I/PRP guess/VBP ./.,-- I guess. /
+qh,B,And/CC the/DT money/NN is/VBZ also/RB another/DT issue/NN ./. How/WRB you/PRP 're/VBP going/VBG to/TO pay/VB for/IN it/PRP ./.,{C And } the money is also another issue. How you're going to pay for it. /
+b,A,Right/UH ./.,Right. /
+sv,B,At/IN that/DT stage/NN of/IN life/NN you/PRP only/RB have/VBP so/RB much/JJ money/NN left/VBN,At that stage of life you only have so much money left /
+sv,B,and/CC I/PRP guess/VBP it/PRP 's/BES not/RB exactly/RB fair/JJ for/IN the/DT younger/JJR family/NN members/NNS to/TO have/VB to/TO put/VB it/PRP in/IN their/PRP$ savings/NNS ./.,{C and } I guess it's not exactly fair for the younger family members to have to put it in their savings. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"I/PRP mean/VBP it/PRP is/VBZ kind/RB of/RB fair/JJ ,/,","{E I mean } it is kind of fair, /"
+sv,B,but/CC it/PRP 's/BES also/RB not/RB fair/JJ because/IN they/PRP have/VBP their/PRP$ own/JJ children/NNS to/TO raise/VB ./.,{C but } it's also not fair because they have their own children to raise. /
+b,A,Sure/UH ./.,Sure. /
+sv,B,So/RB it/PRP 's/BES another/DT problem/NN ./.,{C So } it's another problem. /
+sv,A,"And/CC you/PRP probably/RB ,/, if/IN it/PRP were/VBD you/PRP ,/, you/PRP probably/RB would/MD n't/RB want/VB someone/NN choosing/VBG a/DT place/NN for/IN you/PRP to/TO live/VB based/VBN on/IN lowest/JJS price/NN ./.","{C And } [ you probably, + if it were you, you probably ] wouldn't want someone choosing a place for you to live based on lowest price. /"
+aa,B,"Right/UH ,/,","Right, /"
+aa,B,right/UH ./.,right. /
+sv,B,"So/RB ,/, it/PRP ,/, it/PRP 's/BES just/RB so/RB complicated/JJ anymore/RB ,/, I/PRP think/VBP ./.","{C So, } [ it, + it's ] just so complicated anymore, I think <noise>. /"
+sv,B,People/NNS outlive/VBP their/PRP$ savings/NNS ./.,People outlive their savings. /
+sv,B,"And/CC ,/, with/IN medicine/NN being/VBG the/DT way/NN it/PRP is/VBZ ,/, you/PRP 're/VBP extending/VBG life/NN where/WRB sometimes/RB the/DT quality/NN of/IN living/NN has/VBZ gone/VBN down/RP","{C And, } with medicine being the way it is, you're extending life where sometimes the quality of living has gone down /"
+sv,B,and/CC they/PRP 're/VBP not/RB necessarily/RB enjoying/VBG life/NN anymore/RB ./.,{C and } they're not necessarily enjoying life anymore. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,Well/UH maybe/RB that/DT 's/BES the/DT purpose/NN of/IN the/DT nursing/NN home/NN is/VBZ to/TO have/VB them/PRP go/VB someplace/RB where/WRB they/PRP can/MD see/VB that/IN it/PRP 's/BES not/RB worth/JJ continuing/VBG ./.,{D Well } maybe that's the purpose of the nursing home is to have them go someplace where they can see that it's not worth continuing. /
+sv,B,It/PRP 's/BES just/RB a/DT shame/NN that/DT 's/BES the/DT way/NN it/PRP has/VBZ to/TO be/VB ./.,It's just a shame that's the way it has to be. /
+sv,B,I/PRP think/VBP --/:,I think --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: the/DT retirement/NN home/NN idea/NN 's/BES a/DT nice/JJ idea/NN ./. To/TO go/VB and/CC find/VB older/JJR people/NNS and/CC with/IN similar/JJ interests/NNS and/CC someplace/RB to/TO stay/VB,-- the retirement home idea's a nice idea. To go and find older people and with similar interests and someplace to stay /
+sv,B,"and/CC cause/IN like/IN if/IN your/PRP$ spouse/NN died/VBD ,/, MUMBLEx/XX all/RB alone/RB ,/, it/PRP 'd/MD be/VB nice/JJ to/TO go/VB someplace/RB with/IN people/NNS similar/JJ to/IN you/PRP ./.","{C and } cause {D like } if your spouse died, (( )) all alone, it'd be nice to go someplace with people similar to you."
+b,A,Right/UH ./.,Right. /
++,B,To/TO have/VB friends/NNS ./.,To have friends. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP 've/VBP known/VBN quite/RB a/DT few/JJ people/NNS that/WDT have/VBP ,/, uh/UH ,/, gone/VBN to/IN retirement/NN communities/NNS ./.","I've known quite a few people that have, {F uh, } gone to retirement communities. /"
+sd,A,I/PRP do/VBP n't/RB know/VB if/IN they/PRP have/VBP them/PRP back/RB there/RB,I don't know if they have them back there /
+sd,A,"but/CC here/RB in/IN California/NNP and/CC in/IN Ari-/NNP ,/,","{C but } here in California and in Ari-, -/"

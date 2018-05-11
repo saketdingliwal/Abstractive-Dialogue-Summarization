@@ -1,0 +1,109 @@
+act_tag,speaker,pos,text
+x,B,,<Talking>.
+qy^d,A,"Well/UH ,/, I/PRP was/VBD just/RB wondering/VBG if/IN you/PRP had/VBD had/VBN any/DT experience/NN with/IN ,/, um/UH ,/, the/DT care/NN of/IN the/DT elderly/NN ./.","{D Well, } I was just wondering if you had had any experience with, {F um, } the care of the elderly. /"
+ny,B,"Yes/UH ,/,","Yes, /"
+sd,B,I/PRP have/VBP ./.,I have. /
+sd,B,"In/IN fact/NN ,/, uh/UH ,/, just/RB a/DT little/JJ over/IN ,/, just/RB a/DT little/RB less/JJR than/IN a/DT year/NN ago/RB ,/, uh/UH ,/, my/PRP$ mother/NN went/VBD to/TO be/VB with/IN the/DT Lord/NNP ,/,","In fact, {F uh, } <breathing> [ just a little over, + just a little less ] than a year ago, {F uh, } my mother </talking> went to be with the Lord, /"
+sd,B,"and/CC we/PRP cared/VBD for/IN her/PRP$ the/DT last/JJ ,/, oh/UH ,/, seventeen/CD months/NNS of/IN her/PRP$ life/NN here/RB in/IN the/DT ,/, at/IN home/NN ./.","{C and } we cared for her the last, {F oh, } seventeen months of her life here [ in the, + at ] home."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"Aside/RB from/IN ,/, uh/UH ,/, having/VBG to/TO ,/, uh/UH ,/, take/VB her/PRP$ to/IN the/DT hospital/NN","Aside from, {F uh, } <lipsmack> having to, {F uh, } take her to the hospital /"
+sd,B,"and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, those/DT times/NNS ,/, well/UH ,/, she/PRP was/VBD there/RB in/IN the/DT ,/, the/DT regular/JJ hospital/NN ./.","{C and, } {F uh, } {D you know, } those times, {D well, } she was there in [ the, + the ] regular hospital. /"
+b,A,Right/UH ./.,Right. /
+sd,B,"And/CC then/RB she/PRP was/VBD diagnosed/VBN having/VBG inoperable/JJ type/NN of/IN cancer/NN ,/,","{C And then } she was diagnosed having inoperable type of cancer, /"
+sd,B,"and/CC so/RB the/DT doctor/NN elected/VBD to/TO have/VB her/PRP$ ,/, uh/UH ,/, finish/VB out/RP ,/, uh/UH ,/, in/IN the/DT hospice/NN program/NN ./.","{C and so } the doctor elected to have her, {F uh, } finish out, {F uh, } in the hospice program. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP ,/, as/RB far/RB as/IN I/PRP 'm/VBP concerned/VBN ,/, that/DT is/VBZ far/RB and/CC above/IN any/DT nursing/NN home/NN ,/, because/IN ,/, uh/UH ,/, she/PRP 's/BES around/IN her/PRP$ own/JJ fa-/NN ,/, you/PRP know/VBP ,/, the/DT ,/, the/DT elderly/JJ parent/NN in/IN question/NN is/VBZ around/IN their/PRP$ own/JJ family/NN ./.","{C And, } {F uh, } [ I, + as far as I'm ] concerned, that is far and above any nursing home, because, {F uh, } [ she's around her own fa-, + {D you know, } [ the, + the ] elderly parent in question is around their own family. ] /"
+sd,B,"The/DT ,/, uh/UH ,/, hospice/NN program/NN provides/VBZ a/DT hospital/NN type/NN bed/NN ./. Well/UH ,/, it/PRP is/VBZ a/DT hospital/NN bed/NN ,/, and/CC all/PDT the/DT oxygen/NN ,/,","The, {F uh, } hospice program provides a hospital type bed. {A {D Well, } it is a hospital bed, } and all the oxygen,"
+x,A,,<Noise>.
++,B,"stuff/NN and/CC a/DT ,/, uh/UH ,/, and/CC a/DT visiting/VBG nurse/NN at/IN least/JJS every/DT other/JJ day/NN ,/, et/FW cetera/FW ,/, et/FW cetera/FW ,/, et/FW cetera/FW ./.","stuff [ and a, + {F uh, } and a ] visiting nurse at least every other day, et cetera, et cetera, et cetera. /"
+ba,A,"Well/UH ,/, that/DT 's/BES nice/JJ ./.","{D Well, } that's nice. /"
+sd,B,"And/CC it/PRP 's/BES all/DT taken/VBN care/NN of/IN by/IN ,/, by/IN ,/, uh/UH ,/, Medicare/NNP ,/, uh/UH ,/,","{C And } it's all taken care of [ by, + by, ] {F uh, } Medicare, {F uh, } <lipsmack> /"
+ba,B,"and/CC ,/, uh/UH ,/, it/PRP ,/, it/PRP 's/BES ,/, it/PRP 's/BES really/RB neat/JJ ,/, uh/UH ./.","{C and, } {F uh, } [ [ it, + it's, ] + it's ] really neat, {F uh. /"
+sd,B,"And/CC I/PRP ,/, you/PRP know/VBP ,/, I/PRP would/MD n't/RB ,/, I/PRP would/MD n't/RB banish/VB ,/, uh/UH ,/, my/PRP$ old/JJ loved/VBD one/NN to/IN a/DT ,/, to/IN a/DT warehouse/NN ./.","} {C And } [ [ I, + {D you know, } I wouldn't, ] + I wouldn't ] banish, {F uh, } my old loved one [ to a, + to a ] warehouse. /"
+aa,A,No/UH ./.,No. /
+sv,B,"And/CC that/DT 's/BES ,/, that/DT 's/BES what/WP I/PRP basically/RB ,/, uh/UH ,/, view/VBP a/DT nursing/NN home/NN as/IN ,/, a/DT warehouse/NN ,/,","{C And } [ that's, + that's ] what I basically, {F uh, } view a nursing home as, a warehouse, /"
+%,B,"so/RB that/DT 's/BES ,/,","{C so } <laughter> that's, -/"
+sv,A,It/PRP 's/BES really/RB sad/JJ ./.,<Throat_clearing> It's really sad <breathing>. /
+br,B,Pardon/VB me/PRP ?/.,Pardon me? /
+sv,A,It/PRP 's/BES really/RB a/DT sad/JJ situation/NN ./.,It's really a sad situation. /
+aa,B,Uh-huh/UH ./.,Uh-huh. /
+x,B,MUMBLEx/XX ./.,(( )) . /
+sv,A,"And/CC ,/, uh/UH ,/, I/PRP think/VBP a/DT lot/NN of/IN people/NNS struggle/VBP with/IN ./.","{C And, } {F uh, } I think a lot of people struggle with. - /"
+sv,A,"I/PRP ,/,","[ I, +"
+b,B,Oh/UH ./.,(( Oh )) . /
++,A,"I/PRP guess/VBP the/DT problem/NN is/VBZ that/IN the/DT spouse/NN of/IN whoever/WP ,/, you/PRP know/VBP ,/, the/DT parent/NN is/VBZ ,/,","I ] guess the problem is that the spouse of whoever, {D you know, } the parent is,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,does/VBZ n't/RB always/RB want/VB the/DT in-law/NN living/VBG in/IN the/DT house/NN ./.,doesn't always want the in-law living in the house. /
+qy,A,Is/VBZ that/DT right/JJ ?/.,Is that right? /
+na,B,Right/UH ./.,Right. /
+ba,A,"Well/UH ,/, that/DT 's/BES really/RB sad/JJ ./.","{D Well, } that's really sad. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,I/PRP know/VBP ./.,I know. /
+sd,B,"But/CC ,/, uh/UH ,/, in/IN this/DT case/NN ,/, uh/UH ,/, spouse/NN and/CC I/PRP ,/, uh/UH ,/, are/VBP ,/, uh/UH ,/, we/PRP 're/VBP ,/, are/VBP ,/, are/VBP ,/, uh/UH ,/, united/JJ in/IN this/DT area/NN because/IN ,/,","{C But, } {F uh, } in this case, {F uh, } spouse and I, {F uh, } [ [ [ are, + {F uh, } we're, ] + are, ] + are, ] {F uh, } united in this area because,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+x,A,/UH,<<faint>>
++,B,"I/PRP guess/VBP her/PRP$ father/NN ,/, her/PRP$ grandfather/NN and/CC grandmother/NN both/DT lived/VBD with/IN ,/, uh/UH ,/, her/PRP$ parents/NNS ,/, uh/UH ,/, th-/PRP$ ,/, th-/PRP$ ,/, their/PRP$ golden/JJ years/NNS too/RB ,/,","I guess [ her father, + her grandfather ] and grandmother both lived with, {F uh, } <lipsmack> her parents, {F uh, } [ [ th-, + th-, ] + their ] golden years too, /"
+sd,B,so/RB --/:,{C so } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: this/DT is/VBZ n't/RB like/UH ,/, uh/UH ,/, uh/UH ,/, just/RB one/CD ,/, one/CD ,/, uh/UH ,/, instance/NN ./.","-- this isn't {D like, } {F uh, } {F uh, } just [ one, + one, ] {F uh, } instance. /"
+sd,B,"In/IN fact/NN ,/, uh/UH ,/, her/PRP$ ,/, uh/UH ,/, uh/UH ,/, experiences/NNS were/VBD ,/, were/VBD invaluable/JJ --/:","In fact, {F uh, } her, {F uh, } {F uh, } experiences [ were, + were ] invaluable --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: to/IN me/PRP ./.,-- to me. /
+sd,B,"Uh/UH ,/, in/IN fact/NN ,/, I/PRP do/VBP n't/RB know/VB if/IN I/PRP could/MD have/VB ,/, uh/UH ,/, held/VBN up/RP ,/, uh/UH ,/, you/PRP know/VBP ,/, without/IN my/PRP$ wife/NN ,/, uh/UH ,/, helping/VBG in/IN this/DT ,/,","{F Uh, } <laughter> in fact, I don't know if I could have, {F uh, } held up, {F uh, } {D you know, } without my wife, {F uh, } helping [ in [ this, +"
+b,A,Right/UH ./.,Right. /
++,B,"this/DT ,/, in/IN this/DT case/NN ./.","this, ] + in this ] case. /"
+b,A,Yes/UH ./.,Yes. /
+sd,A,"Well/UH ,/, I/PRP know/VBP when/WRB the/DT ,/, I/PRP remember/VBP being/VBG a/DT child/NN","{D Well, } [ I know when the, + I remember being a ] child /"
+sd,A,"and/CC my/PRP$ grandmother/NN had/VBD had/VBN se/JJ ,/, several/JJ strokes/NNS and/CC things/NNS ,/, and/CC that/IN we/PRP had/VBD ,/, my/PRP$ parents/NNS tried/VBD to/TO keep/VB her/PRP in/IN the/DT house/NN ,/,","{C and } my grandmother had had <noise> [ se-, + several ] strokes and things, and that [ we had, + my parents tried ] to keep her in the house, /"
+sd,A,"and/CC they/PRP did/VBD for/IN a/DT long/JJ time/NN ./. I/PRP could/MD n't/RB ,/,","{C and } they did for a long time. {A I couldn't,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"tell/VB you/PRP how/WRB long/JJ ,/, until/IN she/PRP got/VBD ,/, uh/UH ,/, where/WRB she/PRP had/VBD to/TO have/VB complete/JJ care/NN ,/,","tell you how long, } until she got, {F uh, } where she had to have complete care, /"
+sd,A,"and/CC so/RB ,/,","(( {C and so } )) ,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"they/PRP could/MD n't/RB ,/, you/PRP know/VBP ,/, keep/VB her/PRP in/IN the/DT house/NN anymore/RB ,/,","they couldn't, {D you know, } keep her in the house anymore, /"
+sd,A,and/CC it/PRP was/VBD really/RB hard/JJ on/IN everyone/NN ./.,{C and } it was really hard on everyone. /
+sd,A,"She/PRP had/VBD to/TO have/VB ,/, you/PRP know/VBP ,/, twenty-four/CD hour/NN a/DT day/NN care/NN ./.","She had to have, {D you know, } twenty-four hour a day care. /"
+sd,A,And/CC I/PRP do/VBP n't/RB remember/VB much/JJ about/IN it/PRP except/IN that/IN there/EX was/VBD a/DT nursing/NN home/NN at/IN that/DT time/NN --/:,{C And } I don't remember much about it except that there was a nursing home at that time --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: just/RB a/DT block/NN or/CC two/CD from/IN our/PRP$ house/NN ./.,-- just a block or two from our house. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC that/IN ,/, um/UH ,/, they/PRP put/VBD her/PRP$ there/RB ,/,","{C And } [ that, + {F um, } they ] put her there, /"
+sd,A,and/CC we/PRP all/DT went/VBD just/RB constantly/RB until/IN she/PRP died/VBD ./.,{C and } <lipsmack> we all went just constantly until she died. /
+b,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,A,"But/CC it/PRP was/VBD very/RB hard/JJ on/IN everyone/NN to/TO see/VB ,/, you/PRP know/VBP ,/, grandmother/NN be/VB like/IN that/DT ,/,","{C But } it was very hard on everyone to see, {D you know, } grandmother be like that, /"
+sd,A,"and/CC I/PRP do/VBP n't/RB know/VB that/IN ,/, you/PRP know/VBP ,/, I/PRP do/VBP n't/RB ,/, being/VBG so/RB young/JJ ,/, I/PRP do/VBP n't/RB remember/VB why/WRB ./.","{C and } [ [ I don't know that, + {D you know, } <laughter> I don't, ] + being so young, I don't ] remember [ [ why. +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"You/PRP know/VBP ,/, what/WP was/VBD ,/, why/WRB she/PRP had/VBD to/TO go/VB there/RB ./.","{D You know, } what was, ] + why ] she had to go there. /"
+sd,B,"Well/UH ,/, maybe/RB ,/, well/UH ,/, as/IN ,/, as/IN you/PRP say/VBP ,/, the/DT care/NN of/IN ,/, of/IN grandmother/NN or/CC was/VBD ,/, was/VBD just/RB such/JJ that/IN such/JJ mom/NN and/CC dad/NN could/MD n't/RB handle/VB it/PRP ./.","{D Well, } maybe, {D well, } [ as, + as ] you say, the care [ of, + of ] grandmother [ or + ] [ was, + was ] just such that such mom and dad couldn't handle it. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Well/UH ,/, I/PRP do/VBP remember/VB that/IN she/PRP was/VBD ,/, you/PRP know/VBP ,/, totally/RB incapable/JJ of/IN taking/VBG care/NN of/IN herself/PRP in/IN any/DT way/NN ./.","{D Well, } I do remember that she was, {D you know, } totally incapable of taking care of herself in any way. /"
+ba,B,"Oh/UH ,/, boy/UH ,/,","{F Oh, } boy, /"
+%,B,yeah/UH ./.,yeah. /
+sd,A,"And/CC that/IN that/DT ,/, they/PRP could/MD n't/RB ,/, they/PRP found/VBD that/IN they/PRP could/MD not/RB --/:","{C And } [ [ [ that + that, ] + they couldn't, ] + they found that they could not -- ]"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: you/PRP know/VBP ,/, give/VB her/PRP$ the/DT hygienic/JJ care/NN and/CC everything/NN that/WDT she/PRP needed/VBD ./.","-- {D you know, } give her the hygienic care and everything that she needed. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Well/UH ,/, then/RB ,/, then/RB there/EX 's/BES almost/RB ,/, then/RB there/EX 's/BES almost/RB no/DT ,/, no/DT ,/, uh/UH ,/, uh/UH ,/, choice/NN left/VBN to/IN her/PRP$ then/RB ./.","{D Well, } [ [ then, + then there's almost, ] + then there's almost ] [ no, + no, ] {F uh, } {F uh, } choice left to her then <noise>. /"
+aa,A,"No/UH ,/,","No, /"
+aa,A,"but/CC like/IN you/PRP say/VBP ,/, there/EX is/VBZ a/DT tendency/NN for/IN people/NNS to/TO be/VB abandoned/VBN ,/, though/RB ,/, you/PRP know/VBP ,/,","{C but } like you say, there is a tendency for people to be abandoned, though, {D you know, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,in/IN the/DT nursing/NN home/NN ./.,in the nursing home. /
+sd,A,"I/PRP do/VBP remember/VB the/DT other/JJ patients/NNS there/RB ,/, uh/UH ,/, being/VBG real/RB excited/JJ when/WRB we/PRP came/VBD to/TO see/VB our/PRP$ own/JJ grandmother/NN ,/, because/IN they/PRP got/VBD some/DT interaction/NN with/IN someone/NN ./.","I do remember the other patients there, {F uh, } <noise> being real excited when we came to see our own grandmother, because they got some interaction with someone. /"
+aa,B,Right/UH ./.,Right. /
+sv,B,"In/IN fact/NN ,/, just/RB ,/, uh/UH ,/, just/RB ,/, uh/UH ,/, sit/VB and/CC chat/VB with/IN them/PRP for/IN five/CD minutes/NNS and/CC ,/, and/CC be/VB interested/JJ in/IN what/WP they/PRP have/VBP to/TO say/VB --/:","In fact, [ just, + {F uh, } just, ] {F uh, } sit and chat with them for five minutes [ and, + and ] be interested in what they have to say --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: regardless/RB of/IN what/WP it/PRP is/VBZ ./.,-- regardless of what it is. /
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,right/UH ./.,right. /
+sv,A,"And/CC I/PRP guess/VBP that/DT 's/BES hard/JJ on/IN people/NNS to/TO give/VB ,/, give/VB up/RP their/PRP$ lives/NNS ./.","{C And } I guess that's hard on people to [ give, + <breathing> give ] up their lives. /"
+sv,A,If/IN they/PRP 're/VBP busy/JJ they/PRP do/VBP n't/RB you/PRP know/VB ./.,If they're busy they don't <breathing> {D you know. } -/
+b,B,Uh-huh/UH ./.,Uh-huh <noise>. /
+sv,A,"It/PRP 's/BES easy/JJ to/TO abandon/VB people/NNS ,/, because/IN we/PRP do/VBP have/VB the/DT nursing/NN homes/NNS ,/, I/PRP guess/VBP ./.","It's easy to abandon people, because we do have the nursing homes, I guess. /"
+b,B,Right/UH ./.,Right. /
+sv,A,If/IN you/PRP can/MD afford/VB them/PRP ./.,If you can afford them. /
+sd,A,"But/CC ,/, anyway/UH ./. Well/UH ,/, I/PRP 'm/VBP ,/,","{C But, } {D anyway. } {D Well, } I'm,"
+%,B,"And/CC then/RB ,/, then/RB ,/,","{C And [ then, + then, ] } -/"
++,A,glad/JJ it/PRP worked/VBD out/RP good/RB for/IN your/PRP$ family/NN ./.,glad it worked out good for your family. /
+b,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,B,"it/PRP did/VBD ,/,","it did, /"
+sd,B,"and/CC I/PRP was/VBD just/RB pr-/XX ,/, I/PRP just/RB praised/VBD the/DT Lord/NNP that/IN ,/, that/IN we/PRP were/VBD able/JJ to/TO ,/, uh/UH ,/, have/VB ,/, uh/UH ,/, uh/UH ,/,","{C and } [ I was just pr-, + I just praised ] the Lord [ that, + that ] we were able to, {F uh, } <lipsmack> have, {F uh, } {F uh, } -/"

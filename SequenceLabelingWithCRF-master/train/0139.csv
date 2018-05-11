@@ -1,0 +1,366 @@
+act_tag,speaker,pos,text
+%,A,"Okay/UH ,/,","Okay, /"
+qw,A,what/WDT kind/NN of/IN things/NNS do/VBP you/PRP like/VB to/TO do/VB in/IN your/PRP$ spare/JJ time/NN ?/.,what kind of things do you like to do in your spare time? /
+sd,B,"Well/UH ,/, uh/UH ,/, I/PRP have/VBP two/CD children/NNS ,/,","{D Well, } {F uh, } I have two children, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,so/RB I/PRP do/VBP not/RB have/VB a/DT whole/JJ lot/NN of/IN spare/JJ time/NN right/RB now/RB ./.,{C so } I do not have a whole lot of spare time right now. /
+x,A,,<Laughter>.
+sd,B,"One/CD of/IN the/DT things/NNS that/WDT I/PRP have/VBP made/VBN time/NN for/IN is/VBZ ,/, uh/UH ,/, playing/VBG softball/NN ./.","One of the things that I have made time for is, {F uh, } playing softball. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP really/RB enjoy/VBP ,/,","I really enjoy, - /"
+sd,B,"I/PRP enjoy/VBP softball/NN ,/,","I enjoy softball, /"
+sd,B,but/CC I/PRP enjoy/VBP all/DT kind/NN of/IN sports/NNS ./.,{C but } I enjoy all kind of sports. /
+sd,B,I/PRP enjoy/VBP watching/VBG and/CC participating/VBG ./.,I enjoy watching and participating. /
+sd,B,"I/PRP really/RB like/VBP water/NN sports/NNS like/IN swimming/NN and/CC skiing/NN ,/,","I really like water sports like swimming and skiing, /"
+sd,B,but/CC I/PRP do/VBP not/RB get/VB to/TO do/VB that/DT too/RB often/RB ./.,{C but } I do not get to do that too often. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC then/RB I/PRP ,/, I/PRP really/RB enjoy/VBP sewing/NN ,/,","{C And then } [ I, + I ] really enjoy sewing, /"
+sd,B,but/CC I/PRP do/VBP not/RB get/VB much/JJ of/IN a/DT chance/NN to/TO just/RB really/RB sit/VB down/RP and/CC do/VBP much/JJ sewing/NN ./.,{C but } I do not get much of a chance to just really sit down and do much sewing. /
+qo,B,How/WRB about/IN you/PRP ?/.,How about you? /
+sd,A,"Oh/UH ,/, I/PRP ,/, uh/UH ,/, like/IN sports/NNS type/NN things/NNS too/RB ./.","{F Oh, } I, {F uh, } like sports type things too. /"
+sd,A,"We/PRP like/VBP to/TO get/VB out/RP and/CC walk/VB ,/,","We like to get out and walk, /"
+sd,A,and/CC we/PRP like/IN the/DT water/NN sports/NNS too/RB ./.,{C and } we like the water sports too. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"But/CC like/IN you/PRP ,/, unless/IN you/PRP have/VBP a/DT pool/NN in/IN your/PRP$ backyard/NN ,/, it/PRP is/VBZ kind/RB of/RB hard/JJ to/TO get/VB to/TO do/VB that/DT --/:","{C But } like you, unless you have a pool in your backyard, it is kind of hard to get to do that --"
+aa,B,"I/PRP ,/, know/VBP it/PRP ./.","I, know it. /"
+aa,B,It/PRP is/VBZ ./.,It is. /
++,A,--/: very/RB often/RB ./.,-- very often. /
+qy,B,Do/VBP you/PRP work/VB full/GW time/^RB ?/.,Do you work full time? /
+ny,A,Yeah/UH ./.,Yeah. /
+arp_nd,A,"Well/UH ,/, part/GW time/^RB ./.","{D Well, } part time. /"
+sd,A,We/PRP --/:,We --
+b^m,B,Part/GW time/^RB ./.,Part time. /
++,A,--/: are/VBP going/VBG to/TO have/VB a/DT baby/NN in/IN July/NNP ./.,-- are going to have a baby in July. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,"So/RB part/NN of/IN my/PRP$ big/JJ hobby/NN has/VBZ been/VBN trying/VBG to/TO put/VB together/RB a/DT nursery/NN and/CC all/PDT that/DT kind/NN of/IN stuff/NN ,/, lately/RB ./.","{C So } part of my big hobby has been <laughter> trying to put together a nursery and all that kind of stuff, lately. /"
+aa,B,Right/UH ./.,Right. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,that/DT definitely/RB takes/VBZ over/IN your/PRP$ time/NN ./.,that definitely takes over your time. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+x,B,,<Laughter>.
+sv,A,it/PRP does/VBZ ./.,it does. /
+%,A,"I/PRP have/VBP been/VBN ,/,","I have been, -/"
+qy,B,Is/VBZ this/DT going/VBG to/TO be/VB your/PRP$ first/JJ ?/.,Is this going to be your first? /
+ny,A,Yes/UH ./.,Yes. /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,I/PRP have/VBP been/VBN doing/VBG some/DT cross-stitch/NN for/IN something/NN I/PRP wanted/VBD to/TO put/VB in/IN the/DT nursery/NN ./.,I have been doing some cross-stitch for something I wanted to put in the nursery. /
+sd,A,"So/RB ,/, I/PRP have/VBP not/RB --/:","{C So, } I have not --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: done/VBN that/DT in/IN years/NNS ,/,","-- done that in years, /"
+sd,A,but/CC I/PRP have/VBP kind/RB of/RB enjoyed/VBN that/DT ./.,{C but } I have kind of enjoyed that. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,It/PRP is/VBZ just/RB hard/JJ to/TO find/VB the/DT time/NN to/TO sit/VB there/RB and/CC do/VB it/PRP ./.,It is just hard to find the time to sit there and do it. /
+aa,B,Right/UH ./.,Right. /
+%,B,"Well/UH ,/, that/DT is/VBZ ,/,","{D Well, } that is, - /"
+sv,B,it/PRP sure/RB is/VBZ fun/JJ to/TO do/VB that/DT kind/NN of/IN thing/NN because/IN then/RB you/PRP have/VBP got/VBN something/NN to/TO show/VB for/IN it/PRP ./.,it sure is fun to do that kind of thing because then you have got something to show for it. /
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,yeah/UH ./.,yeah. /
+b,B,Yeah/UH ./.,Yeah. /
+ba,B,That/DT is/VBZ neat/JJ ./.,That is neat. /
+sd,A,And/CC I/PRP guess/VBP I/PRP kind/RB of/RB consider/VBP shopping/NN a/DT hobby/NN ./.,{C And } I guess I kind of consider shopping a hobby <laughter>. /
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP do/VBP too/RB ./.,I do too. /
+sd,A,"I/PRP just/RB go/VBP out/RB just/RB to/TO ,/, just/RB to/TO enjoy/VB it/PRP and/CC not/RB --/:","I just go out [ just to, + just to ] enjoy it and not --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: really/RB spend/VBP money/NN sometimes/RB ,/,","-- really spend money sometimes,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,just/RB look/VB ./.,just look. /
+sd,B,"But/CC you/PRP will/MD probably/RB find/VB after/IN your/PRP$ children/NNS get/VBP bigger/JJR ,/, uh/UH ,/, like/IN when/WRB they/PRP want/VBP things/NNS like/IN tricycles/NNS ,/, toys/NNS ,/, things/NNS that/WDT cost/VBP quite/RB a/DT lot/NN in/IN the/DT store/NN ,/, you/PRP can/MD find/VB that/DT kind/NN of/IN stuff/NN at/IN garage/NN sales/NNS for/IN just/RB a/DT few/JJ dollars/NNS ./.","{C But } you will probably find after your children get bigger, {F uh, } like when they want things like tricycles, toys, things that cost quite a lot in the store, you can find that kind of stuff at garage sales for just a few dollars. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,"yeah/UH ,/,","yeah, /"
+sd,A,we/PRP --/:,we --
+%,B,"And/CC ,/,","{C And, } -/"
++,A,"--/: bought/VBD some/DT baby/NN clothes/NNS ,/, yeah/UH ,/, last/JJ weekend/NN at/IN a/DT garage/NN sale/NN ./.","-- bought some baby clothes, {D yeah, } last weekend at a garage sale. /"
+b,B,Yeah/UH ./.,Yeah. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"So/RB ,/, I/PRP am/VBP ,/,","{C So, } I am, - /"
+sd,B,I/PRP have/VBP become/VBN a/DT garage/NN sale/NN shopper/NN ./.,I have become a garage sale shopper. /
+x,A,,<Laughter>.
+sv,B,And/CC it/PRP is/VBZ fun/JJ ./.,{C And } it is fun. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"On/IN the/DT weekends/NNS I/PRP drive/VBP around/RP ,/, look/VBP to/TO see/VB ,/, you/PRP know/VBP ,/, who/WP is/VBZ selling/VBG what/WP ./.","On the weekends I drive around, look to see, {D you know, } who is selling what. /"
+sd,B,And/CC I/PRP found/VBD my/PRP$ little/JJ daughter/NN some/DT tap/NN shoes/NNS for/IN her/PRP$ tap/NN class/NN ./.,{C And } I found my little daughter some tap shoes for her tap class.
+b,A,Oh/UH ./.,Oh <laughter>. /
++,B,"And/CC just/RB ,/, you/PRP know/VBP ,/, all/DT kinds/NNS of/IN things/NNS like/IN that/DT ,/, that/WDT you/PRP would/MD probably/RB pay/VB thirty/CD dollars/NNS for/IN ,/,","And just, {D you know, } all kinds of things like that, that you would probably pay thirty dollars for, /"
+sd,B,and/CC I/PRP got/VBD them/PRP for/IN two/CD dollars/NNS ./.,{C and } I got them for two dollars <laughter>. /
+ba,A,Wow/UH !/.,Wow! /
+b,A,Yeah/UH ./.,Yeah. /
+b,B,Yeah/UH ./.,Yeah. /
+%,B,"So/RB ,/,","{C So, } -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: at/IN a/DT lot/NN of/IN places/NNS ./.,-- at a lot of places. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,it/PRP is/VBZ ./.,it is. /
+sv,B,"It/PRP ,/, it/PRP does/VBZ take/VB more/JJR time/NN ./.","[ It, + it ] does take more time. /"
+sd,B,"But/CC I/PRP do/VBP not/RB work/VB ,/,","{C But } I do not work, /"
+sd,B,"so/RB ,/, uh/UH ,/, that/DT is/VBZ something/NN I/PRP have/VBP decided/VBN I/PRP am/VBP going/VBG to/TO make/VB sure/RB my/PRP$ kids/NNS have/VBP a/DT ,/, have/VBP a/DT happy/JJ growing/NN up/RP years/NNS","{C so, } {F uh, } that is something I have decided I am going to make sure my kids [ have a, + have a ] happy growing up years /"
+%,B,"and/CC ,/,","{C and } <laughter>, -/"
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,yeah/UH ./.,yeah. /
+sd,A,I/PRP think/VBP that/DT is/VBZ important/JJ too/RB ./.,I think that is important too. /
+sd,A,I/PRP am/VBP not/RB --/:,I am not --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: going/VBG to/TO work/VB --/:,-- going to work --
+ba,B,"Well/UH ,/,","{D Well, }"
++,A,--/: after/IN the/DT baby/NN comes/VBP ./.,-- after the baby comes. /
++,B,"Well/UH ,/, that/DT is/VBZ good/JJ ./.","{D Well, } that is good. /"
+sd,A,"So/RB ,/, I/PRP --/:","{D So, } I --"
+ba,B,"I/PRP am/VBP glad/JJ ,/,","I am glad, /"
++,A,"--/: guess/VBP ,/, hopefully/RB I/PRP will/MD have/VB more/JJR time/NN for/IN hobbies/NNS ./.","-- guess, hopefully I will have more time for hobbies. /"
+h,A,I/PRP do/VBP not/RB know/VB ./.,I do not know <laughter>. /
+sd,B,"Well/UH ,/, at/IN first/RB ,/, when/WRB you/PRP first/RB have/VBP a/DT baby/NN ,/, you/PRP ,/, uh/UH ,/, seems/VBZ to/TO take/VB every/DT moment/NN of/IN your/PRP$ time/NN ./. Partly/RB because/IN you/PRP are/VBP not/RB used/JJ to/IN ,/, you/PRP know/VBP ,/, juggling/VBG your/PRP$ time/NN around/IN like/IN that/DT ./.","{D Well, } at first, when you first have a baby, [ you, + ] {F uh, } seems to take every moment of your time. Partly because you are not used to, {D you know, } juggling your time around like that. /"
+sv,B,"But/CC ,/,","{C But, }"
+aa,A,Right/UH ./.,Right. /
++,B,"eventually/RB the/DT ,/, you/PRP will/MD ,/, you/PRP will/MD be/VB doing/VBG lots/NNS of/IN stuff/NN ./.","eventually [ the, + ] [ you will, + you will ] be doing lots of stuff. /"
+%,B,"So/RB ,/,","{C So, } -/"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"But/CC I/PRP think/VBP ,/, my/PRP$ husband/NN is/VBZ real/JJ into/JJ sports/NNS too/RB ./.","{C But } I think, my husband is real into sports too. /"
+sd,B,He/PRP plays/VBZ on/IN a/DT T/NNP I/NNP softball/NN team/NN and/CC the/DT church/NN softball/NN team/NN ./.,He plays on a T I softball team and the church softball team. /
+sd,B,"And/CC by/IN the/DT time/NN he/PRP plays/VBZ two/CD games/NNS a/DT week/NN and/CC I/PRP play/VBP a/DT game/NN a/DT week/NN ,/, we/PRP go/VBP to/IN lots/NNS of/IN softball/NN ./.","{C And } by the time he plays two games a week and I play a game a week, we go to lots of softball <laughter>. /"
+ba,A,Wow/UH !/.,Wow! /
+b,A,Yeah/UH,Yeah /
+x,A,./.,<laughter>.
+sd,B,But/CC the/DT kids/NNS enjoy/VBP going/VBG because/IN there/EX 's/BES usually/RB a/DT lot/NN of/IN other/JJ kids/NNS for/IN them/PRP to/TO play/VB with/IN,{C But } the kids enjoy going because there's usually a lot of other kids for them to play with /
+sd,B,"and/CC we/PRP ,/, that/DT is/VBZ getting/VBG outside/RB and/CC ,/, you/PRP know/VBP ,/, doing/VBG things/NNS they/PRP like/VBP to/TO do/VB too/RB ./.","and [ we, + ] that is getting outside and, {D you know, } doing things they like to do too. /"
+%,B,"So/RB ,/,","{C So, } -/"
+b,A,Yeah/UH ./.,Yeah. /
+ba,A,So/RB that/DT is/VBZ good/JJ ./.,{C So } that is good. /
+bf,A,"A/DT whole/JJ fam-/NN ,/,","A whole fam-, - /"
+bf,A,your/PRP$ whole/JJ family/NN can/MD enjoy/VB those/DT hobbies/NNS ./.,your whole family can enjoy those hobbies. /
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC one/CD other/JJ thing/NN we/PRP are/VBP doing/VBG this/DT year/NN is/VBZ ,/, uh/UH ,/, we/PRP bought/VBD Wet/NNP and/CC Wild/NNP passes/NNS ./.","{C And } one other thing we are doing this year is, {F uh, } we bought Wet and Wild passes. /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,"We/PRP have/VBP never/RB done/VBN that/DT before/RB ,/,","We have never done that before, /"
+sd,B,but/CC the/DT kids/NNS are/VBP always/RB wanting/VBG to/TO play/VB in/IN the/DT water/NN ./.,{C but } the kids are always wanting to play in the water. /
+sd,B,"And/CC ,/, uh/UH ,/, like/IN you/PRP said/VBD ,/, unless/IN you/PRP have/VBP a/DT pool/NN in/IN your/PRP$ backyard/NN or/CC access/NN to/IN a/DT good/JJ place/NN to/TO play/VB ,/, it/PRP is/VBZ kind/RB of/RB hard/JJ ./.","{C And, } {F uh, } like you said, unless you have a pool in your backyard or access to a good place to play, it is kind of hard. /"
+sd,B,"And/CC ,/, uh/UH ,/, they/PRP have/VBP real/RB good/JJ kiddie/NN areas/NNS ,/, uh/UH ,/, at/IN both/DT of/IN the/DT Wet/NNP and/CC Wilds/NNPS around/IN here/RB ./.","{C And, } {F uh, } they have real good kiddie areas, {F uh, } at both of the Wet and Wild's around here. /"
+sd,B,"So/RB ,/, we/PRP are/VBP planning/VBG on/IN going/VBG two/CD or/CC three/CD times/NNS a/DT week/NN ./.","{C So, } we are planning on going two or three times a week <laughter>. /"
+ba,A,"Oh/UH ,/, wow/UH ./.","{F Oh, } wow. /"
+sv,A,That/DT will/MD make/VB the/DT summer/NN go/VB by/RB in/IN a/DT hurry/NN ./.,That will make the summer go by in a hurry. /
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP think/VBP it/PRP will/MD ./.,I think it will. /
+sv,A,Keep/VBP the/DT kids/NNS busy/JJ ./.,Keep the kids busy. /
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,"Because/IN my/PRP$ oldest/JJS daughter/NN is/VBZ in/IN school/NN ,/,","{C Because } my oldest daughter is in school, /"
+sd,B,and/CC she/PRP gets/VBZ bored/JJ real/RB fast/RB when/WRB she/PRP is/VBZ home/NN with/IN nothing/NN to/TO do/VB ./.,{C and } she gets bored real fast when she is home with nothing to do. /
+b,A,Right/UH ./.,Right. /
+sv,B,"So/RB ,/, I/PRP think/VBP that/DT will/MD be/VB a/DT lot/NN of/IN fun/NN ./.","{C So, } I think that will be a lot of fun. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,So/RB we/PRP are/VBP looking/VBG forward/RB to/IN that/DT ./.,{C So } we are looking forward to that. /
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,"Uh/UH ,/, do/VBP you/PRP consider/VB yard/NN work/NN a/DT hobby/NN at/IN all/DT","{F Uh, } do you consider yard work a hobby at all /"
+qrr,A,or/CC is/VBZ that/DT just/RB a/DT chore/NN ?/. ./.,{C or } is that just a chore? <laughter>. /
+sd,B,"Well/UH ,/, when/WRB I/PRP got/VBD married/VBN ,/, I/PRP thought/VBD it/PRP was/VBD going/VBG to/TO be/VB fun/JJ ./.","<Laughter> {D Well, } when I got married, I thought it was going to be fun <laughter>. /"
+b,A,Uh-huh/UH,Uh-huh /
+x,A,./.,<laughter>.
+sd,B,"But/CC my/PRP$ husband/NN and/CC I/PRP both/DT ,/, I/PRP think/VBP ,/, consider/VB it/PRP a/DT chore/NN ./.","{C But } my husband and I both, I think, consider it a chore. /"
+%,B,"It/PRP 's/BES ,/,","It's, -/"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,our/PRP$ yard/NN has/VBZ had/VBN so/RB many/JJ problems/NNS ./.,our yard has had so many problems. /
+sd,B,It/PRP has/VBZ completely/RB died/VBN out/RP two/CD times/NNS ./.,It has completely died out two times. /
+ba,A,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
+sd,B,"And/CC ,/, uh/UH ,/, we/PRP have/VBP had/VBN to/TO start/VB all/DT over/RB trying/VBG to/TO plant/VB grass/NN ./.","{C And, } {F uh, } we have had to start all over trying to plant grass. /"
+sd,B,So/RB it/PRP has/VBZ become/VBN a/DT chore/NN ./.,{C So } it has become a chore <laughter>. /
+b,A,Huh/UH ./.,Huh. /
+qy,B,Do/VBP you/PRP and/CC your/PRP$ husband/NN like/VBP to/TO work/VB in/IN the/DT yard/NN ?/.,Do you and your husband like to work in the yard? /
+arp_nd,A,"Oh/UH ,/, well/UH ,/, we/PRP like/VBP it/PRP once/RB in/IN a/DT while/NN but/CC not/RB as/RB often/RB as/IN we/PRP have/VBP to/TO do/VB it/PRP ./.","{F Oh, } {D well, } we like it once in a while but not as often as we have to do it <laughter>. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP like/VBP to/TO put/VB flowers/NNS out/RB and/CC ,/, you/PRP know/VBP ,/,","I like to put flowers out and, {D you know, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,a/DT few/RB little/JJ things/NNS like/IN that/DT ./.,a few little things like that. /
+sd,A,But/CC as/RB far/RB as/IN --/:,{C But } as far as --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: mowing/VBG every/DT week/NN ,/, and/CC finding/VBG time/NN --/:","-- mowing every week, and finding time --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: to/TO get/VB all/PDT that/DT stuff/NN done/VBN ,/,","-- to get all that stuff done,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,it/PRP gets/VBZ to/TO be/VB a/DT chore/NN ./.,it gets to be a chore. /
+aa,B,Yeah/UH ./.,Yeah. /
+aa,B,That/DT is/VBZ true/JJ ./.,That is true. /
+sv,A,Seems/VBZ like/IN sometimes/RB hobbies/NNS do/VBP that/DT ./.,Seems like sometimes hobbies do that. /
+sv,A,They/PRP kind/RB of/RB take/VBP over/IN and/CC turn/VBP into/IN work/NN instead/IN of/IN --/:,They kind of take over and turn into work instead of --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: fun/NN ./.,-- fun. /
+sd,B,"Well/UH ,/, that/DT is/VBZ how/WRB sewing/NN ./.","{D Well, } that is how sewing. /"
+sd,B,"I/PRP love/VBP to/TO sew/VB ,/,","I love to sew, /"
+sd,B,"and/CC ,/, uh/UH ,/, I/PRP wish/VBP I/PRP had/VBD more/JJR time/NN to/TO do/VB it/PRP ./.","{C and, } {F uh, } I wish I had more time to do it. /"
+sd,B,"But/CC sometimes/RB I/PRP will/MD get/VB started/VBN on/IN a/DT project/NN and/CC then/RB finishing/VBG it/PRP is/VBZ more/JJR of/IN a/DT chore/NN than/IN ,/,","{C But } sometimes I will get started on a project and then finishing it is more of a chore than <laughter>, -/"
+b,A,Yeah/UH ./.,Yeah. /
+bf,A,"If/IN it/PRP does/VBZ not/RB go/VB quite/RB ,/, quite/RB right/JJ ./.","If it does not go quite, quite right. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,Another/DT thing/NN I/PRP enjoy/VBP doing/VBG is/VBZ cooking/NN ./.,Another thing I enjoy doing is cooking. /
+sd,B,"I/PRP ,/, I/PRP like/VBP especially/RB ,/,","[ I, + I ] like especially, - /"
+sd,B,"it/PRP is/VBZ real/RB strange/JJ ,/,","it is real strange, /"
+sd,B,but/CC I/PRP like/VBP to/TO cook/VB for/IN other/JJ people/NNS ./.,{C but } I like to cook for other people. /
+sd,B,"Like/IN I/PRP have/VBP a/DT friend/NN that/WDT is/VBZ ,/, uh/UH ,/, pregnant/JJ","{D Like } I have a friend that is, {F uh, } pregnant /"
+sd,B,but/CC she/PRP ca/MD n't/RB get/VB up/RP and/CC walk/VB around/RP right/RB now/RB ./.,{C but } she can't get up and walk around right now. /
+ba,A,"Oh/UH ,/, no/UH ./.","{F Oh, } no. /"
+sd,B,"So/RB ,/, I/PRP enjoy/VBP ,/, you/PRP know/VBP ,/, cooking/VBG things/NNS to/TO take/VB over/IN to/IN her/PRP$ house/NN","{D So, } I enjoy, {D you know, } cooking things to take over to her house /"
+%,B,"or/CC ,/,","{C or, } -/"
+ba,A,"Oh/UH ,/, that/DT is/VBZ nice/JJ ./.","{F Oh, } that is nice. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC it/PRP ,/, it/PRP is/VBZ fun/JJ for/IN me/PRP to/TO do/VB that/DT ./.","{C And } [ it, + it ] is fun for me to do that. /"
+sd,B,"It/PRP is/VBZ ,/, it/PRP is/VBZ something/NN I/PRP enjoy/VBP doing/VBG ./.","[ It is, + it is ] something I enjoy doing. /"
+sd,B,"It/PRP is/VBZ funny/JJ though/RB ,/, it/PRP is/VBZ like/IN I/PRP do/VBP not/RB really/RB want/VB to/TO cook/VB for/IN us/PRP ./.","It is funny though, it is like I do not really want to cook for us <laughter>. /"
+x,A,,<Laughter>.
+sv,B,"It/PRP is/VBZ kind/RB of/RB like/IN when/WRB you/PRP are/VBP a/DT kid/NN and/CC ,/, and/CC someone/NN else/RB 's/POS house/NN was/VBD fun/JJ to/TO clean/VB ,/,","It is kind of like when you are a kid [ and, + and ] someone else's house was fun to clean, /"
+sv,B,but/CC --/:,{C but } --
+b,A,Yeah/UH ./.,Yeah. /
+%,A,"Your/PRP$ ,/,","Your, -/"
++,B,--/: you/PRP did/VBD not/RB want/VB to/TO do/VB your/PRP$ own/JJ ./.,-- you did not want to do your own <laughter>. /
+ba,A,How/WRB funny/JJ ./.,<Laughter> How funny. /
+sd,A,"I/PRP think/VBP I/PRP will/MD enjoy/VB cooking/NN more/JJR when/WRB I/PRP am/VBP not/RB working/VBG ,/, when/WRB I/PRP --/:","I think I will enjoy cooking more when I am not working, when I --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: do/VBP not/RB get/VB home/NN until/IN five-thirty/CD or/CC six/CD ,/, and/CC I/PRP have/VBP to/TO cook/VB and/CC clean/VB up/RP ,/,","-- do not get home until five-thirty or six, and I have to cook and clean up, /"
+aa,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,"it/PRP is/VBZ not/RB ,/, it/PRP is/VBZ not/RB fun/JJ ./.","[ it is not, + it is not ] fun. /"
+sd,A,But/CC I/PRP think/VBP I/PRP will/MD like/IN it/PRP better/JJR ./.,{C But } I think I will like it better. /
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,When/WRB you/PRP are/VBP home/NN --/:,When you are home --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: it/PRP 's/BES ,/, it/PRP makes/VBZ a/DT difference/NN ./.","-- [ it's, + ] it makes a difference. /"
+sv,B,It/PRP sure/RB does/VBZ ./.,It sure does. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,B,"Well/UH ,/, do/VBP you/PRP guys/NNS go/VBP camping/VBG or/CC anything/NN like/IN that/DT ?/.","{D Well, } do you guys go camping or anything like that? /"
+ny,A,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,A,we/PRP have/VBP done/VBN a/DT little/JJ bit/NN of/IN camping/NN ./.,we have done a little bit of camping. /
+sd,A,We/PRP like/VBP that/DT ./.,We like that. /
+%,A,"It/PRP 's/BES ,/,","It's, - /"
+sd,A,"there/EX again/RB ,/, it/PRP is/VBZ just/RB so/RB hard/JJ to/TO find/VB time/NN to/TO get/VB away/RB --/:","there again, it is just so hard to find time to get away --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: for/IN a/DT whole/JJ weekend/NN ./.,-- for a whole weekend. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"Well/UH ,/, that/DT is/VBZ something/NN that/WDT we/PRP are/VBP planning/VBG to/TO do/VB not/RB this/DT weekend/NN ,/, but/CC the/DT next/JJ ./.","{D Well, } that is something that we are planning to do not this weekend, but the next. /"
+sd,B,"My/PRP$ parents/NNS go/VBP camping/VBG a/DT lot/NN ,/,","My parents go camping a lot, /"
+sd,B,and/CC they/PRP invited/VBD the/DT kids/NNS and/CC my/PRP$ husband/NN and/CC me/PRP to/TO go/VB with/IN them/PRP,{C and } they invited the kids and my husband and me to go with them /
+%,B,"and/CC ,/,","{C and, } -/"
+b,A,Oh/UH ./.,Oh. /
+ba,A,That/DT sounds/VBZ fun/JJ ./.,That sounds fun. /
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,We/PRP are/VBP really/RB looking/VBG forward/RB to/IN it/PRP ./.,We are really looking forward to it. /
+sd,B,The/DT girls/NNS love/VBP it/PRP ./.,The girls love it. /
+sd,B,"They/PRP have/VBP been/VBN a/DT couple/NN of/IN times/NNS ,/, and/CC ,/, uh/UH ,/, just/RB getting/VBG to/TO be/VB outside/RB ,/, you/PRP know/VBP ,/, all/PDT the/DT time/NN and/CC sleep/VB in/IN a/DT tent/NN ./. And/CC that/DT is/VBZ really/RB fun/JJ to/IN them/PRP ./.","They have been a couple of times, and, {F uh, } just getting to be outside, {D you know, } all the time and sleep in a tent. [ And + ] that is really fun to them. /"
+sd,B,"So/RB ,/,","{C So, }"
+b,A,Yeah/UH ./.,Yeah. /
++,B,We/PRP are/VBP looking/VBG forward/RB to/IN that/DT ./.,We are looking forward to that. /
+ba,A,"Well/UH ,/, that/DT sounds/VBZ nice/JJ ./.","{D Well, } that sounds nice. /"
+sv,A,"I/PRP ,/, I/PRP think/VBP that/DT would/MD be/VB a/DT good/JJ family/NN thing/NN --/:","[ I, + I ] think that would be a good family thing --"
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,I/PRP --/:,I --
++,A,--/: to/TO start/VB doing/VBG --/:,-- to start doing --
++,B,--/: think/VBP so/RB ./.,-- think so. /
++,A,--/: more/RBR often/JJ ./.,-- more often. /
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,"My/PRP$ ,/, uh/UH ,/, my/PRP$ husband/NN loves/VBZ to/TO fish/VB ./.","[ My, + {F uh, } my ] husband loves to fish. /"
+sd,B,"I/PRP am/VBP not/RB much/JJ into/IN fishing/NN ,/,","I am not much into fishing, /"
+sd,B,"but/CC ,/, uh/UH ,/, my/PRP$ daughter/NN thinks/VBZ she/PRP wants/VBZ to/TO learn/VB how/WRB to/TO fish/VB","{C but, } {F uh, } my daughter thinks she wants to learn how to fish /"
+sd,B,so/RB --/:,{C so } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: I/PRP think/VBP it/PRP will/MD be/VB real/RB good/NN for/IN them/PRP ./.,-- I think it will be real good for them <laughter>. /
+x,A,,<Laughter>.
+sd,B,They/PRP can/MD go/VB fishing/NN ./.,They can go fishing. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+x,B,,<Laughter>.
+sd,A,we/PRP have/VBP camped/VBN with/IN some/DT friends/NNS who/WP have/VBP young/JJ children/NNS,we have camped with some friends who have young children /
+sd,A,"and/CC ,/,","{C and, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"uh/UH ,/, if/IN you/PRP can/MD find/VB some/DT place/NN where/WRB those/DT little/JJ sunfish/NN are/VBP right/RB around/IN the/DT shore/NN where/WRB they/PRP can/MD just/RB pull/VB in/IN a/DT line/NN ./.","{F uh, } if you can find some place where those little sunfish are right around the shore where they can just pull in a line. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Oh/UH ,/, they/PRP have/VBP so/RB much/JJ fun/NN doing/VBG that/DT ./.","{F Oh, } they have so much fun doing that. /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,And/CC they/PRP think/VBP they/PRP are/VBP really/RB great/JJ fishermen/NNS --/:,{C And } they think they are really great fishermen --
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
++,A,--/: because/IN they/PRP are/VBP catching/VBG so/RB many/JJ ./.,-- because they are catching so many <laughter>. /
+aa,B,"Oh/UH ,/, I/PRP know/VBP ./.","{F Oh, } I know. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"uh/UH ,/, she/PRP is/VBZ really/RB looking/VBG forward/RB ./.","{F uh, } she is really looking forward. /"
+sd,B,"I/PRP am/VBP hoping/VBG ,/,","I am hoping, - /"
+sd,B,"that/DT is/VBZ another/DT thing/NN though/RB ,/, when/WRB sometimes/RB your/PRP$ ,/, uh/UH ,/, hobbies/NNS can/MD interfere/VB with/IN each/DT other/NN ./.","that is another thing though, when sometimes your, {F uh, } hobbies can interfere with each other. /"
+sd,B,Because/IN my/PRP$ husband/NN is/VBZ afraid/JJ he/PRP is/VBZ going/VBG to/TO have/VB a/DT softball/NN tournament/NN that/DT weekend/NN ./.,{C Because } my husband is afraid he is going to have a softball tournament that weekend. /
+b,A,Oh/UH ./.,Oh. /
+sd,B,"And/CC I/PRP am/VBP saying/VBG ,/, no/UH ,/, no/UH ./.","{C And } I am saying, no, no <laughter>. /"
+b,A,Yeah/UH ./.,Yeah. /
+bf,A,Skip/VBP this/DT tournament/NN ./.,Skip this tournament <laughter>. /
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,"If/IN you/PRP are/VBP doing/VBG a/DT lot/NN of/IN things/NNS ,/, sometimes/RB you/PRP have/VBP conflicts/NNS ,/,","If you are doing a lot of things, sometimes you have conflicts, /"
+sv,B,and/CC you/PRP have/VBP to/TO decide/VB what/WP you/PRP enjoy/VBP the/DT most/RBS ./.,{C and } you have to decide what you enjoy the most. /
+aa,A,Right/UH ./.,Right. /
+%,B,"So/RB ,/,","{C So, } -/"
+b,A,Yeah/UH ./.,Yeah. /
+qy,A,Do/VBP you/PRP do/VBP any/DT other/JJ crafts/NNS or/CC anything/NN besides/IN your/PRP$ sewing/NN ?/.,Do you do any other crafts or anything besides your sewing? /
+ng,B,"Well/UH ,/, not/RB really/RB right/RB now/RB ./.","{D Well, } not really right now. /"
+sd,B,"I/PRP keep/VBP thinking/VBG when/WRB the/DT kids/NNS get/VBP bigger/JJR and/CC I/PRP have/VBP a/DT little/RB more/JJR time/NN ,/, uh/UH ,/, I/PRP might/MD take/VB up/IN ,/, there/EX is/VBZ ,/, I/PRP would/MD love/VB to/TO cross-stitch/VB ./.","I keep thinking when the kids get bigger and I have a little more time, {F uh, } [ I might take up, + ] [ there is, + ] I would love to cross-stitch. /"
+sv,B,"I/PRP think/VBP cross-stitching/NN is/VBZ so/RB pretty/RB ,/,","I think cross-stitching is so pretty, /"
+sd,B,but/CC I/PRP have/VBP never/RB done/VBN any/DT ./.,{C but } I have never done any. /
+sv,A,It/PRP is/VBZ not/RB too/RB hard/JJ ./.,It is not too hard. /
+%,A,"It/PRP is/VBZ ,/,","It is, -/"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,I/PRP do/VBP not/RB think/VB it/PRP is/VBZ as/RB hard/JJ as/IN like/IN knitting/NN or/CC --/:,I do not think it is as hard as {D like } knitting or --
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: crochet/NN or/CC something/NN like/IN that/DT ./.,-- crochet or something like that. /
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP ,/, I/PRP crocheted/VBD when/WRB I/PRP was/VBD younger/JJR ./.","[ I, + I ] crocheted when I was younger. /"
+sd,B,"It/PRP is/VBZ funny/JJ ,/, when/WRB I/PRP was/VBD in/IN high/JJ school/NN ,/, I/PRP made/VBD a/DT blanket/NN ./.","It is funny, when I was in high school, I made a blanket. /"
+%,B,"And/CC ,/,","{C And, } - /"
+sd,B,"but/CC you/PRP know/VBP ,/, I/PRP ca/MD n't/RB even/RB remember/VB how/WRB I/PRP did/VBD it/PRP now/RB ./.","{C but } {D you know, } I can't even remember how I did it now <laughter>. /"
+b,A,Yeah/UH,Yeah /
+x,A,./.,<laughter>.
+sd,B,It/PRP has/VBZ been/VBN so/RB long/RB since/IN I/PRP did/VBD it/PRP that/DT,It has been so long since I did it that /
+%,B,"but/CC ,/,","{C but, } -/"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP started/VBD to/TO s-/XX ,/, to/TO knit/VB a/DT sweater/NN ./.","I started [ to s-, + ] to knit a sweater. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC I/PRP got/VBD off/IN on/IN my/PRP$ rows/NNS somehow/RB ,/,","{C And } I got off on my rows somehow, /"
+sd,A,and/CC so/RB what/WP should/MD have/VB been/VBN the/DT back/RB all/DT of/IN a/DT sudden/JJ was/VBD on/IN the/DT front/NN ./.,{C and so } what should have been the back all of a sudden was on the front. /
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,And/CC then/RB I/PRP tore/VBD it/PRP out/RP and/CC threw/VBD it/PRP down/RB ./.,{C And then } I tore it out and threw it down. /
+sd,A,"And/CC I/PRP never/RB have/VBP ,/,","<laughter> {C And } I never have,"
+x,B,,<Laughter>.
++,A,"picked/VBD it/PRP back/RB up/RP again/RB ,/,","picked it back up again, /"
+sd,A,and/CC now/RB I/PRP ca/MD n't/RB remember/VB anything/NN about/IN it/PRP ./.,{C and } now I can't remember anything about it <laughter>. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"well/UH ,/, I/PRP did/VBD the/DT same/JJ thing/NN ./.","{D well, } I did the same thing. /"
+sd,B,"Uh/UH ,/, when/WRB I/PRP was/VBD pregnant/JJ with/IN my/PRP$ first/JJ daughter/NN ,/, I/PRP was/VBD really/RB bored/JJ ,/,","{F Uh, } when I was pregnant with my first daughter, I was really bored, /"
+sd,B,and/CC I/PRP bought/VBD one/CD of/IN those/DT latch/NN hook/NN rug/NN kits/NNS ./.,{C and } I bought one of those latch hook rug kits. /
+b,A,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,B,It/PRP was/VBD a/DT real/RB pretty/JJ rug/NN ./.,It was a real pretty rug. /
+sd,B,"And/CC I/PRP thought/VBD ,/, well/UH I/PRP could/MD use/VB this/DT as/IN a/DT gift/NN or/CC something/NN ,/, you/PRP know/VBP ./.","{C And } I thought, {D well } I could use this as a gift or something, {D you know. } /"
+sd,B,"And/CC oh/UH ,/, it/PRP was/VBD so/RB ,/,","{C And } {F oh, } <sigh> it was so, - /"
+sd,B,"it/PRP was/VBD beautiful/JJ ,/,","it was beautiful, /"
+sd,B,but/CC I/PRP did/VBD not/RB realize/VB how/WRB long/JJ it/PRP took/VBD ./.,{C but } I did not realize how long it took. /
+sd,B,"And/CC I/PRP got/VBD about/RB two/CD ,/, two-thirds/NNS of/IN it/PRP done/VBN ,/,","{C And } I got about [ two, + two-thirds ] of it done, /"
+x,A,,<Laughter>.
+sd,B,"and/CC then/RB I/PRP just/RB ,/,","{C and then } I just, - /"
+sd,B,I/PRP had/VBD the/DT baby/NN ./.,I had the baby <laughter>. /
+b,A,Yeah/UH,Yeah /
+x,A,./.,<laughter>.
+sd,B,And/CC then/RB it/PRP was/VBD just/RB like/IN --/:,{C And then } it was just like --
+^2,A,Forget/VB it/PRP ./.,Forget it. /
++,B,--/: I/PRP forgot/VBD all/DT about/IN it/PRP ./.,-- I forgot all about it. /
+sd,B,"And/CC every/DT once/RB in/IN a/DT while/NN I/PRP will/MD be/VB digging/VBG through/IN the/DT closet/NN ,/,","{C And } every once in a while I will be digging through the closet, /"
+sd,B,and/CC I/PRP will/MD find/VB that/DT thing/NN ./.,{C and } I will find that thing. /
+sd,B,"And/CC I/PRP will/MD think/VB ,/, oh/UH ,/, maybe/RB I/PRP ought/MD to/TO get/VB the/DT rest/NN of/IN that/DT out/RB ,/, you/PRP know/VBP ,/, and/CC finish/VB it/PRP ./.","{C And } I will think, {F oh, } maybe I ought to get the rest of that out, {D you know, } and finish it. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"But/CC ,/, uh/UH ,/, for/IN a/DT while/NN there/EX latch/NN hook/NN rugs/NNS were/VBD a/DT real/RB big/JJ ,/, uh/UH ,/, hobby/NN ./.","{C But, } {F uh, } for a while there latch hook rugs were a real big, {F uh, } hobby. /"
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,I/PRP remember/VBP that/DT ./.,I remember that. /
+sv,B,It/PRP seemed/VBD like/IN people/NNS did/VBD them/PRP a/DT lot/NN ./.,It seemed like people did them a lot. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Uh/UH ,/, uh/UH ,/, people/NNS do/VBP not/RB do/VB that/RB much/JJ any/GW more/^RB ./.","{F Uh, } {F uh, } people do not do that much any more. /"
+sd,B,"So/RB ,/, it/PRP was/VBD something/NN easy/JJ I/PRP could/MD do/VB ./.","{C So, } it was something easy I could do <laughter>. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
+sv,A,They/PRP are/VBP pretty/RB easy/JJ ./.,They are pretty easy. /
+b,B,Yeah/UH ./.,Yeah. /
+fc,A,"Well/UH ,/, it/PRP has/VBZ been/VBN real/RB good/JJ talking/VBG to/IN you/PRP ./.","{D Well, } it has been real good talking to you. /"
+fc,B,Yeah/UH ./.,Yeah. /
+fc,B,You/PRP too/RB ./.,You too. /
+fc,A,And/CC I/PRP hope/VBP you/PRP enjoy/VBP your/PRP$ camping/NN trip/NN ./.,{C And } I hope you enjoy your camping trip. /
+ft,B,"Oh/UH ,/, thank/VB you/PRP ./.","{F Oh, } thank you. /"
+ft,B,And/CC thanks/NNS for/IN calling/VBG ./.,{C And } thanks for calling. /
+"fo_o_fw_""_by_bc",A,Uh-huh/UH ./.,"Uh-huh. / *[[used to mean ""you're welcome""]]"
+fc,A,Bye/UH ./.,Bye. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

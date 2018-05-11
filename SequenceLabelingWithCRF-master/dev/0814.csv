@@ -1,0 +1,128 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/,","Okay, /"
+sv,A,"now/UH then/RB you/PRP heard/VBD the/DT question/NN ,/,","{D now then } you heard the question, /"
+^q,A,what/WP --/:,[ what -- +
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: what/WP do/VBP you/PRP like/VB to/TO do/VB for/IN yourself/PRP in/IN car/NN automobile/NN repairs/NNS ?/.,-- what ] do you like to do for yourself in car automobile repairs? /
+sd,B,"Well/UH ,/, I/PRP 'll/MD tell/VB you/PRP ,/, I/PRP used/VBD to/TO do/VB a/DT lot/RB more/JJR repairs/NNS when/WRB cars/NNS were/VBD easy/JJ to/TO work/VB on/RP ,/, than/IN I/PRP do/VBP now/RB ./.","{D Well, } I'll tell you, I used to do a lot more repairs when cars were easy to work on, than I do now. /"
+b,A,Okay/UH ./.,Okay. /
+sd,B,"I/PRP do/VBP ,/, uh/UH ,/, I/PRP do/VBP the/DT easy/JJ stuff/NN now/RB ./.","[ I do, + {F uh, } I do ] the easy stuff now. /"
+sd,B,"I/PRP change/VBP oil/NN ,/,","I change oil, /"
+sd,B,"uh/UH ,/, and/CC then/RB what/WP some/DT people/NNS would/MD consider/VB a/DT little/RB more/RBR difficult/JJ ,/, I/PRP ,/, I/PRP 'll/MD change/VB spark/NN plugs/NNS","{F uh, } {C and then } what some people would consider a little more difficult, [ I, + I'll ] change spark plugs /"
+sd,B,and/CC --/:,{C and } --
+%,A,Um/UH ./.,{F Um. } /
++,B,"--/: I/PRP 'll/MD change/VB ,/, you/PRP know/VBP ,/, points/NNS and/CC ,/, you/PRP ,/, you/PRP know/VBP ,/, do/VB air/NN filters/NNS ,/, that/DT kind/NN of/IN stuff/NN ./.","-- I'll change, {D you know, } points and, {D [ you, + you ] know, } do air filters, that kind of stuff. /"
+%,A,Well/UH ./.,{D Well. } -/
+sd,B,"But/CC ,/, uh/UH ,/, I/PRP ca/MD n't/RB do/VB as/RB much/JJ as/IN I/PRP used/VBD to/TO ,/,","{C But, } {F uh, } I can't do as much as I used to, /"
+sd,B,"um/UH ,/, I/PRP used/VBD to/TO do/VB a/DT whole/JJ lot/NN more/RBR ,/, but/CC not/RB any/GW more/^RB ,/,","{F um, } I used to do a whole lot more, but not any more, /"
+sd,B,they/PRP 're/VBP just/RB too/RB weird/JJ to/TO work/VB on/IN now/RB ./.,they're just too weird to work on now. /
+qy,A,"Is/VBZ that/DT the/DT reason/NN you/PRP 're/VBP not/RB doing/VBG it/PRP ,/,","<Laughter> Is that the reason you're not doing it, /"
+qrr,A,or/CC are/VBP you/PRP so/RB busy/JJ you/PRP do/VBP n't/RB have/VB time/NN to/TO do/VB it/PRP ?/.,{C or } are you so busy you don't have time to do it? /
+sd,B,"Well/UH ,/, that/DT 's/BES part/NN of/IN it/PRP --/:","{D Well, } that's part of it -- /"
+%,A,Uh/UH ./.,{F Uh. } /
+aa,B,"--/: yeah/UH ,/,","-- yeah, /"
+sd,B,"part/NN of/IN it/PRP is/VBZ ,/, like/IN you/PRP said/VBD ,/, I/PRP do/VBP n't/RB have/VB time/NN ./.","part of it is, like you said, I don't have time. /"
+bk,A,Okay/UH ./.,Okay. /
+sd,A,"Well/UH being/VBG a/DT female/NN and/CC being/VBG alone/RB ,/, you/PRP ,/, I/PRP do/VBP n't/RB do/VB anything/NN but/CC put/VB gasoline/NN ,/,","{D Well } being a female and being alone, [ you, + ] I don't do anything but put gasoline,"
+x,B,./.,<Laughter>.
++,A,"in/IN my/PRP$ car/NN ,/, and/CC let/VB someone/NN else/RB check/VB the/DT oil/NN even/RB ./.","in my car, and let someone else check the oil even. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"But/CC ,/, uh/UH ,/, have/VBP you/PRP had/VBN any/DT major/JJ repairs/NNS recently/RB ?/.","{C But, } {F uh, } have you had any major repairs recently? /"
+ng,B,"Well/UH ,/, um/UH ,/, on/IN this/DT car/NN I/PRP 've/VBP got/VBN now/RB ,/, no/UH ,/,","{D Well, } {F um, } on this car I've got now, no, /"
+sd,B,"but/CC I/PRP had/VBD a/DT van/NN before/RB ,/,","{C but } I had a van before, /"
+sd,B,"and/CC it/PRP was/VBD only/RB two/CD years/NNS old/JJ ,/,","{C and } it was only two years old, /"
+sd,B,and/CC it/PRP had/VBD transmission/NN go/VB out/RP on/IN it/PRP ./.,{C and } it had transmission go out on it. /
+b,A,Oh/UH ./.,Oh. /
+sd,B,But/CC fortunately/RB that/DT was/VBD covered/VBN under/IN the/DT warranty/NN ./.,{C But } fortunately that was covered under the warranty. /
+b,A,Okay/UH ./.,Okay. /
+sd,A,"Well/UH ,/, you/PRP should/MD be/VB ,/, feel/VB very/RB fortunate/JJ ./.","{D Well, } you should [ be, + ] feel very fortunate. /"
+sd,A,I/PRP had/VBD to/TO have/VB a/DT transmission/NN replaced/VBN in/IN an/DT eighty-six/CD automobile/NN --/:,I had to have a transmission replaced in an eighty-six automobile -- /
+%,B,Um/UH ./.,{F Um. } /
+sd,A,"--/: and/CC I/PRP 'll/MD declare/VB ,/, that/DT 's/BES an/DT expensive/JJ ./.","-- {C and } I'll declare, that's an expensive. -/"
+aa,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+aa,A,"Yes/UH ,/,","Yes, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+x,B,./.,<Laughter>.
+sd,A,Maybe/RB I/PRP should/MD have/VB just/RB traded/VBN the/DT car/NN in/RP ./.,<Laughter> Maybe I should have just traded the car in. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,sometimes/RB it/PRP makes/VBZ you/PRP wonder/VB ./.,sometimes it makes you wonder. /
+%,A,"Oh/UH ,/, it/PRP just/RB ,/,","{F Oh, } it just, - /"
+sd,A,"well/UH ,/, I/PRP have/VBP a/DT very/RB comfortable/JJ car/NN --/:","{D well, } I have a very comfortable car --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: and/CC I/PRP have/VBP a/DT health/NN problem/NN that/WDT I/PRP need/VBP a/DT large/JJ comfortable/JJ car/NN ./.,-- {C and } I have a health problem that I need a large comfortable car. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/RB ,/, um/UH ,/, anyway/UH ,/, I/PRP have/VBP a/DT new/JJ transmission/NN ,/,","{C So, } {F um, } {D anyway, } I have a new transmission, /"
+x,B,./.,<Laughter>.
+sv,A,"and/CC I/PRP 'm/VBP sure/JJ that/IN any/DT of/IN them/PRP would/MD have/VB cost/VBN al-/XX ,/, or/CC charged/VBN me/PRP almost/RB the/DT same/JJ amount/NN ./.","{C and } I'm sure that any of them would have [ cost al-, + {E or } charged ] me almost the same amount. /"
+%,A,But/CC --/:,{C But } -- -/
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"--/: it/PRP hurts/VBZ ,/,","-- [ it hurts, +"
+x,B,./.,<Laughter>.
++,A,it/PRP hurts/VBZ real/RB bad/RB ./.,it hurts ] real bad. /
+qy,B,Did/VBD you/PRP take/VB it/PRP to/IN a/DT dealership/NN ?/.,Did you take it to a dealership? /
+nn,A,"No/UH ,/,","No, /"
+sd,A,I/PRP took/VBD it/PRP to/IN an/DT independent/NN --/:,I took it to an independent --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: out/IN in/IN Garland/NNP ./.,-- out in Garland. /
+bk,B,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+%,A,"I/PRP had/VBD ,/, um/UH ,/,","I had, {F um, } - /"
+sd,A,these/DT people/NNS were/VBD recommended/VBN by/IN a/DT neighbor/NN --/:,these people were recommended by a neighbor -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC ,/, you/PRP know/VBP ,/, that/DT 's/BES the/DT only/JJ thing/NN ,/,","-- {C and, } {D you know, } that's the only thing, /"
+sd,A,I/PRP am/VBP not/RB a/DT native/NN of/IN Dallas/NNP ./.,I am not a native of Dallas. /
+b,B,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+sd,A,"So/RB that/DT means/VBZ I/PRP have/VB to/VBP depend/VB on/IN ,/, on/IN trustworthy/JJ friends/NNS --/:","{C So } that means I have to depend [ on, + on ] trustworthy friends -- /"
+b,B,Right/UH ./.,Right. /
+%,A,--/: and/CC that/DT 's/BES ./.,-- {C and } that's. - /
+sd,A,"Anyway/UH ,/, it/PRP 's/BES fixed/JJ ,/,","{D Anyway, } it's fixed, /"
+sd,A,"it/PRP 's/BES running/VBG ,/,","it's running, /"
+sd,A,and/CC I/PRP pray/VBP that/IN I/PRP get/VBP my/PRP$ thirteen/CD hundred/CD dollars/NNS out/IN of/IN it/PRP ./.,{C and } I pray that I get my thirteen hundred dollars out of it. /
+ba,B,"Oh/UH ,/, gosh/UH ./.","{F Oh, } gosh. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"It/PRP 's/BES going/VBG to/TO run/VB for/IN a/DT li-/XX ,/, for/IN a/DT while/NN yet/RB ./.","It's going to run [ for a li-, + for a ] while yet. /"
+ba,A,"Oh/UH ,/, I/PRP know/VBP it/PRP ./.","{F Oh, } I know it. /"
+x,B,./.,<Laughter>.
+sd,A,It/PRP certainly/RB is/VBZ frightening/JJ ./.,It certainly is frightening. /
+qw,A,What/WDT work/NN are/VBP you/PRP in/IN ?/.,What work are you in? /
+sd,B,"Uh/UH ,/, I/PRP ,/, I/PRP work/VBP for/IN T/NNP I/NNP ./.","{F Uh, } [ I, + I ] work for T I. /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,"I/PRP ,/, I/PRP work/VBP in/IN the/DT networking/NN area/NN ./.","[ I, + I ] work in the networking area. /"
+b,A,"Okay/UH ,/,","Okay, /"
+b,A,okay/UH ./.,okay. /
+qy,B,Do/VBP you/PRP work/VB for/IN T/NNP I/NNP ?/.,Do you work for T I? /
+nn,A,No/UH ./.,No. /
+b^m,B,"No/UH ,/,","No, /"
+b,B,okay/UH ./.,okay. /
+nn,A,"No/UH ,/,","No, /"
+sd,A,"I/PRP have/VBP just/RB retired/VBN from/IN ,/, um/UH ,/, the/DT Southwest/NNP Medical/NNP Center/NNP ./.","I have just retired from, {F um, } the Southwest Medical Center. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"Yeah/UH ,/, where/WRB there/EX are/VBP a/DT lot/NN of/IN people/NNS down/IN there/RB that/WDT could/MD help/VB me/PRP with/IN my/PRP$ car/NN ,/,","{D Yeah, } where there are a lot of people down there that could help me with my car, /"
+sd,A,but/CC they/PRP 're/VBP all/RB too/RB busy/JJ ./.,{C but } they're all too busy. /
+%,A,So/UH ./.,{C So. } -/
+b,B,Yeah/UH ./.,<Laughter> Yeah. /
+sd,A,"I/PRP have/VBP to/TO do/VB it/PRP the/DT other/JJ way/NN ,/,","I have to <laughter> do it the other way, /"
+sd,A,and/CC that/DT 's/BES find/VB someone/NN and/CC pay/VB them/PRP to/TO do/VB it/PRP ./.,{C and } that's find someone and pay them to do it. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+"fo_o_fw_""_by_bc",A,So/RB I/PRP certainly/RB hope/VBP you/PRP have/VBP a/DT nice/JJ New/NNP Year/NNP ./.,{C So } I certainly hope you have a nice New Year. /
+"fo_o_fw_""_by_bc",B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP planning/VBG on/IN it/PRP ./.","[ I'm, + I'm ] planning on it. /"
+sd,B,"Oh/UH ,/, it/PRP ca/MD n't/RB be/VB any/RB worse/JJR than/IN last/JJ year/NN ,/,","{F Oh, } it can't be any worse than last year, /"
+sd,B,that/DT 's/BES for/IN sure/JJ ./.,that's for sure. /
+sv,A,"Oh/UH ,/, it/PRP could/MD be/VB ,/,","{F Oh, } it could be, -/"
+x,B,./.,<Laughter>.
+sv,A,but/CC I/PRP do/VBP n't/RB much/RB think/VB so/RB ./.,{C but } I don't much think so <laughter>. /
+b,B,Yeah/UH ./.,Yeah. /
+ba,B,"That/DT 's/BES true/JJ ,/,","That's true, /"
+ba,B,that/DT 's/BES true/JJ ./.,that's true. /
+sd,A,"I/PRP 'm/VBP ,/, well/UH ,/, we/PRP 're/VBP starting/VBG out/RP a/DT new/JJ one/NN ,/,","[ I'm, + {D well, } we're ] starting out a new one, /"
+ad,A,so/RB let/VB 's/PRP make/VB it/PRP a/DT good/JJ one/NN ./.,{C so } let's make it a good one. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP 'm/VBP going/VBG to/TO try/VB and/CC plan/VB on/IN it/PRP ./.,I'm going to try and plan on it. /
+b,A,Okay/UH ./.,Okay. /
+fc,B,"All/RB right/JJ ,/, well/UH ,/, I/PRP enjoyed/VBD the/DT conversation/NN ./.","{D All right, } {D well, } I enjoyed the conversation. /"
+fc,A,Thank/VB you/PRP ./.,Thank you. /
+fc,B,"All/RB right/JJ ,/, thank/VB you/PRP ./.","{D All right, } thank you. /"
+fc,A,Bye/UH ./.,Bye. /
+fc,A,Bye-bye/UH ./.,Bye-bye. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

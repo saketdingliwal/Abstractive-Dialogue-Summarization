@@ -1,0 +1,211 @@
+act_tag,speaker,pos,text
+sd,A,"Okay/UH Charles/NNP ,/, uh/UH ,/, gun/NN control/NN ,/,","{D Okay } Charles, {F uh, } gun control, /"
+qy,A,"what/WP are/VBP you/PRP ,/, uh/UH ,/, for/RB ,/, in/IN favor/NN or/CC no/DT comment/NN ?/.","what are you, {F uh, } [ for, + in favor ] or no comment? /"
+sd,B,I/PRP 'm/VBP very/RB much/RB in/IN favor/NN of/IN gun/NN control/NN ./.,I'm very much in favor of gun control. /
+qy^d,A,"Oh/UH ,/, you/PRP are/VBP ?/.","{F Oh, } you are? /"
+ny,B,Yes/UH,Yes /
+na,B,I/PRP am/VBP ./.,I am. /
+sv,A,"Well/UH ,/, this/DT should/MD be/VB very/RB interesting/JJ ,/,","{D Well, } this should be very interesting,"
+x,B,,<Laughter>.
++,A,because/IN I/PRP 'm/VBP against/IN it/PRP ./.,because I'm against it. /
+sd,B,"I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB mind/VB people/NNS owning/VBG guns/NNS ,/,","[ I don't, + I don't ] mind people owning guns, /"
+sv,B,"I/PRP just/RB think/VBP it/PRP should/MD be/VB a/DT little/JJ ,/, you/PRP know/VBP ,/, a/DT little/JJ ,/, a/DT little/RB more/RBR regulated/JJ ./.","I just think it should be [ [ a little, + {D you know, } a little, ] + a little ] more regulated. /"
+sd,A,"Well/UH ,/, you/PRP know/VBP ,/, uh/UH ,/, now/RB he-/RB ,/, here/RB 's/BES something/NN that/WDT ,/, uh/UH ,/, first/RB occurred/VBD to/IN me/PRP when/WRB they/PRP started/VBD having/VBG all/PDT these/DT problems/NNS with/IN these/DT automatic/NN ,/, uh/UH ,/, weapons/NNS ./.","{D Well, } {D you know, } {F uh, } now [ he-, + here's ] something that, {F uh, } first occurred to me when they started having all these problems with these automatic, {F uh, } weapons. /"
+b,B,Yes/UH ./.,Yes. /
+sd,A,"Uh/UH ,/, now/RB there/EX always/RB has/VBZ been/VBN a/DT federal/JJ law/NN against/IN fully/RB automatic/JJ weapons/NNS ./.","{F Uh, } now there always has been a federal law against fully automatic weapons. /"
+sd,B,"I/PRP believe/VBP that/DT 's/BES correct/JJ ,/,","I believe that's correct, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+sv,A,"And/CC ,/, yet/RB ,/, they/PRP 're/VBP ,/, uh/UH ,/, the/DT gun/NN control/NN enthusiasts/NNS are/VBP ,/, are/VBP ,/, uh/UH ,/, preaching/NN about/IN the/DT gun/NN control/NN and/CC how/WRB they/PRP should/MD be/VB ,/, we/PRP should/MD have/VB stronger/JJR laws/NNS and/CC what/WP not/RB ./.","{C And, } yet, [ their, + ] {F uh, } the gun control enthusiasts [ are, + are, ] {F uh, } preaching about the gun control and how [ they should be, + we should ] have stronger laws and what not. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,I/PRP do/VBP n't/RB understand/VB why/WRB we/PRP do/VBP n't/RB enforce/VB the/DT laws/NNS we/PRP have/VBP ./.,I don't understand why we don't enforce the laws we have. /
+sv,B,"That/DT would/MD certainly/RB help/VB ,/,","That would certainly help, /"
+sv,B,I/PRP 'm/VBP sure/JJ ./.,I'm sure. /
+sd,A,"Now/RB this/DT is/VBZ not/RB just/RB a/DT state/NN law/NN ,/,","Now this is not just a state law, /"
+sd,A,"this/DT is/VBZ a/DT federal/JJ law/NN ,/,","this is a federal law,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,controlled/VBN by/IN the/DT Treasury/NNP Department/NNP ./.,controlled by the Treasury Department.
+b,B,Yep/UH ./.,Yep. /
++,A,"Uh/UH ,/, for/IN fully/RB automatic/JJ weapons/NNS ./.","{F Uh, } for fully automatic weapons. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, all/RB right/JJ ,/, now/RB for/IN instance/NN ,/,","{C And, } {F uh, } {D all right, } now for instance,"
+x,B,,<Breathing>.
++,A,"in/IN California/NNP where/WRB they/PRP passed/VBD the/DT uh/UH ,/, uh/UH ,/, semiautomatic/JJ --/:","in California where they passed the {F uh, } {F uh, } semiautomatic -- -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+t1,A,"--/: or/CC ,/, or/CC ,/, uh/UH ,/, now/RB what/WP was/VBD it/PRP they/PRP called/VBD them/PRP ?/.","-- [ {C or, } + {C or, } ] {F uh, } now what was it they called them? /"
+qy^d,A,"The/DT military/NN version/NN ,/, attack/NN weapons/NNS ,/,","The military version, attack weapons,"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+na,B,"right/UH ,/,","right, /"
+ny,B,uh-huh/UH ./.,uh-huh. /
++,A,or/CC something/NN ?/.,or something? /
+qw,A,"Uh/UH ,/, h/WRB ,/, how/WRB is/VBZ that/DT going/VBG to/TO affect/VB the/DT ,/, uh/UH ,/, sports/NNS weapons/NNS ?/. I/PRP mean/VBP ,/, rifles/NNS ,/,","{F Uh, } [ h-, + how ] is that going to affect the, {F uh, } sports weapons? {E I mean, } rifles,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,that/WDT are/VBP automatic/JJ or/CC semiautomatic/JJ ?/.,that are automatic or semiautomatic? /
+b,B,Yep/UH ./.,Yep. /
+sd,B,"I/PRP really/RB do/VBP n't/RB have/VB any/DT problem/NN ,/, Jack/NNP ,/, with/IN ,/, you/PRP know/VBP ,/, uh/UH ,/, people/NNS using/VBG firearms/NNS for/IN sporting/NN purposes/NNS ./.","I really don't have any problem, Jack, with, {D you know, } {F uh, } people using firearms for sporting purposes. /"
+sd,B,"I/PRP do/VBP n't/RB have/VB any/DT problem/NN ,/,","I don't have any problem, /"
+sd,B,"the/DT only/JJ thing/NN I/PRP ,/,","the only thing I, - /"
+sd,B,I/PRP am/VBP in/IN favor/NN of/IN the/DT seven-day/JJ waiting/NN period/NN ./.,I am in favor of the seven-day waiting period. /
+sd,B,"I/PRP would/MD like/VB to/TO see/VB that/DT ,/, see/VB that/DT happen/VB ./.","I would like to [ see that, + see that ] happen. /"
+%,B,"I/PRP ,/,","I, -/"
+aa,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,A,"well/UH ,/, now/RB ,/, uh/UH ,/, I/PRP 've/VBP got/VBN to/TO admit/VB I/PRP 'm/VBP inclined/JJ to/TO agree/VB with/IN you/PRP there/RB --/:","{D well, } now, {F uh, } I've got to admit I'm inclined to agree with you there --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: uh/UH ,/, even/RB though/IN I/PRP am/VBP a/DT member/NN of/IN the/DT N/NNP R/NNP A/NNP ,/,","-- {F uh, } even though I am a member of the N R A, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"and/CC they/PRP are/VBP again-/RB ,/, they/PRP ,/, their/PRP$ reason/NN being/VBG that/IN well/UH ,/, if/IN you/PRP let/VBP one/CD little/JJ law/NN get/VB through/RB ,/, pretty/RB soon/RB one/CD 's/BES going/VBG to/TO stack/VB up/RP on/IN top/NN of/IN another/DT ,/,","{C and } [ [ they are again-, + they, ] + their ] reason being that {D well, } if you let one little law get through, pretty soon one's going to stack up on top of another,"
+b,B,Right/UH ./.,Right. /
++,A,and/CC so/RB forth/RB and/CC so/RB on/RB ./.,and so forth and so on. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP understand/VBP that/DT ./.,I understand that. /
+ad,A,And/CC you/PRP 've/VBP got/VBN to/TO admit/VB that/IN Congress/NNP does/VBZ kind/RB of/RB look/VB at/IN things/NNS that/DT way/NN ./.,{C And } you've got to admit that Congress does kind of look at things that way. /
+aa,B,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,B,that/DT 's/BES true/JJ ./.,that's true. /
+sd,B,"I/PRP ,/, I/PRP ,/, like/IN I/PRP say/VBP ,/, I/PRP do/VBP n't/RB have/VB any/DT problem/NN with/IN people/NNS using/VBG firearms/NNS ,/, you/PRP know/VBP ,/, for/IN sporting/NN purposes/NNS or/CC hunting/NN purposes/NNS ,/,","[ [ I, + I, ] + like I ] say, I don't have any problem with people using firearms, {D you know, } for sporting purposes or hunting purposes, /"
+sd,B,"I/PRP just/RB think/VBP it/PRP 's/BES just/RB may/MD be/VB a/DT little/JJ too/RB easy/JJ you/PRP know/VBP ,/, to/TO acquire/VB one/CD ./.","I just think it's just may be a little too easy {D you know, } to acquire one."
+%,A,"Uh/UH ,/,","{F Uh, } /"
++,B,"On/IN ,/, on/IN a/DT whim/NN of/IN some/DT sort/NN ./.","[ On, + on ] a whim of some sort. /"
+aa,A,"That/DT ,/, that/DT 's/BES true/JJ ./.","[ That, + that's ] true. /"
+qy,A,"Uh/UH ,/, now/RB did/VBD you/PRP hear/VB about/IN the/DT ,/, the/DT control/NN that/WDT they/PRP have/VBP up/IN in/IN Virginia/NNP ?/.","{F Uh, } now did you hear about [ the, + the ] control that they have up in Virginia? /"
+no,B,I/PRP 'm/VBP not/RB sure/JJ I/PRP have/VBP ./.,I'm not sure I have. /
+sv,A,"Uh/UH ,/, it/PRP ,/, it/PRP 's/BES ,/, it/PRP 's/BES a/DT little/RB hard/JJ to/TO believe/VB ,/,","{F Uh, } [ [ it, + it's, ] + it's ] a little hard to believe, /"
+sd,A,"but/CC they/PRP can/MD ,/, uh/UH ,/, of/IN course/NN ,/,","{C but } they can, {F uh, } of course, - /"
+sd,A,like/IN just/RB like/IN just/RB about/RB every/DT other/JJ state/NN in/IN the/DT union/NN they/PRP have/VBP a/DT felony/NN law/NN ./.,[ like just + like just ] about every other state in the union they have a felony law. /
+sd,A,"Anyone/NN ever/RB convicted/VBD of/IN a/DT ,/, a/DT felony/NN is/VBZ ,/, can/MD not/RB purchase/VB a/DT weapon/NN ./.","Anyone ever convicted of [ a, + a ] felony [ is, + ] cannot purchase a weapon. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"and/CC they/PRP do/VBP n't/RB have/VB a/DT waiting/NN period/NN ,/, because/IN they/PRP have/VBP access/NN to/IN computer/NN records/NNS concerning/VBG all/PDT these/DT felons/NNS ./.","<Breathing> {C and } they don't have a waiting period, <breathing> because they have access to computer records concerning all these felons. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"And/CC the-/XX ,/,","{C And } the-, - /"
+sd,A,"uh/UH ,/, when/WRB you/PRP go/VB in/RB and/CC buy/VB a/DT weapon/NN or/CC a/DT handgun/NN in/IN ,/, uh/UH ,/, uh/UH ,/, Virginia/NNP ,/, the/DT salesman/NN just/RB calls/VBZ some/DT number/NN and/CC ,/, uh/UH ,/, punches/VBZ in/RB your/PRP$ name/NN ,/,","{F uh, } when you go in and buy a weapon or a handgun in, {F uh, } {F uh, } Virginia, <breathing> the salesman just calls some number and, {F uh, } punches in your name, <breathing> /"
+sd,A,"and/CC if/IN it/PRP comes/VBZ up/RP negative/JJ ,/, okay/UH ,/, fine/JJ ,/,","{C and } if it comes up negative, okay, fine, /"
+sd,A,"and/CC you/PRP get/VBP your/PRP$ gwu-/XX ,/, your/PRP$ gun/NN right/RB then/RB and/CC there/RB ./.","{C and } you get [ your gwu-, + your gun ] right then and there. /"
+b,B,I/PRP see/VBP ./.,I see. /
+sd,A,"Uh/UH ,/, but/CC they/PRP are/VBP the/DT only/JJ state/NN that/WDT does/VBZ it/PRP ./.","{F Uh, } {C but } they are the only state that does it. /"
+ba,B,"Hm/UH ,/, that/DT 's/BES interesting/JJ ./.","{F Hm, } that's interesting. /"
+sd,A,"And/CC ,/, uh/UH ,/, according/VBG to/IN Virginia/NNP ,/, it/PRP did/VBD n't/RB cost/VB all/RB that/RB much/JJ ./.","{C And, } {F uh, } according to Virginia, it didn't cost all that much. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"and/CC frankly/RB ,/, I/PRP ,/, I/PRP do/VBP n't/RB understand/VB why/WRB a/DT state/NN does/VBZ n't/RB have/VB those/DT records/NNS available/JJ anyway/RB ./.","<Breathing> {C and } {D frankly, } [ I, + I ] don't understand why a state doesn't have those records available anyway. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,A,"Uh/UH ,/, uh/UH ,/, at/IN least/JJS --/:","{F Uh, } {F uh, } at least --"
+aa,B,"yeah/UH ,/,","yeah, /"
+sv,B,you/PRP would/MD think/VB they/PRP would/MD ./.,you would think they would. /
++,A,"--/: uh/UH ,/, records/NNS of/IN ,/, of/IN ,/, uh/UH ,/, known/JJ felons/NNS --/:","-- {F uh, } records [ of, + of, ] {F uh, } known felons --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: which/WDT are/VBP available/JJ to/IN local/JJ police/NN departments/NNS ./.,-- which are available to local police departments. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,right/UH ./.,right. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP 'm/VBP surprised/JJ that/IN more/JJR states/NNS does/VBZ n't/RB do/VB that/DT ./.,I'm surprised that more states doesn't do that. /
+sd,A,"Uh/UH ,/, uh/UH ,/, uh/UH ,/, certainly/RB those/DT ,/, those/DT records/NNS are/VBP available/JJ ,/,","{F Uh, } {F uh, } {F uh, } certainly [ those, + those ] records are available, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,and/CC all/DT they/PRP would/MD have/VB to/TO do/VB is/VBZ expand/VB it/PRP ./.,{C and } all they would have to do is expand it.
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,right/UH ./.,right. /
++,A,"To/TO ,/, uh/UH ,/, uh/UH ,/, well/UH ,/, connect/VB them/PRP into/IN a/DT modem/NN somehow/RB ./.","To, {F uh, } {F uh, } {D well, } connect them into a modem somehow. /"
+aa,B,Uh-huh/UH ./.,Uh-huh. /
+sv,B,I/PRP would/MD n't/RB think/VB it/PRP 'd/MD be/VB that/RB difficult/JJ to/TO do/VB ./.,I wouldn't think it'd be that difficult to do. /
+sd,A,"Well/UH ,/, Virginia/NNP is/VBZ not/RB a/DT particularly/RB rich/JJ state/NN ,/,","Well, Virginia is not a particularly rich state, /"
+sd,A,"and/CC they/PRP managed/VBD to/TO fi/VB ,/, squeak/VB out/RP a/DT few/JJ bucks/NNS to/TO do/VB it/PRP ./.","{C and } they managed to [ fi-, + ] squeak out a few bucks to do it. /"
+aa,B,"Yep/UH ,/,","Yep, /"
+aa,B,right/UH ./.,right. /
+sd,A,"And/CC ,/, uh/UH ,/, it/PRP 's/BES ,/, uh/UH ,/, uh/UH ,/, one-hundred/CD percent/NN successful/JJ ./.","{C And, } {F uh, } it's, {F uh, } {F uh, } one-hundred percent successful. /"
+ba,B,"Hm/UH ,/, that/DT 's/BES interesting/JJ ./.","{F Hm, } that's interesting. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP just/RB heard/VBD about/IN this/DT last/JJ week/NN ./.,I just heard about this last week. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, they/PRP were/VBD bragging/VBG about/IN it/PRP ,/,","{F Uh, } they were bragging about it, /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"with/IN ,/,","with, - /"
+sv,A,"uh/UH ,/, uh/UH ,/, they/PRP should/MD have/VB ,/, have/VB pride/NN in/IN this/DT because/IN it/PRP 's/BES ,/, it/PRP 's/BES a/DT good/JJ system/NN ,/,","{F uh, } {F uh, } they should have, have pride in this because [ it's, + it's ] a good system, /"
+aa,B,Absolutely/RB ./.,Absolutely. /
+sd,A,and/CC it/PRP 's/BES working/VBG well/RB ./.,{C and } it's working well. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,I/PRP agree/VBP ./.,I agree. /
+sd,A,And/CC they/PRP do/VBP n't/RB need/VB that/DT seven-day/JJ waiting/NN period/NN ./.,{C And } they don't need that seven-day waiting period. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Because/IN the/DT whole/JJ idea/NN of/IN that/DT waiting/NN period/NN was/VBD ,/,","{C Because } the whole idea of that waiting period was,"
+x,B,,<Breathing>.
++,A,"so/IN that/IN ,/, uh/UH ,/, it/PRP ,/, uh/UH ,/, the/DT police/NN could/MD check/VB up/RP on/IN you/PRP ./.","so that, {F uh, } [ it, + ] <breathing> {F uh, } the police could check up on you. /"
+b,B,Yep/UH ./.,Yep. /
+sv,A,"Well/UH ,/, you/PRP know/VBP what/WP 's/BES going/VBG to/TO happen/VB there/RB ,/,","<Breathing> {D Well, } you know what's going to happen there, /"
+sv,A,"those/DT files/NNS are/VBP going/VBG to/TO back/RB up/RP on/IN somebody/NN 's/POS desk/NN ,/, just/RB some/DT of/IN that/DT typical/JJ bureaucratic/JJ work/NN ./.","those files are going to back up on somebody's desk, just (( some of )) that typical bureaucratic work. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"that/DT 's/BES another/DT ,/, uh/UH ,/, uh/UH ,/, thorn/NN in/IN my/PRP$ side/NN ,/,","<Laughter> that's another, {F uh, } {F uh, } thorn in my side,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"bureaucratics/NNS ,/,","bureaucratics,"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,right/UH ./.,right. /
+aa,B,I/PRP agree/VBP ./.,I agree. /
++,A,politicians/NNS ./.,politicians. /
+aa,B,"Yep/UH ,/,","Yep, /"
+aa,B,right/UH ./.,right. /
+sd,B,"I/PRP was/VBD ,/,","I was,"
+sv,A,So/RB anyway/RB --/:,{C So } {D anyway } --
++,B,"just/RB thinking/VBG there/EX 's/BES ,/,","just thinking there's, -/"
++,A,"--/: well/UH ,/, we/PRP seem/VBP to/TO be/VB one/CD in/IN favor/NN and/CC one/CD against/RB ./.","-- {D well, } we seem to be one in favor and one against. /"
+aa,B,"yeah/UH ,/,","<Laughter> yeah, /"
+sv,B,"I/PRP guess/VBP that/DT 's/BES about/RB right/JJ ,/,","I guess that's about right, /"
+sv,A,"Although/IN neither/DT one/CD of/IN us/PRP are/VBP ,/, are/VBP ,/, uh/UH ,/, really/RB uh/UH ,/, uh/UH ,/, dyed/VBN in/IN the/DT wool/NN ./.","Although neither one of us [ are, + are, ] {F uh, } really {F uh, } {F uh, } dyed in the wool. /"
+b,B,"Uh/UH ,/,","<Laughter> {F Uh, } /"
+%,A,"Uh/UH ,/, we/PRP ,/,","{F Uh, } we, - /"
+%,A,"but/CC we/PRP both/DT ,/,","{C but } we both, -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP 'm/VBP not/RB totally/RB rigid/JJ on/IN the/DT subject/NN ,/,","I'm not totally rigid on the subject, /"
+sd,B,"I/PRP just/RB think/VBP there/EX should/MD be/VB ,/, you/PRP know/VBP ,/, should/MD n't/RB be/VB quite/RB so/RB easy/JJ to/TO do/VB ./.","I just think there [ should be, + {D you know, } shouldn't be ] quite so easy to do. /"
+sv,A,"well/RB ,/, there/EX should/MD be/VB some/DT way/NN of/IN checking/VBG ,/,","<Breathing> {D well, } there should be some way of checking, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"now/RB here/RB in/IN ,/, in/IN Texas/NNP ,/, uh/UH ,/, all/DT you/PRP need/VBP is/VBZ a/DT driver/NN 's/POS license/NN ./.","now here [ in, + in ] Texas, {F uh, } all you need is a driver's license. /"
+b,B,Right/UH ./.,Right. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC ,/, uh/UH ,/, even/RB felons/NNS can/MD still/RB get/VB a/DT driver/NN 's/POS license/NN ./.","{C And, } {F uh, } even felons can still get a driver's license. /"
+b,B,"Sure/UH ,/, uh/UH ,/,","Sure, {F uh, } -/"
+sv,A,"So/RB I/PRP ,/, I/PRP do/VBP n't/RB think/VB they/PRP are/VBP too/RB ,/,","{C So } [ I, + I ] don't think they are too, - /"
+sv,A,"well/UH ,/, they/PRP 're/VBP not/RB rigid/JJ enough/RB here/RB ,/, in/IN Texas/NNP ./.","{D well, } they're not rigid enough here, in Texas. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,that/DT 's/BES true/JJ ./.,that's true. /
+ad,A,But/CC do/VBP n't/RB tell/VB the/DT N/NNP R/NNP A/NNP I/PRP said/VBD that/DT ./.,{C But } don't tell the N R A I said that. /
+%,B,"I/PRP wo/MD ,/,","I wo-, - /"
+aa,B,I/PRP promise/VBP ./.,I promise. /
+aa,B,I/PRP wo/MD n't/RB ./.,I won't <laughter>. /
+sv,A,They/PRP 're/VBP liable/JJ to/TO tear/VB up/RP my/PRP$ membership/NN ./.,They're liable to tear up my membership. /
+b,B,"Okay/UH ,/,","<Laughter> Okay, /"
+sd,B,I/PRP promise/VBP ./.,I promise <laughter>. /
+qy,A,You/PRP say/VBP you/PRP retired/VBD a/DT year/NN ago/RB ?/.,You say you retired a year ago? /
+ny,B,"Yes/UH ,/,","Yes, /"
+na,B,"I/PRP did/VBD ,/,","I did, /"
+ny,B,uh-huh/UH ./.,uh-huh. /
+sd,A,"I/PRP 'm/VBP looking/VBG forward/RB to/IN it/PRP in/IN about/RB a/DT ,/, just/RB ,/, just/RB over/IN a/DT year/NN ,/, myself/PRP ./.","I'm looking forward to it in about [ a, + ] [ just, + just ] over a year, myself. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,I/PRP really/RB enjoy/VBP it/PRP ./.,I really enjoy it. /
+%,A,"Uh/UH ,/,","{F Uh, } /"
+sd,B,I/PRP stay/VBP pretty/RB busy/JJ ./.,I stay pretty busy. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP do/VBP quite/RB a/DT ,/, not/RB quite/RB a/DT lot/NN ,/,","I do [ quite a, + not quite a ] lot, - /"
+sd,B,"I/PRP do/VBP some/DT ,/, uh/UH ,/, volunteer/NN work/NN here/RB in/IN Plano/NNP ./.","I do some, {F uh, } volunteer work here in Plano. /"
+sd,B,"I/PRP ,/, I/PRP have/VBP a/DT few/JJ ,/, uh/UH ,/, handicapped/JJ persons/NNS that/WDT I/PRP ,/, you/PRP know/VBP ,/, try/VB to/TO do/VB things/NNS for/IN ,/, help/VBP them/PRP do/VB ./.","[ I, + I ] have a few, {F uh, } handicapped persons that I, {D you know, } try to [ do things for, + ] help them do. /"
+b,A,"Oh/UH ,/, uh-huh/UH ./.","{F Oh, } uh-huh. /"
+sd,A,"Well/UH ,/, uh/UH ,/, I/PRP bought/VBD a/DT motor/NN home/NN here/RB f-/CD ,/, four/CD years/NNS ago/RB --/:","{D Well, } {F uh, } I bought a motor home here [ f-, + four ] years ago -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC I/PRP have/VBP been/VBN living/VBG in/IN it/PRP ever/RB since/IN ,/,","-- {C and } I have been living in it ever since, /"
+%,B,"That/DT 's/BES ,/, uh/UH ,/,","That's, {F uh, } -/"
+sd,A,and/CC I/PRP 'm/VBP looking/VBG forward/RB to/IN just/RB traveling/VBG ./.,{C and } I'm looking forward to just traveling. /
+b,B,"Sure/UH ,/,","Sure, /"
+ba,B,I/PRP can/MD understand/VB that/DT ./.,I can understand that. /
+sd,A,"I/PRP have/VBP four/CD sons/NNS scattered/JJ all/RB over/IN the/DT country/NN ,/,","I have four sons scattered all over the country,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"and/CC a/DT f/JJ ,/, few/JJ grandchildren/NNS ./.","and a [ f-, + few ] grandchildren. /"
+b,B,Yep/UH ./.,Yep. /
+sd,A,And/CC I/PRP 'm/VBP looking/VBG forward/RB to/IN just/RB traveling/VBG around/IN visiting/VBG them/PRP ./.,{C And } I'm looking forward to just traveling around visiting them. /
+ba,B,That/DT 'd/MD be/VB neat/JJ ./.,That'd be neat. /
+aa,B,Sure/RB would/MD ./.,Sure would. /
+fc,A,"Well/UH Charles/NNP ,/, good/JJ luck/NN to/IN you/PRP on/IN your/PRP$ ,/,","<Breathing> {D Well } Charles, good luck to you on your, -/"
+fc,B,Okay/UH ./.,Okay. /
+x,A,,<Breathing>.
+fc,B,Nice/JJ talking/VBG to/IN you/PRP ./.,Nice talking to you. /
+fc,A,"Yeah/UH ,/,","Yeah, /"
+fc,A,"nice/JJ talking/VBG to/IN you/PRP ,/,","nice talking to you,"
+fc,B,Okay/UH ./.,Okay. /
++,A,too/RB ./.,too. /
+fc,B,Take/VB care/NN ./.,Take care. /
+fc,A,Take/VB care/NN now/RB ./.,Take care now. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /
+fc,A,Bye/UH ./.,Bye. /

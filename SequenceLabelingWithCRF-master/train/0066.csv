@@ -1,0 +1,153 @@
+act_tag,speaker,pos,text
+sd,A,I/PRP pushed/VBD it/PRP ./.,I pushed it. /
+b,B,Okay/UH ./.,Okay. /
+qo,A,"So/UH ,/, how/WRB do/VBP you/PRP use/VB your/PRP$ credit/NN cards/NNS ?/.","{D So, } how do you use your credit cards? /"
+sd,B,"Oh/UH ,/, we/PRP use/VBP them/PRP for/IN ,/,","{F Oh, } we use them for,"
+x,A,,<Throat_clearing>.
++,B,"paying/VBG our/PRP$ gas/NN and/CC for/IN paying/VBG ,/, uh/UH ,/, just/RB about/RB anything/NN ,/, because/IN ,/, um/UH ,/, we/PRP do/VBP n't/RB like/VB to/TO pay/VB for/IN our/PRP$ checks/NNS ./.","paying our gas and for paying, {F uh, } just about anything, because, {F um, } we don't like to pay for our checks <laughter>. /"
+sd,B,So/RB we/PRP use/VBP it/PRP quite/PDT a/DT bit/NN --/:,{C So } we use it quite a bit -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: but/CC we/PRP ,/, we/PRP pay/VBP off/RP every/DT month/NN ,/, though/RB ,/,","-- {C but } [ we, + we ] pay off every month, though, /"
+sd,B,so/IN we/PRP never/RB have/VBP to/TO pay/VB interest/NN,{C so } we never have to pay interest /
+sd,B,"and/CC we/PRP always/RB ,/, we/PRP never/RB get/VBP the/DT ,/, the/DT credit/NN cards/NNS if/IN there/EX 's/BES a/DT monthly/NN ,/, or/CC a/DT yearly/JJ charge/NN ./.","{C and } [ we always, + we never ] get [ the, + the ] credit cards if there's a monthly, or a yearly charge. /"
+sd,B,We/PRP always/RB get/VBP it/PRP through/IN our/PRP$ bank/NN or/CC somewhere/RB where/WRB it/PRP 's/BES free/JJ ./.,We always get it through our bank or somewhere where it's free. /
+sd,B,So/RB we/PRP never/RB have/VBP to/TO pay/VB anything/NN extra/JJ ./.,{C So } we never have to pay anything extra. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,that/DT 's/BES me/PRP ./.,that's me. /
+sd,A,I/PRP wo/MD n't/RB use/VB one/CD that/WDT I/PRP have/VBP to/TO pay/VB an/DT annual/JJ fee/NN --/:,I won't use one that I have to pay an annual fee -- /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,we/PRP just/RB do/VBP n't/RB think/VB it/PRP 's/BES worth/JJ it/PRP ./.,we just don't think it's worth it. /
+%,B,So/RB ./.,{C So. } -/
+sd,A,"--/: you/PRP know/VBP ,/, and/CC ,/, um/UH ,/, I/PRP 'm/VBP ,/, uh/UH ,/, like/IN you/PRP ./. I/PRP ,/, I/PRP use/VBP it/PRP ,/, well/UH ,/, to/TO buy/VB my/PRP$ gas/NN with/IN ,/,","-- {D you know, } {C and, } {F um, } [ I'm, + {F uh, } like you. [ I, + I ] ] use it, {D well, } to buy my gas with, /"
+sd,A,"my/PRP$ Sh-/NNP ,/, my/PRP$ Shell/NNP credit/NN card/NN ,/, I/PRP use/VBP that/DT ,/,","[ my Sh-, + my Shell ] credit card, I use that, /"
+sd,A,"and/CC then/RB like/UH my/PRP$ Emporium/NNP card/NN and/CC ,/, uh/UH ,/, Weinstocks/NNP card/NN ,/, I/PRP use/VBP that/DT ,/,","{C and then } {D like } my Emporium card and, {F uh, } Weinstocks card, I use that, /"
+sd,A,but/CC I/PRP 'm/VBP like/IN you/PRP ./.,{C but } I'm like you. /
+sd,A,I/PRP usually/RB pay/VBP it/PRP off/RP as/RB soon/RB as/IN I/PRP get/VBP my/PRP$ bill/NN ./.,I usually pay it off as soon as I get my bill. /
+sd,A,"Why/WRB I/PRP do/VBP n't/RB just/RB write/VB a/DT check/NN ,/, I/PRP do/VBP n't/RB know/VB ./.","Why I don't just write a check, I don't know. /"
+sd,B,"See/UH ,/, well/UH ,/, you/PRP ,/, I/PRP do/VBP n't/RB do/VB it/PRP either/RB ./.","{D See, } {D well, } [ you, + I ] don't do it either <laughter>. /"
+sv,A,"You/PRP know/VBP ,/, it/PRP 's/BES just/RB really/RB weird/JJ ,/,","{D You know, } it's just really weird, /"
+sd,A,"but/CC I/PRP ,/, I/PRP do/VBP n't/RB carry/VB a/DT lot/NN of/IN cash/NN with/IN me/PRP ,/, because/IN I/PRP 'm/VBP --/:","{C but } [ I, + I ] don't carry a lot of cash with me, because I'm --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: always/RB afraid/JJ that/IN someone/NN 's/BES going/VBG to/TO steal/VB my/PRP$ purse/NN ./.,-- always afraid that someone's going to steal my purse. /
+aa,B,"Yes/UH ,/,","Yes, /"
+aa,B,"exactly/UH ,/,","exactly, /"
+sd,B,"that/DT 's/BES how/WRB I/PRP fe/VBP ,/,","that's how I fe-, /"
+sd,B,"I/PRP mean/VBP ,/, it/PRP 's/BES a/DT rare/JJ day/NN when/WRB I/PRP even/RB have/VBP seventy-five/CD cents/NNS in/IN my/PRP$ purse/NN ./.","{E I mean, } it's a rare day when I even have seventy-five cents in my purse. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"you/PRP know/VBP ,/, enough/JJ for/IN a/DT phone/NN call/NN","{D you know, } enough for a phone call /"
+sd,A,and/CC that/DT 's/BES about/RB all/DT ./.,{C and } that's about all. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"But/CC ,/, uh/UH ,/, other/JJ than/IN that/DT ,/, that/DT 's/BES the/DT ,/, that/DT 's/BES the/DT way/NN I/PRP use/VBP them/PRP ./.","{C But, } {F uh, } other than that, [ that's the, + that's the ] way I use them. /"
+sd,A,"I/PRP know/VBP some/DT people/NNS that/WDT uses/VBZ them/PRP so/RB bad/RB that/IN every/DT one/NN of/IN them/PRP that/WDT they/PRP 've/VBP got/VBN ,/, they/PRP c/MD ,/, they/PRP ca/MD n't/RB charge/VB any/GW more/^RB ,/,","I know some people that uses them so bad that every one of them that they've got, [ they c-, + they can't ] charge any more,"
+x,B,,<Laughter>.
++,A,"you/PRP know/VBP ,/,","{D you know, } /"
+sv,A,and/CC I/PRP think/VBP that/DT 's/BES terrible/JJ ./.,{C and } I think that's terrible. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"because/IN it/PRP 's/BES really/RB ,/, it/PRP helps/VBZ your/PRP$ ,/, if/IN you/PRP have/VBP good/JJ credit/NN ,/, you/PRP know/VBP ,/, it/PRP helps/VBZ you/PRP in/IN the/DT long/JJ run/NN when/WRB you/PRP want/VBP to/TO go/VB make/VB a/DT --/:","{C because } [ [ it's really, + it helps your, ] + if you have good credit, {D you know, } it helps you ] in the long run when you want to go make a --"
+b,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,B,--/: bigger/JJR purchase/NN or/CC something/NN ./.,-- bigger purchase or something. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"because/IN if/IN anything/NN ever/RB happens/VBZ that/IN you/PRP do/VBP need/VB to/TO ,/, you/PRP know/VBP ,/, you/PRP have/VBP excellent/JJ credit/NN ,/,","{C because } if anything ever happens that you do need to, {D you know, } you have excellent credit, /"
+sv,A,"why/WRB ,/, it/PRP really/RB does/VBZ help/VB ./.","{D why, } it really does help. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"and/CC I/PRP think/VBP it/PRP 's/BES more/RBR convenient/JJ ,/, too/RB ,/, in/IN a/DT lot/NN of/IN cases/NNS ,/,","{C and } I think it's more convenient, too, in a lot of cases, /"
+sd,B,"like/UH whenever/WRB we/PRP go/VBP on/IN trips/NNS ,/, we/PRP always/RB ,/, you/PRP know/VBP ,/, use/VBP our/PRP$ ,/, our/PRP$ Visa/NNP or/CC our/PRP$ Mastercard/NNP or/CC whatever/WP ./.","{D like } whenever we go on trips, we always, {D you know, } use [ our, + our ] Visa or our Mastercard or whatever. /"
+b,A,MUMBLEx/XX ./. Yeah/UH ./.,(( )) <whispering>. Yeah. /
+sd,B,"And/CC then/RB ,/, um/UH ,/, you/PRP know/VBP ,/, we/PRP really/RB do/VBP n't/RB have/VB to/TO pay/VB for/IN it/PRP out/IN of/IN our/PRP$ own/JJ pockets/NNS until/IN about/RB a/DT month/NN later/RB --/:","{C And then, } {F um, } {D you know, } we really don't have to pay for it out of our own pockets until about a month later -- /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,"--/: and/CC so/RB it/PRP helps/VBZ us/PRP gain/VB interest/NN in/IN the/DT bank/NN that/IN when/WRB we/PRP do/VBP it/PRP ,/,","-- {C and so } it helps us gain interest in the bank [ that + ] when we do it, /"
+sd,B,"we/PRP come/VBP out/RP a/DT lit/JJ ,/, even/RB a/DT little/JJ bit/NN ahead/RB because/IN we/PRP 've/VBP been/VBN able/JJ to/TO use/VB whatever/WP ,/, first/JJ off/RP ,/, and/CC then/RB pay/VB --/:","we come out [ a lit-, + even a little ] bit ahead because we've been able to use whatever, first off, and then pay --"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,"uh-huh/UH ,/, --/:","uh-huh, -- /"
++,B,--/: for/IN it/PRP later/RB ./.,-- for it later. /
+b,A,--/: uh-huh/UH ./.,-- uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"well/UH ,/, I/PRP think/VBP it/PRP 's/BES better/JJR to/TO use/VB credit/NN cards/NNS ,/, too/RB ,/, like/IN I/PRP say/VBP ,/, because/IN yo-/XX ,/, there/EX 's/BES so/RB many/JJ people/NNS around/RB any/GW more/^RB that/WDT 's/BES watching/VBG what/WP you/PRP 're/VBP doing/VBG --/:","{D well, } I think it's better to use credit cards, too, like I say, because [ yo-, + there's ] so many people around any more that's watching what you're doing -- /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,A,"--/: and/CC if/IN you/PRP pull/VBP a/DT wad/NN of/IN money/NN out/IN of/IN your/PRP$ pocket/NN ,/, they/PRP 're/VBP going/VBG to/TO hit/VB you/PRP over/IN the/DT head/NN ./.","-- {C and } if you pull a wad of money out of your pocket, they're going to hit you over the head. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"even/RB if/IN it/PRP 's/BES five/CD bucks/NNS ,/, even/RB ./.","even if it's five bucks, even. /"
+aa,A,I/PRP know/VBP ./.,I know. /
+sv,A,"It/PRP just/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, it/PRP just/RB seems/VBZ like/IN they/PRP 're/VBP ,/, somebody/NN 's/BES always/RB watching/VBG ./.","[ It just, + {F uh, } {D you know, } it just ] seems like [ they're, + somebody's ] always watching. /"
+sd,A,"So/RB ,/, I/PRP just/RB do/VBP n't/RB ,/, I/PRP do/VBP n't/RB carry/VB money/NN ./.","{C So, } [ I just don't, + I don't ] carry money. /"
+sd,A,I/PRP 'd/MD just/RB soon/RB use/VB my/PRP$ credit/NN cards/NNS and/CC --/:,I'd just soon use my credit cards and --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: just/RB pay/VB them/PRP off/RP ,/, you/PRP know/VBP ./.","-- just pay them off, {D you know. } /"
+sd,B,"And/CC also/RB ,/, if/IN you/PRP ,/, if/IN someone/NN did/VBD happen/VB to/TO steal/VB your/PRP$ credit/NN card/NN ,/, my/PRP$ husband/NN was/VBD saying/VBG that/IN if/IN ,/, you/PRP know/VBP ,/, you/PRP notice/VBP it/PRP within/IN ,/, I/PRP think/VBP it/PRP 's/BES twenty-four/CD hours/NNS ,/, you/PRP can/MD report/VB it/PRP in/RP ,/,","{C And } also, [ if you, + if someone ] did happen to steal your credit card, my husband was saying that if, {D you know, } you notice it within, I think it's twenty-four hours, you can report it in, /"
+sd,B,"and/CC I/PRP ,/, he/PRP said/VBD the/DT most/JJS you/PRP 'd/MD ever/RB have/VB to/TO pay/VB is/VBZ fifty/CD dollars/NNS for/IN them/PRP to/TO cancel/VB ,/, you/PRP know/VBP ,/, whatever/WDT payments/NNS you/PRP had/VBD ,/,","{C and } [ I, + he ] said the most you'd ever have to pay is fifty dollars for them to cancel, {D you know, } whatever payments you had, /"
+sd,B,and/CC if/IN --/:,{C and } if --
+b,A,Right/UH ./.,Right. /
++,B,"--/: whoever/WP tried/VBD to/TO ,/, uh/UH ,/, you/PRP know/VBP ,/, credit/VB it/PRP to/IN the/DT hilt/NN ,/, you/PRP 'd/MD only/RB have/VB to/TO pay/VB fifty/CD dollars/NNS of/IN it/PRP ,/,","-- whoever tried to, {F uh, } {D you know, } credit it to the hilt, you'd only have to pay fifty dollars of it, /"
+sv,B,and/CC then/RB --/:,{C and then } --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: you/PRP know/VBP ,/, you/PRP can/MD have/VB your/PRP$ card/NN back/RB with/IN --/:","-- {D you know, } you can have your card back with --"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,right/UH ./.,right. /
++,B,"--/: pretty/RB good/JJ rating/NN ,/, you/PRP know/VBP ,/, because/IN you/PRP can/MD pay/VB fifty/CD dollars/NNS ,/, but/CC not/RB ,/, you/PRP know/VBP --/:","-- pretty good rating, {D you know, } because you can pay fifty dollars, but not, {D you know } --"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,right/UH ./.,right. /
++,B,--/: maybe/RB five/CD thousand/CD or/CC whatever/WP ./.,-- maybe five thousand or whatever. /
+sv,A,"And/CC ,/, you/PRP know/VBP ,/, some/DT of/IN those/DT stores/NNS do/VBP n't/RB even/RB seem/VB to/TO check/VB your/PRP$ signature/NN or/CC anything/NN --/:","{C And, } {D you know, } some of those stores don't even seem to check your signature or anything --"
+aa,B,I/PRP know/VBP ./.,I know. /
++,A,"--/: you/PRP know/VBP ,/,","-- {D you know, } /"
+sv,A,"I/PRP do/VBP n't/RB know/VB why/WRB they/PRP do/VBP n't/RB ,/, unless/IN you/PRP have/VBP to/TO spend/VB a/DT certain/JJ amou-/NN ,/,","I don't know why they don't, unless you have to spend a certain amou-, /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,A,"but/CC I/PRP notice/VBP that/IN some/DT of/IN them/PRP do/VBP n't/RB even/RB look/VB ,/, you/PRP know/VBP ,/,","{A but } I notice that some of them don't even look, {D you know, } /"
+sd,A,they/PRP just/RB slide/VBP it/PRP in/IN there/RB and/CC pass/VBP it/PRP back/RB to/IN you/PRP --/:,they just slide it in there and pass it back to you --
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,exactly/UH ./.,exactly. /
++,A,"--/: you/PRP know/VBP ,/,","-- {D you know, } /"
+sv,A,so/RB I/PRP do/VBP n't/RB think/VB that/DT 's/BES right/JJ ./.,{C so } I don't think that's right. /
+sv,A,"I/PRP think/VBP they/PRP should/MD check/VB it/PRP to/TO make/VB sure/JJ that/IN the/DT signature/NN at/IN least/JJS matches/VBZ ,/, you/PRP know/VBP ./.","I think they should check it to make sure that the signature at least matches, {D you know. } /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,sure/UH ./.,sure. /
+sv,B,I/PRP mean/VBP it/PRP 's/BES just/RB a/DT precaution/NN for/IN everybody/NN ./.,{E I mean } it's just a precaution for everybody. /
+aa,A,"Uh-huh/UH ,/,","Uh-huh, /"
+aa,A,uh-huh/UH ./.,uh-huh. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,so/UH ./.,{D so. } -/
+^h,A,"Well/UH ,/, let/VB 's/PRP see/VB ,/,","{D Well, } let's see, /"
+t1,A,what/WP else/RB can/MD I/PRP say/VB about/IN credit/NN cards/NNS ./.,what else can I say about credit cards. /
+b,B,Um/UH ./.,{F Um. } /
+b^m,A,Um/UH ./.,{F Um. } /
+sd,B,"Oh/UH ,/, I/PRP also/RB use/VBP ,/, like/VBP to/TO use/VB Discover/NNP when/WRB I/PRP can/MD ,/, because/IN they/PRP give/VBP you/PRP some/DT money/NN back/RB every/DT year/NN ./.","{F Oh, } I also [ use, + like to use ] Discover when I can, because they give you some money back every year. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB ,/, uh/UH ,/,","[ I don't, + I don't, ] {F uh, } - /"
+qy^d,A,"that/DT ,/, that/DT 's/BES that/DT Sears/NNP Discovery/NNP Card/NNP ,/,","[ that, + that's that ] Sears Discovery Card, /"
+qy,A,is/VBZ that/DT what/WP that/DT ?/.,is that what that? /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+ny,B,yeah/UH ./.,yeah. /
+b^m,A,Yeah/UH ./.,Yeah. /
+sd,A,"Now/UH I/PRP do/VBP n't/RB have/VB that/DT one/NN ,/, you/PRP know/VBP ./.","{D Now } I don't have that one, {D you know. } /"
+sd,B,"Well/UH ,/, we/PRP just/RB started/VBD doing/VBG that/DT ,/,","{D Well, } we just started doing that, /"
+qh,B,and/CC --/:,{C and } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: you/PRP know/VBP ,/, what/WP","-- you know, what /"
+sd,B,"it/PRP comes/VBZ in/IN handy/JJ for/IN when/WRB you/PRP 're/VBP buying/VBG things/NNS like/IN ,/, um/UH ,/, tickets/NNS for/IN the/DT train/NN or/CC ,/, um/UH ,/, airplanes/NNS --/:","it comes in handy for when you're buying things like, {F um, } tickets for the train or, {F um, } airplanes --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: because/IN they/PRP 'll/MD give/VB you/PRP some/DT money/NN back/RB ,/, you/PRP know/VBP ,/,","-- because they'll give you some money back, {D you know, } /"
+sv,B,"and/CC it/PRP 's/BES only/RB a/DT little/JJ bit/NN ,/,","{C and } it's only a little bit, /"
+sv,B,"but/CC ,/, I/PRP mean/VBP ,/, it/PRP 's/BES still/RB something/NN ./.","{C but, } {E I mean, } it's still something. /"
+sd,B,We/PRP got/VBD two/CD fifty/CD last/JJ year/NN --/:,We got two fifty last year -- /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sv,B,"--/: and/CC so/RB it/PRP 's/BES ,/, you/PRP know/VBP ,/, it/PRP helps/VBZ out/RP here/RB and/CC there/RB ./.","-- {C and so } [ it's, + {D you know, } it helps ] out here and there. /"
+%,B,So/RB ./.,{C So. } -/
+qy,A,"Oh/UH ,/, you/PRP mean/VBP ,/, uh/UH ,/, for/IN ,/, for/IN your/PRP$ using/VBG your/PRP$ credit/NN card/NN you/PRP get/VBP like/UH a/DT rebate/NN or/CC something/NN ?/.","{F Oh, } {E you mean, } {F uh, } [ for, + for ] your using your credit card you get {D like } a rebate or something? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"they/PRP give/VBP you/PRP ,/, I/PRP think/VBP they/PRP start/VBP giving/VBG you/PRP like/UH a/DT half/PDT a/DT percent/NN back/RB ,/, which/WDT does/VBZ n't/RB sound/VB like/IN a/DT thing/NN ,/,","[ they give you, + I think they start giving you ] {D like } a half a percent back, which doesn't sound like a thing, /"
+sd,B,"but/CC when/WRB you/PRP ,/, you/PRP know/VBP ,/, when/WRB you/PRP add/VBP up/RP everything/NN you/PRP 've/VBP ,/, you/PRP 've/VBP charged/VBN up/RP on/IN the/DT Discover/NNP card/NN for/IN a/DT year/NN --/:","{C but } [ when you, + {D you know, } when you ] add up everything [ you've, + you've ] charged up on the Discover card for a year -- -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC they/PRP give/VBP you/PRP a/DT half/JJ percent/NN of/IN that/DT ,/,","-- {C and } they give you a half percent of that, /"
+sd,B,"and/CC that/DT adds/VBZ up/RP to/IN ,/, you/PRP know/VBP ,/, two/CD fifty/CD or/CC something/NN ./.","{C and } that adds up to, {D you know, } two fifty or something. /"
+bk,A,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
+%,B,"And/CC so/RB that/DT 's/BES what/WP ,/,","{C And so } that's what, - /"
+sd,B,"and/CC I/PRP know/VBP we/PRP 're/VBP going/VBG to/TO get/VB back/RB more/JJR this/DT year/NN ,/, because/IN they/PRP ,/, you/PRP know/VBP ,/, we/PRP spent/VBD a/DT little/JJ bit/NN more/JJR --/:","{C and } I know we're going to get back more this year, because [ they, + {D you know, } we ] spent a little bit more --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: probably/RB ,/,","-- probably, /"
+sd,B,"and/CC they/PRP do/VBP it/PRP for/IN how/WRB long/RB you/PRP 've/VBP been/VBN a/DT member/NN I/PRP think/VBP ,/, too/RB --/:","{C and } they do it for how long you've been a member I think, too -- /"
+bk,A,"Um/UH ,/, I/PRP see/VBP ./.","{F Um, } I see. /"
+sd,B,--/: and/CC they/PRP increase/VBP the/DT percentage/NN a/DT little/JJ bit/NN ./.,-- {C and } they increase the percentage a little bit. /
+b,A,Yeah/UH,Yeah /
+%,A,"well/UH ,/, I/PRP 'll/MD ,/,","{D well, } I'll, -/"

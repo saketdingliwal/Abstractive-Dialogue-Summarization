@@ -1,0 +1,51 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,Okay/UH ./.,Okay. /
+sd,A,"Well/UH ,/, basically/RB I/PRP am/VBP a/DT mother/NN of/IN a/DT three/CD year/NN old/JJ ,/,","{D Well, } basically I am a mother of a three year old, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"so/RB I/PRP kind/RB of/RB relate/VBP to/TO trying/VBG to/TO find/VB a/DT good/JJ day/NN care/NN because/IN it/PRP 's/BES ,/, uh/UH ,/, extremely/RB hard/JJ thing/NN to/TO do/VB to/TO trust/VB somebody/NN else/RB with/IN your/PRP$ child/NN ,/, uh/UH ,/, trust/VB their/PRP$ emotional/JJ and/CC their/PRP$ safety/NN and/CC --/:","{C so } I kind of relate to trying to find a good day care because it's, {F uh, } extremely hard thing to do to trust somebody else with your child, {F uh, } trust their emotional and their safety and --"
+b,B,Right/UH ./.,Right. /
++,A,--/: all/PDT the/DT rest/NN of/IN that/DT ./.,-- all the rest of that. /
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP 've/VBP been/VBN pretty/RB selective/JJ ,/,","{C And, } {F uh, } I've been pretty selective, /"
+sd,A,"and/CC what/WP I/PRP 'm/VBP finding/VBG is/VBZ with/IN ,/, um/UH ,/, day/NN cares/NNS that/WDT are/VBP like/IN day/NN care/NN centers/NNS like/IN ,/, for/IN instance/NN ,/, uh/UH ,/, Learning/NNP Tree/NNP or/CC Kinder/NNP Care/NNP and/CC all/DT of/IN that/DT ./.","{C and } what I'm finding is with, {F um, } day cares that are like day care centers like, for instance, {F uh, } Learning Tree or Kinder Care and all of that. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"Uh/UH ,/, like/IN nap/NN time/NN or/CC whatever/WDT time/NN ,/, uh/UH ,/, because/IN of/IN parents/NNS '/POS hours/NNS they/PRP are/VBP differ/JJ ,/,","{F Uh, } like nap time or whatever time, {F uh, } because of parents' hours they are differ-, - /"
+sd,A,"and/CC when/WRB I/PRP bring/VBP my/PRP$ daughter/NN into/IN such/PDT a/DT system/NN like/IN that/DT ,/, uh/UH ,/, they/PRP only/RB have/VBP one/CD thing/NN going/VBG on/RP","{C and } when I bring my daughter into such a system like that, {F uh, } they only have one thing going on /"
+sd,A,and/CC that/DT 's/BES nap/NN time/NN ./.,{C and } that's nap time. /
+sd,A,"Everybody/NN is/VBZ napping/VBG ,/,","Everybody is napping,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"whether/IN they/PRP came/VBD there/RB an/DT hour/NN before/IN or/CC they/PRP came/VBD a-/XX ,/, right/RB during/IN that/DT time/NN ./.","whether they came there an hour before or they came [ a-, + ] right during that time. /"
+sd,A,"And/CC with/IN that/DT kind/NN of/IN a/DT system/NN my/PRP$ daughter/NN just/RB is/VBZ n't/RB likely/JJ to/TO enjoy/VB it/PRP if/IN she/PRP has/VBZ to/TO good/JJ there/RB immediately/RB and/CC lay/VB down/RB ,/,","{C And } with that kind of a system my daughter just isn't likely to enjoy it if she has to good there immediately and lay down,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,on/IN a/DT cot/NN ./.,on a cot. /
+sd,A,"So/RB ,/, um/UH ,/, home/NN day/NN care/NN has/VBZ been/VBN an/DT option/NN ./.","{C So, } {F um, } home day care has been an option. /"
+sd,A,And/CC I/PRP 've/VBP looked/VBN into/IN that/DT ./.,{C And } I've looked into that. /
+sd,A,"The/DT only/JJ thing/NN is/VBZ you/PRP raise/VBP the/DT question/NN of/IN if/IN it/PRP 's/BES safe/JJ ,/, uh/UH ,/, can/MD you/PRP trust/VB the/DT people/NNS ,/, you/PRP know/VBP ./.","The only thing is you raise the question of if it's safe, {F uh, } can you trust the people, {D you know. } /"
+ba,B,That/DT 's/BES right/JJ ./.,That's right. /
+%,A,"Um/UH ,/,","{F Um, } -/"
+sv,B,And/CC you/PRP never/RB know/VBP ./.,{C And } you never know. /
+sd,B,"I/PRP have/VBP ,/, um/UH ,/, an/DT ex-sister-in-law/NN that/WDT ,/,","I have, {F um, } an ex-sister-in-law that,"
+b,A,Uh-huh/UH ./.,<<Very faint>> Uh-huh. /
++,B,"um/UH ,/, currently/RB has/VBZ a/DT child/NN abuse/NN case/NN on/IN a/DT home/NN baby-sitter/NN ./.","{F um, } currently has a child abuse case on a home baby-sitter. /"
+b,A,Sure/UH ./.,Sure. /
+ba,A,"Oh/UH ,/, sure/UH ./.","{F Oh, } sure. /"
+b,A,Sure/UH ./.,Sure. /
+ba,A,That/DT 's/BES really/RB scary/JJ ./.,That's really scary. /
+sd,A,"And/CC ,/,","{C And, }"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"To/IN the/DT point/NN that/IN you/PRP kind/RB of/RB say/VBP to/IN yourself/PRP ,/, especially/RB home/NN day/NN care/NN","To the point that you kind of say to yourself, especially home day care - /"
+sv,A,"I/PRP mean/VBP ,/, I/PRP think/VBP center/NN day/NN cares/NNS there/EX 's/BES so/RB many/JJ people/NNS coming/VBG in/RB and/CC out/RB --/:","{E I mean, } I think center day cares there's so many people coming in and out --"
+b,B,Right/UH ./.,Right. /
++,A,"--/: that/IN you/PRP 're/VBP better/JJR off/RP if/IN you/PRP 're/VBP going/VBG to/TO put/VB a/DT child/NN into/IN that/DT type/NN of/IN system/NN for/IN eight/CD hours/NNS ,/, it/PRP 's/BES fine/JJ ./.","-- that you're better off if you're going to put a child into that type of system for eight hours, it's fine. /"
+sd,A,It/PRP depends/VBZ on/IN the/DT age/NN of/IN the/DT child/NN ./.,It depends on the age of the child. /
+sv,A,Now/UH some/DT children/NNS do/VBP real/RB well/RB that/WDT are/VBP at/IN the/DT age/NN of/IN four/CD or/CC five/CD or/CC children/NNS that/WDT have/VBP been/VBN in/IN that/DT kind/NN of/IN system/NN for/IN a/DT while/NN,{D Now } some children do real well that are at the age of four or five or children that have been in that kind of system for a while /
+sv,A,but/CC --/:,{C but } --
+b,B,Right/UH ./.,Right. /
++,A,"--/: home/NN da-/XX ,/, home/NN day/NN care/NN works/VBZ well/RB if/IN it/PRP 's/BES an/DT infant/NN ./.","-- [ home da-, + home day ] care works well if it's an infant. /"
+sv,A,"If/IN it/PRP 's/BES ,/, if/IN it/PRP 's/BES ,/,","[ [ If it's, + if it's, ] +"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"The/DT kids/NNS have/VBP ,/,","The kids have,"
+b,B,Right/UH ./.,Right. /
++,A,colds/NNS,colds /
+sd,A,and/CC they/PRP 're/VBP sick/JJ all/PDT the/DT time/NN,{C and } they're sick all the time /
+%,A,"and/CC the-/XX ,/,","{C and } the-, -/"

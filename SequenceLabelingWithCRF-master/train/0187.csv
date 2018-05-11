@@ -1,0 +1,157 @@
+act_tag,speaker,pos,text
+ad,A,Push/VB my/PRP$ number/NN ./.,((Push)) my number. /
+%,A,Okay/UH ./.,Okay. /
+b^m,B,Okay/UH ./.,Okay. /
+qy,B,"So/UH are/VBP you/PRP a/DT ,/, a/DT ,/, a/DT golfer/NN","{D So } are you [ [ a, + a, ] + a ] golfer /"
+qrr,B,or/CC are/VBP you/PRP a/DT spectator/NN ?/.,{C or } are you a spectator? /
+sd,A,"Oh/UH ,/, I/PRP 'm/VBP a/DT ,/,","{F Oh, } I'm a, - /"
+sd,A,I/PRP play/VBP golf/NN,I play golf /
+sd,A,but/CC I/PRP do/VBP n't/RB actually/RB play/VB golf/NN ./.,{C but } I don't actually play golf. /
+sd,B,"Well/UH ,/, I/PRP 'm/VBP the/DT same/JJ way/NN ./.","{D Well, } I'm the same way. /"
+sd,B,"I/PRP ,/,","[ I, +"
+b,A,Yeah/UH ./.,Yeah. /
++,B,I/PRP go/VBP out/IN there/RB and/CC hit/VBP the/DT ball/NN ./.,I ] go out there and hit the ball. /
+bf,A,Hack/VB it/PRP all/RB over/RB the/DT place/NN ?/.,Hack it all over the place? /
+aa,B,Yeah/UH ./.,Yeah. /
+qy,A,"It/PRP 's/BES sickening/JJ ,/, is/VBZ n't/RB it/PRP ?/.","It's sickening, isn't it? /"
+sd,B,"Um/UH ,/, uh/UH ,/, well/UH ,/, in/IN the/DT Carolinas/NNP it/PRP 's/BES ,/, it/PRP 's/BES just/RB ,/, you/PRP know/VBP ,/, we/PRP 've/VBP got/VBN a/DT bunch/NN of/IN golf/NN courses/NNS around/IN here/RB ./.","{F Um, } {F uh, } {D well, } in the Carolinas [ it's, + it's ] just, {D you know, } we've got a bunch of golf courses around here. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,We/PRP 've/VBP got/VBN tons/NNS up/IN here/RB,We've got tons up here /
+h,A,but/CC I/PRP do/VBP n't/RB know/VB ./.,{C but } I don't know. /
+qw,A,How/WRB do/VBP you/PRP feel/VB about/IN your/PRP$ game/NN ?/.,How do you feel about your game? /
+qy^d,A,I/PRP guess/VBP that/DT 's/BES a/DT good/JJ question/NN ?/.,I guess that's a good question? /
+sd,B,"Uh/UH ,/, well/UH ,/, I/PRP mean/VBP I/PRP 'm/VBP not/RB a/DT serious/JJ golfer/NN at/IN all/DT ,/,","{F Uh, } {D well, } {E I mean } I'm not a serious golfer at all, /"
+sd,B,"uh/UH ,/, uh/UH ,/, a/DT friend/NN of/IN mine/PRP goes/VBZ golfing/VBG a/DT lot/NN","{F uh, } {F uh, } a friend of mine goes golfing a lot /"
+sd,B,and/CC he/PRP drags/VBZ me/PRP out/RB every/DT now/RB and/CC then/RB,{C and } he drags me out every now and then /
+sd,B,"and/CC I/PRP ,/, uh/UH ,/, I/PRP do/VBP n't/RB have/VB a/DT ,/, I/PRP do/VBP n't/RB really/RB even/RB have/VB a/DT game/NN ./.","{C and } [ [ I, + {F uh, } I don't have a, ] + I don't really even have a ] game. /"
+%,B,I/PRP usually/RB,I usually - /
+sd,B,"when/WRB I/PRP go/VBP out/RB and/CC play/VB golf/NN it/PRP 's/BES usually/RB like/IN at/IN a/DT ,/, at/IN one/CD of/IN these/DT par/NN threes/NNS that/WDT ,/,","when I go out and play golf it's usually like [ at a, + at one of these ] par threes that,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"you/PRP know/VBP ,/, you/PRP ,/,","{D you know, } you, - /"
+sd,B,"but/CC ,/, um/UH ,/, I/PRP like/VBP watching/VBG it/PRP on/IN T/NN V/NN ./.","{C but, } {F um, } I like watching it on T V. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP like/VBP that/DT too/RB ./.,I like that too. /
+h,A,I/PRP do/VBP n't/RB know/VB,I don't know /
+sd,A,"I/PRP try/VBP to/TO play/VB ,/,","I try to play, /"
+sd,A,"but/CC God/UH ,/, I/PRP ,/, a/DT couple/NN years/NNS ago/RB I/PRP played/VBD two/CD ,/, three/CD times/NNS a/DT week/NN and/CC got/VBD lousy/JJ ./.","{C but } God, [ I, + a couple years ago I ] played two, three times a week and got lousy. /"
+sv,A,I/PRP guess/VBP that/DT 's/BES the/DT best/JJS I/PRP ever/RB got/VBD was/VBD lousy/JJ ./.,I guess that's the best I ever got was lousy. /
+sv,A,And/CC I/PRP thought/VBD I/PRP was/VBD really/RB improving/VBG and/CC the/DT big/JJ break/NN was/VBD going/VBG to/TO come/VB,{C And } I thought I was really improving and the big break was going to come /
+sd,A,and/CC then/RB I/PRP got/VBD worse/JJR again/RB,{C and then } I got worse again /
+%,A,so/RB ./.,{C so. } -/
+sd,B,"to/TO get/VB me/PRP they/PRP ,/, they/PRP say/VBP I/PRP hit/VBP worm/NN burners/NNS because/IN I/PRP ,/, I/PRP ca/MD n't/RB hit/VB it/PRP up/IN in/IN the/DT air/NN ./.","((to get me)) [ they, + they ] say I hit worm burners because [ I, + I ] can't hit it up in the air. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,So/RB I/PRP 'm/VBP pretty/RB bad/JJ,{D So } I'm pretty bad /
+sd,B,"but/CC I/PRP ,/, I/PRP ,/, I/PRP get/VBP great/JJ distance/NN hitting/VBG it/PRP ,/, you/PRP know/VBP ,/, MUMBLEx/XX across/IN the/DT ground/NN ,/,","{C but } [ [ I, + I, ] + I ] get great distance hitting it, {D you know, } (( )) across the ground, /"
+sd,B,"and/CC if/IN it/PRP 's/BES going/VBG over/IN water/NN or/CC something/NN one/CD of/IN them/PRP have/VBP to/TO take/VB the/DT shot/NN for/IN me/PRP because/IN I/PRP 'm/VBP ,/,","{C and } if it's going over water or something one of them have to take the shot for me because I'm, - /"
+sd,B,but/CC I/PRP 'm/VBP getting/VBG better/RB ./.,{C but } I'm getting better. /
+sd,B,"I/PRP 've/VBP got/VBN where/WRB now/RB I/PRP can/MD hit/VB it/PRP in/IN ,/, in/IN the/DT air/NN some/DT of/IN the/DT time/NN ./.","I've got where now I can hit it [ in, + in ] the air some of the time. /"
+ba,A,That/DT 's/BES pretty/RB good/JJ ./.,That's pretty good. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,B,"Uh/UH ,/, so/RB I/PRP 'm/VBP kind/RB of/RB a/DT novice/NN at/IN it/PRP ./.","{F Uh, } {C so } I'm kind of a novice at it. /"
+sd,A,"Um/UH ,/, I/PRP 'm/VBP that/DT and/CC worse/JJR ./.","{F Um, } I'm that and worse. /"
+sd,A,"I/PRP ,/, I/PRP play/VBP","[ I, + I ] play - /"
+%,A,"next/JJ year/NN I/PRP ,/,","next year I, - /"
+sd,A,actually/RB I/PRP take/VBP it/PRP kind/RB of/RB seriously/RB,actually I take it kind of seriously /
+sd,A,but/CC I/PRP 've/VBP been/VBN doing/VBG so/RB bad/RB ./.,{C but } I've been doing so bad. /
+sd,A,"Next/JJ year/NN ,/, I/PRP always/RB say/VBP this/PDT every/DT year/NN ,/, but/CC next/JJ year/NN I/PRP 'm/VBP starting/VBG over/RB from/IN scratch/NN ./.","[ Next year, + {A I always say this every year, } {C but } next year ] I'm starting over from scratch. /"
+sd,A,I/PRP 'm/VBP going/VBG to/TO go/VB take/VB lessons/NNS and/CC everything/NN ./.,I'm going to go take lessons and everything. /
+sd,A,"I/PRP 'm/VBP going/VBG to/TO do/VB it/PRP right/RB ,/, and/CC see/VB if/IN I/PRP can/MD actually/RB play/VB this/DT game/NN or/CC not/RB ./.","I'm going to do it right, and see if I can actually play this game or not. /"
+sv,B,"Well/UH ,/, that/DT I/PRP ,/, I/PRP guess/VBP that/DT 's/BES what/WP I/PRP need/VBP to/TO do/VB is/VBZ ,/, is/VBZ get/VB some/DT kind/NN of/IN lessons/NNS or/CC something/NN ./.","{D Well, } [ that + ] [ I, + I ] guess that's what I need to do [ is, + is ] get some kind of lessons or something. /"
+sd,B,"Because/IN I/PRP ,/, my/PRP$ ,/, my/PRP$ tee/NN off/RP is/VBZ not/RB bad/JJ ,/,","{C Because } [ [ I, + my, ] + my ] tee off is not bad, /"
+sd,B,"I/PRP mean/VBP I/PRP 'm/VBP ,/, I/PRP 'm/VBP good/JJ up/RP to/IN everything/NN else/JJ putting/NN and/CC stuff/NN like/IN that/DT","{E I mean } [ I'm, + I'm ] good up to everything else putting and stuff like that /"
+sd,B,"it/PRP 's/BES just/RB ,/, that/DT ,/, that/DT initial/JJ tee/NN ./.","it's just, [ that, + that ] initial tee <laughter>. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+qw,A,what/WP do/VBP you/PRP do/VB when/WRB you/PRP 're/VBP putting/VBG ?/.,what do you do when you're putting? /
+sv,A,That/DT 's/BES a/DT good/JJ thing/NN ./.,That's a good thing. /
+sv,A,That/DT 's/BES something/NN I/PRP could/MD learn/VB actually/RB ./.,That's something I could learn actually. /
+sd,A,That/DT 's/BES when/WRB I/PRP do/VBP my/PRP$ worst/JJS ./.,That's when I do my worst. /
+sd,A,I/PRP finally/RB get/VBP to/IN the/DT green/NN,I finally get to the green /
+sv,A,"and/CC I/PRP think/VBP I/PRP 'm/VBP doing/VBG all/RB ,/, all/RB fine/RB","{C and } I think I'm doing [ all, + all ] fine /"
+%,A,"and/CC then/RB ,/,","{C and then, } -/"
+sd,B,"Just/RB walking/VBG around/RB the/DT hollow/NN and/CC making/VBG sure/JJ there/EX 's/BES not/RB really/RB ,/,","Just walking around the hollow and making sure there's not really, - /"
+sd,B,"you/PRP know/VBP ,/, checking/VBG the/DT ground/NN and/CC ,/, and/CC so/RB forth/RB ,/, you/PRP know/VBP ./.","{D you know, } checking the ground [ and, + and ] so forth, {D you know. } /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,See/VB how/WRB it/PRP 's/BES going/VBG to/TO break/VB or/CC whatever/WP ./.,See how it's going to break or whatever. /
+qy,A,Can/MD you/PRP really/RB see/VB it/PRP though/RB ?/.,Can you really see it though? /
+ny,B,Yeah/UH ./.,Yeah. /
+qw,A,What/WP about/IN the/DT speed/NN ?/.,What about the speed? /
+sv,B,"If/IN you/PRP get/VBP ,/, if/IN you/PRP get/VBP down/IN on/IN the/DT ground/NN you/PRP really/RB can/MD ./.","[ If you get, + if you get ] down on the ground you really can. /"
+qy,A,"Can/MD you/PRP tell/VB ho/WRB ,/, no-/XX ,/, but/CC can/MD you/PRP tell/VB how/WRB ,/, how/WRB fast/RB you/PRP 're/VBP going/VBG to/TO hit/VB it/PRP ?/.","[ Can you tell [ ho-, + no-, ] + {C but } can you tell [ how, + how ] ] fast you're going to hit it? /"
+sd,B,"Um/UH ,/, well/UH ,/, if/IN you/PRP know/VBP if/IN it/PRP 's/BES up/IN on/IN a/DT slope/NN that/WDT you/PRP 've/VBP got/VBN to/TO hit/VB it/PRP not/RB kill/VB it/PRP","{F Um, } {D well, } [ if + you know if ] it's up on a slope that you've got to hit it not kill it /"
+sd,B,"but/CC you/PRP 've/VBP got/VBN to/TO hit/VB enough/JJ speed/NN and/CC the/DT right/JJ angle/NN that/IN it/PRP 's/BES ,/, it/PRP 's/BES ,/, you/PRP know/VBP ,/,","{C but } you've got to hit enough speed and the right angle that [ it's, + it's, ] {D you know, } - /"
+sd,B,because/IN when/WRB it/PRP 's/BES going/VBG up/IN a/DT hill/NN it/PRP 's/BES going/VBG to/TO break/VB in/IN a/DT direction/NN ./.,because when it's going up a hill it's going to break in a direction. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+qy,A,but/CC you/PRP can/MD feel/VB that/DT ?/.,{C but } you can feel that? /
+ny,B,Yeah/UH ./.,Yeah. /
+h,A,I/PRP do/VBP n't/RB know/VB,I don't know /
+sd,A,"I/PRP have/VBP ,/, I/PRP can/MD gi-/XX ,/, get/VB it/PRP within/IN like/IN ,/, you/PRP know/VBP ,/, four/CD or/CC five/CD feet/NNS or/CC something/NN","[ I have, + I can ] [ gi-, + get ] it within {D like, } {D you know, } four or five feet or something /"
+sd,A,but/CC I/PRP do/VBP n't/RB have/VB enough/JJ field/NN ./.,{C but } I don't have enough field. /
+sd,A,Now/RB I/PRP 'm/VBP T/NN V/NN watching/VBG ./.,Now I'm T V watching. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,They/PRP make/VBP you/PRP die/VB at/IN the/DT hole/NN every/DT time/NN ./.,They make you die at the hole every time. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Oh/UH ,/, it/PRP just/RB dies/VBZ and/CC rolls/VBZ in/RB ./.","{F Oh, } it just dies and rolls in. /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+%,B,"But/CC I/PRP ,/,","{C But } I, -/"
+sd,A,it/PRP 's/BES hard/JJ for/IN me/PRP ./.,it's hard for me. /
+%,B,"The/DT ,/, the/DT ,/,","[ The, + the, ] - /"
+sd,B,"it/PRP 's/BES ,/, it/PRP 's/BES like/IN I/PRP said/VBD","[ it's, + it's ] like I said /"
+sd,B,"once/RB I/PRP get/VBP up/IN on/IN the/DT green/NN I/PRP 'm/VBP fine/JJ ,/,","once I get up on the green I'm fine, /"
+sd,B,"but/CC that/DT ,/, that/DT tee/NN shot/NN ,/, uh/UH ,/, it/PRP ,/, you/PRP know/VBP ,/,","{C but } [ that, + that ] tee shot, {F uh, } it, {D you know, } - /"
+sd,B,"when/WRB teeing/VBG off/RP i-/PRP ,/, I/PRP 'll/MD go/VB probably/RB a/DT hundred/CD feet/NNS across/IN the/DT ground/NN","when teeing off [ i-, + I'll ] go probably a hundred feet across the ground /"
+sd,B,"so/RB it/PRP ,/, it/PRP takes/VBZ me/PRP awhile/RB to/TO get/VB to/IN the/DT hole/NN","{C so } [ it, + it ] takes me awhile to get to the hole /"
+%,B,"but/CC ,/,","{C but, } -/"
+bf,A,"Once/RB you/PRP 're/VBP there/RB ,/, you/PRP 're/VBP all/RB set/JJ though/RB ./.","Once you're there, you're all set though. /"
+aa,B,I/PRP 'm/VBP all/RB set/JJ ./.,I'm all set. /
+oo_co_cc,A,We/PRP should/MD play/VB team/NN golf/NN then/RB ./.,We should play team golf then. /
+x,B,./.,<Laughter>.
+sd,A,I/PRP 'll/MD get/VB us/PRP there/RB,I'll get us there /
+ad,A,and/CC you/PRP put/VBP it/PRP in/RB ./.,{C and } you put it in. /
+aa,B,MUMBLEx/XX that/DT sounds/VBZ good/JJ to/IN me/PRP ./.,<Laughter> (( )) that sounds good to me. /
+%,A,"I/PRP s-/XX ,/,","I s-, - /"
+sd,A,"oh/UH ,/, the/DT T/NNP V/NNP golfers/NNS they/PRP do/VBP that/DT ./.","{F oh, } the T V golfers they do that. /"
+sd,A,It/PRP takes/VBZ them/PRP two/CD to/TO get/VB there/RB and/CC two/CD to/TO get/VB it/PRP in/RB,It takes them two to get there and two to get it in /
+sd,A,so/RB it/PRP 's/BES fifty/CD percent/NN ./.,{C so } it's fifty percent. /
+sd,A,And/CC me/PRP it/PRP takes/VBZ me/PRP five/CD to/TO get/VB there/RB and/CC five/CD to/TO get/VB it/PRP in/RB ./.,{C And } me it takes me five to get there and five to get it in. /
+sd,B,"Well/UH ,/, it/PRP ,/, it/PRP ,/, it/PRP usually/RB takes/VBZ me/PRP about/RB probably/RB two/CD ,/, two/CD or/CC three/CD to/TO get/VB it/PRP there/RB","{D Well, } [ [ it, + it, ] + it ] usually takes me about probably [ two, + two ] or three to get it there /"
+sd,B,"and/CC ,/, and/CC then/RB ,/, that/DT 's/BES according/VBG to/IN the/DT hole/NN","[ {C and, } + {C and then, } ] that's according to the hole /"
+%,B,"and/CC it/PRP ju-/RB ,/,","{C and } it ju-, - /"
+sd,B,"uh/UH ,/, uh/UH ,/, maybe/RB one/CD or/CC two/CD putts/NNS ./.","{F uh, } {F uh, } maybe one or two putts. /"
+sd,B,"It/PRP 's/BES ,/,","It's,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,according/VBG to/IN where/WRB I/PRP 'm/VBP at/IN on/IN the/DT green/NN ./.,according to where I'm at on the green. /
+ba,A,That/DT 's/BES good/JJ ./.,That's good. /
+sd,B,"But/CC the/DT friends/NNS I/PRP play/VBP with/IN ,/, uh/UH ,/, they/PRP play/VBP all/PDT the/DT time/NN","{C But } the friends I play with, {F uh, } they play all the time /"
+sd,B,"and/CC ,/, and/CC they/PRP 're/VBP really/RB good/JJ ./.","[ {C and, } + {C and } ] they're really good. /"
+bf,A,Joe/NNP Pros/NNS ?/.,Joe Pros? /
+ar,B,"Uh/UH ,/, they/PRP 're/VBP not/RB Joe/NNP Pros/NNS","{F Uh, } they're not Joe Pros /"
+sd,B,"but/CC they/PRP ,/, they/PRP golf/VBP in/IN the/DT high/JJ sixties/NNS low/JJ seventies/NNS","{C but } [ they, + they ] golf in the high sixties low seventies /"
+sv,B,so/RB I/PRP guess/VBP they/PRP 're/VBP pretty/RB good/JJ ./.,{C so } I guess they're pretty good <laughter>. /
+ba,A,That/DT 's/BES pretty/RB good/JJ ./.,That's pretty good. /
+qy^d,A,For/IN eighteen/CD ?/.,For eighteen? /
+ny,B,Yeah/UH ./.,Yeah. /
+sd,B,For/IN eighteen/CD ./.,For eighteen. /
+ba,A,"Wow/UH ,/,","Wow, /"
+sv,A,that/DT 's/BES pretty/RB good/JJ ./.,that's pretty good. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,I/PRP 'm/VBP talking/VBG to/IN the/DT wrong/JJ guy/NN ./.,I'm talking to the wrong guy. /
+sv,A,Your/PRP$ shitty/JJ golf/NN is/VBZ probably/RB the/DT best/JJS golf/NN I/PRP 've/VBP ever/RB seen/VBN ./.,Your shitty golf is probably the best golf I've ever seen. /
+ar,B,"No/UH ,/,","No, /"
+ar,B,"no/UH ,/,","no, /"
+ar,B,"no/UH ,/,","no, /"
+sd,B,that/DT 's/BES not/RB my/PRP$ golf/NN ./.,that's not my golf. /
+sd,B,That/DT 's/BES my/PRP$ friends/NNS ./.,That's my friends. /
+%,B,"Mine/PRP ,/, mine/PRP ,/,","[ Mine, + mine, ] - /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP usually/RB in/IN the/DT eighties/NNS or/CC nineties/NNS","[ I'm, + I'm ] usually in the eighties or nineties /"
+sv,B,"so/RB I/PRP 'm/VBP ,/, I/PRP 'm/VBP not/RB good/JJ ./.","{C so } [ I'm, + I'm ] not good <laughter>. /"
+sd,A,"If/IN ,/, when/WRB I/PRP 'm/VBP in/IN the/DT nineties/NNS I/PRP 'm/VBP feeling/VBG good/JJ ./.","[ If, + when ] I'm in the nineties I'm feeling good. /"
+sd,A,I/PRP 'm/VBP usually/RB around/RB a/DT hundred/CD ./.,I'm usually around a hundred. /
+sd,A,That/DT 's/BES my/PRP$ thing/NN ./. Around/RB a/DT hundred/CD ./.,That's my thing. Around a hundred. /
+sd,A,"You/PRP know/VBP ,/, I/PRP can/MD hit/VB a/DT great/JJ drives/NNS and/CC think/VB I/PRP 'm/VBP going/VBG to/TO do/VB all/RB awesome/JJ on/IN this/DT hole/NN","{D You know, } I can hit a great drives and think I'm going to do all awesome on this hole /"
+sd,A,but/CC it/PRP ai/VBP n't/RB going/VBG to/TO happen/VB ./.,{C but } it ain't going to happen. /
+sd,B,"Well/UH ,/, I/PRP either/CC ,/, teeing/VBG off/RP I/PRP either/CC slice/VBP it/PRP","{D Well, } [ I either, + teeing off I either ] slice it /"
+sd,B,or/CC I/PRP hook/VBP it/PRP ever/^DT single/JJ time/NN,{C or } I hook it ever single time /
+sd,B,"and/CC ,/, and/CC I/PRP alternate/VBP ./.","[ {C and, } + {C and } ] I alternate. /"
+sd,A,"Well/UH ,/, it/PRP 's/BES a/DT good/JJ thing/NN with/IN me/PRP I/PRP slice/VBP it/PRP every/JJ single/JJ time/NN ./.","{D Well, } it's a good thing with me I slice it every single time. /"
+sv,A,That/DT 's/BES good/JJ ./.,That's good. /
+sd,A,"I/PRP aim/VBP ,/,","I aim, -/"

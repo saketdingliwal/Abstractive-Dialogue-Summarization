@@ -1,0 +1,111 @@
+act_tag,speaker,pos,text
+qy,A,"Well/UH ,/, uh/UH ,/, does/VBZ the/DT company/NN you/PRP work/VBP for/IN test/VB for/IN drugs/NNS ?/.","{D Well, } {F uh, } does the company you work for test for drugs? /"
+na,B,"Actually/RB ,/, uh/UH ,/, they/PRP just/RB recently/RB started/VBD a/DT policy/NN of/IN testing/VBG drugs/NNS ,/, which/WDT was/VBD kind/RB of/RB interesting/JJ ,/,","{D Actually, } {F uh, } they just recently started a policy of testing drugs, which was kind of interesting, /"
+sd,B,"because/IN w/WRB ,/, when/WRB I/PRP went/VBD to/TO work/VB for/IN them/PRP ,/, uh/UH ,/, they/PRP did/VBD n't/RB do/VB that/DT ,/,","{C because } [ w-, + when ] I went to work for them, {F uh, } they didn't do that, /"
+sd,B,"but/CC ,/, uh/UH ,/, since/IN then/RB they/PRP 've/VBP ,/, they/PRP 've/VBP started/VBN a/DT drug/NN testing/NN policy/NN ,/, not/RB because/IN of/IN their/PRP$ own/JJ ,/, uh/UH ,/, convictions/NNS ,/, but/CC because/IN the/DT clients/NNS of/IN our/PRP$ company/NN are/VBP requests/VBZ that/IN we/PRP do/VBP that/DT ./.","{C but, } {F uh, } since then [ they've, + they've ] started a drug testing policy, not because of their own, {F uh, } convictions, but because the clients of our company [ are + ] requests that we do that. /"
+%,A,Huh/UH ./.,{F Huh. } /
+qo,B,How/WRB about/IN you/PRP ?/.,How about you? /
+nn,A,"Uh/UH ,/, no/UH ,/,","{F Uh, } no, /"
+sd,A,"we/PRP 're/VBP not/RB being/VBG tested/VBN for/IN drugs/NNS at/IN all/DT ,/, uh/UH ,/,","we're not being tested for drugs at all, {F uh, } /"
+sd,A,"our/PRP$ policies/NNS and/CC procedures/NNS manual/NN ,/, uh/UH ,/, the/DT furthest/RBS it/PRP goes/VBZ about/IN drugs/NNS is/VBZ in/IN the/DT ,/, kind/RB of/RB the/DT miscellaneous/JJ section/NN ,/, or/CC --/:","our policies and procedures manual, {F uh, } the furthest it goes about drugs is in [ the, + kind of the ] miscellaneous section, or --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: its/PRP$ reasons/NNS for/IN immediate/JJ dismissal/NN ,/,","-- it's reasons for immediate dismissal, /"
+sd,A,"it/PRP says/VBZ ,/, use/NN of/IN narcotics/NNS on/IN company/NN premises/NNS ./.","it says, use of narcotics on company premises. /"
+%,B,Um/UH ./.,{F Um. } /
+sv,A,"So/UH that/DT 's/BES pretty/RB general/JJ ,/,","{C So } that's pretty general, /"
+sd,A,"but/CC ,/, uh/UH ,/, I/PRP work/VBP for/IN an/DT environmental/JJ management/NN firm/NN --/:","{C but, } {F uh, } I work for an environmental management firm -- /"
+b,B,Okay/UH ./.,<Laughter> Okay. /
+sd,A,"--/: and/CC I/PRP 'm/VBP an/DT engineer/NN there/RB ,/,","-- {C and } I'm an engineer there, /"
+sd,A,"but/CC I/PRP do/VBP go/VB on/IN a/DT lot/NN of/IN hazardous/JJ waste/NN sites/NNS ,/,","{C but } I do go on a lot of hazardous waste sites, /"
+sd,A,but/CC I/PRP do/VBP n't/RB operate/VB any/DT machinery/NN ./.,{C but } I don't operate any machinery. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"Now/UH ,/, people/NNS for/IN our/PRP$ company/NN that/WDT do/VBP operate/VB machinery/NN like/IN drill/NN rigs/NNS and/CC things/NNS like/IN that/DT --/:","{D Now, } people for our company that do operate machinery like drill rigs and things like that --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: are/VBP under/IN a/DT ,/, a/DT medical/JJ monitoring/NN program/NN ,/,","-- are under [ a, + a ] medical monitoring program, /"
+sd,A,because/IN they/PRP 're/VBP at/IN a/DT higher/JJR risk/NN of/IN exposure/NN,{C because } they're at a higher risk of exposure /
+sd,A,and/CC blood/NN screening/NN is/VBZ part/NN of/IN that/DT,{C and } blood screening is part of that /
+sd,A,"and/CC I/PRP ,/, I/PRP think/VBP that/IN drugs/NNS ,/,","{C and } [ I, + I ] think that drugs, - /"
+sd,A,"they/PRP do/VBP test/VB for/IN drugs/NNS in/IN that/DT capacity/NN ,/,","they do test for drugs in that capacity, /"
+sd,A,"but/CC it/PRP 's/BES not/RB their/PRP$ exclusive/JJ ,/,","{C but } it's not their exclusive, - /"
+sd,A,"it/PRP 's/BES just/RB part/NN ,/, it/PRP 's/BES just/RB something/NN that/WDT turns/VBZ up/RP in/IN the/DT other/JJ parameters/NNS that/WDT they/PRP test/VBP for/IN ./.","[ it's just part, + it's just something ] that turns up in the other parameters that they test for. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,But/CC I/PRP think/VBP it/PRP 's/HVS got/VBN a/DT little/JJ more/JJR relevance/NN since/IN they/PRP are/VBP around/IN dangerous/JJ equipment/NN and/CC things/NNS like/IN that/DT and/CC do/VBP have/VB to/TO exercise/VB some/DT quick/JJ judgment/NN in/IN the/DT field/NN ./.,{C But } I think it's got a little more relevance since they are around dangerous equipment and things like that and do have to exercise some quick judgment in the field. /
+qw,A,What/WP is/VBZ the/DT nature/NN of/IN your/PRP$ company/NN 's/POS business/NN ?/.,What is the nature of your company's business? /
+^h,B,"Well/UH ,/, it/PRP 's/BES actually/RB ,/, uh/UH ,/,","{D Well, } it's actually, {F uh, } - /"
+sd,B,we/PRP do/VBP oil/NN well/NN services/NNS ./.,we do oil well services. /
+sd,B,"So/RB ,/, a/DT lot/NN of/IN our/PRP$ clients/NNS are/VBP oil/NN companies/NNS ,/, big/JJ oil/NN companies/NNS ,/,","{C So, } a lot of our clients are [ oil companies, + big oil companies, ] /"
+sd,B,"and/CC they/PRP go/VBP out/IN to/IN ,/,","{C and } they go out to, - /"
+sd,B,"we/PRP have/VBP engineers/NNS who/WP ,/, uh/UH ,/, go/VBP out/IN to/IN the/DT oil/NN well/NN ,/, to/IN the/DT ,/, to/IN the/DT client/NN 's/POS oil/NN well/NN ,/, and/CC ,/, and/CC work/VBP with/IN a/DT lot/NN of/IN heavy/JJ equipment/NN and/CC put/VBP tools/NNS down/IN the/DT oil/NN well/NN and/CC stuff/NN ,/,","<inhaling> we have engineers who, {F uh, } go out [ to the oil well, + <thumping> [ to the, + to the ] client's oil well, ] [ and, + and ] work with a lot of heavy equipment and put tools down the oil well and stuff, /"
+sd,B,"so/RB the/DT clients/NNS are/VBP very/RB concerned/JJ that/IN ,/, you/PRP know/VBP ,/, the/DT engineers/NNS who/WP go/VBP out/IN there/RB are/VBP adhering/VBG to/IN their/PRP$ drug/NN policy/NN ,/, because/IN they/PRP 're/VBP on/IN their/PRP$ ,/, their/PRP$ ,/, you/PRP know/VBP ,/, territory/NN and/CC everything/NN ,/,","{C so } the clients are very concerned that, {D you know, } the engineers who go out there are adhering to their drug policy, because they're on [ their, + their, ] {D you know, } territory and everything, /"
+sv,B,but/CC --/:,{C but } --
+%,A,Um/UH ./.,{F Um. } /
++,B,"--/: the/DT thing/NN that/WDT 's/BES interesting/JJ is/VBZ that/IN I/PRP w-/XX ,/, I/PRP 'm/VBP an/DT engineer/NN and/CC ,/, a/DT software/NN engineer/NN","-- the thing that's interesting is that [ I w-, + I'm an ] engineer [ and, + ] a software engineer /"
+sd,B,"and/CC I/PRP work/VBP in/IN the/DT software/NN ,/, uh/UH ,/, house/NN ,/,","{C and } I work in the software, {F uh, } house, /"
+sd,B,"and/CC everybody/NN there/RB ,/, you/PRP know/VBP ,/, are/VBP all/DT software/NN engineers/NNS ./.","{C and } everybody there, {D you know, } are all software engineers. /"
+sd,B,"They/PRP 've/VBP never/RB ,/, you/PRP know/VBP ,/, they/PRP never/RB go/VBP out/IN to/IN the/DT ,/, the/DT oil/NN rigs/NNS or/CC anything/NN ,/,","[ They've never, + {D you know, } they never ] go out to [ the, + the ] oil rigs or anything, /"
+sd,B,"and/CC yet/RB ,/, we/PRP 're/VBP getting/VBG ,/, we/PRP 're/VBP subjected/VBN to/IN this/DT policy/NN ,/, you/PRP know/VBP ,/, the/DT same/JJ one/NN that/WDT ,/, uh/UH ,/, th-/XX ,/, all/PDT the/DT engineers/NNS have/VBP to/TO ,/, to/TO ,/,","{C and } yet, [ we're getting, + we're subjected ] to this policy, {D you know, } the same one that, {F uh, } [ th-, + all the ] engineers have [ to, + to, ] - /"
+h,B,"well/UH ,/, a/DT little/RB different/JJ ,/, actually/RB ,/,","{D well, } a little different, actually, - /"
+sd,B,"but/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, we/PRP have/VBP to/TO go/VB through/IN the/DT same/JJ thing/NN ,/,","{C but, } {F uh, } {D you know, } we have to go through the same thing, /"
+sv,B,"and/CC it/PRP 's/BES ,/, but/CC it/PRP 's/BES ,/, uh/UH ,/, it/PRP 's/BES a/DT little/RB different/JJ ,/, I/PRP guess/VBP than/IN ,/, than/IN a/DT lot/NN of/IN drug/NN policies/NNS ./.","[ [ {C and } it's, + {C but } it's, ] + {F uh, } it's ] a little different, I guess [ than + <noise>, than ] a lot of drug policies. /"
+sd,B,"In/IN our/PRP$ case/NN ,/, it/PRP 's/BES like/IN ,/, when/WRB you/PRP hire/VBP on/RP ,/, they/PRP 'll/MD test/VB you/PRP ,/,","In our case, it's like, when you hire on, they'll test you, /"
+sd,B,"and/CC then/RB if/IN you/PRP get/VBP injured/VBN on/IN the/DT job/NN ,/, if/IN you/PRP like/UH trip/VBP and/CC fall/VBP or/CC something/NN ,/, uh/UH ,/, they/PRP give/VBP you/PRP a/DT drug/NN test/NN right/RB away/RB ./.","{C and } then if you get injured on the job, if you {D like } trip and fall or something, {F uh, } they give you a drug test right away. /"
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+sd,B,"Other/JJ than/IN that/DT they/PRP do/VBP n't/RB have/VB random/JJ testing/NN or/CC anything/NN like/IN that/DT ,/,","Other than that they don't have random testing or anything like that, /"
+sd,B,"but/CC ,/, a/DT lot/NN of/IN people/NNS were/VBD really/RB upset/JJ with/IN the/DT policy/NN at/IN first/JJ ./.","{C but, } a lot of people were really upset with the policy at first. /"
+sd,B,"Particularly/RB ,/, like/UH ,/, uh/UH ,/, we/PRP have/VBP a/DT lot/NN of/IN parties/NNS and/CC stuff/NN where/WRB they/PRP serve/VBP alcohol/NN ,/,","Particularly, {D like } <laughter>, {F uh, } we have a lot of parties and stuff where they serve alcohol, /"
+sd,B,"and/CC tha-/XX ,/, they/PRP did/VBD n't/RB find/VB any/DT problem/NN with/IN that/DT ,/, you/PRP know/VBP ,/,","{C and } [ tha-, + they ] didn't find any problem with that, {D you know, } /"
+%,B,"but/CC ,/,","{C but, } -/"
+aa,A,Right/UH ./.,Right. /
+%,B,"Uh/UH ,/,","{F Uh, } -/"
+sd,A,"We/PRP ,/, that/DT 's/HVS been/VBN an/DT ,/, a/DT ,/, an/DT issue/NN ,/, uh/UH ,/, in/IN our/PRP$ company/NN even/RB though/IN we/PRP do/VBP n't/RB have/VB the/DT random/JJ or/CC even/RB regular/JJ drug/NN screening/NN ./.","[ We, + that's ] been [ [ an, + a, ] + an ] issue, {F uh, } in our company even though we don't have the random or even regular drug screening. /"
+sd,A,"In/IN fact/NN ,/, they/PRP 'll/MD have/VB these/DT little/JJ parties/NNS ,/,","((In fact)), they'll <laughter> have these little parties, /"
+sd,A,"and/CC people/NNS will/MD just/RB get/VB ,/,","{C and } people will just get, - /"
+%,A,"I/PRP mean/VBP ,/, I/PRP 've/VBP ,/,","{E I mean, } I've, - /"
+sd,A,"my/PRP$ brother/NN lives/VBZ where/WRB I/PRP work/VBP ,/,","my brother lives where I work, /"
+sd,A,"and/CC I/PRP have/VBP many/PDT a/DT time/NN called/VBD him/PRP to/TO come/VB get/VB me/PRP ,/, you/PRP know/VBP ./.","{C and } I have many a time called him to come get me, {D you know. } /"
+sd,A,"And/CC ,/, uh/UH ,/, uh/UH ,/, but/CC ,/, y-/PRP ,/, you/PRP know/VBP ,/, they/PRP do/VBP n't/RB think/VB twice/RB about/IN serving/VBG beer/NN by/IN the/DT keg/NN ./.","[ {C And, } + {F uh, } {F uh, } {C but, } ] [ y-, + {D you know, } ] they don't think twice about serving beer by the keg."
+b,B,Yeah/UH ./.,Yeah <laughter>. /
++,A,"You/PRP know/VBP ,/,","{D You know, } /"
+sv,A,"but/CC ,/, uh/UH ,/, I/PRP think/VBP drug/NN testing/NN ,/,","{C but, } {F uh, } I think drug testing, - /"
+h,A,"and/CC I/PRP ,/, I/PRP do/VBP n't/RB know/VB ,/,","{C and } [ I, + I ] don't know, /"
+sv,A,"I/PRP guess/VBP I/PRP k-/XX ,/, I/PRP think/VBP it/PRP 's/HVS got/VBN some/DT relevance/NN ,/,","[ [ I guess + I k-, ] + I think ] it's got some relevance, /"
+sv,A,but/CC I/PRP think/VBP its/PRP$ relevance/NN is/VBZ pretty/RB limited/JJ ./.,{C but } I think its relevance is pretty limited. /
+sv,A,"I/PRP mean/VBP ,/, I/PRP think/VBP ,/, you/PRP know/VBP ,/,","{E I mean, } I think, {D you know, } - /"
+sv,A,"in/IN your/PRP$ case/NN ,/, I/PRP do/VBP n't/RB think/VB that/IN you/PRP should/MD necessarily/RB be/VB subjected/VBN to/IN drug/NN testing/NN ./.","in your case, I don't think that you should necessarily be subjected to drug testing. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,I/PRP think/VBP that/DT 's/BES an/DT interesting/JJ policy/NN your/PRP$ company/NN has/VBZ about/IN testing/NN immediately/RB after/IN an/DT on/IN the/DT job/NN accident/NN ./.,I think that's an interesting policy your company has about testing immediately after an on the job accident. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"it/PRP 's/BES really/RB ,/, it/PRP 's/BES really/RB bizarre/JJ ./.","[ it's really, + it's really ] bizarre. /"
+sd,B,"Uh/UH ,/, particularly/RB ,/, like/UH where/WRB we/PRP are/VBP ,/, you/PRP know/VBP ./.","{F Uh, } particularly, {D like } where we are, {D you know. } /"
+%,B,"I/PRP ,/, I/PRP ,/,","[ I, + I, ] - /"
+sd,B,"there/EX was/VBD a/DT story/NN of/IN a/DT woman/NN last/JJ year/NN who/WP ,/, who/WP actually/RB did/VBD slip/VB on/IN the/DT ice/NN and/CC ,/, and/CC like/UH sprained/VBD her/PRP$ ankle/NN","there was a story of a woman last year [ who, + who ] actually did slip on the ice [ and, + and ] {D like } sprained her ankle /"
+sd,B,"and/CC she/PRP ,/, she/PRP was/VBD a/DT personnel/NN secretary/NN","{C and } [ she, + she ] was a personnel secretary /"
+sd,B,and/CC she/PRP had/VBD to/TO get/VB tested/VBN,{C and } she <laughter> had to get tested /
+h,B,"and/CC ,/, I/PRP do/VBP n't/RB know/VB","{C and, } I don't know /"
+sd,B,I/PRP 'm/VBP ambivalent/JJ about/IN the/DT whole/JJ thing/NN ./.,I'm ambivalent about the whole thing. /
+sd,B,"I/PRP ,/, you/PRP know/VBP ,/, I/PRP have/VBP a/DT lot/NN of/IN mixed/JJ feelings/NNS about/IN on/IN the/DT one/CD hand/NN ,/, it/PRP 's/BES like/IN if/IN ,/, you/PRP know/VBP ,/,","[ I, + {D you know, } I ] have a lot of mixed feelings about on the one hand, it's like if, {D you know, } - /"
+sv,B,"they/PRP 're/VBP ,/, they/PRP should/MD be/VB able/JJ to/TO make/VB it/PRP as/IN a/DT continue/VB of/IN employment/NN in/IN some/DT sense/NN","[ they're, + they should ] be able to make it as a continue of employment in some sense /"
+sd,B,"and/CC ,/, you/PRP know/VBP ,/, it/PRP 's/BES like/IN you/PRP 're/VBP ,/, I/PRP mean/VBP ,/, employments/NNS are/VBP contractual/JJ by/IN nature/NN anyway/RB --/:","{C and, } {D you know, } it's like [ you're, + {E I mean, } employments are ] contractual by nature anyway -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: but/CC ,/, uh/UH ,/, I/PRP had/VBD an/DT experience/NN when/WRB I/PRP was/VBD interviewing/VBG for/IN a/DT job/NN that/WDT ,/, where/WRB I/PRP had/VBD to/TO ,/, uh/UH ,/, uh/UH ,/, do/VB a/DT drug/NN test/NN","-- {C but, } {F uh, } I had an experience when I was interviewing for a job [ that, + ] where I had to, {F uh, } {F uh, } do a drug test /"
+sd,B,"and/CC ,/, and/CC it/PRP 's/BES ,/, it/PRP was/VBD kind/RB of/RB a/DT long/JJ story/NN ,/,","[ {C and, } + {C and } ] [ it's, + it was ] kind of a long story, /"
+sv,B,"but/CC it/PRP was/VBD ,/, it/PRP was/VBD just/RB an/DT incredibly/RB humiliating/JJ experience/NN what/WP I/PRP went/VBD through/IN ,/,","{C but } [ it was, + it was ] just an incredibly humiliating experience what I went through, /"
+sd,B,"and/CC it/PRP amounted/VBD to/IN ,/, uh/UH ,/, going/VBG in/IN ,/, uh/UH ,/, before/IN any/DT of/IN these/DT interviews/NNS ,/,","{C and } it amounted to, {F uh, } going in, {F uh, } before any of these interviews, /"
+sd,B,"I/PRP 'm/VBP not/RB even/RB working/VBG for/IN this/DT company/NN ,/,","I'm not even working for this company, /"
+sd,B,"I/PRP 'm/VBP going/VBG in/RB for/IN ,/, like/UH ,/, interviews/NNS","I'm going in for, {D like, } interviews /"
+sd,B,and/CC they/PRP flew/VBD me/PRP out/IN to/IN Chicago/NNP,{C and } they flew me out to Chicago /
+sd,B,"and/CC ,/, and/CC ,/, uh/UH ,/, before/IN I/PRP went/VBD into/IN any/DT of/IN the/DT interviews/NNS ,/, uh/UH ,/, they/PRP took/VBD me/PRP to/IN the/DT doctor/NN to/TO give/VB me/PRP a/DT physical/NN ./.","[ {C and, } + {C and, } ] {F uh, } before I went into any of the interviews, {F uh, } they took me to the doctor to give me a physical. /"
+sd,B,"They/PRP said/VBD it/PRP was/VBD going/VBG to/TO be/VB a/DT physical/NN ,/, you/PRP know/VBP ,/,","They said it was going to be a physical, {D you know, } /"
+sd,B,"and/CC ,/, uh/UH ,/, actually/RB bec-/XX ,/, beforehand/RB they/PRP told/VBD me/PRP they/PRP were/VBD going/VBG to/TO ,/, uh/UH ,/, do/VB drug/NN screening/NN ,/,","{C and, } {F uh, } {D actually } [ bec-, + beforehand ] they told me they were going to, {F uh, } do drug screening, /"
+sd,B,"but/CC I/PRP had/VBD forgotten/VBN about/IN that/DT ,/,","{C but } I had forgotten about that, /"
+sd,B,"and/CC so/RB ,/, basically/RB ,/, I/PRP 'd/VBD already/RB peed/VBN off/RP in/IN that/DT morning/NN","{C and so, } basically, I'd already peed off ((in)) that morning /"
+sd,B,"and/CC ,/, and/CC when/WRB I/PRP got/VBD in/IN there/RB ,/, I/PRP did/VBD n't/RB ,/, I/PRP was/VBD n't/RB ,/, like/UH ,/, able/JJ to/TO give/VB a/DT full/JJ sample/NN ,/,","[ {C and, } + {C and } ] when I got in there, [ I didn't, + I wasn't, ] {D like, } able to give a full sample, /"
+sd,B,and/CC so/RB --/:,{C and so } --
+b,A,Oh/UH ./.,Oh. /
++,B,"--/: they/PRP made/VBD me/PRP sit/VB and/CC wait/VB for/IN forty-five/CD minutes/NNS ,/, drink/VB a/DT whole/JJ ton/NN of/IN water/NN --/:","-- they made me sit and wait for forty-five minutes, drink a whole ton of water --"
+b,A,Right/UH ./.,Right. /
++,B,"--/: before/IN I/PRP went/VBD to/IN any/DT of/IN the/DT interviews/NNS and/CC go/VBP in/IN there/RB again/RB ,/,","-- before <laughter> I went to any of the interviews and go in there again, - /"
+sv,B,"and/CC the/DT ,/, and/CC the/DT ,/, the/DT procedure/NN is/VBZ utterly/RB humiliating/JJ ./.","[ {C and } the, + {C and } [ the, + the ] ] procedure is utterly humiliating. /"
+sd,B,"You/PRP go/VBP in/IN there/RB with/IN the/DT doctor/NN ,/,","You go in there with the doctor, /"
+sd,B,he/PRP makes/VBZ you/PRP take/VB off/RB all/DT your/PRP$ clothes/NNS,he makes you take off all your clothes /
+sd,B,and/CC then/RB he/PRP examines/VBZ you/PRP ./.,{C and then } he examines you. /

@@ -1,0 +1,120 @@
+act_tag,speaker,pos,text
+qy,B,Now/UH is/VBZ it/PRP Stacy/NNP ?/.,Now is it Stacy? /
+sd,A,Angie/NNP ./.,Angie. /
+b^m,B,"Angie/NNP ,/,","Angie, /"
+fa,B,I/PRP 'm/VBP sorry/JJ ./.,I'm sorry. /
+bd,A,Okay/UH ./.,Okay. /
+qw,B,"Well/UH ,/, now/UH ,/, so/UH if/IN you/PRP were/VBD going/VBG to/TO have/VB a/DT dinner/NN party/NN ,/, what/WP would/MD you/PRP make/VB ?/.","{D Well, } {D now, } {D so } if you were going to have a dinner party, what would you make? /"
+^h,A,"Um/UH ,/, let/VB 's/PRP see/VB ,/,","{F Um, } let's see, /"
+sd,A,"uh/UH ,/, I/PRP like/VBP seafood/NN ./.","{F uh, } I like seafood. /"
+^h,A,"Uh/UH ,/, let/VB 's/PRP see/VB ,/,","{F Uh, } let's see, /"
+sd,A,"uh/UH ,/, shrimp/NN ,/, steamed/JJ she-/NN ,/, uh/UH ,/, shellfish/NN with/IN maybe/RB herbs/NNS ./.","{F uh, } shrimp, steamed [ she-, + {F uh, } shellfish ] with maybe herbs. /"
+sd,A,"Uh/UH ,/, spicy/JJ lobster/NN with/IN lem-/NN ,/, linguini/NN ./.","{F Uh, } <lipsmack> spicy lobster with [ lem-, + linguini. ] /"
+sv,B,That/DT sounds/VBZ good/JJ ./.,That sounds good. /
+b,A,Yeah/UH ./.,Yeah. /
+br,B,"Now/UH what/WP is/VBZ ,/, uh/UH ,/, what/WP is/VBZ ,/, uh/UH ,/, the/DT steamed/JJ shellfish/NN you/PRP said/VBD ?/.","{D Now } [ what is, + {F uh, } what is, ] {F uh, } the steamed shellfish you said? /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+qy,B,"And/CC what/WP would/MD that/DT be/VB like/IN ,/, a/DT clam/NN or/CC ,/, uh/UH ,/,","{C And } what would that be like, a clam or, {F uh, } -/"
+na,A,Right/UH ./.,Right. /
+bk,B,Okay/UH ./.,Okay. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,"Uh/UH ,/, I/PRP think/VBP hors/FW d'oeuvres/FW are/VBP good/JJ ,/, too/RB ./.","{F Uh, } I think hors d'oeuvres are good, too. /"
+sd,A,"Uh/UH ,/, and/CC that/DT way/NN ,/, you/PRP can/MD have/VB a/DT variety/NN ./. Uh/UH ,/,","{F Uh, } {C and } that way, you can have a variety. {F Uh, } /"
+qw,B,"So/RB if/IN you/PRP have/VBP a/DT ,/, a/DT dinner/NN party/NN and/CC you/PRP 're/VBP going/VBG to/TO serve/VB ,/, uh/UH ,/, seafood/NN for/IN supper/NN ,/, what/WDT type/VB of/IN ,/, uh/UH ,/, hors/FW d'oeuvres/FW would/MD you/PRP serve/VB prior/IN to/IN the/DT meal/NN ?/.","{C So } if you have [ a, + a ] dinner party and you're going to serve, {F uh, } seafood for supper, what type of, {F uh, } hors d'oeuvres would you serve prior to the meal? /"
+%,A,"Uh/UH ,/,","<Lipsmack> {F Uh, } /"
+qrr,B,"Like/IN cheeses/NNS or/CC fruits/NNS or/CC vegetables/NNS or/CC ,/,","{D Like } cheeses or fruits or vegetables or, -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,fresh/JJ vegetables/NNS would/MD be/VB good/JJ,fresh vegetables would be good /
+%,A,"or/CC ,/, uh/UH ,/, just/RB ,/,","{C or, } {F uh, } just, -/"
+qy,B,"Probably/RB not/RB nachos/NNS and/CC dip/NN ,/, huh/UH ?/.","Probably not nachos and dip, {F huh? } /"
+nn,A,No/UH ./.,No. /
+qy,B,"And/CC would/MD you/PRP ,/, uh/UH ,/, would/MD it/PRP be/VB appropriate/JJ to/TO ,/, uh/UH ,/, drink/VB with/IN the/DT ,/, uh/UH ,/, prior/IN ,/, when/WRB you/PRP have/VBP the/DT hors/FW d'oeuvres/FW ?/.","<Laughter> {C And } [ would you, + {F uh, } would it ] be appropriate to, {F uh, } drink [ with the, + ] {F uh, } [ prior, + ] when you have the hors d'oeuvres? /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+ny,A,yeah/UH ./.,yeah. /
+bk,B,Okay/UH ./.,Okay. /
+qw,B,"And/CC then/RB when/WRB you/PRP serve/VBP the/DT meal/NN ,/, what/WDT type/NN of/IN wine/NN would/MD you/PRP have/VB with/IN ,/, uh/UH ,/, with/IN the/DT ,/, with/IN seafood/NN ?/.","{C And then } when you serve the meal, what type of wine would you have [ [ with, + {F uh, } with the, ] + with ] seafood? /"
+^h,A,"Oh/UH ,/, all/PDT these/DT hard/JJ questions/NNS ./.","{F Oh, } all these hard questions <laughter>. /"
+x,B,./.,<Laughter>.
+qy,A,"Uh/UH ,/, what/WDT ,/, white/JJ wine/NN ?/.","{F Uh, } what, white wine? /"
+na,B,That/DT would/MD be/VB my/PRP$ guess/NN ./.,That would be my guess. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC ,/,","[ {C And, } +"
+sd,A,"I/PRP 'm/VBP not/RB really/RB a/DT drinker/NN ,/,","I'm not really a drinker, /"
+sd,A,"so/RB I/PRP 'm/VBP not/RB ,/, I/PRP do/VBP n't/RB know/VB a/DT lot/NN about/IN that/DT ./.","{C so } [ I'm not, + I don't ] know a lot about that. /"
++,B,"And/CC then/RB ,/, uh/UH ,/, uh/UH ,/, dessert/NN ./.","{C And then, } ] {F uh, } {F uh, } dessert. /"
+qy^d,B,Something/NN sweet/JJ ?/.,Something sweet? /
+ba,A,"Oh/UH ,/, goodness/NN ./.","{F Oh, } goodness. /"
+sd,A,"Uh/UH ,/, chocolate/NN ,/, something/NN chocolate/NN ./.","{F Uh, } chocolate, something chocolate. /"
+%,A,"Uh/UH ,/,","{F Uh } <laughter>, /"
+qy^d,B,You/PRP must/MD like/VB chocolate/NN ./.,You must like chocolate. /
+ny,A,Yes/UH ./.,Yes. /
+^h,B,"Well/UH ,/, let/VB 's/PRP see/VB ./.","<Laughter> {D Well, } let's see. /"
+sd,B,"Usually/RB when/WRB we/PRP have/VBP a/DT dinner/NN party/NN ,/, I/PRP always/RB ,/, I/PRP like/VBP to/TO grill/VB ./.","Usually when we have a dinner party, [ I always, + I ] like to grill. /"
+qy^d,A,"Oh/UH ,/, you/PRP do/VBP ?/.","{F Oh, } you do? /"
+sd,B,"So/RB ,/, we/PRP might/MD have/VB some/DT cocktails/NNS ahead/RB of/IN time/NN and/CC maybe/RB some/DT ,/, uh/UH ,/, some/DT dip/NN ,/, uh/UH ,/, some/DT cheese/NN ./.","{D So, } we might have some cocktails ahead of time and maybe [ some, + {F uh, } some ] dip, {F uh, } some cheese. /"
+sd,B,"One/CD of/IN our/PRP$ favorites/NNS is/VBZ ,/, uh/UH ,/, to/TO take/VB some/DT ,/, let/VB 's/PRP see/VB Philadelphia/NNP cream/NN cheese/NN I/PRP think/VBP ,/, is/VBZ that/IN what/WP comes/VBZ in/RB --/:","One of our favorites is, {F uh, } to take some, let's see Philadelphia cream cheese I think, {A is that what comes in --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: those/DT little/JJ blocks/NNS ?/.,-- those little blocks? }
+b,A,Yeah/UH ./.,Yeah. /
++,B,"And/CC pour/VB cocktail/JJ sauce/NN over/IN the/DT top/NN of/IN it/PRP and/CC then/RB get/VB these/DT little/JJ canned/JJ shrimp/NN and/CC ,/, uh/UH ,/, wash/VB them/PRP and/CC cool/VB them/PRP and/CC then/RB dump/VB them/PRP in/IN the/DT ,/, uh/UH ,/, sauce/NN and/CC then/RB take/VB crackers/NNS","And pour cocktail sauce over the top of it and then get these little canned shrimp and, {F uh, } wash them and cool them and then dump them in the, {F uh, } sauce and then take crackers /"
+sd,B,and/CC then/RB you/PRP just/RB dip/VBP the/DT cracker/NN in/IN the/DT sauce/NN with/IN the/DT clams/NNS and/CC the/DT cream/NN cheese/NN,{C and then } you just dip the cracker in the sauce with the clams and the cream cheese /
+sv,B,and/CC you/PRP have/VBP a/DT real/RB nice/JJ dip/NN that/WDT goes/VBZ good/JJ with/IN a/DT cocktail/NN ./.,{C and } you have a real nice dip that goes good with a cocktail. /
+sd,B,"And/CC then/RB I/PRP like/VBP to/TO barbecue/VB ,/, like/IN steaks/NNS or/CC pork/NN chops/NNS ./.","{C And then } I like to barbecue, {D like } steaks or pork chops. /"
+sd,B,"And/CC then/RB we/PRP have/VBP ,/, uh/UH ,/, s-/XX ,/, oh/UH ,/, lot/NN of/IN times/NNS we/PRP 'll/MD have/VB baked/JJ potatoes/NNS with/IN them/PRP --/:","{C And then } [ we have, {F uh, } s-, + {F oh, } lot of times we'll have ] baked potatoes with them --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: and/CC a/DT salad/NN,-- and a salad /
+sd,B,"and/CC then/RB ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB what/WP we/PRP usually/RB have/VBP for/IN dessert/NN ./.","{C and then, } {F uh, } I don't know what we usually have for dessert. /"
+sd,B,"Cake/NN sometimes/RB ,/,","Cake sometimes, /"
+sd,B,"but/CC ,/, uh/UH ,/, that/DT 's/BES what/WP we/PRP would/MD do/VB for/IN a/DT dinner/NN party/NN ,/, I/PRP guess/VBP ./.","{C but, } {F uh, } that's what we would do for a dinner party, I guess. /"
+sv,A,"That/DT sounds/VBZ good/JJ ,/, too/RB ./.","That sounds good, too. /"
+sv,B,"But/CC that/DT 's/BES ,/, I/PRP guess/VBP when/WRB you/PRP talk/VBP about/IN dinner/NN party/NN ,/, that/DT 's/BES probably/RB not/RB ,/, uh/UH ,/, that/DT 's/BES more/JJR for/IN like/IN when/WRB friends/NNS come/VBP --/:","{C But } [ [ that's, + I guess when you talk about dinner party, that's probably not, ] + {F uh, } that's more for {D like } ] when friends come --"
+sd,A,Traditional/JJ --/:,Traditional -- /
++,B,--/: over/RB ./.,-- over. /
+^g,A,--/: right/UH ?/.,-- right? /
+sd,B,"Traditional/JJ ,/,","Traditional, /"
+ny,B,yeah/UH ./.,yeah. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"I/PRP would/MD n't/RB be/VB the/DT big/JJ ,/, uh/UH ,/, snotty/JJ kind/NN ./.","I wouldn't be the big, {F uh, } snotty kind. /"
+sd,A,"I/PRP just/RB started/VBD ,/,","[ I just started, +"
+x,B,./.,<Laughter>.
++,A,"I/PRP just/RB really/RB started/VBD ,/, uh/UH ,/, uh/UH ,/, learning/VBG about/IN that/DT","I just really started, ] {F uh, } {F uh, } learning about that /"
+sd,A,"and/CC I/PRP bought/VBD a/DT Martha/NNP Stewart/NNP ,/,","{C and } I bought a Martha Stewart, /"
+qy^d,A,I/PRP do/VBP n't/RB know/VB if/IN you/PRP 've/VBP heard/VBN of/IN her/PRP ./.,I don't know if you've heard of her. /
+nn,B,Huh-uh/UH ./.,Huh-uh. /
+sd,A,Her/PRP$ cookbook/NN,Her cookbook /
+sd,A,"and/CC she/PRP talks/VBZ about/IN catering/NN and/CC ,/, uh/UH ,/, you/PRP know/VBP ,/, goes/VBZ into/IN ,/, goes/VBZ into/IN all/PDT that/DT and/CC the/DT different/JJ types/NNS of/IN ,/, uh/UH ,/, uh/UH ,/, different/JJ types/NNS of/IN parties/NNS ,/, you/PRP know/VBP ,/, different/JJ types/NNS of/IN foods/NNS ./.","{C and } she talks about catering and, {F uh, } {D you know, } [ goes into, + goes into ] all that and the [ different types of, + {F uh, } <lipsmack> {F uh, } different types of ] parties, {D you know, } different types of foods. /"
+qy,B,"Oh/UH ,/, well/UH ,/, do/VBP you/PRP work/VB in/IN a/DT ,/, uh/UH ,/, in/IN a/DT setting/NN where/WRB you/PRP ,/, uh/UH ,/, are/VBP in/IN the/DT food/NN business/NN ?/.","{F Oh, } {D well, } do you work [ in a, + {F uh, } in a ] setting where you, {F uh, } are in the food business? /"
+sd,A,"Um/UH ,/, my/PRP$ father/NN owns/VBZ a/DT restaurant/NN ./.","{F Um, } my father owns a restaurant. /"
+qy,B,"Oh/UH ,/, in/IN ,/, uh/UH ,/,","{F Oh, } [ in, + {F uh, }"
+sd,A,"It/PRP 's/BES ,/, it/PRP 's/BES just/RB a/DT ,/, uh/UH ,/, c-/NN ,/, a/DT cafe/NN ,/,","[ It's, + it's ] just [ a, {F uh, } c-, + a cafe, ] /"
+sd,A,"so/RB it/PRP 's/BES not/RB really/RB anything/NN ,/, you/PRP know/VBP ,/, that/WDT I/PRP want/VBP to/TO ,/,","{C so } it's not really anything, {D you know, } that I want to, - /"
+sd,A,it/PRP 's/BES not/RB the/DT same/JJ ./.,it's not the same <laughter>. /
++,B,Is/VBZ it/PRP in/IN Dallas/NNP ?/.,Is it in ] Dallas? /
+sd,A,"Uh/UH ,/, it/PRP 's/BES in/IN Lewisville/NNP ./.","{F Uh, } it's in Lewisville. /"
+bk,B,"Okay/UH ,/,","Okay, /"
+bk,B,all/RB right/JJ ./.,all right. /
+qw,B,So/RB you/PRP graduated/VBD from/IN which/WDT high/JJ school/NN ?/.,{D So } you graduated from which high school? /
+sd,A,Trinity/NNP ./.,Trinity. /
+b^m,B,"Trinity/NNP ,/,","Trinity, /"
+bk,B,okay/UH ./.,okay. /
+qy,B,And/CC that/DT 's/BES a/DT public/JJ school/NN or/CC private/JJ ?/.,{C And } that's a public school or private? /
+sd,A,That/DT 's/BES public/JJ ./.,That's public. /
+bk,B,"Huh/UH ,/, okay/UH ,/,","{F Huh, } okay, /"
+sd,B,"I/PRP have/VBP to/TO get/VB to/TO know/VB this/DT area/NN a/DT little/RB better/JJR ,/, I/PRP guess/VBP ./.","I have to get to know this area a little better, I guess. /"
+qy,B,"Uh/UH ,/, well/UH ,/, is/VBZ your/PRP$ father/NN 's/POS cafe/NN ,/, uh/UH ,/, one/NN that/WDT you/PRP could/MD cater/VB out/IN of/IN ?/.","{F Uh, } {D well, } is your father's cafe, {F uh, } one that you could cater out of? /"
+nn,A,"No/UH ,/,","No, /"
+nn,A,"uh-huh/UH ,/,","uh-huh, /*[[listen; mistranscription of 'uh-uh'?]]"
+sd,A,it/PRP 's/BES not/RB ./.,it's not. /
+qy^d,B,"Um/UH ,/, and/CC he/PRP 's/BES not/RB interested/JJ in/IN letting/VBG his/PRP$ twenty-one/CD year/NN old/JJ daughter/NN experiment/VB with/IN it/PRP probably/RB ./.","{F Um, } {C and } he's not interested in letting his twenty-one year old daughter experiment with it probably. /"
+x,A,./.,<Laughter>.
+x,B,./.,<Laughter>.
+%,A,Uh/UH ./.,{F Uh. } /
+^h,B,"Well/UH ,/, let/VB 's/PRP see/VB ,/,","{D Well, } let's see, /"
+^h,B,"what/WP else/RB for/IN catering/NN ./. Uh/UH ,/,","what else for catering. {F Uh, } /"
+t1,A,"Let/VB 's/PRP see/VB ,/,","Let's see, /"
+qw,A,what/WP about/IN Hawaiian/JJ luau/NN ./.,what about Hawaiian luau. /
+sv,B,"Oh/UH ,/, that/DT would/MD be/VB good/JJ ./.","{F Oh, } that would be good. /"
+sd,A,"Could/MD have/VB ,/, uh/UH ,/, uh/UH ,/, fruits/NNS and/CC ,/, and/CC pineapple/NN ,/, uh/UH ,/,","Could have, {F uh, } {F uh, } fruits [ and, + and ] pineapple, {F uh, } /"
+^h,A,"let/VB 's/PRP see/VB ,/, uh/UH ,/,","let's see, {F uh, } /"
+sv,B,"And/CC you/PRP could/MD actually/RB go/VB with/IN ,/, uh/UH ,/, a/DT chicken/NN if/IN you/PRP wanted/VBD to/TO ./.","{C And } you could actually go with, {F uh, } a chicken if you wanted to. /"
+sv,A,"I/PRP think/VBP ,/, I/PRP think/VBP decorating/VBG your/PRP$ food/NN is/VBZ ,/, you/PRP know/VBP ,/, really/RB ,/,","[ I think, + I think ] decorating your food is, {D you know, } really, -/"

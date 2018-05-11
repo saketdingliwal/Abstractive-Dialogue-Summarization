@@ -1,0 +1,124 @@
+act_tag,speaker,pos,text
+%,A,"I/PRP ,/,","<Music> I, - /"
+sv,A,"you/PRP know/VBP ,/, actually/RB in/IN this/DT modern/JJ day/NN and/CC age/NN ,/, it/PRP seems/VBZ like/IN ,/, uh/UH ,/, uh/UH ,/, we/PRP have/VBP more/JJR and/CC more/JJR leisure/JJ time/NN because/IN ,/, uh/UH ,/, we/PRP have/VBP so/RB many/JJ convenience/NN ,/, appliances/NNS and/CC whatnot/NN ./.","{D you know, } {D actually } in this modern day and age, it seems like, {F uh, } {F uh, } we have more and more leisure time because, {F uh, } we have so many [ convenience, + appliances ] and whatnot. /"
+sv,A,We/PRP do/VBP n't/RB even/RB have/VB to/TO cook/VB dinner/NN anymore/RB ./.,We don't even have to cook dinner anymore. /
+aa,B,Yes/UH ./.,<TV> Yes. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,really/UH ./.,really. /
+sd,A,"Uh/UH ,/, but/CC I/PRP ,/, uh/UH ,/,","{F Uh, } {C but } [ [ I, + {F uh, }"
+x,B,./.,<Sniffing>.
++,A,"I/PRP 've/VBP heard/VBN ,/, I/PRP do/VBP n't/RB know/VB this/DT for/IN a/DT fact/NN ,/, but/CC I/PRP 've/VBP heard/VBN that/IN a/DT lot/NN of/IN families/NNS really/RB do/VBP n't/RB spend/VB a/DT great/JJ deal/NN of/IN time/NN together/RB ./.","I've ] heard, + {A I don't know this for a fact, } {C but } I've heard ] that a lot of families really don't spend a great deal of time together. /"
+sv,A,"That/IN ki-/NNS ,/, the/DT kids/NNS maybe/RB on/IN the/DT average/JJ get/VBP ,/, uh/UH ,/, something/NN like/IN thirty/CD seconds/NNS of/IN quality/NN time/NN with/IN the/DT parents/NNS ./.","[ That ki-, + the kids ] maybe on the average get, {F uh, } something like thirty seconds of quality time with the parents. /"
+sd,B,"That/DT 's/BES what/WP I/PRP 've/VBP heard/VBN too/RB ./. Uh/UH ,/,","That's what I've heard too. {F Uh, } /"
+sv,A,It/PRP seems/VBZ bizarre/JJ to/IN me/PRP ./.,It seems bizarre to me. /
+sv,A,"I/PRP do/VBP n't/RB quite/RB understand/VB it/PRP ,/, although/IN I/PRP think/VBP probably/RB the/DT ,/, the/DT worst/JJS thing/NN that/WDT 's/BES happening/VBG in/IN the/DT world/NN ,/, at/IN least/JJS the/DT modern/JJ world/NN today/NN ,/, is/VBZ television/NN ./.","I don't quite understand it, although I think probably [ the, + the ] worst thing that's happening [ in the world, + at least the modern world ] today, is television. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"Not/RB so/RB much/JJ because/IN ,/, uh/UH ,/, it/PRP 's/BES bad/JJ per/FW se/FW ,/, although/IN there/EX is/VBZ some/DT pretty/RB crappy/JJ programming/NN","<Throat_clearing> Not so much because, {F uh, } it's bad per se, although there is some pretty crappy programming /"
+sv,A,"and/CC I/PRP thin/VBP ,/, there/EX 's/BES also/RB some/DT ,/, uh/UH ,/, I/PRP think/VBP ,/, uh/UH ,/, poorer/JJR lifestyles/NNS illustrated/VBN but/CC simply/RB because/IN it/PRP dominates/VBZ so/RB much/RB discussionary/JJ time/NN ./.","{C and } [ I thin-, + there's also some, {F uh, } I think, ] {F uh, } poorer lifestyles illustrated but simply because it dominates so much discussionary time. /"
+b,B,Right/UH ./.,Right. /
+sv,A,It/PRP 's/BES so/RB darned/RB easy/JJ to/TO turn/VB the/DT thing/NN on/RP ./.,It's so darned easy to turn the thing on. /
+aa,B,I/PRP know/VBP it/PRP ./.,I know it. /
+sd,B,"I/PRP 've/VBP ,/, I/PRP tell/VBP myself/PRP sometimes/RB ,/, just/RB sit/VB down/RB after/IN work/NN ,/,","[ I've, + I ] tell myself sometimes, just sit down after work, /"
+sd,A,So/RB I/PRP refuse/VBP to/TO have/VB one/CD in/IN the/DT house/NN ./.,{C So } I refuse to have one in the house. /
+bh,B,Oh/UH really/UH ?/.,{F Oh } really? /
+ny,A,Yeah/UH ./.,Yeah. /
+ba,B,Well/UH good/JJ for/IN you/PRP ./.,{D Well } good for you. /
+ba,B,Good/JJ for/IN you/PRP ./.,Good for you. /
+sd,B,"A/DT lot/NN of/IN people/NNS ,/, I/PRP talk/VBP to/IN a/DT lot/NN of/IN people/NNS about/IN that/DT","[ A lot of people, + I talk to a lot of people ] about that /"
+sd,B,and/CC I/PRP 've/VBP thought/VBN about/IN it/PRP myself/PRP,{C and } I've thought about it myself /
+sd,B,and/CC I/PRP though/VBD about/IN it/PRP a/DT lot/NN,{C and } I though about it a lot /
+x,B,./.,<laughter>.
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"But/CC ,/, uh/UH ,/, I/PRP still/RB have/VBP n't/RB done/VBN it/PRP yet/RB ./.","{C But, } {F uh, } I still haven't done it yet. /"
+ba,B,Well/UH that/DT 's/BES good/JJ ./.,{D Well } that's good. /
+^h,A,Well/UH I/PRP 'll/MD tell/VB you/PRP ./.,{D Well } I'll tell you. /
+sv,A,Television/NN sure/RB makes/VBZ child/NN rearing/NN easy/JJ on/IN you/PRP ./.,Television sure makes child rearing easy on you. /
+sv,A,"I/PRP mean/VBP the/DT kids/NNS can/MD be/VB a/DT real/JJ pest/NN ,/, uh/UH ,/,","{E I mean } the kids can be a real pest, {F uh, } /"
+sv,A,"and/CC turning/VBG the/DT T/NN V/NN on/RP is/VBZ almost/RB like/IN magic/NN ,/, you/PRP know/VBP ,/,","{C and } turning the T V on is almost like magic, {D you know, } /"
+sv,A,"it/PRP 's/BES like/IN sticking/VBG ,/, uh/UH ,/, an/DT electrode/NN into/IN their/PRP$ pleasure/NN center/NN","it's like sticking, {F uh, } an electrode into their pleasure center /"
+sv,A,and/CC you/PRP do/VBP n't/RB have/VB to/TO worry/VB about/IN them/PRP ./.,{C and } you don't have to worry about them. /
+aa,B,That/DT 's/BES true/JJ,That's true /
+sd,B,I/PRP 've/VBP noticed/VBN that/DT ./.,I've noticed that. /
+sv,A,But/CC I/PRP do/VBP n't/RB think/VB it/PRP 's/BES too/RB good/JJ ./.,{C But } I don't think it's too good. /
+aa,B,I/PRP do/VBP n't/RB think/VB so/RB either/RB ./.,I don't think so either. /
+h,A,"Uh/UH ,/, so/RB ,/, you/PRP know/VBP ,/, I/PRP do/VBP n't/RB know/VB ,/,","{F Uh, } {C so, } {D you know, } I don't know, /"
+%,A,"I/PRP take/VBP advantage/NN ,/,","I take advantage, - /"
+sd,A,"I/PRP do/VBP n't/RB have/VB a/DT great/JJ deal/NN of/IN time/NN to/TO spend/VB with/IN the/DT kids/NNS ,/,","I don't have a great deal of time to spend with the kids, /"
+sd,A,"but/CC I/PRP take/VBP advantage/NN of/IN ,/, um/UH ,/, dinner/NN time/NN ./.","{C but } I take advantage of, {F um, } dinner time. /"
+sd,A,We/PRP always/RB eat/VBP together/RB,We always eat together /
+sv,A,"and/CC ,/, you/PRP know/VBP ,/, whenever/WRB you/PRP 're/VBP with/IN your/PRP$ kids/NNS ,/, you/PRP want/VBP to/TO interact/VB with/IN them/PRP rather/IN than/IN just/RB ignore/VB them/PRP ./.","{C and, } {D you know, } whenever you're with your kids, you want to interact with them rather than just ignore them. /"
+qy,B,"Do/VBP you/PRP keep/VB your/PRP$ kids/NNS ,/, uh/UH ,/, active/JJ in/IN sports/NNS or/CC anything/NN","Do you keep your kids, {F uh, } active in sports or anything /"
+%,B,"or/CC ,/,","{C or, } -/"
+sd,A,"Uh/UH ,/, I/PRP guess/VBP our/PRP$ big/JJ outlet/NN is/VBZ music/NN ./. Uh/UH --/:","{F Uh, } I guess our big outlet is music. {F Uh } -- /"
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,A,--/: our/PRP$ thirteen/CD year/NN old/JJ son/NN plays/VBZ violin/NN,-- our thirteen year old son plays violin /
+sd,A,"and/CC our/PRP$ ,/,","{C and } our,"
+x,B,./.,<Child>.
++,A,nine/CD year/NN old/JJ daughter/NN plays/VBZ cello/NN --/:,nine year old daughter plays cello -- /
+bk,B,Okay/UH ./.,Okay. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, when/WRB our/PRP$ son/NN started/VBD playing/VBG violin/NN ,/, I/PRP took/VBD up/RP violin/NN","-- {C and, } {F uh, } when our son started playing violin, I took up violin /"
+sd,A,"and/CC when/WRB our/PRP$ daughter/NN started/VBD playing/VBG cello/NN ,/, I/PRP took/VBD up/RP cello/NN ./.","{C and } when our daughter started playing cello, I took up cello. /"
+x,B,./.,</Child>.
+sd,A,"So/RB there/EX 's/BES plenty/JJ of/IN ,/, plenty/JJ of/IN interactive/JJ time/NN in/IN ,/, uh/UH ,/, practicing/VBG ./. Although/IN neither/DT kid/NN likes/VBZ to/TO practice/VB ./.","{C So } there's [ plenty of, + plenty of ] interactive time in, {F uh, } practicing. Although neither kid likes to practice. /"
+x,B,./.,<Laughter>.
+sv,A,I/PRP guess/VBP that/DT 's/BES not/RB a/DT big/JJ surprise/NN ./.,I guess that's not a big surprise. /
+aa,B,No/UH ./.,No. /
+sv,B,Not/RB for/IN kids/NNS ./.,Not for kids <laughter>. /
+sv,A,"But/CC I/PRP mea-/XX ,/, I/PRP imagine/VBP with/IN infants/NNS you/PRP are/VBP ,/, most/JJS of/IN your/PRP$ time/NN is/VBZ sort/RB of/RB spent/VBN taking/VBG care/NN of/IN them/PRP rather/IN than/IN interacting/VBG with/IN them/PRP ./.","{C But } [ I mea-, + I imagine ] with infants [ you <throat_clearing> are, + ] most of your time is sort of spent taking care of them rather than interacting with them."
+aa,B,Yeah/UH ./.,Yeah. /
+sd,B,Well/UH --/:,{D Well } --
++,A,"Although/IN ,/,","Although, -/"
++,B,"--/: I/PRP ,/, I/PRP try/VBP and/CC read/VB to/IN them/PRP","-- [ I, + I ] try and read to them /"
+sd,B,and/CC I/PRP take/VBP them/PRP to/IN the/DT park/NN and/CC stuff/NN,{C and } I take them to the park and stuff /
+sv,A,"Oh/UH ,/, you/PRP know/VBP ,/, reading/NN is/VBZ so/RB good/JJ ./.","{F Oh, } {D you know, } reading is so good. /"
+sd,A,"I/PRP ,/, uh/UH ,/, I/PRP took/VBD great/JJ pleasure/NN in/IN reading/VBG to/IN my/PRP$ kids/NNS when/WRB they/PRP were/VBD little/JJ","[ I, + {F uh, } I ] took great pleasure in reading to my kids when they were little /"
+sd,A,"and/CC I/PRP still/RB try/VBP to/TO read/VB to/IN them/PRP ,/, although/IN our/PRP$ son/NN is/VBZ not/RB liking/VBG that/DT anymore/RB ./.","{C and } I still try to read to them, although our son is not liking that anymore. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"Well/UH ,/, they/PRP get/VBP to/IN that/DT stage/NN ./.","{D Well, } they get to that stage. /"
+%,A,"Uh/UH ,/, but/CC I/PRP read/VBD ,/, you/PRP know/VBP","{F Uh, } {C but } I read, {D you know } - /"
+sd,A,there/EX 's/BES this/DT DOCTOR/NNP SEUSS/NNP sleep/NN book/NN ./.,there's this DOCTOR SEUSS sleep book. /
+qy,A,Have/VBP you/PRP ever/RB seen/VBN that/DT yet/RB ?/.,Have you ever seen that yet? /
+^h,B,"Sleep/NN book/NN ,/,","Sleep book, /"
+nn,B,no/UH ./.,no. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,it/PRP 's/BES called/VBN a/DT sleep/NN book/NN,it's called a sleep book /
+ad,A,"and/CC ,/, uh/UH ,/, you/PRP ought/MD to/TO get/VB it/PRP ./.","{C and, } {F uh, } you ought to get it. /"
+sd,A,I/PRP tell/VBP you/PRP I/PRP read/VBD that/DT book/NN to/IN my/PRP$ kids/NNS so/RB many/JJ times/NNS I/PRP almost/RB have/VBP the/DT thing/NN memorized/VBN ./.,I tell you I read that book to my kids so many times I almost have the thing memorized. /
+x,B,./.,<Laughter>.
+b,A,"Uh/UH ,/,","{F Uh, } /"
+sd,B,We/PRP 've/VBP got/VBN quite/PDT a/DT few/JJ of/IN DOCTOR/NNP SEUSS/NNP '/POS books/NNS ./.,We've got quite a few of DOCTOR SEUSS' books. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"Well/UH ,/, I/PRP think/VBP ,/, I/PRP think/VBP his/PRP$ sleep/NN book/NN is/VBZ my/PRP$ favorite/NN ./.","{D Well, } [ I think, + I think ] his sleep book is my favorite. /"
+bh,B,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+b,B,"Well/UH ,/, yeah/UH","{D Well, } yeah /"
+sd,B,"I/PRP like/VBP to/TO ,/, I/PRP like/VBP to/TO do/VB it/PRP","[ I like to, + I like to ] do it /"
+sd,B,and/CC they/PRP enjoy/VBP reading/NN ./.,{C and } they enjoy reading. /
+sd,B,"I/PRP 've/VBP ,/, actually/RB I/PRP never/RB read/VBD a/DT lot/NN growing/VBG up/RP","I've, {D actually } I never read ] a lot growing up /"
+sd,B,and/CC I/PRP never/RB read/VBD until/IN a/DT few/JJ years/NNS ago/RB,{C and } I never read until a few years ago /
+sd,B,I/PRP just/RB started/VBD picking/VBG up/RP books/NNS,I just started picking up books /
+sd,B,"and/CC so/RB I/PRP 've/VBP found/VBN that/IN ,/, you/PRP know/VBP ,/, it/PRP 's/BES really/RB important/JJ to/IN me/PRP to/TO get/VB to/TO read/VB ./.","{C and so } I've found that, {D you know, } it's really important to me to get to read. /"
+sd,B,"To/IN ,/, I/PRP like/VBP to/TO get/VB away/RB in/IN a/DT book/NN ,/, you/PRP know/VBP ?/.","To, I like to ] get away in a book, {D you know? } /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,"And/CC so/RB I/PRP 've/VBP put/VBN a/DT lot/NN more/JJR emphasis/NN on/IN that/DT ,/, on/IN my/PRP$ kids/NNS --/:","{C And so } I've put a lot more emphasis on that, on my kids --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qw,A,So/RB how/WRB --/:,{C So } how --
++,B,"--/: to/TO try/VB and/CC ,/,","-- to try and, -/"
++,A,--/: much/JJ time/NN do/VBP you/PRP think/VB you/PRP spend/VBP with/IN your/PRP$ kids/NNS on/IN the/DT average/NN per/IN each/DT day/NN ?/.,-- much time do you think you spend with your kids on the average per each day? /
+sd,B,"Oh/UH ,/, I/PRP probably/RB spend/VBP an/DT hour/NN or/CC two/CD ./.","{F Oh, } I probably spend an hour or two. /"
+ba,A,Oh/UH that/DT 's/BES great/JJ ./.,{F Oh } that's great. /
+sd,B,"My/PRP$ wife/NN works/VBZ at/IN night/NN ,/,","My wife works at night, /"
+sd,B,"so/RB she/PRP does/VBZ ,/, uh/UH ,/, Tupperware/NNP ,/,","{C so } she does, {F uh, } Tupperware, /"
+sd,B,so/RB she/PRP 's/BES gone/VBN a/DT lot/NN at/IN nights/NNS,{C so } she's gone a lot at nights /
+sd,B,and/CC so/RB --/:,{C and so } --
+b,A,"Oh/UH ,/, I/PRP see/VBP ./.","{F Oh, } I see. /"
++,B,--/: I/PRP spend/VBP a/DT lot/NN of/IN time/NN with/IN them/PRP ./.,-- I spend a lot of time with them <sniffing>. /
+qw,A,"Ho/WRB ,/, how/WRB old/JJ are/VBP your/PRP$ kids/NNS again/RB ?/.","[ Ho-, + how ] old are your kids again? /"
+sd,B,They/PRP 're/VBP two/CD and/CC one/CD ./.,They're two and one. /
+b^m,A,Two/CD and/CC one/CD ./.,Two and one. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"so/RB you/PRP have/VBP your/PRP$ hands/NNS full/JJ with/IN them/PRP ,/,","{C so } you have your hands full with them, /"
+sv,A,that/DT 's/BES for/IN sure/JJ ./.,that's for sure </music>. /
+aa,B,Yeah/UH ./.,Yeah </TV>. /

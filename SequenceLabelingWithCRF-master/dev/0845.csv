@@ -1,0 +1,84 @@
+act_tag,speaker,pos,text
+fp,A,Hello/UH Ann/NNP ./.,Hello Ann. /
+fp,B,Hello/UH Chuck/NNP ./.,Hello Chuck. /
+sd,A,"Uh/UH ,/, the/DT other/JJ day/NN ,/, I/PRP attended/VBD a/DT conference/NN here/RB at/IN Utah/NNP State/NNP University/NNP on/IN recycling/NN --/:","{F Uh, } the other day, I attended a conference here at Utah State University on recycling -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, I/PRP was/VBD kind/RB of/RB interested/JJ to/TO hear/VB cause/IN they/PRP had/VBD some/DT people/NNS from/IN the/DT E/NNP P/NNP A/NNP and/CC lots/NNS of/IN different/JJ places/NNS --/:","-- {C and, } {F uh, } I was kind of interested to hear cause they had some people from the E P A and lots of different places -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: and/CC ,/, uh/UH ,/, they/PRP had/VBD basically/RB decided/VBN that/IN there/EX is/VBZ going/VBG to/TO be/VB a/DT real/JJ problem/NN here/RB within/IN a/DT few/JJ years/NNS on/IN solid/JJ waste/NN ./.","-- {C and, } {F uh, } <noise> they had basically decided that there is going to be a real problem here within a few years on solid waste. /"
+sv,B,"Uh/UH ,/, I/PRP did/VBD n't/RB think/VB that/DT was/VBD a/DT new/JJ revelation/NN ./.","{F Uh, } I didn't think that was a new revelation. /"
+aa,A,"Well/UH ,/, it/PRP 's/BES not/RB too/RB new/JJ ./.","{D Well, } it's not too new. /"
+b,B,Right/UH ./.,Right. /
+qw,B,"So/UH ,/, what/WP what/WP is/VBZ the/DT E/NNP P/NNP A/NNP recommending/VBG now/RB ?/.","{D So, } [ what + what ] is the E P A recommending now? /"
+sd,A,"Oh/UH ,/, they/PRP really/RB did/VBD n't/RB propose/VB any/DT solutions/NNS ./.","{F Oh, } <noise> they really didn't propose any solutions. /"
+sv,A,"Actually/RB ,/, they/PRP were/VBD ,/, the/DT guy/NN was/VBD pretty/RB negative/JJ about/IN the/DT things/NNS that/WDT the/DT government/NN was/VBD doing/VBG even/RB though/IN he/PRP was/VBD from/IN the/DT E/NNP P/NNP A/NNP ./.","{D Actually, } [ they were, + the guy was ] pretty negative about the things that the government was doing even though he was from the E P A. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"But/CC ,/, he/PRP had/VBD a/DT lot/NN of/IN ,/, uh/UH ,/, facts/NNS to/TO ,/, to/TO give/VB and/CC ,/, uh/UH ,/, things/NNS like/IN how/WRB many/JJ solid/JJ waste/NN plants/NNS were/VBD being/VBG shut/VBN down/RP","{C But, } he had a lot of, {F uh, } facts [ to, + to ] give and, {F uh, } things like how many solid waste plants were being shut down /"
+sv,A,"and/CC ,/, and/CC ,/, uh/UH ,/, one/CD of/IN the/DT most/RBS interesting/JJ things/NNS that/WDT he/PRP was/VBD talking/VBG about/IN was/VBD recycling/NN of/IN ,/, of/IN news/NN print/NN ./.","[ {C and, } + {C and, } ] {F uh, } one of the most interesting things that he was talking <noise> about was recycling [ of, + of ] news print. /"
+sd,A,"He/PRP was/VBD talking/VBG about/IN ,/, uh/UH ,/, the/DT City/NNP of/IN New/NNP York/NNP and/CC how/WRB they/PRP went/VBD and/CC collected/VBD all/PDT this/DT news/NN print/NN --/:","He was talking about, {F uh, } the City of New York and how they went and collected all this news print <noise> -- /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,--/: and/CC they/PRP could/MD sell/VB it/PRP for/IN a/DT while/NN ./.,-- {C and } they could sell it for a while. /
+sd,A,They/PRP were/VBD able/JJ to/TO sell/VB it/PRP for/IN some/DT amount/NN per/IN ton/NN,They were able to sell it for some amount per ton /
+sd,A,"and/CC now/RB at/IN this/DT stage/NN of/IN the/DT game/NN where/WRB they/PRP have/VBP gotten/VBN into/IN recycling/NN ,/, they/PRP 've/VBP collected/VBN so/RB much/JJ news/NN print/NN that/IN they/PRP have/VBP to/TO pay/VB to/TO have/VB it/PRP hauled/VBN away/RB ./.","{C and } now at this stage of the game where they have gotten into <noise> recycling, they've collected so much news print that they have to pay to have it hauled away. /"
+b,B,Right/UH ./.,Right. /
+sv,B,"That/DT 's/BES a/DT ,/, that/DT 's/BES a/DT common/JJ problem/NN though/RB ./.","[ That's a, + that's a ] common problem though. /"
+sd,B,"That/IN it/PRP seems/VBZ ,/, that/DT has/VBZ happened/VBN in/IN Dallas/NNP as/RB well/RB as/IN New/NNP York/NNP","[ That it seems, + that has happened ] in Dallas as well as New York <inhaling> /"
+sd,B,and/CC I/PRP try/VBP to/TO recycle/VB all/DT of/IN the/DT newspapers/NNS that/WDT come/VBP to/IN my/PRP$ house/NN,{C and } I try to recycle all of the newspapers that come to my house /
+sd,B,"and/CC after/IN a/DT while/NN I/PRP just/RB quit/VBP taking/VBG the/DT newspaper/NN because/IN I/PRP could/MD n't/RB recycle/VB it/PRP anymore/RB which/WDT is/VBZ n't/RB good/JJ for/IN business/NN on/IN the/DT other/JJ end/NN either/RB ,/, I/PRP suppose/VBP ./.","{C and } after a while I just quit taking the newspaper because I couldn't recycle it anymore which isn't good for business on the other end either, I suppose. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"We/PRP 're/VBP doing/VBG some/DT here/RB in/IN ,/, in/IN Cash/NNP Valley/NNP ,/, the/DT community/NN here/RB ./.","We're doing some here [ in, + in ] Cash Valley, the community here. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"There/EX 's/BES ,/, uh/UH ,/, we/PRP 've/VBP actually/RB got/VBN a/DT kind/RB of/RB a/DT nice/JJ set/GW up/^NN ./.","[ There's, + {F uh, } we've ] actually got a kind of a nice set up. /"
+sd,A,"We/PRP 've/VBP got/VBN a/DT couple/NN of/IN plants/NNS here/RB that/WDT actually/RB take/VBP ,/, uh/UH ,/, recycled/JJ paper/NN and/CC shred/VBP it/PRP and/CC spray/VBP it/PRP with/IN chemical/JJ treatment/NN so/IN that/IN it/PRP 's/BES not/RB a/DT fire/NN hazard/NN --/:","We've got a couple of plants here that actually take, {F uh, } recycled paper and shred it and spray it with chemical treatment so that it's not a fire hazard --"
+b,B,Right/UH ./.,Right. /
++,A,--/: and/CC make/VBP it/PRP into/IN insulation/NN,-- and make it into insulation /
+sd,A,and/CC they/PRP can/MD actually/RB use/VB as/RB much/RB recycled/JJ paper/NN as/IN the/DT community/NN can/MD get/VB to/IN them/PRP ./. Because/IN they/PRP are/VBP actually/RB buying/VBG it/PRP and/CC shipping/VBG it/PRP in/RB from/IN outside/RB ./.,{C and } they can actually use as much recycled paper as the community can get to them. Because they are actually buying it and shipping it in from outside. /
+ba,B,"Well/UH ,/, that/DT 's/BES good/JJ ./.","{D Well, } that's good. /"
+sv,A,"So/RB one/CD of/IN the/DT real/JJ keys/NNS ,/, it/PRP sounds/VBZ like/IN ,/, to/TO getting/VBG recycling/NN for/IN ,/, uh/UH ,/, paper/NN or/CC something/NN like/IN that/DT to/TO go/VB is/VBZ to/TO get/VB some/DT sort/NN of/IN business/NN to/TO actually/RB want/VB it/PRP once/IN you/PRP have/VBP collected/VBN it/PRP ./.","{C So } one of the real keys, it sounds like, to getting recycling for, {F uh, } paper or something like that to go is to get some sort of business to actually want it once you have collected it. /"
+aa,B,Right/UH ./.,Right. /
+sv,B,"There/EX has/VBZ to/TO be/VB ,/, uh/UH ,/, a/DT reuse/NN for/IN it/PRP ./.","There has to be, {F uh, } a reuse for it. /"
+sd,B,"I/PRP mean/VBP ,/, that/DT 's/BES why/WRB they/PRP recycle/VBP ./.","{E I mean, } that's why they recycle. /"
+sv,B,"The/DT one/CD I/PRP think/VBP is/VBZ the/DT most/RBS interesting/JJ is/VBZ with/IN the/DT recycled/JJ bottles/NNS and/CC all/PDT that/DT ,/, uh/UH ,/, the/DT industry/NN seems/VBZ to/TO be/VB doing/VBG with/IN the/DT recycled/JJ polymers/NNS ./. Uh/UH ,/, everything/NN from/IN ,/, uh/UH ,/, waste/NN baskets/NNS to/IN carpet/NN to/IN the/DT no/RB stick/NN ,/, I/PRP mean/VBP the/DT sticky/JJ slide/NN rugs/NNS under/IN the/DT carpet/NN --/:","The one I think is the most interesting is with the recycled bottles and all that, {F uh, } the industry seems to be doing with the recycled polymers. {F Uh, } everything from, {F uh, } waste baskets to carpet to [ the no stick, + {E I mean } the sticky ] slide rugs under the carpet -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"--/: and/CC ,/, uh/UH ,/, I/PRP think/VBP they/PRP are/VBP even/RB putting/VBG it/PRP in/IN the/DT roadways/NNS these/DT days/NNS","-- {C and, } {F uh, } I think they are even putting it in the roadways these days /"
+sd,B,and/CC they/PRP 're/VBP making/VBG clothes/NNS now/RB that/WDT are/VBP recycled/JJ ./.,{C and } they're making clothes now that are recycled. /
+sd,B,Like/IN the/DT recycled/JJ plastic/NN coke/NNP bottles/NNS and/CC and/CC milk/NN cartons/NNS and/CC things/NNS like/IN that/DT ./.,Like the recycled plastic coke bottles [ and + and ] milk cartons and things like that. /
+sd,A,And/CC there/EX was/VBD a/DT paper/NN presented/VBN at/IN this/DT conference/NN from/IN a/DT guy/NN from/IN Alabama/NNP,{C And } there was a paper presented at this conference from a guy from Alabama /
+sd,A,and/CC he/PRP was/VBD kind/RB of/RB hired/VBN to/TO do/VB a/DT study/NN by/IN two/CD departments/NNS for/IN the/DT government/NN ./.,{C and } he was kind of hired to do a study by two departments for the government. /
+sd,A,"One/CD was/VBD like/IN ,/, environmental/JJ protection/NN","One was {D like, } environmental protection /"
+sd,A,"and/CC the/DT other/JJ one/CD was/VBD ,/, oh/UH ,/, I/PRP ca/MD n't/RB remember/VB what/WP ,/,","{C and } the other one was, {F oh, } I can't remember what, /"
+sd,A,"but/CC the/DT basic/JJ idea/NN ,/, it/PRP was/VBD presented/VBN to/IN him/PRP was/VBD how/WRB can/MD we/PRP maximize/VB the/DT amount/NN of/IN energy/NN that/WDT we/PRP can/MD get/VB back/RB from/IN recycling/NN and/CC minimize/VB the/DT volume/NN of/IN stuff/NN that/WDT we/PRP are/VBP putting/VBG into/IN our/PRP$ landfill/NN --/:","{C but } the basic idea, it was presented to him was how can we maximize the amount of energy that we can get back from recycling and minimize the volume of stuff that we are putting into our landfill -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: and/CC ,/, uh/UH ,/, the/DT solution/NN that/WDT he/PRP came/VBD up/RP with/IN for/IN plastics/NNS ,/, and/CC it/PRP was/VBD really/RB quite/RB amazing/JJ ,/,","-- {C and, } {F uh, } the solution that he came up with for plastics, [ and + ] it was really quite amazing, /"
+sd,A,"he/PRP says/VBZ ,/, well/UH the/DT best/JJS thing/NN to/TO do/VB with/IN plastics/NNS is/VBZ to/TO burn/VB them/PRP ./.","he says, {D well } the best thing to do with plastics is to burn them. /"
+b,B,Oh/UH really/UH ./.,{F Oh } really. /
+sd,A,"He/PRP came/VBD to/IN the/DT conclusion/NN ,/, plastics/NNS is/VBZ actually/RB one/CD of/IN the/DT biggest/JJS problems/NNS in/IN landfills/NNS cause/IN it/PRP 's/BES ,/, it/PRP 's/BES low/JJ weight/NN ,/, but/CC it/PRP 's/BES high/JJ volume/NN so/RB it/PRP takes/VBZ up/RP a/DT lot/NN of/IN space/NN --/:","He came to the conclusion, plastics is actually one of the biggest problems in landfills cause [ it's, + it's ] low weight, but it's high volume so it takes up a lot of space -- /"
+b,B,Right/UH ./.,Right. /
+sd,A,"--/: and/CC there/EX 's/BES almost/RB no/DT energy/NN ,/, there/EX 's/BES very/RB little/JJ energy/NN value/NN in/IN actually/RB doing/VBG a/DT lot/NN of/IN the/DT recycling/NN ,/,","-- {C and } [ there's almost no energy, + there's very little energy ] value in actually doing a lot of the recycling, /"
+sd,A,"but/CC there/EX is/VBZ a/DT lot/NN of/IN energy/NN in/IN it/PRP if/IN you/PRP can/MD burn/VB it/PRP and/CC use/VB it/PRP ,/, produce/VB electricity/NN ./.","{C but } there is a lot of energy in it if you can burn it and use it, produce electricity. /"
+%,B,Huh/UH ./.,{F Huh. } /
+sd,A,So/RB his/PRP$ solution/NN was/VBD to/TO burn/VB plastic/NN ./. Collect/VB it/PRP and/CC burn/VB it/PRP ./.,{C So } his solution was to burn plastic. Collect it and burn it. /
+sd,B,"Well/UH ,/, it/PRP 's/BES carbon/NN","{D Well, } it's carbon /"
+sv,B,"so/RB that/DT makes/VBZ sense/NN ,/,","{C so } that makes sense, /"
+sd,B,"like/IN a/DT carbon/NN fuel/NN of/IN some/DT sort/NN ,/,","{D like } a carbon fuel of some sort, /"
+qw,B,but/CC --/:,{C but } --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: what/WP --/:,-- [ what -- +
+sd,A,And/CC it/PRP 's/BES more/JJR than/IN even/RB paper/NN or/CC something/NN like/IN that/DT ./.,{C And } it's more than even paper or something like that. /
+sd,A,There/EX is/VBZ more/JJR energy/NN in/IN it/PRP per/IN pound/NN or/CC whatever/WP ./.,There is more energy in it per pound or whatever. /
++,B,--/: what/WP about/IN emissions/NNS ?/.,-- what ] about emissions? /
+sd,A,Well/UH that/DT was/VBD he/PRP did/VBD n't/RB deal/VB with/IN that/DT ./.,{D Well } [ that was <laughter> + he didn't ] deal with that. /
+b,B,Oh/UH ./.,Oh. /
+sd,A,He/PRP just/RB said/VBD burn/VB it/PRP ./.,He just said burn it. /
+b,B,Okay/UH ./.,Okay <laughter>. /
+sd,A,He/PRP did/VBD n't/RB talk/VB about/IN cleaning/VBG it/PRP up/RP or/CC anything/NN like/IN that/DT ./.,He didn't talk about cleaning it up or anything like that. /
+sv,A,So/RB it/PRP 's/BES not/RB very/RB practical/JJ MUMBLEx/XX ./.,{C So } it's not very practical (( )). /
+aa,B,No/UH ./.,No. /
+sv,B,Well/UH it/PRP 's/BES interesting/JJ ./.,{D Well } it's interesting. /
+sv,B,"I/PRP bet/VBP that/DT was/VBD a/DT good/JJ day/NN ,/, at/IN the/DT yeah/UH ,/, conference/NN then/RB ./.","I bet that was a good day, at the {D yeah, } conference then. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"well/UH ,/, real/RB interesting/JJ ./.","{D well, } real interesting. /"
+qy,B,Did/VBD it/PRP change/VB anything/NN for/IN you/PRP ?/.,Did it change anything for you? /
+ng,A,"Uh/UH ,/, not/RB too/RB much/JJ ./.","{F Uh, } <breathing> not too much. /"
+sd,A,"Uh/UH ,/, I/PRP got/VBD a/DT bit/NN ./.","{F Uh, } I got a bit. /"
+%,A,"Actually/RB ,/,","Actually, -/"

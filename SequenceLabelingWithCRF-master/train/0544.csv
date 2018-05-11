@@ -1,0 +1,123 @@
+act_tag,speaker,pos,text
+qo,A,What/WP do/VBP you/PRP think/VB ?/. ./.,What do you think? <noise>. /
+sd,B,"Well/UH ,/, uh/UH ,/, I/PRP ca/MD n't/RB be/VB terribly/RB authoritative/JJ on/IN what/WP life/NN was/VBD like/IN thirty/CD years/NNS ago/RB ,/, uh/UH ,/, because/IN I/PRP 'm/VBP not/RB that/RB old/JJ yet/RB ./.","{D Well, } {F uh, } I can't be terribly authoritative on what life was like thirty years ago, {F uh, } <swallowing> because I'm not that old yet. /"
+b,A,Uh-huh/UH ./.,</Noise> Uh-huh. /
+%,B,Um/UH ./.,{F Um } <laughter>. /
+%,A,"I/PRP can/MD be/VB ,/,","I can be, /"
+ad,A,but/CC go/VB ahead/RB ./.,{C but } go ahead <laughter>. /
+%,B,"Uh/UH ,/, I/PRP know/VBP that/DT ,/, uh/UH ,/,","<Laughter> {F Uh, } I know that, {F uh, } - /"
+%,B,"I/PRP mean/VBP obviously/RB you/PRP look/VBP at/IN ,/, at/IN technologic/JJ ,/, the/DT technological/JJ aspect/NN of/IN ,/, of/IN social/JJ change/NN ./.","{E I mean } obviously you look [ at, + at ] [ technologic-, + the technological ] aspect [ of, + of ] social change. /"
+sd,B,"I/PRP mean/VBP you/PRP did/VBD n't/RB have/VB ,/, uh/UH ,/, you/PRP did/VBD n't/RB have/VB video/NN games/NNS ./.","{E I mean } [ you didn't have, + {F uh, } you didn't have ] video games. /"
+sd,B,You/PRP did/VBD n't/RB have/VB home/NN computers/NNS ./.,You didn't have home computers. /
+sd,B,You/PRP did/VBD n't/RB have/VB Xerox/NN machines/NNS ./.,You didn't have Xerox machines. /
+b,A,Right/UH ./.,Right. /
+%,B,"I/PRP mean/VBP ,/, uh/UH ,/, you/PRP ,/, you/PRP try/VBP to/TO ,/,","{E I mean, } {F uh, } [ you, + you ] try to, - /"
+sd,B,"you/PRP go/VBP into/IN a/DT ,/, a/DT business/NN today/RB","you go into [ a, + a ] business today /"
+sd,B,"and/CC ,/, you/PRP ,/, you/PRP try/VBP to/TO imagine/VB the/DT whole/JJ thing/NN except/IN running/VBG off/RP of/IN carbon/NN paper/NN","{C and, } [ you, + you ] try to imagine the whole thing except running off of carbon paper /"
+sv,B,"and/CC it/PRP 's/BES almost/RB inconceivable/JJ now/RB because/IN the/DT Xerox/NN machines/NNS and/CC ,/, and/CC everything/NN have/VBP become/VBN such/PDT ,/, you/PRP know/VBP ,/, su-/PDT ,/, such/PDT a/DT ,/, a/DT par-/NN ,/, a/DT part/NN of/IN the/DT way/NN we/PRP live/VBP ./.","{C and } it's almost inconceivable now because the Xerox machines [ and, + and ] everything have become [ [ such, + {D you know, } su-, ] + such ] [ [ a, + a par-, ] + a part ] of the way we live. /"
+aa,A,Right/UH ./.,Right. /
+sd,A,We/PRP fax/VBP --/:,We fax --
+%,B,"And/CC MUMBLEx/XX ,/,","{C And } (( )) , -/"
++,A,--/: everything/NN ./.,-- everything. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,We/PRP do/VBP n't/RB even/RB wait/VB for/IN the/DT mail/NN anymore/RB ./.,We don't even wait for the mail anymore. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,A,Right/UH ./.,Right. /
+b,B,"Yeah/UH ,/, uh/UH ,/,","Yeah, {F uh, } /"
+sd,B,"a/DT business/NN associate/NN of/IN mine/NN was/VBD ,/, was/VBD talking/VBG about/IN how/WRB it/PRP used/VBD to/TO be/VB where/WRB you/PRP would/MD send/VB things/NNS through/IN the/DT mail/NN","a business associate of mine [ was, + was ] talking about how it used to be where you would send things through the mail /"
+sd,B,"and/CC you/PRP had/VBD to/TO do/VB something/NN ,/,","{C and } you had to do something, /"
+sd,B,"this/DT was/VBD concerning/VBG the/DT S/NNP E/NNP C/NNP ,/,","this was concerning the S E C, /"
+sd,B,"and/CC so/RB if/IN they/PRP had/VBD business/NN to/TO do/VB ,/, they/PRP had/VBD to/TO finish/VB it/PRP ,/, you/PRP know/VBP ,/, three/CD days/NNS in/IN advance/NN so/IN they/PRP could/MD get/VB it/PRP through/IN the/DT mail/NN ./.","{C and so } if they had business to do, they had to finish it, {D you know, } three days in advance so they could get it through the mail. /"
+b,A,Right/UH ./.,Right. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"Because/IN you/PRP can/MD get/VB it/PRP there/RB ,/, you/PRP know/VBP --/:","Because you can get it there, {D you know } -- *[[""Because"" as connector; sd]]"
+b,A,Uh-huh/UH ./.,Uh-huh <<very faint>>. /
++,B,"--/: in/IN ,/, in/IN a/DT matter/NN of/IN minutes/NNS --/:","-- [ in, + in ] a matter of minutes --"
+b,A,Right/UH ./.,Right. /
++,B,"--/: you/PRP know/VBP ,/, through/IN a/DT fax/NN machine/NN","-- {D you know, } through a fax machine /"
+sv,B,"and/CC because/IN of/IN that/DT ,/, these/DT quote/VB ,/, unquote/VB convenience/NN type/NN items/NNS have/VB made/VBN work/NN that/RB much/RB more/RBR intense/JJ and/CC that/RB much/RB harder/JJR ./.","{C and } because of that, these quote, unquote convenience type items have made work that much more intense and that much harder. /"
+b,A,Right/UH ./.,Right. /
+sv,B,Because/RB you/PRP 're/VBP expected/VBN to/TO work/VB on/IN stuff/NN up/IN until/IN the/DT last/JJ minute/NN ./.,{C Because } you're expected to work on stuff up until the last minute. /
+aa,A,"You/PRP 're/VBP expected/VBN to/TO ,/,","You're expected to, - /"
+aa,A,exactly/UH ./.,exactly. /
+sd,A,"And/CC I/PRP recently/RB read/VBD an/DT article/NN on/IN just/RB this/DT ,/, that/WDT said/VBD stress/NN today/NN is/VBZ so/RB much/RB worse/JJR ./.","{C And } I recently read an article on just this, that said stress today is so much worse <talking>. /"
+sd,A,It/PRP should/MD be/VB less/JJR because/IN we/PRP have/VBP a/DT microwave/NN,It should be less because <noise> we have a microwave /
+sd,A,and/CC our/PRP$ grandmothers/NNS had/VBD to/TO bake/VB brownies/NNS,{C and } our grandmothers had to bake brownies /
+sd,A,and/CC we/PRP can/MD throw/VB them/PRP in/IN a/DT microwave/NN for/IN two/CD minutes/NNS,{C and } we can throw them in a microwave for </talking> two minutes /
+sd,A,"but/CC the/DT more/JJR conveniences/NNS we/PRP have/VBP ,/, the/DT more/RBR that/IN 's/BES expected/VBN of/IN us/PRP --/:","{C but } the more conveniences we have, the more that's expected of us -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,--/: and/CC we/PRP have/VBP no/DT down/JJ time/NN ./.,-- {C and } we have no down time. /
+sv,A,Like/UH we/PRP do/VBP n't/RB stop/VB and/CC wait/VB for/IN things/NNS to/TO happen/VB because/RB we/PRP do/VBP n't/RB have/VB to/TO ./.,{D Like } we don't stop and wait for things to happen because we don't have to. /
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,So/RB we/PRP keep/VBP moving/VBG ./.,{C So } we keep moving. /
+sv,A,We/PRP do/VBP n't/RB stop/VB and/CC wait/VB for/IN the/DT things/NNS to/TO bake/VB and/CC this/DT to/TO happen/VB and/CC that/DT to/TO happen/VB ./.,We don't stop and wait for the things to bake and this to happen and that to happen. /
+sv,A,We/PRP just/RB hit/VBP buttons/NNS and/CC keep/VBP going/VBG to/IN the/DT next/JJ thing/NN ./.,We just hit buttons and keep going to the next thing. /
+sv,A,So/IN we/PRP have/VBP no/DT relaxation/NN time/NN in/RB between/RB --/:,{C So } we have no <talking> relaxation time in between -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"--/: so/UH they/PRP say/VBP that/DT 's/BES really/RB a/DT bad/JJ thing/NN ./. That/IN you/PRP need/VBP to/TO learn/VB a/DT lot/NN of/IN ways/NNS to/TO ,/, to/TO deal/VB with/IN that/DT and/CC get/VB your/PRP$ ,/, your/PRP$ time/NN in/RB between/IN things/NNS ./.","-- {C so } they say that's really a bad thing. That you need to learn a lot of ways [ to, + to ] deal with that and get [ your, + <noise> your ] time in between things. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,So/UH that/DT 's/BES good/JJ ./.,{C So } that's good. /
+sv,A,That/DT 's/BES an/DT interesting/JJ point/NN ./.,That's an interesting point. /
+sv,A,"But/CC I/PRP just/RB think/VBP our/PRP$ ,/, our/PRP$ family/NN lives/NNS have/VBP changed/VBN drastically/RB ./.","{C But } I just think [ our, + our ] family lives have changed <noise> drastically. /"
+x,B,./.,<Laughter>.
+%,A,"And/CC I/PRP think/VBP that/DT 's/BES ju-/RB ,/,","{C And } I think that's ju-, - /"
+sv,A,of/IN course/NN a/DT part/NN of/IN it/PRP is/VBZ technology/NN ./.,of course a part of it is technology. /
+qh,A,"I/PRP mean/VBP our/PRP$ kids/NNS ,/, where/WRB would/MD they/PRP be/VB without/IN Nintendo/NNP and/CC ,/, you/PRP know/VBP ,/, their/PRP$ T/NN V/NN shows/NNS","{E I mean } our kids, where would they be without Nintendo and, {D you know, } their T V shows - /"
+%,A,"and/CC no-/XX ,/,","{C and } no-, - /"
+sv,A,some/DT of/IN that/DT is/VBZ really/RB bad/JJ I/PRP think/VBP ./.,some of that is really bad I think. /
+sv,A,"But/CC ,/, we/PRP have/VBP all/DT single/JJ families/NNS ./.","{C But, } we have all single families. /"
+sd,A,So/RB many/JJ single/JJ families/NNS now/RB ./.,So many single families now. /
+sd,A,"Uh/UH ,/, a/DT lot/NN of/IN working/VBG ,/,","{F Uh, } a lot of working, /"
+sd,A,both/DT parents/NNS are/VBP working/VBG ./.,both parents are working. /
+sv,A,So/RB there/EX 's/BES a/DT whole/JJ big/JJ effect/NN on/IN our/PRP$ kids/NNS,{C So } there's a whole big effect on our kids /
+sd,A,and/CC not/RB very/RB many/JJ of/IN my/PRP$ daughter/NN 's/POS friends/NNS really/RB are/VBP on/IN their/PRP$ original/JJ mother/NN and/CC father/NN ./.,{C and } not very many of my daughter's friends really are on their original mother and father. /
+sd,A,"You/PRP know/VBP ,/, I/PRP 'm/VBP wondering/VBG what/WP this/DT is/VBZ going/VBG to/TO do/VB in/IN ten/CD and/CC twenty/CD years/NNS ./.","{D You know, } I'm wondering what this is going to do in ten and twenty years. /"
+aa,B,"Well/UH ,/, there/EX 's/BES that/DT","{D Well, } there's that /"
+sd,B,"and/CC there/EX 's/BES the/DT fact/NN that/IN ,/, you/PRP know/VBP ,/, nowadays/RB fewer/JJR and/CC fewer/JJR couples/NNS are/VBP deciding/VBG to/TO have/VB kids/NNS which/WDT generally/RB tends/VBZ to/TO happen/VB ./.","{C and } there's the fact that, {D you know, } nowadays fewer and fewer couples are deciding to have kids which generally tends to happen. /"
+sd,B,"I/PRP mean/VBP the/DT U/NNP S/NNP would/MD be/VB actually/RB declining/VBG in/IN population/NN slightly/RB if/IN it/PRP were/VBD n't/RB for/IN the/DT fact/NN that/IN we/PRP ,/,","{E I mean } the U S would be actually declining in population slightly if it weren't for the fact that we,"
+x,A,./.,<Talking>.
++,B,"have/VBP continuation/NN ,/, large/JJ scale/NN immigration/NN into/IN the/DT country/NN ./.","have continuation, large scale immigration into the country. /"
+aap_am,A,You/PRP 're/VBP probably/RB right/JJ ./.,You're probably right </talking>. /
+sd,A,And/CC I/PRP 'm/VBP an/DT O/NNP B/NNP nurse/NN,{C And } I'm an O B nurse /
+sd,A,"and/CC that/DT 's/HVS never/RB really/RB occurred/VBN to/IN me/PRP but/CC that/DT 's/BES ,/, that/DT 's/BES interesting/JJ ./.","{C and } that's never really occurred to me but [ that's, + that's ] interesting. /"
+sd,A,I/PRP never/RB really/RB thought/VBD about/IN it/PRP that/DT way/NN ./.,I never really thought about it that way. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sd,B,"I/PRP saw/VBD that/DT ,/, the/DT numbers/NNS on/IN that/DT awhile/RB back/RB","I saw [ that, + the numbers on that ] awhile back /"
+sd,B,"and/CC I/PRP was/VBD like/UH ,/, uh-huh/UH","{C and } I was {D like, } uh-huh /"
+%,B,so/UH ./.,<laughter> {C so } <<very faint>>. -/
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,yeah/UH ./.,yeah. /
+aa,A,That/DT 's/BES true/JJ ./.,That's true. /
+%,A,When/WRB is/VBZ this/DT good/JJ or/CC not/RB good/JJ ./.,(( When )) is this good or not good. / *[[listen]]
+sd,B,"Well/UH ,/, uh/UH ,/,","{D Well, } {F uh, }"
+sv,A,We/PRP do/VBP n't/RB know/VB that/DT yet/RB ./.,We don't know that yet <laughter>. /
++,B,"In/IN terms/NNS of/IN the/DT long/JJ term/NN effect/NN ,/, effect/NN on/IN ,/, on/IN America/NNP ,/, in/IN terms/NNS of/IN the/DT culture/NN and/CC everything/NN ,/, I/PRP do/VBP n't/RB know/VB ./.","In terms of the long term [ effect, + effect ] [ on, + on ] America, in terms of the culture and everything, I don't know. /"
+sv,B,"Uh/UH ,/,","{F Uh, }"
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,I/PRP do/VBP n't/RB know/VB either/RB ./.,I don't know either. /
++,B,"Most/JJS of/IN the/DT ,/, of/IN the/DT next/JJ generation/NN is/VBZ going/VBG to/TO be/VB in/IN ,/, or/CC ,/, or/CC an/DT ,/, ex-/RB ,/,","[ Most [ of the, + of the ] next generation is going to be + [ in, + [ {E or, } + {E or } ] an, ] [ [ ex-, +"
+x,A,./.,<Noise>.
++,B,"ex-/RB ,/, extremely/RB large/JJ par-/NN ,/, part/NN of/IN the/DT next/JJ generation/NN is/VBZ going/VBG to/TO be/VB ,/, you/PRP know/VBP ,/, second/JJ generation/NN ,/, f-/IN ,/, uh/UH ,/, from/IN immigrant/JJ parents/NNS ./.","ex-, ] + extremely ] large [ par-, + part ] of the next generation is going to be, ] {D you know, } second generation, [ f-, + {F uh, } from ] immigrant parents. /"
+aa,A,That/DT 's/BES true/JJ ./.,That's true. /
+sv,B,And/CC they/PRP 're/VBP going/VBG to/TO be/VB really/RB struggling/VBG,{C And } they're going to be really struggling /
+sv,B,and/CC I/PRP do/VBP n't/RB think/VB that/IN America/NNP is/VBZ currently/RB the/DT type/NN of/IN environment/NN where/WRB struggling/VBG up/RB from/IN the/DT bottom/NN is/VBZ necessarily/RB considered/VBN to/TO be/VB good/JJ ./.,{C and } I don't think that America is currently the type of environment where struggling up from the bottom is necessarily considered to be good <laughter>. /
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,right/UH ./.,right. /
+sd,B,"I/PRP mean/VBP ,/, it/PRP 's/BES no/RB longer/JJR the/DT ,/, the/DT ,/, uh/UH ,/, the/DT accomplishment/NN that/WDT it/PRP ,/, that/WDT it/PRP once/RB was/VBD","{E I mean, } it's no longer [ [ the, + the, ] + {F uh, } the ] accomplishment [ that it, + that it ] once was /"
+sv,B,and/CC not/RB that/RB many/JJ people/NNS are/VBP really/RB trying/VBG I/PRP do/VBP n't/RB think/VB ./.,{C and } not that many people are really trying I don't think <swallowing>. /
+aa,A,Yeah/UH ./.,Yeah. /
+aa,A,Yeah/UH ./.,Yeah. /
+sv,A,That/DT 's/BES kind/RB of/RB scary/JJ ./.,That's kind of scary. /
+aa,A,Huh/UH ./. Well/UH that/DT 's/BES true/JJ ./.,{F Huh. } {D Well } that's true. /
+%,A,"But/CC ,/, I/PRP ,/,","{C But, } I, - /"
+sv,A,"it/PRP 's/BES just/RB very/RB ,/, very/RB different/JJ","it's just [ very, + very ] different /"
+sv,A,and/CC I/PRP guess/VBP every/DT ten/CD years/NNS it/PRP 's/HVS just/RB been/VBN very/RB different/JJ ./.,{C and } I guess every ten years it's just been very different. /
+b,B,Yeah/UH ./.,Yeah <<very faint>>. /
+sd,A,So/UH ./. And/CC I/PRP do/VBP n't/RB know/VB what/WP 's/BES going/VBG to/TO happen/VB ./.,{D So. } {C And } I don't know what's going to happen. /
+sd,A,"Uh/UH ,/, I/PRP know/VBP what/WP I/PRP 'm/VBP seeing/VBG here/RB at/IN m-/PRP$ ,/, my/PRP$ job/NN is/VBZ that/IN people/NNS are/VBP having/VBG their/PRP$ children/NNS much/RB later/RBR in/IN life/NN --/:","{F Uh, } I know what I'm seeing here at [ m-, + my ] job <talking> is that people are having their children much later in life --"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"tha-/DT ,/,","tha-, -/"
++,A,--/: so/IN that/IN they/PRP 're/VBP establishing/VBG careers/NNS,-- so that they're establishing careers /
+sd,A,and/CC they/PRP 've/VBP got/VBN their/PRP$ homes/NNS,{C and } they've got their homes /
+%,A,"and/CC they/PRP 've/VBP got/VBN ,/,","{C and } they've got, -/"

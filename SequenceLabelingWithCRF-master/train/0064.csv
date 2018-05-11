@@ -1,0 +1,137 @@
+act_tag,speaker,pos,text
+sd,A,"Basically/RB ,/, uh/UH ,/, my/PRP$ husband/NN and/CC myself/PRP use/VBP the/DT credit/NN cards/NNS in/IN regards/NNS to/IN major/JJ purchases/NNS ./.","Basically, {F uh, } my husband and myself use the credit cards in regards to major purchases. /"
+sd,A,We/PRP really/RB do/VBP n't/RB get/VB into/IN small/JJ little/JJ purchases/NNS ./.,We really don't get into small little purchases. /
+sd,A,"If/IN we/PRP 're/VBP going/VBG to/TO purchase/VB something/NN quite/RB large/JJ we/PRP might/MD put/VB it/PRP on/IN a/DT credit/NN card/NN ,/,","If we're going to purchase something quite large we might put it on a credit card, /"
+sd,A,"but/CC ,/, other/JJ than/IN that/DT it/PRP 's/BES not/RB something/NN that/WDT we/PRP use/VBP a/DT lot/NN of/IN ./.","{C but, } other than that it's not something that we use a lot of. /"
+sd,A,"Uh/UH ,/, we/PRP may/MD have/VB only/RB two/CD or/CC three/CD versus/IN ,/, uh/UH ,/, I/PRP know/VBP a/DT lot/NN of/IN people/NNS have/VBP up/IN to/IN a/DT half/PDT a/DT dozen/NN or/CC ,/, uh/UH ,/, up/IN to/IN a/DT dozen/NN credit/NN cards/NNS ,/,","{F Uh, } we may have only two or three versus, {F uh, } I know a lot of people have up to a half a dozen or, {F uh, } up to a dozen credit cards, /"
+sd,A,"but/CC ,/, uh/UH ,/, ours/PRP are/VBP just/RB major/JJ credit/NN cards/NNS that/WDT we/PRP have/VBP and/CC ,/, uh/UH ,/, use/VBP ,/, uh/UH ,/, use/VBP only/RB when/WRB ,/, when/WRB we/PRP feel/VBP it/PRP 's/BES necessary/JJ to/TO make/VB a/DT big/JJ purchase/NN ./.","{C but, } {F uh, } ours are just major credit cards that we have and, {F uh, } [ use, + {F uh, } use ] only [ when + <noise>, when ] we feel it's necessary to make a big purchase. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+qy,B,is/VBZ that/DT like/IN Visa/NNP and/CC --/:,is that like Visa [ and + --
+ny,A,Yeah/UH ./.,Yeah. /
++,B,--/: and/CC Mastercard/NNP ./.,-- and ] Mastercard. /
+ny,A,Yeah/UH ./.,Yeah. /
+qy,B,"Do/VBP you/PRP have/VB department/NN store/NN credit/NN cards/NNS too/RB ,/,","Do you have department store credit cards too, /"
+%,B,"or/CC ,/,","{C or, } -/"
+ny,A,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,A,one/CD Sears/NNP ./.,one Sears. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Sears/NNP is/VBZ pretty/RB major/JJ with/IN us/PRP simply/RB because/IN we/PRP do/VBP ,/, uh/UH ,/,","Sears is pretty major with us simply because we do, {F uh, }"
+^2,B,Appliances/NNS ./.,Appliances. /
++,A,Appliances/NNS and/CC things/NNS like/IN that/DT,Appliances and things like that /
+sv,A,and/CC they/PRP 're/VBP real/RB good/JJ with/IN their/PRP$ appliance/NN and/CC stuff/NN like/IN that/DT,{C and } they're real good with their appliance and stuff like that /
+%,A,"so/RB ,/,","{C so, } -/"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"But/CC ,/, uh/UH ,/, we/PRP try/VBP to/TO avoid/VB them/PRP with/IN a/DT passion/NN because/IN of/IN the/DT percent/NN of/IN interest/NN rate/NN ./.","{C But, } {F uh, } we try to avoid them with a passion because of the percent of interest rate. /"
+sv,A,"If/IN you/PRP 've/VBP got/VBN the/DT cash/NN to/TO pay/VB for/IN something/NN ,/, it/PRP 's/BES better/JJR to/TO do/VB it/PRP that/DT way/NN than/IN versus/IN credit/NN cards/NNS ,/, unless/IN it/PRP 's/BES a/DT small/JJ enough/JJ sum/NN that/WDT you/PRP can/MD do/VB it/PRP within/IN a/DT two/CD ,/, three/CD month/NN period/NN ,/,","If you've got the cash to pay for something, it's better to do it that way than versus credit cards, unless it's a small enough sum that you can do it within a two, three month period, /"
+sv,A,but/CC --/:,{C but } --
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: if/IN it/PRP 's/BES ,/, uh/UH ,/, any/DT large/JJ purchases/NNS ,/, uh/UH ,/, you/PRP 've/VBP got/VBN to/TO kind/RB of/RB think/VBP about/IN ,/, uh/UH ,/, how/WRB much/JJ you/PRP 're/VBP going/VBG to/TO put/VB down/RB as/RB far/RB as/IN ,/, uh/UH ,/, payments/NNS on/IN it/PRP so/IN that/IN you/PRP 're/VBP not/RB getting/VBG eighteen/CD percent/NN or/CC --/:","-- if it's, {F uh, } any large purchases, {F uh, } you've got to kind of think about, {F uh, } how much you're going to put down as far as, {F uh, } payments on it so that you're not getting eighteen percent or --"
+b,B,Right/UH ./.,Right <throat_clearing>. /
++,A,"--/: twenty/CD percent/NN interest/NN taken/VBN off/IN ,/,","-- twenty percent interest taken off, /"
+%,A,"so/RB ,/,","{C so, } -/"
+sd,B,"My/PRP$ ,/, my/PRP$ husband/NN and/CC I/PRP do/VBP basically/RB the/DT same/JJ thing/NN ,/,","[ My, + my ] husband and I do basically the same thing, /"
+sd,B,"but/CC we/PRP ,/, we/PRP end/VBP up/RP sneaking/VBG a/DT few/NN in/IN there/RB that/WDT surprise/VBP us/PRP ./.","{C but } [ we, + we ] end up sneaking a few in there that surprise us. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,We/PRP still/RB pay/VBP it/PRP off/RP every/DT month/NN --/:,We still pay it off every month --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: if/IN it/PRP kills/VBZ us/PRP ./.,-- if it kills us <laughter>. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
+sd,B,"But/CC ,/, we/PRP do/VBP it/PRP mainly/RB for/IN ,/, you/PRP know/VBP ,/, the/DT cash/NN flow/NN ,/,","{C But, } we do it mainly for, {D you know, } the cash flow, /"
+t1,B,"what/WP is/VBZ that/DT ,/, oh/UH ,/, float/NN ./.","what is that, {F oh, } float. - /"
+sd,B,"That/DT 's/BES the/DT word/NN ,/, float/NN ./.","That's the word, float. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,"Sure/UH ,/,","Sure, /"
+b,A,sure/UH ./.,sure. /
+sd,B,"And/CC ,/, I/PRP often/RB will/MD keep/VB tra-/NN ,/, track/NN of/IN what/WP I/PRP 've/VBP charged/VBN and/CC sometimes/RB deduct/VB it/PRP from/IN my/PRP$ checkbook/NN --/:","{C And, } I often will keep [ tra-, + track ] of what I've charged and sometimes deduct it from my checkbook --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: already/RB ./.,-- already. /
+b,A,"Sure/UH ,/,","Sure, /"
+%,A,so/RB you/PRP know/VBP ./.,{C so } you know. /
+%,B,"And/CC sometimes/RB just/RB ,/,","{C And } sometimes just, - /"
+sd,B,and/CC keep/VB a/DT list/NN and/CC make/VB sure/JJ I/PRP --/:,{C and } keep a list and make sure [ I + <baby_crying> --
+b,A,Sure/UH ./.,Sure. /
+b,A,Yeah/UH ./.,Yeah. /
+aa,A,Exactly/UH ./.,Exactly. /
+b,B,Oh/UH ./.,Oh. /
+aa,A,Exactly/UH ./.,Exactly <noise>. /
+sd,B,"If/IN we/PRP go/VBP out/IN to/IN a/DT restaurant/NN ,/, oh/UH ,/, just/RB to/TO float/VB it/PRP ,/,","If we go out to a restaurant, {F oh, } just to float it, /"
+h,B,"or/CC ,/, I/PRP do/VBP n't/RB know/VB ./.","{C or, } I don't know. /"
+sv,A,"Or/CC ,/, if/IN it/PRP 's/BES a/DT business/NN transaction/NN --/:","{C Or, } if it's a business transaction --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: a/DT lot/NN of/IN times/NNS that/DT 's/BES important/JJ ,/, too/RB --/:","-- a lot of times that's important, too --"
+b,B,"Yes/UH ,/,","Yes, /"
+sd,B,"my/PRP$ husband/NN has/VBZ a/DT ,/, a/DT ,/,","my husband has [ a, + a, ] -/"
++,A,--/: to/TO keep/VB a/DT better/JJR receipt/NN of/IN it/PRP ./.,-- to keep a better receipt of it. /
+%,A,"So/RB ,/, yeah/UH ./.","{C So, } yeah. /"
+sd,B,"Or/CC anytime/RB like/IN a/DT plane/NN ticket/NN ,/, or/CC ,/, you/PRP know/VBP ,/,","{C Or } anytime like a plane ticket, or, {D you know } <throat_clearing>, -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Even/RB if/IN we/PRP have/VBP the/DT ,/,","Even if we have the, - /"
+sd,B,"I/PRP 'm/VBP sure/JJ we/PRP 'd/MD have/VB the/DT cash/NN before/IN we/PRP got/VBD it/PRP ,/,","I'm sure we'd have the cash before we got it, /"
+sd,B,but/CC --/:,{C but } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: the/DT float/NN --/:,-- the float --
+b,A,Sure/UH ./.,Sure. /
++,B,--/: for/IN more/JJR than/IN a/DT hundred/CD dollars/NNS seems/VBZ real/RB nice/JJ for/IN that/DT ./.,-- for more than a hundred dollars seems real nice for [ that. +
+b,A,"Oh/UH ,/, sure/UH ./.","{F Oh, } sure. /"
+^2,A,For/IN the/DT month/NN or/CC whatever/WDT ./.,For the month or whatever. /
++,B,That/DT thirty/CD days/NNS --/:,That ] thirty <baby_crying> days --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: or/CC whatever/WDT ./.,-- or whatever. /
+aa,A,Exactly/UH ./.,Exactly. /
+%,A,"So/RB ,/,","{C So, } -/"
+sd,B,We/PRP have/VBP a/DT new/JJ one/CD from/IN A/NNP T/NNP AND/CC T/NNP,We have a new one from A T AND T /
+sd,B,"and/CC we/PRP have/VBP ,/, you/PRP know/VBP ,/, have/VBP n't/RB used/VBN that/DT one/CD too/RB much/JJ ./.","{C and } we [ have, + {D you know, } haven't ] used that one too much <baby_crying>. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,yeah/UH ./.,yeah. /
+sv,B,"Be/VB interesting/JJ ,/,","Be interesting, /"
+sv,B,"that/DT 's/BES nice/JJ ,/, because/IN you/PRP can/MD use/VB it/PRP for/IN a/DT calling/NN card/NN also/RB ./.","that's nice, <baby_crying> because you can use it for a calling card also. /"
+aa,A,"Exactly/UH ,/,","Exactly, /"
+b,A,sure/UH ./.,sure. /
+sd,B,"It/PRP 's/BES a/DT Mastercard/NNP ,/, too/RB ,/,","It's a Mastercard, too, /"
+%,B,so/RB ./.,{C so } <baby_crying>. -/
+b,A,"Sure/UH ,/,","Sure, /"
+b,A,yeah/UH ./.,yeah. /
+sv,B,"It/PRP 's/BES kind/RB of/RB fun/JJ ,/, uh/UH ,/,","It's kind of fun, {F uh, } /"
+sd,B,but/CC you/PRP get/VBP a/DT lot/NN of/IN junk/NN mail/NN about/IN them/PRP ./.,<baby_crying> {C but } you get a lot of junk mail about them. /
+aa,A,"Oh/UH ,/, yeah/UH","{F Oh, } yeah /"
+sd,A,"and/CC you/PRP always/RB get/VBP these/DT preapproved/JJ ,/, uh/UH ,/, credit/NN card/NN things/NNS coming/VBG through/IN ,/, uh/UH ,/,","{C and } you always get these preapproved, {F uh, } credit card things coming through, {F uh, } /"
+^q,A,"your/PRP$ credit/NN is/VBZ great/JJ ,/,","your credit is great, /"
+^q,A,so/RB let/VB 's/PRP send/VB you/PRP another/DT credit/NN card/NN,{C so } let's send you another credit card /
+sd,A,or/CC --/:,{C or } --
+b,B,"Yeah/UH ,/,","Yeah, /"
+^q,B,you/PRP 're/VBP such/PDT a/DT --/:,you're such [ a + --
++,A,"--/: it/PRP 's/BES preapproved/JJ for/IN ,/,","-- it's preapproved for, -/"
++,B,--/: a/DT wonderful/JJ person/NN ./.,-- a ] wonderful person <laughter>. /
+sv,A,"That/DT 's/BES ,/, that/DT 's/BES to/TO entice/VB you/PRP to/TO get/VB more/JJR credit/NN cards/NNS ./.","[ That's, + that's ] to entice you to get more credit cards. /"
+^q,B,We/PRP 'll/MD give/VB you/PRP five/CD thousand/CD dollars/NNS --/:,We'll give you five thousand dollars --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: up/IN front/RB ./.,-- up front <laughter>. /
+sd,A,"And/CC so/RB ,/, you/PRP know/VBP ,/, we/PRP always/RB laugh/VBP about/IN that/DT because/IN it/PRP 's/BES quite/RB a/DT bit/NN ./.","{C And so, } {D you know, } we always laugh about that because it's quite a bit <baby_crying>. - /"
+sd,A,"I/PRP mean/VBP ,/, you/PRP know/VBP ,/, you/PRP always/RB constantly/RB getting/VBG those/DT preapproved/JJ stuff/NN ,/,","{E I mean, } {D you know, } you always constantly getting those preapproved stuff, /"
+%,A,so/RB ./.,{C so. } -/
+b,B,Right/UH ./.,Right. /
+qy,B,"Do/VBP you/PRP have/VB ,/, uh/UH ,/, an/DT annual/JJ fee/NN on/IN yours/PRP","Do you have, {F uh, } an annual fee on yours /"
+qrr,B,or/CC do/VBP you/PRP get/VB yours/PRP through/IN a/DT bank/NN,{C or } <baby_crying> do you get yours through a bank /
+%,B,"or/CC ,/,","{C or, } -/"
+sd,A,"Uh/UH ,/, ours/PRP is/VBZ through/IN a/DT bank/NN ,/, yeah/UH ./.","{F Uh, } ours is through a bank, yeah. *[[should they 'yeah' be a seperate slash unit?]]/"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,We/PRP had/VBD it/PRP a/DT long/JJ time/NN ago/RB through/IN a/DT bank/NN,We had it a long time ago through a bank /
+%,A,and/CC it/PRP just/RB a/DT,{C and } it just a <baby_crying> - /
+%,A,"but/CC ,/,","{C but, } -/"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"I/PRP ,/, I/PRP ca/MD n't/RB see/VB paying/VBG an/DT annual/JJ fee/NN for/IN it/PRP ./.","[ I, + I ] can't see paying an annual fee for it. /"
+sd,B,"I/PRP mean/VBP I/PRP almost/RB ,/,","{E I mean } I almost <baby_crying>, -/"
+sv,A,"Oh/UH ,/, you/PRP 're/VBP already/RB paying/VBG them/PRP ,/, uh/UH ,/, if/IN you/PRP 're/VBP ,/, if/IN you/PRP do/VBP n't/RB pay/VB it/PRP off/RP within/IN that/DT month/NN ,/, interest/NN ,/, anyway/RB ,/,","{F Oh, } you're already paying them, {F uh, } [ if you're, + if you ] don't pay it off within that month, interest, anyway, /"
+%,A,"so/RB ,/, yeah/UH ,/,","{C so, } yeah, /"
+sv,A,that/DT 's/BES exactly/RB it/PRP,that's exactly it /
+%,A,"so/RB ,/,","{C so, } -/"
+b,B,Yeah/UH ./.,<Baby_crying> Yeah. /
+fc,A,Okay/UH ./.,Okay. /
+fc,B,"Well/UH ,/, it/PRP sounds/VBZ like/IN I/PRP 'm/VBP being/VBG paged/VBN otherwise/RB ./.","{D Well, } it sounds like I'm being paged otherwise. /"
+fc,A,Okay/UH ./.,Okay. /
+fc,B,So/UH ./.,{D So } <laughter>. -/
+fc,A,"All/RB right/JJ ,/,","All right, /"
+fc,A,thanks/NNS a/DT lot/NN ./.,thanks a lot. /
+fc,B,Good/JJ talking/VBG to/IN you/PRP ./.,Good talking to you. /
+fc,A,Bye/UH now/RB ./.,Bye now. /

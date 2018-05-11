@@ -1,0 +1,202 @@
+act_tag,speaker,pos,text
+fp,A,Good/JJ morning/NN ./.,Good morning. /
+fp,B,Good/JJ morning/NN ./.,Good morning. /
+%,B,"Uh/UH ,/, okay/UH ,/,","{F Uh, } okay, /"
+ad,B,go/VB ahead/RB ./.,go ahead. /
+ar,A,"MUMBLEx/XX ,/, no/UH ,/,","(( )) , no, /"
+ar,A,"no/UH ,/,","no, /"
+ad,A,go/VB ahead/RB ./.,go ahead. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP understand/VBP the/DT topic/NN this/DT morning/NN is/VBZ ,/, uh/UH ,/, our/PRP$ policy/NN in/IN Latin/NNP America/NNP and/CC ,/, you/PRP know/VBP ,/, what/WP we/PRP 've/VBP been/VBN doing/VBG down/IN there/RB ./.","I understand the topic this morning is, {F uh, } our policy in Latin America and, {D you know, } what we've been doing down there. /"
+bf,B,"So/UH ,/, uh/UH ,/, as/IN you/PRP indicated/VBD you/PRP do/VBP n't/RB have/VB too/RB much/JJ input/NN into/IN the/DT area/NN","{C So, } {F uh, } as you indicated you don't have too much input into the area /"
+sd,B,"it/PRP ,/, it/PRP just/RB so/RB happens/VBZ that/IN ,/, uh/UH ,/, our/PRP$ daughter-in-law/NN is/VBZ Panamanian/JJ ,/,","[ it, + it ] just so happens that, {F uh, } our daughter-in-law is Panamanian, /"
+sd,B,"and/CC ,/, uh/UH ,/, we/PRP have/VBP been/VBN in/IN Panama/NNP","{C and, } {F uh, } we have been in Panama /"
+sd,B,and/CC I/PRP have/VBP worked/VBN in/IN El/NNP Salvador/NNP,{C and } I have worked in El Salvador /
+sd,B,"and/CC ,/, uh/UH ,/, we/PRP visit/VBP Mexico/NNP occasionally/RB ,/,","{C and, } {F uh, } we visit Mexico occasionally, /"
+%,B,"so/RB ,/, ,/, yeah/UH ,/,","{C so, } <laughter>, yeah, /"
+sd,B,"we/PRP ,/, we/PRP do/VBP have/VB a/DT little/JJ information/NN on/IN it/PRP here/RB ,/,","[ we, + we ] do have a little information on it here, /"
+%,B,"but/CC ,/, uh/UH ,/,","{C but, } {F uh, } -/"
+ba,A,"Oh/UH ,/, very/RB good/JJ ,/,","{F Oh, } very good, /"
+sd,A,"because/IN actually/UH ,/, um/UH ,/, when/WRB I/PRP was/VBD in/IN college/NN I/PRP visited/VBD Mexico/NNP several/JJ times/NNS ,/,","{C because } {D actually, } {F um, } when I was in college I visited Mexico several times, /"
+sd,A,"I/PRP was/VBD in/IN the/DT Peace/NNP Corps/NNP and/CC ,/, um/UH ,/,","I was in the Peace Corps and, {F um, }"
+b,B,"Oh/UH ,/, uh-huh/UH","{F Oh, } uh-huh /"
+x,B,./.,<<very faint>>. /
++,A,"Peru/NNP ,/,","Peru, /"
+sd,A,"but/CC ,/, but/CC recently/RB I/PRP have/VBP been/VBN following/VBG the/DT Middle/NNP East/NNP rather/IN than/IN ,/,","[ {C but, } + {C but } ] recently I have been following the Middle East rather than,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,Central/NNP America/NNP ./.,Central America <<very faint>>. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,it/PRP does/VBZ seem/VB to/TO have/VB quieted/VBN down/RP there/RB just/RB a/DT little/JJ bit/NN,it does seem to have quieted down there just a little bit /
+ba,B,"that/DT 's/BES ,/, that/DT 's/BES for/IN sure/JJ ./.","[ that's, + that's ] for sure. /"
+nn,B,"No/UH ,/,","No, /"
+%,B,"I/PRP ,/,","I, - /"
+%,B,"the/DT U/NNP S/NNP policy/NN ,/, uh/UH ,/, towards/IN Central/NNP America/NNP as/RB far/RB as/IN ,/, uh/UH ,/,","the U S policy, {F uh, } towards Central America as far as, {F uh, } - /"
+sd,B,"well/RB ,/, I/PRP kind/RB of/RB go/VBP back/RB to/IN ,/, to/IN the/DT El/NNP Salvador/NNP thing/NN because/IN Texas/NNP Instruments/NNPS had/VBD a/DT ,/, a/DT plant/NN down/IN there/RB for/IN a/DT while/NN ,/,","{D well, } I kind of go back [ to, + to ] the El Salvador thing because Texas Instruments had [ a, + a ] plant down there for a while, /"
+sd,B,"and/CC I/PRP worked/VBD in/IN there/RB for/IN a/DT little/JJ while/NN ,/,","{C and } I worked in there for a little while, /"
+sd,B,"and/CC at/IN that/DT particular/JJ time/NN ,/,","{C and } at that particular time, - /"
+^h,B,"let/VB 's/PRP ,/, let/VB 's/PRP see/VB ,/,","[ let's, + let's ] see, /"
+sd,B,"that/DT was/VBD seventy-three/CD ,/, seventy-four/CD kind/RB of/RB before/IN the/DT ,/, the/DT ,/, uh/UH ,/, the/DT Civil/NNP War/NNP really/RB picked/VBD up/RP down/IN there/RB ,/,","that was seventy-three, seventy-four kind of before [ the, + the, ] {F uh, } the Civil War really picked up down there, /"
+sd,B,"and/CC U/NNP S/NNP policy/NN at/IN that/DT particular/JJ time/NN there/RB was/VBD ,/, of/IN course/NN ,/, military/JJ assistance/NN to/IN ,/, uh/UH ,/, to/IN the/DT government/NN itself/PRP ,/, you/PRP know/VBP ,/,","{C and } U S policy at that particular time there was, of course, military assistance [ to, + {F uh, } to ] the government itself, {D you know, } /"
+sd,B,"anything/NN that/WDT 's/BES ,/, that/WDT 's/BES anti-Communist/JJ ,/, you/PRP know/VBP ,/, we/PRP kind/RB of/RB had/VBD a/DT tendency/NN to/TO be/VB pro/JJ ./.","anything [ that's, + that's ] anti-Communist, {D you know, } we kind of had a tendency to be pro <laughter>. /"
+b,A,Right/UH ./.,Right. /
+sd,B,"It/PRP do/VBZ n't/RB matter/VB what/WP their/PRP$ excesses/NNS were/VBD ,/,","It don't matter what their excesses were, /"
+sd,B,"and/CC I/PRP believe/VBP at/IN the/DT time/NN that/WDT I/PRP was/VBD down/IN there/RB ,/, that/IN ,/, uh/UH ,/, the/DT government/NN ,/, uh/UH ,/, the/DT Salvadorian/JJ government/NN MUMBLEx/XX you/PRP know/VBP ,/, really/RB gotten/VBN out/IN of/IN hand/NN yet/CC ,/,","{C and } I believe at the time that I was down there, that, {F uh, } [ the government, + {F uh, } the Salvadorian government ] (( )) {D you know, } really gotten out of hand yet, /"
+sd,B,"the/DT ,/, uh/UH ,/, right/JJ wing/NN death/NN squad/NN type/NN situation/NN","the, {F uh, } (( right wing death squad )) type situation - /"
+sd,B,"I/PRP believe/VBP that/IN ,/, that/DT was/VBD beginning/VBG to/TO form/VB","I believe that, that was beginning to form /"
+sd,B,"but/CC I/PRP do/VBP n't/RB ,/, I/PRP ,/, I/PRP was/VBD n't/RB really/RB aware/JJ of/IN it/GW 's/^PRP$ being/VBG ,/, you/PRP know/VBP ,/, terribly/RB ,/, uh/UH ,/, you/PRP know/VBP ,/, MUMBLEx/XX at/IN the/DT time/NN that/WDT ,/, that/WDT I/PRP was/VBD down/IN there/RB ,/,","{C but } [ [ I don't, + I, ] + I wasn't ] really aware of it's being, {D you know, } terribly, {F uh, } {D you know, } (( )) at the time [ that, + that ] I was down there, /"
+sd,B,"I/PRP think/VBP that/DT really/RB kind/RB of/RB developed/VBD a/DT little/JJ bit/NN later/RB on/RP ,/,","I think that really kind of developed a little bit later on, /"
+sd,B,"but/CC ,/, uh/UH ,/, our/PRP$ policies/NNS seem/VBP to/TO be/VB pretty/RB much/JJ one/CD of/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, trying/VBG to/TO setup/^VB^RP businesses/NNS down/RB there/RB and/CC use/VB the/DT one/CD resource/NN ,/, anyway/RB ,/, that/WDT Salvador/NNP had/VBD ,/, ,/,","{C but, } {F uh, } our policies seem to be pretty much one of, {F uh, } {D you know, } trying to setup businesses down there and use the one resource, anyway, that Salvador had, <throat_clearing>, /"
+sd,B,plenty/NN of/IN and/CC that/DT was/VBD people/NNS ./.,[ plenty of + {C and } that was people. /
+b,A,Right/UH ./.,Right. /
+sd,B,"We/PRP did/VBD n't/RB seem/VB to/TO be/VB going/VBG in/RB and/CC taking/VBG anything/NN out/IN of/IN the/DT country/NN other/JJ than/IN just/RB it/GW 's/^PRP$ ,/, it/GW 's/^PRP$ labor/NN ,/,","We didn't seem to be going in and taking anything out of the country other than just [ it's, + it's ] labor, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"because/IN everything/NN that/WDT T/NNP I/NNP did/VBD anyway/RB we/PRP ,/, we/PRP shipped/VBD in/RB","{C because } everything that T I did anyway [ we, + we ] shipped in /"
+sd,B,"and/CC it/PRP was/VBD worked/VBN on/RP down/IN there/RB ,/, assembled/VBN ,/, and/CC then/RB sent/VBN back/RB here/RB ,/,","{C and } it was worked on down there, assembled, and then sent back here, /"
+%,B,"so/RB ,/,","{C so, } -/"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+qy,A,"did/VBD that/DT have/VB ,/,","did that have, -/"
+sd,B,"I/PRP did/VBD n't/RB feel/VB that/IN we/PRP really/RB ex-/XX ,/, exploiting/VBG them/PRP any/DT ./.","I didn't feel that we really [ ex-, + exploiting ] them any. /"
+bf,A,"Um/UH ,/, so/RB ,/, you/PRP do/VBP n't/RB ,/, you/PRP do/VBP n't/RB feel/VB that/IN ,/, that/IN we/PRP were/VBD ,/, um/UH ,/, exploiting/VBG in/IN the/DT sense/NN of/IN we/PRP were/VBD benefiting/VBG","{F Um, } {C so, } [ you don't, + you don't ] feel [ that, + that ] we were, {F um, } exploiting in the sense of we were benefiting /"
+bf,A,and/CC they/PRP were/VBD n't/RB ./.,{C and } they weren't. /
+aa,B,"No/UH ,/, uh/UH ,/,","No, {F uh, } /"
+sd,B,"in/IN the/DT particular/JJ incidence/^NNS that/WDT I/PRP was/VBD aware/JJ of/IN ,/, now/UH T/NNP I/NNP was/VBD n't/RB the/DT only/JJ ones/NNS in/IN there/RB ,/,","in the particular incidence that I was aware of, (( {D now } )) T I wasn't the only ones in there, /"
+sd,B,"Playtex/NNP was/VBD in/RB ,/,","Playtex was in, /"
+sd,B,"there/EX was/VBD ,/, uh/UH ,/, several/JJ other/JJ companies/NNS ,/,","there was, {F uh, } several other companies, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"and/CC ,/, uh/UH ,/, of/IN course/NN ,/, we/PRP kind/RB of/RB concentrate/VBP on/IN MUMBLEx/XX ,/,","{C and, } {F uh, } of course, we kind of concentrate on (( )) , /"
+sd,B,there/EX was/VBD n't/RB much/JJ to/TO take/VB out/IN of/IN the/DT country/NN,there wasn't much to take out of the country /
+sd,B,"MUMBLEx/XX I/PRP felt/VBD like/IN we/PRP 're/VBP going/VBG in/RB and/CC taken/^VBG all/DT their/PRP$ ,/, um/UH ,/, their/PRP$ gold/NN or/CC oil/NN ,/,","(( )) I felt like we're going in and taken all [ their, + {F um, } their ] gold or oil,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"or/CC bananas/NNS or/CC coffee/NN or/CC anything/NN like/IN that/DT ,/,","or bananas or coffee or anything like that, /"
+%,B,"because/IN ,/, uh/UH ,/, it/PRP just/RB ,/,","{C because, } {F uh, } it just, - /"
+sd,B,"the/DT only/JJ thing/NN that/WDT they/PRP had/VBD a/DT great/JJ abundance/NN of/IN was/VBD ,/, uh/UH ,/, you/PRP know/VBP ,/, human/JJ beings/NNS","the only thing that they had a great abundance of was, {F uh, } {D you know, } human beings <laughter> /"
+%,B,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"Di/VBD ,/, did/VBD we/PRP tend/VB to/TO ,/, um/UH ,/, change/VB their/PRP$ attitu-/XX ,/, attitudes/NNS","[ Di-, + did ] we tend to, {F um, } change their [ attitu-, + attitudes ] /"
+sv,A,"like/IN sometimes/RB when/WRB Americans/NNPS go/VBP into/IN foreign/JJ countries/NNS they/PRP tend/VBP to/TO flaunt/VB American/JJ things/NNS ,/, Americanism/NNP ,/, um/UH ,/, consumer/NN products/NNS ,/, T/NN V/NN ,/, the/DT whole/JJ works/NNS ./.","{D like } sometimes when Americans go into foreign countries they tend to flaunt American things, Americanism, {F um, } consumer products, T V, the whole works. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+ba,B,I/PRP understand/VBP what/WP you/PRP say/VBP ./.,I understand what you say. /
+%,B,"There/EX was/VBD a/DT ,/, uh/UH ,/,","There was a, {F uh, } - /"
+sd,B,"the/DT time/NN that/WDT I/PRP was/VBD down/IN there/RB ,/, I/PRP stayed/VBD quite/PDT a/DT ,/, a/DT bit/NN at/IN the/DT ,/, uh/UH ,/, uh/UH ,/, one/CD of/IN the/DT big/JJ hotels/NNS San/NNP Salvador/NNP ./.","the time that I was down there, I stayed quite [ a, + a ] bit at [ the, + {F uh, } {F uh, } one of the ] big hotels (( San )) Salvador. /"
+sd,B,"And/CC at/IN the/DT time/NN I/PRP thought/VBD there/EX ought/MD to/TO be/VB a/DT law/NN against/IN American/JJ tourists/NNS ./. Because/IN they/PRP ,/, for/IN the/DT most/JJS part/NN ,/, tend/VBP to/TO be/VB the/DT most/RBS obnoxious/JJ as/IN a/DT ,/, as/IN a/DT group/NN ,/,","{C And } at the time I thought there ought to be a law against American tourists. Because they, for the most part, tend to be the most obnoxious [ as a, + as a ] group, /"
+sd,B,"and/CC I/PRP saw/VBD this/DT in/NN Panama/NNP also/RB ,/,","{C and } I saw this in Panama also, /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"uh/UH ,/, oh/UH ,/, you/PRP know/VBP ,/, it/PRP 's/BES ,/, it/PRP 's/BES the/DT ,/, uh/UH ,/, the/DT almost/JJ stereotype/NN ,/, you/PRP know/VBP ,/,","{F uh, } {F oh, } {D you know, } [ it's, + it's ] [ the, + {F uh, } the ] almost stereotype, {D you know, } /"
+sv,B,"flowery/JJ shirt/NN ,/, shorts/NNS ,/, camera/NN hanging/VBG around/IN their/PRP$ neck/NN ,/, you/PRP know/VBP ,/, demanding/VBG this/DT ,/, that/DT and/CC the/DT other/JJ thing/NN ,/, you/PRP know/VBP ,/,","flowery shirt, shorts, camera hanging around their neck, {D you know, } demanding (( this, that and the other )) thing, {D you know, } /"
+^q,B,"we/PRP 're/VBP ,/, we/PRP 're/VBP here/RB ,/,","[ we're, + we're ] here, /"
+^q,B,"and/CC we/PRP want/VBP this/DT ,/,","{C and } we want this, /"
+^q,B,"and/CC we/PRP want/VBP that/IN ,/,","{C and } we want that, /"
+sd,B,"and/CC that/DT sort/NN of/IN thing/NN ,/,","and that sort of thing, /"
+sd,B,"that/DT 's/BES ,/, that/DT 's/BES the/DT stereotype/NN that/WDT 's/BES very/RB strong/JJ down/IN there/RB ,/, you/PRP know/VBP ,/,","[ that's, + that's ] the stereotype that's very strong down there, {D you know, } /"
+sd,B,"the/DT ,/, the/DT ,/, the/DT ,/, you/PRP know/VBP ,/, that/DT sort/NN of/IN thing/NN ,/,","[ [ [ the, + the, ] + the, ] + {D you know, } that ] sort of thing, /"
+sd,B,"I/PRP ,/, I/PRP ,/, I/PRP believe/VBP those/DT of/IN us/PRP who/WP were/VBD working/VBG down/IN there/RB ,/, got/VBD a/DT little/JJ bit/NN more/JJR appreciation/NN for/IN ,/, you/PRP know/VBP ,/, the/DT local/JJ ,/, uh/UH ,/, culture/NN MUMBLEx/XX","[ [ I, + I, ] + I ] believe those of us who were working down there, got a little bit more appreciation for, {D you know, } the local, {F uh, } culture (( )) /"
+sd,B,"I/PRP really/RB do/VBP n't/RB believe/VB that/IN we/PRP were/VBD quite/RB that/RB bad/JJ ,/,","I really don't believe that we were quite that bad, /"
+sd,B,"but/CC yet/RB they/PRP were/VBD having/VBG to/TO deal/VB directly/RB with/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, with/IN the/DT ,/, uh/UH ,/, the/DT local/JJ people/NNS ./.","{C but } yet they were having to deal directly [ with, + {F uh, } {D you know, } with ] [ the, + {F uh, } the ] local people. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+ba,B,"And/CC ,/, uh/UH ,/, but/CC boy/UH","[ {C And, } + {F uh, } {C but } ] boy /"
+sd,B,"there/EX is/VBZ a/DT ,/, there/EX is/VBZ a/DT bad/JJ ,/, uh/UH ,/, uh/UH ,/, you/PRP know/VBP ,/, the/DT old/JJ brash/JJ or/CC ugly/JJ American-type/NNP ,/,","[ there is a, + there is [ a bad, + {F uh, } {F uh, } {D you know, } the old ] ] brash or ugly American-type,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,situation/NN ./.,situation. /
+sd,B,"And/CC I/PRP saw/VBD incidences/NNS in/IN the/DT hotel/NN where/WRB I/PRP just/RB wanted/VBD to/TO go/VB over/RB and/CC crawl/VB in/IN the/DT corner/NN and/CC say/VB ,/, oh/UH ,/, my/PRP$ God/NNP","{C And } I saw incidences in the hotel where I just wanted to go over and crawl in the corner and say, {F oh, } my God /"
+^q,B,"those/DT are/VBP ,/, those/DT are/VBP not/RB Americans/NNPS","[ those are, + those are ] not Americans <laughter> /"
+^q,B,they/PRP ca/MD n't/RB be/VB ./.,they can't be. /
+b,A,Right/UH ./.,Right. /
+^q,B,But/CC there/EX are/VBP,{C But } there are /
+sd,B,"and/CC ,/, uh/UH ,/, of/IN course/NN ,/, now/UH I/PRP ,/, I/PRP do/VBP have/VB to/TO ,/, I/PRP remember/VBP one/CD case/NN where/WRB we/PRP had/VBD some/DT Canadians/NNPS in/IN there/RB who/WP were/VBD every/DT bit/NN as/RB bad/JJ ,/,","{C and, } {F uh, } of course, {D now } [ [ I, + I do have to, ] + I remember ] one case where we had some Canadians in there who were every bit as bad, /"
+sd,B,"but/CC I/PRP mean/VBP ,/, it/PRP ,/, I/PRP think/VBP it/PRP 's/BES just/RB kind/RB of/RB the/DT North/JJ American/JJ situation/NN MUMBLEx/XX ./.","{C but } {E I mean, } [ it, + I think it's ] just kind of the North American situation (( )) . /"
+sd,B,In/IN Panama/NNP they/PRP 've/VBP been/VBN used/VBN to/IN Americans/NNPS down/IN there/RB for/IN so/RB darn/JJ long/JJ,In Panama they've been used to Americans down there for so darn long /
+sd,B,"but/CC I/PRP did/VBD n't/RB see/VB quite/RB as/RB much/JJ of/IN that/DT sort/NN of/IN thing/NN ,/, as/IN Panamanians/NNS are/VBP just/RB about/RB as/RB ,/, as/RB ,/, uh/UH ,/, as/RB MUMBLEx/XX as/IN Americans/NNPS ,/, as/RB far/RB as/IN ,/, uh/UH ,/, creature/NN comforts/NNS ,/, you/PRP know/VBP ,/,","{C but } I didn't see quite as much of that sort of thing, as Panamanians are just about [ [ as + <laughter>, as, ] + {F uh, } as ] (( )) as Americans, as far as, {F uh, } creature comforts, {D you know, } /"
+%,B,"they/PRP 're/VBP ,/, uh/UH ,/, they/PRP 're/VBP ,/, they/PRP 're/VBP every/DT bit/NN ,/, uh/UH ,/,","[ [ they're, + {F uh, } they're, ] + they're ] every bit, {F uh, } - /"
+sd,B,"I/PRP ,/, I/PRP know/VBP ,/, when/WRB ,/, my/PRP$ ,/, my/PRP$ son/NN was/VBD in/IN the/DT Air/NNP Force/NNP","[ I, + I ] know, when, [ my, + my ] son was in the Air Force - /"
+sd,B,"and/CC he/PRP was/VBD stationed/VBN in/IN Panama/NNP ,/,","{C and } he was stationed in Panama, /"
+sd,B,"and/CC he/PRP married/VBD a/DT Panamanian/JJ girl/NN ,/,","{C and } he married a Panamanian girl, /"
+sd,B,"and/CC when/WRB she/PRP came/VBD up/IN here/RB ,/, uh/UH ,/, you/PRP know/VBP ,/,","{C and } when she came up here, {F uh, } {D you know, } - /"
+sd,B,"she/PRP 's/BES ,/, y-/XX ,/, kn-/XX ,/, except/IN for/IN the/DT language/NN situation/NN ,/, some/DT of/IN the/DT cultures/NNS she/PRP 's/BES just/RB about/RB an/DT American/NNP ,/,","[ she's, + [ [ y-, + kn-, ] + except ] for the language situation, some of the (( cultures )) she's ] just about an American,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"you/PRP know/VBP ,/, is/VBZ as/RB far/RB as/IN T/NN V/NN and/CC ,/, and/CC ,/, you/PRP know/VBP ,/, the/DT ,/, the/DT moneymaking/NN part/NN of/IN it/PRP and/CC all/PDT that/DT ,/,","{D you know, } [ is + as ] far as T V [ and, + and, ] {D you know, } [ the, + the ] moneymaking part of it and all that, /"
+sd,B,"matter/NN of/IN fact/NN if/IN anything/NN ,/, she/PRP 's/BES worse/JJR ./.","matter of fact if anything, she's worse. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh <<very faint>>. /
+sd,B,"But/CC ,/, uh/UH ,/, uh/UH ,/, it/PRP ,/, it/PRP just/RB ,/, there/EX 's/BES little/JJ enclaves/NNS down/IN there/RB where/WRB ,/, you/PRP know/VBP ,/, Americans/NNPS have/VBP a/DT lot/NN of/IN influence/NN","<Laughter> {C But, } {F uh, } {F uh, } [ [ it, + it just, ] + there's ] little (( enclaves )) down there where, {D you know, } Americans (( have )) a lot of influence /"
+sd,B,"and/CC the/DT local/JJ population/NN kind/RB of/RB ,/, um/UH ,/, you/PRP know/VBP ,/, sort/RB of/RB accepts/VBZ that/DT ,/,","{C and } the local population kind of, {F um, } {D you know, } sort of accepts that, /"
+sd,B,"but/CC I/PRP 've/VBP also/RB seen/VBN the/DT other/JJ side/NN of/IN it/PRP ,/, too/RB ./.","{C but } I've also seen the other side of it, too. /"
+b,A,Uh-huh/UH ./.,Uh-huh <<very faint>>. /
+qy,B,"Well/UH ,/, you/PRP were/VBD in/IN Peru/NNP ?/.","{D Well, } you were in Peru? /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP was/VBD in/IN Peru/NNP ,/,","I was in Peru, /"
+sd,A,"but/CC ,/, um/UH ,/, I/PRP ,/, there/EX were/VBD n't/RB ,/, as/IN I/PRP recall/VBP ,/, or/CC at/IN least/JJS I/PRP was/VBD n't/RB aware/JJ of/IN that/RB many/JJ Americans/NNPS there/RB except/IN for/IN a/DT very/RB heavy/JJ concentration/NN of/IN Peace/NNP Corps/NNP volunteers/NNS ,/,","{C but, } {F um, } [ [ I, + there weren't, as I recall, ] + {E or at least } I wasn't aware of ] that many Americans there except for a very heavy concentration of Peace Corps volunteers, /"
+b,B,Uh-huh/UH ./.,Uh-huh <<very faint>>. /
+sd,A,"this/DT was/VBD when/WRB the/DT Peace/NNP Corps/NNP first/RB are/VBP started/VBN ,/,","this was when the Peace Corps first are started, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,and/CC it/PRP was/VBD one/CD of/IN the/DT big/JJ targets/NNS,{C and } it was one of the big targets /
+sd,A,"and/CC ,/, um/UH ,/, I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB think/VB ,/, at/IN that/DT time/NN ,/, at/IN least/JJS ,/, Peace/NNP Corps/NNP was/VBD ,/, uh/UH ,/, an/DT obnoxious/JJ group/NN in/IN the/DT sense/NN that/IN ,/, that/IN we/PRP were/VBD very/RB controlled/VBN regarding/VBG number/NN of/IN days/NNS off/RP","{C and, } {F um, } [ I don't, + I don't ] think, at that time, at least, Peace Corps was, {F uh, } an obnoxious group in the sense [ that, + that ] we were very controlled regarding number of days off /"
+sd,A,"and/CC ,/,","[ {C and, } +"
+b,B,Oh/UH ./.,Oh. /
++,A,"and/CC you/PRP could/MD n't/RB just/RB ,/, take/VB up/RP ,/, take/VB off/RP and/CC leave/VB your/PRP$ group/NN and/CC go/VB explore/VB and/CC ,/, and/CC things/NNS like/IN that/DT ,/,","{C and } ] you couldn't just, [ take up, + take off ] and leave your group and go explore [ and, + and ] things like that, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"but/CC ,/, and/CC I/PRP was/VBD working/VBG actually/UH in/IN the/DT savings/NNS and/CC loan/NN program/NN ,/,","[ {C but, } + {C and } ] I was working actually in the savings and loan program, /"
+sd,A,"so/RB ,/, that/DT was/VBD quite/RB specialized/JJ ,/,","{C so, } that was quite specialized, /"
+sd,A,"although/IN I/PRP was/VBD living/VBG in/IN the/DT slums/NNS ,/, I/PRP was/VBD really/RB working/VBG with/IN the/DT middle/NN class/NN ./.","although I was living in the slums, I was really working with the middle class. /"
+b,B,Uh-huh/UH ./.,Uh-huh <<very faint>>. /
+qw,B,"What/WP ,/, uh/UH ,/, what/WP area/NN did/VBD you/PRP live/VB in/IN ?/.","[ What, + {F uh, } what ] area (( did )) you live in? /"
+sd,A,I/PRP was/VBD up/IN in/IN Arequipa/NNP ./.,I was up in (( Arequipa )) . /
+bk,B,"Oh/UH ,/, okay/UH","(( {F Oh, } okay )) /"
+%,B,yeah/UH ./.,yeah. /
+%,A,"And/CC ,/, um/UH ,/,","{C And, } {F um } <<very faint>>, -/"
+sd,B,I/PRP 've/VBP heard/VBN of/IN it/PRP ./.,I've heard of it. /
+b,A,Uh-huh/UH,Uh-huh <<very faint>> /
+%,A,so/UH ./.,{C so. } -/
+qy,B,"Well/UH ,/, is/VBZ ,/, are/VBP they/PRP ,/, is/VBZ Peace/NNP Corps/NNP still/RB active/JJ down/IN in/IN there/RB ?/.","{D Well, } [ [ is, + are they, ] + is Peace Corps ] still active down in there? /"
+no,A,"I/PRP do/VBP n't/RB have/VB any/DT idea/NN ,/, um/UH ,/,","I don't have any idea, {F um, } /"
+ng,A,"probably/RB not/RB ,/,","probably not, /"
+sd,A,"I/PRP mean/VBP ,/, there/EX were/VBD thir-/CD ,/, I/PRP was/VBD ,/, uh/UH ,/, Per-/XX ,/, Peru/NNP thirteen/CD ,/, which/WDT meant/VBD there/EX were/VBD twelve/CD groups/NNS before/IN mine/PRP ,/,","{E I mean, } [ there were thir-, + I was, {F uh, } [ Per-, + Peru ] thirteen, ] which meant there were twelve groups before mine,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,that/WDT had/VBD gone/VBN in/RB,that had gone in /
+sd,A,"and/CC ,/, and/CC some/DT of/IN them/PRP were/VBD quite/RB big/JJ in/IN the/DT sense/NN they/PRP were/VBD community/NN development/NN ,/,","[ {C and, } + {C and } ] some of them were quite big in the sense they were community development, /"
+sd,A,"and/CC they/PRP were/VBD building/VBG schools/NNS and/CC doing/VBG co-ops/NN and/CC things/NNS like/IN that/DT ,/,","{C and } they were building schools and doing co-ops and things like that, /"
+sd,A,"health/NN ,/, um/UH ,/, inoculation/NN and/CC ,/, and/CC things/NNS ./.","health, {F um, } inoculation [ and, + and ] things. /"
+qy,B,"Oh/UH ,/, has/VBZ those/DT influences/NNS lasted/VBN MUMBLEx/XX","{F Oh, } has those influences lasted (( )) /"
+qy,B,"do/VBP you/PRP know/VB whether/IN the/DT ,/, the/DT things/NNS that/WDT ,/, that/WDT you/PRP and/CC your/PRP$ groups/NNS before/IN you/PRP did/VBD ,/, did/VBD those/DT ,/, did/VBD those/DT live/VB on/RP","do you know whether [ the, + the ] things [ that, + that ] you and your groups before you did, [ did those, + did those ] live on /"
+qrr,B,or/CC were/VBD they/PRP reabsorbed/VBN,{C or } were they reabsorbed /
+%,B,"or/CC how/WRB ,/,","{C or } how, -/"
+nn,A,"No/UH ,/,","No, /"
+nn,A,"no/UH ,/,","no, /"
+sd,A,I/PRP believe/VBP they/PRP did/VBD,I believe they did /
+sd,A,"because/IN ,/, um/UH ,/, some/DT of/IN ,/, some/DT of/IN the/DT ,/, the/DT Peace/NNP Corps/NNP ,/, uh/UH ,/, that/WDT I/PRP knew/VBD of/IN ,/, did/VBD marry/VB Peruvians/NNPS ,/,","{C because, } {F um, } [ some of, + some of ] [ the, + the ] Peace Corps, {F uh, } that I knew of, did marry Peruvians,"
+b,B,Uh-huh/UH ./.,Uh-huh <<very faint>>. /
++,A,and/CC have/VBP been/VBN back/RB,and have been back /
+sd,A,"and/CC every/DT now/RB and/CC then/RB some/DT news/NN filters/VBP in/RB that/WDT they/PRP went/VBD to/TO see/VB some/DT of/IN the/DT old/JJ things/NNS ,/,","{C and } every now and then some news filters in that they went to see some of the old things, /"
+sd,A,"and/CC of/IN course/NN ,/, the/DT savings/NNS and/CC loan/NN program/NN ,/, um/UH ,/, that/DT was/VBD ,/, that/DT ,/, you/PRP know/VBP ,/, that/DT ,/, that/DT just/RB continued/VBD to/TO grow/VB ./.","and of course, the savings and loan program, {F um, } [ [ [ that was, + that, ] + {D you know, } that, ] + that ] just continued to grow. /"
+sd,A,"In/IN fact/NN ,/, after/IN my/PRP$ group/NN ,/,","In fact, after my group, - /"
+sd,A,"I/PRP mean/VBP ,/, we/PRP were/VBD just/RB a/DT very/RB small/JJ specialized/JJ group/NN ,/, too/RB ,/, to/TO get/VB that/DT going/VBG and/CC spread/VBN","{E I mean, } we were just a very small specialized group, too, to get that going and spread /"
+sd,A,"and/CC then/RB ,/, of/IN course/NN ,/, Peace/NNP Corps/NNP bowed/VBD out/IN of/IN that/DT because/IN that/DT 's/BES ,/, uh/UH ,/, uh/UH ,/, something/NN that/WDT nationalized/VBD very/RB quickly/RB ./.","{C and then, } of course, Peace Corps bowed out of that because that's, {F uh, } {F uh, } something that nationalized very quickly. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,And/CC the/DT same/JJ with/IN the/DT co-ops/NNS ./.,And the same with the co-ops. /
+bf,B,"Well/UH ,/, that/DT 's/BES ,/, that/WDT was/VBD kind/RB of/RB the/DT ,/, the/DT aim/NN was/VBD n't/RB it/PRP ,/, to/TO get/VB it/PRP started/VBN and/CC then/RB have/VB it/PRP ,/,","{D Well, } [ that's, + that ] was kind of [ the, + the ] aim wasn't it, to get it started and then have it,"
+aa,A,Right/UH ./.,Right. /
++,B,"taken/VBN up/RP by/IN the/DT ,/,","taken up by the, - /"
+%,B,"oh/UH ,/, okay/UH ,/,","{F oh, } okay, /"
+%,B,"o-/XX ,/, so/RB ,/, you/PRP know/VBP ,/, well/UH ,/, that/DT 's/BES ,/,","[ o-, + ] {D so, } {D you know, } {D well, } that's, - /"
+sd,B,"I/PRP had/VBD wondered/VBN sometimes/RB ,/,","I had wondered sometimes, /"
+sd,B,"I/PRP knew/VBD that/IN there/EX was/VBD a/DT lot/NN of/IN ,/, a/DT lot/NN of/IN effort/NN","I knew that there was [ a lot of, + a lot of ] effort /"
+sv,B,"and/CC a/DT lot/NN of/IN work/NN went/VBD into/IN a/DT lot/NN of/IN that/DT ,/,","{C and } a lot of work went into a lot of that, /"
+sd,B,"and/CC I/PRP just/RB wondered/VBD if/IN ,/, if/IN it/PRP lasted/VBD ,/, and/CC if/IN it/PRP took/VBD ,/, you/PRP know/VBP ,/,","{C and } I just wondered [ if, + if ] it lasted, and if it took, {D you know, } /"
+%,B,"like/UH ,/,","{D like, }"
+b,A,Uh-huh/UH ./.,Uh-huh <<very faint>>. /
++,B,"uh/UH ,/, r-/XX ,/,","{F uh, } r-, -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP 've/VBP ,/, you/PRP know/VBP ,/, some/DT of/IN the/DT programs/NNS I/PRP would/MD have/VB concern/NN about/IN like/IN ,/, um/UH ,/, the/DT language/NN teaching/VBG ,/, you/PRP know/VBP ,/,","[ I've, + {D you know, } some of the programs I would have ] concern about like, {F um, } the language teaching, {D you know, } /"
+qh,A,"I/PRP mean/VBP ,/, why/WRB should/MD we/PRP push/VB English/NNP ,/,","{E I mean, } why should we push English, /"
+b,B,Uh-huh/UH ./.,Uh-huh <<very faint>>. /
+sd,A,and/CC a/DT lot/NN of/IN people/NNS were/VBD down/IN there/RB teaching/VBG English/NNP,{C and } a lot of people were down there teaching English /
+sd,A,"and/CC when/WRB they/PRP talked/VBD about/IN Hungary/NNP or/CC someplace/RB ,/, one/CD of/IN the/DT eastern/JJ law/NN countries/NNS requesting/VBG Peace/NNP Corps/NNP to/TO teach/VB language/NN ,/, you/PRP know/VBP ,/, to/IN me/PRP that/DT 's/BES a/DT little/JJ bit/NN marginal/JJ ./.","{C and } when they talked about Hungary or someplace, one of the eastern (( law )) countries requesting Peace Corps to teach language, {D you know, } to me that's a little bit marginal. /"
+sd,A,"I/PRP did/VBD teach/VB economics/NNS at/IN the/DT university/NN one/CD night/NN a/DT week/NN ,/,","I did teach economics at the university one night a week, /"
+sd,A,"and/CC the/DT textbook/NN was/VBD in/IN English/NNP ,/,","{C and } the textbook was in English, /"
+sd,A,"but/CC basically/RB I/PRP taught/VBD it/PRP in/IN Spanish/NNP ,/,","{C but } basically I taught it in Spanish,"
+b,B,Oh/UH ./.,Oh. /
++,A,"because/IN ,/, I/PRP mean/VBP ,/, I/PRP really/RB did/VBD n't/RB see/VB the/DT point/NN in/IN their/PRP$ knowing/VBG stuff/NN rotely/RB and/CC writing/VBG it/PRP on/IN a/DT test/NN ./.","because, {E I mean, } I really didn't see the point in their knowing stuff (( rotely )) and writing it on a test. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"my/PRP$ brother-in-law/NN teaches/VBZ at/IN ,/, uh/UH ,/, Northern/NNP Illinois/NNP University/NNP","my brother-in-law teaches at, {F uh, } Northern Illinois University /"
+sd,B,"and/CC they/PRP were/VBD in/IN China/NNP ,/, here/UH a/DT couple/NN of/IN years/NNS ago/RB ,/,","{C and } they were in China, {D here } a couple of years ago, /"
+sd,B,"and/CC he/PRP was/VBD over/IN there/RB at/IN ,/, uh/UH ,/, the/DT University/NNP of/IN Shah/NNP and/CC ,/, and/CC teaching/VBG .../:","{C and } he was over there at, {F uh, } the University of (( Shah )) [ and, + and ] teaching ... -/"

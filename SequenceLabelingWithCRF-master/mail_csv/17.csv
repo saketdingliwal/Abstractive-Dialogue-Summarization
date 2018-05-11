@@ -1,0 +1,82 @@
+speaker,pos
+Kynn,"Question:/NN Does/VBZ a/DT requirement/NN to/TO use/VB graphics/NNS ""when/NNP appropriate""/VBP something/NN that/WDT may/MD not/RB be/VB easily/RB done/VBN by/IN users/NNS with/IN visual/JJ disabilities/NNS mean/VBP that/IN blind/NN people/NNS are/VBP not/RB going/VBG to/TO be/VB web/JJ designers/NNS ?/."
+Kynn,Especially/RB if/IN we/PRP are/VBP going/VBG to/TO expect/VB them/PRP to/TO be/VB skilled/VBN in/IN graphical/JJ user/NN interface/NN design/NN and/CC understand/VB how/WRB to/TO use/VB images/NNS to/TO communicate/VB with/IN people/NNS with/IN cognitive/JJ disabilities/NNS ?/.
+Kynn,"If/IN we/PRP adopted/VBD a/DT ""use/NN graphics""/NN requirement/NN as/IN a/DT P1/NNP ,/, would/MD a/DT blind/JJ designer/NN be/VB able/JJ to/TO meet/VB that/DT requirement/NN effectively/RB ?/."
+Kynn,Just/RB thinking/VBG out/RP loud/JJ
+Kynn,do/VB not/RB mind/VB me/PRP ./.
+Kynn,
+Kynn,Kynn/NNP Bartlett/NNP
+Kynn,"Director/NN of/IN Accessibility/NNP ,/, edapta/NN"
+Kynn,"Chief/JJ Technologist/NNP ,/, Idyll/NNP Mountain/NNP Internet/NNP"
+Kynn,AWARE/NNP Center/NNP Director/NNP
+Charles,"Some/DT would/MD ,/, some/DT"
+Charles,Same/NN as/IN sighted/JJ people/NNS ./.
+Charles,"For/IN example/NN ,/, some/DT of/IN my/PRP$ blind/NN friends/NNS are/VBP much/RB more/RBR visually/RB capable/JJ than/IN I/PRP am/VBP ,/, and/CC some/DT"
+Charles,An/DT analgous/JJ question/NN might/MD be/VB to/TO ask/VB whether/IN a/DT blind/JJ person/NN is/VBZ going/VBG to/TO be/VB able/JJ to/TO adequately/RB describe/VB an/DT image/NN -/: currently/RB a/DT P1/NNP requirement/NN in/IN a/DT number/NN of/IN situations/NNS ./.
+Charles,cheers/NNS
+Charles,Charles/NNP
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,
+Charles,Charles/NNP McCathieNevile/NNP phone:/NN +61/VBD 409/CD 134/CD 136/CD
+Charles,W3C/NNP Web/NNP Accessibility/NNP Initiative/NNP
+Charles,"Location:/NNP 110/CD Victoria/NNP Street/NNP ,/, Carlton/NNP VIC/NNP 3053/CD"
+Charles,"Postal:/NNP GPO/NNP Box/NNP 2476V/CD ,/, Melbourne/NNP 3001/CD ,/, Australia/NNP"
+Kynn,
+Kynn,
+Kynn,
+Kynn,
+Kynn,"it/PRP is/VBZ not/RB the/DT same/JJ ,/, because/IN a/DT blind/JJ person/NN can/MD simply/RB choose/VB to/TO use/VB an/DT image/NN if/IN they/PRP feel/VBP they/PRP cannot/VBP reasonably/RB describe/VB the/DT current/JJ guidelines/NNS ./."
+Kynn,(This/NNS changes/NNS when/WRB images/VBZ become/VBP a/DT -requirement/NN for/IN
+Kynn,"You/PRP do/VBP bring/VB up/RP a/DT good/JJ point/NN ,/, however/RB ,/, that/IN many/JJ people/NNS who/WP can/MD see/VB are/VBP also/RB not/RB ""visually/RB capable""/JJ and/CC may/MD not/RB be/VB able/JJ to/TO provide/VB graphics/NNS easily/RB ./."
+Kynn,I/PRP am/VBP not/RB sure/JJ if/IN can/MD provide/VB decent/JJ graphics/NNS for/IN my/PRP$ sites/NNS
+Kynn,and/CC I/PRP refuse/VBP to/TO believe/VB that/IN I/PRP need/VBP to/TO give/VB up/RP web/NN design/NN because/IN people/NNS with/IN CDs/NNS need/VBP
+Kynn,
+Kynn,Kynn/NNP Bartlett/NNP
+Kynn,"Director/NN of/IN Accessibility/NNP ,/, edapta/NN"
+Kynn,"Chief/JJ Technologist/NNP ,/, Idyll/NNP Mountain/NNP Internet/NNP"
+Kynn,AWARE/NNP Center/NNP Director/NNP
+Kynn,Next/JJ of/IN Kynn:/NNP a/DT quasi-regular/JJ web/NN log/NN
+Jonathan,
+Jonathan,"If/IN all/DT web/VBP authors/NNS felt/VBD like/IN this/DT about/IN groups/NNS they/PRP are/VBP not/RB prepared/JJ to/TO cater/VB to/TO ,/, its/PRP$ no/DT wonder/NN we/PRP need/VBP WAI/NNP ./."
+Jonathan,
+Jonathan,special/JJ needs/VBZ teacher/NN
+Jonathan,web/JJ accessibility/NN consultant/NN
+Leonard,
+Leonard,"There/EX are/VBP lots/NNS of/IN cases/NNS where/WRB a/DT blind/NN designer/NN could/MD use/VB graphics/NNS as/IN effectively/RB ,/, or/CC actually/RB more/RBR effectively/RB ,/, than/IN a/DT sighted/JJ person/NN ./."
+Leonard,These/DT are/VBP cases/NNS where/WRB the/DT graphics/NNS are/VBP selected/VBN or/CC generated/VBN in/IN a/DT rule/NN based/VBN or/CC standardized/VBN way/NN ./.
+Leonard,"For/IN example/NN ,/, there/EX are/VBP packages/NNS that/WDT generate/VBP flow/JJ charts/NNS from/IN a/DT textual/JJ description/NN of/IN a/DT process/NN ./."
+Leonard,These/DT insure/VBP a/DT sensible/JJ flow/NN
+Leonard,at/IN least/JJS a/DT chart/NN that/WDT correctly/RB ./.
+Leonard,"On/IN the/DT other/JJ hand/NN ,/, I/PRP have/VBP seen/VBN too/RB many/JJ flow/JJ chart/NN style/NN diagrams/NNS by/IN sighted/JJ people/NNS where/WRB I/PRP have/VBP trouble/NN understanding/VBG what/WP conventions/NNS if/IN any/DT they/PRP are/VBP using/VBG ./."
+Leonard,I/PRP shall/MD take/VB a/DT rule/NN based/VBN design/NN by/IN a/DT blind/JJ indivdiual/JJ any/DT day/NN ./.
+Leonard,"Other/JJ examples/NNS are/VBP graphs/JJ generated/VBN from/IN data/NNS ,/, schematic/JJ diagrams/NNS generated/VBD from/IN pspice/NN lists/NNS ,/, and/CC icons/NNS selected/VBN from/IN a/DT standardized/JJ set/NN ./."
+Leonard,"Also/RB ,/, page/NN layout/NN and/CC color/NN selection/NN can/MD be/VB made/VBN according/VBG to/TO rules/NNS and/CC standards/NNS ./."
+Leonard,"Now/RB ,/, what/WP about/IN more/RBR creatively/RB artistic/JJ uses/NNS of/IN design/NN ,/, uses/VBZ that/IN cannot/NN be/VB reduced/VBN to/TO mathematical/JJ or/CC verbal/JJ rules/NNS ?/."
+Leonard,"Well/RB ,/, first/RB of/IN all/PDT that/DT goes/VBZ beyond/IN our/PRP$ guidelines:/NN"
+Leonard,we/PRP are/VBP just/RB looking/VBG at/IN usability/NN and/CC I/PRP think/VBP rule-based/JJ graphics/NNS should/MD handle/VB that/DT ./.
+Leonard,"Second/NNP of/IN all/DT ,/, I/PRP think/VBP there/EX are/VBP certainly/RB some/DT blind/JJ individuals/NNS who/WP can/MD produce/VB better/JJR art/NN than/IN some/DT sighted/JJ individuals/NNS (better/RBR than/IN me/PRP for/IN certainly/RB among/IN people/NNS who/WP have/VBP some/DT vision/NN and/CC early/JJ visual/JJ experience/NN ./."
+Leonard,As/IN for/IN art/NN by/IN people/NNS born/VBN I/PRP am/VBP not/RB familiar/JJ with/IN that/DT area/NN but/CC I/PRP woudn't/VBP be/VB surprised/VBN there/EX is/VBZ some/DT remarkable/JJ use/NN of/IN shape/NN and/CC form/NN ./.
+Leonard,
+Leonard,"Leonard/NNP R/NNP ./. Kasday/NNP ,/,"
+Leonard,Institute/NNP on/IN and/CC
+Leonard,Department/NNP of/IN Electrical/NNP Engineering/NNP
+Leonard,Temple/NNP University/NNP
+Leonard,"423/CD Ritter/NNP Annex/NNP ,/, Philadelphia/NNP ,/, PA/NNP 19122/CD"
+Leonard,
+Leonard,
+Leonard,204-2247/JJ
+Leonard,750-7428/JJ
+Kynn,
+Kynn,
+Kynn,"Jonathan/NNP ,/, do/VBP you/PRP really/RB mean/VB to/TO be/VB insulting/VBG to/TO me/PRP ?/."
+Kynn,"We/PRP may/MD be/VB having/VBG a/DT comprehension/NN problem/NN ,/, but/CC if/IN you/PRP are/VBP going/VBG to/TO react/VB in/IN a/DT way/NN that/WDT seems/VBZ to/TO question/VB my/PRP$ ""loyalty/NN to/TO cause""/VB despite/IN being/VBG willing/JJ to/TO take/VB the/DT time/NN needed/VBN to/TO work/VB through/IN this/DT issue/NN ,/, as/IN my/PRP$ repeated/JJ email/NN messages/NNS haven/RB proven/VBP that/IN I/PRP am/VBP willing/JJ to/TO do/VB then/RB you/PRP are/VBP likely/JJ to/TO turn/VB away/RP even/RB MORE/JJR people/NNS who/WP could/MD be/VB your/PRP$ strongest/JJS allies/NNS ./."
+Kynn,Perhaps/RB this/DT is/VBZ just/RB a/DT communication/NN error/NN
+Kynn,"your/PRP$ of/IN writing/NN is/VBZ vastly/RB different/JJ from/IN mine/NN ,/, and/CC I/PRP certainly/RB see/VB how/WRB confusion/NN could/MD result/VB ./."
+Kynn,
+Kynn,Kynn/NNP Bartlett/NNP
+Kynn,
+Kynn,My/PRP$ Browser/NNP Is/VBZ Faster/NNP Than/NNP Yours/VB

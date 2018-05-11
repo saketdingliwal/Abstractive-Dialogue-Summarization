@@ -1,0 +1,161 @@
+act_tag,speaker,pos,text
+fp,B,"Hi/UH ,/,","Hi, /"
+%,B,"well/UH ,/, I/PRP guess/VBP ,/,","{D well, } I guess, - /"
+qw,B,"w/WDT ,/, which/WDT one/CD have/VBP you/PRP got/VBN right/RB now/RB ?/.","[ w-, + which ] one have you got right now? /"
+%,B,"Or/CC ,/,","{C Or, } -/"
+%,A,"Well/UH ,/, I/PRP ,/, uh/UH ,/,","{D Well, } I, {F uh, } - /"
+sd,A,"couple/NN of/IN them/PRP ,/,","couple of them, /"
+sd,A,"I/PRP ,/, at/IN the/DT moment/NN ,/, use/VBP an/DT A/NNP S/NNP T/NNP two/CD eighty-six/CD","I, at the moment, use an A S T two eighty-six /"
+sd,A,and/CC I/PRP got/VBD a/DT leading/VBG edge/NN,{C and } I got a leading edge /
+sd,A,"and/CC I/PRP got/VBD a/DT American/NNP one/NN and/CC had/VBD a/DT I/NNP B/NNP M/NNP one/NN ,/,","{C and } I got a American one and had a I B M one, /"
+%,A,but/CC,{C but } - /
+x,A,",/,","<laughter>,"
+%,B,"My/PRP$ ,/, my/PRP$ ,/,","<Laughter> [ My, + my, ] - /"
+sd,B,just/RB a/DT couple/NN ./.,just a couple. /
+qw,A,What/WP do/VBP you/PRP have/VB ?/.,What do you have <laughter>? /
+sd,B,"Uh/UH ,/, I/PRP 've/VBP got/VBN an/DT Omega/NNP","{F Uh, } I've got an Omega /"
+sd,B,"and/CC I/PRP 've/VBP got/VBN a/DT ,/, uh/UH ,/, generic/JJ three/CD eighty/CD ,/, or/CC four/CD eighty-six/CD machine/NN ./.","{C and } I've got a, {F uh, } generic three eighty, or four eighty-six machine. /"
+bh,A,"Oh/UH ,/, yeah/UH ?/.","{F Oh, } yeah? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"it/PRP 's/BES very/RB ,/, very/RB generic/JJ ./.","it's very, very generic. /"
+qw,A,"What/WP did/VBD you/PRP do/VB ,/, put/VB it/PRP together/RB ?/.","What did you do, put it together? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"and/CC ,/, and/CC ,/, uh/UH ,/, upgraded/VBD it/PRP and/CC put/VBD things/NNS in/IN there/RB and/CC dibbled/VBD and/CC dabbled/VBD","[ {C and, } + {C and, } ] {F uh, } upgraded it and put things in there and dibbled and dabbled /"
+sd,B,and/CC --/:,{C and } --
+%,A,"Well/UH ,/, that/DT 's/BES ,/,","{D Well, } that's, -/"
++,B,"--/: now/UH ,/, now/UH it/PRP 's/BES ,/, now/UH it/PRP 's/BES a/DT fast/JJ machine/NN ./.","-- [ [ now, + now it's, ] + now it's ] a fast machine <laughter>. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,That/DT 's/BES all/DT I/PRP got/VBN to/TO say/VB for/IN it/PRP ./.,That's all I got to say for it. /
+b,A,Yeah/UH ./.,Yeah. /
+qw,A,What/WP do/VBP you/PRP use/VB it/PRP for/IN ?/.,What do you use it for? /
+br,B,Huh/UH ?/.,<Noise> Huh? /
+qw,A,What/WP do/VBP you/PRP use/VB it/PRP for/IN ?/.,What do you use it for? /
+sd,B,"Uh/UH ,/, work/NN ,/,","{F Uh, } work, /"
+sd,B,"uh/UH ,/, I/PRP 'm/VBP a/DT contract/NN programmer/NN ./.","{F uh, } I'm a contract programmer. /"
+bh,A,"Oh/UH ,/, yeah/UH ?/.","{F Oh, } yeah? /"
+qw,A,"What/WDT kind/NN of/IN programs/NNS do/VBP you/PRP ,/,","What kind of programs do you, -/"
+sd,B,"Uh/UH ,/, anything/NN ./.","{F Uh, } anything <laughter>. /"
+b,A,"Okay/UH ,/,","Okay, /"
+sd,A,I/PRP mean/VBP like/UH business/NN programs/NNS,{E I mean } {D like } business programs /
+%,A,"or/CC ,/,","{C or, }"
+sd,B,"Uh/UH ,/, I/PRP 've/VBP done/VBN business/NN programming/NN ,/, scien/JJ ,/, you/PRP know/VBP ,/, scientific/JJ applications/NNS like/IN ,/, you/PRP know/VBP ,/, petroleum/NN science/NN stuff/NN and/CC ,/,","{F Uh, } I've done business programming, [ scien-, + {D you know, } scientific ] applications like, {D you know, } petroleum science stuff and,"
++,A,Man/UH ./.,Man. /
++,B,"Uh/UH ,/, uh/UH ,/, test/NN equipment/NN","{F Uh, } {F uh, } test equipment /"
+sd,B,"and/CC I/PRP did/VBD the/DT ,/, I/PRP ,/, I/PRP did/VBD one/CD that/WDT was/VBD ,/, the/DT demonstration/NN of/IN a/DT touch/NN ,/, touch/NN screen/NN for/IN a/DT company/NN that/WDT sells/VBZ ,/, uh/UH ,/, touch/NN screens/NNS ./.","{C and } [ I did the, + [ I, + I ] did one ] that was, the demonstration of a [ touch, + touch ] screen for a company that sells, {F uh, } touch screens. /"
+sd,B,It/PRP was/VBD kind/RB of/RB fun/JJ ./.,It was kind of fun. /
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,B,Put/VBD a/DT little/JJ bitty/JJ portable/JJ computer/NN in/IN there/RB and/CC a/DT plasma/NN display/NN ./.,Put a little bitty portable computer in there and a plasma display.
+b,A,Huh/UH ./.,Huh. /
++,B,"And/CC make/VB it/PRP look/VB like/IN things/NNS like/UH ,/, uh/UH ,/, you/PRP know/VBP ,/, attack/VB simulators/NNS and/CC MUMBLEx/XX ,/, and/CC --/:","And make it look like things like, {F uh, } {D you know, } attack simulators [ and + (( )) , and ] --"
+%,A,"Well/UH ,/, that/DT 's/BES ,/,","{D Well, } that's, -/"
++,B,--/: all/DT sorts/NNS of/IN little/JJ things/NNS you/PRP 'd/MD want/VB to/TO put/VB your/PRP$ finger/NN on/IN the/DT screen/NN for/IN ./.,-- all sorts of little things you'd want to put your finger on the screen for. /
+ba,A,"Well/UH ,/, that/DT sounds/VBZ interesting/JJ ./.","<Laughter> {D Well, } that sounds interesting. /"
+x,B,./.,<Throat_clearing>.
+sd,A,"Matter/NN of/IN fact/NN ,/, uh/UH ,/, I/PRP guess/VBP you/PRP do/VBP ,/, uh/UH ,/, you/PRP get/VBP a/DT lot/NN of/IN graphics/NNS in/IN there/RB ,/, I/PRP imagine/VBP ,/, huh/UH ./.","Matter of fact, {F uh, } I guess [ you do, + {F uh, } you get ] a lot of graphics in there, I imagine, {F huh. } /"
+aa,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+aa,B,definitely/UH ./.,definitely. /
+sd,A,That/DT 's/BES where/WRB the/DT speed/NN helps/VBZ out/RP ./.,That's where the speed helps out. /
+b,B,"Uh/UH ,/, yeah/UH ,/,","{F Uh, } yeah, /"
+sd,B,"unfortunately/RB the/DT little/JJ portable/JJ P/NN C/NN that/WDT was/VBD plugged/VBN on/IN the/DT back/NN was/VBD only/RB a/DT seven/CD and/CC a/DT half/JJ megahertz/NN ,/, eighty/CD ,/, eighty-six/CD ./.","unfortunately the little portable P C that was plugged on the back was only a seven and a half megahertz, [ eighty, + eighty-six. ] /"
+sd,B,It/PRP 's/BES like/UH slow/JJ ./.,It's {D like } slow <<dragged out the word>>. /
+b,A,"Yep/UH ,/,","Yep, /"
+sd,A,"that/DT will/MD ,/, that/DT will/MD ,/,","[ that will, + that will, ]"
+x,B,./.,<Laughter>.
++,A,slow/VB you/PRP up/RP ./.,slow you up <laughter>. /
+br,B,Huh/UH ?/.,Huh? /
+sd,A,"Well/UH ,/, I/PRP ,/, I/PRP do/VBP ,/, uh/UH ,/, uh/UH ,/, programming/NN for/IN C/NNP N/NNP C/NNP turret/NN presses/NNS and/CC --/:","{D Well, } [ I, + I ] do, {F uh, } {F uh, } programming for C N C turret presses and --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: uh/UH ,/, cat/NN cam/NN system/NN type/NN things/NNS","-- {F uh, } cat cam system type things /"
+sd,A,"and/CC ,/, uh/UH ,/, really/RB need/VBP a/DT faster/JJR system/NN ./.","{C and, } {F uh, } really need a faster system. /"
+sd,A,"Uh/UH ,/, I/PRP got/VBD a/DT new/JJ line/NN that/WDT I/PRP ,/, I/PRP sell/VBP metal/NN fabricating/NN equipment/NN ,/, and/CC cat/NN cam/NN systems/NNS ,/, and/CC tooling/NN ,/, et/FW cetera/FW ./.","{F Uh, } I got a new line that [ I, + I ] sell metal fabricating equipment, and cat cam systems, and tooling, et cetera. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+%,A,"Uh/UH ,/,","{F Uh, } /"
+sd,B,"I/PRP know/VBP a/DT guy/NN that/WDT upgrades/VBZ ,/, uh/UH ,/, for/IN a/DT reasonable/JJ cost/NN ./.","I know a guy that upgrades, {F uh, } for a reasonable cost. /"
+qw,A,Who/WP is/VBZ that/DT ?/.,Who is that? /
+sd,B,"Uh/UH ,/, his/PRP$ name/NN is/VBZ T/NNP Q/NNP or/CC something/NN like/IN that/DT ./.","<Breathing> {F Uh, } his name is T Q or something like that. /"
+sd,B,And/CC my/PRP$ notebook/NN is/VBZ somewhere/RB around/IN here/RB ./.,{C And } my notebook is somewhere around here <groan>. /
+^h,B,See/UH if/IN I/PRP can/MD make/VB my/PRP$ telephone/NN cord/NN stretch/NN far/RB enough/RB ./.,See if I can make my telephone cord stretch far enough. /
+sd,A,I/PRP 've/VBP tried/VBN to/TO do/VB is/VBZ get/VB this/DT outfit/NN to/TO --/:,I've tried to do is get this outfit to --
+%,B,"Uh/UH ,/, he/PRP 's/BES ,/, uh/UH ,/, up/IN in/IN ,/,","{F Uh, } he's, {F uh, } up in, -/"
++,A,--/: give/VB me/PRP one/CD ./.,-- give me one <laughter>. /
+br,B,Huh/UH ?/.,Huh? /
+sd,A,That/DT 's/BES how/WRB I/PRP got/VBD my/PRP$ other/JJ ones/NNS by/IN selling/VBG their/PRP$ product/NN for/IN them/PRP ./.,That's how I got my other ones by selling their product for them. /
+sd,A,"They/PRP not/RB only/RB give/VBP me/PRP a/DT demonstrator/NN ,/, but/CC the/DT hardware/NN as/RB well/RB as/IN the/DT software/NN ./.","They not only give me a demonstrator, but the hardware as well as the software. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC as/IN they/PRP ,/,","[ {C And } as they, +"
+ba,B,"Oh/UH ,/, that/DT works/VBZ ./.","{F Oh, } that works. /"
++,A,"And/CC as/IN they/PRP go/VBP to/IN the/DT next/JJ one/NN I/PRP just/RB keep/VBP the/DT ,/,","{C And } as they ] go to the next one I just keep the, - /"
+sd,A,that/DT 's/BES why/WRB I/PRP have/VBP so/RB many/JJ different/JJ levels/NNS of/IN P/NN C/NN -s/NNS around/IN at/IN the/DT moment/NN ./.,<laughter> that's why I have so many different levels of P C -s around at the moment. /
+sd,B,"Uh/UH ,/, here/RB it/PRP is/VBZ ./.","{F Uh, } here it is. /"
+sd,B,A/NNP T/NNP S/NNP Computers/NNPS ./.,A T S Computers. /
+qy^d,A,A/NNP T/NNP S/NNP ?/.,A T S? /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+qw,A,And/CC where/WRB are/VBP they/PRP at/IN ?/.,{C And } where are they at? /
+qy,B,"Uh/UH ,/, do/VBP you/PRP know/VB where/WRB ,/, uh/UH ,/, Custer/NNP is/VBZ ?/.","{F Uh, } do you know where, {F uh, } Custer is? /"
+ny,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+bk,B,"Okay/UH ,/,","Okay, /"
+sd,B,"he/PRP 's/BES ,/, uh/UH ,/, uh/UH ,/, south/RB of/IN Renner/NNP on/IN ,/, on/IN Custer/NNP ./.","he's, {F uh, } {F uh, } south of Renner [ on, + on ] Custer. /"
+sd,B,"And/CC there/EX is/VBZ a/DT little/JJ bitty/JJ mall/NN that/WDT looks/VBZ kind/RB of/RB like/IN ,/, or/CC ,/, strip/NN kind/RB of/RB center/NN ./.","{C And } there is a little bitty mall that looks kind of like, [ or, + ] strip kind of center. /"
+^2,A,In/IN Richardson/NNP there/RB ./.,In Richardson there. /
+br,B,Huh/UH ?/.,{F Huh? } /
+qy^d,A,In/IN Richardson/NNP ?/.,In Richardson? /
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,I/PRP know/VBP where/WRB you/PRP mean/VBP ./.,I know where you mean. /
+sd,A,"There/EX is/VBZ a/DT Mobil/NNP and/CC all/PDT that/DT kind/NN of/IN s-/XX ,/, uh/UH ,/, on/IN that/DT one/CD corner/NN ,/,","There is a Mobil and all that kind of s-, {F uh, } on that one corner, /"
+qy,A,"that/WDT 's/BES about/RB Lookout/NNP there/RB ,/, I/PRP think/VBP ,/, is/VBZ n't/RB it/PRP ./.","that's about Lookout there, I think, isn't it. /"
+na,B,"Right/UH ,/,","Right, /"
+sd,B,"it/PRP 's/BES ,/, it/PRP 's/BES ,/, it/PRP 's/BES just/RB south/RB of/IN there/RB ./.","[ [ it's, + it's, ] + it's ] just south of there. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"It/PRP 's/BES a/DT little/JJ place/NN ,/, looks/VBZ like/IN a/DT castle/NN ./.","It's a little place, looks like a castle. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Kind/RB of/RB ,/, uh/UH ,/, little/JJ guy/NN in/IN there/RB ./.","Kind of, {F uh, } little guy in there. /"
+sd,B,"He/PRP ,/, he/PRP ,/, uh/UH ,/, gives/VBZ reasonable/JJ prices/NNS ./.","[ He, + <throat_clearing> he, ] {F uh, } gives reasonable prices. /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,"Like/UH I/PRP ,/, I/PRP traded/VBD my/PRP$ ,/, uh/UH ,/, three/CD eighty-six/CD for/IN the/DT four/CD eighty-six/CD for/IN about/RB six/CD hundred/CD ./.","{D Like } [ I, + I ] traded my, {F uh, } three eighty-six for the four eighty-six for about six hundred. /"
+bh,A,Really/UH ?/.,Really? /
+ba,A,"Well/UH ,/, that/DT 's/BES a/DT good/JJ deal/NN ./.","{D Well, } that's a good deal. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,it/PRP was/VBD pretty/RB reasonable/JJ ./.,it was pretty reasonable. /
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"But/CC ,/, uh/UH ,/, uh/UH ,/, he/PRP ,/,","{C But, } {F uh, } {F uh, } he, - /"
+sd,B,and/CC he/PRP does/VBZ a/DT good/JJ job/NN,{C and } he does a good job /
+sd,B,"and/CC he/PRP ,/, s-/XX ,/, he/PRP ,/, he/PRP ,/, uh/UH ,/, guarantees/VBZ everything/NN he/PRP sells/VBZ ./.","{C and } [ [ he, + [ s-, + ] he, ] + he, ] {F uh, } guarantees everything he sells. /"
+sd,A,"Uh/UH ,/, there/EX is/VBZ a/DT lot/NN ,/,","{F Uh, } there is a lot, /"
+qy^d,A,you/PRP ever/RB go/VBP by/IN Lucky/NNP Computer/NNP there/RB ?/.,you ever go by Lucky Computer there? /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,yeah/UH ./.,yeah. /
+sd,A,"I/PRP used/VBD to/TO ,/,","I used to, /"
+sd,A,"when/WRB I/PRP was/VBD putting/VBG shop/NN floor/NN computers/NNS together/RB for/IN guys/NNS ,/, I/PRP 'd/MD go/VB and/CC get/VB their/PRP$ units/NNS and/CC put/VB them/PRP together/RB and/CC go/VB and/CC interface/VB the/DT stuff/NN with/IN our/PRP$ systems/NNS ./.","when I was putting shop floor computers together for guys, I'd go and get their units and put them together and go and interface the stuff with our systems. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,Have/VBP n't/RB been/VBN doing/VBG much/RB of/IN that/DT for/IN the/DT last/JJ year/NN or/CC so/RB ./.,Haven't been doing much of that for the last year or so. /
+sd,A,"So/RB I/PRP ,/, I/PRP do/VBP n't/RB know/VB where/WRB those/DT guys/NNS are/VBP at/IN these/DT days/NNS ./.","{C So } [ I, + I ] don't know where those guys are at these days. /"
+%,A,"But/CC I/PRP ,/, MUMBLEx/XX ,/,","{C But } I, (( )) , -/"
+sd,B,"Uh/UH ,/, they/PRP ,/, they/PRP 're/VBP up/IN there/RB in/IN that/DT mall/NN ./. Uh/UH ,/, just/RB below/IN Campbell/NNP ./.","{F Uh, } [ they, + they're ] up there in that mall. {F Uh, } just below Campbell."
+b,A,Yeah/UH ./.,Yeah. /
++,B,"Or/CC that/DT strip/NN ,/, strip/NN ,/, center/NN ./.","Or that [ strip, + strip, ] center. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"They/PRP 're/VBP still/RB doing/VBG business/NN ./. Big/JJ business/NN ,/, apparently/RB ./.","They're still doing business. Big business, apparently. /"
+sd,A,"I/PRP tell/VBP you/PRP ,/, those/DT prices/NNS have/VBP just/RB ,/, unbelievably/RB come/VBN down/RB ./.","<Laughter> I tell you, those prices have just, unbelievably come down. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,"oh/UH ,/, yeah/UH ,/,","{F oh, } yeah, /"
+sd,B,"I/PRP was/VBD amazed/JJ I/PRP was/VBD able/JJ to/TO get/VB this/DT four/CD eighty-six/CD for/IN six/CD hundred/CD even/RB with/IN a/DT trade/GW in/^NN ,/,","I was amazed I was able to get this four eighty-six for six hundred even with a trade in, /"
+sd,B,"you/PRP know/VBP ,/, it/PRP 's/BES like/IN ,/, wow/UH ./.","{D you know, } it's like, wow <laughter>. /"
+b,A,Yeah/UH ./.,Yeah. /
+ba,B,"That/DT works/VBZ ,/,","That works, /"
+sd,B,I/PRP 'll/MD go/VB do/VB that/DT ./.,I'll go do that <laughter>. /
+%,A,"I/PRP ,/,","<Laughter> I, -/"
+sd,B,And/CC boy/UH that/DT thing/NN screams/VBZ now/RB ./.,{C And } boy that thing screams now. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"I/PRP was/VBD kind/RB of/RB surprised/JJ how/WRB rapidly/RB they/PRP bypassed/VBD ,/,","I was kind of surprised how rapidly they bypassed,"
+x,B,./.,<Throat_clearing>.
++,A,the/DT three/CD eighty-six/CD ./.,the three eighty-six. /
+sd,A,That/DT was/VBD n't/RB alive/JJ for/IN but/CC maybe/RB two/CD years/NNS ./.,That wasn't alive for but maybe two years. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Well/UH ,/, I/PRP thought/VBD was/VBD funny/JJ that/IN they/PRP kept/VBD pushing/VBG the/DT three/CD eighty-six/CD S/NNP X/NNP even/RB though/IN the/DT ,/, the/DT price/NN difference/NN is/VBZ about/RB ten/CD dollars/NNS ./.","{D Well, } I thought was funny that they kept pushing the three eighty-six S X even though [ the, + the ] price difference is about ten dollars. /"
+bh,A,Is/VBZ that/DT right/JJ ?/.,Is that right? /
+bh,A,That/DT 's/BES it/PRP ?/.,That's it? /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"it/PRP ,/, when/WRB it/PRP comes/VBZ on/IN the/DT manufacturing/NN floor/NN it/PRP 's/BES about/RB ten/CD bucks/NNS ./.","[ it, + when it ] comes on the manufacturing floor it's about ten bucks. /"
+ba,A,I/PRP 'll/MD be/VB darned/JJ ./.,I'll be darned. /
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"Huh/UH ,/, well/UH ,/,","{F Huh, } {D well, } -/"

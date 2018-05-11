@@ -1,0 +1,75 @@
+act_tag,speaker,pos,text
+qy,A,"Well/UH ,/, have/VBP you/PRP ever/RB served/VBN on/IN a/DT jury/NN ?/.","{D Well, } have you ever served on a jury? /"
+nn,B,"No/UH ,/,","No, /"
+sd,B,I/PRP 've/VBP not/RB ./.,I've not. /
+sd,B,"I/PRP 've/VBP been/VBN called/VBN ,/,","I've been called, /"
+sd,B,but/CC I/PRP had/VBD to/TO beg/VB off/RP from/IN the/DT duty/NN ./.,{C but } I had to beg off from the duty. /
+qy,B,And/CC you/PRP ?/.,{C And } you? /
+na,A,"Well/UH ,/, I/PRP was/VBD called/VBN","{D Well, } I was called /"
+sd,A,and/CC then/RB I/PRP was/VBD not/RB chosen/VBN ./.,{C and then } I was not chosen. /
+%,B,Um/UH ./.,{F Um. } /
+sv,B,"Well/UH ,/, I/PRP was/VBD ,/, I/PRP was/VBD ,/, uh/UH ,/, originally/RB chosen/VBN primarily/RB ,/, I/PRP think/VBP ,/, because/IN I/PRP was/VBD a/DT young/JJ fellow/NN","{D Well, } [ I was, + I was, ] {F uh, } originally chosen primarily, I think, because I was a young fellow /"
+sv,B,and/CC they/PRP tend/VBP to/TO view/VB the/DT younger/JJR fellows/NNS as/IN more/RBR likely/JJ to/TO hand/VB down/RP a/DT guilty/JJ verdict/NN ./.,{C and } they tend to view the younger fellows as more likely to hand down a guilty verdict. /
+sd,B,I/PRP do/VBP n't/RB know/VB why/WRB ./.,I don't know why. /
+sd,B,Something/NN I/PRP picked/VBD up/RP in/IN a/DT psychology/NN class/NN some/DT time/NN ago/RB ./.,Something I picked up in a psychology class some time ago. /
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"it/PRP 's/BES that/IN the/DT younger/JJR they/PRP are/VBP ,/, they/PRP tend/VBP to/TO be/VB more/RBR conservative/JJ for/IN some/DT statistical/JJ oddball/JJ reason/NN ,/,","it's that the younger they are, they tend to be more conservative for some statistical oddball reason, /"
+sd,B,and/CC they/PRP kind/RB of/RB liked/VBD me/PRP ./.,{C and } <inhaling> they kind of liked me. /
+sd,B,"I/PRP looked/VBD conser/JJ ,/, and/CC all/PDT that/DT stuff/NN","I looked conser-, <breathing> and all that stuff /"
+%,B,"and/CC they/PRP ,/,","{C and } they, - /"
+sd,B,"I/PRP do/VBP n't/RB know/VB what/WP they/PRP saw/VBD in/IN me/PRP ,/,","I don't know what they saw in me, /"
+sd,B,but/CC they/PRP saw/VBD it/PRP ./.,{C but } they saw it. /
+sd,B,"But/CC ,/, uh/UH ,/, back/RB to/IN the/DT issue/NN ,/, is/VBZ ,/, uh/UH ,/,","{C But, } {F uh, } back to the issue, [ is, + ] {F uh, } - /"
+h,B,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sv,B,"at/IN times/NNS I/PRP feel/VBP that/IN a/DT unanimous/JJ decision/NN is/VBZ warranted/JJ ,/, especially/RB in/IN cases/NNS in/IN which/WDT there/EX 's/BES no/DT smoking/VBG gun/NN ./.","at times I feel that a unanimous decision is warranted, especially in cases in which there's no smoking gun. /"
+sv,B,"But/CC ,/, there/EX ,/, too/RB ,/, there/EX are/VBP also/RB cases/NNS in/IN which/WDT I/PRP feel/VBP a/DT majority/NN rule/NN might/MD be/VB acceptable/JJ ,/, particularly/RB ,/, I/PRP think/VBP in/IN civil/JJ cases/NNS ./.","{C But, } there, too, there are also cases in which I feel a majority rule might be acceptable, particularly, I think in civil cases. /"
+sv,B,"In/IN criminal/JJ cases/NNS ,/, I/PRP 'd/MD like/VB to/TO see/VB the/DT unani-/NN ,/, unanimity/NN remain/VB ,/,","In criminal cases, I'd like to see the [ unani-, + unanimity ] remain, /"
+sv,B,"but/CC in/IN civil/JJ cases/NNS ,/, I/PRP think/VBP a/DT majority/NN rule/NN by/IN ,/, by/IN jury/NN would/MD be/VB sufficient/JJ ./.","{C but } in civil cases, I think a majority rule [ by, + by ] jury would be sufficient. /"
+qo,A,"Well/UH ,/, uh/UH ,/, could/MD you/PRP give/VB me/PRP an/DT example/NN of/IN a/DT case/NN where/WRB you/PRP think/VBP that/DT ?/.","{D Well, } {F uh, } could you give me an example of a case where you think that? /"
+sv,B,"Well/UH ,/, in/IN a/DT criminal/JJ case/NN ,/, say/UH one/NN in/IN which/WDT ,/, you/PRP know/VBP ,/, there/EX is/VBZ ,/, like/UH ,/, say/UH assault/NN or/CC some/DT such/JJ ./. I/PRP think/VBP there/EX ought/MD to/TO be/VB a/DT unanimous/JJ ,/, uh/UH ,/, vote/NN because/IN by/IN law/NN and/CC by/IN constitution/NN there/EX must/MD be/VB proven/VBN beyond/IN a/DT shadow/NN of/IN a/DT reasonable/JJ doubt/NN that/IN the/DT person/NN in/IN question/NN did/VBD this/DT ./.","{D Well, } in a criminal case, say one in which, {D you know, } there is, {D like, } say assault or some such. I think there ought to be a unanimous, {F uh, } vote because by law and by constitution there must be proven beyond a shadow of a reasonable doubt that the person in question did this. /"
+sd,B,"And/CC in/IN civil/JJ law/NN there/EX ,/, you/PRP know/VBP ,/, is/VBZ such/PDT a/DT thing/NN as/IN like/IN ,/, let/VB 's/PRP say/VB ,/, uh/UH ,/, misappropriations/NNS or/CC misuse/NN of/IN financial/JJ instruments/NNS or/CC something/NN like/IN that/DT ./.","{C And } in civil law there, {D you know, } is such a thing as {D like, } let's say, {F uh, } <breathing> misappropriations or misuse of financial instruments or something like that. /"
+sv,B,"A/DT majority/NN rule/NN ,/, I/PRP think/VBP ,/, would/MD be/VB more/JJR in/IN line/NN as/IN there/EX is/VBZ no/DT real/JJ smoking/VBG gun/NN in/IN the/DT civil/JJ cases/NNS ./.","A majority rule, I think, would be more in line as there is no real smoking gun in the civil cases. /"
+h,B,I/PRP do/VBP n't/RB know/VB if/IN I/PRP 'm/VBP making/VBG any/DT sense/NN or/CC not/RB ./.,I don't know if I'm making any sense or not. /
+sv,A,"Well/UH ,/, I/PRP mean/VBP ,/, I/PRP think/VBP ,/,","{D Well, } {E I mean, } I think, - /"
+qy,A,"are/VBP you/PRP just/RB trying/VBG to/TO say/VB that/IN criminal/JJ cases/NNS are/VBP more/RBR ,/, uh/UH ,/, tangible/JJ","are you just trying to say that criminal cases are more, {F uh, } tangible /"
+%,A,"or/CC ,/,","{C or, } -/"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,often/RB there/EX 's/BES more/RBR incriminating/JJ evidence/NN ./.,often there's more incriminating evidence. /
+ad,B,"Like/UH ,/, for/IN instance/NN ,/, say/UH ,/, uh/UH ,/,","{D Like, } for instance, say, {F uh, } - /"
+sv,B,"and/CC also/RB ,/, too/RB ,/, I/PRP think/VBP I/PRP 'm/VBP ,/, I/PRP 'm/VBP tempering/VBG this/DT and/CC the/DT fact/NN that/IN the/DT consequences/NNS are/VBP much/RB more/RBR ,/, uh/UH ,/, serious/JJ in/IN a/DT criminal/JJ case/NN ./.","{C and } also, too, I think [ I'm, + I'm ] tempering this and the fact that the consequences are much more, {F uh, } serious in a criminal case. /"
+qy,A,"Well/UH ,/, do/VBP you/PRP think/VB that/IN ,/, that/IN in/IN a/DT civil/JJ case/NN ,/, if/IN there/EX was/VBD majority/NN rule/NN ,/, that/IN it/PRP would/MD be/VB easy/JJ for/IN someone/NN to/TO be/VB set/VBN up/RP ?/.","{D Well, } do you think [ that, + that ] in a civil case, if there was majority rule, that it would be easy for someone to be set up? /"
+^h,B,"Um/UH ,/, well/UH ,/, I/PRP really/RB ca/MD n't/RB say/VB for/IN certain/JJ ,/, truth/NN be/VB known/VBN ./.","{F Um, } {D well, } I really can't say for certain, truth be known. /"
+sv,B,"Uh/UH ,/, as/IN it/PRP stands/VBZ ,/, there/EX 's/BES ,/, there/EX 's/BES many/JJ ways/NNS and/CC means/NNS by/IN which/WDT a/DT person/NN can/MD be/VB set/VBN up/RP ,/, both/DT ,/, uh/UH ,/, in/IN a/DT civil/JJ ,/, uh/UH ,/, civil/JJ and/CC criminal/JJ case/NN ./.","{F Uh, } as it stands, [ there's, + there's ] many ways and means by which a person can be set up, both, {F uh, } in a [ ((civil)), + {F uh, } civil ] and criminal case. /"
+sv,B,"I/PRP mean/VBP ,/, the/DT ,/, uh/UH ,/, documentary/NN ,/, the/DT THIN/JJ BLUE/JJ LINE/NN pretty/RB much/RB demonstrated/VBD that/DT ./.","{E I mean, } the, {F uh, } documentary, the THIN BLUE LINE pretty much demonstrated that. /"
+qy^d,B,"You/PRP know/VBP ,/, I/PRP do/VBP n't/RB know/VB for/IN ,/, if/IN you/PRP 're/VBP familiar/JJ with/IN that/DT or/CC not/RB ./.","{D You know, } I don't know [ for, + if ] you're familiar with that or not. /"
+nn,A,"No/UH ,/,","No, /"
+sd,A,I/PRP 'm/VBP not/RB ./.,I'm not. /
+sd,B,"A/DT ,/, uh/UH ,/, fellow/NN when/WRB he/PRP was/VBD much/RB younger/JJR ,/, uh/UH ,/, was/VBD tried/VBN and/CC convicted/VBN and/CC sentenced/VBN to/IN death/NN ./.","A, {F uh, } fellow <breathing> when he was much younger, {F uh, } was tried and convicted and sentenced to death. /"
+sd,B,"Fortunately/RB ,/, in/IN his/PRP$ case/NN ,/, the/DT death/NN penalty/NN was/VBD revoked/VBN","Fortunately, in his case, the death penalty was revoked /"
+sd,B,"and/CC ,/, uh/UH ,/, so/RB he/PRP served/VBD out/RP his/PRP$ ,/, his/PRP$ sentence/NN until/IN it/PRP was/VBD discovered/VBN by/IN a/DT fellow/NN who/WP was/VBD making/VBG a/DT documentary/NN called/VBD the/DT THIN/JJ BLUE/JJ LINE/NN that/IN this/DT guy/NN had/VBD basically/RB gotten/VBN railroaded/VBN through/IN the/DT judicial/JJ system/NN ./.","[ {C and, } + {F uh, } {C so } ] he served out [ his, + his ] sentence until it was discovered by a fellow who was making a documentary called the THIN BLUE LINE that this guy had basically gotten railroaded through the judicial system. /"
+sd,B,The/DT case/NN was/VBD reopened/VBN,The case was reopened /
+sd,B,and/CC he/PRP was/VBD exonerated/VBN ./.,{C and } he was exonerated. /
+sv,A,"Well/UH ,/, I/PRP mean/VBP ,/, I/PRP think/VBP that/IN there/EX are/VBP many/JJ cases/NNS in/IN our/PRP$ judicial/JJ system/NN where/WRB justice/NN is/VBZ not/RB served/VBN ./.","{D Well, } {E I mean, } I think that there are many cases in our judicial system where justice is not served. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"many/JJ laws/NNS ,/, but/CC little/JJ justice/NN ./.","many laws, but little justice. /"
+%,A,"Say/UH ,/,","Say, - /"
+%,A,"but/CC ,/, uh/UH ,/,","{C but, } {F uh, } - /"
+sv,A,"and/CC I/PRP also/RB think/VBP ,/, just/RB like/IN you/PRP were/VBD talking/VBG about/IN before/RB ,/, why/WRB you/PRP were/VBD chosen/VBN to/TO be/VB on/IN a/DT jury/NN that/WDT ,/, uh/UH ,/, the/DT ,/, just/RB ,/, the/DT process/NN of/IN picking/VBG jurors/NNS is/VBZ not/RB always/RB objective/JJ ./.","{C and } I also think, just like you were talking about before, why you were chosen to be on a jury that, {F uh, } [ [ the, + just, ] + the ] process of picking jurors is not always objective. /"
+aa,B,"Oh/UH ,/, certainly/RB not/RB ,/,","{F Oh, } certainly not, /"
+aa,B,certainly/RB not/RB ./.,certainly not. /
+sv,B,"And/CC ,/, you/PRP know/VBP ,/, they/PRP like/VBP to/TO think/VB that/IN they/PRP 're/VBP getting/VBG someone/NN who/WP 's/BES objective/JJ in/IN all/PDT this/DT ,/,","{C And } <breathing>, {D you know, } they like to think that they're getting someone who's objective in all this, /"
+sv,B,but/CC they/PRP 're/VBP really/RB looking/VBG for/IN someone/NN who/WP will/MD pretty/RB much/RB fulfill/VB the/DT lawyers/NNS '/POS desires/NNS ./.,{C but } they're really looking for someone who will pretty much fulfill the lawyers' desires. /
+%,B,"You/PRP know/VBP ,/, the/DT ,/,","{D You know, } the, - /"
+sd,B,because/IN you/PRP get/VBP up/RB,{C because } you get up /
+sd,B,"and/CC ,/, and/CC they/PRP ask/VBP you/PRP a/DT few/JJ questions/NNS ,/,","[ {C and, } + {C and } ] <breathing> they ask you a few questions, /"
+sd,B,"both/DT sides/NNS do/VBP ,/,","both sides do, /"
+sd,B,"and/CC then/RB you/PRP ,/, you/PRP 're/VBP either/CC challenged/VBN which/WDT is/VBZ ,/,","{C and <breathing> then } [ you, + you're ] either challenged which is, - /"
+sd,B,"you/PRP know/VBP ,/, each/DT attorney/NN can/MD use/VB that/DT as/RB much/RB as/IN they/PRP like/VBP","{D you know, } each attorney can use that as much as they like /"
+sd,B,"or/CC ,/, I/PRP think/VBP it/PRP 's/HVS a/DT limit/NN now/RB ,/,","{C or, } I think it's a limit now, /"
+sv,B,"they/PRP probably/RB have/VBP a/DT limit/NN now/RB ,/,","they probably have a limit now, /"
+sd,B,"but/CC ,/, they/PRP pretty/RB much/RB go/VBP through/IN that/DT ,/,","{C but, } they pretty much go through that, /"
+sd,B,and/CC then/RB you/PRP have/VBP to/TO give/VB a/DT reason/NN to/IN the/DT court/NN why/WRB you/PRP ca/MD n't/RB serve/VB ./.,{C and then } you have to give a reason to the court why you can't serve. /
+sd,B,"For/IN me/PRP ,/, it/PRP was/VBD financial/JJ hardship/NN ,/,","For me, it was financial hardship, /"
+sd,B,"so/RB ./. But/CC ,/, onto/IN the/DT thing/NN ,/, uh/UH ,/, I/PRP was/VBD never/RB aware/JJ that/IN juries/NNS had/VBD any/DT say/NN on/IN recommending/VBG sentencing/NN ./.","[ {C so. } + {C But, } ] onto the thing, {F uh, } I was never aware that juries had any say on recommending sentencing. /"
+sd,B,"It/PRP was/VBD always/RB my/PRP$ impression/NN that/IN the/DT Justice/NNP himself/PRP ,/, or/CC herself/PRP ,/, had/VBD the/DT final/JJ say/NN ./.","It was always my impression that the Justice himself, or herself, had the final say. /"

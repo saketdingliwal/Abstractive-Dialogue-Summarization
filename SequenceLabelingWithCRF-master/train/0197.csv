@@ -1,0 +1,163 @@
+act_tag,speaker,pos,text
+qy,A,You/PRP want/VBP to/TO start/VB ?/.,You want to start? /
+sd,B,"Well/UH ,/, I/PRP guess/VBP I/PRP would/MD first/RB identify/VB myself/PRP as/IN middle/JJ aged/JJ","{D Well, } I guess I would first identify myself as middle aged /"
+sd,B,"and/CC therefore/RB ,/,","{C and } therefore,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"having/VBG seen/VBN the/DT last/JJ generation/NN ,/, I/PRP guess/VBP it/PRP puts/VBZ me/PRP in/IN ,/, you/PRP know/VBP ,/, gives/VBZ me/PRP a/DT perspective/NN on/IN that/DT ./.","having seen the last generation, I guess it [ puts me in, + {D you know, } gives me ] a perspective on that. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"Uh/UH ,/, I/PRP ,/, am/VBP quite/RB positive/JJ on/IN the/DT things/NNS that/IN I/PRP have/VBP seen/VBN happen/VB recently/RB relative/JJ to/IN women/NNS in/IN ,/, both/DT in/IN society/NN and/CC in/IN the/DT work/NN place/NN ,/,","{F Uh, } <smacks> I, am quite positive on the things that I have seen happen recently relative to women [ in, + both in ] society and in the work place, /"
+sd,B,"uh/UH ,/, there/EX 's/BES no/DT doubt/NN about/IN the/DT fact/NN that/IN when/WRB I/PRP was/VBD first/RB graduated/JJ from/IN college/NN the/DT impression/NN was/VBD that/IN a/DT woman/NN 's/POS career/NN would/MD consist/VB of/IN a/DT childbearing/JJ years/NNS and/CC perhaps/RB a/DT return/NN to/IN the/DT office/NN ,/, but/CC not/RB necessarily/RB ./.","{F uh, } there's no doubt about the fact that when I was first graduated from college the impression was that a woman's career would consist of a childbearing years and perhaps a return to the office, but not necessarily. /"
+sd,B,"Uh/UH ,/, now/RB I/PRP think/VBP the/DT change/NN that/WDT I/PRP 've/VBP seen/VBN as/RB much/RB as/IN anything/NN is/VBZ one/NN where/WRB couples/NNS ,/, uh/UH ,/, are/VBP more/RBR carefully/RB planning/VBG their/PRP$ intention/NN on/IN how/WRB to/TO both/DT share/VB homemaking/JJ duties/NNS and/CC also/RB how/WRB women/NNS will/MD ,/, uh/UH ,/, have/VB their/PRP$ children/NNS and/CC then/RB deliberately/RB sort/RB of/RB plan/VB how/WRB they/PRP go/VBP back/RB to/IN the/DT work/NN place/NN ./.","{F Uh, } {D now } I think the change that I've seen as much as anything is one where couples, {F uh, } are more carefully planning their intention on how to both share homemaking duties and also how women will, {F uh, } have their children and then deliberately sort of plan how they go back to the work place. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC I/PRP guess/VBP that/DT 's/BES a/DT significant/JJ change/NN that/WDT I/PRP 've/VBP both/DT participated/VBN in/IN an-/XX ,/, and/CC noticed/VBN ./.","{C And } I guess that's a significant change that I've both participated in [ an-, + and ] noticed. /"
+aa,A,"I/PRP agree/VBP ,/, uh/UH ,/,","I agree, {F uh, } /"
+sd,A,"the/DT equality/NN of/IN ,/, uh/UH ,/, the/DT roles/NNS now/RB between/IN the/DT sexes/NNS ,/, I/PRP guess/VBP has/VBZ been/VBN dramatically/RB demonstrated/VBN with/IN this/DT war/NN ,/, especially/RB compared/JJ with/IN ,/, uh/UH ,/, the/DT Vietnam/NNP war/NN","the equality of, {F uh, } the roles now between the sexes, I guess has been dramatically demonstrated with this war, especially compared with, {F uh, } the Vietnam war /"
+sd,A,and/CC you/PRP see/VBP women/NNS going/VBG off/IN to/IN wars/NNS as/RB well/RB as/IN men/NNS ./.,{C and } you see women going off to wars as well as men. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, I/PRP have/VBP wondered/VBN why/WRB they/PRP allowed/VBD ,/, or/CC let/VBD ,/, you/PRP know/VBP ,/, both/DT the/DT father/NN and/CC mother/NN go/VBP ,/, uh/UH ,/,","{F Uh, } I have wondered why they allowed, or let, {D you know, } both the father and mother go, {F uh, } /"
+sd,A,and/CC the/DT children/NNS are/VBP left/VBN without/IN either/DT parent/NN ./.,{C and } the children are left without either parent. /
+sd,A,Now/RB to/IN me/PRP that/IN 's/BES kind/RB of/RB a/DT drawback/NN ./.,{D Now } to me that's kind of a drawback. /
+sv,A,"But/CC ,/, uh/UH ,/, I/PRP guess/VBP it/PRP 's/BES a/DT price/NN you/PRP pay/VBP ./.","{C But, } {F uh, } I guess it's a price you pay. /"
+sd,A,"And/CC I/PRP also/RB wonder/VBP about/IN the/DT children/NNS that/WDT are/VBP being/VBG brought/VBN up/RP in/IN the/DT ,/, uh/UH ,/, uh/UH ,/, day/NN care/NN centers/NNS ./.","{C And } I also wonder about the children that are being brought up in the, {F uh, } {F uh, } day care centers. /"
+qw,B,Wonder/VBP about/IN them/PRP in/IN what/WP way/NN ?/.,Wonder about them in what way? /
+sd,A,"Well/UH ,/, uh/UH ,/, from/IN what/WP I/PRP understand/VBP there/EX 's/HVS been/VBN studies/NNS that/WDT ,/, uh/UH ,/, these/DT children/NNS are/VBP ,/, uh/UH ,/, more/RBR rebellious/JJ ./.","{D Well, } {F uh, } from what I understand there's been studies that, {F uh, } these children are, {F uh, } more rebellious. /"
+sd,A,"Uh/UH ,/, they/PRP term/VBP it/PRP as/RB more/JJR ,/, uh/UH ,/, creative/JJ ./.","{F Uh, } they term it as more, {F uh, } creative."
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"But/CC ,/, uh/UH ,/, that/IN they/PRP ,/, uh/UH ,/, are/VBP much/RB more/RBR contentious/JJ ./.","But, {F uh, } that they, {F uh, } are much more contentious. /"
+sv,A,"So/RB ,/, I/PRP ,/, I/PRP do/VBP n't/RB ,/, I/PRP ,/, I/PRP guess/VBP we/PRP 'll/MD have/VB to/TO see/VB another/DT generation/NN to/TO see/VB what/WP differences/NNS a/DT child/NN being/VBG brought/VBN up/RP ,/, you/PRP know/VBP ,/, in/IN a/DT ,/, uh/UH ,/, kind/RB of/RB a/DT ,/, uh/UH ,/, community/NN ,/,","{C So, } [ [ I, + I don't, ] + [ I, + I ] guess ] we'll have to see another generation to see what differences a child being brought up, {D you know, } in [ a, + {F uh, } kind of a, ] {F uh, } community,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,rather/IN than/IN a/DT home/NN ./.,rather than a home. /
+sd,B,"I/PRP have/VBP not/RB ,/, to/TO be/VB honest/JJ ,/, had/VBD much/JJ experience/NN ,/,","I have not, to be honest, had much experience,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,with/IN children/NNS in/IN that/DT situation/NN ./.,with children in that situation. /
+sv,B,"I/PRP ,/, I/PRP guess/VBP one/NN knows/VBZ one/NN 's/BES own/JJ storly/RB","[ I, + I ] guess one knows one's own (( storly )) /"
+sd,B,"and/CC I/PRP know/VBP ,/, uh/UH ,/, in/IN my/PRP$ children/NNS 's/POS case/NN it/PRP was/VBD one/CD where/WRB ,/, uh/UH ,/, pretty/RB much/RB up/RP until/IN the/DT older/JJR of/IN two/CD was/VBD in/IN ,/, uh/UH ,/, let/VB 's/PRP see/VB ,/, I/PRP guess/VBP basically/RB starting/VBG junior/JJ high/JJ","{C and } I know, {F uh, } in my children's case it was one where, {F uh, } pretty much up until the older of two was [ in, + ] {F uh, } let's see, I guess basically starting junior high /"
+sd,B,and/CC the/DT younger/JJR was/VBD in/IN fifth/JJ grade/NN when/WRB my/PRP$ wife/NN reentered/VBD the/DT work/NN force/NN ./.,{C and } the younger was in fifth grade when my wife reentered the work force. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"Uh/UH ,/,","{F Uh } <throat_clearing>, /"
+%,A,"So/RB they/PRP ,/,","{C So } they, -/"
+sd,B,"so/UH I/PRP guess/VBP my/PRP$ experience/NN is/VBZ ,/, is/VBZ just/RB with/IN what/WP we/PRP did/VBD","{C so } I guess my experience [ is, + is ] just with what we did /"
+sd,B,"and/CC ,/, and/CC so/RB they/PRP did/VBD n't/RB really/RB go/VB through/IN the/DT child/NN care/NN route/NN ./.","[ {C and, } + {C and so } ] they didn't really go through the child care route. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,They/PRP were/VBD able/JJ to/TO be/VB home/RB together/RB ./.,They were able to be home together. /
+sd,B,"Uh/UH ,/, and/CC we/PRP never/RB actually/RB experienced/VBN that/DT ./.","{F Uh, } {C and } we never actually experienced that. /"
+sd,B,"What/WP ,/, in/IN terms/NNS of/IN changes/NNS relative/JJ to/IN women/NNS in/IN the/DT work/NN place/NN and/CC the/DT potential/JJ changes/NNS over/IN the/DT ,/, the/DT next/JJ generation/NN or/CC so/RB ,/, I/PRP guess/VBP I/PRP anticipate/VBP ,/, uh/UH ,/, an/DT increasing/VBG equality/NN ,/, uh/UH ,/, greater/JJR presence/NN of/IN women/NNS in/IN management/NN roles/NNS --/:","[ What, + ] in terms of changes relative to women in the work place and the potential changes over [ the, + the ] next generation or so, I guess I anticipate, {F uh, } an increasing equality, {F uh, } greater presence of women in management roles -- /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sd,B,"--/: uh/UH ,/, I/PRP do/VBP n't/RB know/VB whether/IN there/EX will/MD be/VB an/DT increased/JJ amount/NN of/IN ,/, of/IN surrogacy/NN that/IN we/PRP see/VBP ./.","-- {F uh, } I don't know whether there will be an increased amount [ of, + of ] surrogacy that we see. /"
+h,B,I/PRP just/RB do/VBP n't/RB know/VB ./.,I just don't know. /
+qw,A,What/WP do/VBP you/PRP mean/VB ?/.,What do you mean? /
+sd,B,"Uh/UH ,/, deliberate/JJ childbirth/NN by/IN surrogate/JJ mother/NN ./.","{F Uh, } deliberate childbirth by surrogate mother. /"
+bk,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,"Sort/RB of/RB rent-a-mom/NN ,/,","Sort of rent-a-mom, /"
+sd,B,"to/TO be/VB ,/, you/PRP know/VBP ,/,","[ to be, + {D you know, }"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"not/RB to/TO be/VB crass/JJ about/IN it/PRP ,/, but/CC ,/, uh/UH ,/,","not to be ] crass about it, but, {F uh, }"
+ba,A,That/DT 's/BES strange/JJ ./.,That's strange. /
++,B,"uh/UH ,/, whether/IN one/NN might/MD conceive/VB ,/, no/DT pun/NN intended/VBD ,/, of/IN the/DT possibility/NN that/WDT there/EX might/MD be/VB a/DT kind/NN of/IN a/DT deliberate/JJ ,/, uh/UH ,/, uh/UH --/:","{F uh, } whether one might conceive, <laughter> no pun intended, of the possibility that there might be a kind of [ a deliberate, + {F uh, } {F uh } --"
+qy^d,A,"A/DT nanny/NN ,/, sort/RB of/RB ?/.","A nanny, sort of? /"
++,B,"--/: a/DT professional/JJ mother/NN ,/, a-/DT ,/,","-- a professional ] mother, [ a-, + ]"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,person/NN ./.,person.
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"For/IN instance/NN ,/, that/DT ,/,","For instance, that, - /"
+sd,B,"and/CC I/PRP could/MD ,/, you/PRP know/VBP ,/, I/PRP could/MD envision/VB a/DT society/NN where/WRB that/DT would/MD happen/VB and/CC make/VB an/DT interesting/JJ ,/, uh/UH ,/, uh/UH ,/, story/NN or/CC whatever/WP ./.","{C and } [ I could, + {D you know, } I could ] envision a society where that would happen and make an interesting, {F uh, } {F uh, } story or whatever. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"I/PRP ,/, I/PRP do/VBP n't/RB think/VB I/PRP have/VBP a/DT philosophical/JJ problem/NN with/IN that/DT ./.","[ I, + I ] don't think I have a philosophical problem with that. /"
+sv,B,"In/IN fact/NN ,/, I/PRP think/VBP it/PRP sort/RB of/RB raises/VBG nurturing/NN and/CC being/VBG a/DT mother/NN to/IN what/WP it/PRP ought/MD to/TO be/VB which/WDT is/VBZ a/DT respected/JJ profession/NN ./.","In fact, I think it sort of raises nurturing and being a mother to what it ought to be which is a respected profession. /"
+aa,A,"That/DT 's/BES right/JJ ,/,","That's right, /"
+aa,A,that/DT 's/BES right/JJ ./.,that's right. /
+sd,B,"Uh/UH ,/, I/PRP ,/, I/PRP do/VBP n't/RB have/VB a/DT ,/, other/JJ than/IN ,/, than/IN a/DT reading/NN and/CC ,/, and/CC male/JJ perspective/NN on/IN ,/, on/IN the/DT ver-/XX ,/, on/IN the/DT biological/NN urges/VBZ involved/VBN relative/JJ to/IN being/VBG a/DT mother/NN or/CC not/RB ./.","{F Uh, } [ I, + I ] don't have [ a, + other ] [ than, + than ] a reading [ and, + and ] male perspective [ [ on, + on the ver-, ] + on the biological ] urges involved relative to being a mother or not. /"
+sd,B,"Uh/UH ,/, I/PRP know/VBP that/IN ,/, that/IN my/PRP$ sense/NN is/VBZ that/IN I/PRP have/VBP very/RB much/JJ an/DT interest/NN and/CC had/VBD one/NN in/IN being/VBG a/DT parent/NN ./.","{F Uh, } [ I know [ that, + that ] + my sense is that ] I have very much an interest and had one in being a parent. /"
+sd,B,"I/PRP ,/, I/PRP do/VBP n't/RB know/VB that/DT I/PRP ,/, uh/UH ,/, felt/VBD myself/PRP necessarily/RB encumbered/VBN with/IN the/DT necessity/NN to/TO have/VB heirs/NNS ./.","[ I, + I ] don't know that I, {F uh, } felt myself necessarily encumbered with the necessity to have heirs. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Uh/UH ,/, I/PRP do/VBP n't/RB have/VB boys/NNS ,/,","{F Uh, } I don't have boys, /"
+sd,B,"that/WDT does/VBZ n't/RB ,/, did/VBD n't/RB bother/VB me/PRP ,/,","that [ doesn't, + didn't ] bother me, /"
+sd,B,never/RB has/VBZ ./.,never has. /
+sd,B,"Vision/NN more/RBR women/NNS deliberately/RB raising/VBG children/NNS either/CC in/IN surrogacy/NN or/CC ,/, or/CC as/IN a/DT professional/JJ nanny/NN ,/, nanny/NN as/IN you/PRP put/VBP it/PRP ,/, uh/UH ./.","Vision more women deliberately raising children either in surrogacy [ or, + or ] as a professional [ nanny, + nanny ] as you put it, {F uh. } /"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"Maybe/RB we/PRP 'll/MD see/VB a/DT growth/NN in/IN that/DT where/WRB someone/NN makes/VBZ a/DT career/NN out/IN of/IN ,/, say/VB ,/, taking/VBG care/NN of/IN five/CD or/CC six/CD children/NNS as/IN opposed/VBN to/IN day/NN care/NN ./.","Maybe we'll see a growth in that where someone makes a career out of, say, taking care of five or six children as opposed to day care. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sv,B,"It/PRP would/MD be/VB a/DT sort/NN of/IN day/NN care/NN ,/,","It would be a sort of day care, /"
+sv,B,but/CC it/PRP would/MD be/VB more/JJR of/IN a/DT family/NN setting/NN ./.,{C but } it would be more of a family setting. /
+b,A,Right/UH ./.,Right. /
+sd,B,"Uh/UH ,/, I/PRP know/VBP that/IN there/EX are/VBP young/JJ people/NNS ,/, characterized/VBN ,/, I/PRP guess/VBP as/IN being/VBG half/DT my/PRP$ age/NN ,/, so/RB that/IN by/IN definition/NN that/WDT means/VBZ ,/,","{F Uh, } I know that there are young people, characterized, I guess as being half my age, so [ that + by definition that ] means,"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
++,B,"they/PRP 're/VBP young/JJ ./. Uh/UH ,/, that/IN ,/, in/IN my/PRP$ work/NN place/NN ,/, who/WP are/VBP both/DT of/IN them/PRP earning/VBG rather/RB decent/JJ professional/JJ salaries/NNS who/WP probably/RB would/MD consider/VB paying/VBG a/DT woman/NN ,/, uh/UH ,/, eight/CD or/CC nine/CD or/CC ten/CD thousand/CD dollars/NNS a/DT year/NN to/TO take/VB care/NN of/IN their/PRP$ child/NN ,/,","they're young. {F Uh, } [ that, + ] in my work place, who are both of them earning rather decent professional salaries who probably would consider paying a woman, {F uh, } eight or nine or ten thousand dollars a year to take care of their child, /"
+qy^d,A,To/TO come/VB in/IN and/CC live/VB with/IN them/PRP ?/.,To come in and live with them? /
+sd,B,I/PRP could/MD easily/RB envision/VB that/DT ./.,I could easily envision that. /
+bf,B,Pardon/UH ?/.,Pardon? /
+qy,A,To/TO come/VB in/IN and/CC live/VB with/IN them/PRP ?/.,To come in and live with them? /
+sd,B,"Or/CC to/TO put/VB their/PRP$ child/NN into/IN a/DT s-/NN ,/, into/IN a/DT home/NN setting/NN ,/,","Or to put their child [ into a s-, + into a home setting, ]"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"where/WRB they/PRP would/MD ,/, you/PRP know/VBP ,/, like/IN they/PRP ,/, they/PRP would/MD get/VB ,/, leave/VB at/IN eight/CD in/IN the/DT morning/NN and/CC ,/, and/CC drop/VB a/DT two/CD year/NN old/NN off/RP in/IN a/DT home/NN where/WRB you/PRP knew/VBD there/EX were/VBD going/VBG to/TO be/VB four/CD other/JJ kids/NNS","where [ they would, + {D you know, } {D like } [ they, + they ] would ] [ get, + leave ] at eight in the morning [ and, + and ] drop a two year old off in a home where you knew there were going to be four other kids /"
+sd,B,"and/CC ,/,","[ {C and, } +"
+b,A,Yeah/UH ./.,Yeah. /
++,B,and/CC you/PRP were/VBD paying/VBG for/IN really/RB high/JJ quality/NN care/NN ./.,{C and } ] you were paying for really high quality care. /
+b,A,Right/UH ./.,Right. /
+sd,B,"Uh/UH ,/, I/PRP have/VBP acquaintances/NNS of/IN mine/NN where/WRB I/PRP know/VBP that/IN they/PRP are/VBP paying/VBG figures/NNS on/IN ,/, on/IN the/DT order/NN of/IN what/WP I/PRP quoted/VBD to/IN someone/NN ,/, because/IN that/DT 's/BES what/WP the/DT experience/NN they/PRP want/VBP","{F Uh, } I have acquaintances of mine where I know that they are paying figures [ on, + on ] the order of what I quoted to someone, because that's [ what + ] the experience they want /"
+sd,B,"and/CC I/PRP would/MD imagine/VB if/IN there/EX are/VBP more/JJR of/IN people/NNS like/IN that/DT with/IN an/DT opportunity/NN that/IN ,/, that/DT 's/BES a/DT possibility/NN of/IN a/DT change/NN --/:","{C and } I would imagine if there are more of people like that with an opportunity [ that, + that's ] a possibility of a change --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: that/IN we/PRP could/MD see/VB in/IN the/DT next/JJ few/JJ years/NNS ./.,-- that we could see in the next few years. /
+bf,A,"And/CC then/RB you/PRP might/MD have/VB more/JJR control/NN over/IN ,/, uh/UH ,/, the/DT ,/, the/DT morals/NNS that/WDT they/PRP would/MD be/VB taught/VBN rather/IN than/IN in/IN like/IN a/DT classroom/NN or/CC a/DT day/NN care/NN center/NN ./.","{C And then } you might have more control over, {F uh, } [ the, + the ] morals that they would be taught rather than in {D like } a classroom or a day care center. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+sd,A,I/PRP know/VBP the/DT day/NN care/NN centers/NNS are/VBP not/RB cheap/JJ either/RB ./.,I know the day care centers are not cheap either. /
+%,A,"You/PRP know/VBP they/PRP 're/VBP ,/,","{D You know } they're, -/"
+sd,B,I/PRP have/VBP n't/RB ever/RB really/RB looked/VBN at/IN them/PRP ./.,I haven't ever really looked at them. /
+qy,B,"Are/VBP you/PRP aware/JJ at/IN all/DT ,/,","Are you aware at all,"
+nn,A,"Uh/UH ,/, well/UH ,/, no/UH ,/,","{F Uh, } {D well, } no, /"
++,B,"of/IN ,/, of/IN what/WP they/PRP would/MD ,/, what/WP they/PRP cost/VBP ?/.","[ of, + of ] [ what they would, + what they cost? ] /"
+sd,A,"I/PRP just/RB know/VBP ,/, I/PRP know/VBP several/JJ single/JJ mothers/NNS who/WP absolutely/RB ca/MD n't/RB afford/VB it/PRP ./.","[ I just know, + I know ] several single mothers who absolutely can't afford it. /"
+sd,A,"They/PRP have/VBP to/TO go/VB with/IN the/DT ,/, a/DT single/JJ ,/, uh/UH ,/, wh-/XX ,/, I/PRP mean/VBP a/DT baby-sitter/NN more/JJR ,/, more/RBR or/CC less/RBR ./.","They have to go with [ [ the, + a single, ] + {F uh, } [ wh-, + ] {E I mean } a ] baby-sitter [ more, + more ] or less. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"But/CC I/PRP think/VBP it/PRP 's/BES like/IN ,/, about/RB sixty/CD dollars/NNS a/DT week/NN for/IN two/CD children/NNS --/:","{C But } I think it's {D like, } about sixty dollars a week for two children --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: if/IN I/PRP 'm/VBP not/RB mistaken/JJ ./.,-- if I'm not mistaken. /
+sd,A,"And/CC you/PRP have/VBP to/TO pay/VB that/DT whether/IN you/PRP 're/VBP on/IN vacation/NN ,/, you/PRP know/VBP ,/, and/CC taking/VBG care/NN of/IN the/DT children/NNS or/CC if/IN the/DT children/NNS are/VBP at/IN home/NN ,/, at/IN home/NN ,/,","{C And } you have to pay that whether you're on vacation, {D you know, } and taking care of the children or if the children are [ at home, + at home, ]"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,sick/JJ ./.,sick. /
+sd,A,"I/PRP mean/VBP ,/, that/DT is/VBZ ,/, you/PRP know/VBP ,/, just/RB a/DT ,/, a/DT rate/NN that/WDT you/PRP have/VBP to/TO pay/VB","{E I mean, } that is, {D you know, } just [ a, + a ] rate that you have to pay /"
+%,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+qw,B,"What/WP ,/, what/WP do/VBP you/PRP envision/VB for/IN the/DT next/JJ twenty/CD years/NNS as/RB far/RB as/IN women/NNS in/IN American/JJ society/NN ?/.","[ What, + what ] do you envision for the next twenty years as far as women in American society? /"
+sd,A,"Uh/UH ,/, I/PRP think/VBP ,/, I/PRP really/RB do/VBP n't/RB have/VB a/DT vision/NN ./.","{F Uh, } <<pause>> I think, I really don't have a vision <laughter>. /"
+sv,B,"That/DT 's/BES okay/JJ ,/, too/RB ./.","That's okay, too. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"I/PRP ,/, I/PRP ,/, I/PRP think/VBP that/IN they/PRP will/MD be/VB more/JJR in/IN the/DT work/NN place/NN because/IN ,/, uh/UH ,/, the/DT door/NN 's/BES open/JJ ./.","[ [ I, + I, ] + I ] think that they will be more in the work place because, {F uh, } the door's open. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"And/CC ,/, uh/UH ,/, it/PRP 's/BES just/RB human/JJ nature/NN to/TO walk/VB through/IN an/DT open/VB door/NN ./.","{C And, } {F uh, } it's just human nature to walk through an open door. /"
+sd,A,"So/RB ,/, and/CC I/PRP would/MD be/VB glad/JJ to/TO see/VB that/DT ./.","[ {C So, } + {C and } ] I would be glad to see that. /"
+sd,A,"I/PRP hope/VBP I/PRP do/VBP n't/RB see/VB a/DT lot/NN more/RBR single/JJ moms/NNS ,/,","I hope I don't see a lot more single moms, /"
+sd,A,"but/CC ,/,","{C but, }"
+%,B,MUMBLEx/XX ./.,(( )) .
++,A,"i-/XX ,/, it/PRP seems/VBZ in/IN my/PRP$ experience/NN I/PRP 'm/VBP running/VBG across/IN single/JJ women/NNS all/PDT the/DT time/NN ./.","[ i-, + it ] seems in my experience I'm running across single women all the time. /"
+sd,B,"I/PRP 'm/VBP ,/, I/PRP 'm/VBP noticing/VBG that/DT ,/, too/RB ,/,","[ I'm, + I'm ] noticing that, too, /"
+sd,B,"and/CC ,/, and/CC I/PRP notice/VBP the/DT ,/, the/DT ,/, a/DT terming/VBG ex-/XX ,/, em/VBG ,/, emerging/VBG called/VBN solo/NN parents/NNS ,/,","[ {C and, } + {C and } ] I notice [ [ the, + the, ] + a ] terming [ [ ex-, + em-, ] + emerging ] called solo parents,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"that/WDT I/PRP 'm/VBP very/RB aware/JJ of/IN the/DT number/NN of/IN solo/NN mothers/NNS that/WDT ,/, that/WDT I/PRP encounter/VBP in/IN the/DT work/NN place/NN ,/,","that I'm very aware of the number of solo mothers [ that, + that ] I encounter in the work place, /"
+sv,B,"and/CC that/WDT ,/, that/WDT is/VBZ a/DT little/RB troublesome/JJ ./.","{C and } [ that, + that ] is a little troublesome."
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
++,B,"Uh/UH ,/, because/IN the/DT pressures/NNS on/IN them/PRP are/VBP ,/, are/VBP ,/,","{F Uh, } because the pressures on them [ are, + are, ]"
+sv,A,It/PRP 's/BES awful/JJ ./.,It's awful. /
++,B,"rather/RB ,/, rather/RB formidable/JJ ./.","[ rather, + rather ] formidable. /"
+b,A,Yeah/UH ./.,Yeah <<faint>>. /
+sd,B,"Uh/UH ,/, and/CC maybe/RB that/DT 's/BES a/DT change/NN we/PRP 'll/MD see/VB ./.","{F Uh, } {C and } maybe that's a change we'll see. /"
+sd,B,"Maybe/RB ,/, uh/UH ,/, the/DT possibility/NN of/IN ,/, of/IN women/NNS ,/, uh/UH ,/, who/WP deliberately/RB say/VBP ,/, no/UH ,/,","Maybe, {F uh, } the possibility [ of, + of ] women, {F uh, } who deliberately say, no, /"
+^q,B,"we/PRP 'll/MD let/VB the/DT man/NN will/MD take/VB care/NN of/IN the/DT children/NNS perhaps/RB ,/,","we'll let the man [ will + take ] care of the children perhaps,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,in/IN the/DT event/NN of/IN a/DT separation/NN or/CC whatever/WDT ./.,in the event of a separation or whatever. /
+b,A,Right/UH ./.,Right. /
+%,B,"So/UH ,/,","{D So, } -/"
+sd,A,"Well/UH ,/, I/PRP think/VBP we/PRP 've/VBP done/VBN it/PRP ./.","{D Well, } I think we've done it <laughter>. /"
+b^m,B,"Well/UH ,/, I/PRP think/VBP we/PRP 're/VBP about/RB done/VBN ./.","{D Well, } I think we're about done. /"
+b,B,Okay/UH ./.,Okay. /
+ft,A,Thank/VB you/PRP very/RB much/RB ./.,Thank you very much. /
+fc,B,"Uh/UH ,/, good-bye/UH ./.","{F Uh, } good-bye. /"
+fc,A,It/PRP 's/HVS been/VBN interesting/JJ ./.,It's been interesting. /
+fc,B,You/PRP take/VBP care/NN ./.,You take care. /
+fc,A,Okay/UH ./.,Okay. /
+fc,B,Bye/UH ./.,Bye. /
+fc,A,Bye/UH ./.,Bye. /

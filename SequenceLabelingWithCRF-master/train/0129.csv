@@ -1,0 +1,80 @@
+act_tag,speaker,pos,text
+qo,A,"So/UH ,/, uh/UH ,/, what/WDT things/NNS do/VBP you/PRP consider/VB an/DT invasion/NN of/IN privacy/NN ?/.","{D So, } {F uh, } what things do you consider an invasion of privacy? /"
+no,B,"Ooh/UH ,/, well/UH I/PRP do/VBP n't/RB know/VB ./.","{F Ooh, } {D well } I don't know. /"
+qo,B,What/WP do/VBP you/PRP think/VB ?/.,What do you think? /
+no,A,"Oh/UH ,/, I/PRP do/VBP n't/RB know/VB ./.","{F Oh, } I don't know. /"
+sd,A,I/PRP had/VBD a/DT little/JJ bit/NN more/JJR time/NN to/TO think/VB about/IN it/PRP ./.,I had a little bit more time to think about it. /
+sd,A,"I/PRP was/VBD thinking/VBG of/IN ,/, like/UH ,/, uh/UH ,/,","I was thinking of, {D like, } {F uh, } - /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","<sniffing> I don't know, /"
+sd,A,"I/PRP was/VBD ju-/XX ,/, started/VBD to/TO think/VB about/IN all/PDT the/DT big/JJ ,/, you/PRP know/VBP ,/, data/NN bases/NNS they/PRP have/VBP with/IN all/PDT the/DT information/NN about/IN you/PRP on/IN them/PRP like/IN the/DT credit/NN reports/NNS --/:","I [ was ju-, + started ] to think about all the big, {D you know, } data bases they have with all the information about you on them like the credit reports --"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,uh-huh/UH ./.,uh-huh. /
++,A,"--/: and/CC all/PDT those/DT ,/, you/PRP know/VBP ,/, demographics/NNS studies/NNS that/WDT they/PRP do/VBP that/WDT ,/, um/UH ,/, you/PRP know/VBP ,/, have/VBP ,/, who/WP knows/VBZ ,/, how/WRB much/JJ ,/, you/PRP know/VBP ,/, stuff/NN about/IN all/PDT the/DT purchases/NNS that/WDT you/PRP 've/VBP made/VBN and/CC everything/NN kept/VBN tract/NN somewhere/RB","-- and all those, {D you know, } demographics studies that they do that, <swallowing> {F um, } {D you know, } have, who knows, how much, {D you know, } stuff about all the purchases that you've made and everything kept tract somewhere /"
+h,A,"and/CC I/PRP do/VBP n't/RB know/VB ,/,","{C and } <sniffing> I don't know, /"
+sd,A,"I/PRP do/VBP n't/RB know/VB how/WRB much/JJ the/DT stuff/NN actually/RB ,/, what/WP they/PRP actually/RB have/VBP in/IN there/RB","I don't know [ how much the stuff actually, + what they actually have ] in there /"
+sv,A,but/CC --/:,{C but } --
+b,B,Huh/UH ./.,{F Huh. } /
++,A,"--/: I/PRP know/VBP they/PRP use/VBP that/DT ,/, I/PRP mean/VBP they/PRP sell/VBP those/DT ,/,","-- I know [ they use that, + {E I mean } they sell those, ] -/"
+qo,B,"Well/UH what/WP about/IN ,/, uh/UH ,/, required/JJ drug/NN testing/NN ,/, uh/UH ,/, as/IN a/DT ,/, uh/UH ,/, condition/NN of/IN employment/NN ?/.","{D Well } what about, {F uh, } required drug testing, {F uh, } as a, {F uh, } condition of employment? /"
+^h,A,"Yeah/UH ,/,","<Sniffing> Yeah, /"
+sd,A,"that/DT was/VBD ,/, that/DT ,/, that/DT was/VBD the/DT other/JJ one/NN I/PRP was/VBD thinking/VBG of/IN ./.","[ that was, + [ that, + that ] was ] the other one I was thinking of <sniffing>. /"
+%,A,"I/PRP think/VBP that/DT 's/BES ,/, uh/UH ,/,","I think that's, {F uh, } - /"
+sd,A,I/PRP mean/VBP I/PRP know/VBP drugs/NNS are/VBP illegal/JJ ./.,{E I mean } I know drugs <noise> are illegal. /
+%,B,It/PRP MUMBLEx/XX thing/NN actually/RB ./.,It (( )) thing actually. - /
+sd,B,"Uh/UH ,/, I/PRP ,/, uh/UH ,/, have/VBP worked/VBN at/IN Texas/NNP Instruments/NNPS ./.","{F Uh, } I, {F uh, } have worked at Texas Instruments. /"
+b,A,Huh/UH ./. Uh-huh/UH ./.,<Noise> {F Huh. } Uh-huh. /
+sd,B,"And/CC ,/, uh/UH ,/, they/PRP instituted/VBD a/DT drug/NN policy/NN there/RB ./. Drug/NN testing/NN policy/NN where/WRB they/PRP randomly/RB would/MD test/VB ,/, uh/UH ,/, employees/NNS --/:","{C And, } {F uh, } they instituted a [ drug policy there. + Drug testing policy ] where they randomly would test, {F uh, } employees -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC actually/RB ,/, to/TO tell/VB you/PRP the/DT truth/NN ,/, I/PRP really/RB did/VBD not/RB think/VB much/RB about/IN it/PRP ./.","-- {C and } {D actually, } to tell you the truth, I really did not think much about it. /"
+sd,B,"I/PRP ,/, I/PRP had/VBD n't/RB ,/, you/PRP know/VBP ,/,","[ I, + I ] hadn't, {D you know, } /"
+sd,B,it/PRP really/RB did/VBD n't/RB relate/VB to/IN me/PRP ./.,it really didn't relate to me. /
+qh,B,"But/CC there/EX were/VBD some/DT things/NNS that/WDT people/NNS brought/VBD up/RP like/IN well/UH what/WP happens/VBZ if/IN they/PRP ,/, they/PRP get/VBP a/DT false/JJ positive/NN ,/, you/PRP know/VBP ,/, what/WP recourse/NN do/VBP you/PRP have/VB ./.","{C But } there were some things that people brought up like {D well } what happens if [ they, + they ] get a false positive, {D you know, } what recourse do you have. /"
+b,A,Uh-huh/UH ./.,<Talking> Uh-huh. /
+sv,B,"And/CC ,/, also/RB ,/, uh/UH ,/, uh/UH ,/, this/DT is/VBZ against/IN the/DT law/NN for/IN the/DT government/NN to/TO do/VB this/DT kind/NN of/IN thing/NN ,/, this/DT kind/NN of/IN big/JJ brother/NN activity/NN","{C And, } <throat_clearing> also, {F uh, } {F uh, } this is against the law for the government to do [ this kind of thing, + this kind of big brother activity ] /"
+sv,B,"and/CC yet/RB ,/, uh/UH ,/, a/DT lot/NN of/IN these/DT large/JJ corporations/NNS such/IN as/IN Texas/NNP Instruments/NNPS ,/, although/IN they/PRP do/VBP n't/RB admit/VB to/IN it/PRP ,/, it/PRP 's/BES actually/RB ,/, oh/UH ,/, a/DT drug/NN testing/NN policy/NN comes/VBZ about/RP as/IN a/DT result/NN of/IN government/NN pressure/NN ./.","{C and } yet, {F uh, } a lot of these large corporations such as Texas Instruments, although they don't admit to it, [ it's + {D actually, } {F oh, } a drug testing policy comes ] about as a result of government pressure. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"So/RB what/WP that/DT means/NN is/VBZ ,/, to/IN me/PRP ,/, that/DT really/RB it/PRP 's/BES the/DT government/NN that/WDT 's/BES requiring/VBG this/DT ,/,","{C So } <throat_clearing> what that means is, to me, that really it's the government that's requiring this, /"
+sv,B,"although/IN they/PRP do/VBP n't/RB actually/RB e/VB ,/, execute/VB it/PRP themselves/PRP ,/, it/PRP 's/BES really/RB the/DT government/NN that/WDT MUMBLEx/XX ./.","although they don't actually [ e-, + execute ] it themselves, it's really the government that (( )) . - /"
+sv,B,"So/RB ,/, in/IN that/DT sense/NN ,/, it/PRP ,/, at/IN least/JJS ,/, philosophically/RB ,/, it/PRP 's/BES really/RB borderline/NN legal/JJ ./.","{C So, } in that sense, [ it, + at least, philosophically, it's ] really borderline legal. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Well/UH I/PRP ,/, I/PRP think/VBP the/DT ,/, I/PRP think/VBP that/IN ,/, you/PRP know/VBP ,/, a/DT person/NN 's/POS competence/NN should/MD be/VB more/RBR determined/VBN by/IN ,/, you/PRP know/VBP ,/, their/PRP$ actions/NNS and/CC their/PRP$ behavior/NN","{D Well } <talking> [ [ I, + I ] think the, + I think that, ] {D you know, } a person's competence should be more determined by, {D you know, } their actions and their behavior /"
+sv,A,"and/CC if/IN they/PRP 're/VBP ,/, you/PRP know/VBP ,/, if/IN they/PRP 're/VBP on/IN some/DT kind/NN of/IN ,/, you/PRP know/VBP ,/, contol/JJ ,/, controlled/JJ substance/NN then/RB ,/, you/PRP know/VBP ,/, it/PRP kinds/RB of/RB takes/VBZ away/RB from/IN the/DT job/NN of/IN ,/, you/PRP know/VBP ,/, the/DT supervisor/NN or/CC manager/NN type/JJ person/NN ,/, you/PRP know/VBP ,/, who/WP is/VBZ able/JJ to/TO evaluate/VB them/PRP ./.","{C and } [ if they're, + {D you know, } if they're ] on some kind of, {D you know, } [ contol-, + controlled ] substance then, {D you know, } it kinds of takes away from the job of, {D you know, } the supervisor or manager type person, {D you know, } who is able to evaluate them. /"
+sv,A,"I/PRP think/VBP they/PRP should/MD be/VB evaluated/VBN that/DT way/NN rather/IN than/IN with/IN a/DT ,/, you/PRP know/VBP ,/, a/DT chemical/NN ,/, you/PRP know/VBP ,/,","I think they should be evaluated that way rather than <sniffing> with [ a, + {D you know, } a ] chemical, {D you know, } /"
+qh,B,"Well/UH ,/, what/WP about/IN this/DT ,/, uh/UH ,/, AIDS/NN epidemic/NN now/RB ?/.","{D Well, } what about this, {F uh, } AIDS epidemic now? /"
+sv,B,"Where/WRB you/PRP find/VBP that/IN ,/, uh/UH ,/, uh/UH ,/, you/PRP know/VBP ,/, certain/JJ people/NNS are/VBP actually/RB are/VBP ,/, are/VBP criminal/JJ in/IN their/PRP$ disregard/NN for/IN it-/XX ,/, --/:","Where you find that, {F uh, } {F uh, } {D you know, } certain people [ are + actually [ are, + are ] ] criminal in their disregard for [ it-, + --"
+qy,A,These/DT people/NNS that/WDT are/VBP carriers/NNS and/CC do/VBP n't/RB --/:,<Sniffing> These people that are carriers and [ don't + --
++,B,--/: others/NNS ./.,-- others. ] /
+%,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,and/CC --/:,[ {C and } + --
++,A,--/: that/WDT do/VBP n't/RB reveal/VB it/PRP ?/.,-- that don't ] reveal it? /
++,B,"--/: and/CC ,/, uh/UH ,/, of/IN course/NN ,/, the/DT ultimate/JJ solution/NN is/VBZ to/TO operate/VB on/IN their/PRP$ brain/NN so/IN that/IN it/PRP does/VBZ n't/RB ,/,","-- {C and, } ] {F uh, } of course, the ultimate solution is to operate on their brain so that it doesn't, -/"
+x,A,./.,<Sniffing>.
+sv,B,"it/PRP ,/, uh/UH ,/, it/PRP destroys/VBZ their/PRP$ libido/NN ./.","[ it, + {F uh, } it ] destroys their libido. /"
+sv,A,"Yeah/UH ,/, tha-/DT ,/, that/DT would/MD be/VB kind/RB of/RB an/DT extreme/NN ./.","<Laughter> (( Yeah, [ tha-, + )) that ] would be kind of an extreme. /"
+%,B,"Now/UH ,/, uh/UH ,/, you/PRP know/VBP if/IN they/PRP ever/RB ,/,","{D Now, } {F uh, } {D you know } if they ever, -/"
+sd,A,"I/PRP mean/VBP I/PRP 've/VBP heard/VBN of/IN things/NNS like/IN ,/, you/PRP know/VBP ,/, making/VBG them/PRP ,/, you/PRP know/VBP ,/, marking/VBG them/PRP somehow/RB or/CC ,/, you/PRP know/VBP ,/, or/CC something/NN like/IN that/DT or/CC ,/, you/PRP know/VBP ,/, putting/VBG them/PRP all/DT someplace/RB like/IN in/IN a/DT kind/RB of/RB ,/,","{E I mean } I've heard of things like, {D you know, } [ making them, + {D you know, } marking them ] somehow [ or, + {D you know, } or ] something like that or, {D you know, } putting them all someplace like in a kind of, -/"
+qo,B,So/RB what/WP about/IN that/DT as/IN an/DT invasion/NN of/IN privacy/NN ?/.,{C So } what about that as an invasion of privacy? /
+^h,A,Yeah/UH ./.,Yeah. /
+sv,A,"Wel-/UH ,/, I/PRP guess/VBP it/PRP kind/RB of/RB borders/VBZ on/IN where/WRB ,/, I/PRP mean/VBP what/WP do/VBP you/PRP value/VB more/RBR ./. The/DT invasion/NN of/IN ,/, uh/UH ,/, the/DT person/NN 's/POS privacy/NN or/CC the/DT possible/JJ danger/NN to/IN ,/, you/PRP know/VBP ,/, other/JJ people/NNS ./.","{D Wel-, } I guess it kind of borders on [ where, + {E I mean } what ] do you value more. The invasion of, {F uh, } the person's privacy or the possible danger to, {D you know, } other people. /"
+b,B,"So/RB really/RB ,/,","{C So } really, /"
+bf,B,"it/PRP i-/PRP ,/, gets/VBZ to/IN balancing/VBG ,/, uh/UH ,/, personal/JJ freedom/NN against/IN ,/, uh/UH ,/, the/DT general/JJ welfare/NN --/:","it [ i-, + ] gets to balancing, {F uh, } personal freedom against, {F uh, } the general welfare --"
+aa,A,Yeah/UH ./.,Yeah. /
++,B,--/: of/IN society/NN ./.,-- of society. /
+sv,A,"I/PRP guess/VBP that/DT 's/HVS alwa-/RB ,/, that/DT 's/HVS been/VBN the/DT big/JJ role/NN of/IN government/NN ,/, I/PRP guess/VBP ./. I/PRP mean/VBP generally/RB ./.","I guess [ that's alwa-, + that's been ] the big role of government, I guess <laughter>. {E I mean } generally. /"
+sv,B,"Well/UH ,/, it/PRP ,/, it/PRP 's/BES supposed/VBN to/TO have/VB been/VBN ./.","{D Well, } [ it, + it's ] supposed to have been. /"
+aa,A,Yeah/UH,Yeah /
+aa,A,./. Yeah/UH ./.,<laughter>. Yeah. /
+sv,A,"Well/UH ,/, that/DT 's/BES kind/RB of/RB a/DT difficult/JJ one/NN to/TO go/VB into/IN ./.","{D Well, } that's kind of a difficult one to go into. /"
+sv,A,"I/PRP mean/VBP that/DT ,/, that/DT particular/JJ case/NN ./.","I mean [ that, + that ] particular case. /"
+ar,B,"No/UH ,/,","<Throat_clearing> (( No, /"
+%,B,"it/PRP ,/,","it )) , -/"
+sv,A,"Because/IN I/PRP mean/VBP ,/, there/EX 's/BES a/DT lot/NN of/IN people/NNS that/WDT ,/, uh/UH ,/, I/PRP mean/VBP they/PRP could/MD require/VB ,/, you/PRP know/VBP ,/, ob/JJ ,/, obligatory/JJ AIDS/NN testing/NN for/IN everyone/NN because/IN I/PRP 'm/VBP ,/, you/PRP know/VBP ,/, there/EX 's/BES a/DT huge/JJ part/NN of/IN the/DT population/NN ,/,","{C Because } {E I mean, } there's a lot of people that, {F uh, } {E I mean } they could require, {D you know, } <swallowing> [ ob-, + obligatory ] AIDS testing for everyone because [ I'm, + ] {D you know, } there's a huge part of the population, /"
+sv,A,"not/RB a/DT huge/JJ part/NN but/CC a/DT ,/, you/PRP know/VBP --/:","not a huge part {C but } a, {D you know } -- -/"
+^2,B,A/DT growing/VBG part/NN ./.,A growing part. /
+sv,A,"--/: the/DT AIDS/NN population/NN I/PRP guess/VBP that/WDT have/VBP it/PRP ,/, that/WDT do/VBP n't/RB know/VB they/PRP do/VBP --/:","-- the AIDS population I guess that have it, that don't know they do --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: are/VBP spreading/VBG it/PRP ./.,-- are spreading it. /
+sv,A,"But/CC ,/, again/RB ,/, to/TO require/VB ,/, you/PRP know/VBP ,/, such/PDT a/DT test/NN and/CC jus-/XX ,/, and/CC then/RB to/TO make/VB ,/, make/VB it/PRP MUMBLEx/XX is/VBZ to/TO subject/VB them/PRP to/IN ,/, to/IN discrimi/JJ ,/, discriminatory/JJ practices/NNS and/CC other/JJ things/NNS ./.","{C But, } again, to require, {D you know, } such a test [ and jus-, + and then ] to [ make, + make ] it (( )) is to subject them [ to, + to ] [ discrimi-, + discriminatory ] practices and other things. /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,A,"uh/UH ,/, I/PRP do/VBP n't/RB know/VB how/WRB exactly/RB I/PRP feel/VBP about/IN that/DT ./.","{F uh, } I don't know how exactly I feel about that. /"
+sv,B,Maybe/RB chop/VB their/PRP$ weenies/NNS off/RP ./.,(( Maybe )) chop their weenies off. /

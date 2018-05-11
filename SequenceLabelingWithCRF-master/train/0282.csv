@@ -1,0 +1,254 @@
+act_tag,speaker,pos,text
+sd,A,"Well/UH ,/, I/PRP am/VBP new/JJ to/IN Texas/NNP ,/,","{D Well, } I am new to Texas, /"
+sd,A,"so/RB I/PRP do/VBP n't/RB even/RB know/VB what/WP the/DT law/NN is/VBZ ,/,","{C so } I don't even know what the law is,"
+bh,B,Uh-huh/UH ?/.,Uh-huh? /
++,A,"in/IN the/DT state/NN ,/,","in the state, /"
+bh,A,do/VBP you/PRP ?/.,do you? /
+ny,B,"Well/UH ,/, yes/UH ,/,","{D Well, } yes, /"
+sd,B,"of/IN course/NN ,/, we/PRP do/VBP have/VB capital/NN punishment/NN ./.","of course, we do have capital punishment. /"
+sd,B,"And/CC we/PRP 've/VBP ,/, you/PRP know/VBP ,/, done/VBN away/RB with/IN our/PRP$ ,/, quote/NN ,/, fair/JJ share/NN number/NN ./.","{C And } we've, {D you know, } done away with our, quote, fair share number. /"
+ba,A,"Oh/UH ,/, that/DT 's/BES right/JJ ,/,","{F Oh, } that's right, /"
+sd,A,"I/PRP think/VBP now/RB ,/, that/IN I/PRP recall/VBP ,/, reading/VBG about/IN it/PRP in/IN the/DT paper/NN ./.","I think now, that I recall, reading about it in the paper. /"
+b,B,Yes/UH ./.,Yes. /
+%,A,"Um/UH ,/, you/PRP know/VBP ,/, different/JJ things/NNS ,/,","{F Um, } {D you know, } different things, - /"
+qy,A,is/VBZ it/PRP restricted/VBD to/IN certain/JJ crimes/NNS ?/.,is it restricted to certain crimes? /
+%,A,"Or/CC just/RB ,/,","{C Or } just, -/"
+ny,B,"Yes/UH ,/,","Yes, /"
+sd,B,"it/PRP 's/BES certain/JJ crimes/NNS ,/, uh/UH ,/, capital/NN crimes/NNS ,/, murder/NN ,/, of/IN course/NN ,/, uh/UH ,/, rape/NN ,/,","it's certain crimes, {F uh, } capital crimes, murder, of course, {F uh, } rape,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,this/DT sort/NN of/IN thing/NN ./.,this sort of thing. /
+%,A,Um/UH ./. Well/UH ./.,{F Um. } {D Well. } -/
+sv,B,"It/PRP seems/VBZ to/TO be/VB a/DT disproportionate/JJ number/NN of/IN blacks/NNS ,/, you/PRP know/VBP ,/, that/WDT get/VBP into/IN the/DT system/NN ./.","It seems to be a disproportionate number of blacks, {D you know, } that get into the system. /"
+b,A,"Yes/UH ,/,","Yes, /"
+sv,A,"I/PRP know/VBP ,/,","I know, /"
+sv,A,"the/DT one/CD thing/NN that/WDT I/PRP think/VBP is/VBZ really/RB sad/JJ about/IN it/PRP ,/, as/IN I/PRP recall/VBP ,/, from/IN the/DT articles/NNS that/WDT I/PRP 've/VBP read/VBN ,/, is/VBZ that/IN if/IN ,/, if/IN people/NNS who/WP have/VBP been/VBN there/RB ,/, are/VBP going/VBG to/TO be/VB killed/VBN ./. Um/UH ,/, there/EX 's/BES people/NNS that/WDT come/VBP to/IN the/DT prisons/NNS and/CC they/PRP 're/VBP very/RB violent/JJ","the one thing that I think is really sad about it, as I recall, from the articles that I've read, is that [ if, + if ] people who have been there, <throat_clearing> are going to be killed. {F Um, } there's people that come to the prisons and they're very violent /"
+%,A,"and/CC ,/, they/PRP want/VBP ,/,","{C and, } they want, - /"
+sv,A,I/PRP mean/VBP they/PRP 're/VBP anxious/JJ for/IN someone/NN to/TO be/VB killed/VBN ./.,{E I mean } they're anxious for someone to be killed <child>. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,B,Yes/UH ./.,Yes. /
+%,A,"I/PRP just/RB ,/,","I just, - /"
+sd,A,I/PRP ca/MD n't/RB see/VB that/DT ./.,I can't see that. /
+sv,B,"That/DT happens/VBZ on/IN occasion/NN ,/,","That happens on occasion, /"
+sv,B,"it/PRP sure/RB does/VBZ ,/,","it sure does, /"
+x,A,,<Throat_clearing>.
+sv,B,"maybe/RB it/PRP just/RB depends/VBZ on/IN ,/, you/PRP know/VBP ,/, how/WRB closely/RB the/DT crime/NN ,/, you/PRP know/VBP ,/,","maybe it just depends on, {D you know, } how closely the crime, {D you know, }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,has/VBZ affected/VBN you/PRP personally/RB ./.,has affected you personally. /
+h,B,"You/PRP know/VBP ,/, I/PRP do/VBP n't/RB know/VB ,/,","{D You know, } I don't know, /"
+sv,B,or/CC a/DT person/NN personally/RB ./.,{C or } a person personally. -/
+ar,A,No/UH ./.,No. /
+sv,B,"I/PRP think/VBP I/PRP would/MD be/VB ,/, you/PRP know/VBP ,/,","I think I would be, {D you know, } - /"
+sd,B,"I/PRP guess/VBP ,/, really/RB if/IN I/PRP had/VBD to/TO say/VB yes/UH or/CC no/UH ,/, I/PRP guess/VBP I/PRP would/MD say/VB ,/, you/PRP know/VBP ,/, that/IN I/PRP am/VBP in/IN certain/JJ cases/NNS ,/, in/IN favor/NN of/IN the/DT death/NN penalty/NN ,/,","[ I guess, + really if I had to say yes or no, I guess ] I would say, {D you know, } that I am in certain cases, in favor of the death penalty, /"
+sv,B,I/PRP do/VBP n't/RB know/VB that/IN it/PRP 's/BES a/DT big/JJ deterrent/NN really/RB ./.,I don't know that it's a big deterrent really. /
+sv,B,I/PRP do/VBP n't/RB know/VB that/IN it/PRP is/VBZ ./.,I don't know that it is. /
+sv,B,"I/PRP do/VBP n't/RB know/VB how/WRB we/PRP 'd/MD ever/RB find/VB out/RP ,/, you/PRP know/VBP ,/, really/RB whether/IN it/PRP is/VBZ or/CC not/RB ./.","I don't know how we'd ever find out, {D you know, } really whether it is or not. /"
+sv,A,"Well/UH ,/, there/EX is/VBZ so/RB many/JJ chances/NNS for/IN appeal/NN ,/, that/IN it/PRP kee/VBZ ,/,","{D Well, } there is so many chances for appeal, that it kee-, -/"
+aa,B,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+aa,B,"oh/UH ,/, absolutely/UH ,/,","{F oh, } absolutely, /"
+aa,B,"yeah/UH ,/,","yeah, /"
+sv,B,"it/PRP goes/VBZ on/RP for/IN years/NNS and/CC years/NNS ,/, and/CC costs/VBZ hundreds/NNS of/IN thousands/NNS of/IN dollars/NNS ,/, taxpayer/NN money/NN ./.","it goes on for years and years, and costs hundreds of thousands of dollars, taxpayer money. /"
+%,A,"Ye-/XX ,/,","Ye-, /"
+sv,A,it/PRP 's/BES really/RB sad/JJ ./.,it's really sad. /
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sv,A,"I/PRP just/RB think/VBP ,/, um/UH ,/,","I just think, {F um, } - /"
+sd,A,"somehow/RB I/PRP hoped/VBD that/IN as/IN a/DT people/NNS we/PRP could/MD be/VB better/JJR than/IN ,/, than/IN ,/, um/UH ,/, expecting/VBG ,/,","somehow I hoped that as a people we could be better [ than, + than, ] {F um, } expecting,"
+b,B,Yes/UH ./.,Yes. /
++,A,the/DT feeling/NN that/IN it/PRP MUMBLEx/XX,the feeling that it (( )) - /
+%,A,"with/IN ,/,","with, - /"
+sv,A,"someone/NN is/VBZ calling/VBG for/IN someone/NN else/RB to/TO be/VB killed/VBN ,/, you/PRP know/VBP ./.","someone is calling for someone else to be killed, {D you know. } /"
+sv,A,Is/VBZ really/RB kind/RB of/RB bad/JJ ./.,Is really kind of bad <child>. /
+aa,B,Yes/UH,Yes /
+sv,B,it/PRP is/VBZ ./.,it is. /
+sv,B,"It/PRP 's/BES a/DT tough/JJ ,/, tough/JJ question/NN ./.","It's a tough, tough question. /"
+sv,B,It/PRP really/RB is/VBZ ./.,It really is. /
+sv,B,"I/PRP suspect/VBP I/PRP would/MD be/VB ,/, uh/UH ,/, you/PRP know/VBP ,/, a/DT lot/NN more/RBR favor/VB of/IN it/PRP if/IN ,/, you/PRP know/VBP ,/, one/CD of/IN my/PRP$ children/NNS were/VBD ,/, you/PRP know/VBP ,/, brutally/RB killed/VBN ,/, or/CC something/NN like/IN that/DT ./.","I suspect I would be, {F uh, } {D you know, } a lot more favor of it if, {D you know, } one of my children were, {D you know, } brutally killed, or something like that. /"
+sv,B,"Like/IN I/PRP say/VBP ,/, I/PRP think/VBP it/PRP depends/VBZ on/IN how/WRB personally/RB affected/JJ ,/, you/PRP know/VBP ,/, you/PRP might/MD be/VB by/IN it/PRP ./.","Like I say, I think it depends on how personally affected, {D you know, } you might be by it. /"
+sv,A,"and/CC there/EX really/RB are/VBP criminals/NNS that/WDT are/VBP hard-core/JJ and/CC ,/,","{C and } there really are criminals that are hard-core and,"
+aa,B,"Oh/UH ,/, absolutely/UH ./.","{F Oh, } absolutely. /"
++,A,"repeat/VB ,/, MUMBLEx/XX and/CC never/RB have/VBP any/DT chance/NN for/IN ,/,","repeat, (( )) and never have any chance for, -/"
+ba,B,"Tha-/XX ,/, that/DT 's/BES right/JJ ./.","[ Tha-, + that's ] right. /"
+h,A,"MUMBLEx/XX Oh/UH ,/, I/PRP do/VBP n't/RB know/VB ,/,","(( )) {F Oh, } I don't know, /"
+%,A,"is/VBZ it/PRP ,/,","is it, - /"
+qy,A,"do/VBP you/PRP feel/VB at/IN all/DT like/IN ,/, it/PRP 's/BES a/DT religious/JJ issue/NN ?/.","do you feel at all like, it's a religious issue? /"
+ng,B,Not/RB with/IN me/PRP personally/RB ./.,Not with me personally. /
+sv,B,It/PRP is/VBZ with/IN a/DT lot/NN of/IN other/JJ people/NNS ./.,It is with a lot of other people. /
+b,A,Uh-huh/UH ./.,<Throat_clearing> Uh-huh. /
+sd,B,"It/PRP 's/BES not/RB ,/, not/RB to/IN me/PRP personally/RB ,/,","It's [ not, + not ] to me personally, /"
+ny,B,no/UH ./.,no. /
+%,A,Um/UH ./.,{F Um. } /
+ny,B,No/UH ./.,No. /
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+%,A,"sometimes/RB I/PRP feel/VBP ,/,","sometimes I feel, - /"
+sd,A,I/PRP mean/VBP I/PRP do/VBP go/VB to/IN church/NN and/CC things/NNS ./.,{E I mean } I do go to church and things. /
+sd,A,I/PRP do/VBP n't/RB know/VB how/WRB I/PRP would/MD feel/VB about/IN it/PRP ./.,I don't know how I would feel about it. /
+sv,A,"But/CC like/IN you/PRP say/VBP ,/, if/IN it/PRP hit/VBD you/PRP personally/RB ,/,","{C But } like you say, if it hit you personally,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"closer/RBR at/IN home/NN you/PRP would/MD feel/VB ,/,","closer at home you would [ feel, +"
+b,B,Yes/UH ./.,Yes. /
++,A,feel/VB differently/RB ./.,feel ] differently. /
+sv,B,"That/DT 's/BES a/DT ,/, it/PRP 's/BES a/DT tough/JJ ,/, tough/JJ question/NN ,/,","[ That's a, + it's a ] tough, tough question, /"
+sv,B,it/PRP really/RB is/VBZ ./.,it really is. /
+qy,A,Do/VBP you/PRP think/VB most/JJS states/NNS have/VBP that/DT,Do you think most states have that /
+%,A,or/CC ?/. ./.,or? <child>. -/
+ny,B,"Yes/UH ,/,","Yes, /"
+sd,B,I/PRP think/VBP most/JJS states/NNS do/VBP have/VB capital/NN punishment/NN ./.,I think most states do have capital punishment. /
+ny,B,Yes/UH ./.,Yes. /
+sv,B,"But/CC ,/, I/PRP think/VBP the/DT U/NNP S/NNP is/VBZ one/CD of/IN the/DT few/JJ countries/NNS that/WDT still/RB do/VBP ./.","{C But, } I think the U S is one of the few countries that still do. /"
+bf,A,"That/WDT still/RB does/VBZ it/PRP ,/,","That still does it, /"
+ba,A,that/DT 's/BES right/JJ ./.,that's right. /
+aa,B,"Yes/UH ,/,","Yes, /"
+%,B,"they/PRP 're/VBP only/RB ,/,","they're only, - /"
+sd,B,"I/PRP was/VBD reading/VBG something/NN about/IN it/PRP the/DT other/JJ day/NN ,/,","I was reading something about it the other day, /"
+sv,B,"I/PRP MUMBLEx/XX think/VBP there/EX was/VBD only/RB like/IN six/CD or/CC eight/CD countries/NNS in/IN the/DT world/NN ,/, that/WDT have/VBP capital/NN punishment/NN still/RB ./.","I (( )) think there was only {D like } six or eight countries in the world, that have capital punishment still. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"A/DT lot/NN of/IN them/PRP had/VBD to/TO have/VB el/VBN ,/, elected/VBN not/RB to/TO do/VB so/RB ./.","A lot of them had to have [ el-, + elected ] not to do so. /"
+sd,B,"Now/UH I/PRP do/VBP n't/RB know/VB ,/, what/WP they/PRP do/VBP in/IN place/NN of/IN it/PRP ./.","{D Now } I don't know, what they do in place of it. /"
+sv,B,"You/PRP know/VBP ,/, maybe/RB it/PRP 's/BES life/NN in/IN prisonment/NN or/CC ,/, you/PRP know/VBP ,/, something/NN ,/,","{D You know, } maybe it's life in prisonment or, {D you know, } something, /"
+sd,B,"I/PRP don-/XX ,/, I/PRP do/VBP n't/RB know/VB how/WRB they/PRP handle/VBP it/PRP","[ I don-, + I don't ] know how they handle it /"
+sd,B,"bu-/XX ,/, I/PRP was/VBD surprised/JJ to/TO learn/VB that/IN so/RB few/JJ countries/NNS have/VBP capital/NN punishment/NN ./.","{C bu-, } I was surprised to learn that so few countries have capital punishment. /"
+bf,A,Have/VBP that/DT ./.,Have that. - /
+sv,A,"Well/UH ,/, and/CC it/PRP does/VBZ n't/RB seem/VB like/IN very/RB many/JJ people/NNS ,/, uh/UH ,/, are/VBP really/RB ,/, I/PRP mean/VBP ,/,","{D Well, } {C and } it doesn't seem like very many people, {F uh, } are really, {E I mean, } - /"
+sv,A,there/EX 's/BES a/DT lot/NN of/IN people/NNS that/WDT are/VBP on/IN death/NN row/NN ./.,there's a lot of people that are on death row.
+b,B,"Oh/UH ,/, yes/UH ./.","{F Oh, } yes. /"
++,A,"But/CC there/EX 's/BES not/RB very/RB many/JJ people/NNS that/WDT actually/RB ,/, um/UH ./. do/VBP get/VB killed/VBN ./.","But there's not very many people that actually, {F um. } do get killed. /"
+aa,B,"Yes/UH ,/,","Yes, /"
+sv,B,a/DT lot/NN of/IN them/PRP do/VBP get/VB their/PRP$ sentences/NNS commuted/VBN to/IN something/NN else/RB ./.,a lot of them do get their sentences commuted to something else. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"So/RB ,/, it/PRP seems/VBZ like/IN a/DT of/IN people/NNS live/VBP there/RB ,/,","{C So, } it seems like a of people live there, /"
+sv,A,and/CC then/RB through/IN appeals/NNS ./.,{C and } then through appeals. -/
+b,B,Yes/UH ./.,Yes. /
+sv,A,"Because/IN I/PRP know/VBP they/PRP do/VBP frequently/RB ,/,","{C Because } I know they do frequently, - /"
+sd,A,"I/PRP mean/VBP they/PRP cover/VBP ,/, cover/VBP it/PRP pretty/RB heavily/RB on/IN television/NN and/CC the/DT newspaper/NN ./.","{E I mean } they [ cover, + cover ] it pretty heavily on television and the newspaper. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+b,B,Yes/UH ./.,Yes. /
+sd,A,If/IN it/PRP finally/RB gets/VBZ to/IN that/DT point/NN ./.,If it finally gets to that point. /
+b,B,"Right/UH ,/,","Right, /"
+sv,B,"the/DT first/JJ appeal/NN is/VBZ automatic/JJ ,/,","the first appeal is automatic, /"
+sv,B,so/RB that/DT delays/VBZ it/PRP for/IN a/DT few/JJ years/NNS just/RB right/RB off/IN the/DT bat/NN ./.,{C so } that delays it for a few years just right off the bat. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"There/EX 's/BES ,/, there/EX 's/BES a/DT lot/NN of/IN ,/, you/PRP know/VBP ,/, last/JJ minute/NN ,/, uh/UH ,/, things/NNS that/WDT happen/VBP cause/VB a/DT person/NN not/RB to/TO ,/,","[ There's, + there's ] a lot of, {D you know, } last minute, {F uh, } <sniffing> things that happen cause a person not to,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,have/VB to/TO go/VB through/IN the/DT whole/JJ thing/NN ./.,have to go through the whole thing. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,A,"So/RB is/VBZ it/PRP ,/, uh/UH ,/,","{C So } is it, {F uh, } - /"
+qy,A,are/VBP we/PRP doing/VBG lethal/JJ injection/NN now/RB ?/.,are we doing lethal injection now? /
+ny,B,"Yes/UH ,/,","Yes, /"
+ny,B,uh-huh/UH ./.,uh-huh. /
+sd,B,"That/DT 's/BES ,/, that/DT 's/BES fairly/RB recent/JJ ,/, I/PRP do/VBP n't/RB know/VB ,/, how/WRB recent/JJ ,/, but/CC fairly/RB recent/JJ ,/, in/IN the/DT state/NN of/IN Texas/NNP ./.","[ That's, + that's ] fairly recent, I don't know, how recent, but fairly recent, in the state of Texas. /"
+sd,B,"Before/IN that/DT ,/, it/PRP was/VBD ,/, uh/UH ,/, death/NN by/IN electrocution/NN ./.","Before that, it was, {F uh, } death by electrocution. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+sv,A,"wh-/XX ,/, which/WDT seems/VBZ so/RB awful/JJ ./.","[ wh-, + which ] seems so awful. /"
+aa,B,"Yes/UH ,/,","Yes, /"
+sd,B,it/PRP certainly/RB does/VBZ ./.,it certainly does. /
+sv,A,"So/RB ,/, it/PRP 's/BES a/DT little/JJ bit/NN more/RBR humane/JJ ,/,","{C So, } it's a little bit more humane, /"
+sv,A,"I/PRP guess/VBP ,/, it/PRP is/VBZ ,/,","I guess, it is, -/"
+aa,B,"Yes/UH ,/,","Yes, /"
+sv,B,"it/PRP would/MD almost/RB have/VB to/TO be/VB ,/, I/PRP suppose/VBP ./.","it would almost have to be, I suppose. /"
+sv,B,"If/IN you/PRP ,/, if/IN you/PRP had/VBD to/TO chose/VBD ,/, I/PRP guess/VBP I/PRP would/MD ,/, I/PRP am/VBP sure/JJ I/PRP would/MD take/VB the/DT lethal/JJ injection/NN ./.","[ If you, + if you ] had to chose, [ I guess I would, + I am sure I would ] take the lethal injection. /"
+aa,A,"Yes/UH ,/,","<Laughter> Yes, /"
+sv,A,the/DT other/JJ one/CD just/RB seems/VBZ so/RB terrible/JJ ./.,the other one just seems so terrible. /
+aa,B,"Yes/UH ,/,","Yes, /"
+aa,B,absolutely/UH ./.,absolutely. /
+%,A,Um/UH ./.,{F Um. } /
+sv,B,"It/PRP 's/BES a/DT ,/, it/PRP 's/BES a/DT tough/JJ question/NN ./.","[ It's a, + it's a ] tough question. /"
+sv,B,It/PRP really/RB is/VBZ ./.,It really is. /
+sd,B,"I/PRP guess/VBP ,/, if/IN I/PRP had/VBD to/TO say/VB yes/UH or/CC no/UH ,/, I/PRP would/MD say/VB ,/, you/PRP know/VBP ,/, yes/UH ./.","I guess, if I had to say yes or no, I would say, {D you know, } yes. /"
+sd,B,"I/PRP ,/, I/PRP would/MD have/VB to/TO lean/VB toward/IN capital/NN punishment/NN ,/, you/PRP know/VBP ,/, for/IN certain/JJ crimes/NNS ./.","[ I, + I ] would have to lean toward capital punishment, {D you know, } for certain crimes. /"
+qy,A,"Well/UH ,/, do/VBP you/PRP think/VB that/IN we/PRP do/VBP it/PRP because/IN we/PRP want/VBP it/PRP to/TO deter/VB crime/NN","{D Well, } do you think that we do it because we want it to deter crime /"
+qrr,A,"or/CC ,/, it/PRP 's/BES not/RB because/IN we/PRP do/VBP n't/RB want/VB to/TO pay/VB for/IN inmates/NNS to/TO stay/VB in/IN prison/NN ?/.","{C or, } it's not because we don't want to pay for inmates to stay in prison? /"
+nn,B,"No/UH ,/,","No, /"
+sv,B,I/PRP do/VBP n't/RB think/VB it/PRP 's/BES a/DT monetary/JJ thing/NN ./.,I don't think it's a monetary thing. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"I/PRP think/VBP ,/,","I think, - /"
+sv,B,"we/PRP hope/VBP that/IN it/PRP will/MD be/VB ,/, you/PRP know/VBP ,/, some/DT sort/NN of/IN determ-/XX ,/, deterrent/NN or/CC ,/, you/PRP know/VBP ,/, an/DT eye/NN for/IN an/DT eye/NN type/NN thing/NN ,/, or/CC something/NN like/IN that/DT ./.","we hope that it will be, {D you know, } some sort of [ determ-, + deterrent ] or, you know, an eye for an eye type thing, or something like that. /"
+%,A,Um/UH ./.,{F Um. } /
+sv,B,"Some/DT of/IN the/DT crimes/NNS are/VBP just/RB so/RB brutal/JJ and/CC so/RB ,/, you/PRP know/VBP ,/, useless/JJ ./.","Some of the crimes are just so brutal and so, {D you know, } useless. /"
+sv,B,This/DT may/MD seem/VB to/TO be/VB the/DT best/JJS way/NN out/RB ./.,This may seem to be the best way out. /
+h,B,I/PRP do/VBP n't/RB know/VB ./.,I don't know. /
+b,A,Yes/UH ./.,Yes. /
+bf,B,Easiest/JJ way/NN out/RB maybe/RB ./.,Easiest way out maybe. /
+nn,B,"No/UH ,/,","No, /"
+sv,B,I/PRP do/VBP n't/RB think/VB it/PRP 's/BES a/DT monetary/JJ thing/NN ./.,I don't think it's a monetary thing. /
+sd,A,"Um/UH ./. Well/UH ,/, um/UH ,/, and/CC I/PRP notice/VBP that/IN the/DT crime/NN rate/NN was/VBD up/IN in/IN the/DT Dallas/NNP area/NN ./.","{F Um. } {D Well, } {F um, } {C and } I notice that the crime (( rate )) was up in the Dallas area <throat_clearing>. /"
+sv,A,"It/PRP 's/BES ,/,","[ It's, +"
+b,B,"Yes/UH ,/,","Yes, /"
+sd,B,"especially/RB the/DT murder/NN rate/NN ,/, its/PRP$ just/RB gone/VBN crazy/JJ ./.","especially the murder rate, its just gone crazy. /"
++,A,"It/PRP 's/HVS kind/RB of/RB been/VBN scary/JJ ,/,","It's ] kind of been scary,"
+b,B,Yes/UH ./.,Yes. /
++,A,to/TO think/VB about/IN it/PRP,to think about it /
+sd,A,"and/CC ,/,","[ {C and, } +"
+aa,B,Absolutely/UH ./.,Absolutely. /
++,A,And/CC you/PRP 're/VBP hoping/VBG there/EX is/VBZ something/NN that/WDT will/MD cut/VB down/RP on/IN that/DT ./.,{C And } ] you're hoping there is something that will cut down on that. /
+aa,B,"Yes/UH ,/,","Yes, /"
+sd,B,"I/PRP wish/VBP I/PRP had/VBD the/DT answer/NN for/IN that/DT ,/,","I wish I had the answer for that, /"
+sv,B,everybody/NN does/VBZ ./.,everybody does. /
+sv,A,"You/PRP hate/VBP to/TO have/VB the/DT dubious/JJ honor/NN of/IN being/VBG ,/, you/PRP know/VBP ,/, so/RB high/JJ in/IN the/DT ,/,","You hate to have the dubious honor of being, {D you know, } so high [ in the, +"
+aa,B,"Yes/UH ,/,","Yes, /"
+sv,B,"it/PRP 's/BES nothing/NN to/TO be/VB proud/JJ of/IN ,/,","it's nothing to be proud of, /"
++,A,"in/IN statistics/NNS ,/,","in ] statistics, /"
+sv,B,certainly/RB not/RB ./.,certainly not. /
+%,A,"But/CC I/PRP ,/, you/PRP know/VBP ,/,","{C But } I, {D you know, } - /"
+sd,A,we/PRP have/VBP been/VBN really/RB fortunate/JJ,we have been really fortunate /
+sd,A,"our/PRP$ family/NN ,/,","our family,"
+b,B,Yes/UH ./.,Yes. /
++,A,has/VBZ n't/RB had/VBN any/DT crime/NN ./.,hasn't had any crime. /
+b,B,"Yes/UH ,/,","Yes, /"
+sd,B,"so/RB have/VBP we/PRP been/VBN very/RB ,/, very/RB fortunate/JJ ./.","{C so } have we been very, very fortunate. /"
+%,A,"And/CC ,/, so/RB we/PRP do/VBP n't/RB ,/,","{C And, } {C so } we don't, - /"
+sv,A,it/PRP 's/BES harder/JJR to/TO think/VB about/IN the/DT poor/JJ people/NNS that/WDT have/VBP suffered/VBN that/DT way/NN ./.,it's harder to think about the poor people that have suffered that way. /
+ba,B,That/DT 's/BES right/JJ ./.,That's right. /
+aa,B,Absolutely/UH ./.,Absolutely. /
+sv,A,"And/CC how/WRB they/PRP would/MD expect/VB ,/,","{C And } how they would expect,"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"how/WRB they/PRP would/MD hope/VB ,/,","how they would hope, - /"
+sv,A,"I/PRP mean/VBP you/PRP ,/, you/PRP hear/VBP of/IN people/NNS who/WP have/VBP ,/, um/UH ,/, committed/VBN crimes/NNS ,/, and/CC then/RB they/PRP get/VBP out/IN of/IN jail/NN and/CC they/PRP go/VBP ,/, and/CC they/PRP do/VBP the/DT same/JJ thing/NN again/RB ./.","{E I mean } [ you, + you ] hear of people who have, {F um, } committed crimes, and then they get out of jail and they go, and they do the same thing again. /"
+b,B,Absolutely/UH ./.,Absolutely. /
+sv,A,And/CC you/PRP wonder/VBP why/WRB they/PRP ca/MD n't/RB just/RB stop/VB it/PRP ./.,{C And } you wonder why they can't just stop it. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+ba,B,That/DT 's/BES right/JJ ./.,That's right. /
+sv,A,"So/RB ,/, maybe/RB you/PRP would/MD ,/,","{C So, } maybe you would, -/"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,but/CC still/RB I/PRP would/MD hate/VB to/TO be/VB on/IN the/DT jury/NN that/WDT sentenced/VBD someone/NN ./.,{C but } still I would hate to be on the jury that sentenced someone. /
+aa,B,"So/RB would/MD I/PRP ,/,","{C So } would I, - /"
+sd,B,"I/PRP fortunately/RB ,/, I/PRP have/VBP never/RB been/VBN in/IN that/DT circumstance/NN ,/,","[ I + fortunately, I ] have never been in that circumstance, /"
+sd,B,"I/PRP hope/VBP I/PRP never/RB am/VBP ,/, like/IN ,/, like/IN everybody/NN else/RB ./.","I hope I never am, [ like, + like ] everybody else. /"
+aa,A,"No/UH ,/,","No, <laughter> /"
+%,A,"I/PRP know/VBP when/WRB ,/, um/UH ,/,","I know when, {F um, } - /"
+sd,A,"we/PRP just/RB ,/, we/PRP moved/VBD here/RB ,/, uh/UH ,/, I/PRP from/IN the/DT ,/, I/PRP got/VBD a/DT summons/NN ,/, jury/NN summons/NN ,/,","[ we just, + we ] moved here, {F uh, } [ I + ] [ from the, + ] I got a [ summons, + jury summons, ] /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"just/RB like/IN constantly/RB ,/, it/PRP seemed/VBD like/IN ,/,","just {D like } constantly, it seemed {D like, } /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,but/CC fortunately/RB I/PRP had/VBD small/JJ children/NNS,{C but } fortunately I had small children /
+sd,A,and/CC I/PRP did/VBD n't/RB have/VB to/TO go/VB ./.,{C and } I didn't have to go. /
+b,B,Right/UH ./.,Right. /
+sv,A,"And/CC it/PRP 's/BES not/RB that/IN ,/,","{C And } it's not that, /"
+sv,A,"I/PRP mean/VBP ,/, I/PRP think/VBP everyone/NN should/MD have/VB to/TO serve/VB on/IN the/DT jury/NN ,/,","{E I mean, } I think everyone should have to serve on the jury, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"it/PRP 's/BES just/RB that/IN ,/, I/PRP did/VBD n't/RB ,/,","it's just that, I didn't, - /"
+sd,A,I/PRP hate/VBP having/VBG to/TO be/VB in/IN charge/NN of/IN someone/NN else/RB 's/POS life/NN ./.,I hate having to be in charge of someone else's life. /
+aa,B,"Sure/UH ,/,","Sure, /"
+sv,B,"it/PRP 's/BES ,/, it/PRP 's/BES a/DT big/JJ responsibility/NN ,/,","[ it's, + it's ] a big responsibility, /"
+sv,B,it/PRP really/RB is/VBZ ./.,it really is. /
+sd,A,"And/CC I/PRP would/MD hate/VB to/TO have/VB to/TO hear/VB any/DT kind/NN of/IN case/NN ,/,","{C And } I would hate to have to hear any kind of case,"
+b,B,Yes/UH ./.,Yes. /
++,A,involving/VBG a/DT violent/JJ crime/NN or/CC anything/NN ./.,involving a violent crime or anything. /
+sd,B,So/RB would/MD I/PRP ./.,So would I. /
+ba,A,That/DT would/MD be/VB really/RB awful/JJ ./.,That would be really awful. /
+aa,B,Yes/UH ./.,Yes. /
+aa,B,Absolutely/UH ./.,Absolutely. /
+sd,A,"Well/UH ,/, anyway/UH ,/, I/PRP sure/RB have/VBP enjoyed/VBN ,/, uh/UH ,/, talking/VBG to/IN you/PRP about/IN this/DT ./. Although/IN it/PRP has/VBZ been/VBN difficult/JJ","{D Well, } anyway, I sure have enjoyed, {F uh, } talking to you about this. Although it has been difficult /"
+%,A,"but/CC ,/, uh/UH ./.","{C but, } {F uh. } -/"
+sv,B,"It/PRP is/VBZ ,/, it/PRP 's/BES a/DT tough/JJ subject/NN ,/,","[ It is, + it's ] a tough subject, /"
+sv,B,it/PRP really/RB is/VBZ ./.,it really is. /
+sv,A,"I/PRP 'd/MD hate/VB to/TO decide/VB it/PRP ,/, but/CC I/PRP guess/VBP ,/, uh/UH ,/, guess/VBP it/PRP 's/BES important/JJ ,/,","I'd hate to decide it, but I [ guess, + {F uh, } guess ] it's important,"
+b,B,Right/UH ./.,Right. /
++,A,"that/IN we/PRP decide/VBP as/IN a/DT people/NNS what/WP ,/, what/WP we/PRP 're/VBP going/VBG to/TO do/VB ./.","that we decide as a people [ what, + what ] we're going to do. /"
+ba,B,That/DT 's/BES right/JJ ./.,That's right. /
+fc,A,"Anyway/UH ,/, well/UH ,/, you/PRP have/VBP a/DT good/JJ day/NN ./.","Anyway, {D well, } you have a good day. /"
+fc,B,"Well/UH ,/, thank/VB you/PRP ,/,","{D Well, } thank you, /"
+fc,B,it/PRP 's/BES nice/JJ talking/VBG to/IN you/PRP ./.,it's nice talking to you. /
+fc,A,"Thank/VB you/PRP ,/,","Thank you, /"
+fc,A,bye-bye/UH ./.,bye-bye. /
+fc,B,Uh-huh/UH ./.,Uh-huh. /
+fc,B,Bye-bye/UH ./.,Bye-bye. /

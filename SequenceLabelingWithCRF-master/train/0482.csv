@@ -1,0 +1,182 @@
+act_tag,speaker,pos,text
+sd,A,"Uh/UH ,/, the/DT last/JJ movie/NN that/WDT I/PRP saw/VBD ,/,","{F Uh, } the last movie that I saw, - /"
+sd,A,"I/PRP ,/, I/PRP do/VBP n't/RB go/VB to/IN that/RB many/JJ","[ I, + I ] don't go to that many /"
+sd,A,"so/RB I/PRP 'll/MD just/RB have/VB to/TO talk/VB about/IN the/DT ones/NNS that/WDT I/PRP went/VBD to/TO see/VB ,/,","{C so } I'll just have to talk about the ones that I went to see, /"
+sd,A,"but/CC ,/,","{C but, }"
+b,B,Okay/UH ./.,Okay. /
++,A,"uh/UH ,/, it/PRP was/VBD AWAKENINGS/NNS with/IN ,/, uh/UH ,/, Robin/NNP Williams/NNP and/CC ,/, uh/UH ,/, Peter/NNP DeNiro/NNP ./.","{F uh, } it was AWAKENINGS with, {F uh, } Robin Williams and, {F uh, } Peter DeNiro. /"
+b,B,"Yes/UH ,/,","Yes, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+qy^d,A,Have/VBP you/PRP seen/VBN it/PRP ./.,Have you seen it. /
+nn,B,No/UH,No /
+sd,B,"unfortunately/RB I/PRP have/VBP n't/RB ,/,","unfortunately I haven't, /"
+sd,B,"I/PRP heard/VBD it/PRP 's/BES really/RB good/JJ ,/,","I heard it's really good, /"
+%,B,but/CC ./.,{C but. } -/
+sv,A,It/PRP is/VBZ ./.,It is. /
+sv,A,I/PRP just/RB have/VBP to/TO take/VB my/PRP$ hat/NN off/RP to/IN Peter/NNP DeNiro/NNP ./.,I just have to take my hat off to Peter DeNiro. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,He/PRP is/VBZ one/CD of/IN the/DT best/JJS actors/NNS I/PRP 've/VBP ever/RB seen/VBN ./.,He is one of the best actors I've ever seen. /
+%,A,"It/PRP 's/BES ,/,","It's, - /"
+%,A,"there/EX 's/BES a/DT point/NN where/WRB ,/,","there's a point where, - /"
+sd,A,"the/DT ,/, uh/UH ,/, the/DT show/NN is/VBZ about/IN these/DT ,/, uh/UH ,/, catatonic/JJ type/NN people/NNS that/WDT ,/,","[ the, + {F uh, } the ] show is about these, {F uh, } catatonic type people that, - /"
+sd,A,"this/DT doctor/NN discovers/VBZ a/DT drug/NN that/WDT brings/VBZ them/PRP back/RB to/IN the/DT ,/, the/DT living/NN ,/, more/RBR or/CC less/RBR ,/,","this doctor discovers a drug that brings them back to [ the, + the ] living, more or less, /"
+sd,A,but/CC it/PRP wears/VBZ off/RP ./.,{C but } it wears off. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC the/DT way/NN it/PRP wears/VBZ off/RP is/VBZ he/PRP goes/VBZ through/IN all/PDT these/DT spastic/JJ ,/, you/PRP know/VBP ,/, uh/UH ,/,","{C And } the way it wears off is he goes through all these spastic, {D you know, } {F uh, } - /"
+sd,A,"it/PRP starts/VBZ off/RP with/IN like/UH a/DT tic/NN ,/,","it starts off with like a tic, /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"and/CC then/RB it/PRP gets/VBZ to/IN where/WRB he/PRP ca/MD n't/RB ,/, you/PRP know/VBP ,/, control/VB his/PRP$ movements/NNS at/IN all/DT ./.","{C and then } it gets to where he can't, {D you know, } control his movements at all. /"
+sd,A,And/CC it/PRP was/VBD just/RB so/RB realistic/JJ ./.,{C And } it was just so realistic. /
+sd,A,"The/DT way/NN ,/, you/PRP know/VBP ,/, you/PRP have/VBP to/TO just/RB keep/VB reminding/VBG yourself/PRP that/IN he/PRP 's/BES an/DT actor/NN ./.","The way, {D you know, } you have to just keep reminding yourself that he's an actor. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qw,B,"What/WP does/VBZ ,/, uh/UH ,/,","What does, {F uh, } - /"
+%,B,is/VBZ,is - /
+qy,B,"Robby/NNP ,/, Robin/NNP Williams/NNP ,/, does/VBZ he/PRP have/VB a/DT funny/JJ part/NN in/IN it/PRP ?/.","[ Robby, + Robin ] Williams, does he have a funny part in it? /"
+nn,A,"No/UH ,/,","No, /"
+sd,A,"it/PRP was/VBD very/RB serious/JJ ,/, very/RB se/JJ ,/,","it was [ very serious, + very se-, ] -/"
+qo,B,Oh/UH how/WRB does/VBZ he/PRP do/VB serious/JJ ./.,{F Oh } how does he do serious. /
+sv,A,"He/PRP 's/BES good/JJ ,/,","He's good, /"
+sv,A,"he/PRP 's/BES ,/, he/PRP 's/BES talented/JJ ,/,","[ he's, + he's ] talented, /"
+ba,A,"boy/UH ,/, he/PRP is/VBZ ./.","boy, he is. /"
+sd,B,I/PRP 've/VBP only/RB seen/VBN him/PRP in/IN funny/JJ stuff/NN,I've only seen him in funny stuff /
+%,B,and/CC so/RB ./.,{C and so. } -/
+b,A,"I/PRP know/VBP ,/,","I know, /"
+sd,A,me/PRP too/RB ./.,me too. /
+qw^d,A,"But/CC ,/, uh/UH ,/, well/UH ,/, what/WP was/VBD that/DT show/NN ,/, um/UH ,/, Gar-/NNP ,/, uh/UH ,/, Garf-/NNP ,/,","{C But, } {F uh, } {D well, } what was that show, {F um, } <barking> [ Gar-, + {F uh, } Garf-, ] - /"
+sd,A,I/PRP want/VBP to/TO say/VB Garfield/NNP,I want to say Garfield /
+sd,A,but/CC that/DT was/VBD n't/RB it/PRP ./.,{C but } that wasn't it. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"uh/UH ,/, GARP/NNP ,/, THE/DT WORLD/NN ACCORDING/VBG TO/IN GARP/NNP ./.","{F uh, } [ GARP, + THE WORLD ACCORDING TO GARP. ] /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,THE/DT WORLD/NNP ACCORDING/NNP TO/IN GARP/NNP ./.,THE WORLD ACCORDING TO GARP. /
+qy,A,"He/PRP was/VBD n't/RB always/RB funny/JJ in/IN that/DT show/NN ,/, was/VBD he/PRP ./.","He wasn't always funny in that show, was he. /"
+no,B,"I/PRP did/VBD n't/RB read/VB ,/, see/VB the/DT ,/, the/DT movie/NN ,/,","I didn't [ read, + see ] [ the, + the ] movie, /"
+sd,B,I/PRP read/VBD the/DT book/NN,I read the book /
+%,B,"but/CC I/PRP ,/,","{C but } I, -/"
+sd,A,I/PRP did/VBD too/RB ./.,I did too. /
+sd,A,That/DT 's/BES why/WRB I/PRP was/VBD thinking/VBG it/PRP could/MD n't/RB be/VB just/RB a/DT totally/RB funny/JJ part/NN ./.,That's why I was thinking it couldn't be just a totally funny part </barking>. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"in/IN fact/NN ,/, it/PRP got/VBD some/DT pretty/RB serious/JJ deep/JJ parts/NNS in/IN it/PRP","in fact, it got some pretty serious deep parts in it /"
+%,B,so/RB ./.,{C so. } -/
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,right/UH ./.,right. /
+b,B,Yeah/UH ./.,Yeah. /
+qw,A,Well/UH what/WDT have/VBP you/PRP seen/VBN ?/.,{D Well } what have you seen? /
+sd,B,I/PRP think/VBP the/DT last/JJ movie/NN that/WDT we/PRP went/VBD out/IN to/TO see/VB was/VBD DANCES/VBZ WITH/IN WOLVES/NNS ./.,I think the last movie that we went out to see was DANCES WITH WOLVES. /
+sd,A,"Oh/UH ,/, I/PRP saw/VBD it/PRP ./.","{F Oh, } I saw it. /"
+b,B,"Good/UH ,/,","Good, /"
+sd,B,we/PRP 've/VBP both/DT seen/VBN one/CD ./.,we've both seen one <laughter>. /
+qy,B,Did/VBD you/PRP cry/VB through/IN it/PRP ?/.,Did you cry through it? /
+ny,A,"Yes/UH ,/,","Yes, /"
+sd,A,the/DT whole/JJ way/NN ./.,the whole way <laughter>. /
+sd,B,"It/PRP was/VBD telling/VBG a/DT friend/NN ,/, I/PRP ,/, I/PRP said/VBD ,/, I/PRP only/RB cried/VBD twice/RB ,/,","It was telling a friend, [ I, + I ] said, I only cried twice, /"
+^q,B,"but/CC each/DT was/VBD about/RB half/PDT an/DT hour/NN long/RB ,/,","{C but } each was about half an hour long, /"
+%,B,so/RB ./.,{D so. } -/
+qw^d,A,Where/WRB did/VBD you/PRP cry/VB ./.,<Laughter> Where did you cry. /
+^h,B,"Um/UH ,/, let/VB 's/PRP see/VB ,/,","{F Um, } let's see, /"
+sd,B,"when/WRB I/PRP ,/, each/DT time/NN that/WDT I/PRP thought/VBD that/IN the/DT Indians/NNPS were/VBD going/VBG to/TO get/VB killed/VBN ,/, I/PRP cried/VBD ./.","[ when I, + each time that I ] thought that the Indians were going to get killed, I cried. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Um/UH ,/, I/PRP cried/VBD the/DT first/JJ time/NN when/WRB the/DT ,/, um/UH ,/, the/DT wagon/NN man/NN got/VBD killed/VBN ,/, when/WRB they/PRP attacked/VBD him/PRP ./.","{F Um, } I cried the first time when [ the, + {F um, } the ] wagon man got killed, when they attacked him. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,"yeah/UH ,/,","yeah, /"
+b,A,yeah/UH ./.,yeah. /
+sd,B,"And/CC ,/, uh/UH ,/, I/PRP think/VBP from/IN there/RB on/IN ,/, all/PDT the/DT way/NN through/IN the/DT movie/NN ./.","{C And, } {F uh, } I think from there on, all the way through the movie. - /"
+^h,B,"Let/VB 's/PRP see/VB what/WP else/RB did/VBD it/PRP ./. Um/UH ,/, what/WDT other/JJ parts/NNS ./.","Let's see what else did it. {F Um, } what other parts. /"
+sd,B,I/PRP ca/MD n't/RB remember/VB any/DT of/IN the/DT other/JJ parts/NNS right/RB off/IN now/RB ./.,I can't remember any of the other parts right off now. /
+sd,A,I/PRP cried/VBD when/WRB the/DT horse/NN got/VBD killed/VBN and/CC when/WRB the/DT wolf/NN got/VBD killed/VBN ./.,I cried when the horse got killed and when the wolf got killed <laughter>. /
+%,B,"We-/UH ,/,","We-, - /"
+sd,B,I/PRP do/VBP n't/RB remember/VB when/WRB the/DT horse/NN got/VBD killed/VBN ./.,I don't remember when the horse got killed. /
+%,A,"Oh/UH ,/, th-/RB ,/,","{F Oh, } th-, - /"
+sd,A,when/WRB he/PRP was/VBD riding/VBG back/RB to/IN the/DT settlement/NN and/CC they/PRP shot/VBD his/PRP$ horse/NN out/IN from/IN under/IN him/PRP ./.,when he was riding back to the settlement and they shot his horse out from under him. /
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,"And/CC then/RB he/PRP ,/, uh/UH ,/, the/DT next/JJ day/NN he/PRP looked/VBD out/IN there/RB and/CC saw/VBD those/DT buzzards/NNS ,/, you/PRP know/VBP ./.","{C And then } [ he, + {F uh, } the next day he ] looked out there and saw those buzzards, {D you know } <barking>. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"And/CC that/DT horse/NN has/VBZ been/VBN such/PDT a/DT pal/NN to/IN him/PRP ,/,","{C And } that horse has been such a pal to him,"
+b,B,Yeah/UH ./.,Yeah. /
++,A,when/WRB he/PRP was/VBD alone/RB ./.,when he was alone. /
+sv,A,"You/PRP can/MD tell/VB I/PRP 'm/VBP an/DT animal/NN lover/NN ,/,","You can tell I'm an animal lover, /"
+sv,A,you/PRP can/MD hear/VB my/PRP$ dog/NN ./.,you can hear my dog </barking>. /
+sd,B,"Unfortunately/RB we/PRP do/VBP n't/RB have/VB any/DT animals/NNS ,/,","<Laughter> Unfortunately we don't have any animals, /"
+%,B,"so/RB ,/, uh/UH ./.","{C so, } {F uh. } -/"
+b,A,Yeah/UH ./.,Yeah. /
+sv,A,"It/PRP was/VBD a/DT beautiful/JJ story/NN ,/,","It was a beautiful story, /"
+sv,A,it/PRP really/RB was/VBD ./.,it really was. /
+%,B,"It/PRP ,/,","It, - /"
+sv,B,"there/EX was/VBD a/DT lot/NN of/IN pretty/JJ scenery/NN ,/, too/RB ,/, in/IN that/DT movie/NN ./.","there was a lot of pretty scenery, too, in that movie. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+qw^d,B,What/WP did/VBD you/PRP think/VB about/IN the/DT buffalo/NN scenes/NNS ./.,What did you think about the buffalo scenes. /
+sv,A,"Oh/UH ,/, I/PRP thought/VBD it/PRP was/VBD awful/JJ ,/,","{F Oh, } I thought it was awful,"
+aa,B,"That/DT was/VBD ,/,","That was, /"
++,A,"and/CC so/RB graphic/JJ ,/,","and so graphic, /"
+b,B,Yeah/UH ./.,Yeah. /
+sd,A,"I/PRP mean/VBP I/PRP had/VBD n't/RB even/RB imagined/VBN it/PRP ,/, you/PRP know/VBP ./.","{E I mean } I hadn't even imagined it, {D you know. } /"
+sv,A,I/PRP think/VBP we/PRP all/DT heard/VBD the/DT story/NN of/IN the/DT slaughter/NN of/IN the/DT buffalo/NN ./.,I think we all heard the story of the slaughter of the buffalo. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Um/UH ,/, I/PRP had/VBD a/DT friend/NN who/WP had/VBD fixed/VBN some/DT ,/, uh/UH ,/, chili/NN ,/, buffalo/NN chili/NN and/CC ,/, about/RB a/DT week/NN before/IN went/VBD to/TO see/VB the/DT movie/NN ./.","{F Um, } I had a friend who had fixed some, {F uh, } [ chili, + buffalo chili ] [ and, + ] about a week before went to see the movie. /"
+b,B,"Oh/UH ,/, oh/UH ./.","{F Oh, } {F oh. } /"
+sd,A,"Of/IN course/NN they/PRP raise/VBP them/PRP now/RB ,/, you/PRP know/VBP ,/, to/TO eat/VB ./.","Of course they raise them now, {D you know, } to eat. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,"yeah/UH ,/,","yeah, /"
+%,B,"it/PRP 's/BES not/RB ,/,","it's not, -/"
+sd,A,"But/CC she/PRP ,/, we/PRP were/VBD both/DT feeling/VBG so/RB guilty/JJ about/IN enjoying/VBG this/DT chili/NN after/IN seeing/VBG that/DT ./.","{C But } [ she, + we ] were both feeling so guilty about enjoying this chili after seeing that. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,B,well/UH at/IN least/JJS you/PRP know/VBP that/IN it/PRP was/VBD n't/RB same/JJ situation/NN that/WDT the/DT buffalo/NN died/VBD in/IN ./.,{D well } at least you know that it wasn't same situation that the buffalo died in. /
+aa,A,No/UH,No /
+sd,A,it/PRP was/VBD n't/RB ./.,it wasn't <laughter>. /
+sv,B,"Um/UH ,/, I/PRP thought/VBD the/DT scenes/NNS when/WRB the/DT buffalos/NNS running/VBG ,/, though/RB ,/, were/VBD beautiful/JJ ,/,","{F Um, } I thought the scenes when the buffalos running, though, were beautiful, /"
+sv,B,like/UH that/DT was/VBD great/JJ ./.,{D like } that was great. /
+aa,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,B,And/CC there/EX were/VBD so/RB many/JJ of/IN them/PRP ./.,{C And } there were so many of them. /
+sd,B,"I/PRP did/VBD n't/RB know/VB that/IN ,/, that/RB many/JJ buffaloes/NNS alive/JJ ,/, much/RB less/RBR in/IN one/CD place/NN ./.","I didn't know that, that many buffaloes alive, much less in one place. /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,really/UH ./.,really. /
+sv,B,So/RB that/DT was/VBD pretty/JJ ./.,{D So } that was pretty. /
+sd,A,"And/CC to/TO think/VB about/IN how/WRB it/PRP just/RB changed/VBD the/DT whole/JJ landscape/NN ,/, you/PRP know/VBP ,/, you/PRP could/MD follow/VB this/DT ,/, this/DT beaten/JJ down/RP path/NN ,/,","{C And } to think about how it just changed the whole landscape, {D you know, } you could follow [ this, + this ] beaten down path, /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,and/CC it/PRP sounded/VBD like/IN thunder/NN and/CC earthquakes/NNS and/CC that/DT sort/NN of/IN thing/NN ./.,{C and } it sounded like thunder and earthquakes and that sort of thing. /
+sd,B,"I/PRP wonder/VBP how/WRB they/PRP kept/VBD up/RP with/IN them/PRP ,/, though/RB ,/,","I wonder how they kept up with them, though, /"
+sd,B,it/PRP seemed/VBD like/IN the/DT buffaloes/NNS were/VBD moving/VBG so/RB fast/RB ./.,it seemed like the buffaloes were moving so fast. /
+aa,A,I/PRP know/VBP ./.,I know. /
+sd,B,"I/PRP guess/VBP they/PRP graze/VBP ,/, though/RB ,/,","I guess they graze, though, /"
+sv,B,that/DT would/MD n't/RB be/VB a/DT problem/NN ./.,that wouldn't (( be a )) problem. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+b,A,yeah/UH ./.,yeah. /
+qy^d,A,"Uh/UH ,/, have/VBP you/PRP seen/VBN any/DT of/IN the/DT behind/IN the/DT scenes/NNS ,/, uh/UH ,/, of/IN ,/, of/IN that/DT movie/NN ./.","{F Uh, } have you seen any of the behind the scenes, {F uh, } [ of, + of ] that movie. /"
+nn,B,"No/UH ,/,","No, /"
+nn,B,huh-uh/UH ./.,huh-uh. /
+%,A,"It/PRP was/VBD ,/,","It was, - /"
+sv,A,"they/PRP tried/VBD to/TO keep/VB it/PRP ,/, you/PRP know/VBP ,/, as/IN very/RB close/RB to/IN real/JJ ./.","they tried to keep it, {D you know, } as very close to real. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,I/PRP mean/VBP like/UH Kevin/NNP Costner/NNP did/VBD all/DT of/IN his/PRP$ own/JJ scenes/NNS,{E I mean } {D like } Kevin Costner did all of his own scenes /
+sd,A,"and/CC ,/, uh/UH ,/, they/PRP had/VBD to/TO teach/VB a/DT wolf/NN how/WRB to/TO ,/, to/TO howl/VB ./.","{C and, } {F uh, } they had to teach a wolf how [ to, + to ] howl. /"
+b,B,Oh/UH ./.,Oh. /
+sd,A,"That/DT 's/BES the/DT ,/, part/NN they/PRP had/VBD trouble/NN finding/VBG was/VBD wolves/NNS ./.","That's the, part they had trouble finding was wolves <barking>. /"
+sv,B,"I/PRP guess/VBP they/PRP 're/VBP just/RB not/RB domesticated/JJ ,/,","I guess they're just not domesticated, /"
+%,B,"or/CC ,/, or/CC ,/,","[ {C or, } + {C or, } ] -/"
+b,A,"Yeah/UH ,/,","Yeah, /"
+%,A,"what/WP ,/,","what, - /"
+sv,A,they/PRP just/RB do/VBP n't/RB howl/VB that/RB much/RB anymore/RB ./.,they just don't howl that much anymore. /
+sd,A,I/PRP could/MD bring/VB them/PRP in/RB with/IN my/PRP$ dogs/NNS and/CC set/VB a/DT siren/NN off/RP,I could bring them in with my dogs and set a siren off /
+sd,A,and/CC that/DT 's/BES all/DT they/PRP 'd/MD have/VB to/TO do/VB ./.,{C and } that's all they'd have to do <laughter>. /
+b,A,Yeah/UH ./.,Yeah. /
+ba,B,Well/UH that/DT 's/BES funny/JJ ./.,{D Well } that's funny. /
+sv,A,"Well/UH ,/, I/PRP think/VBP we/PRP 've/VBP made/VBN it/PRP ./.","{D Well, } I think we've made it. /"
+qy^d,B,"Oh/UH is/VBZ that/DT five/CD minutes/NNS ,/,","{F Oh } is that five minutes, /"
+%,B,"is/VBZ that/DT ,/,","is that, -/"
+no,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+qy,A,is/VBZ it/PRP five/CD or/CC three/CD ./.,is it five or three. /
+bk,B,"Okay/UH ,/, oh/UH ,/,","Okay, {F oh, } /"
+no,B,I/PRP 'm/VBP not/RB sure/JJ ./.,I'm not sure. /
+sd,A,I/PRP 'm/VBP not/RB either/RB ./.,I'm not either. /
+b,B,"Okay/UH ,/,","Okay, /"
+sv,B,"well/UH I/PRP think/VBP we/PRP 're/VBP ,/, we/PRP 're/VBP ,/, we/PRP 've/VBP done/JJ okay/UH ,/, though/RB ./.","{D well } I think [ [ we're, + we're, ] + we've ] done okay, though. /"
+b,A,"Okay/UH ,/,","Okay, /"
+aa,A,me/PRP too/RB ./.,me too. /
+fc,B,Well/UH thank/VB you/PRP for/IN calling/VBG ./.,{D Well } thank you for calling. /
+fc,A,Well/UH thank/VB you/PRP ./.,{D Well } thank you. /
+fc,B,"And/CC I/PRP hope/VBP you/PRP enjoy/VBP some/DT more/JJR good/JJ movies/NNS late-/RB ,/,","{C And } I hope you enjoy some more good movies late-, /"
+fc,A,"Yeah/UH ,/,","Yeah, /"
+fc,A,you/PRP too/RB ./.,you too. /
+fc,B,"Bye/UH ,/, bye/UH ./.","Bye, bye. /"
+fc,A,"Bye/UH ,/, bye/UH ./.","Bye, bye. /"

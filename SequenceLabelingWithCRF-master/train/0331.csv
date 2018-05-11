@@ -1,0 +1,68 @@
+act_tag,speaker,pos,text
+sd,B,"I/PRP ,/, uh/UH ,/, get/VBP a/DT lot/NN of/IN my/PRP$ news/NN driving/VBG home/RB from/IN work/NN listening/VBG to/IN ALL/DT THINGS/NNS CONSIDERED/VBN on/IN national/JJ public/JJ radio/NN ./.","I, {F uh, } get a lot of my news driving home from work listening to ALL THINGS CONSIDERED on national public radio. /"
+sd,B,"Uh/UH ,/, that/DT is/VBZ one/CD of/IN my/PRP$ big/JJ sources/NNS for/IN current/JJ events/NNS information/NN ./.","{F Uh, } that is one of my big sources for current events information. /"
+sd,B,"Uh/UH ,/, I/PRP really/RB like/VBP that/DT coverage/NN ./.","{F Uh, } I really like that coverage. /"
+sd,B,"My/PRP$ wife/NN ,/, uh/UH ,/, on/IN the/DT other/JJ hand/NN is/VBZ home/RB most/JJS of/IN the/DT day/NN","My wife, {F uh, } on the other hand is home most of the day /"
+sd,B,and/CC she/PRP watches/VBZ a/DT lot/NN of/IN the/DT cable/NNP news/NNP network/NNP ./.,{C and } she watches a lot of the cable news network. /
+qy,B,"Have/VBP you/PRP seen/VBN ,/, uh/UH ,/, h/VBP ,/, have/VBP you/PRP ,/, uh/UH ,/, ever/RB heard/VBN of/IN ALL/DT THINGS/NNS CONSIDERED/VBN ?/.","[ Have you seen, + {F uh, } [ h-, + + have ] you, {F uh, } ever heard ] of ALL THINGS CONSIDERED? /"
+nn,A,"No/UH ,/,","No, /"
+sd,A,"we/PRP do/VBP n't/RB have/VB the/DT ,/, uh/UH ,/, national/JJ public/JJ radio/NN in/IN ,/, in/IN my/PRP$ area/NN ./.","we don't have the, {F uh, } national public radio [ in, + in ] my area. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP can/MD hear/VB it/PRP at/IN the/DT ,/, uh/UH ,/, uh/UH ,/, oh/UH ,/, the/DT college/NN town/NN nearby/RB when/WRB I/PRP 'm/VBP in/IN Stillwater/NNP ,/, which/WDT is/VBZ about/RB an/DT hour/NN away/RB ,/,","I can hear it at [ the, + {F uh, } {F uh, } {F oh, } the ] college town nearby when I'm in Stillwater, which is about an hour away, /"
+sd,A,but/CC the/DT F/NN M/NN signal/NN does/VBZ n't/RB reach/VB this/RB far/RB ./.,{C but } the F M signal doesn't reach this far. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Uh/UH ,/, I/PRP 'll/MD listen/VB to/TO shortwave/NN quite/RB a/DT bit/NN ./.","{F Uh, } I'll listen to shortwave quite a bit. /"
+sv,A,"It/PRP gives/VBZ you/PRP a/DT whole/RB different/JJ perspective/NN on/IN the/DT news/NN ,/, uh/UH ,/, when/WRB you/PRP hear/VBP it/PRP from/IN ,/, say/UH ,/, a/DT European/JJ --/:","It gives you a whole different perspective on the news, {F uh, } when you hear it from, {D say, } a European --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: point/NN of/IN view/NN ,/, or/CC from/IN the/DT country/NN of/IN origin/NN ./.","-- point of view, or from the country of origin. /"
+sd,A,"Uh/UH ,/, I/PRP agree/VBP with/IN you/PRP ,/, too/RB ,/, on/IN the/DT ,/, uh/UH ,/, uh/UH ,/, the/DT cable/NN channel/NN ,/, C/NNP N/NNP N/NNP and/CC HEADLINE/NNP NEWS/NNP ./.","{F Uh, } I agree with you, too, on [ the, + {F uh, } <lipsmack> {F uh, } the ] cable channel, C N N and HEADLINE NEWS. /"
+sd,A,"Uh/UH ,/, I/PRP 'm/VBP not/RB too/RB satisfied/JJ with/IN our/PRP$ local/JJ newspaper/NN --/:","{F Uh, } I'm not too satisfied with our local newspaper --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: uh/UH ,/, which/WDT is/VBZ why/WRB I/PRP rely/VBP on/IN shortwave/NN and/CC ,/, and/CC then/RB the/DT cable/NN ,/,","-- {F uh, } which is why I rely on shortwave [ and, + and ] then the [ cable, +"
+x,B,./.,<Cough>.
++,A,"cable/NN ,/, C/NNP N/NNP N/NNP ./.","cable, ] C N N. /"
+sd,B,"I/PRP 'm/VBP ,/, uh/UH ,/, interested/JJ in/IN the/DT ,/, in/IN the/DT shortwave/NN aspect/NN of/IN it/PRP ./.","I'm, {F uh, } interested [ in the, + in the ] shortwave aspect of it. /"
+qo,B,"Uh/UH ,/, how/WRB do/VBP you/PRP find/VB that/IN the/DT ,/, the/DT coverage/NN from/IN other/JJ places/NNS in/IN the/DT world/NN ,/, uh/UH ,/, compares/VBZ with/IN the/DT American/JJ coverage/NN of/IN ,/,","{F Uh, } how do you find that [ the, + the ] coverage from other places in the world <squeak>, {F uh, } compares with the American coverage of, - /"
+qo,B,"how/WRB do/VBP you/PRP think/VB that/DT ,/, uh/UH ,/, the/DT viewpoints/NNS differ/VBP ?/.","how do you think that, {F uh, } the viewpoints differ? /"
+sv,A,"I/PRP think/VBP a/DT lot/NN of/IN it/PRP is/VBZ just/RB ,/, uh/UH ,/, the/DT fact/NN that/IN in/IN the/DT U/NNP S/NNP you/PRP 're/VBP so/RB far/RB removed/JJ ,/, uh/UH ,/, in/IN a/DT lot/NN of/IN cases/NNS from/IN ,/, say/UH ,/, conflicts/NNS","I think a lot of it is just, {F uh, } the fact that in the U S you're so far removed, {F uh, } in a lot of cases from, {D say, } conflicts /"
+sv,A,"or/CC ,/, or/CC it/PRP 's/BES not/RB happening/VBG in/IN your/PRP$ backyard/NN --/:","[ {C or, } + {C or } ] it's not happening in your backyard -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: so/RB it/PRP 's/BES ,/, it/PRP 's/BES more/JJR of/IN a/DT ,/, it/PRP 's/BES not/RB as/IN a/DT personal/JJ ,/, uh/UH ,/, the/DT news/NN is/VBZ n't/RB as/RB personal/NN in/IN what/WP we/PRP receive/VBP domestically/RB than/IN ,/, than/IN what/WP 's/BES on/IN shortwave/NN ./.","-- {C so } [ [ [ it's, + it's ] more of a, + it's not as [ a + ] personal, ] + {F uh, } the news isn't as personal ] in what we receive domestically [ than, + than ] what's on shortwave. /"
+sv,A,"It/PRP 's/BES ,/, B/NNP B/NNP C/NNP is/VBZ ,/, uh/UH ,/, oh/UH ,/, I/PRP do/VBP n't/RB know/VB the/DT right/JJ word/NN ,/, is/VBZ ,/, is/VBZ almost/RB ,/, uh/UH ,/,","[ It's, + B B C [ [ is, + {F uh, } {A oh, I don't know the right word, } is, ] + is ] ] almost, {F uh, } - /"
+sv,A,they/PRP almost/RB take/VBP all/DT emotions/NNS out/IN of/IN it/PRP when/WRB they/PRP --/:,they almost take all emotions out of it when they --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: report/VBP it/PRP,-- report it /
+%,A,"and/CC it/PRP just/RB ,/,","{C and } it just, - /"
+sv,A,they/PRP seem/VBP to/TO give/VB more/JJR of/IN just/RB the/DT facts/NNS than/IN opinions/NNS ./.,they seem to give more of just the facts than opinions. /
+qy,B,"Do/VBP you/PRP think/VB ,/, then/RB ,/, that/IN ,/, uh/UH ,/, the/DT American/JJ media/NN is/VBZ presenting/VBG an/DT opinion/NN along/IN with/IN their/PRP$ facts/NNS ?/.","Do you think, then, that, {F uh, } the American media is presenting an opinion along with their facts? /"
+na,A,"Uh/UH ,/, very/RB much/RB so/RB ,/,","{F Uh, } very much so, /"
+na,A,"very/RB much/RB so/RB ,/,","very much so, /"
+sv,A,"and/CC I/PRP ,/, I/PRP think/VBP a/DT lot/NN of/IN it/PRP is/VBZ ,/, uh/UH ,/, especially/RB T/NN V/NN news/NN ,/,","{C and } [ I, + I ] think a lot of it is, {F uh, } especially T V news, /"
+sv,A,"they/PRP do/VBP n't/RB really/RB have/VB the/DT time/NN and/CC a/DT lot/NN of/IN them/PRP do/VBP n't/RB have/VB the/DT education/NN and/CC the/DT background/NN to/TO ,/,","they don't really have the time and a lot of them don't have the education and the background [ to, +"
+x,B,./.,<Cough>.
++,A,"uh/UH ,/, oh/UH ,/, to/TO really/RB decipher/VB the/DT news/NN and/CC to/TO really/RB explain/VB it/PRP ./.","{F uh, } {F oh, } to ] really decipher the news and to really explain it. /"
+sv,A,"I/PRP mean/VBP ,/, I/PRP ,/, you/PRP know/VBP ,/, I/PRP think/VBP it/PRP 's/BES important/JJ to/TO interpret/VB it/PRP ,/,","{E I mean, } [ I, + {D you know, } I ] think it's important to interpret it, /"
+sv,A,"but/CC a/DT lot/NN of/IN times/NNS the/DT person/NN does/VBZ n't/RB have/VB the/DT experience/NN to/TO ,/, to/TO do/VB the/DT interpreting/NN ./.","{C but } a lot of times the person doesn't have the experience [ to, + to ] do the interpreting. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,B,"Which/WDT ,/, uh/UH ,/, which/WDT approach/NN do/VBP you/PRP find/VB to/TO be/VB ,/, uh/UH ,/, more/RBR useful/JJ ,/, the/DT ,/, the/DT interpretive/JJ approach/NN or/CC the/DT straight/JJ reporting/NN ?/.","[ Which, + {F uh, } which ] approach do you find to be, {F uh, } more useful, [ the, + the ] interpretive approach or the straight reporting? /"
+sd,A,"Oh/UH ,/, I/PRP like/VBP the/DT straight/JJ reporting/NN ./.","{F Oh, } I like the straight reporting. /"
+sd,A,"Uh/UH ,/, and/CC then/RB I/PRP ,/, I/PRP hope/VBP to/TO be/VB able/JJ to/TO form/VB my/PRP$ own/JJ opinion/NN of/IN it/PRP ./.","{F Uh, } {C and then } [ I, + I ] hope to be able to form my own opinion of it. /"
+sv,A,"It/PRP 's/BES ,/, it/PRP 's/BES nice/JJ to/TO hear/VB someone/NN 's/POS interpretation/NN of/IN it/PRP --/:","[ It's, + it's ] nice to hear someone's interpretation of it -- /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"--/: uh/UH ,/, I/PRP always/RB think/VBP it/PRP 's/BES humorous/JJ when/WRB ,/, when/WRB the/DT President/NNP gives/VBZ the/DT State/NNP of/IN the/DT Union/NNP and/CC ,/, uh/UH ,/, for/IN thirty/CD minutes/NNS","-- {F uh, } I always think it's humorous [ when, + when ] the President gives the State of the Union [ and, + ] {F uh, } for thirty minutes /"
+sd,A,and/CC then/RB for/IN an/DT hour/NN and/CC a/DT half/NN you/PRP hear/VBP different/JJ commentators/NNS explaining/VBG what/WP you/PRP just/RB heard/VBD ./.,{C and then } for an hour and a half you hear different commentators explaining what you just heard. /
+x,B,./.,<Laughter>.
+sd,A,"And/CC a/DT lot/NN of/IN time/NN I/PRP do/VBP n't/RB hear/VB exactly/RB what/WP they/PRP ,/, what/WP they/PRP write/VBP into/IN it/PRP ./.","{C And } a lot of time I don't hear exactly [ what they, + what they ] write into it. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"So/RB I/PRP ,/, overall/RB ,/, I/PRP think/VBP I/PRP would/MD rather/RB hear/VB just/RB straight/JJ reporting/NN ./.","{C So } [ I, + overall, I ] think I would rather hear just straight reporting. /"
+sv,B,"One/CD of/IN the/DT things/NNS that/WDT I/PRP found/VBD interesting/JJ last/JJ year/NN during/IN the/DT ,/, uh/UH ,/, the/DT Gulf/NNP conflict/NN was/VBD a/DT sentiment/NN against/IN ,/, uh/UH ,/, Peter/NNP Arnett/NNP ,/, who/WP had/VBD stayed/VBN in/IN Iraq/NNP and/CC was/VBD presenting/VBG ,/, uh/UH ,/, some/DT of/IN the/DT things/NNS that/WDT were/VBD available/JJ ./.","One of the things that I found interesting last year during [ the, + {F uh, } the ] Gulf conflict was a sentiment against, {F uh, } Peter Arnett, who had stayed in Iraq and was presenting, {F uh, } some of the things that were available. /"
+sd,B,"Uh/UH ,/, there/EX was/VBD a/DT ,/, there/EX was/VBD ,/, uh/UH ,/, a/DT piece/NN where/WRB he/PRP was/VBD showing/VBG a/DT bombed/VBN out/RP building/NN where/WRB there/EX was/VBD obviously/RB a/DT crudely/RB ,/, uh/UH ,/, uh/UH ,/, hastily/RB erected/VBN sign/NN saying/VBG baby/NN milk/NN factory/NN ,/,","{F Uh, } [ there was a, + there was, {F uh, } a ] piece where he was showing a bombed out building where there was obviously a [ crudely, + {F uh, } {F uh, } hastily ] erected sign saying baby milk factory, /"
+sd,B,"and/CC while/IN he/PRP was/VBD being/VBG severely/RB ,/, uh/UH ,/, censored/VBN and/CC could/MD not/RB make/VB any/DT judgment/NN call/NN on/IN this/DT ,/, it/PRP was/VBD fairly/RB obvious/JJ that/IN it/PRP was/VBD a/DT piece/NN of/IN propaganda/NN ,/,","{C and } while he was being severely, {F uh, } censored and could not make any judgment call on this, it was fairly obvious that it was a piece of propaganda, /"
+sd,B,"but/CC people/NNS were/VBD really/RB down/RP on/IN him/PRP for/IN reporting/VBG the/DT fact/NN that/IN ,/, th-/IN ,/, you/PRP know/VBP ,/, this/DT is/VBZ n't/RB a/DT baby/NN milk/NN factory/NN ,/,","{C but } people were really down on him for reporting the fact that, [ th-, + {D you know, } this ] isn't a baby milk factory, /"
+qh,B,"how/WRB could/MD he/PRP say/VB it/PRP was/VBD ,/, uh/UH ,/,","how could he say it was, {F uh, } /"
+sv,B,"I/PRP ,/, I/PRP think/VBP that/DT ,/,","[ I, + I ] think [ that, +"
+x,A,./.,<Static>.
++,B,"that/DT to/IN me/PRP showed/VBD that/IN the/DT Americans/NNPS were/VBD really/RB getting/VBG used/JJ to/IN having/VBG the/DT ,/, not/RB just/RB the/DT facts/NNS ,/, but/CC also/RB the/DT conclusions/NNS and/CC opinions/NNS spoon/GW fed/^VBN to/IN them/PRP ./.","that ] to me showed that the Americans were really getting used to having [ the, + not just the ] facts, but also the conclusions and opinions spoon fed to them. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"I/PRP ,/, I/PRP think/VBP people/NNS are/VBP ,/, people/NNS have/VBP that/DT opinion/NN ./.","[ I, + I ] think [ people are, + people have ] that opinion. /"
+sv,A,"They/PRP ,/, they/PRP want/VBP to/TO sit/VB down/IN in/IN front/NN of/IN the/DT TV/NN and/CC ,/, uh/UH ,/, or/CC at/IN a/DT ,/, read/VB a/DT magazine/NN or/CC U/NNP S/NNP A/NNP TODAY/NNP and/CC read/VB in/IN four/CD paragraphs/NNS ,/, uh/UH ,/, and/CC ,/, and/CC find/VB out/RP every-/NN ,/,","[ They, + they ] want to sit down in front of the TV [ and, + {F uh, } or ] [ at a, + ] read a magazine or U S A TODAY and read in four paragraphs, {F uh, } [ and, + and ] find out every-, -/"

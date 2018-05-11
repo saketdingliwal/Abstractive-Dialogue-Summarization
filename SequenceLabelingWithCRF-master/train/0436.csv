@@ -1,0 +1,150 @@
+act_tag,speaker,pos,text
+qw,A,"Um/UH ,/, what/WP 's/BES our/PRP$ topic/NN ?/.","<Beep> <breathing> {F Um, } what's our topic? /"
+sd,B,Taxes/NNS ./.,Taxes. /
+sd,A,Taxes/NNS ./.,Taxes. /
+qy,B,Do/VBP we/PRP pay/VB too/RB much/RB ?/.,Do we pay too much? /
+b,A,Right/UH ./.,Right. /
+b,A,Right/UH ./.,Right. /
+%,A,"Um/UH ,/,","{F Um } <laughter>, /"
+qy,B,"Well/UH ,/, do/VBP we/PRP ?/.","{D Well, } do we? /"
+qw,A,What/WP do/VBP you/PRP do/VB ?/.,What do you do? /
+%,B,"Um/UH ,/,","{F Um, } /"
+sv,A,"I/PRP guess/VBP that/DT ,/,","I guess that, - /"
+sv,A,I/PRP mean/VBP it/PRP all/DT depends/VBZ really/RB on/IN what/WDT kind/NN of/IN bracket/NN you/PRP 're/VBP in/IN ./.,{E I mean } it all depends really on what kind of bracket you're in. /
+sd,B,"My/PRP$ tax/NN bracket/NN is/VBZ ,/, is/VBZ pretty/RB high/JJ up/IN there/RB ./.","My tax bracket [ is, + is ] pretty high up there. /"
+sd,B,"I/PRP pay/VBP the/DT ,/, I/PRP generally/RB pay/VBP the/DT maximum/JJ tax/NN bracket/NN ./.","[ I pay the, + I generally pay the ] maximum tax bracket. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"And/CC ,/, uh/UH ,/, I/PRP think/VBP that/IN we/PRP 're/VBP paying/VBG too/RB much/RB","{C And, } {F uh, } I think that we're paying too much /"
+sd,B,because/IN I/PRP do/VBP n't/RB have/VB any/DT children/NNS ./.,{C because } I don't have any children. /
+b,A,Right/UH ./.,Right. /
+sd,B,And/CC I/PRP pay/VBP a/DT lot/NN of/IN property/NN taxes/NNS ./.,{C And } I pay a lot of property taxes. /
+b,A,"Oh/UH ,/, sure/UH ./.","{F Oh, } sure. /"
+sd,B,"I/PRP do/VBP n't/RB have/VB any/DT ,/, um/UH ,/, I/PRP do/VBP n't/RB ,/, you/PRP know/VBP ,/, I/PRP do/VBP n't/RB use/VB an/DT awful/JJ lot/NN of/IN city/NN services/NNS ./.","[ I don't have any, + {F um, } <lipsmack> [ I don't, + {D you know, } I don't ] use an ] awful lot of city services. /"
+sv,B,"It/PRP ,/, it/PRP ,/, you/PRP know/VBP --/:","[ [ It, + it, ] + {D you know } <laughter> --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: it/PRP 's/BES like/IN I/PRP have/VBP to/TO work/VB m-/PRP$ ,/, I/PRP have/VBP to/TO work/VB all/PDT the/DT time/NN --/:","-- it's ] like [ I have to work m-, + I have to work ] all the time --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: just/RB to/TO make/VB enough/JJ money/NN to/TO pay/VB the/DT taxes/NNS ./.,-- just to make enough money to pay the taxes. /
+b,A,Right/UH ./.,Right. /
+sd,B,"And/CC ,/, um/UH ,/, y-/PRP ,/, there/EX 's/BES so/RB many/JJ people/NNS who/WP want/VBP a/DT ,/, a/DT dib/NN of/IN the/DT federal/JJ money/NN --/:","{C And, } {F um, } [ y-, + ] there's so many people who want [ a, + a ] ((dib)) of the federal money --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: or/CC the/DT state/NN money/NN or/CC whatever/WP it/PRP is/VBZ,-- or the state money or whatever it is /
+%,B,"and/CC I/PRP just/RB ,/,","{C and } I just, - /"
+sd,B,"sometimes/RB ,/, many/JJ times/NNS I/PRP end/VBP up/RP feeling/VBG like/IN I/PRP 'm/VBP paying/VBG too/RB much/RB in/IN taxes/NNS ./.","[ sometimes, + many times ] I end up feeling like I'm paying too much in taxes. /"
+b,A,Right/UH ./.,Right. /
+qo,B,How/WRB about/IN you/PRP ?/.,How about you? /
+qy,B,Do/VBP you/PRP pay/VB too/RB much/RB ?/.,Do you pay too much? /
+nn,A,"Uh/UH ,/, well/UH ,/, no/UH ,/,","{F Uh, } {D well, } no, /"
+sv,A,I/PRP ca/MD n't/RB really/RB complain/VB ./.,I can't really complain. /
+sd,A,"I/PRP 'm/VBP a/DT student/NN ,/, um/UH ,/,","I'm a student, {F um, } /"
+sd,A,"and/CC I/PRP d-/XX ,/, I/PRP work/VBP as/IN a/DT co-op/NN at/IN ,/, uh/UH ,/, Georgia/NNP Tech/NNP Research/NNP Institute/NNP ./.","{C and } [ I d-, + I work ] as a co-op at, {F uh, } Georgia Tech Research Institute. /"
+sd,A,"And/CC ,/, uh/UH ,/, I/PRP 'm/VBP going/VBG to/TO get/VB back/RB most/JJS of/IN what/WP I/PRP earned/VBD ,/, I/PRP mean/VBP most/JJS of/IN what/WP I/PRP pay/VBP in/IN taxes/NNS","{C And, } {F uh, } I'm going to get back [ most of what I earned, + {E I mean } most of what I pay ] in taxes /"
+sd,A,"and/CC ,/, uh/UH ,/, and/CC ,/, uh/UH ,/,","[ {C and, } + {F uh, } {C and, } ] {F uh, }"
+sv,B,"Well/UH ,/, when/WRB you/PRP --/:","{D Well, } [ [ when you -- +"
++,A,"on-/CD ,/, one/CD of/IN my/PRP$ parents/NNS is/VBZ still/RB claiming/VBG me/PRP ./.","[ on-, + one ] of my parents is still claiming me. /"
+br,A,Huh/UH ?/.,{F Huh? } /
++,B,"--/: when/WRB you/PRP go/VBP out/IN into/IN the/DT ,/, uh/UH ,/, when/WRB you/PRP go/VBP out/IN into/IN the/DT working/JJ world/NN --/:","-- when you go out into the, ] + {F uh, } when you go out into the ] working world --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: it/PRP ,/, it/PRP changes/VBZ quickly/RB ./.","-- [ it, + it ] changes quickly. /"
+aa,A,I/PRP 'm/VBP sure/JJ ./.,I'm sure <laughter>. /
+sd,B,"Um/UH ,/, you/PRP look/VBP at/IN your/PRP$ paycheck/NN","{F Um, } you look at your paycheck /"
+sd,B,"and/CC you/PRP go/VBP ,/, oh/UH ,/, my/PRP$ gosh/UH where/WRB did/VBD it/PRP all/DT go/VB ./.","{C and } you go, {F oh, } my gosh where did it all go <laughter>. /"
+x,A,./.,<Laughter>.
+qw,B,"Um/UH ,/, what/WDT kind/NN of/IN ,/, what/WDT kind/NN of/IN ,/,","{F Um, } [ what kind of, + what kind of, ] - /"
+%,B,"uh/UH ,/, well/UH have/VBP you/PRP pay/VB a/DT lot/NN of/IN in/IN ta-/NNS ,/,","{F uh, } {D well } have you pay a lot of in ta-, - /"
+qy,B,have/VBP you/PRP been/VBN out/RB working/VBG and/CC then/RB gone/VBN back/RB to/IN school/NN,have you been out working and then gone back to school /
+qrr,B,"or/CC are/VBP you/PRP ,/, did/VBD you/PRP go/VB directly/RB from/IN high/JJ school/NN into/IN ,/, into/IN college/NN ?/.","{C or } [ are you, + did you ] go directly from high school [ into, + into ] college? /"
+sd,A,"I/PRP went/VBD ,/,","I went, - /"
+sd,A,"well/UH I/PRP did/VBD work/VB ,/, um/UH ,/, just/RB very/RB MUMBLEx/XX for/IN some/DT time/NN","{D well } I did work, {F um, } [ just very + ] (( )) for some time /"
+sd,A,"but/CC I/PRP did/VBD n't/RB make/VB enough/JJ money/NN to/TO really/RB make/VB ,/,","{C but } I didn't make enough money to really <breathing> make,"
+^2,B,To/TO worry/VB about/IN it/PRP ./.,To worry about it. /
++,A,too/RB much/RB of/IN a/DT difference/NN ./.,too much of a difference. /
+aa,A,Right/UH ./.,Right. /
+qy,B,"Have/VBP you/PRP ,/, have/VBP you/PRP been/VBN active/JJ in/IN ,/, in/IN politics/NNS trying/VBG to/TO ,/, concerning/VBG this/DT ?/.","[ Have you, + have you ] been active [ in, + in ] politics [ trying to, + ] concerning this? /"
+qy,B,Have/VBP you/PRP like/UH worked/VBN on/IN political/JJ action/NN committees/NNS or/CC something/NN like/IN that/DT ?/.,Have you {D like } worked on political action committees or something like that? /
+nn,A,"No/UH ,/,","No, /"
+nn,A,"no/UH ,/,","no, /"
+sd,A,I/PRP have/VBP n't/RB ./.,I haven't. /
+sd,B,"I/PRP ,/, uh/UH ,/, I/PRP have/VBP n't/RB done/VBN any/DT of/IN that/DT type/NN of/IN work/NN myself/PRP ./.","[ I, + {F uh, } I ] haven't done any of that type of work myself. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Um/UH ,/, but/CC every/DT once/RB in/IN a/DT while/NN when/WRB I/PRP hear/VBP up/IN here/RB at/IN ,/, at/IN ,/, uh/UH ,/, in/IN D/NNP C/NNP area/NN ,/, um/UH ,/, one/CD of/IN the/DT radio/NN stations/NNS has/VBZ been/VBN talking/VBG about/IN the/DT ,/, the/DT Congress/NNP ,/,","{F Um, } {C but } every once in a while when I hear up here [ [ at, + at, ] + {F uh, } in ] D C area, {F um, } one of the radio stations has been talking about [ the, + the ] Congress, /"
+sd,B,"um/UH ,/, Congress/NNP has/VBZ added/VBN too/RB towards/IN the/DT Members/NNPS Bank/NNP there/RB ,/, you/PRP know/VBP ,/,","{F um, } <lipsmack> Congress has added too towards the Members Bank there, {D you know, } /"
+sd,B,"there/EX 's/BES a/DT bank/NN that/WDT they/PRP all/DT bank/VBP with/IN ,/,","there's a bank that they all bank with, /"
+sd,B,and/CC I/PRP guess/VBP it/PRP went/VBD defunct/JJ recently/RB ./.,{C and } I guess it went defunct recently. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC one/CD of/IN the/DT Congressmen/NNPS has/VBZ ,/, has/VBZ written/VBN in/IN the/DT last/JJ three/CD years/NNS al-/XX ,/, about/IN a/DT thousand/CD bad/JJ checks/NNS ./.","{C And } one of the Congressmen [ has, + has ] written in the last three years [ al-, + about ] a thousand bad checks. /"
+%,A,Huh/UH ./.,{F Huh. } /
+sd,B,"And/CC we/PRP ,/, we/PRP the/DT taxpayers/NNS float/VBP him/PRP a/DT loan/NN for/IN all/DT tho-/DT ,/, all/PDT those/DT bad/JJ checks/NNS ,/,","{C And } [ we, + we ] the taxpayers float him a loan for [ all tho-, + all those ] bad checks,"
+b,A,Oh/UH ./.,Oh. /
++,B,"no/DT interest/NN ,/, no/DT repayment/NN schedule/NN ./.","no interest, no repayment schedule. /"
+bh,A,Really/UH ?/.,Really? /
+sd,B,"And/CC ,/, um/UH ,/, it/PRP 's/BES causing/VBG quite/RB a/DT stir/NN up/IN here/RB ,/,","{C And, } {F um, } it's causing quite a stir up here,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,because/IN we/PRP 're/VBP so/RB close/RB to/IN D/NNP C/NNP anyway/RB ./.,because we're so close to D C anyway. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,It/PRP 's/BES really/RB kind/RB of/RB curious/JJ to/TO watch/VB this/DT thing/NN occur/VB ./.,It's really kind of curious to watch this thing occur. /
+ba,A,"Oh/UH ,/, sure/UH ./.","{F Oh, } sure. /"
+sv,B,"Um/UH ,/, I/PRP ,/, I/PRP ,/, I/PRP think/VBP we/PRP pay/VBP too/RB much/RB ./.","{F Um, } [ [ I, + I, ] + I ] think we pay too much. /"
+sd,B,"And/CC I/PRP 've/VBP ,/, I/PRP look/VBP at/IN my/PRP$ paycheck/NN","{C And } [ I've, + I ] look at my paycheck /"
+sd,B,"and/CC I/PRP make/VBP ,/,","{C and } I make, - /"
+^h,B,"well/UH ,/, let/VB 's/PRP see/VB ./.","{D well, } let's see. /"
+sd,B,They/PRP take/VBP out/IN in/IN state/NN and/CC federal/JJ taxes/NNS --/:,They take out in state and federal taxes -- -/
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,--/: I/PRP think/VBP I/PRP pay/VBP forty-two/CD percent/NN ./.,-- <Lipsmack> I think I pay forty-two percent. /
+ba,A,Wow/UH ./.,Wow. /
+sd,B,"Forty-two/CD cents/NNS out/IN of/IN every/DT dollar/NN I/PRP make/VBP goes/VBZ to/IN the/DT government/NN ,/,","Forty-two cents out of every dollar I make goes to the government, /"
+x,A,./.,<Noise>.
+sd,B,and/CC then/RB they/PRP charge/VBP me/PRP sales/NNS tax/NN,{C and then } they charge me sales tax /
+sd,B,"and/CC they/PRP charge/VBP me/PRP gasoline/NN taxes/NNS ,/,","{C and } they charge me gasoline taxes, /"
+b,A,Uh-huh/UH ./.,<<Very faint>> Uh-huh. /
+%,A,MUMBLEx/XX taxes/NNS ./.,(( )) taxes. /
+sd,B,"and/CC they/PRP charge/VBP me/PRP all/PDT these/DT others/NNS ,/,","{C and } they charge me all these others, /"
+sv,B,and/CC it/PRP 's/BES just/RB too/RB expensive/JJ ./.,{C and } it's just too expensive. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,I/PRP ca/MD n't/RB believe/VB that/IN,I can't believe that /
+sd,B,"I/PRP ,/, I/PRP 'm/VBP just/RB thankful/JJ that/IN I/PRP do/VBP n't/RB get/VB all/PDT the/DT government/NN that/WDT I/PRP pay/VBP for/IN ./.","[ I, + I'm ] just thankful that I don't get all the government that I pay for. /"
+%,A,Huh/UH ./.,{F Huh. } /
+qy,B,You/PRP know/VBP what/WP I/PRP mean/VBP ?/.,You know what I mean? /
+ny,A,Yeah/UH ./.,Yeah. /
+qy,B,"Do/VBP you/PRP ,/, have/VBP you/PRP used/VBN ,/, um/UH ,/, student/NN loans/NNS and/CC things/NNS like/IN that/DT that/WDT were/VBD guaranteed/VBN by/IN the/DT government/NN ?/.","[ Do you, + have you ] used, {F um, } student loans and things like that that were guaranteed by the government? /"
+nn,A,"No/UH ,/,","No, /"
+nn,A,"no/UH ,/,","no, /"
+sd,A,I/PRP have/VBP n't/RB ./.,I haven't. /
+sd,A,"Uh/UH ,/, I/PRP ,/, uh/UH ,/, my/PRP$ father/NN pays/VBZ for/IN my/PRP$ ,/, my/PRP$ schooling/NN ,/, my/PRP$ tuition/NN ./.","{F Uh, } [ I, + {F uh, } my father ] pays for [ [ my, + my schooling, ] + my tuition. ] /"
+sd,A,"So/RB ,/, uh/UH ,/, I/PRP 'm/VBP ,/, I/PRP have/VBP n't/RB made/VBN use/NN of/IN that/DT ./.","{D So, } {F uh, } [ I'm, + I ] haven't made use of that. /"
+qw,B,What/WP are/VBP you/PRP studying/VBG down/IN there/RB ?/.,What are you studying down there? /
+sd,A,Physics/NNS ./.,Physics. /
+b^m,B,Physics/NNS ./.,Physics. /
+aa,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"Oh/UH ,/, that/DT sounds/VBZ like/IN a/DT fun/JJ ,/, fun/JJ field/NN ./.","{F Oh, } that sounds like a [ fun, + fun ] field. /"
+sd,A,Everybody/NN says/VBZ that/DT ./.,<Laughter> Everybody says that <laughter>. /
+sd,B,Scientific/JJ ./.,<Laughter> Scientific. /
+br,A,Huh/UH ./.,{F Huh. } /
+sd,B,Heavy/JJ science/NN ./.,<Laughter> Heavy science. /
+x,A,./.,<Laughter>.
+qy,B,"Are/VBP you/PRP like/UH in/IN the/DT particle/NN ,/, particle/NN research/NN or/CC anything/NN like/IN that/DT","Are you {D like } in the [ particle, + particle ] research or <breathing> anything like that /"
+qrr,B,"or/CC is/VBZ it/PRP more/JJR ,/, um/UH ,/, applied/JJ physics/NNS ?/.","{C or } is it more, {F um, } applied physics? /"
+sd,A,"Um/UH ,/, I/PRP have/VBP n't/RB ,/, I/PRP have/VBP n't/RB gotten/VBN too/RB terribly/RB much/JJ into/IN my/PRP$ major/NN yet/RB ./.","{F Um, } [ I haven't, + I haven't ] gotten too terribly much into my major yet. /"
+sd,A,"Actually/RB ,/, um/UH ,/, the/DT ,/, the/DT degree/NN I/PRP 'm/VBP getting/VBG is/VBZ physics/NNS ./.","{D Actually, } {F um, } <breathing> [ the, + the ] degree I'm getting is physics. /"
+sd,A,There/EX 's/BES a/DT different/JJ one/NN for/IN applied/JJ physics/NNS,There's a different one for applied physics /
+sd,A,so/RB I/PRP guess/VBP you/PRP could/MD call/VB it/PRP more/RBR straight/JJ stuff/NN --/:,{D so } I guess you could call it more straight stuff --
+bk,B,Okay/UH ./.,Okay. /
++,A,--/: than/IN applied/JJ ./.,-- than applied. /
+sd,B,"Well/UH maybe/RB ,/, maybe/RB you/PRP can/MD figure/VB out/RP how/WRB we/PRP can/MD stop/VB this/DT inertia/NN that/WDT 's/HVS ,/,","{D Well } [ maybe, + maybe ] you can figure out how we can stop this inertia that's,"
+x,A,./.,<Laughter>.
++,B,"MUMBLEx/XX come/VB rolling/VBG towards/IN ,/, whatever/WP it/PRP 's/BES rolling/VBG toward/IN ./.","(( )) come rolling towards, whatever it's rolling toward. /"
+sv,A,I/PRP doubt/VBP about/IN that/DT ./.,I doubt about that. /
+qy,A,"Are/VBP ,/, are/VBP ,/, is/VBZ America/NNP ,/, I/PRP mean/VBP are/VBP we/PRP pretty/RB ,/, pretty/RB steep/JJ compared/VBN to/IN most/JJS countries/NNS ?/.","[ [ [ Are, + are, ] + is America, ] + {E I mean } are we ] [ pretty, + pretty ] steep compared to most countries? /"
+ng,B,"Actually/RB ,/, I/PRP do/VBP n't/RB think/VB we/PRP are/VBP ./.","Actually, I don't think we are. /"
+aa,A,"No/UH ,/,","No, /"
+sd,A,I/PRP do/VBP n't/RB think/VB so/RB either/RB ./.,I don't think so either. /
+sd,B,"Um/UH ,/, like/IN ,/, like/IN Europe/NNP ,/,","{F Um, } [ like, + like ] Europe,"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"um/UH ,/, England/NNP ./.","{F um, } England."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,I/PRP know/VBP the/DT taxes/NNS are/VBP a/DT lot/NN higher/JJR ./.,I know the taxes are a lot higher. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,But/CC they/PRP do/VBP have/VB socialized/JJ medicine/NN and/CC things/NNS like/IN that/DT ./.,{D But } they do have socialized medicine and things like that. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,"And/CC ,/, um/UH ,/, I/PRP know/VBP I/PRP was/VBD reading/VBG in/IN the/DT paper/NN I/PRP believe/VBP yesterday/NN that/IN ,/, um/UH ,/, they/PRP 're/VBP talking/VBG ,/,","{C And, } {F um, } I know I was reading in the paper I believe yesterday that, {F um, } they're talking, - /"
+sd,B,"or/CC maybe/RB it/PRP was/VBD on/IN the/DT radi-/NN ,/,","{C or } maybe it was on the radi-, -/"

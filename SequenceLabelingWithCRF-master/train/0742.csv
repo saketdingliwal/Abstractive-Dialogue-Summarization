@@ -1,0 +1,107 @@
+act_tag,speaker,pos,text
+"fo_o_fw_""_by_bc",A,"Okay/UH ,/, Bill/NNP ,/, um/UH ,/,","Okay, Bill, {F um, } /"
+sd,A,"as/IN you/PRP think/VBP over/IN the/DT plans/NNS and/CC so/RB forth/RB that/WDT the/DT company/NN you/PRP 're/VBP working/VBG with/IN now/RB ,/,","as you think over the plans and so forth that the company you're working with now, - /"
+qw,A,who/WP do/VBP you/PRP work/VB with/IN at/IN this/DT time/NN ?/.,who do you work with at this time? /
+sd,B,"Well/UH ,/, I/PRP own/VBP the/DT company/NN ./.","{D Well, } I own the company. /"
+b^m,A,You/PRP own/VBP the/DT company/NN ./.,You own the company. /
+ba,A,All/RB right/JJ ./.,All right. /
+sd,B,I/PRP 'm/VBP the/DT president/NN and/CC C/NN E/NN O/NN of/IN the/DT company/NN ./.,I'm the president and C E O of the company. /
+ba,A,My/PRP$ goodness/NN ./.,My goodness. /
+sv,B,"So/RB ,/, uh/UH ,/, I/PRP guess/VBP ,/, uh/UH ,/, I/PRP determine/VBP what/WP the/DT benefits/NNS are/VBP ./.","{C So, } {F uh, } I guess, {F uh, } I determine what the benefits are <laughter>. /"
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,I/PRP guess/VBP you/PRP do/VBP ./.,I guess you do. /
+qw,B,"But/CC ,/, uh/UH ,/, so/RB what/WP are/VBP you/PRP asking/VBG me/PRP ,/,","[ {C But, } + {F uh, } {C so ] } what are you asking me, /"
+qw,B,"what/WP ,/, what/WDT benefits/NNS I/PRP think/VBP are/VBP most/RBS important/JJ ?/.","[ what, + what ] benefits I think are most important? /"
+qw,A,"Well/UH ,/, what/WP ,/, what/WP do/VBP you/PRP think/VB of/IN the/DT ,/,","{D Well, } [ what, + what ] do you think of the, - /"
+^h,A,"let/NN 's/PRP put/VB it/PRP this/DT way/NN ,/,","let's put it this way, /"
+qw,A,"what/WP do/VBP you/PRP think/VB are/VBP the/DT most/RBS important/JJ benefits/NNS for/IN those/DT working/VBG for/IN you/PRP ,/, other/JJ than/IN ,/, other/JJ than/IN their/PRP$ present/JJ salary/NN ?/.","what do you think are the most important benefits for those working for you, [ other than, + other than ] their present salary? /"
+sv,B,"Um/UH ,/, I/PRP 'd/MD say/VB in/IN today/NN 's/POS economy/NN ,/, besides/IN basic/JJ benefits/NNS ,/, uh/UH ,/, such/IN as/IN ,/, um/UH ,/, health/NN insurance/NN and/CC life/NN insurance/NN and/CC the/DT ,/, some/DT type/NN of/IN retirement/NN plan/NN --/:","{F Um, } I'd say in today's economy, besides basic benefits, {F uh, } such as, {F um, } health insurance and life insurance and [ the, + ] some type of retirement plan --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: I/PRP 'd/MD say/VB that/IN ,/, uh/UH ,/, most/RBS of/IN the/DT employees/NNS ,/, uh/UH ,/, um/UH ,/, that/WDT we/PRP have/VBP really/RB like/VB a/DT ,/, a/DT profit/NN sharing/VBG plan/NN ./.","-- I'd say that, {F uh, } most of the employees, {F uh, } {F um, } that we have really like [ a, + a ] profit sharing plan. /"
+b^m,A,"A/DT profit/NN sharing/VBG plan/NN ,/,","A profit sharing plan, /"
+sd,A,"that/DT 's/BES interesting/JJ ,/,","that's interesting, /"
+b,A,uh-huh/UH ./.,uh-huh. /
+sv,B,"They/PRP like/VBP to/TO participate/VB in/IN the/DT profits/NNS of/IN the/DT company/NN like/IN they/PRP 're/VBP ,/, you/PRP know/VBP ,/,","They like to participate in the profits of the company like they're, {D you know, } - /"
+sv,B,"because/IN they/PRP feel/VBP like/IN ,/, well/UH ,/, we/PRP 're/VBP contributing/VBG to/IN it/PRP ,/,","because they feel like, {D well, } we're contributing to it, /"
+sd,B,"so/RB we/PRP 'd/MD like/VB to/TO participate/VB in/IN it/PRP ,/,","{C so } we'd like to participate in it, /"
+sd,B,"and/CC so/RB that/DT means/VBZ I/PRP make/VBP a/DT little/JJ bit/NN less/JJR ,/,","{C and so } that means I make a little bit less, /"
+sd,B,"but/CC the/DT thing/NN is/VBZ that/IN really/RB you/PRP make/VBP a/DT little/RB more/JJR ,/, because/IN everybody/NN has/VBZ a/DT interest/NN in/IN ,/, in/IN it/PRP working/VBG ./.","{C but } the thing is that really you make a little more, because everybody has a interest [ in, + in ] it working. /"
+b,A,"Yes/UH ,/,","Yes, /"
+bf,A,"because/IN they/PRP ,/, they/PRP have/VBP a/DT specific/JJ reason/NN to/TO do/VB so/RB ,/, because/IN they/PRP themselves/PRP benefit/VBP from/IN doing/VBG a/DT better/JJR job/NN ./.","{C because } [ they + <throat_clearing>, they ] have a specific reason to do so, because they themselves benefit from doing a better job. /"
+b,B,Right/UH ./.,Right. /
+sv,B,"I/PRP think/VBP most/RBS people/NNS ,/, uh/UH ,/, do/VBP n't/RB want/VB money/NN ,/, um/UH ,/,","I think most people, {F uh, } don't want money, {F um, } /"
+sv,B,"it/PRP 's/HVS been/VBN my/PRP$ experience/NN ,/, most/RBS people/NNS want/VBP ,/, uh/UH ,/, to/TO feel/VB like/IN they/PRP 're/VBP participating/VBG in/IN something/NN that/WDT ,/, uh/UH ,/, that/WDT is/VBZ not/RB a/DT drudgery/NN ,/, you/PRP know/VBP ,/, that/IN they/PRP --/:","it's been my experience, most people want, {F uh, } to feel like they're participating in something [ that, + {F uh, } that ] is not a drudgery, {D you know, } that they --"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+x,A,./.,<throat_clearing>.
++,B,"--/: enjoy/VBP ,/, and/CC that/IN they/PRP can/MD get/VB some/DT benefits/NNS out/RP of/IN ./.","-- enjoy, and that they can get some benefits out of. /"
+^2,A,And/CC it/PRP 's/BES a/DT contribution/NN ./.,{C And } it's a contribution. /
+aa,B,Right/UH ./.,Right. /
+sd,A,"Well/UH ,/, Bill/NNP ,/, uh/UH ,/, that/DT idea/NN fits/VBZ me/PRP exactly/RB ./.","{D Well, } Bill, {F uh, } that idea fits me exactly. /"
+sd,A,"I/PRP just/RB retired/VBD from/IN ,/, uh/UH ,/, the/DT university/NN here/RB ,/,","I just retired from, {F uh, } the university here, /"
+sd,A,"and/CC that/DT 's/HVS been/VBN the/DT goal/NN in/IN my/PRP$ life/NN ,/, was/VBD to/TO contribute/VB and/CC ,/, to/IN the/DT work/NN that/WDT I/PRP was/VBD doing/VBG in/IN my/PRP$ research/NN ,/,","{C and } that's been the goal in my life, was to contribute [ and, + ] to the work that I was doing in my research, /"
+sd,A,"and/CC that/DT 's/BES what/WP made/VBD me/PRP happy/JJ ,/,","{C and } that's what made me happy, /"
+sv,A,"and/CC ,/, uh/UH ,/, that/DT 's/BES the/DT type/NN of/IN goal/NN I/PRP think/VBP most/RBS people/NNS ought/MD to/TO look/VB for/IN ,/,","{C and, } {F uh, } that's the type of goal I think most people ought to look for, /"
+sv,A,and/CC I/PRP 'm/VBP sure/JJ a/DT lot/NN of/IN them/PRP do/VBP n't/RB ./.,{C and } I'm sure a lot of them don't. /
+sv,A,You/PRP ca/MD n't/RB stand/VB in/IN front/NN of/IN a/DT counter/NN and/CC do/VB that/DT kind/NN of/IN stuff/NN all/DT day/NN and/CC feel/VB like/IN that/DT you/PRP 're/VBP contributing/VBG something/NN to/IN a/DT scientific/JJ level/NN of/IN knowledge/NN or/CC so/RB forth/RB ./.,You can't stand in front of a counter and do that kind of stuff all day and feel like that you're contributing something to a scientific level of knowledge or so forth. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+x,A,,<Laughter>.
+sv,B,"well/UH ,/, uh/UH ,/, our/PRP$ people/NNS get/VBP a/DT lot/NN of/IN satisfaction/NN ./.","{D well, } {F uh, } our people get a lot of satisfaction. /"
+sd,B,"Um/UH ,/, we/PRP 're/VBP a/DT financial/JJ planning/NN firm/NN ./.","{F Um, } we're a financial planning firm. /"
+b^m,A,You/PRP 're/VBP a/DT financial/JJ planning/NN firm/NN ?/.,You're a financial planning firm? /
+aa,B,Yes/UH ./.,Yes. /
+qw,A,"How/WRB many/JJ ,/, uh/UH ./.","How many, {F uh. } /"
+qy^d,B,"You/PRP said/VBD you/PRP retired/VBD ,/,","You said you retired, /"
+sd,B,"I/PRP just/RB happen/VBP to/TO have/VB a/DT person/NN that/WDT I/PRP happened/VBD to/TO do/VB some/DT planning/NN for/IN this/DT morning/NN ,/,","I just happen to have a person that I happened to do some planning for this morning, /"
+sd,B,but/CC --/:,{C but } --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: anyway/UH ,/, uh/UH ,/, uh/UH ,/, we/PRP do/VBP ,/, we/PRP deal/VBP with/IN a/DT lot/NN of/IN people/NNS that/WDT are/VBP retired/JJ or/CC trying/VBG to/TO retire/VB --/:","-- {D anyway, } {F uh, } {F uh, } [ we do, + we ] deal with a lot of people that are retired or trying to retire <laughter> -- /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+%,A,well/UH ./.,{D well. } -/
+sv,B,"--/: and/CC ,/, uh/UH ,/, it/PRP 's/BES real/RB important/JJ ,/, uh/UH ,/, that/IN their/PRP$ benefit/NN plans/NNS that/WDT they/PRP get/VBP from/IN their/PRP$ companies/NNS and/CC from/IN their/PRP$ work/NN that/WDT ,/, where/WRB they/PRP were/VBD ,/, that/IN ,/, uh/UH ,/, uh/UH ,/, that/IN it/PRP take/VBP care/NN of/IN them/PRP ./.","-- {C and, } {F uh, } it's real important, {F uh, } that their benefit plans that they get from their companies and from their work [ that, + ] where they were, that, {F uh, } {F uh, } that it take care of them. /"
+%,B,"They/PRP do/VBP n't/RB ,/,","They don't, - /"
+sv,B,"none/DT of/IN them/PRP really/RB want/VBP to/TO be/VB rich/JJ ,/,","none of them really want to be rich, /"
+sv,B,but/CC they/PRP like/VBP to/TO have/VB enough/RB to/TO be/VB comfortable/JJ ./.,{C but } they like to have enough to be comfortable. /
+qw,A,"Well/UH ,/, what/WDT ,/, what/WDT changes/NNS would/MD you/PRP ,/, have/VBP you/PRP considered/VBN ,/, uh/UH ,/, in/IN doing/VBG it/PRP ,/, to/IN ,/, to/IN your/PRP$ company/NN ,/, that/WDT might/MD benefit/VB the/DT employees/NNS or/CC perhaps/RB the/DT company/NN itself/PRP better/JJR ?/.","{D Well, } [ what, + what ] changes [ would you, + ] have you considered, {F uh, } in doing it, [ to, + to ] your company, that might benefit the employees or perhaps the company itself better? /"
+sd,B,"Well/UH ,/, um/UH ,/, we/PRP ,/, considering/VBG instead/IN of/IN tying/VBG a/DT profit/NN sharing/VBG plan/NN to/IN a/DT ,/, a/DT salary/NN is/VBZ ,/, uh/UH ,/, is/VBZ tie/VB ,/, um/UH ,/, uh/UH ,/, a/DT percentage/NN ,/, um/UH of/IN business/NN that/WDT ,/, uh/UH ,/, that/WDT a/DT person/NN would/MD participate/VB and/CC bring/VB into/IN the/DT company/NN ./.","{D Well, } {F um, } we, considering instead of tying a profit sharing plan to [ a, + a ] salary [ is, + {F uh, } is ] tie, {F um, } {F uh, } a percentage, {F um } of business [ that, + {F uh, } that ] a person would participate and bring into the company. /"
+sd,B,"Uh/UH ,/, pay/VB them/PRP ,/, uh/UH ,/, based/VBN on/IN the/DT percentage/NN of/IN business/NN they/PRP bring/VBP ,/, instead/IN of/IN based/VBN on/IN their/PRP$ salary/NN ./.","{F Uh, } pay them, {F uh, } based on the percentage of business they bring, instead of based on their salary. /"
+%,B,"And/CC the/DT re-/XX ,/,","{C And } the re-, -/"
+qy,A,"When/WRB you/PRP say/VBP bring/VB in/IN ,/, do/VBP you/PRP mean/VB that/IN they/PRP negotiated/VBD with/IN people/NNS to/TO ,/, to/TO come/VB in/RB and/CC ,/, uh/UH ,/, ask/VB for/IN your/PRP$ support/NN ?/.","When you say bring in, do you mean that they negotiated with people [ to, + to ] come in and, {F uh, } ask for your support? /"
+nn,B,"No/UH ,/,","No, /"
+sd,B,not/RB necessarily/RB ./.,not necessarily. /
+sd,B,"Um/UH ,/, it/PRP can/MD be/VB in-house/JJ people/NNS who/WP help/VBP you/PRP handle/VBP X/SYM amount/NN of/IN dollars/NNS ./.","{F Um, } it can be in-house people who help you handle X amount of dollars. /"
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,A,"Even/RB though/IN they/PRP did/VBD n't/RB bring/VB it/PRP in/IN ,/, they/PRP help/VBP it/PRP once/RB it/PRP 's/BES there/RB ./.","Even though they didn't bring it in, they help it once it's there. /"
+b,B,Right/UH,Right /
+sd,B,well/UH --/:,{D well } --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: see/UH ,/, we/PRP have/VBP dif-/XX ,/, we/PRP have/VBP marketing/VBG people/NNS ,/,","-- {D see, } [ we have dif-, + we have ] marketing people, /"
+sd,B,"and/CC then/RB we/PRP have/VBP financial/JJ planners/NNS ,/,","{C and then } we have financial planners, /"
+sd,B,"and/CC ,/, uh/UH ,/, then/RB we/PRP have/VBP ,/, uh/UH ,/, staff/NN secretaries/NNS and/CC administrative/JJ assistants/NNS ,/,","[ {C and, } + {F uh, } {C then ] } we have, {F uh, } staff secretaries and administrative assistants, /"
+sd,B,"and/CC these/DT secretaries/NNS and/CC administrative/JJ assistants/NNS ,/, um/UH ,/, you/PRP know/VBP ,/, if/IN we/PRP do/VBP n't/RB have/VB their/PRP$ cooperation/NN and/CC they/PRP 're/VBP not/RB participating/VBG in/IN the/DT profit/NN of/IN the/DT company/NN ,/, they/PRP ,/, they/PRP can/MD get/VB very/RB dissatisfied/JJ very/RB quickly/RB ./.","{C and } these secretaries and administrative assistants, {F um, } {D you know, } if we don't have their cooperation and they're not participating in the profit of the company, [ they, + they ] can get very dissatisfied very quickly. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC ,/, so/RB ,/, uh/UH ,/, we/PRP 're/VBP thinking/VBG about/IN paying/VBG them/PRP ,/, instead/IN of/IN a/DT percentage/NN on/IN salary/NN ,/, paying/VBG them/PRP a/DT percentage/NN on/IN the/DT business/NN they/PRP handle/VBP ./.","{C And, so, } {F uh, } we're thinking about paying them, instead of a percentage on salary, paying them a percentage on the business they handle. /"
+sv,B,So/RB administrative/JJ assistant/NN that/WDT would/MD handle/VB two/CD million/CD dollars/^NNS^POS worth/NN of/IN business/NN is/VBZ a/DT lot/NN more/RBR valuable/JJ than/IN a/DT person/NN that/WDT handles/VBZ a/DT hundred/CD thousand/CD dollars/^NNS^POS worth/NN of/IN business/NN ./.,{C So } administrative assistant that would handle two million dollars worth of business is a lot more valuable than a person that handles a hundred thousand dollars worth of business. /
+%,B,"And/CC ,/, uh/UH ,/,","{C And, } {F uh, } -/"
+b,A,"Yes/UH ,/,","Yes, /"
+sv,A,"but/CC it/PRP ,/, it/PRP might/MD not/RB be/VB necessarily/RB because/IN he/PRP did/VBD a/DT good/JJ or/CC bad/JJ job/NN ,/,","{C but } [ it, + it ] might not be necessarily because he did a good or bad job, /"
+sv,A,"but/CC it/PRP might/MD be/VB whether/IN the/DT locality/NN there/RB ,/, those/DT people/NNS want/VBP that/DT kind/NN of/IN support/NN ./.","{C but } it might be whether the locality there, those people want that kind of support. /"
+%,B,"Well/UH ,/, and/CC ,/, and/CC ,/, but/CC to/TO ,/,","{D Well, } [ [ {C and, } + {C and, } ] + {C but } ] to, - /"
+sv,B,"see/UH the/DT thing/NN is/VBZ that/IN they/PRP give/VBP support/NN to/IN the/DT financial/JJ planner/NN that/WDT they/PRP 're/VBP the/DT assistant/NN to/TO ,/, or/CC that/IN they/PRP usually/RB have/VBP several/JJ people/NNS they/PRP report/VBP to/IN that/WDT ,/, you/PRP know/VBP ,/, that/WDT they/PRP work/VBP --/:","{D see } the thing is that they give support to the financial planner that they're the assistant to, or that they usually have several people they report to [ that, + {D you know, } that ] they work --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: together/RB with/IN --/:,-- together with --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: it/PRP encourages/VBZ them/PRP not/RB to/TO ,/, uh/UH ,/, complain/VB when/WRB they/PRP realize/VBP that/IN they/PRP get/VBP a/DT part/NN of/IN the/DT ,/, of/IN the/DT action/NN based/VBN on/IN their/PRP$ efforts/NNS and/CC not/RB based/VBN on/IN being/VBG sitting/VBG back/RB saying/VBG ,/, well/UH make/VB me/PRP do/VB it/PRP ./.","-- it encourages them not to, {F uh, } complain when they realize that they get a part [ of the, + of the ] action based on their efforts and not based on being sitting back saying, {D well } make me do it. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"See/UH ,/, we/PRP do/VBP n't/RB want/VB anybody/NN around/IN here/RB that/WDT says/VBZ make/VB me/PRP do/VB it/PRP ./.","{D See, } we don't want anybody around here that says make me do it. /"
+sv,B,"I/PRP do/VBP n't/RB think/VB anyb-/XX ,/, any/DT --/:","I don't think [ anyb-, + any ] -- -/"
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,"--/: I/PRP think/VBP most/RBS people/NNS want/VBP to/TO be/VB ,/, lack/NN of/IN better/JJR term-/XX ,/, terminology/NN ,/, they/PRP want/VBP to/TO be/VB self-employed/JJ ,/,","-- I think most people want to be, lack of better [ term-, + terminology, ] they want to be self-employed, /"
+sv,B,but/CC they/PRP do/VBP n't/RB want/VB to/TO take/VB the/DT risk/NN ./.,{C but } they don't want to take the risk. /
+sv,B,"In/IN other/JJ words/NNS ,/, they/PRP like/VB to/TO control/VB their/PRP$ own/JJ future/NN ,/,","In other words, they like to control their own future, /"
+sv,B,but/CC they/PRP also/RB want/VBP to/TO be/VB somewhat/RB content/JJ to/TO go/VB and/CC come/VB as/IN they/PRP please/VBP --/:,{C but } they also want to be somewhat content to go and come as they please --
+aa,A,That/DT 's/BES true/JJ ./.,That's true. /
++,B,"--/: without/IN some/DT real/RB strict/JJ adherence/NN ,/,","-- without some real strict adherence, /"
+%,B,"which/WDT ,/,","which, - /"
+sd,B,that/DT 's/BES what/WP we/PRP have/VBP ./.,that's what we have. /
+b,A,Uh-huh/UH ./.,Uh-huh. /

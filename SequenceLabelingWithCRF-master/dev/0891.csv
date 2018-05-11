@@ -1,0 +1,198 @@
+act_tag,speaker,pos,text
+qw,A,"Where/WRB are/VBP you/PRP ,/, Bob/NNP ?/.","Where are you, Bob? /"
+sd,B,I/PRP am/VBP in/IN Plano/NNP ./.,I am in Plano. /
+qw,B,Where/WRB are/VBP you/PRP ?/.,Where are you? /
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,A,I/PRP am/VBP in/IN Waco/NNP ./.,I am in Waco. /
+bh,B,Is/VBZ that/DT right/JJ ?/.,Is that right? /
+ny,A,Yeah/UH ./.,Yeah. /
+bk,B,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,A,Right/RB down/IN the/DT street/NN ./.,Right down the street. /
+x,B,,<Laughter>.
+sd,A,"Oh/UH ,/, credit/NN cards/NNS ./.","{F Oh, } credit cards. /"
+sd,A,My/PRP$ favorite/JJ subject/NN ./.,My favorite subject <laughter>. /
+qy,B,You/PRP mean/VBP you/PRP use/VBP credit/NN cards/NNS ?/.,You mean you use credit cards? /
+na,A,"Oh/UH ,/, do/VBP I/PRP ./.","{F Oh, } do I. /"
+qy^d,B,I/PRP bet/VBP you/PRP used/VBD them/PRP all/DT up/RP over/IN Christmas/NNP ./.,I bet you used them all up over Christmas. /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,mostly/RB over/IN Christmas/NNP ./.,mostly over Christmas. /
+sd,A,"Uh/UH ,/, I/PRP get/VBP in/IN a/DT rut/NN with/IN credit/NN cards/NNS cause/IN they/PRP get/VBP me/PRP kind/RB of/RB in/IN a/DT vicious/JJ cycle/NN ./. Where/WRB you/PRP use/VBP them/PRP a/DT lot/NN one/CD month/NN and/CC then/RB you/PRP have/VBP to/TO use/VB whatever/WDT money/NN you/PRP have/VBP to/TO pay/VB those/DT off/RP --/:","{F Uh, } I get in a rut with credit cards cause they get me kind of in a vicious cycle. Where you use them a lot one month and then you have to use whatever money you have to pay those off -- /"
+sv,B,And/CC then/RB your/PRP$ are/VBP in/IN debt/NN ./.,{C And } then your are in debt. /
+sv,A,"--/: and/CC so/RB then/RB you/PRP have/VBP no/DT money/NN ,/,","-- {C and so } then you have no money, /"
+x,B,,<Laughter>.
+sv,A,so/RB you/PRP use/VBP a/DT credit/NN card/NN ./.,<Laughter> {C so } you use a credit card. /
+ba,B,I/PRP understand/VBP that/DT ./.,I understand that. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,"Uh/UH ,/, I/PRP probably/RB have/VBP one/CD of/IN every/DT credit/NN card/NN there/EX is/VBZ ./.","{F Uh, } I probably have one of every credit card there is. /"
+x,B,,<Laughter>.
+qy,A,Do/VBP you/PRP use/VB them/PRP a/DT lot/NN ?/.,Do you use them a lot? /
+arp_nd,B,"Well/UH ,/, uh/UH ,/, it/PRP kind/RB of/RB comes/VBZ and/CC goes/VBZ ,/, uh/UH ,/,","{D Well, } {F uh, } it kind of comes and goes, {F uh, } /"
+sd,B,"I/PRP use/VBP uh/UH ,/, Citibank/NNP ,/, the/DT ,/, uh/UH ,/, Advantage/NNP one/NN --/:","I use {F uh, } Citibank, the, {F uh, } Advantage one --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: pretty/RB much/JJ cause/IN you/PRP get/VBP vantage/NN points/NNS for/IN every/DT dollar/NN you/PRP spend/VBP ./.,-- pretty much cause you get vantage points for every dollar you spend. /
+sd,B,"Once/RB a/DT year/NN ,/, I/PRP get/VBP a/DT free/JJ airplane/NN ride/NN that/DT way/NN ./.","Once a year, I get a free airplane ride that way. /"
+bk,A,Oh/UH ./.,Oh. /
+sd,B,"So/RB ,/, as/RB long/RB as/IN you/PRP pay/VBP it/PRP off/RP every/DT month/NN ,/, it/PRP does/VBZ n't/RB cost/VB you/PRP anything/NN ./.","{C So, } as long as you pay it off every month, it doesn't cost you anything. /"
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Yeah/UH ./.,Yeah. /
+ba,A,"Well/UH ,/, that/DT is/VBZ a/DT good/JJ idea/NN ./.","{D Well, } that is a good idea. /"
+qy,A,Is/VBZ that/DT --/:,Is [ that + --
+%,B,"That/DT is/VBZ what/WP I/PRP ,/,","That is what I, -/"
++,A,--/: that/DT through/IN a/DT VISA/NNP ?/.,-- that ] through a VISA? /
+ny,B,Yeah/UH ./.,Yeah. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+ny,B,Yeah/UH ./.,Yeah. /
+b,A,Huh/UH ./.,{F Huh. } /
+sd,B,"But/CC ,/, uh/UH ,/, I/PRP got/VBD all/DT sorts/NNS of/IN credit/NN cards/NNS for/IN my/PRP$ business/NN that/WDT I/PRP use/VBP","{C But, } {F uh, } I got all sorts of credit cards for my business that I use /"
+sd,B,"but/CC ,/, uh/UH ,/,","{C but, } {F uh, }"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"If/IN I/PRP can/MD get/VB away/RB with/IN paying/VBG them/PRP off/RP every/DT month/NN ,/, it/PRP is/VBZ alright/JJ ./.","If I can get away with paying them off every month, it is alright. /"
+sd,B,If/IN I/PRP do/VBP n't/RB then/RB it/PRP gets/VBZ expensive/JJ ./.,If I don't then it gets expensive <laughter>. /
+aa,A,Yeah/UH ./.,Yeah. /
+sd,A,That/DT is/VBZ my/PRP$ problem/NN ./.,That is my problem. /
+sd,A,I/PRP do/VBP n't/RB try/VB and/CC pay/VB them/PRP off/RP ./.,I don't try and pay them off. /
+sd,A,"I/PRP pay/VBP ,/, like/UH the/DT minimum/NN ./.","I pay, {D like } the minimum. /"
+ad,B,Well/UH you/PRP should/MD n't/RB do/VB that/DT ./.,{D Well } you shouldn't do that. /
+aa,A,I/PRP know/VBP ./.,I know <laughter>. /
+sd,A,"So/RB I/PRP have/VBP got/VBN myself/PRP ,/,","{C So } I have got myself, -/"
+sv,B,"You/PRP never/RB ,/, you/PRP never/RB get/VBP out/IN of/IN the/DT hole/NN that/DT way/NN ./.","[ You never, + you never ] get out of the hole that way. /"
+aa,A,Exactly/UH ./.,Exactly. /
+sd,A,"I/PRP have/VBP got/VBN ,/, that/DT is/VBZ why/WRB I/PRP have/VBP got/VBN myself/PRP with/IN all/PDT this/DT trouble/NN now/RB ./.","[ I have got, + that is why I have got ] myself with all this trouble now. /"
+sd,A,"But/CC ,/, I/PRP pay/VBP most/JJS of/IN them/PRP on/IN time/NN and/CC everything/NN ./.","{C But, } I pay most of them on time and everything. /"
+%,A,"It/PRP is/VBZ just/RB the/DT ,/,","It is just the, - /"
+sd,A,I/PRP always/RB have/VBP them/PRP ./.,I always have them. /
+sd,A,"So/RB ,/, it/PRP is/VBZ kind/RB of/RB strange/JJ ./.","{C So, } it is kind of strange. /"
+qy,B,Kind/RB of/RB like/IN the/DT federal/JJ government/NN right/JJ ?/.,Kind of like the federal government right? /
+ny,A,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,Exactly/RB like/IN the/DT government/NN ./.,Exactly like the government <laughter>. /
+x,B,,<Laughter>.
+sv,A,"In/IN ,/,","[ In, +"
+sv,B,Ca/MD n't/RB never/RB get/VB out/IN of/IN debt/NN ./.,Can't never get out of debt. /
++,A,In/IN debt/NN ./.,In ] debt. /
+qy,B,"And/CC every/DT time/NN you/PRP try/VBP to/TO get/VB out/IN of/IN debt/NN ,/, the/DT economy/NN goes/VBZ to/IN pot/NN because/IN people/NNS are/VBP spending/VBG money/NN ,/, right/JJ ./.","{C And } every time you try to get out of debt, the economy goes to pot because people are spending money, right. /"
+ny,A,Yeah/UH ./.,Yeah. /
+x,B,,<Laughter>.
+qy,A,Have/VBP they/PRP put/VBN the/DT cap/NN on/IN the/DT interest/NN rates/NNS ?/.,Have they put the cap on the interest rates? /
+nn,B,No/UH ./.,No. /
+sd,A,I/PRP did/VBD n't/RB know/VB if/IN they/PRP actually/RB did/VBD that/DT or/CC not/RB ./.,I didn't know if they actually did that or not. /
+sd,A,I/PRP know/VBP they/PRP were/VBD considering/VBG it/PRP ./.,I know they were considering it. /
+sd,B,Just/RB the/DT people/NNS who/WP do/VBP n't/RB need/VB credit/NN get/VBP the/DT four/CD and/CC a/DT half/NN percent/NN ./.,Just the people who don't need credit get the four and a half percent. /
+sd,B,"The/DT rest/NN of/IN the/DT ,/, uh/UH ,/, and/CC me/PRP ,/, we/PRP have/VBP got/VBN to/TO pay/VB fourteen/CD and/CC eighteen/CD percent/NN ./.","The rest of the, {F uh, } and me, we have got to pay fourteen and eighteen percent. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Yeah/UH ./.,Yeah. /
+x,B,,<Laughter>.
+qy,A,"Funny/JJ how/WRB that/DT works/VBZ ,/, is/VBZ n't/RB it/PRP ?/.","Funny how that works, isn't it <laughter>? /"
+sv,B,"The/DT ,/, thou/PRP who/WP does/VBZ n't/RB need/VB credit/NN ,/, gets/VBZ cheap/JJ credit/NN ./.","[ The, + thou ] who doesn't need credit, gets cheap credit. /"
+sd,A,"I/PRP would/MD be/VB interested/JJ to/TO find/VB out/RP how/WRB many/JJ people/NNS ,/, or/CC how/WRB much/JJ ,/, uh/UH ,/, people/NNS use/VBP credit/NN this/DT year/NN ./. Say/VB in/IN nineteen/CD ninety-two/CD as/IN opposed/VBN to/IN nineteen/CD ninety-one/CD ,/, even/RB nineteen/CD ninety/CD ./.","I would be interested to find out [ how many people, + {E or } how much, {F uh, } people ] use credit this year. Say in nineteen ninety-two as opposed to nineteen ninety-one, even nineteen ninety. /"
+sv,A,"I/PRP think/VBP ,/, I/PRP think/VBP it/PRP would/MD be/VB amazing/JJ how/WRB much/JJ ,/, how/WRB many/RB more/JJR people/NNS use/VBP it/PRP ./.","[ I think, + I think ] it would be amazing [ how much, + how many ] more people use it. /"
+aa,B,"Well/UH ,/, I/PRP think/VBP so/RB","{D Well, } I think so /"
+%,B,"because/IN the/DT ,/,","{C because } the, -/"
+sv,A,Because/IN of/IN the/DT economy/NN ./.,Because of the economy. /
+aa,B,That/DT 's/BES right/JJ ./.,That's right. /
+b,A,Yeah/UH ./.,Yeah. /
+sv,B,You/PRP have/VBP got/VBN to/TO use/VB everything/NN you/PRP have/VBP got/VBN just/RB to/TO stay/VB where/WRB you/PRP are/VBP at/IN ./.,You have got to use everything you have got just to stay where you are at. /
+aa,A,Exactly/UH ./.,Exactly. /
+sd,A,"I/PRP would/MD be/VB very/RB ,/, I/PRP would/MD like/VB to/TO see/VB some/DT numbers/NNS on/IN that/DT ./.","[ I would be very, + I would like to see ] some numbers on that. /"
+sv,A,I/PRP think/VBP that/DT would/MD be/VB interesting/JJ ./.,I think that would be interesting. /
+qy,B,"Do/VBP you/PRP ,/, do/VBP you/PRP have/VB any/DT ,/, uh/UH ,/, credit/NN union/NN where/WRB you/PRP work/VBP or/CC anything/NN like/IN that/DT ?/.","[ Do you, + do you ] have any, {F uh, } credit union where you work or anything like that? /"
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,I/PRP have/VBP a/DT credit/NN union/NN ./.,I have a credit union. /
+qy,B,Do/VBP they/PRP have/VB a/DT Mastercard/NNP or/CC VISA/NNP card/NN ?/.,Do they have a Mastercard or VISA card? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,they/PRP do/VBP ./.,they do. /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+qy^d,B,You/PRP have/VBP got/VBN that/DT one/CD ./.,You have got that one. /
+ny,A,"Yes/UH ,/,","Yes, /"
+sd,A,I/PRP do/VBP ./.,I do <laughter>. /
+x,B,,<Laughter>.
+ny,A,"Yes/UH ,/,","<Laughter> Yes, /"
+sd,A,I/PRP do/VBP a/DT matter/NN of/IN fact/NN ./.,I do a matter of fact. /
+qw,B,"Who/WP ,/, who/WP do/VBP you/PRP work/VB for/IN ?/.","[ Who, + who ] do you work for? /"
+sd,A,"Uh/UH ,/, I/PRP work/VBP for/IN Channel/NNP six/CD ./.","{F Uh, } I work for Channel six. /"
+bk,B,Oh/UH ./.,Oh. /
+sd,A,It/PRP 's/BES it/PRP 's/BES an/DT N/NNP B/NNP C/NNP affiliate/NN down/IN here/RB ./.,[ It's + it's ] an N B C affiliate down here. /
+sd,B,"I/PRP do/VBP a/DT lot/NN of/IN work/NN down/IN in/IN Waco/NNP ,/,","I do a lot of work down in Waco, /"
+sd,B,a/DT --/:,[ [ a --
+b,A,Oh/UH really/UH ./.,{F Oh } really. /
++,B,"--/: lot/NN of/IN ,/, I/PRP call/VBP on/IN a/DT lot/NN of/IN my/PRP$ business/NN is/VBZ down/IN there/RB ./.","-- lot of, + I call on ] + a lot of ] my business is down there. /"
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+qw,A,Where/WRB do/VBP you/PRP work/VB ?/.,Where do you work? /
+qw,A,"What/WP is/VBZ your/PRP$ ,/,","What is your, -/"
+sd,B,I/PRP sell/VBP metal/NN fabricating/NN equipment/NN and/CC tooling/NN ./.,I sell metal fabricating equipment and tooling. /
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+sd,B,Tyme/NNP and/CC Mercury/NNP and/CC Tempco/NNP and/CC all/PDT those/DT people/NNS --/:,Tyme and Mercury and Tempco and all those people --
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay <<faint>>. /"
++,B,--/: down/IN there/RB ./.,-- down there. /
+%,B,"Uh/UH Gene/NNP He-/XX ,/,","{F Uh } Gene He-, -/"
+qy^d,A,"So/RB you/PRP probably/RB work/VBP with/IN ,/, uh/UH ,/, uh/UH ,/,","{C So } you probably work with, {F uh, } {F uh, } - /"
+t1,A,what/WP is/VBZ the/DT boy/NN from/IN here/RB ?/. ./.,what is the boy from here? <<Very faint>>. /
+qy,A,You/PRP ever/RB work/VB with/IN Davis/NNP ?/.,You ever work with Davis? /
+qy,B,Davis/NNP Iron/NNP ?/.,Davis Iron? /
+na,A,"Davis/NNP Iron/NNP Work/NNP ,/,","Davis Iron Work, /"
+ny,A,yeah/UH ./.,yeah. /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,matter/NN of/IN fact/NN I/PRP just/RB saw/VBD them/PRP last/JJ week/NN ./.,matter of fact I just saw them last week. /
+bk,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
+^h,A,"And/CC ,/, uh/UH ,/, what/WP else/RB ./.","And, {F uh, } what else. /"
+qy,B,"Are/VBP you/PRP in/IN that/DT part/NN ,/, are/VBP you/PRP in/IN the/DT south/JJ part/NN of/IN town/NN now/RB ?/.","[ Are you in that part, + are you in the south part ] of town now? /"
+arp_nd,A,"Well/UH ,/, I/PRP live/VBP actually/UH in/IN Hewett/NNP ./.","{D Well, } I live actually in Hewett. /"
+bk,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+bk,B,Okay/UH ./.,Okay. /
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,right/RB outside/RB ./.,right outside. /
+qy,B,You/PRP know/VBP --/:,[ You know -- +
+bf,A,"So/RB ,/, that/DT is/VBZ where/WRB Davis/NNP Iron/NNP Works/NNP is/VBZ ./.","{C So, } that is where Davis Iron Works is. /"
++,B,--/: Do/VBP you/PRP know/VB Parker/NNP Machine/NNP Tool/NNP down/IN there/RB ./.,-- Do you know ] Parker Machine Tool down there. /
+^h,A,Uh/UH ./.,{F Uh. } /
+qy^d,B,"Bobby/NNP Parker/NNP and/CC ,/, uh/UH ,/,","Bobby Parker and, {F uh, } -/"
+ng,A,I/PRP do/VBP n't/RB think/VB I/PRP have/VBP seen/VBN that/DT one/NN ./.,I don't think I have seen that one. /
+sd,A,"I/PRP am/VBP sure/JJ I/PRP pass/VBP by/IN it/PRP or/CC something/NN ,/,","I am sure I pass by it or something, /"
+h,A,but/CC I/PRP am/VBP not/RB sure/JJ ./.,{C but } I am not sure. /
+sd,B,"There/EX is/VBZ a/DT place/NN in/IN Hewett/NNP ,/, called/VBN ,/,","There is a place in Hewett, called, - /"
+sd,B,it/PRP is/VBZ a/DT new/JJ company/NN called/VBN Prime/NNP Air/NNP ./.,it is a new company called Prime Air. /
+sd,B,That/DT is/VBZ in/IN Hewett/NNP ./. Just/RB around/IN the/DT corner/NN from/IN Davis/NNP Iron/NNP Works/NNP ./.,That is in Hewett. Just around the corner from Davis Iron Works. /
+b,A,Huh/UH ./. Prime/NNP Air/NNP ./.,{F Huh. } Prime Air. /
+sd,B,"They/PRP make/VBP ,/, uh/UH ,/, humidifiers/NNS and/CC --/:","They make, {F uh, } humidifiers and --"
+b,A,"Oh/UH ,/, okay/UH ./.","{F Oh, } okay. /"
++,B,"--/: uh/UH ,/, filters/NNS for/IN air/NN filtration/NN stuff/NN for/IN --/:","-- {F uh, } filters for air filtration stuff for --"
+b,A,Okay/UH ./.,Okay. /
++,B,"--/: hospitals/NNS ,/, homes/NNS ,/, something/NN like/IN that/DT ./.","-- hospitals, homes, something like that. /"
+qy,A,Have/VBP you/PRP ever/RB been/VBN to/IN Marlin/NNP ?/.,Have you ever been to Marlin? /
+ny,B,"Uh/UH ,/, yeah/UH ./.","{F Uh, } yeah. /"
+sd,A,I/PRP think/VBP it/PRP is/VBZ Marlin/NNP or/CC Mart/NNP ./.,I think it is Marlin or Mart. /
+sd,A,"They/PRP have/VBP ,/, uh/UH ,/, uh/UH ,/, a/DT place/NN ,/, I/PRP guess/VBP that/DT would/MD be/VB similar/JJ to/IN Prime/NNP Air/NNP ./.","They have, {F uh, } {F uh, } a place, I guess that would be similar to Prime Air. /"
+sd,A,It/PRP is/VBZ called/VBN H/NNP G/NNP H/NNP --/:,It is called H G H --
+b,B,"Oh/UH ,/, really/UH ./.","{F Oh, } really. /"
++,A,"--/: or/CC something/NN like/IN K/NNP G/NNP H/NNP or/CC ,/,","-- or something like K G H or, -/"
+b,B,Huh/UH ./.,{F Huh. } /
+sd,A,I/PRP ca/MD n't/RB think/VB of/IN it/PRP ./.,I can't think of it. /
+sd,A,I/PRP ca/MD n't/RB think/VB of/IN the/DT name/NN ./.,I can't think of the name. /
+b,B,Huh/UH ./.,{F Huh. } /
+%,A,"But/CC ,/,","{C But, } -/"
+sd,B,I/PRP will/MD have/VB to/TO stop/VB in/IN there/RB ./.,I will have to stop in there. /
+sd,B,"I/PRP went/VBD ,/, I/PRP have/VBP gone/VBN through/IN there/RB ,/, uh/UH ,/,","[ I went, + I have gone ] through there, {F uh, } /"
+sd,B,my/PRP$ oldest/JJS son/NN goes/VBZ to/IN A/NNP and/CC M/NNP ./.,my oldest son goes to A and M. /
+b,A,Oh/UH yeah/UH ./.,{F Oh } yeah. /
+sd,B,He/PRP is/VBZ working/VBG on/IN his/PRP$ Master/NNP 's/POS ./.,He is working on his Master's. /
+sd,B,The/DT Navy/NNP sent/VBD him/PRP there/RB for/IN his/PRP$ Master/NNP 's/POS ./. Mostly/JJ in/IN engineering/NN ./.,The Navy sent him there for his Master's. Mostly in engineering. /
+sd,B,"So/RB ,/, once/RB and/CC a/DT while/NN we/PRP go/VBP up/IN six/CD there/RB rather/IN than/IN take/VB forty-five/CD ./.","{C So, } once and a while we go up six there rather than take forty-five. /"
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,That/DT is/VBZ about/RB the/DT last/JJ time/NN I/PRP have/VBP been/VBN through/IN Marlin/NNP and/CC Mart/NNP ./.,That is about the last time I have been through Marlin and Mart <laughter>. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"Oh/UH ,/, I/PRP do/VBP n't/RB like/VB that/DT drive/NN ./.","{F Oh, } I don't like that drive. /"
+sd,A,I/PRP make/VBP that/DT drive/NN sometimes/RB,I make that drive sometimes /
+sd,A,we/PRP have/VBP stories/NNS out/IN there/RB,we have stories out there /
+%,A,"but/CC ,/, uh/UH ,/,","{C but, } {F uh, } -/"
+sv,B,There/EX is/VBZ always/RB a/DT state/NN trooper/NN down/IN there/RB ./.,There is always a state trooper down there. /
+b,A,Huh/UH ./.,{F Huh. } /
+ad,B,You/PRP have/VBP got/VBN to/TO drive/VB careful/RB ./.,You have got to drive careful. /
+b,A,"Oh/UH ,/, really/UH ./.","{F Oh, } really <laughter>. /"
+aa,A,I/PRP know/VBP ./.,I know. /
+sv,B,"Between/IN Mart/NNP and/CC Marlin/NNP ,/, they/PRP will/MD nail/VB you/PRP if/IN you/PRP go/VBP over/IN sixty/CD miles/NNS an/DT hour/NN ./.","Between Mart and Marlin, they will nail you if you go over sixty miles an hour. /"
+ba,A,"Oh/UH ,/, goodness/NN ./.","{F Oh, } goodness. /"
+sv,A,"They/PRP ,/, they/PRP are/VBP bad/JJ at/IN Hewett/NNP too/RB ./. On/IN eighty-four/CD ./.","[ They, + they ] are bad at Hewett too. On eighty-four. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sv,A,They/PRP are/VBP real/RB bad/JJ ./.,They are real bad. /
+sd,A,That/DT is/VBZ where/WRB I/PRP got/VBD my/PRP$ last/JJ ticket/NN ./.,That is where I got my last ticket. /
+x,B,,<Laughter>.
+sd,A,"So/RB ,/, of/IN course/NN ,/, I/PRP could/MD n't/RB pay/VB that/DT on/IN a/DT credit/NN card/NN ./.","{C So, } of course, I couldn't pay that on a credit card. /"

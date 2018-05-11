@@ -1,0 +1,208 @@
+act_tag,speaker,pos,text
+qo,A,What/WDT kind/NN of/IN lawn/NN and/CC garden/NN work/NN do/VBP you/PRP do/VB ?/. ./.,What kind of lawn and garden work do you do? <noise>. /
+arp_nd,B,"Well/UH ,/, right/RB now/RB the/DT place/NN where/WRB I/PRP 'm/VBP living/VBG ,/, the/DT yard/NN was/VBD basically/RB neglected/VBN for/IN about/RB the/DT last/JJ twenty-five/CD years/NNS ,/,","{D Well, } right now the place where I'm living, the yard was basically neglected for about the last twenty-five years, /"
+sd,B,"so/RB I/PRP 've/VBP been/VBN trying/VBG to/TO rebuild/VB and/CC reestablish/VB the/DT entire/JJ lawn/NN ,/,","<breathing> {C so } I've been trying to rebuild and reestablish the entire lawn, /"
+sd,B,"and/CC after/IN three/CD years/NNS of/IN working/VBG at/IN it/PRP ,/, I/PRP 've/VBP ,/, I/PRP 've/VBP been/VBN amazed/JJ at/IN just/RB what/WP a/DT little/JJ bit/NN of/IN doing/VBG help/NN out/RP things/NNS to/IN the/DT lawn/NN has/VBZ really/RB brought/VBN it/PRP back/RB ./.","{C and } after three years of working at it, [ I've, + I've ] been amazed at just what a little bit of doing <<pause>> help out things to the lawn has really brought it back. /"
+sv,B,"Instead/RB of/IN mowing/VBG in/IN the/DT same/JJ direction/NN every/DT time/NN ,/, changing/VBG ,/, one/CD day/NN you/PRP 'll/MD ,/, or/CC one/CD time/NN you/PRP 'll/MD cut/VB it/PRP ,/, cut/VB the/DT lawn/NN the/DT long/JJ way/NN ,/, then/RB you/PRP 'll/MD go/VB the/DT opposite/NN way/NN ,/, instead/IN of/IN going/VBG lengthways/RB ,/, you/PRP go/VBP width/NN ,/,","Instead of mowing in the same direction every time, changing, [ one day you'll, + {E or } one time you'll ] [ cut it, + cut the ] lawn the long way, then you'll go the opposite way, instead of going lengthways, you go width, /"
+sv,B,and/CC it/PRP helps/VBZ the/DT grass/NN come/VB back/RB ./.,{C and } it helps the grass come back. /
+bh,A,"Oh/UH ,/, does/VBZ it/PRP really/RB ?/.","<Noise> {F Oh, } does it really? /"
+sd,A,I/PRP did/VBD n't/RB know/VB that/DT ./.,I didn't know that <noise>. /
+qy,A,"Did/VBD ,/, um/UH ,/, you/PRP 've/VBP been/VBN working/VBG on/IN it/PRP for/IN three/CD years/NNS ?/.","[ Did, + {F um, } you've ] been working on it for three years? /"
+na,B,"Thr-/CD ,/, f-/IN ,/, for/IN three/CD years/NNS ./.","[ Thr-, + [ f-, + for ] three ] years. /"
+bh,A,Really/UH ?/.,Really? /
+qw,A,What/WP have/VBP you/PRP done/VBN ?/. ./.,What have you done? </noise>. /
+sd,B,Killing/VBG lots/NNS of/IN fire/NN ants/NNS ./.,Killing lots of fire ants. /
+x,A,./.,<Laughter>.
+sd,B,"I/PRP was/VBD firmly/RB convinced/JJ the/DT entire/JJ ,/,","I was firmly convinced the entire,"
+x,A,./.,<Noise>.
++,B,front/JJ yard/NN was/VBD nothing/NN but/CC one/CD gigantic/JJ ant/NN mound/NN ./.,front yard was nothing but one gigantic ant mound. /
+b,A,Uh-huh/UH ./.,Uh-huh <noise>. /
+sd,B,"Because/IN it/PRP was/VBD like/IN ,/, you/PRP could/MD ,/, you/PRP could/MD n't/RB even/RB stand/VB still/RB out/IN there/RB ./.","{C Because } it was like, [ you could, + you couldn't ] even stand still out there. /"
+sd,A,"You/PRP know/VBP ,/, I/PRP can/MD barely/RB hear/VB you/PRP ./.","<Noise> {D You know, } I can barely hear you </noise>. /"
+qy,B,Is/VBZ this/DT better/JJR ?/.,Is this better? /
+ny,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,"a/DT little/JJ bit/NN ,/, yeah/UH ./.","a little bit, {D yeah } <noise>. /"
+sd,B,"It/PRP was/VBD like/IN you/PRP 'd/MD go/VB out/IN in/IN the/DT yard/NN to/TO water/VB something/NN ,/, you/PRP 'd/MD just/RB be/VB standing/VBG still/RB ./.","It was like you'd go out in the yard to water something, you'd just be standing still. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,And/CC the/DT ants/NNS would/MD start/VB crawling/VBG up/IN your/PRP$ legs/NNS ./.,{C And } the ants would start crawling up your legs. /
+sd,B,"It/PRP 's/BES like/IN ,/, I/PRP 'm/VBP not/RB standing/VBG in/IN a/DT mound/NN ,/, though/RB ./.","It's like, <laughter> I'm not standing in a mound, though. /"
+ba,A,"Oh/UH ,/, wow/UH ./.","{F Oh, } wow. /"
+qw,A,How/WRB did/VBD you/PRP get/VBD rid/VBN of/IN them/PRP ?/.,How did you get rid of them? /
+sd,B,"Uh/UH ,/, Dursban/NNP Two/CD ./.","{F Uh, } Dursban Two. /"
+br,A,Pardon/VB ?/.,Pardon? /
+sd,B,"A/DT chemical/NN called/VBN Dursban/NNP Two/NNP ,/,","A chemical called Dursban Two, /"
+bk,A,"Oh/UH ,/, Dursban/NNP Two/NNP ,/,","<Noise> {F Oh, } Dursban Two, /"
+sd,B,it/PRP 's/BES a/DT crystal/NN ./.,it's a crystal. /
+b,A,"yeah/UH ,/,","yeah, /"
+sv,A,"Dursban/NNP will/MD get/VB rid/VBN of/IN just/RB about/RB anything/NN ,/, I/PRP think/VBP ./.","Dursban will get rid of just about anything, I think. /"
+qy,A,"But/CC um/UH ,/, so/RB you/PRP have/VBP n't/RB had/VBN a/DT problem/NN with/IN that/DT ,/, since/IN ?/.","[ {C But } + {F um, } {C so } ] you haven't had a problem with that, since? /"
+no,B,"Um/UH ,/, not/RB bad/JJ ./.","{F Um, } not bad. /"
+sd,B,"Every/DT ,/,","Every,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"once/RB in/IN a/DT while/NN you/PRP 'll/MD have/VB a/DT mound/NN pop/VB up/RP ,/,","once in a while you'll have a mound pop up, /"
+sv,B,"but/CC that/DT 's/BES ,/, gon-/XX ,/, to/TO be/VB expected/VBN ./.","{C but } that's, [ gon-, + ] to be expected. /"
+qy,A,"What/WP else/RB did/VBD it/PRP ,/, did/VBD it/PRP kill/VB anything/NN else/RB it/PRP was/VBD n't/RB supposed/VBN to/TO ?/.","[ What else + [ did it , + did it ] kill anything else ] it wasn't supposed to? /"
+^h,B,"Um/UH ,/,","{F Um, } /"
+qy^d,A,Not/RB really/RB ./.,Not really. /
+ng,B,as/RB far/RB as/IN I/PRP can/MD tell/VB it/PRP has/VBZ n't/RB killed/VBN anything/NN it/PRP was/VBD n't/RB supposed/VBN to/TO ./.,as far as I can tell it hasn't killed anything it wasn't supposed to. /
+sd,B,Even/RB the/DT area/NN of/IN the/DT grass/NN that/WDT was/VBD underneath/IN and/CC around/IN the/DT mounds/NNS --/:,Even the area of the grass that was underneath and around the mounds --
+b,A,Yeah/UH ./.,Yeah. /
++,B,--/: it/PRP did/VBD n't/RB kill/VB it/PRP ./.,-- it didn't kill it. /
+bh,A,Really/UH ?/.,Really? /
+ba,A,"Well/UH ,/, that/DT 's/BES pretty/RB wild/JJ ./.","{D Well, } that's pretty wild. /"
+%,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,we/PRP used/VBD it/PRP for/IN fleas/NNS ./.,we used it for fleas. /
+sd,A,"We/PRP had/VBD fleas/NNS in/IN our/PRP$ yard/NN real/RB bad/JJ last/JJ year/NN ,/,","We had fleas in our yard real bad last year, /"
+sd,A,"and/CC we/PRP did/VBD that/DT um/UH ,/,","{C and } we did that {F um, } /"
+%,A,"I/PRP just/RB ,/, I/PRP 'm/VBP not/RB ,/,","[ I just, + I'm ] not, - /"
+sd,A,"basically/RB ,/, I/PRP like/VBP to/TO mow/VB the/DT lawn/NN ,/, believe/VB it/PRP or/CC not/RB ,/,","basically, I like to mow the lawn, believe it or not, /"
+sd,A,"but/CC I/PRP sometimes/RB have/VBP problems/NNS starting/VBG the/DT mower/NN ,/,","{C but } I sometimes have problems starting the mower, /"
+sd,A,"so/RB a/DT lot/NN of/IN times/NNS I/PRP wo/MD n't/RB get/VB out/RB and/CC do/VB it/PRP ,/,","{C so } a lot of times I won't get out and do it, /"
+sd,A,"but/CC my/PRP$ husband/NN ,/, basically/RB ,/, does/VBZ most/JJS of/IN it/PRP ,/,","{C but } my husband, <noise> basically, does most of it, /"
+sd,A,"and/CC he/PRP does/VBZ the/DT ,/, you/PRP know/VBP ,/, edging/NN and/CC all/PDT that/DT kind/NN of/IN thing/NN ,/,","{C and } he does the, {D you know, } edging and all that kind of thing, /"
+sd,A,"and/CC we/PRP 're/VBP renting/VBG ,/,","{C and } we're renting, /"
+sd,A,"and/CC so/RB we/PRP do/VBP n't/RB really/RB put/VB a/DT lot/NN of/IN money/NN into/IN the/DT ,/, uh/UH ,/, you/PRP know/VBP ,/, like/IN","{C and so } we don't really put a lot of money into the, {F uh, } {D you know, } {D like } - /"
+sd,A,"this/DT lawn/NN could/MD probably/RB stand/VB a/DT couple/NN of/IN loads/NNS of/IN dirt/NN ,/, and/CC some/DT Saint/NNP Augustine/NNP ./.","this lawn could probably stand <noise> a couple of loads of dirt, and some Saint Augustine. /"
+sd,A,"We/PRP just/RB ,/, we/PRP have/VBP winter/NN rye/NN out/IN back/RB ,/,","[ We just, + we ] have winter rye out back, /"
+%,A,"and/CC we/PRP have/VBP ,/,","{C and } we have, - /"
+sd,A,"I/PRP do/VBP n't/RB even/RB know/VB what/WP it/PRP is/VBZ out/IN front/NN ,/,","I don't even know what it is out front, /"
+sd,A,"but/CC ,/, um/UH ,/, we/PRP ,/, this/DT is/VBZ the/DT first/JJ house/NN we/PRP 've/VBP ever/RB lived/VBN in/IN ,/,","<laughter> {C but, } {F um, } [ we, + this is the first house we've ] ever lived in, /"
+sd,A,"and/CC we/PRP 're/VBP just/RB not/RB real/RB into/IN the/DT lawn/NN probably/RB because/IN we/PRP 're/VBP renting/VBG ,/, I/PRP guess/VBP ,/, huh/UH ?/.","{C and } we're just not real into the lawn probably because we're renting, I guess, {F huh? } /"
+%,A,"So/RB ,/, it/PRP ,/, anyway/UH ,/,","{C So, } it, anyway, -/"
+%,B,"Well/UH ,/,","{D Well, } -/"
+x,A,./.,<Beep>.
+qy,B,you/PRP said/VBD you/PRP had/VBD problems/NNS with/IN fleas/NNS last/JJ year/NN in/IN the/DT yard/NN ?/.,you said you had problems with fleas last year in the yard? /
+na,A,Right/UH ./.,Right </beep>. /
+ny,A,Uh-huh/UH ./.,Uh-huh. /
+%,A,"We/PRP were/VBD getting/VBG ,/,","We were getting, -/"
+sv,B,"Uh/UH ,/, I/PRP found/VBD one/CD thing/NN that/WDT ,/, it/PRP 's/BES kind/RB of/RB a/DT weird/JJ thing/NN to/TO say/VB to/TO put/VB out/IN on/IN the/DT lawn/NN ,/,","{F Uh, } I found one thing that, it's kind of a weird thing to say to put out on the lawn, /"
+sd,B,"but/CC ,/,","{C but, }"
+x,A,./.,<Noise>.
++,B,"every/DT time/NN I/PRP 've/VBP done/VBN it/PRP ,/, it/PRP 's/HVS got/VBN ,/, it/PRP ,/, it/PRP drives/VBZ the/DT fleas/NNS completely/RB out/IN of/IN the/DT area/NN ./.","every time I've done [ [ it, + it's ] got-, + [ it, + it ] drives ] the fleas completely out of the area. /"
+qw,A,What/WP ?/.,What? /
+sd,B,Powdered/JJ sulphur/NN ./.,Powdered sulphur. /
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+qw,A,"Hm/UH ,/, I/PRP wonder/VBP why/WRB it/PRP does/VBZ ?/.","{F Hm, } I wonder why it does? /"
+sd,B,"You/PRP ,/, you/PRP do/VBP n't/RB have/VB to/TO put/VB a/DT whole/JJ lot/NN out/RB ,/,","[ You, + you ] don't have to put a whole lot out, /"
+sd,B,just/RB if/IN you/PRP 've/VBP got/VBN a/DT broadcast/NN spreader/NN --/:,just if you've got a broadcast spreader --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: I/PRP think/VBP it/PRP comes/VBZ in/IN a/DT forty-pound/JJ bag/NN ,/,","-- I think it comes in a forty-pound bag, /"
+sd,B,"and/CC it/PRP 's/BES real/RB fine/JJ ,/, like/IN flour/NN --/:","{C and } it's real fine, like flour -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: and/CC you/PRP just/RB --/:,-- {C and } you just --
+b,A,Yeah/UH ./.,Yeah. /
++,B,"--/: go/VBP out/RB ,/, and/CC do/VBP the/DT entire/JJ yard/NN ,/,","-- go out, and do the entire yard, /"
+sd,B,"and/CC you/PRP ,/, I/PRP mean/VBP ,/, you/PRP do/VBP n't/RB have/VB to/TO put/VB clumps/NNS of/IN it/PRP ,/,","{C and } [ you, + {E I mean, } you ] don't have to put clumps of it, /"
+sd,B,just/RB very/RB lightly/RB cover/VB the/DT entire/JJ yard/NN ./.,just very lightly cover the entire yard. /
+bh,A,Really/UH ?/.,Really? /
+sd,A,"Well/UH ,/, I/PRP 'll/MD have/VB to/TO remember/VB that/DT ,/, because/IN hopefully/RB we/PRP wo/MD n't/RB have/VB them/PRP this/DT year/NN ,/,","{D Well, } I'll have to remember that, because hopefully we won't have them this year, /"
+sd,A,"but/CC we/PRP have/VBP a/DT cat/NN that/WDT comes/VBZ in/RB and/CC out/RB ,/,","{C but } we have a cat that comes in and out, /"
+sd,A,"and/CC the/DT cat/NN was/VBD getting/VBG ,/, um/UH ,/, fleas/NNS and/CC stuff/NN and/CC bringing/VBG them/PRP in/IN the/DT house/NN ,/,","{C and } the cat was getting, {F um, } fleas and stuff and bringing them in the house, /"
+sd,A,"so/RB we/PRP had/VBD a/DT real/JJ problem/NN last/JJ year/NN with/IN fleas/NNS ,/,","{C so } we had a real problem last year with fleas, /"
+sd,A,"and/CC uh/UH ,/, it/PRP was/VBD quite/PDT a/DT drag/NN because/IN ,/, um/UH ,/, we/PRP got/VBD them/PRP in/IN our/PRP$ house/NN ,/,","{C and } {F uh, } <noise> it was quite a drag <noise> because, {F um, } <noise> we got them in our house, /"
+sd,A,"and/CC we/PRP 're/VBP Christians/NNPS ,/,","{C and } <laughter> we're Christians, /"
+sd,A,"and/CC we/PRP prayed/VBD that/IN we/PRP could/MD get/VB rid/VBN of/IN these/DT fleas/NNS ,/,","{C and } we prayed that we could get rid of these fleas, /"
+sd,A,"and/CC we/PRP got/VBD rid/VBN of/IN them/PRP ,/, believe/VB it/PRP or/CC not/RB ,/, with/IN smoke/NN bombs/NNS ,/, which/WDT is/VBZ just/RB about/RB impossible/JJ to/TO do/VB ,/,","{C and } we got rid of them, <noise> believe it or not, with smoke bombs, which is just about impossible to do, /"
+sd,A,"but/CC we/PRP did/VBD ,/,","{C but } we did, </noise> /"
+sd,A,"and/CC so/RB we/PRP do/VBP n't/RB want/VB them/PRP back/RB this/DT year/NN ,/, you/PRP know/VBP ?/.","{C and so } we don't want them back this year, {D you know? } /"
+sd,A,so/RB I/PRP 'll/MD remember/VB that/DT if/IN we/PRP see/VBP it/PRP 's/BES a/DT problem/NN in/IN the/DT yard/NN ./.,<laughter> {C so } I'll remember that if we see it's a problem in the yard. /
+%,A,"we/PRP 're/VBP almost/RB ,/,","<breathing> we're almost, - /"
+sd,A,"they/PRP were/VBD so/RB bad/JJ last/JJ year/NN ,/, even/RB ticks/NNS ./.","<breathing> they were so bad last year, even ticks. /"
+h,A,"I/PRP do/VBP n't/RB know/VB ,/,","I don't know, /"
+sd,A,"we/PRP 've/VBP had/VBN ticks/NNS before/RB a/DT lot/NN ,/,","we've had ticks before a lot, /"
+sd,A,and/CC we/PRP 've/VBP had/VBN to/TO get/VB out/RB and/CC treat/VB our/PRP$ lawn/NN for/IN that/DT ./.,{C and } we've had to get out and treat our lawn for that. /
+sd,A,"I/PRP think/VBP we/PRP used/VBD Dursban/NNP for/IN the/DT ,/, we/PRP used/VBD Dursban/NNP and/CC Diazinon/NNP and/CC get/VB out/IN there/RB and/CC do/VB what/WP you/PRP do/VBP with/IN that/DT thing/NN ,/, you/PRP know/VBP ,/, and/CC spread/VBD it/PRP all/RB out/RP everywhere/RB ,/,","[ I think we used <noise> Dursban for the, + we used Dursban ] and Diazinon and get out there and do what you do <laughter> with that thing, {D you know, } and spread it all out everywhere, /"
+sd,A,but/CC that/DT 's/BES about/RB the/DT extent/NN of/IN our/PRP$ lawn/NN care/NN ./.,{C but } that's about the extent of our lawn care. /
+h,A,"So/RB ,/, I/PRP do/VBP n't/RB know/VB ,/,","{C So, } I don't know, /"
+qy,A,do/VBP you/PRP enjoy/VB doing/VBG it/PRP ?/.,do you enjoy doing it? /
+x,A,./.,</noise> <breathing>.
+na,B,"Oh/UH ,/, I/PRP love/VBP it/PRP ./.","{F Oh, } I love it. /"
+sd,B,My/PRP$ wife/NN ca/MD n't/RB understand/VB,My wife can't understand /
+sd,B,"it/PRP 'd/MD be/VB a/DT hundred/CD degrees/NNS outside/RB ,/, I/PRP 'll/MD be/VB out/IN there/RB ./.","it'd be a hundred degrees outside, I'll be out there. <<imitating wife's voice>> /"
+^q,B,But/CC it/PRP 's/BES too/RB hot/JJ to/TO be/VB working/VBG in/IN the/DT yard/NN ./.,{C But } it's too hot to be working in the yard. /
+x,A,./.,<Breathing>.
+^q,B,"I/PRP 'm/VBP under/IN the/DT trees/NNS ,/,","I'm under the trees, /"
+^q,B,"I/PRP 'm/VBP having/VBG fun/NN ,/,","I'm having fun, <<pause>> /"
+^q,B,"and/CC I/PRP 'm/VBP stopping/VBG to/TO drink/VB water/NN ,/,","{C and } I'm stopping to drink water, /"
+^q,B,so/RB what/WP 's/BES the/DT problem/NN ?/. ./.,{C so } what's the problem? <laughter>. /
+b,A,"Yeah/UH ,/,","<Breathing> Yeah, <noise> /"
+ba,A,"well/UH that/DT 's/BES ,/, well/UH that/DT 's/BES funny/JJ ./.","[ {D well } that's, + {D well } that's ] funny. /"
+%,A,"Yeah/UH ,/,","Yeah, /"
+sv,A,"not/RB everybody/NN enjoys/VBZ it/PRP ,/, though/RB ./.","not everybody enjoys it, though. /"
+sd,A,Everybody/NN has/VBZ a/DT different/JJ thing/NN ./.,Everybody has a different thing. /
+sd,A,I/PRP kind/RB of/RB enjoy/VBP it/PRP,I kind of enjoy it /
+sd,A,and/CC my/PRP$ husband/NN does/VBZ n't/RB ./.,{C and } my husband doesn't <laughter>. /
+%,A,"I/PRP kind/RB of/RB have/VBP to/TO ,/,","I kind of have to, <noise> - /"
+sd,A,"sometimes/RB I/PRP 'm/VBP too/RB busy/JJ to/TO get/VB out/IN there/RB and/CC do/VB it/PRP ,/,","sometimes I'm too busy to get out there and do it, /"
+sd,A,"and/CC he/PRP ,/, you/PRP know/VBP ,/, he/PRP does/VBZ n't/RB really/RB enjoy/VB doing/VBG it/PRP ,/,","{C and } [ he, + {D you know, } he ] doesn't really enjoy doing it, /"
+sd,A,"but/CC he/PRP 'll/MD do/VB it/PRP ,/,","{C but } he'll do it, /"
+sd,A,"and/CC he/PRP does/VBZ n't/RB gripe/VB about/IN it/PRP or/CC anything/NN ,/,","{C and } he doesn't gripe about it or anything, /"
+sv,A,"but/CC ,/, you/PRP know/VBP ,/, I/PRP 'm/VBP kind/RB of/RB like/IN you/PRP","{C but, } </noise> {D you know, } I'm kind of like you /"
+sv,A,and/CC he/PRP 's/BES kind/RB of/RB like/IN your/PRP$ wife/NN ./.,{C and } he's kind of like your wife. /
+sd,A,"I/PRP mean/VBP ,/, you/PRP know/VBP ,/, in/IN that/IN he/PRP does/VBZ n't/RB really/RB enjoy/VB it/PRP ,/,","{E I mean, } {D you know, } in that he doesn't really enjoy it, /"
+sd,A,"but/CC I/PRP would/MD like/VB to/TO have/VB a/DT garden/NN ,/, you/PRP know/VBP ,/,","{C but } I would like to have a garden, {D you know, } /"
+sd,A,"that/WDT 's/BES my/PRP$ thing/NN ,/,","that's my thing, <breathing> /"
+sd,A,"but/CC right/RB now/RB where/WRB we/PRP 're/VBP living/VBG we/PRP have/VBP the/DT trees/NNS where/WRB their/PRP$ ,/, uh/UH ,/, roots/NNS are/VBP at/IN the/DT top/NN of/IN the/DT ground/NN everywhere/RB over/IN the/DT ground/NN ./.","{C but } right now where we're living we have the trees where their, {F uh, } roots are at the top of the ground everywhere over the ground. /"
+sd,A,"I/PRP do/VBP n't/RB know/VB what/WDT kind/NN of/IN trees/NNS they/PRP are/VBP ,/,","I don't know what kind of trees they are, /"
+sv,A,"but/CC you/PRP ca/MD n't/RB have/VB a/DT garden/NN ,/,","{C but } <breathing> you can't have a garden, /"
+sv,A,"you/PRP ca/MD n't/RB till/VB it/PRP ,/,","you can't till it, /"
+sv,A,"or/CC it/PRP 'll/MD ,/, it/PRP 'll/MD tear/VB up/RP a/DT nice/JJ tiller/NN ./.","{C or } [ it'll, + it'll ] tear up a nice tiller <breathing>. /"
+sd,A,So/RB we/PRP 're/VBP going/VBG to/TO wait/VB until/IN we/PRP move/VBP ./.,{C So } we're going to wait until we move. /
+sd,A,"We/PRP do/VBP n't/RB have/VB a/DT lot/NN of/IN sun/NN ,/, either/RB ,/, because/IN it/PRP 's/BES big/JJ trees/NNS back/RB there/RB ./.","We don't have a lot of sun, either, because it's big trees back there. /"
+sd,A,"So/RB we/PRP 're/VBP going/VBG to/TO wait/VB ,/,","{C So } we're going to wait, /"
+sd,A,"and/CC when/WRB we/PRP move/VBP that/DT 's/BES one/CD of/IN our/PRP$ priorities/NNS ,/, is/VBZ to/TO get/VB a/DT house/NN where/WRB we/PRP can/MD have/VB a/DT ,/, uh/UH ,/, garden/NN ./.","{C and } when we move that's one of our priorities, <breathing> is to get a house where we can have a, {F uh, } garden. /"
+sd,A,And/CC so/RB I/PRP 'd/MD like/VB to/TO do/VB that/DT ./.,{C And so } I'd like to do that. /
+sd,A,"I/PRP have/VBP a/DT feeling/NN I/PRP 'll/MD be/VB out/IN there/RB all/PDT the/DT time/NN taking/VBG care/NN of/IN that/DT ,/,","I have a feeling I'll be out there all the time <laughter> taking care of that, /"
+sd,A,but/CC that/DT 's/BES our/PRP$ next/JJ thing/NN ./.,{C but } that's our next thing <smack>. /
+qy,A,Do/VBP you/PRP have/VB a/DT garden/NN ?/.,Do you have a garden? /
+%,B,"I/PRP 've/VBP got/VBN ,/, the/DT ,/,","I've got, the, - /"
+^h,B,this/DT is/VBZ the/DT neat/JJ thing/NN about/IN the/DT place/NN we/PRP ended/VBD up/RP at/IN ./.,this is the neat thing about the place we ended up at.
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"Sitting/VBG on/IN about/RB a/DT two/CD acre/NN lot/NN now/RB ,/,","Sitting on about a two acre lot now, /"
+%,B,"and/CC half/JJ of/IN it/PRP 's/BES ,/,","{C and } half of it's, - /"
+na,B,the/DT back/JJ half/NN is/VBZ my/PRP$ garden/NN ./.,the back half is my garden. /
+ba,A,"Oh/UH ,/, are/VBP you/PRP kidding/VBG ?/.","<Breathing> <noise> {F Oh, } are you kidding? /"
+ba,A,That/DT sounds/VBZ fun/JJ ./.,That sounds fun. /
+qw,A,Where/WRB do/VBP you/PRP all/DT live/VB ?/.,Where do you all live? /
+sd,B,"Uh/UH ,/, in/IN Missouri/NNP City/NNP ./.","{F Uh, } in Missouri City. /"
+b,A,"Oh/UH ,/, really/UH ,/,","{F Oh, } really, /"
+%,A,"wh-/XX ,/,","wh-, -/"
+sd,B,"Southwest/JJ ,/, southwest/JJ side/NN of/IN Houston/NNP ./.","[ Southwest, + southwest ] side of Houston. /"
+br,A,Southwest/JJ where/WRB ?/.,Southwest where? /
+sd,B,Southwest/JJ Houston/NNP ./.,Southwest Houston. /
+bh,A,"Oh/UH ,/, really/UH ?/.","{F Oh, } really? /"
+sd,A,"Oh/UH ,/, because/IN we/PRP 're/VBP in/IN Dallas/NNP ./.","{F Oh, } {C because } we're in Dallas. /"
+sd,A,I/PRP guess/VBP I/PRP assumed/VBD you/PRP were/VBD here/RB ./.,I guess I assumed you were here. /
+ba,A,"Well/UH ,/, that/DT 's/BES neat/JJ ./.","{D Well, } that's neat. /"
+%,A,"And/CC ,/, um/UH ,/, yeah/UH","{C And, } {F um, } yeah /"
+sd,A,that/DT 's/BES what/WP we/PRP want/VBP ./.,that's what we want. /
+%,A,"We/PRP have/VBP a/DT ,/,","We have a, - /"
+%,A,"yeah/UH ,/,","yeah, /"
+sd,A,"that/DT 's/BES really/RB what/WP we/PRP want/VBP ,/,","that's really what we want, /"
+sd,A,"but/CC we/PRP just/RB have/VBP n't/RB been/VBN able/JJ to/TO do/VB that/DT yet/RB ,/,","{C but } we just haven't been able to do that yet, /"
+sd,A,"so/RB one/CD day/NN we/PRP 'll/MD be/VB able/JJ to/TO do/VB it/PRP ,/,","{C so } one day we'll be able to do it, /"
+sd,A,and/CC I/PRP 'm/VBP excited/JJ about/IN it/PRP ./.,{C and } I'm excited about it. /
+sd,A,"And/CC then/RB I/PRP do/VBP n't/RB know/VB anything/NN about/IN it/PRP ,/,","{C And then } I don't know anything about it, /"
+sd,A,"I/PRP have/VBP to/TO learn/VB ,/,","I have to learn, /"
+ad,A,and/CC then/RB you/PRP 'll/MD have/VB to/TO give/VB me/PRP a/DT call/NN on/IN gardening/NN ./.,{C and then } you'll have to give me a call on gardening <laughter>. /
+x,B,./.,<Laughter>.
+qh,A,"What/WP do/VBP you/PRP do/VB in/IN your/PRP$ garden/NN ,/,","<Laughter> What do you do in your garden, /"
+sd,A,"and/CC I/PRP 'll/MD go/VB nothing/NN ,/,","{C and } I'll go nothing, /"
+qh,A,what/WP should/MD I/PRP do/VB ?/.,what should I do? /
+fc,A,"But/CC anyway/UH ,/, I/PRP guess/VBP that/DT 's/BES about/RB it/PRP though/RB ./.","{C But } <breathing> anyway, I guess that's about it though. /"
+fc,A,It/PRP sounds/VBZ like/IN we/PRP 've/VBP covered/VBN all/PDT the/DT bases/NNS,It sounds like we've covered all the bases <breathing> /
+fc,A,"so/RB I/PRP guess/VBP we/PRP 'll/MD let/VB you/PRP go/VB ,/,","{C so } I guess we'll let you go, /"
+fc,A,"and/CC ,/, um/UH ,/, do/VBP you/PRP have/VB anything/NN else/RB you/PRP wanted/VBD to/TO say/VB ?/.","{C and, } <breathing> {F um, } do you have anything else you wanted to say? /"
+fc,B,"Uh/UH ,/, no/UH ,/,","{F Uh, } no, /"
+fc,B,"it/PRP 's/BES just/RB ,/,","it's just,"
+fc,A,Okay/UH ./.,Okay. /
++,B,"I/PRP 've/VBP had/VBN an/DT en/JJ ,/, very/RB enjoyable/JJ conversation/NN with/IN you/PRP ./.","I've had an [ en-, + very enjoyable ] conversation with you. /"
+fc,A,"I/PRP know/VBP ,/, you/PRP too/RB ./.","I know, you too. /"
+fc,A,"I/PRP hope/VBP you/PRP have/VBP a/DT nice/JJ day/NN ,/,","I hope you have a nice day, /"
+fc,A,and/CC --/:,{C and } --
+fc,B,"Okay/UH ,/,","Okay, /"
+fc,B,you/PRP too/RB ./.,you too. /
++,A,--/: we/PRP 'll/MD talk/VB to/IN you/PRP later/RB ./.,-- we'll talk to you later. /
+fc,B,Okay/UH ./.,Okay. /
+fc,B,Bye/UH ./.,Bye. /
+fc,A,Bye/UH ./.,Bye. /

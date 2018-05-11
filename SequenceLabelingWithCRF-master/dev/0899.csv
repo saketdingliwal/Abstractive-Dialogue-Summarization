@@ -1,0 +1,182 @@
+act_tag,speaker,pos,text
+fp,B,Hello/UH ./.,<Throat_clearing> Hello. /
+fp,A,Hello/UH ./.,Hello. /
+fp,A,My/PRP$ name/NN is/VBZ Nola/NNP ./.,My name is Nola. /
+fp,A,"I/PRP 'm/VBP in/IN Plano/NNP ,/, Texas/NNP ./.","I'm in Plano, <<pause>> Texas. /"
+fp,B,"Hi/UH Nola/NNP ,/,","Hi Nola, /"
+fp,B,I/PRP 'm/VBP Steve/NNP ./.,I'm Steve. /
+fp,B,"I/PRP 'm/VBP in/IN Dallas/NNP ,/, Texas/NNP ./.","I'm in Dallas, Texas. /"
+sv,A,Not/RB too/RB far/RB away/RB ./.,Not too far away. /
+aa,B,"No/UH ,/,","No, /"
+sv,B,that/DT 's/BES unusual/JJ ./.,that's unusual. /
+x,A,./.,<Laughter>.
+sv,B,"Seems/NNS like/IN usually/RB ,/,","<Noise> Seems like usually, -/"
+sd,A,"I/PRP 've/VBP had/VBN some/DT from/IN Plano/NNP ,/, too/RB ./.","I've had some from Plano, too. /"
+b,B,Oh/UH yeah/UH ./.,{F Oh } yeah. <rustling> <<paper shuffling>> /
+sd,B,I/PRP think/VBP all/DT mine/JJ have/VBP been/VBN East/NNP Coast/NNP people/NNS so/RB far/RB ./.,I think all mine have been East Coast people so far <Lipsmack> <sigh>. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+b,A,Okay/UH --/:,Okay -- /
+%,B,"So/UH ,/,","{D So, } -/"
+^h,A,"--/: um/UH ,/, let/VB 's/PRP see/VB ./.","-- {F um, } let's see. /"
+sd,B,"S/JJ ,/, social/JJ changes/NNS ,/,","[ S-, + social ] changes, /"
+b,A,Social/JJ changes/NNS ./.,Social changes. /
+qw,B,what/WP 's/BES that/DT mean/VB ?/. ./.,what's that mean? <noise>. /
+sd,A,"That/DT sounds/VBZ like/IN not/RB as/IN recent/JJ social/JJ changes/NNS ,/, too/RB ,/, like/IN back/RB to/IN the/DT sixties/NNS or/CC fifties/NNS ,/, I/PRP guess/VBP ./.","That sounds like not as recent social changes, too, {D like } back to the sixties or fifties, I guess <noise>. /"
+b,B,Yeah/UH ./.,Yeah. /
+qy,A,Think/VBP we/PRP can/MD handle/VB that/DT ?/.,<Noise> Think we can handle that? /
+b,B,Yeah/UH ./.,Yeah. /
+x,A,./.,<Laughter>.
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"I/PRP definitely/RB ,/,","I definitely, - /"
+sv,B,I/PRP mean/VBP there/EX 's/BES plenty/NN of/IN things/NNS to/TO talk/VB about/IN there/RB ./.,{E I mean } there's plenty of things to talk about there. /
+%,B,"That/DT 's/BES a/DT ,/,","<noise> That's a, -/"
+b,A,"Okay/UH ,/, uh/UH ,/,","<Laughter> Okay, {F uh, } /"
+qy,A,shall/MD I/PRP go/VBP ahead/RB and/CC push/VBP one/CD ?/.,shall I go ahead and push one? /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+na,B,sure/RB ./.,sure. /
+aa,A,Okay/UH ./.,Okay <tone> <<telephone tone>>. /
+qy,A,You/PRP want/VBP to/TO go/VB ahead/RB and/CC start/VB ?/. ./.,You want to go ahead and start? <noise>. /
+sd,B,"Uh/UH ,/, I/PRP was/VBD hoping/VBG that/IN you/PRP would/MD","{F Uh, } I was hoping that you would /"
+%,B,"but/CC ,/, oh/UH ,/,","{C but, } {F oh, } -/"
+b,A,Oh/UH ./.,Oh <laughter>. /
+sd,B,"In/IN social/JJ changes/NNS is/VBZ that/DT ,/,","<Laughter> In social changes is that, - /"
+sv,B,"uh/UH ,/, it/PRP seems/VBZ to/IN me/PRP that/IN ,/, uh/UH ,/,","{F uh, } it seems to me that, {F uh, } -/"
+sv,A,That/DT involves/VBZ --/:,That involves --
+%,B,"Does/VBZ that/DT ,/,","Does that, -/"
++,A,--/: a/DT lot/NN of/IN different/JJ --/:,-- a lot of different --
+aa,B,"Y-/XX ,/,","[ Y-, +"
++,A,"--/: areas/NNS ,/, I/PRP think/VBP ./.","-- areas, I think. /"
++,B,Yeah/UH ./.,Yeah. ] /
+sv,B,"Like/IN a/DT lot/NN ,/,","Like a lot, /"
+sv,B,"it/PRP seems/VBZ like/IN the/DT rich/JJ are/VBP getting/VBG richer/JJR and/CC the/DT poor/JJ are/VBP getting/VBG poorer/JJR ,/, is/VBZ even/RB more/RBR ,/,","it seems like the rich are getting richer and the poor are getting poorer, is even more,"
+x,A,./.,<Noise>.
++,B,true/JJ today/NN ./. You/PRP know/VBP ?/.,true today. {D You know? } /
+aa,A,"Yeah/UH ,/,","<Lipsmack> Yeah, /"
+sv,A,there/EX is/VBZ a/DT --/:,there is [ a -- +
+%,B,"S-/XX ,/,","S-, -/"
++,A,"--/: a/DT big/JJ difference/NN in/IN the/DT ,/, uh/UH ,/, economic/JJ ,/, um/UH ,/, status/NN of/IN ,/, uh/UH ,/, people/NNS although/IN I/PRP think/VBP that/DT has/VBZ been/VBN true/JJ ,/, uh/UH ,/, always/RB ./.","-- a ] big difference in the, {F uh, } economic, {F um, } status of, {F uh, } people although I think that has been true, {F uh, } always. /"
+sv,A,"Um/UH ,/, perhaps/RB there/EX 's/BES less/RBR of/IN the/DT middle/JJ range/NN then/RB there/EX was/VBD ./.","{F Um, } <<pause>> perhaps there's less of the middle range then there was. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,It/PRP 's/BES like/IN people/NNS are/VBP starting/VBG to/TO give/VB up/RP hope/NN,It's like people are starting to give up hope /
+sv,B,and/CC they/PRP start/VBP out/RP very/RB poor/JJ ./.,{C and } they start out very poor. /
+^h,B,"Let/VB 's/PRP see/VB ,/,","Let's see, /"
+sv,B,that/DT 's/BES a/DT bad/JJ tangent/NN to/TO get/VB on/IN ./.,that's a bad tangent to get on. /
+qh,B,What/WP else/RB has/VBZ changed/VBN between/IN the/DT sixties/NNS and/CC the/DT eighties/NNS --/:,What else has changed between the sixties and the eighties --
+%,A,"Uh/UH ,/,","<Lipsmack> {F Uh, } /"
++,B,--/: and/CC the/DT nineties/NNS ?/.,-- and the nineties? /
+"fo_o_fw_""_by_bc",B,No/DT ./.,No. /
+sd,A,"I/PRP think/VBP ,/, uh/UH ,/, m-/PRP$ ,/, in/IN my/PRP$ situation/NN ,/,","I think, {F uh, } [ m-, + <<pause>> in my ] situation, - /"
+sd,A,I/PRP have/VBP three/CD children/NNS,I have three children /
+sd,A,"and/CC we/PRP 're/VBP ,/, uh/UH ,/, home/NN schooling/NN ./.","{C and } we're, {F uh, } home schooling. /"
+sd,A,"So/RB ,/, education/NN ,/, you/PRP know/VBP ,/, things/NNS that/WDT relate/VBP t-/IN ,/, to/IN education/NN ,/, um/UH ,/, are/VBP things/NNS that/WDT I/PRP think/VBP about/IN a/DT lot/NN ./.","{C So, } [ education, + {D you know, } things that relate [ t-, + to ] education, ] {F um, } <sigh> are things that I think about a lot. /"
+sv,A,"Um/UH ,/, I/PRP think/VBP that/DT ,/, and/CC I/PRP think/VBP that/DT involves/VBZ social/JJ changes/NNS a/DT lot/NN ./.","{F Um, } <lipsmack> [ I think that, + {C and } I think that ] involves social changes a lot. /"
+sv,A,"Uh/UH ,/, for/IN instance/NN ,/, I/PRP think/VBP the/DT schools/NNS are/VBP having/VBG more/RBR and/CC more/RBR problems/NNS because/RB of/IN ,/, uh/UH ,/, things/NNS that/WDT are/VBP happening/VBG socially/RB in/IN the/DT world/NN around/IN them/PRP and/CC in/IN ,/, in/IN ,/, t-/XX ,/, because/IN of/IN their/PRP$ parents/NNS","{F Uh, } for instance <noise>, I think the schools are having more and more problems because of, {F uh, } things that are happening socially in the world around them and [ [ in, + in, ] t-, + ] because of their parents /"
+sv,A,"and/CC things/NNS that/WDT are/VBP being/VBG taught/VBN in/IN the/DT home/NN are/VBP not/RB taught/VBN in/IN the/DT home/NN ,/, rather/RB ./. More/RBR not/RB than/IN are/VBP ./. And/CC children/NNS being/VBG put/VBN in/IN day-care/JJ centers/NNS from/IN very/RB early/JJ ,/,","{C and } things that are being taught in the home are not taught in the home, rather. More not than are. And children being put in day-care centers from very early, - /"
+sv,A,"and/CC ,/, and/CC I/PRP think/VBP that/IN a/DT lot/NN of/IN these/DT things/NNS that/WDT have/VBP been/VBN happening/VBG ,/, such/IN as/IN the/DT day-care/JJ centers/NNS and/CC things/NNS ,/, are/VBP having/VBG a/DT big/JJ effect/NN on/IN the/DT social/JJ changes/NNS ./.","[ {C and, } + {C and } ] I think that a lot of these things that have been happening, such as the day-care centers and things, are having a big effect on the social changes. /"
+sv,A,"Because/IN of/IN the/DT way/NN children/NNS are/VBP being/VBG raised/VBN ,/, they/PRP 're/VBP not/RB learning/VBG the/DT values/NNS they/PRP need/VBP to/TO learn/VB ./.","Because of the way children are being raised, they're not learning the values they need to learn. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"And/CC they/PRP 're/VBP not/RB ,/, um/UH ,/, th-/PRP ,/, they/PRP do/VBP n't/RB have/VB the/DT self-esteem/NN that/WDT they/PRP need/VBP to/TO have/VB","{C And } [ they're not, + {F um, } [ th-, + they ] don't ] have the self-esteem that they need to have /"
+sv,A,"and/CC they/PRP do/VBP n't/RB have/VB the/DT ,/, um/UH ,/, a/DT solid/JJ family/NN life/NN that/WDT they/PRP need/VBP to/TO have/VB to/TO confidently/RB and/CC deal/VB with/IN the/DT things/NNS in/IN the/DT world/NN ./.","{C and } they don't have [ the, + {F um, } a ] solid family life that they need to have to confidently [ and + ] deal with the things in the world. /"
+sv,A,"And/CC ,/, uh/UH ,/, I/PRP think/VBP we/PRP 're/VBP seeing/VBG a/DT lot/NN of/IN rebellion/NN and/CC things/NNS because/IN of/IN that/DT and/CC the/DT things/NNS like/IN the/DT gang/NN ,/, gang/NN things/NNS that/WDT are/VBP happening/VBG","{C And, } {F uh, } I think we're seeing a lot of rebellion and things because of that and the things like the [ gang, + gang ] things that are happening /"
+%,A,"and/CC ,/, and/CC ,/, um/UH ,/,","[ {C and, } + {C and, } ] {F um } <lipsmack>, -/"
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,"It/PRP seems/VBZ ,/, so/RB that/DT ,/,","It seems, so that, - /"
+%,B,"yeah/UH ,/,","yeah, /"
+sv,B,that/DT is/VBZ a/DT pretty/RB big/JJ change/NN ./.,that is a pretty big change. /
+sv,B,"It/PRP seems/VBZ ,/, even/RB not/RB just/RB single/JJ parent/NN families/NNS but/CC with/IN no/DT guidance/NN","It seems, even not just single parent families but with no guidance - /"
+sv,B,"but/CC it/PRP seems/VBZ like/IN ,/,","{C but } it seems like,"
+x,A,./.,<Noise>.
++,B,"some/DT of/IN these/DT even/JJ ladies/NNS that/WDT ,/, that/WDT 'll/MD work/VB and/CC have/VB ,/,","some of these even ladies [ that, + that'll ] work and have,"
+b,A,Yeah/UH ./.,Yeah. /
++,B,"a/DT baby/NN and/CC then/RB ,/, you/PRP know/VBP ,/, after/IN two/CD or/CC three/CD months/NNS ,/,","a baby and then, {D you know, } after two or three months,"
+x,A,./.,<Noise>.
++,B,go/VB back/RB to/TO work/VB ./.,go back to work.
+b,A,Yeah/UH ./.,Yeah. /
+%,A,"Oh/UH it/PRP 's/BES ,/,","{F Oh } it's, -/"
++,B,"You/PRP know/VBP ,/,","{D You know, } /"
+sv,B,"well/UH that/DT ,/, that/DT ,/, I/PRP mean/VBP that/DT 's/BES very/JJ ,/, young/JJ for/IN a/DT baby/NN ./.","{D well } [ [ that, + that, ] + {E I mean } that's ] very, young for a baby. /"
+sv,A,That/DT 's/BES really/RB sad/JJ ./.,That's really sad. /
+sv,A,"I/PRP think/VBP that/IN a/DT lot/NN of/IN people/NNS ,/,","I think that a lot of people, - /"
+sv,A,and/CC they/PRP think/VBP they/PRP have/VBP to/TO,{C and } they think they have to /
+%,A,"but/CC ,/,","{C but, } -/"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"I/PRP ,/, I/PRP think/VBP that/IN if/IN they/PRP really/RB tried/VBD ,/, they/PRP would/MD n't/RB have/VB to/TO ./.","[ I, + I ] think that if they really tried, they wouldn't have to. /"
+sv,A,"And/CC ,/,","{C And, }"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"I/PRP ,/, I/PRP think/VBP that/IN if/IN they/PRP did/VBD n't/RB that/DT ,/, and/CC it/PRP became/VBD more/RBR of/IN the/DT standard/NN not/RB to/IN that/DT ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB maybe/RB companies/NNS would/MD start/VB paying/VBG men/NNS more/RBR so/RB that/IN their/PRP$ wives/NNS could/MD stay/VB home/NN ./. You/PRP --/:","[ I, + I ] think that if they didn't [ that, + ] and it became more of the standard not to that, {F uh, } I don't know maybe companies would start paying men more so that their wives could stay home. {D You --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,"--/: know/VBP ?/. And/CC have/VB a/DT more/RBR solid/JJ ,/, uh/UH ,/, foundation/NN for/IN the/DT kids/NNS ./.","-- know? } And have a more solid, {F uh, } foundation for the kids. /"
+b,B,Yeah/UH ./.,<Noise> Yeah. /
+sv,B,"I/PRP mean/VBP they/PRP 're/VBP going/VBG to/IN ,/,","{E I mean } they're going to, - /"
+sv,B,"like/IN you/PRP said/VBD ,/, I/PRP mean/VBP ,/, there/EX 's/BES ,/, they/PRP might/MD be/VB saving/VBG money/NN ,/,","{D like } you said, {E I mean, } [ there's, + they might ] be saving money, /"
+sv,B,"I/PRP mean/VBP even/RB if/IN they/PRP had/VBD to/TO pay/VB more/RBR now/RB ,/, I/PRP mean/VBP in/IN the/DT long/JJ run/NN it/PRP 's/BES going/VBG to/TO cost/VB society/NN more/JJR to/TO --/:","{E I mean } even if they had to pay more now, {E I mean } in the long run it's going to cost society more to --"
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
++,B,--/: force/VB two/CD people/NNS to/TO work/VB ./. Even/RB though/IN --/:,-- force two people to work. Even though --
+sv,A,"It/PRP 's/BES already/RB ,/,","[ It's already, +"
++,B,--/: it/PRP 's/POS higher/JJR productivity/NN is/VBZ short-term/JJ ./.,-- it's higher productivity is short-term. /
++,A,It/PRP already/RB costs/VBZ society/NN much/RB more/RBR because/IN of/IN it/PRP ./.,It already ] costs society much more because of it. /
+sv,A,"You/PRP know/VBP it/PRP ,/,","{D You know } it, - /"
+sv,A,"trying/VBG to/TO do/VB all/PDT these/DT programs/NNS like/IN Headstart/NNP and/CC things/NNS like/IN those/DT ./. You/PRP would/MD n't/RB have/VB to/TO do/VB that/DT if/IN mothers/NNS would/MD stay/VB home/RB with/IN their/PRP$ children/NNS and/CC do/VB things/NNS with/IN them/PRP ,/, you/PRP know/VBP ./.","trying to do all these programs like Headstart and things like those. You wouldn't have to do that if mothers would stay home with their children and do things with them, {D you know. } /"
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"Um/UH ,/, there/EX 's/BES ,/,","{F Um, } there's, - /"
+sv,A,"and/CC I/PRP think/VBP ,/, uh/UH ,/, a/DT lot/NN of/IN it/PRP is/VBZ selfishness/NN ./.","{C and } I think, {F uh, } a lot of it is selfishness. /"
+sv,A,People/NNS have/VBP become/VBN very/RB selfish/JJ ./.,People have become very selfish. /
+sv,A,They/PRP do/VBP n't/RB want/VB to/TO stay/VB home/RB with/IN the/DT kids/NNS --/:,They don't want to stay home with the kids --
+b,B,"Y-/UH ,/, yeah/UH ./.","[ Y-, + yeah ] <breathing>. /"
++,A,--/: or/CC something/NN like/IN that/DT ./.,-- or something like that. /
+sv,A,"There/EX are/VBP a/DT lot/NN of/IN two/CD parent/NN ,/, um/UH ,/, situations/NNS where/WRB the/DT woman/NN goes/VBZ back/RB to/TO work/VB because/IN that/DT 's/BES what/WP she/PRP wants/VBZ to/TO do/VB ,/, you/PRP know/VBP ./.","There are a lot of two parent, {F um, } <noise> <<pause>> situations where the woman goes back to work because that's what she wants to do, <noise> {D you know. } /"
+^2,B,Oh/UH rather/IN than/IN she/PRP needs/VBZ the/DT money/NN --/:,{F Oh } rather than she needs the money --
+sv,A,"Rather/RB than/IN that/DT ,/,","Rather than that,"
++,B,--/: just/RB she/PRP wants/VBZ the/DT --/:,-- just she wants the --
++,A,she/PRP has/VBZ to/TO have/VB the/DT money/NN particularly/RB ./.,she has to have the money particularly. /
++,B,--/: stimulating/JJ environment/NN ./.,-- stimulating environment <noise>. /
+sv,A,"Or/CC ,/, maybe/RB there/EX 's/BES a/DT small/JJ need/NN for/IN money/NN","<Noise> {C Or, } maybe there's a small need for money /"
+sv,A,"so/RB she/PRP does/VBZ it/PRP partly/RB because/IN of/IN the/DT money/NN but/CC partly/RB for/IN herself/PRP ,/, too/RB ./.","{C so } she does it partly because of the money but partly for herself, too <noise>."
+%,B,"Huh/UH ./. It/PRP ,/,","{F Huh. } It, -/"
++,A,"You/PRP know/VBP ,/,","{D You know, } /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,B,"It/PRP 's/BES interesting/JJ how/WRB ,/, w-/XX ,/, uh/UH ,/,","It's interesting [ how, + w-, ] {F uh, } - /"
+qy,B,home/NN study/NN ./. Is/VBZ that/IN what/WP you/PRP said/VBD ?/.,home study. Is that what you said? /
+sd,A,Home/NN school/NN ./.,Home school. /
+b^m,B,Home/NN school/NN ./.,Home school. /
+aa,A,Yeah/UH ./.,<Lipsmack> Yeah. /
+qy,B,"Is/VBZ that/DT ,/, uh/UH ,/, is/VBZ ,/, is/VBZ it/PRP like/IN ,/, uh/UH ,/, a/DT preschool/NN level/NN then/RB or/CC through/IN --/:","[ Is that, + {F uh, } [ is, + is ] it ] like, {F uh, } a preschool level then or through --"
+nn,A,No/UH ./.,No. /
++,B,"--/: grade/NN school/NN or/CC ,/,","-- grade school or, -/"
+sd,A,"I/PRP ,/, I/PRP have/VBP ,/, uh/UH ,/, one/CD going/VBG into/IN fourth/JJ grade/NN and/CC one/CD starting/VBG kindergarten/NN and/CC then/RB a/DT preschooler/NN ./.","[ I + , I ] have, {F uh, } one going into fourth grade and one starting kindergarten and then a preschooler."
+%,B,"Oh/UH I/PRP s-/XX ,/,","{F Oh } I s-, -/"
++,A,And/CC one/CD on/IN the/DT way/NN ./.,And one on the way <laughter>. /
+sv,B,"Oh/UH ,/, well/UH you/PRP sound/VBP busy/JJ ./.","{F Oh, } {D well } you sound busy <laughter>. /"
+qy^d,B,"So/UH you/PRP 're/VBP teaching/VBG them/PRP ,/,","{C So } you're teaching them,"
+ny,A,Yes/UH ./.,Yes. /
++,B,"completely/RB ,/,","completely <<very faintly>>, /"
+ny,A,Yes/UH ./.,Yes. /
+b,B,Huh/UH ./.,{F Huh. } /
+sv,A,"And/CC I/PRP think/VBP ,/, uh/UH ,/, it/PRP 's/BES becoming/VBG ,/, uh/UH ,/, more/RBR popular/JJ then/RB it/PRP has/VBZ been/VBN for/IN a/DT while/NN ,/, I/PRP think/VBP ./.","{C And } I think, {F uh, } it's becoming, {F uh, } more popular then it has been for a while, I think. /"
+sd,A,Home/NN schooling/NN 's/HVS always/RB been/VBN around/RP,Home schooling's always been around /
+sd,A,"but/CC ,/, uh/UH ,/, I/PRP can/MD see/VB more/JJR and/CC more/JJR families/NNS going/VBG to/IN it/PRP because/IN of/IN the/DT problems/NNS in/IN the/DT schools/NNS ./.","{C but, } {F uh, } I can see more and more families going to it because of the problems in the schools. <noise> /"
+sv,A,"Um/UH ,/, and/CC a/DT lot/NN of/IN it/PRP is/VBZ discipline/NN problems/NNS ./.","{F Um, } {C and } a lot of it is discipline problems. /"
+b,B,Yeah/UH ./.,Yeah. /
+sv,A,"A/DT lot/NN of/IN it/PRP is/VBZ ,/,","A lot of it is, /"
+sv,A,and/CC you/PRP can/MD tell/VB which/WDT kids/NNS have/VBP been/VBN in/IN day-care/JJ centers/NNS ./.,{C and } you can tell which kids have been in day-care centers. /
+sv,A,"It/PRP ,/, it/PRP 's/BES really/RB obvious/JJ to/TO look/VB at/IN them/PRP and/CC watch/VB the/DT way/NN they/PRP act/VBP and/CC things/NNS ./.","[ It, + it's ] really obvious to look at them and watch the way they act and things."
+b,B,Yeah/UH ./.,Yeah. /
++,A,"That/DT ,/, um/UH ,/, they/PRP 've/VBP been/VBN raised/VBN in/IN a/DT day-care/JJ center/NN ./.","That, {F um, } <lipsmack> they've been raised in a day-care center. /"
+aa,B,Yeah/UH ./.,Yeah. /
+sv,B,"That/DT 's/BES pretty/RB sad/JJ because/IN ,/, I/PRP mean/VBP ,/, I/PRP do/VBP n't/RB know/VB ,/, something/NN 's/HVS got/VBN to/TO change/VB with/IN the/DT schools/NNS ./.","That's pretty sad because, {E I mean, } I don't know, something's got to change with the schools. /"
+sv,B,"That/DT 's/BES what/WP it/PRP all/DT boils/VBZ down/IN to/IN in/IN the/DT end/NN ,/, usually/RB anyway/RB ./.","That's what it all boils down to in the end, usually anyway. /"
+sv,A,"Well/UH ,/, I/PRP think/VBP it/PRP 's/BES going/VBG to/TO ,/,","<Lipsmack> {D Well, } I think it's going to,"
+bf,B,"When/WRB they/PRP 're/VBP young/JJ ,/,","When they're young, -/"
++,A,change/VB in/IN the/DT homes/NNS before/IN anything/NN --/:,change in the homes before anything --
+b,B,Yeah/UH ./.,Yeah <<very faint>>. /
++,A,--/: changes/VBZ anywhere/RB else/RB ./.,-- changes anywhere else. /
+sv,A,"The/DT home/NN is/VBZ the/DT base/NN ,/,","The home is the base, /"
+sv,A,it/PRP 's/BES the/DT basic/JJ unit/NN ./.,it's the basic unit. /
+sv,A,"And/CC that/DT 's/BES the/DT ,/, where/WRB it/PRP all/DT starts/VBZ","{C And } that's [ the, + ] where it all starts /"
+sv,A,and/CC if/IN we/PRP do/VBP n't/RB start/VB making/VBG changes/NNS in/IN the/DT homes/NNS,{C and } if we don't start making changes in the homes - /
+sv,A,and/CC maybe/RB part/NN of/IN that/WDT is/VBZ educating/VBG parents/NNS better/RB ./.,{C and } <noise> maybe part of that is educating parents better. /
+b,B,Yeah/UH ./.,Yeah. /
+%,A,"And/CC educating/VBG ,/, uh/UH ,/, you/PRP know/VBP ,/,","{C And } educating, {F uh, } {D you know } <sigh>, -/"
+bf,B,Changing/VBG people/NNS 's/POS expectations/NNS ./.,Changing people's expectations. /
+sd,A,"I/PRP know/VBP they/PRP do/VBP do/VB some/DT ,/, they/PRP do/VBP have/VB some/DT classes/NNS in/IN ,/, um/UH ,/, high/JJ schools/NNS and/CC things/NNS for/IN kids/NNS to/TO ,/, uh/UH ,/, give/VB them/PRP an/DT idea/NN of/IN what/WP family/NN life/NN is/VBZ like/IN and/CC the/DT ,/, uh/UH ,/, you/PRP know/VBP ,/, and/CC ,/, uh/UH ,/, that/DT kind/NN of/IN thing/NN","I know [ they do do some, + they do have some ] classes in, {F um, } high schools <lipsmack> and things for kids to, {F uh, } give them an idea of what <<pause>> family life is like [ and the, + {F uh, } {D you know, } and, {F uh, } that ] kind of thing /"
+%,A,"but/CC ,/, uh/UH ,/,","{C but, } {F uh, } -/"

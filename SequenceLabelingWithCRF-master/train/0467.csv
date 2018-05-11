@@ -1,0 +1,133 @@
+act_tag,speaker,pos,text
+sd,A,"Uh/UH ,/, I/PRP guess/VBP I/PRP 've/VBP always/RB kind/RB of/RB liked/VBN golf/NN ./.","{F Uh, } I guess I've always kind of liked golf. /"
+sd,A,"I/PRP ,/, I/PRP worked/VBD on/IN a/DT golf/NN course/NN at/IN ,/, at/IN one/CD time/NN","[ I, + I ] worked on a golf course [ at, + at ] one time /"
+sd,A,and/CC that/DT 's/BES how/WRB I/PRP picked/VBD up/RP golf/NN ./.,{C and } that's how I picked up golf. /
+h,A,"And/CC ,/, uh/UH ,/, I/PRP do/VBP n't/RB know/VB","{C And, } {F uh, } I don't know /"
+sv,A,"it/PRP 's/BES just/RB a/DT ,/, kind/RB of/RB a/DT challenging/JJ game/NN ./.","it's just [ a, + kind of a ] challenging game. /"
+aa,B,It/PRP sure/RB is/VBZ ./.,It sure is. /
+sd,B,I/PRP play/VBP at/IN least/JJS three/CD times/NNS a/DT week/NN ./.,I play at least three times a week. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP 'm/VBP on/IN it/PRP ,/,","I'm on it, /"
+sd,A,I/PRP have/VBP n't/RB gotten/VBN the/DT chance/NN lately/RB though/RB to/TO play/VB ./.,I haven't gotten the chance lately though to play. /
+sd,A,I/PRP 'm/VBP trying/VBG to/TO get/VB back/RB into/IN it/PRP ./.,I'm trying to get back into it. /
+sd,A,"Uh/UH ,/, so/UH ,/, uh/UH ,/, I/PRP got/VBN to/TO start/VB all/DT over/RB again/RB ./.","{F Uh, } {C so, } {F uh, } I got to start all over again. /"
+sv,A,It/PRP 's/BES not/RB like/IN riding/NN a/DT bicycle/NN ./.,It's not like riding a bicycle. /
+sv,A,"You/PRP do/VBP tend/VB to/TO ,/,","You do tend to,"
+aa,B,No/UH ./.,No. /
++,A,forget/VB ./.,forget. /
+sd,B,"Well/UH ,/, I/PRP 'm/VBP one/NN of/IN those/DT rare/JJ left-handed/JJ golfers/NNS ./.","{D Well, } I'm one of those rare left-handed golfers. /"
+b,A,Oh/UH ./.,<<Very faint>> Oh. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,And/CC I/PRP do/VBP enjoy/VB playing/VBG ./.,{C And } I do enjoy playing. /
+qw,A,What/WP is/VBZ your/PRP$ handicap/NN ?/.,<Throat_clearing> What is your handicap? /
+sd,B,Right/RB now/RB it/PRP 's/BES three/CD ./.,Right now it's three. /
+bk,A,Okay/UH ./.,Okay. /
+sd,A,"Uh/UH ,/, I/PRP was/VBD down/RB at/IN about/RB four/CD or/CC five/CD quite/RB awhile/RB ago/RB ./.","{F Uh, } I was down at about four or five quite awhile ago. /"
+sd,A,It/PRP 's/BES probably/RB up/IN there/RB to/IN twenty/CD now/RB if/IN I/PRP MUMBLEx/XX to/TO start/VB again/RB ./.,It's probably up there to twenty now if I (( )) [ to + ] start again. /
+sv,B,"Well/UH ,/, if/IN you/PRP play/VBP with/IN some/DT consistency/NN though/RB ,/, you/PRP can/MD get/VB it/PRP right/RB back/RB down/RB ./.","{D Well, } if you play with some consistency though, you can get it right back down. /"
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,A,I/PRP have/VBP got/VBN to/TO try/VB and/CC get/VB out/RB there/RB ./.,I have got to try and get out there. /
+sd,A,"I/PRP ,/, I/PRP know/VBP with/IN our/PRP$ ,/, our/PRP$ long/JJ winters/NNS I/PRP ,/, I/PRP enjoy/VBP watching/VBG it/PRP ./.","[ I, + I ] know with [ our, + our ] long winters [ I, + I ] enjoy watching it. /"
+sd,A,"I/PRP do/VBP n't/RB know/VB if/IN it/PRP 's/BES just/RB because/IN I/PRP like/VBP the/DT game/NN or/CC I/PRP just/RB like/VBP to/TO ,/, to/TO see/VB the/DT warm/JJ weather/NN ./.","I don't know if it's just because I like the game or I just like [ to, + to ] see the warm weather. /"
+sd,B,"Uh/UH ,/, well/UH ,/, we/PRP can/MD usually/RB play/VB here/RB year/NN around/RB ./.","{F Uh, } {D well, } we can usually play here year around. /"
+sd,B,Sometimes/RB in/IN January/NNP it/PRP 's/BES not/RB too/RB comfortable/JJ to/TO play/VB ./.,Sometimes in January it's not too comfortable to play. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"But/CC there/EX is/VBZ usually/RB two/CD or/CC three/CD days/NNS in/IN the/DT week/NN that/IN you/PRP can/MD get/VB out/IN there/RB and/CC play/VB ,/,","{C But } there is usually two or three days in the week that you can get out there and play, /"
+sd,B,"and/CC I/PRP 'm/VBP pretty/RB much/RB addicted/JJ to/IN golf/NN ,/,","{C and } I'm pretty much addicted to golf, /"
+sd,B,so/RB ./. I/PRP get/VB out/IN there/RB one/CD way/NN or/CC the/DT other/JJ ./.,{C so. } I get out there one way or the other. /
+b,A,"Yeah/UH ,/,","<Throat_clearing> Yeah, /"
+sd,A,that/DT 's/BES the/DT problem/NN out/IN here/RB with/IN the/DT long/JJ layovers/NNS with/IN the/DT winter/NN,that's the problem out here with the long layovers with the winter /
+sd,A,"you/PRP almost/RB have/VBP to/TO relearn/VB every/DT spring/NN to/TO ,/, to/TO get/VB back/RB out/RB ./.","you almost have to relearn every spring <laughter> [ to, + to ] get back out. /"
+sv,B,It/PRP 's/BES a/DT good/JJ game/NN though/RB ./.,It's a good game though. /
+sv,B,It/PRP 's/BES very/RB challenging/JJ,It's very challenging /
+sd,B,and/CC the/DT reason/NN I/PRP like/VBP it/PRP so/RB much/JJ is/VBZ because/IN I/PRP 'm/VBP essentially/RB playing/VBG against/IN myself/PRP ./.,{C and } the reason I like it so much is because I'm essentially playing against myself. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,That/DT 's/BES the/DT way/NN I/PRP look/VBP at/IN it/PRP ./.,That's the way I look at it. /
+sd,B,"I/PRP ,/, I/PRP play/VBP in/IN ,/, in/IN lo-/NN ,/, a/DT lot/NN of/IN groups/NNS","[ I, + I ] play [ in, + in ] [ lo-, + a lot ] of groups /"
+sd,B,"and/CC but/CC I/PRP ,/, they/PRP keep/VBP score/NN and/CC ,/, between/IN themselves/PRP","[ {C and } + {C but } ] [ I, + they ] keep score [ and, + ] between themselves /"
+sd,B,but/CC I/PRP really/RB do/VBP n't/RB care/VB ./.,{C but } I really don't care. /
+sd,B,"Um/UH ,/, I/PRP go/VBP out/RB","{F Um, } I go out /"
+sd,B,"and/CC each/DT shot/NN I/PRP say/VBP ,/, well/UH ,/, this/DT is/VBZ what/WP I/PRP 'm/VBP going/VBG to/TO try/VB to/TO do/VB --/:","{C and } each shot I say, {D well, } this is what I'm going to try to do -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,--/: and/CC then/RB I/PRP see/VBP how/WRB close/RB I/PRP can/MD come/VB to/IN that/DT ./.,-- {C and then } I see how close I can come to that. /
+aa,A,Right/UH ./.,Right. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+bf,A,you/PRP always/RB work/VBP on/IN trying/VBG to/TO improve/VB each/DT day/NN,you always work on trying to improve each day /
+%,A,"and/CC ,/,","{C and, } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"and/CC i-/RB ,/, inevitably/RB one/CD facet/NN of/IN my/PRP$ game/NN is/VBZ n't/RB working/VBG at/IN one/CD time/NN or/CC another/DT ./.","{C and } [ i-, + inevitably ] one facet of my game isn't working at one time or another. /"
+sd,B,Either/NNP I/PRP 'm/VBP not/RB driving/VBG very/RB well/RB,Either I'm not driving very well /
+sd,B,or/CC I/PRP 'm/VBP not/RB hitting/VBG long/JJ irons/NNS very/RB well/RB,{C or } I'm not hitting long irons very well /
+sd,B,or/CC I/PRP 'm/VBP not/RB putting/VBG well/RB,{C or } I'm not putting well /
+sd,B,"or/CC ,/, but/CC sometimes/RB it/PRP all/DT comes/VBZ together/RB ./.","[ {C or, } + {C but } ] sometimes it all comes together. /"
+aa,A,Yeah/UH ./.,Yeah. /
+aa,A,"Yeah/UH ,/,","Yeah, /"
+aa,A,I/PRP know/VBP what/WP you/PRP mean/VBP ./.,I know what you mean. /
+sd,A,"I/PRP ,/, when/WRB I/PRP used/VBD to/TO golf/NN out/IN there/RB I/PRP 'd/MD putt/VB well/RB but/CC I/PRP ,/, I/PRP would/MD n't/RB ,/, uh/UH ,/, chip/VB well/RB ./.","[ I, + when I ] used to golf out there I'd putt well but [ I, + I ] wouldn't, {F uh, } chip well. /"
+sd,A,"One/CD of/IN the/DT two/CD ,/, uh/UH ,/,","One of the two, {F uh, } /"
+sd,A,or/CC something/NN would/MD go/VB wrong/JJ,{C or } something would go wrong /
+sd,A,"but/CC I/PRP always/RB managed/VBD to/TO ,/, to/TO get/VB near/RB par/NN anyway/RB ./.","{C but } I always managed [ to, + to ] get near par anyway. /"
+sd,B,"Well/UH ,/, we/PRP just/RB had/VBD the/DT tour/NN championship/NN here/RB in/IN Pine/NNP Hurst/NNP ./.","{D Well, } we just had the tour championship here in Pine Hurst. /"
+b,A,Oh/UH ./.,Oh. /
+sd,B,And/CC I/PRP went/VBD to/IN that/DT ./.,{C And } I went to that. /
+sd,B,Craig/NNP Statler/NNP won/VBD in/IN a/DT playoff/NN ./.,Craig (( Statler )) won in a playoff. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+%,B,"But/CC we/PRP ,/, uh/UH ,/,","{C But } we, {F uh, } - /"
+sd,B,this/DT is/VBZ a/DT big/JJ golf/NN area/NN ./.,this is a big golf area. /
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"We/PRP have/VBP a/DT lot/NN of/IN ,/, uh/UH ,/,","We have a lot of, {F uh, } - /"
+sd,B,"I/PRP 'd/MD say/VB we/PRP probably/RB have/VBP within/IN fifteen/CD miles/NNS ,/, twenty/CD golf/NN communities/NNS built/VBN around/IN courses/NNS that/WDT are/VBP pretty/RB well/RB designed/VBN and/CC then/RB of/IN course/NN ,/, Pine/NNP Hurst/NNP","I'd say we probably have <breathing> within fifteen miles, twenty golf communities built around courses that are pretty well designed and then of course, Pine Hurst /"
+sd,B,and/CC we/PRP still/RB have/VBP the/DT Greensboro/NNP Open/NNP here/RB every/DT year/NN ./.,{C and } we still have the (( Greensboro )) Open here every year. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"Do/VBP you/PRP have/VB ,/, uh/UH ,/, long/JJ waits/NNS ,/, uh/UH ,/, to/TO get/VB on/IN the/DT course/NN ?/.","Do you have, {F uh, } long waits, {F uh, } to get on the course? /"
+ny,B,"Yes/UH ,/,","Yes, /"
+sd,B,we/PRP do/VBP as/IN a/DT matter/NN of/IN fact/NN ./.,we do as a matter of fact. /
+sd,B,"It/PRP ,/, it/PRP ,/, uh/UH ,/, it/PRP 's/HVS only/RB been/VBN that/DT way/NN in/IN the/DT last/JJ five/CD years/NNS ./.","[ [ It, + it, ] + {F uh, } it's ] only been that way in the last five years. /"
+b,A,Yeah/UH ./.,Yeah. /
+%,B,"But/CC now/RB you/PRP ,/, uh/UH ,/,","{C But } now you, {F uh, } - /"
+sd,B,"most/JJS of/IN the/DT courses/NNS have/VBP a/DT ,/, uh/UH ,/, two/CD day/NN advance/NN tee/NN time/NN you/PRP have/VBP to/TO call/VB ,/,","most of the courses have a, {F uh, } two day advance tee time you have to call, /"
+b,A,Yeah/UH ./.,Yeah. /
+b,A,Okay/UH ./.,Okay. /
+sd,A,I/PRP just/RB moved/VBD into/IN this/DT small/JJ community/NN,I just moved into this small community /
+sd,A,so/RB I/PRP 'm/VBP going/VBG to/TO try/VB and/CC get/VB into/IN one/NN of/IN the/DT golf/NN courses/NNS here/RB ./.,{C so } I'm going to try and get into one of the golf courses here. /
+x,B,./.,<Cough>.
+%,A,"I/PRP 'm/VBP hoping/VBG that/DT wo/MD n't/RB be/VB ,/,","I'm hoping that won't be,"
+x,B,./.,<Cough>.
++,A,"cou/MD ,/,","cou-, - /"
+sd,A,"I/PRP ,/,","I,"
+x,B,./.,<Cough>.
++,A,"was/VBD from/IN the/DT ,/, uh/UH ,/,","was from the, {F uh, }"
+x,B,./.,<Cough>.
++,A,twin/NNPS cities/NNPS area/NN ./.,twin cities area. /
+qy,B,"That/DT 's/BES some/DT cold/JJ golf/NN too/RB ,/, is/VBZ n't/RB it/PRP ?/.","<Cough> That's some cold golf too, isn't it? /"
+ny,A,Yeah/UH ./.,Yeah <laughter>. /
+x,B,./.,<Cough>.
+qy,A,Are/VBP you/PRP sure/JJ you/PRP guys/NNS are/VBP n't/RB having/VBG the/DT bad/JJ weather/NN ?/.,Are you sure you guys aren't having the bad weather? /
+no,B,We/PRP have/VBP cold/JJ ./.,<Cough> We have cold. /
+b,A,Yeah/UH ./.,Yeah. /
+sd,B,Usually/RB January/NNP and/CC the/DT first/JJ two/CD weeks/NNS of/IN February/NNP ./.,Usually January and the first two weeks of February. /
+ba,A,"Well/UH ,/, I/PRP wish/VBP that/DT 's/BES all/DT we/PRP had/VBD ./.","{D Well, } I wish that's all we had. /"
+sd,B,"But/CC ,/, uh/UH ,/, last/JJ week/NN we/PRP were/VBD in/IN the/DT seventies/NNS ./.","{C But, } {F uh, } last week we were in the seventies. /"
+sd,B,Something/NN is/VBZ coming/VBG through/RB now/RB,Something is coming through now /
+sd,B,so/RB it/PRP 's/BES like/UH in/IN the/DT low/JJ forties/NNS right/RB now/RB ./.,{C so } it's like in the low forties right now. /
+b,A,Oh/UH ./.,Oh. /
+sd,B,"But/CC ,/, uh/UH ,/, it/PRP 's/BES supposed/VBN to/TO leave/VB early/RB in/IN the/DT week/NN and/CC then/RB be/VB back/RB in/IN the/DT sixties/NNS ./.","{C But, } {F uh, } it's supposed to leave early in the week and then be back in the sixties. /"
+sd,B,We/PRP have/VBP very/RB windy/JJ winters/NNS --/:,We have very windy winters --
+b,A,Yeah/UH ./.,<Cough> Yeah <noise>. /
++,B,--/: and/CC very/RB cold/JJ ./.,-- <Cough> and very cold. /
+sd,B,But/CC we/PRP do/VBP n't/RB get/VB any/DT snow/NN anymore/RB ./.,{C But } we don't get any snow anymore. /
+sd,B,"I/PRP do/VBP n't/RB ,/, I/PRP do/VBP n't/RB know/VB what/WP changed/VBD that/DT pattern/NN ./.","[ I don't, + I don't ] know what changed that pattern. /"
+sd,B,We/PRP used/VBD to/TO get/VB four/CD or/CC five/CD inches/NNS a/DT year/NN ./.,We used to get four or five inches a year. /
+sd,B,Now/RB we/PRP get/VBP nothing/NN ./.,Now we get nothing. /
+sd,B,It/PRP 's/HVS been/VBN probably/RB five/CD years/NNS since/IN we/PRP 've/VBP had/VBD any/DT measurable/JJ snowfall/NN ./.,It's been probably five years since we've had any measurable snowfall. /
+b,A,I/PRP see/VBP ./.,I see. /
+sv,A,"Well/UH ,/, at/IN least/JJS it/PRP ,/, that/DT does/VBZ n't/RB ,/, uh/UH ,/, get/VB in/IN the/DT way/NN of/IN golfing/VBG","{D Well, } at least [ it, + that ] doesn't, {F uh, } get in the way of golfing /"
+%,A,"so/IN that/IN ,/,","{C so } that <noise>, -/"
+aa,B,"No/UH ,/,","No, /"
+b,A,Yeah/UH ./.,<Noise> Yeah. /
++,B,Get/VB out/RP my/PRP$ orange/JJ golf/NN ball/NN and/CC go/VB out/RB ./.,Get out my orange golf ball and go out. /
+b,A,"Yeah/UH ,/,","<Laughter> Yeah, /"
+sd,A,that/DT 's/BES what/WP they/PRP do/VBP here/RB sometimes/RB ./.,that's what they do here sometimes. /
+sd,A,You/PRP hear/VBP about/IN it/PRP where/WRB they/PRP will/MD take/VB the/DT orange/JJ ball/NN out/IN there/RB,You hear about it where they will take the orange ball out there /
+%,A,"but/CC ,/, if/IN you/PRP got/VBN ,/,","{C but, } if you got, -/"

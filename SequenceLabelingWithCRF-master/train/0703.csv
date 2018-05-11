@@ -1,0 +1,214 @@
+act_tag,speaker,pos,text
+sd,A,"I/PRP say/VBP Arlington/NNP ,/, Texas/NNP now/RB because/IN I/PRP talked/VBD one/CD night/NN to/IN somebody/NN in/IN Arlington/NNP ,/, Virginia/NNP ./.","I say Arlington, Texas now because I talked one night to somebody in Arlington, Virginia. /"
+ba,B,"Oh/UH ,/, my/UH ,/,","{F Oh, } my, /"
+%,B,yeah/UH ./.,yeah. /
+sd,B,"Well/UH ,/, and/CC Plano/NNP ,/, Texas/NNP rather/IN than/IN Plano/NNP ,/, Illinois/NNP ./.","{D Well, } and Plano, Texas rather than Plano, Illinois. /"
+qy,A,"Oh/UH ,/, do/VBP they/PRP have/VB one/CD ?/.","{F Oh, } do they have one? /"
+ny,B,"Yes/UH ,/,","Yes, /"
+sd,B,they/PRP do/VBP ./.,they do. /
+sd,A,"Oh/UH ,/, I/PRP did/VBD n't/RB know/VB that/DT ./.","{F Oh, } I didn't know that. /"
+x,B,./.,<Laughter>.
+sd,A,"Well/UH ,/, I/PRP learned/VBD something/NN already/RB ./.","{D Well, } I learned something already <laughter>. /"
+b,B,Yeah/UH ./.,Yeah. /
+^h,B,"Well/UH ,/, let/VB 's/PRP see/VB ,/,","{D Well, } let's see, /"
+%,B,"the/DT three/CD questions/NNS are/VBP what/WP ,/, uh/UH ,/,","the three questions are what, {F uh, } -/"
+qw,A,How/WRB much/JJ time/NN do/VBP you/PRP spend/VB with/IN your/PRP$ children/NNS ?/.,How much time do you spend with your children? /
+sd,B,Very/RB little/JJ ./.,Very little.
+bk,A,Oh/UH ./.,Oh <laughter>. /
++,B,Because/IN they/PRP 're/VBP grown/JJ ./.,Because they're grown. /
+br,A,What/WP ?/.,What? /
+sd,B,They/PRP 're/VBP grown/JJ and/CC gone/JJ ./.,They're grown and gone. /
+b,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,A,"well/UH ,/, mine/PRP is/VBZ ,/, uh/UH ,/, down/IN at/IN U/NNP T/NNP Austin/NNP at/IN college/NN","{D well, } mine is, {F uh, } down at U T Austin at college /"
+sd,A,and/CC the/DT other/JJ one/CD is/VBZ in/IN high/JJ school/NN ./.,{C and } the other one is in high school. /
+b,B,Huh/UH ./.,{F Huh. } /
+qy,A,So/RB you/PRP do/VBP spend/VB less/JJR time/NN then/RB ?/.,{C So } you do spend less time then? /
+ny,B,Yeah/UH --/:,Yeah -- /
+%,A,"C-/XX ,/,","C-, -/"
+sd,B,"--/: because/IN they/PRP do/VBP n't/RB want/VB to/TO know/VB ,/, they/PRP almost/RB do/VBP n't/RB want/VB to/TO know/VB us/PRP ./.","-- {C because } [ they don't want to know, + they almost don't want to know ] us. /"
+qy^d,A,They/PRP want/VBP to/TO be/VB with/IN their/PRP$ friends/NNS ./.,<Laughter> They want to be with their friends. /
+qw,A,How/WRB old/JJ are/VBP your/PRP$ kids/NNS ?/.,How old are your kids? /
+qy,A,Are/VBP they/PRP married/JJ or/CC what/WP ?/.,Are they married or what? /
+ny,B,"Uh/UH ,/, yes/UH ,/,","{F Uh, } yes, /"
+sd,B,"I/PRP have/VBP ,/, uh/UH ,/, two/CD married/JJ ,/, two/CD almo-/RB ,/, and/CC then/RB two/CD almost/RB married/JJ","I have, {F uh, } two married, [ two almo-, + {C and then } two almost ] married /"
+sd,B,"and/CC the/DT other/JJ two/CD ,/, I/PRP 'm/VBP not/RB sure/JJ ./.","{C and } the other two, I'm not sure. /"
+sd,B,"Well/UH ,/,","{D Well, }"
+x,A,./.,<Laughter>.
++,B,"Two/CD s-/XX ,/, two/CD ,/, two/CD ,/, uh/UH ,/, uh/UH ,/, for/IN sure/RB are/VBP single/JJ ./.","[ [ Two s-, + two, ] + two, ] {F uh, } {F uh, } for sure are single. /"
+sv,A,"Oh/UH ,/, boy/UH ,/, you/PRP have/VBP a/DT lot/NN of/IN kids/NNS ./.","{F Oh, } <laughter> {D boy, } you have a lot of kids. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"we/PRP have/VBP ,/, between/IN the/DT spouse/NN and/CC myself/PRP we/PRP have/VBP six/CD ./.","[ we have, + between the spouse and myself we have ] six. /"
+ba,A,"Oh/UH ,/, well/UH ,/, that/DT 's/BES kind/RB of/RB nice/JJ ,/, though/RB ./.","{F Oh, } {D well, } that's kind of nice, though. /"
+qy,A,You/PRP --/:,[ You + --
+sd,B,Because/IN I/PRP came/VBD with/IN a/DT split/JJ family/NN,{C Because } I came with a split family /
+sd,B,and/CC --/:,{C and } --
++,A,--/: you/PRP should/MD n't/RB be/VB --/:,-- you ] shouldn't be --
++,B,"--/: she/PRP had/VBD ,/,","-- she had, -/"
++,A,"--/: lonesome/JJ on/IN a/DT holiday/NN ,/, huh/UH ?/.","-- lonesome on a holiday, {F huh? } /"
+nn,B,"Well/UH ,/, no/UH ,/,","{D Well, } no, /"
+sd,B,there/EX is/VBZ so/RB much/JJ of/IN them/PRP are/VBP gone/JJ,there is so much of them are gone /
+sd,B,and/CC they/PRP 're/VBP doing/VBG their/PRP$ own/JJ things/NNS,{C and } they're doing their own things /
+sd,B,and/CC --/:,[ {C and } -- +
+aa,A,"Well/UH ,/, that/DT 's/BES true/JJ ./.","{D Well, } that's true. /"
++,B,"--/: and/CC a/DT lot/NN of/IN times/NNS they/PRP ,/, they/PRP 've/VBP got/VBN ,/, you/PRP know/VBP ,/, uh/UH ,/, when/WRB the/DT holidays/NNS ,/,","-- {C and } ] a lot of times [ they, + they've ] got, {D you know, } {F uh } <breathing>, when the holidays, -/"
+qy^d,A,"They/PRP have/VBP to/TO see/VB their/PRP$ other/JJ parent/NN ,/, I/PRP guess/VBP --/:","They have to see their other parent, I guess --"
+ny,B,Yeah/UH --/:,Yeah -- /
++,A,--/: too/RB ./.,-- too. /
+sd,B,"--/: and/CC sometimes/RB they/PRP want/VBP to/TO do/VB their/PRP$ own/JJ thing/NN ,/,","-- {C and } sometimes they want to do their own thing, /"
+sd,B,so/RB --/:,{C so } --
+ba,A,I/PRP know/VBP ./.,I know. /
++,B,--/: sometimes/RB it/PRP 's/BES just/RB spouse/NN and/CC me/PRP ./.,-- sometimes it's just spouse and me. /
+qh,B,"And/CC ,/, and/CC you/PRP know/VBP what/WP ?/.","[ {C And, } + {C and } ] you know what? /"
+qw,A,What/WP ?/.,What? /
+sd,B,Sometimes/RB that/DT 's/BES okay/JJ ./.,Sometimes that's okay. /
+ba,A,I/PRP know/VBP ./.,I know <laughter>. /
+%,B,"Because/IN ,/,","{C Because, } -/"
+sd,A,That/DT 's/BES what/WP my/PRP$ mother/NN said/VBD one/CD time/NN ./.,That's what my mother said one time. /
+b,B,"You/PRP know/VBP ,/, right/UH ,/,","{D You know, } right, /"
+qh,B,because/IN who/WP says/VBZ that/IN they/PRP just/RB must/MD got/VBN to/TO come/VB over/RB to/TO see/VB us/PRP all/PDT the/DT time/NN --/:,{C because } who says that they just must got to come over to see us all the time --
+b,A,Right/UH ./.,Right. /
++,B,--/: for/IN the/DT holidays/NNS ./.,-- for the holidays. /
+aa,A,"No/UH ,/,","No, /"
+aa,A,"that/DT 's/BES true/JJ ,/,","that's true, /"
+sv,A,"and/CC if/IN they/PRP force/VBP them/PRP to/TO ,/, you/PRP know/VBP --/:","{C and } if they force them to, {D you know } --"
+b,B,Yeah/UH ./.,Yeah. /
++,A,--/: that/DT 's/BES not/RB good/JJ either/RB ./.,-- that's not good either. /
+sv,B,That/DT becomes/VBZ a/DT drudgery/NN,That becomes a drudgery /
+qy,A,"Well/UH ,/, do/VBP they/PRP all/DT live/VB in/IN the/DT area/NN ?/.","{D Well, } do they all live in the area? /"
+na,B,"n-/XX ,/, got/VBD ,/, of/IN the/DT six/CD ,/, we/PRP 've/VBP got/VBN four/CD around/IN here/RB ./.","[ n-, got, + of the six, we've got ] four around here. /"
+b,A,"Uh-huh/UH ,/,","Uh-huh, /"
+ba,A,"oh/UH ,/, wow/UH ./.","{F oh, } wow. /"
+sd,B,"Uh/UH ,/, you/PRP know/VBP ,/, well/UH ,/, we/PRP 're/VBP talking/VBG like/IN north/JJ Texas/NNP ./.","{F Uh, } {D you know, } {D well, } we're talking like north Texas. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC then/RB ,/, one/CD is/VBZ in/IN Vermont/NNP ,/, uh/UH ,/, Montpe-/NNP ,/, Mont-/NNP ,/, Montpelier/NNP --/:","{C And then, } one is in [ Vermont, + {F uh, } [ [ [ Montpe-, + Mont-, ] + Montpelier ] + --"
+ba,A,Golly/UH ./.,Golly. /
++,B,"--/: Montpelier/NNP ,/, Vermont/NNP","-- Montpelier, ] Vermont ] /"
+sd,B,"and/CC the/DT other/JJ one/CD is/VBZ in/IN Everett/NNP ,/, Washington/NNP ./.","{C and } the other one is in Everett, Washington. /"
+qw,A,How/WRB did/VBD they/PRP end/VB up/RP so/RB far/RB away/RB ?/.,How did they end up so far away? /
+sd,B,"Well/UH ,/, that/DT is/VBZ ,/, that/DT 's/BES ,/, the/DT ,/, the/DT ,/, my/PRP$ little/JJ pair/NN ./.","<Laughter> {D Well, } [ that is, + that's, ] [ [ the, + the, ] + my ] little pair."
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,And/CC my/PRP$ second/JJ marriage/NN ./.,{C And } my second marriage. /
+%,B,"Uh/UH ,/, and/CC ,/, uh/UH ,/,","{F Uh, } {C and, } {F uh, } -/"
+qy,A,Those/DT are/VBP the/DT youngest/JJS ones/NNS ?/.,Those are the youngest ones? /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"well/UH ,/, the/DT s-/XX ,/,","{D well, } the s-, - /"
+sd,B,"the/DT ,/, the/DT ,/, the/DT ,/, the/DT fourth/JJ and/CC fifth/JJ child/NN of/IN the/DT --/:","[ [ [ the, + the, ] + the, ] + the ] fourth and fifth child [ [ of the + --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: of/IN the/DT ,/, of/IN the/DT ,/, uh/UH ,/, six/CD are/VBP the/DT two/CD that/WDT are/VBP scattered/JJ like/IN that/DT ./.","-- of the, ] + of the, ] {F uh, } six are the two that are scattered like that. /"
+sv,A,"Boy/UH ,/, that/DT 's/BES ,/, those/DT are/VBP a/DT long/JJ way/NN ./.","{D Boy, } [ that's, + those are ] a long way. /"
+sd,B,"And/CC ,/,","{C And, }"
+%,A,"How/WRB ,/,","How, -/"
++,B,"Well/UH ,/, they/PRP wanted/VBD to/TO go/VB ,/, uh/UH ,/,","{D Well, } they wanted to go, {F uh, } /"
+sd,B,"J/NNP R/NNP ,/, my/PRP$ ,/, my/PRP$ ,/, my/PRP$ last/JJ son/NN --/:","J R, [ [ [ my, + my, ] + my ] last son -- +"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,"--/: or/CC my/PRP$ middle/NN son/NN ,/, excuse/VB me/PRP ,/, fell/VBD in/IN love/NN with/IN Washington/NNP state/NN --/:","-- {E or } my middle son, ] {E excuse me, } fell in love with Washington state -- /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"--/: and/CC the/DT ,/, the/DT ,/, the/DT ,/, third/JJ daughter/NN fell/VBD in/IN love/NN with/IN ,/, uh/UH ,/, uh/UH ,/, Vermont/NNP ./.","-- {C and } [ [ the, + the, ] + the, ] third daughter fell in love with, {F uh, } {F uh, } Vermont. /"
+b^m,A,Vermont/NNP ./.,Vermont. /
+%,B,"So/UH ,/,","{C So, } -/"
+bf,A,So/RB they/PRP wanted/VBD to/TO make/VB their/PRP$ homes/NNS there/RB ./.,{C So } they wanted to make their homes there. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,that/DT 's/BES where/WRB they/PRP 've/VBP gone/VBN to/TO make/VB their/PRP$ homes/NNS ./.,that's where they've gone to make their homes. /
+ba,A,My/PRP$ goodness/NN ./.,My goodness. /
+qy,A,"Are/VBP they/PRP ,/, are/VBP those/DT two/CD married/JJ ?/.","[ Are they, + are those ] two married? /"
+nn,B,No/UH ./.,No. /
+qy,A,"They/PRP ,/, uh/UH ,/, just/RB working/VBG up/IN there/RB or/CC going/VBG to/IN school/NN or/CC what/WP ?/.","They, {F uh, } just working up there or going to school or what? /"
+^h,B,"Well/UH ,/, uh/UH ,/, let/VB 's/PRP see/VB ,/,","{D Well, } {F uh, } let's see, /"
+ny,B,"yeah/UH ,/,","yeah, /"
+sd,B,"I/PRP guess/VBP you/PRP 'd/MD say/VB J/NNP R/NNP is/VBZ working/VBG ,/, going/VBG to/IN s-/NN ,/, trying/VBG to/TO go/VB to/IN school/NN ./.","I guess you'd say J R is working, [ going to s-, + ] trying to go to school. /"
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,I/PRP wish/VBP to/IN God/NNP he/PRP would/MD go/VB back/RB ./.,I wish to God he would go back. /
+sv,A,"Oh/UH ,/, they/PRP do/VBP ./.","<Laughter> {F Oh, } they do."
+b,B,Yeah/UH ./.,Yeah. /
++,A,"Especially/RB if/IN they/PRP ,/, if/IN they/PRP 're/VBP meant/VBN to/TO ,/, I/PRP think/VBP ./.","Especially [ if they, + if they're ] meant to, I think. /"
+sd,B,"Well/UH ,/, I/PRP certainly/RB hope/VBP so/RB ./.","{D Well, } I certainly hope so. /"
+sd,A,"I/PRP mean/VBP ,/, I/PRP 've/VBP got/VBN a/DT daughter/NN that/WDT 's/BES a/DT sophomore/NN at/IN U/NNP T/NNP","{E I mean, } I've got a daughter that's a sophomore at U T /"
+sd,A,"and/CC I/PRP 'm/VBP ,/, I/PRP 'm/VBP going/VBG to/IN U/NNP T/NNP A/NNP right/RB now/RB myself/PRP","{C and } [ I'm, + I'm ] going to U T A right now myself /"
+sv,A,so/RB --/:,{C so } <laughter> --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: it/PRP 's/BES never/RB too/RB late/JJ ./.,-- it's never too late. /
+aa,B,"Well/UH ,/, it/PRP 's/BES ,/, oh/UH ,/, I/PRP agree/VBP it/PRP 's/BES never/RB too/RB late/JJ ./.","{D Well, } [ it's, + {F oh, } I agree it's ] never too late. /"
+b,A,Right/UH ./.,Right. /
+%,B,"And/CC ,/,","{C And, } -/"
+sv,A,"Especially/RB in/IN some/DT of/IN these/DT schools/NNS around/IN here/RB ,/, I/PRP think/VBP they/PRP have/VBP about/RB twenty/CD percent/NN older/JJR students/NNS ./.","Especially in some of these schools around here, I think they have about twenty percent older students. /"
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sv,B,"and/CC when/WRB you/PRP 're/VBP saying/VBG older/JJR ,/, we/PRP 're/VBP talking/VBG fifty/CD up/IN ./.","{C and } when you're saying older, we're talking fifty up. /"
+aa,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sd,A,I/PRP 've/VBP seen/VBN some/DT people/NNS that/WDT are/VBP really/RB quite/RB up/IN there/RB you/PRP know/VBP --/:,I've seen some people that are really quite up there <laughter> {D you know } --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: they/PRP look/VBP like/IN in/IN their/PRP$ very/JJ late/JJ sixties/NNS,-- they look like in their very late sixties /
+sd,A,and/CC I/PRP say/VBP --/:,{C and } I say --
+ba,B,"Oh/UH ,/, my/UH ,/,","{F Oh, } my, /"
+%,B,uh-huh/UH ./.,uh-huh. /
++,A,"--/: that/DT 's/BES great/JJ ,/, why/WRB not/RB ,/, you/PRP know/VBP ./.","-- that's great, why not, {D you know. } /"
+aa,B,"Yes/UH ,/,","Yes, /"
+sv,B,"why/WRB not/RB because/IN that/DT 's/BES a/DT ,/, a/DT lot/NN of/IN times/NNS ,/, well/UH ,/, it/PRP 's/BES ,/,","why not because that's [ a, + a ] lot of times, {D well, } it's, - /"
+sv,B,"I/PRP believe/VBP that/DT ,/, uh/UH ,/, we/PRP in/IN that/DT category/NN ,/,","I believe that, {F uh, } we in that category, - /"
+sd,B,and/CC I/PRP 'm/VBP not/RB in/IN that/DT category/NN quite/RB yet/RB --/:,{C and } I'm not in that category quite yet -- /
+aa,A,No/UH ./.,No. /
+sv,B,"--/: but/CC ,/, we/PRP are/VBP seasoned/JJ minds/NNS ./.","-- {C but, } we are seasoned minds. /"
+aa,A,"Oh/UH ,/, yeah/UH ,/,","{F Oh, } yeah, /"
+sv,A,you/PRP 're/VBP really/RB ready/JJ to/TO learn/VB finally/RB ./.,you're really ready to learn finally. /
+aa,B,"Yes/UH ,/,","Yes, /"
+aa,B,uh-huh/UH ./.,uh-huh. /
+sd,A,"I/PRP mean/VBP ,/, I/PRP do/VBP n't/RB know/VB why/WRB I/PRP even/RB went/VBD to/IN college/NN when/WRB I/PRP was/VBD seventeen/CD ./.","{E I mean, } I don't know why I even went to college when I was seventeen. /"
+b,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"it/PRP was/VBD ,/,","it was, -/"
+sv,A,It/PRP was/VBD a/DT complete/JJ waste/NN of/IN money/NN ./.,It was a complete waste of money. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+%,B,"settle/VB down/RP ,/,","settle down, - /"
+sv,B,"we/PRP know/VBP what/WP we/PRP 're/VBP wanting/VBG to/TO ,/, to/TO ,/, uh/UH ,/, study/VB","we know what we're wanting [ to, + to, ] {F uh, } study /"
+sv,B,"and/CC ,/, uh/UH --/:","{C and, } {F uh } --"
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,right/UH ./.,right. /
+%,A,"We/PRP ,/,","We, -/"
++,B,--/: we/PRP know/VBP our/PRP$ limitations/NNS ./.,-- we know our limitations. /
+aa,A,Right/UH,Right /
+%,A,"and/CC ,/, uh/UH ,/,","{C and, } {F uh, } -/"
+sv,B,And/CC we/PRP do/VBP n't/RB try/VB to/TO burn/VB the/DT candle/NN at/IN both/DT ends/NNS and/CC in/IN --/:,{C And } we don't try to burn the candle at both ends and in --
+aa,A,No/UH ./.,No. /
++,B,--/: the/DT middle/NN altogether/RB ./.,-- the middle altogether. /
+sv,A,We/PRP do/VBP n't/RB go/VB out/RB drinking/VBG beer/NN till/IN three/CD and/CC try/VB to/TO go/VB to/IN class/NN in/IN the/DT morning/NN ./.,We don't go out drinking beer till three and try to go to class in the morning <laughter>. /
+aa,B,"At/IN seven/CD ,/,","At seven, /"
+aa,B,yeah/UH ./.,yeah. /
+sv,A,"We/PRP 're/VBP past/JJ ,/, yeah/UH ,/, we/PRP 're/VBP past/IN that/DT age/NN ./.","[ We're past, + {D yeah, } we're past ] that age <laughter>. /"
+aa,B,"Yes/UH ,/,","Yes, /"
+sv,B,"we/PRP 're/VBP ,/, we/PRP 're/VBP smarter/JJR now/RB ./.","[ we're, + we're ] smarter now. /"
+sv,A,We/PRP know/VBP what/WP we/PRP can/MD do/VB ./.,We know what we can do <laughter>. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+aa,B,"right/UH ,/,","right, /"
+^h,B,"uh/UH ,/, so/RB let/VB 's/PRP see/VB ./.","{F uh, } {C so } let's see. /"
+sd,B,So/RB mine/PRP I/PRP do/VBP n't/RB spend/VB a/DT whole/JJ lot/NN of/IN time/NN because/IN they/PRP 're/VBP not/RB here/RB ./.,{C So } mine I don't spend a whole lot of time because they're not here. /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"And/CC so/RB the/DT second/JJ question/NN ,/, forgot/VBD what/WP the/DT second/JJ question/NN ,/,","<Lipsmack> {C And so } [ the second question, + forgot what the second question, ] /"
+t1,A,"What/WP was/VBD it/PRP ,/, uh/UH ,/,","What was it, {F uh, } /"
+qo,A,"h-/XX ,/, what/WP do/VBP the/DT trends/NNS in/IN families/NNS","[ h-, + what ] do the trends in families /"
+qy,A,"and/CC do/VBP we/PRP approve/VB what/WDT other/JJ ,/,","{C and } do we approve what other,"
+x,B,./.,<Breathing>.
++,A,families/NNS do/VB ./.,families do. /
+sv,B,"Well/UH ,/, uh/UH ,/, the/DT trends/NNS in/IN the/DT families/NNS were/VBD to/TO spread/VB apart/RB ,/, do/VBP your/PRP$ own/JJ thing/NN ./.","{D Well, } {F uh, } the trends in the families were to spread apart, do your own thing. /"
+aa,A,That/DT 's/BES right/JJ ./.,That's right. /
+sd,B,But/CC I/PRP have/VBP seen/VBN --/:,{C But } [ I have seen -- +
+qy,A,A/DT change/NN ?/.,A change? /
++,B,"--/: lately/RB ,/, yes/UH ,/, I/PRP am/VBP seeing/VBG ,/,","-- lately, {D yes, } [ I am seeing, +"
+sd,A,I/PRP was/VBD going/VBG to/TO say/VB the/DT same/JJ thing/NN ./.,I was going to say the same thing. /
++,B,"I/PRP 'm/VBP seeing/VBG a/DT change/NN that/WDT ,/, whoops/UH ,/, government/NN ca/MD n't/RB do/VB it/PRP ,/,","I'm seeing a ] ] change that, {D whoops, } government can't do it, /"
+sv,B,schools/NNS are/VBP --/:,schools are --
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: not/RB able/JJ to/TO --/:,-- not able to -- /
+b,A,Uh-huh/UH ./.,Uh-huh. /
+sv,B,"--/: and/CC between/IN a/DT person/NN 's/POS religion/NN ,/, uh/UH ,/, their/PRP$ ,/, their/PRP$ faith/NN in/IN their/PRP$ maker/NN --/:","-- {C and } between a person's religion, {F uh, } [ their, + their ] faith in their maker --"
+b,A,Right/UH ./.,Right. /
++,B,"--/: w-/IN ,/, whether/IN ,/, you/PRP know/VBP ,/, uh/UH ,/, whether/IN you/PRP 're/VBP Christian/JJ or/CC Jewish/JJ --/:","-- [ w-, + ] [ whether, + {D you know, } {F uh, } whether ] you're Christian or Jewish --"
+b,A,Right/UH ./.,Right. /
++,B,"--/: or/CC whatever/WP ,/, uh/UH ,/,","-- or whatever, {F uh, } - /"
+%,B,and/CC the/DT family/NN --/:,{C and } the family -- -/
+qy,A,"Are/VBP going/VBG to/TO have/VB to/TO solve/VB some/DT of/IN the/DT problem/NN ,/, huh/UH ./.","Are going to have to solve some of the problem, {F huh. } /"
+sv,B,"--/: those/DT are/VBP the/DT two/CD that/WDT can/MD ,/, that/WDT ,/, that/WDT have/VBP the/DT wherewithal/NN","-- those are the two [ [ that can, + that, ] + that have ] the wherewithal /"
+sv,B,"and/CC ,/, of/IN course/NN ,/, Judeo-Christianity/NNP ,/, uh/UH ,/, and/CC of/IN the/DT Jewish/JJ folks/NNS ,/, too/RB ,/, believe/VBP that/IN the/DT family/NN unit/NN is/VBZ the/DT one/CD that/WDT was/VBD given/VBN the/DT ,/, uh/UH ,/, uh/UH ,/, mission/NN by/IN the/DT Lord/NN --/:","{C and, } of course, Judeo-Christianity, {F uh, } and of the Jewish folks, too, believe that the family unit is the one that was given the, {F uh, } {F uh, } mission by the Lord --"
+b,A,Uh-huh/UH ./.,Uh-huh. /
++,B,--/: to/TO do/VB this/DT very/JJ thing/NN ./.,-- to do this very thing. /
+sv,B,"So/RB when/WRB another/DT group/NN of/IN ,/, of/IN ,/, uh/UH ,/, people/NNS step/VBP in/RB ,/, try/VB to/TO do/VB it/PRP ,/, they/PRP 're/VBP ,/, they/PRP 're/VBP tromping/VBG on/IN our/PRP$ territory/NN ,/, so/RB to/TO speak/VB ,/,","{C So } when another group [ of, + of, ] {F uh, } people step in, try to do it, [ they're, + they're ] tromping on our territory, so to speak, /"
+%,B,so/RB --/:,{C so } -- -/
+b,A,Oh/UH ./.,Oh. /
+sd,B,"--/: I/PRP firmly/RB believe/VBP that/DT ,/, uh/UH ,/,","-- I firmly believe that, {F uh, } /"

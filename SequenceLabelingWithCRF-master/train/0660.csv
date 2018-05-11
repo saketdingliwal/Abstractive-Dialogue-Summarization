@@ -1,0 +1,205 @@
+act_tag,speaker,pos,text
+sd,B,"Well/UH ,/, um/UH ,/, I/PRP have/VBP a/DT ,/, a/DT ,/, a/DT former/JJ exercise/NN program/NN ./.","{D Well, } {F um, } <throat_clearing> I have [ [ a, + a, ] + a ] former exercise program. /"
+sd,B,"I/PRP 'm/VBP a/DT graduate/NN student/NN ,/,","I'm a graduate student, /"
+sd,B,"and/CC this/DT semester/NN ,/, I/PRP 'll/MD tell/VB you/PRP what/WP ,/, I/PRP ,/, it/PRP 's/HVS been/VBN almost/RB impossible/JJ for/IN me/PRP to/TO get/VB ,/, you/PRP know/VBP ,/, back/RB to/IN regular/JJ exercise/NN ./.","{C and } this semester, I'll tell you what, [ I, + ] it's been almost impossible for me to get, {D you know, } back to regular exercise. /"
+sd,B,"Um/UH ,/, last/JJ summer/NN I/PRP was/VBD a/DT ,/, a/DT swim/NN instructor/NN all/DT summer/NN and/CC ,/, and/CC life/NN guard/NN ,/,","{F Um, } <throat_clearing> last summer I was [ a, + a ] swim instructor all summer [ and, + and ] life guard, /"
+sd,B,so/RB it/PRP was/VBD really/RB easy/JJ for/IN me/PRP to/TO get/VB quite/RB a/DT bit/NN of/IN exercise/NN swimming/VBG,{C so } it was really easy for me to get quite a bit of exercise swimming /
+sd,B,"and/CC ,/, um/UH ,/, and/CC since/IN I/PRP worked/VBD at/IN a/DT recreation/NN center/NN I/PRP could/MD ,/, uh/UH ,/, you/PRP know/VBP ,/, use/VB those/DT facilities/NNS quite/RB often/RB ./.","[ {C and, } + {F um, } {C and } ] since I worked at a recreation center I could, {F uh, } {D you know, } use those facilities quite often. /"
+b,B,"But/CC ,/, um/UH ./.","{C But, } {F um. } -/"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
++,A,"--/: as/RB far/RB as/IN for/IN ,/, uh/UH ,/, cardiovascular/JJ","-- as far as for, {F uh, } cardiovascular /"
+sd,A,and/CC --/:,[ {C and } -- +
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,B,and/CC there/EX 's/BES --/:,[ {C and } there's -- +
++,A,--/: and/CC it/PRP 's/BES --/:,-- {C and } ] it's --
++,B,--/: and/CC there/EX 's/BES no/DT jarring/NN on/IN the/DT ./.,-- {C and } there's ] no jarring on the. -/
++,A,"--/: least/RBS hard/JJ on/IN your/PRP$ body/NN ,/,","-- least hard on your body, /"
+%,A,"I/PRP ,/,","I, -/"
+br,B,Pardon/UH ?/.,Pardon? /
+sd,A,It/PRP 's/BES the/DT least/RBS hard/JJ on/IN your/PRP$ body/NN --/:,It's the least hard on your body --
+aa,B,"Exactly/UH ,/, yeah/UH ,/,","Exactly, yeah, /"
+%,B,"um/UH ,/, flu-/XX ,/, --/:","{F um, } flu-, -- -/"
++,A,"--/: as/RB far/RB as/IN ,/, uh/UH ,/, impact/NN","-- as far as, {F uh, } impact /"
+%,A,and/CC,{C and } -/
+b,B,"--/: yeah/UH ,/,","-- yeah, /"
+bf,B,fluid/NN resistance/NN ./.,fluid resistance. /
+aa,A,"Right/UH ,/,","Right, /"
+aa,A,right/UH ./.,right. /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+qo,B,How/WRB about/IN you/PRP ?/.,How about you? /
+sd,A,"Well/UH ,/, I/PRP do/VBP ,/, uh/UH ,/, little/JJ aerobics/NN ,/, oh/UH ,/, three/CD or/CC four/CD times/NNS a/DT week/NN ,/,","{D Well, } I do, {F uh, } little aerobics, {F oh, } three or four times a week, /"
+%,A,"but/CC it/PRP 's/BES not/RB enough/RB to/TO ,/,","{C but } it's not enough to, - /"
+sd,A,"boy/UH if/IN I/PRP go/VBP ,/, in/IN the/DT summer/NN time/NN I/PRP try/VBP to/TO jog/VB ,/, jog/VB a/DT couple/NN of/IN miles/NNS --/:","boy if I go, in the summer time I try to [ jog, + jog ] a couple of miles -- /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sd,A,"--/: and/CC ,/, uh/UH ,/, well/UH ,/, you/PRP know/VBP ,/, even/RB doing/VBG that/DT three/CD or/CC four/CD times/NNS a/DT week/NN ,/, when/WRB summer/NN hits/VBZ ,/, that/DT 's/BES a/DT hard/JJ thing/NN to/TO go/VB out/RB and/CC --/:","-- {C and, } {F uh, } {D well, } {D you know, } even doing that three or four times a week, when summer hits, that's a hard thing to go out [ and -- +"
+b,B,Yeah/UH ./.,<Laughter> Yeah. /
++,A,"--/: and/CC go/VB jogging/VBG for/IN ,/, uh/UH --/:","-- and ] go jogging for, {F uh } --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: half/JJ hour/NN or/CC so/RB ,/,","-- half hour or so, /"
+sd,A,but/CC --/:,[ {C but } -- +
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: so/RB ,/, I/PRP 'm/VBP not/RB quite/RB getting/VBG the/DT level/NN that/WDT I/PRP need/VBP to/TO ./.","-- {C so, } ] I'm not quite getting the level that I need to. /"
+b,B,Yeah/UH ./.,Yeah. /
+qy,B,"Do/VBP you/PRP ,/, do/VBP you/PRP kind/RB of/RB think/VB it/PRP 's/BES a/DT chore/NN ,/,","[ Do you, + do you ] kind of think it's a chore, /"
+qrr,B,or/CC do/VBP you/PRP enjoy/VB it/PRP ?/.,{C or } do you enjoy it? /
+na,A,I/PRP like/VBP it/PRP ./.,I like it. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"I/PRP like/VBP it/PRP ,/, uh/UH ,/,","I like it, {F uh, } /"
+sd,A,"part/NN of/IN my/PRP$ problem/NN is/VBZ I/PRP have/VBP small/JJ children/NNS ,/,","part of my problem is I have small children, /"
+sd,A,"so/RB ,/, uh/UH ,/, to/TO do/VB a/DT whole/JJ lot/NN just/RB requires/VBZ a/DT lot/NN of/IN ,/, oh/UH ,/, coordination/NN as/RB far/RB as/IN --/:","{C so, } {F uh, } to do a whole lot just requires a lot of, {F oh, } coordination as far as --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: scheduling/NN and/CC --/:,-- scheduling and --
+b,B,"Sure/UH ,/,","Sure, /"
+%,B,yeah/UH ./.,yeah. /
++,A,"--/: that/DT type/NN of/IN ,/, uh/UH ,/, deal/NN ,/, you/PRP know/VBP ,/, uh/UH ,/,","-- that type of, {F uh, } deal, {D you know, } {F uh, } /"
+x,B,,<Laughter>.
+sv,A,"Of/IN course/NN ,/, you/PRP got/VBD a/DT little/JJ different/JJ direction/NN going/VBG ,/,","Of course, you got a little different direction going, /"
+%,A,"but/CC ,/, uh/UH ./.","{C but, } {F uh. } -/"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+%,B,yeah/UH ./.,yeah. /
+sd,B,"Uh/UH ,/, I/PRP ,/, um/UH ,/, I/PRP used/VBD to/TO ,/, uh/UH ,/, I/PRP used/VBD to/TO weigh/VB ,/, uh/UH ,/, two/CD hundred/CD fifteen/CD pounds/NNS ,/,","{F Uh, } [ [ I, + {F um, } I used to, ] + {F uh, } I used to ] weigh, {F uh, } two hundred fifteen pounds, /"
+sd,B,"and/CC now/RB I/PRP weigh/VBP only/RB about/RB one/CD ,/, about/RB one/CD seventy-five/CD ./. Um/UH ,/,","{C and } now I weigh only [ about one, + about one ] seventy-five. {F Um, } /"
+sd,B,"so/RB I/PRP drastically/RB had/VBD to/TO change/VB the/DT way/NN I/PRP ate/VBD when/WRB I/PRP ,/, when/WRB I/PRP first/RB moved/VBD to/IN college/NN ,/,","<throat_clearing> {C so } I drastically had to change the way I ate [ when I, + when I ] first moved to college, /"
+sd,B,"and/CC ,/, uh/UH ,/, I/PRP had/VBD started/VBN weight/GW lifting/^VBG quite/RB regularly/RB ,/,","{C and, } {F uh, } I had started weight lifting quite regularly, /"
+sd,B,"and/CC so/RB I/PRP got/VBD my/PRP$ weight/NN down/RB ,/,","{C and so } I got my weight down, /"
+sd,B,"and/CC it/PRP 's/BES kind/RB of/RB easy/JJ for/IN me/PRP to/TO forget/VB about/IN it/PRP now/RB ,/, because/IN ,/, uh/UH ,/, you/PRP know/VBP ,/, when/WRB I/PRP 'm/VBP not/RB fat/JJ like/IN I/PRP used/VBD to/TO be/VB --/:","{C and } it's kind of easy for me to forget about it now, because, {F uh, } {D you know, } when I'm not fat like I used to be --"
+b,A,"Right/UH ,/,","Right, /"
+^2,A,you/PRP do/VBP n't/RB notice/VB it/PRP --/:,you don't notice it --
++,B,--/: I/PRP do/VBP n't/RB worry/VB about/IN it/PRP,-- I don't worry about it /
+%,B,",/, yeah/UH ./.",", yeah. /"
++,A,"--/: as/RB much/RB ,/,","-- as much, /"
+%,A,yeah/UH ./.,yeah. /
+aa,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"Although/IN lately/RB I/PRP have/VBP noticed/VBN ,/, you/PRP know/VBP ,/, even/RB if/IN I/PRP gain/VBP ,/, like/IN two/CD pounds/NNS ,/, I/PRP start/VBP ,/, I/PRP start/VBP feeling/VBG it/PRP","Although lately I have noticed, {D you know, } even if I gain, like two pounds, [ I start, + I start ] feeling it /"
+%,B,"and/CC ,/,","{C and, } -/"
+qy,A,"You/PRP feel/VBP it/PRP ,/, do/VBP n't/RB you/PRP ?/.","You feel it, don't you? /"
+ny,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,"It/PRP 's/BES amazing/JJ how/WRB ,/, uh/UH ,/, how/WRB much/JJ ,/, uh/UH ,/, it/PRP changes/VBZ ,/,","It's amazing [ how, + {F uh, } how ] much, {F uh, } it changes, /"
+sd,A,"and/CC I/PRP weigh/VBP probably/RB about/RB the/DT same/JJ I/PRP weighed/VBD for/IN ,/, oh/UH ,/, I/PRP do/VBP n't/RB know/VB how/WRB many/JJ years/NNS ,/,","{C and } I weigh probably about the same I weighed for, {F oh, } I don't know how many years, /"
+sd,A,"but/CC ,/, uh/UH ,/, it/PRP 's/HVS changed/VBN places/NNS ./.","{C but, } {F uh, } it's changed places <laughter>. /"
+x,B,,<Laughter>.
+sd,A,And/CC things/NNS do/VBP n't/RB fit/VB just/RB quite/RB exactly/RB --/:,{C And } things don't fit just quite exactly --
+b,B,Yeah/UH ./.,<Laughter> Yeah. /
++,A,--/: fit/VB the/DT same/JJ ./.,-- fit the same. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,A,"But/CC ,/, uh/UH ,/, so/RB ,/, do/VBP you/PRP do/VB ,/, uh/UH ,/,","[ {C But, } + {F uh, } {C so, } ] do you do, {F uh, } - /"
+%,A,"in/IN Texas/NNP ,/, uh/UH ,/, does/VBZ","in Texas, {F uh, } does - /"
+qy^d,A,"there/EX ,/, probably/RB quite/RB a/DT few/JJ facilities/NNS ./.","there, probably quite a few facilities. /"
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,there/EX are/VBP ./.,there are. /
+sd,B,"Um/UH ,/, I/PRP 'm/VBP living/VBG in/IN a/DT dorm/NN right/RB now/RB ,/,","{F Um, } I'm living in a dorm right now, /"
+sd,B,and/CC so/RB right/RB downstairs/RB there/EX 's/BES a/DT facility/NN ./.,{C and so } right downstairs there's a facility. /
+sd,B,"And/CC I/PRP really/RB feel/VBP kind/RB of/RB guilty/JJ for/IN not/RB working/VBG out/RP more/JJR than/IN I/PRP do/VBP because/IN there/EX 's/BES a/DT facility/NN right/RB downstairs/RB where/WRB all/DT ,/, you/PRP know/VBP ,/, all/DT we/PRP have/VBP to/TO do/VB is/VBZ ,/, is/VBZ ,/, uh/UH ,/, run/VB down/IN there/RB","{C And } I really feel kind of guilty for not working out more than I do because there's a facility right downstairs where [ all, + {D you know, } all ] we have to do [ is, + is, ] {F uh, } run down there /"
+qy,A,"Do/VBP you/PRP enjoy/VB it/PRP ,/,","Do you enjoy it, /"
+qrr,A,"or/CC is/VBZ it/PRP ,/, uh/UH ./.","{C or } is it, {F uh. } -/"
+^2,A,"If/IN you/PRP can/MD have/VB ,/, find/VB the/DT time/NN --/:","If you can [ have, + find ] the time --"
+b,B,Uh-huh/UH --/:,Uh-huh -- /
++,A,--/: it/PRP 's/BES just/RB the/DT ./.,-- it's just the. -/
+aa,B,"--/: yeah/UH ,/,","-- yeah, /"
+sd,B,"I/PRP really/RB do/VBP ,/, because/IN I/PRP like/VBP to/TO get/VB ,/, you/PRP know/VBP ,/, get/VB off/RP alone/RB and/CC just/RB do/VBP that/DT for/IN a/DT while/NN ,/,","I really do, because I like to [ get, + {D you know, } get ] off alone and just do that for a while, /"
+sd,B,"but/CC that/DT 's/BES hard/JJ ,/, you/PRP know/VBP ./.","{C but } that's hard, <laughter> {D you know. } /"
+b,A,"Yeah/UH ,/,","Yeah, /"
+sd,A,it/PRP is/VBZ hard/JJ --/:,it is hard -- /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,A,--/: it/PRP is/VBZ hard/JJ ./.,-- it is hard. /
+sv,A,"It/PRP 's/BES ,/, uh/UH ,/, like/IN anything/NN else/RB whether/IN or/CC not/RB you/PRP want/VB to/TO --/:","It's, {F uh, } like anything else whether or not you want to --"
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,--/: sacrifice/VB another/DT half/NN hour/NN ./.,-- sacrifice another half hour. /
+sd,A,My/PRP$ problem/NN is/VBZ I/PRP do/VBP n't/RB want/VB to/TO wake/VB up/RP another/DT half/NN hour/NN earlier/RBR --/:,My problem is I don't want to wake up another half hour earlier --
+aa,B,Exactly/UH ./.,Exactly. /
++,A,--/: and/CC do/VB more/JJR ./.,-- and do more <laughter>. /
+x,B,,<Laughter>.
+sd,A,"Do/VBP n't/RB get/VB enough/RB sleep/NN as/IN it/PRP is/VBZ ,/,","Don't get enough sleep as it is, /"
+^g,A,right/UH --/:,right -- /
+ny,B,"Uh-huh/UH ,/,","Uh-huh, /"
+ny,B,"yeah/UH ,/,","yeah, /"
+ny,B,yeah/UH ./.,yeah. /
+%,A,"--/: and/CC ,/, uh/UH ,/, kind/RB of/RB have/VB ,/,","-- {C and, } {F uh, } kind of have, - /"
+sv,A,"if/IN you/PRP 're/VBP having/VBG the/DT pressures/NNS of/IN school/NN and/CC ,/, uh/UH ,/, everything/NN else/RB ,/, it/PRP 's/BES kind/RB of/RB ,/,","if you're having the pressures of school and, {F uh, } everything else, it's kind of, - /"
+sv,A,"course/IN it/PRP 's/BES really/RB ,/, you/PRP know/VBP ,/,","course it's really, {D you know, } - /"
+sv,A,"as/RB soon/RB as/IN you/PRP do/VBP it/PRP ,/, it/PRP 's/BES really/RB a/DT release/NN ./.","as soon as you do it, it's really a release. /"
+b,B,"Oh/UH ,/, yeah/UH ./.","{F Oh, } yeah. /"
+sv,A,You/PRP feel/VBP invigorated/JJ,You feel invigorated /
+sv,A,and/CC you/PRP feel/VBP --/:,{C and } [ you feel + --
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: oh/UH ,/, you/PRP feel/VBP in/IN a/DT lot/NN better/JJR shape/NN --/:","-- <Inhaling> {F oh, } you feel ] in a lot better shape --"
+b,B,"Yeah/UH ,/,","Yeah, /"
+^2,B,ready/JJ to/TO go/VB another/DT twelve/CD hours/NNS ./.,ready to go another twelve hours. /
++,A,--/: just/RB like/IN eating/VBG right/JJ foods/NNS ./.,-- just like eating right foods. /
+b,B,"Yeah/UH ,/,","Yeah, /"
+b,B,yeah/UH ./.,yeah. /
+sd,A,"If/IN I/PRP eat/VBP very/RB much/JJ sugar/NN ,/, boy/UH ,/, just/RB does/VBZ something/NN ./.","If I eat very much sugar, boy, just does something. /"
+b,B,Uh-huh/UH ./.,Uh-huh. /
+qy,B,Do/VBP you/PRP have/VB to/TO watch/VB what/WP you/PRP eat/VBP pretty/RB regularly/RB ?/.,Do you have to watch what you eat pretty regularly? /
+na,A,I/PRP do/VBP ./.,I do. /
+sd,A,I/PRP have/VBP to/TO be/VB real/RB careful/JJ ./.,I have to be real careful. /
+b,B,Uh-huh/UH ./.,Uh-huh. /
+sd,B,"I/PRP stopped/VBD eating/VBG meat/NN about/RB ,/, oh/UH ,/, uh/UH ,/, must/MD have/VB been/VBN eight/CD months/NNS ago/RB ./.","I stopped eating meat about, {F oh, } {F uh, } must have been eight months ago. /"
+^g,A,Did/VBD you/PRP ?/.,Did you? /
+ny,B,"Uh-huh/UH ,/,","Uh-huh, /"
+sd,B,completely/UH ./.,completely. /
+sd,B,"I/PRP mean/VBP ,/, any/DT kind/NN of/IN meat/NN","{E I mean, } any kind of meat - /"
+sd,B,"or/CC ,/, and/CC I/PRP ,/, and/CC I/PRP really/RB feel/VBP a/DT lot/NN better/RBR now/RB ./.","[ {C or, } + {C and } ] [ I, + {C and } I ] really feel a lot better <throat_clearing> now. /"
+qy^d,A,Makes/VBZ a/DT lot/NN of/IN difference/NN ./.,Makes a lot of difference. /
+ny,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,it/PRP really/RB does/VBZ ./.,it really does. /
+sd,A,"Well/UH ,/, there/EX 's/BES a/DT lot/NN of/IN fat/NN in/IN meat/NN ./.","{D Well, } there's a lot of fat in meat. /"
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+%,B,"yeah/UH ,/,","yeah, /"
+sd,B,"that/DT 's/BES it/PRP ,/, I/PRP mean/VBP ,/, that/DT 's/BES about/RB where/WRB almost/RB all/DT of/IN the/DT fat/NN comes/VBZ from/IN --/:","[ that's it, + {E I mean, } that's ] about where almost all of the fat comes from -- /"
+b,A,Right/UH ./.,Right. /
+sd,B,--/: and/CC so/RB ./. I/PRP found/VBD that/DT really/RB helps/VBZ ./.,-- {C and so. } I found that really helps. /
+sd,A,"And/CC unless/IN you/PRP really/RB like/VBP ,/, uh/UH ,/, fish/NN ./.","{C And } unless you really like, {F uh, } fish. /"
+x,B,MUMBLEx/XX ./.,(( )) .
+sd,A,"Fish/NN is/VBZ pretty/RB good/JJ for/IN you/PRP ,/,","Fish is pretty good for you, /"
+%,A,"but/CC ,/, uh/UH ./.","{C but, } {F uh. } -/"
+b,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,"I/PRP eat/VBP that/DT ,/,","I eat that, /"
+sd,B,I/PRP think/VBP I/PRP 've/VBP eaten/VBN fish/NN like/UH twice/RB since/RB ./.,I think I've eaten fish like twice since. - /
+sd,B,"I/PRP used/VBD to/TO eat/VB a/DT lot/NN of/IN fish/NN ,/, too/RB ,/,","I used to eat a lot of fish, too, /"
+sd,B,but/CC I/PRP just/RB tried/VBD to/TO cut/VB it/PRP all/DT out/RB for/IN a/DT while/NN and/CC see/VB what/WP happens/VBZ ./.,{C but } <throat_clearing> I just tried to cut it all out for a while and see what happens. /
+^2,A,Kind/RB of/RB see/VB what/WP happens/VBZ ./.,Kind of see what happens. /
+aa,B,"Yeah/UH ,/,","Yeah, /"
+sd,B,and/CC I/PRP like/VBP it/PRP ./.,{C and } I like it. /
+sd,A,I/PRP 've/VBP tried/VBN to/TO do/VB that/DT with/IN sugar/NN,I've tried to do that with sugar /
+x,B,,<Laughter>.
+sd,B,I/PRP do/VBP n't/RB know/VB if/IN I/PRP 'm/VBP that/RB brave/JJ yet/RB ./.,<Laughter> I don't know if I'm that brave yet . /
+sv,A,--/: everything/NN has/VBZ sugar/NN in/IN it/PRP ./.,-- everything has sugar in it . /
+x,B,,<Laughter>.
+sv,A,"I/PRP mean/VBP ,/, if/IN you/PRP go/VBP ,/,","{E I mean, } if you go, - /"
+sd,A,your/PRP$ ketchup/NN has/VBZ sugar/NN in/IN it/PRP ./.,your ketchup has sugar in it. /
+b,B,"Uh-huh/UH ,/,","Uh-huh, /"
+b,B,uh-huh/UH ./.,uh-huh. /
+%,A,"Course/IN ,/,","Course, - /"
+sd,A,"and/CC I/PRP like/VBP sugar/NN ,/, too/RB ,/,","{C and } I like sugar, too, /"
+sd,A,that/DT 's/BES --/:,[ that's -- +
+b,B,Uh-huh/UH ./.,Uh-huh. /
++,A,"--/: that/DT 's/BES a/DT problem/NN ,/,","-- that's ] a problem, /"
+%,A,but/CC ./.,{C but. } -/
+x,B,,<Laughter>.
+fc,A,"Anyway/UH ,/, well/UH ,/, it/PRP 's/BES ,/, uh/UH ,/, nice/JJ talking/VBG to/IN you/PRP ./.","{D Anyway, } {D well, } it's, {F uh, } nice talking to you. /"
+fc,A,"Think/VBP we/PRP 've/VBP ,/, uh/UH ,/, covered/VBN all/PDT the/DT subject/NN ./.","Think we've, {F uh, } covered all the subject. /"
+fc,B,"Okay/UH ,/,","Okay, /"
+fc,B,"yeah/UH ,/,","yeah, /"
+fc,B,it/PRP sounds/VBZ good/JJ ./.,it sounds good. /
+fc,A,Okay/UH ./.,Okay. /
+fc,B,"Well/UH ,/, good/JJ luck/NN to/IN you/PRP there/RB in/IN Idaho/NNP ./.","{D Well, } good luck to you there in Idaho. /"
+fc,A,"Well/UH ,/, you/PRP ,/, too/RB ./.","{D Well, } you, too. /"
+fc,A,"Good/JJ luck/NN ,/, uh/UH ,/,","Good luck, {F uh, } /"
+fc,A,enjoy/VB college/NN while/IN you/PRP can/MD ./.,enjoy college while you can. /
+fc,A,"Let/VB me/PRP tell/VB you/PRP it/PRP 's/BES ,/, uh/UH ./.","Let me tell you it's, {F uh. } -/"
+fc,B,"Well/UH ,/, I/PRP 'm/VBP in/IN graduate/NN school/NN now/RB ./.","{D Well, } I'm in graduate school now. /"
+fc,B,"I/PRP ,/, I/PRP ,/, I/PRP kind/RB of/RB feel/VBP like/IN I/PRP wish/VBP I/PRP could/MD have/VB gone/VBN back/RB to/IN undergraduate/JJ now/RB ./.","[ [ I, + <throat_clearing> I, ] + I ] kind of feel like I wish I could have gone back to undergraduate now <laughter>. /"
+fc,A,"It/PRP 's/BES a/DT little/JJ different/JJ ,/, uh/UH --/:","It's a little different, {F uh } --"
+fc,B,Yeah/UH ./.,Yeah. /
++,A,"--/: challenge/NN ,/, is/VBZ n't/RB it/PRP ?/.","-- challenge, isn't it? /"
+fc,B,"Yeah/UH ,/,","Yeah, /"
+fc,B,it/PRP is/VBZ ./.,it is. /
+fc,B,"Well/UH ,/, it/PRP 's/BES good/JJ talking/VBG ,/,","{D Well, } it's good talking, /"
+fc,A,Where/WRB are/VBP you/PRP going/VBG --/:,Where are you [ going + --
+fc,B,Pardon/UH ?/.,Pardon? /
++,A,--/: studying/VBG ?/.,-- studying? ] /
+fc,B,I/PRP 'm/VBP studying/VBG speech/NN pathology/NN ./.,I'm studying speech pathology. /
+fc,A,Right/UH ./.,Right. /
