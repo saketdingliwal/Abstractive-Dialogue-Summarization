@@ -8,20 +8,37 @@ import logging
 from logging import Formatter, FileHandler
 from forms import *
 import os
-
+import conv_to_csv
+import predict_dial_tags
+import make_datafiles
+import run_summarization
+# from pointer_generator import 
 #----------------------------------------------------------------------------#
 # App Config.
 #----------------------------------------------------------------------------#
 
 app = Flask(__name__)
 app.config.from_object('config')
+my_dir = ""
+
 
 ### Load your model over here ###
-model = lambda x: x
+
+# model = lambda x: x
 
 def predict(input):
-    output = model(input)
-
+    input = "speaker:pos\n" + input
+    with open(my_dir + '0.csv','w') as file:
+        for line in input:
+            file.write(line)
+        file.write('\n')
+    conv_to_csv.run()
+    predict_dial_tags.run()
+    make_datafiles.run()
+    run_summarization.run(len(input.split()))
+    with open(my_dir + "pretrained_model/output/decoded/000000_decoded.txt",'r') as file:
+        output = file.readlines()
+    output = " ".join(output)
     return output
 
 #----------------------------------------------------------------------------#

@@ -22,11 +22,11 @@ import os
 import tensorflow as tf
 import numpy as np
 from collections import namedtuple
-# from data import Vocab
-# from batcher import Batcher
-# from model import SummarizationModel
-# from decode import BeamSearchDecoder
-# import util
+from data import Vocab
+from batcher import Batcher
+from model import SummarizationModel
+from decode import BeamSearchDecoder
+import util
 from tensorflow.python import debug as tf_debug
 
 my_dir = ""
@@ -35,7 +35,7 @@ FLAGS = tf.app.flags.FLAGS
 
 bin_file_path = my_dir + "finished_files/val.bin"
 vocab_file_path = my_dir + "finished_files/vocab"
-log_path = my_dir + "logs/"
+log_path = my_dir
 # Where to find data
 tf.app.flags.DEFINE_string('data_path', bin_file_path, 'Path expression to tf.Example datafiles. Can include wildcards to access multiple datafiles.')
 tf.app.flags.DEFINE_string('vocab_path', vocab_file_path, 'Path expression to text vocabulary file.')
@@ -269,15 +269,19 @@ def run_eval(model, batcher, vocab):
       summary_writer.flush()
 
 
-def run():
+def run(size):
   # print ((unused_argv))
   # if len(unused_argv) != 1: # prints a message if you've entered flags incorrectly
   #   raise Exception("Problem with flags: %s" % unused_argv)
 
+  FLAGS.min_dec_steps = size//4
+  FLAGS.max_dec_steps = size
+  FLAGS.max_enc_steps = size
   tf.logging.set_verbosity(tf.logging.INFO) # choose what level of logging you want
   tf.logging.info('Starting seq2seq_attention in %s mode...', (FLAGS.mode))
 
   # Change log_root to FLAGS.log_root/FLAGS.exp_name and create the dir if necessary
+  FLAGS.log_root = log_path
   FLAGS.log_root = os.path.join(FLAGS.log_root, FLAGS.exp_name)
   if not os.path.exists(FLAGS.log_root):
     if FLAGS.mode =="train":
